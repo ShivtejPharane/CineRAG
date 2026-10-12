@@ -1,0 +1,695 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": {
+            "id": 9485,
+            "name": "The Fast and the Furious Collection",
+            "poster_path": "/zOCnMPoUxgJK1RFPfN4PcnT16gr.jpg",
+            "backdrop_path": "/z5A5W3WYJc3UVEWljSGwdjDgQ0j.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.universalpictures.com/movies/fast-forever",
+        "id": 755679,
+        "imdb_id": "tt27550022",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Fast Forever",
+        "overview": "The eleventh and final installment in The Fast Saga. Plot TBA.",
+        "popularity": 22.4559,
+        "poster_path": "/xaRzhQZ3zK5lN6vEetG8PD17KPF.jpg",
+        "production_companies": [
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 1225,
+                "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+                "name": "One Race",
+                "origin_country": "US"
+            },
+            {
+                "id": 333,
+                "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+                "name": "Original Film",
+                "origin_country": "US"
+            },
+            {
+                "id": 34530,
+                "logo_path": "/5gUhbUIVYd94aIhHJJFMfBxkD0.png",
+                "name": "Perfect Storm Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2028-03-16",
+        "revenue": 0,
+        "runtime": 0,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Planned",
+        "tagline": "",
+        "title": "Fast Forever",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 12835,
+            "known_for_department": "Acting",
+            "name": "Vin Diesel",
+            "original_name": "Vin Diesel",
+            "popularity": 8.898,
+            "profile_path": "/nZdVry7lnUkE24PnXakok9okvL4.jpg",
+            "cast_id": 63,
+            "character": "Dominic Toretto",
+            "credit_id": "69c0bcf107dc41f088a2544a",
+            "order": 0
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 18865,
+            "known_for_department": "Directing",
+            "name": "Louis Leterrier",
+            "original_name": "Louis Leterrier",
+            "popularity": 2.147,
+            "profile_path": "/bpqqRRyCLeoAup2OAv1Dtm5C8Tn.jpg",
+            "credit_id": "64402ea9dd47160775814a57",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8162,
+            "known_for_department": "Writing",
+            "name": "Gary Scott Thompson",
+            "original_name": "Gary Scott Thompson",
+            "popularity": 1.0985,
+            "profile_path": "/e2dMfqFvRsOXgWZ1VToYLmos17y.jpg",
+            "credit_id": "5f8f7e5b11386c0037041f26",
+            "department": "Writing",
+            "job": "Characters"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 12835,
+            "known_for_department": "Acting",
+            "name": "Vin Diesel",
+            "original_name": "Vin Diesel",
+            "popularity": 8.898,
+            "profile_path": "/nZdVry7lnUkE24PnXakok9okvL4.jpg",
+            "credit_id": "5f8f7e14c048a900384070b5",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 90635,
+            "known_for_department": "Production",
+            "name": "Samantha Vincent",
+            "original_name": "Samantha Vincent",
+            "popularity": 0.7065,
+            "profile_path": "/fIE7uup86Dr8WBhtxWQ0rhqdMm0.jpg",
+            "credit_id": "67a8e373a32057b6fdc8dbbb",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11874,
+            "known_for_department": "Production",
+            "name": "Neal H. Moritz",
+            "original_name": "Neal H. Moritz",
+            "popularity": 1.2789,
+            "profile_path": "/xgCTFHhbQh3QyIT7ZvJGbEohzG8.jpg",
+            "credit_id": "67ba48557219674c5a467089",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1448221,
+            "known_for_department": "Writing",
+            "name": "Christina Hodson",
+            "original_name": "Christina Hodson",
+            "popularity": 0.8686,
+            "profile_path": "/2Y4wDj55n9UOEaaSwDPu9Nso0qH.jpg",
+            "credit_id": "680156df2c85e7966399871b",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1090787,
+            "known_for_department": "Writing",
+            "name": "Oren Uziel",
+            "original_name": "Oren Uziel",
+            "popularity": 1.1069,
+            "profile_path": "/3BILGAN8QXLaVYeAx9JGc2l0qgO.jpg",
+            "credit_id": "680156e691d3f65c5face7c2",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1014026,
+            "known_for_department": "Writing",
+            "name": "Zach Dean",
+            "original_name": "Zach Dean",
+            "popularity": 1.0019,
+            "profile_path": "/ywOX5ln14DqH2IafGvCYGspexIL.jpg",
+            "credit_id": "6990f71250a261c65e84fd83",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4123026,
+            "known_for_department": "Writing",
+            "name": "Aaron Rabin",
+            "original_name": "Aaron Rabin",
+            "popularity": 0.6365,
+            "profile_path": "/lpljaLDaflDOGoYZiDX5ZO37U0o.jpg",
+            "credit_id": "69bd4e6112a6d3f6469deeb1",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1273117,
+            "known_for_department": "Writing",
+            "name": "Michael Lesslie",
+            "original_name": "Michael Lesslie",
+            "popularity": 0.7785,
+            "profile_path": "/yWVeg77Pwol0ziN3ZK2zxqJ4nq8.jpg",
+            "credit_id": "69bd4e6a6fc89eb6af45f4c8",
+            "department": "Writing",
+            "job": "Writer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 9663,
+            "name": "sequel"
+        },
+        {
+            "id": 10039,
+            "name": "racing"
+        },
+        {
+            "id": 18035,
+            "name": "family"
+        },
+        {
+            "id": 286354,
+            "name": "cars"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+            "id": 385687,
+            "title": "Fast X",
+            "original_title": "Fast X",
+            "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+            "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 38.9563,
+            "release_date": "2023-05-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.985,
+            "vote_count": 6422
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+            "id": 168259,
+            "title": "Furious 7",
+            "original_title": "Furious 7",
+            "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+            "poster_path": "/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 22.7586,
+            "release_date": "2015-04-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.216,
+            "vote_count": 11401
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+            "id": 385128,
+            "title": "F9",
+            "original_title": "F9",
+            "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+            "poster_path": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                80
+            ],
+            "popularity": 9.5284,
+            "release_date": "2021-05-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.99,
+            "vote_count": 7792
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3J1FwvI0JiploGrwsIQ4MTKaW1s.jpg",
+            "id": 156717,
+            "title": "Death Race: Inferno",
+            "original_title": "Death Race: Inferno",
+            "overview": "Carl Lucas / Frankenstein has won four of his races and needs to win one more to win his freedom. Before his final race, Lucas and his team, car and all, are transferred to another prison where they will compete in a Death Race in the desert. Also, at the same time, Ceaser runs into a marketer who wants to franchise the Death Race program.",
+            "poster_path": "/aRV4oC61nmBqypSaXtMXOk99dOM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "popularity": 4.7848,
+            "release_date": "2013-01-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 846
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fS7da7VlfUcXQsZIB0KL9P5gWmh.jpg",
+            "id": 401478,
+            "title": "Death Race: Beyond Anarchy",
+            "original_title": "Death Race: Beyond Anarchy",
+            "overview": "Black Ops specialist Connor Gibson infiltrates a maximum security prison to take down legendary driver Frankenstein in a violent and brutal car race.",
+            "poster_path": "/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "popularity": 5.2396,
+            "release_date": "2018-10-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.222,
+            "vote_count": 398
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/25HepicRtrzZ3MVCqhfoxGDbHjw.jpg",
+            "id": 13804,
+            "title": "Fast & Furious",
+            "original_title": "Fast & Furious",
+            "overview": "When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O'Conner. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him. And the two men will find the best way to get revenge: push the limits of what's possible behind the wheel.",
+            "poster_path": "/lUtVoRukW7WNtUySwd8hWlByBds.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 1.8685,
+            "release_date": "2009-04-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.69,
+            "vote_count": 7909
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3IJ8kG8i84PncXkSovu0PaZQfjM.jpg",
+            "id": 337339,
+            "title": "The Fate of the Furious",
+            "original_title": "The Fate of the Furious",
+            "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+            "poster_path": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 12.5976,
+            "release_date": "2017-04-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.852,
+            "vote_count": 10903
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3hnTZNtn17IGQlgZSvOC8v0hW2b.jpg",
+            "id": 51620,
+            "title": "Death Race 2",
+            "original_title": "Death Race 2",
+            "overview": "In the world's most dangerous prison, a new game is born: Death Race. The rules of this adrenaline-fueled blood sport are simple, drive or die. When repentant convict Carl Lucas discovers there's a price on his head, his only hope is to survive a twisted race against an army of hardened criminals and tricked-out cars.",
+            "poster_path": "/80mBFNVvak2bA9TJN1MD0yM7Lfi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "popularity": 7.0808,
+            "release_date": "2010-11-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.851,
+            "vote_count": 1221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mhKQ5ntqlXyck0TWh1pCpn42aAx.jpg",
+            "id": 1217379,
+            "title": "Hellhound",
+            "original_title": "Hellhound",
+            "overview": "Ready to leave his profession behind, Loreno, an assassin, lends help to an old friend, Cetan, and taking one last job in Thailand seeking out a local kingpin. A lapse in judgment means Loreno crosses paths with old colleague Paul.",
+            "poster_path": "/f9hkaCIha8hIhRo0XXShhcosrPH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 2.6904,
+            "release_date": "2024-06-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDp29MSWa7O3ROC13r6dPTFnREJ.jpg",
+            "id": 82992,
+            "title": "Fast & Furious 6",
+            "original_title": "Fast & Furious 6",
+            "overview": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries; Dominic unexpectedly gets sidetracked with facing his presumed deceased girlfriend, Letty.",
+            "poster_path": "/thSmnRdrzPBBospIOJjLZBReqzo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 1.4682,
+            "release_date": "2013-05-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.816,
+            "vote_count": 11278
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3f5rBEc6ioRBO2CATDt4sKjEJnY.jpg",
+            "id": 278924,
+            "title": "Mechanic: Resurrection",
+            "original_title": "Mechanic: Resurrection",
+            "overview": "Arthur Bishop thought he had put his murderous past behind him when his most formidable foe kidnaps the love of his life. Now he is forced to travel the globe to complete three impossible assassinations, and do what he does best, make them look like accidents.",
+            "poster_path": "/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                12
+            ],
+            "popularity": 9.3451,
+            "release_date": "2016-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.071,
+            "vote_count": 3719
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6jOouoRad9npUjPKqjIA8faJrgv.jpg",
+            "id": 36884,
+            "title": "No Retreat, No Surrender 3: Blood Brothers",
+            "original_title": "No Retreat, No Surrender 3: Blood Brothers",
+            "overview": "Two feuding brothers of differing political views, one a policeman, the other a martial artist, join forces to avenge the death of their father, a retired agent who was brutally murdered by the mafia.",
+            "poster_path": "/3r3ENoHaOt4dUrqRKiKa3sqfMa0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "popularity": 2.9368,
+            "release_date": "1990-01-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xgZMrOPgZcy8FXFOSULoZYM6Ktd.jpg",
+            "id": 351901,
+            "title": "12 Rounds 3: Lockdown",
+            "original_title": "12 Rounds 3: Lockdown",
+            "overview": "Detective Shaw returns to active duty after the death of his partner. When he uncovers evidence linking his fellow officers to a murder, they frame him for a homicide he didn't commit. Trapped in his own precinct, Shaw will do whatever it takes to expose the dirty cops and clear his name. With twelve rounds in the clip and one shot at redemption, nothing will stand in Shaw's way in this action-packed thriller.",
+            "poster_path": "/3wAIu7q72mINXVplVnU6pMbZmQQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 3.1731,
+            "release_date": "2015-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.962,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg",
+            "id": 1410082,
+            "title": "Sniper: The Last Stand",
+            "original_title": "Sniper: The Last Stand",
+            "overview": "To stop an arms dealer from unleashing a deadly superweapon, Ace sniper Brandon Beckett and Agent Zero are deployed to Costa Verde to lead a group of elite soldiers against an unrelenting militia. Taking an untested sniper under his wing, Beckett faces his newest challenge: giving orders instead of receiving them. With both time and ammo running low in a race to save humanity, the team must overcome all odds just to survive.",
+            "poster_path": "/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 7.4037,
+            "release_date": "2025-01-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.759,
+            "vote_count": 189
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b5IB4VGjR818tTNcCLHQCIFwQmW.jpg",
+            "id": 10431,
+            "title": "War",
+            "original_title": "War",
+            "overview": "FBI agent Jack Crawford is out for revenge when his partner is killed and all clues point to the mysterious assassin Rogue. But when Rogue turns up years later to take care of some unfinished business, he triggers a violent clash of rival gangs. Will the truth come out before it's too late? And when the dust settles, who will remain standing?",
+            "poster_path": "/scFc8RD4sFxB2x0eIOaymphMnYh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 7.2205,
+            "release_date": "2007-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.409,
+            "vote_count": 2092
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+            "id": 628847,
+            "title": "Trap House",
+            "original_title": "Trap House",
+            "overview": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves – their own rebellious teenagers, who have begun robbing from a dangerous cartel, using their parents' tactics and top-secret intel to do it.",
+            "poster_path": "/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 12.1419,
+            "release_date": "2025-11-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.698,
+            "vote_count": 303
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+            "id": 1439112,
+            "title": "Muzzle: City of Wolves",
+            "original_title": "Muzzle: City of Wolves",
+            "overview": "LAPD officer Jake Rosser endeavors to lead a peaceful life with his family and retired K-9 officer, Socks. However, tranquility dissolves into chaos when a gang targets them in a brutal attack. Alongside his new K-9 partner Argos, Jake launches into a relentless pursuit of justice, determined to protect his loved ones.",
+            "poster_path": "/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                9648
+            ],
+            "popularity": 6.7243,
+            "release_date": "2025-11-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eqzCnwSw6PZjLCUIZIEGjikw6tB.jpg",
+            "id": 1211776,
+            "title": "Violent Ends",
+            "original_title": "Violent Ends",
+            "overview": "Lucas Frost, an honest man brought up in a crime family whose only legacy is violence, tries to make his own life with his fiancée, Emma. He is suddenly pulled back into the family business he so despises when his cousin, Eli, perpetrates an armed robbery on a local scrap yard and an innocent life is caught in the crossfire.",
+            "poster_path": "/9BrXyyrd5amNmpbZNc4gSblt6kQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "popularity": 2.8586,
+            "release_date": "2025-10-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.17,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jxQIjkJBTyZSxN3yyilpR0ns6HA.jpg",
+            "id": 1327690,
+            "title": "One Mile: Chapter Two",
+            "original_title": "One Mile: Chapter Two",
+            "overview": "Former special forces operative Danny is forced back onto a remote island when a violent, secretive community takes revenge by abducting his daughter Alex, launching a relentless hunt against enemies prepared for his every move.",
+            "poster_path": "/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "popularity": 8.5053,
+            "release_date": "2026-02-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.756,
+            "vote_count": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aVqKpp6ulwldIZSu160i9MTuocQ.jpg",
+            "id": 879444,
+            "title": "Accident Man: Hitman's Holiday",
+            "original_title": "Accident Man: Hitman's Holiday",
+            "overview": "The Accident Man is back, and this time he must best the top assassins in the world to protect the ungrateful son of a mafia boss, save the life of his only friend and rekindle his relationship with his maniacal father figure.",
+            "poster_path": "/8XF5EIDUOZv1p9orukdyERvv2Qn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "popularity": 4.5139,
+            "release_date": "2022-10-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.838,
+            "vote_count": 263
+        }
+    ]
+}

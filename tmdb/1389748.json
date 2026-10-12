@@ -1,0 +1,552 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/8vewGfTnn6pohbB6nbFHp0oo7N6.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documentary"
+            }
+        ],
+        "homepage": "https://npo.nl/start/serie/fryslan-dok/seizoen-15/nieuwe-ogen_6/afspelen",
+        "id": 1389748,
+        "imdb_id": null,
+        "origin_country": [
+            "NL"
+        ],
+        "original_language": "nl",
+        "original_title": "Het Laatste Fluitsignaal",
+        "overview": "In the documentary ‘Het Laatste Fluitsignaal’ supporters are closely followed during the historic last match ever at the Cambuurplein. The result is a football film without football, but with a personal story full of experience, a laugh, a curse and a tear.  Documentary maker Ivo Kraan, a Cambuur supporter himself, wanted to capture the unique atmosphere and emotions of the last match in the old stadium with ‘Het Laatste Fluitsignaal’. For him, the old Cambuur Stadium, in the middle of the residential area, is a place full of magic and solidarity. “Every two weeks, the most diverse characters come together in the stands, all with one shared passion: Cambuur.”",
+        "popularity": 7.7353,
+        "poster_path": "/uXYaFnMDyk1loHKXMkMt7jTAy4N.jpg",
+        "production_companies": [
+            {
+                "id": 148408,
+                "logo_path": "/wRn3oKQ1aNNfQSdVM36p9LoyESu.png",
+                "name": "Omrop Fryslan",
+                "origin_country": "NL"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "release_date": "2024-10-06",
+        "revenue": 0,
+        "runtime": 10,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Dutch",
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Het Laatste Fluitsignaal",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5066836,
+            "known_for_department": "Directing",
+            "name": "Ivo Kraan",
+            "original_name": "Ivo Kraan",
+            "popularity": 0.3316,
+            "profile_path": null,
+            "credit_id": "673b575bf0e974c26985fe45",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4557625,
+            "known_for_department": "Directing",
+            "name": "Jelle Tigchelaar",
+            "original_name": "Jelle Tigchelaar",
+            "popularity": 0.2332,
+            "profile_path": "/A0Xc20lI7ydLksh0KFdhYhAurlR.jpg",
+            "credit_id": "673b59d22c0b7fd2034ac8aa",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5066840,
+            "known_for_department": "Camera",
+            "name": "Willem Tiemersma",
+            "original_name": "Willem Tiemersma",
+            "popularity": 0.1071,
+            "profile_path": null,
+            "credit_id": "673b59e52c0b7fd2034ac8c3",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5066841,
+            "known_for_department": "Sound",
+            "name": "Marcel Tegelaar",
+            "original_name": "Marcel Tegelaar",
+            "popularity": 0.1587,
+            "profile_path": null,
+            "credit_id": "673b59f2e831f8aa49e34f15",
+            "department": "Sound",
+            "job": "Music"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2197343,
+            "known_for_department": "Sound",
+            "name": "Lars van Leeuwen",
+            "original_name": "Lars van Leeuwen",
+            "popularity": 0.1596,
+            "profile_path": null,
+            "credit_id": "673b5a016a02a24d7b21ad0b",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4664397,
+            "known_for_department": "Camera",
+            "name": "Matthias Leemhuis",
+            "original_name": "Matthias Leemhuis",
+            "popularity": 0.1805,
+            "profile_path": null,
+            "credit_id": "673b5a29dc4bbc01c691e88d",
+            "department": "Camera",
+            "job": "Camera Production Assistant"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 13042,
+            "name": "football (soccer)"
+        },
+        {
+            "id": 221103,
+            "name": "supporter"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/ghdI5ra7GV1Pb1lGAiJR0P3hgxA.jpg",
+            "id": 1132324,
+            "title": "Lionel Messi: Destiny",
+            "original_title": "Lionel Messi: Destiny",
+            "overview": "Behind-the-scenes documentary about how Lionel Messi succeeded in lifting the World Cup – the only trophy to have eluded him in an incredible career.",
+            "poster_path": "/xFR8Sxvb1isO5UoMIWsXGs95fdk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.9875,
+            "release_date": "2023-05-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.806,
+            "vote_count": 62
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9YznS8QtYJVllYua2vCeS2rM3WN.jpg",
+            "id": 361931,
+            "title": "Ronaldo",
+            "original_title": "Ronaldo",
+            "overview": "Filmed over 14 months with unprecedented access into the inner circle of the man and the sport, this is the first official and fully authorised film of one of the most celebrated figures in football.  For the first time ever, the world gets vividly candid and un-paralleled, behind-closed-doors access to the footballer, father, family-man and friend in this moving & fascinating documentary. Through in-depth conversations, state of the art football footage and never before seen archival footage, the film gives an astonishing insight into the sporting and personal life of triple Ballon D'Or winner Cristiano Ronaldo at the peak of his career.  From the makers of ‘Senna’ and ‘Amy’, Ronaldo takes audiences on an intimate and revealing journey of what it’s like to live as an iconic athlete in the eye of the storm.",
+            "poster_path": "/qdr6Jx39KErvSeQFVREjxeEK4lk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "popularity": 3.046,
+            "release_date": "2015-11-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.975,
+            "vote_count": 423
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ao6UU1y1fctSgcRg818W9DiBYJ0.jpg",
+            "id": 1263766,
+            "title": "The Final: Attack on Wembley",
+            "original_title": "The Final: Attack on Wembley",
+            "overview": "As England reach the final of the Euros at last, 6,000 ticketless football fans storm Wembley stadium, leaving destruction in their wake.",
+            "poster_path": "/6XQ1WAbqhBMrEB1UAEiB8Hpy5Ge.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.071,
+            "release_date": "2024-05-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.38,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/52t7nT1f117FW6gdG32DrQKxpU1.jpg",
+            "id": 1642859,
+            "title": "Iron Maiden: Burning Ambition",
+            "original_title": "Iron Maiden: Burning Ambition",
+            "overview": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
+            "poster_path": "/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "popularity": 4.9862,
+            "release_date": "2026-05-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6PB6Ah7QG4MJwnCcfm8GKvrPRIH.jpg",
+            "id": 343981,
+            "title": "Gascoigne",
+            "original_title": "Gascoigne",
+            "overview": "A feature length, theatrical documentary on the life of Paul Gascoigne, one of the greatest footballers that ever lived: delving deep into his psyche, vulnerabilities, fears and triumphs.",
+            "poster_path": "/nnac1OwNpcdtQzHs7nhk5AtiJfC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.2094,
+            "release_date": "2015-06-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.34,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eoAvHxfbaPOcfiQyjqypWIXWxDr.jpg",
+            "id": 1059673,
+            "title": "Avatar: The Deep Dive - A Special Edition of 20/20",
+            "original_title": "Avatar: The Deep Dive - A Special Edition of 20/20",
+            "overview": "An inside look at one of the most anticipated movie sequels ever with James Cameron and cast.",
+            "poster_path": "/pzZGqIyrrSqIfrkPLJnN1tvCGnV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.0162,
+            "release_date": "2022-12-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rJMzSM1cga0NWwwh67EUFE3IJ8E.jpg",
+            "id": 253292,
+            "title": "Harmontown",
+            "original_title": "Harmontown",
+            "overview": "A comedic, brutally honest documentary following self-destructive TV writer Dan Harmon as he takes his live podcast on a national tour.",
+            "poster_path": "/5HlxDzy3LZ26r5as5pLX7jYVcyC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.3642,
+            "release_date": "2014-03-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.605,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+            "id": 1723460,
+            "title": "A Toxic Love Story",
+            "original_title": "A Toxic Love Story",
+            "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+            "poster_path": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 11.9795,
+            "release_date": "2026-07-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lFb1Ey6HqCdc2D74Zt5kr7EpQKT.jpg",
+            "id": 536841,
+            "title": "Diego Maradona",
+            "original_title": "Diego Maradona",
+            "overview": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the personal life and career of the controversial football player Diego Maradona who played for SSC Napoli and Argentina in the 1980s.",
+            "poster_path": "/3eBZxi0xcXBnEYq4m4YTVf0eHWX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.9015,
+            "release_date": "2019-06-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.409,
+            "vote_count": 439
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rSuqSerMzqMtgX7fX50Hl55ficF.jpg",
+            "id": 1492608,
+            "title": "John Candy: I Like Me",
+            "original_title": "John Candy: I Like Me",
+            "overview": "Those who knew iconic funnyman John Candy best share his story, in their own words, through never-before-seen archival footage, imagery, and interviews.",
+            "poster_path": "/mNEJdx9WSXeyMmkuQfTeY4zouNx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 5.5937,
+            "release_date": "2025-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.872,
+            "vote_count": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rZhenUlFlwwoLTyVRUV1kFVV0c6.jpg",
+            "id": 1477565,
+            "title": "Trainwreck: The Real Project X",
+            "original_title": "Trainwreck: The Real Project X",
+            "overview": "A night of drunken chaos rocks a quiet Dutch town in this shocking documentary about a teen's birthday invite that accidentally went viral on Facebook.",
+            "poster_path": "/p6NQOlvAcdK6VJ4CoZMzLUQLtfL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 7.1328,
+            "release_date": "2025-07-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.888,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l1C0dtWshyoIdEeUbNQyX2B9GUG.jpg",
+            "id": 39333,
+            "title": "180° South",
+            "original_title": "180° South",
+            "overview": "The film follows adventurer Jeff Johnson as he retraces the epic 1968 journey of his heroes Yvon Chouinard and Doug Tompkins to Patagonia.",
+            "poster_path": "/jLvxcvpEbQ1bRETJZ3NlKpjQuLC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.5531,
+            "release_date": "2010-02-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/spgZcy2k1SSjnvBGONXKMxQWXhC.jpg",
+            "id": 193645,
+            "title": "Seduced and Abandoned",
+            "original_title": "Seduced and Abandoned",
+            "overview": "SEDUCED AND ABANDONED combines acting legend Alec Baldwin with director James Toback as they lead us on a troublesome and often hilarious journey of raising financing for their next feature film. Moving from director to financier to star actor, the two players provide us with a unique look behind the curtain at the world's biggest and most glamourous film festival, shining a light on the bitter-sweet relationship filmmakers have with Cannes and the film business. Featuring insights from directors Martin Scorsese, 'Bernando Bertolucci' and Roman Polanski; actors Ryan Gosling and Jessica Chastain and a host of film distribution luminaries.",
+            "poster_path": "/gaXPdoGRurNLgfyRrUDKsa95fYa.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.3875,
+            "release_date": "2013-05-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.206,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/L1SI8EU71ZpJbQQZxkOSSfZ75j.jpg",
+            "id": 240629,
+            "title": "The Class of ‘92",
+            "original_title": "The Class of ‘92",
+            "overview": "A detailing of the rise to prominence and global sporting superstardom of six supremely talented young Manchester United football players (David Beckham, Nicky Butt, Ryan Giggs, Paul Scholes, Phil and Gary Neville). The film covers the period 1992-1999, culminating in Manchester United's European Cup triumph.",
+            "poster_path": "/v2dnvfpYBG81cegENM7Sd6tgshB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.4598,
+            "release_date": "2013-12-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sS3jaC2SXoeYmjAuqPeoeelPZqP.jpg",
+            "id": 58496,
+            "title": "Senna",
+            "original_title": "Senna",
+            "overview": "The remarkable story of Brazilian racing driver Ayrton Senna, charting his physical and spiritual achievements on the track and off, his quest for perfection, and the mythical status he has since attained, is the subject of Senna, a documentary feature that spans the racing legend's years as an F1 driver, from his opening season in 1984 to his untimely death a decade later.",
+            "poster_path": "/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 4.3655,
+            "release_date": "2010-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.111,
+            "vote_count": 1212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Bcm0qBnS6yjwTFad8eI6thzRub.jpg",
+            "id": 869250,
+            "title": "Being James Bond",
+            "original_title": "Being James Bond",
+            "overview": "Daniel Craig candidly reflects on his 15 year adventure as James Bond. Including never-before-seen archival footage from Casino Royale to the upcoming 25th film No Time To Die, Craig shares his personal memories in conversation with 007 producers, Michael G Wilson and Barbara Broccoli.",
+            "poster_path": "/kKG9gieki5wgEcVXLfnX1lbOcrO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.399,
+            "release_date": "2021-08-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.766,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5lZXIkRpOJICbWYJgImdbZ1vWx6.jpg",
+            "id": 1591516,
+            "title": "Evil Influencer: The Jodi Hildebrandt Story",
+            "original_title": "Evil Influencer: The Jodi Hildebrandt Story",
+            "overview": "Unravel the case of Utah therapist Jodi Hildebrandt, whose child abuse arrest with parenting YouTuber Ruby Franke exposed a twisted tale of manipulation.",
+            "poster_path": "/xCawp08whOaJS434IDlBytX7sSm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.9307,
+            "release_date": "2025-12-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.22,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "id": 325365,
+            "title": "Dawg Fight",
+            "original_title": "Dawg Fight",
+            "overview": "In a crime-plagued neighborhood near Miami, brutal, bare-knuckled backyard fights give young men a chance to earn money -- and self-respect.",
+            "poster_path": "/thgvd0tjDLJvTVx4BaZjfQAC7yK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.6614,
+            "release_date": "2015-03-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nPqDbXYaMhR2XKQ9IU8bkX7YgO7.jpg",
+            "id": 217316,
+            "title": "1",
+            "original_title": "1",
+            "overview": "Set in the golden era of Grand Prix Racing '1' tells the story of a generation of charismatic drivers who raced on the edge, risking their lives during Formula 1's deadliest period, and the men who stood up and changed the sport forever.",
+            "poster_path": "/nIHvkb3M1B9TnaiaABsfTzmFMYP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.712,
+            "release_date": "2013-09-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.624,
+            "vote_count": 368
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
+            "id": 1445363,
+            "title": "EPiC: Elvis Presley in Concert",
+            "original_title": "EPiC: Elvis Presley in Concert",
+            "overview": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+            "poster_path": "/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                99
+            ],
+            "popularity": 4.3194,
+            "release_date": "2026-02-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 92
+        }
+    ]
+}

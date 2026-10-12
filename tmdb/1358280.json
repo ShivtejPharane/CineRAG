@@ -1,0 +1,616 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/vQwcD7AQFiD57efxBHbRpyU9ykM.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 1358280,
+        "imdb_id": "tt32881248",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Taboo: Family Secrets",
+        "overview": "A family is fractured by Lukas, the patriarch, and his ongoing infidelities. When the son Tyler comes home for a visit, a taboo passion between him and his stepmother Amanda blossoms, changing the family dynamics forever. The allegiances and expectations shift radically as the truth is revealed.",
+        "popularity": 18.3274,
+        "poster_path": "/xatpxQfUVblKveWHXNOidaNg4ju.jpg",
+        "production_companies": [
+            {
+                "id": 18656,
+                "logo_path": "/39IXbSAetEdkeTMrU3GrTAybbk0.png",
+                "name": "Breaking Glass Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2024-10-22",
+        "revenue": 0,
+        "runtime": 95,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Taboo: Family Secrets",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 9
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 36055,
+            "known_for_department": "Acting",
+            "name": "Costas Mandylor",
+            "original_name": "Costas Mandylor",
+            "popularity": 2.2971,
+            "profile_path": "/yPkQdbhCj2EJM0cjDtkuJTlFp86.jpg",
+            "cast_id": 1,
+            "character": "Lukas",
+            "credit_id": "66eac3ed1beca8ce07d36c87",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 116881,
+            "known_for_department": "Acting",
+            "name": "Deborah Twiss",
+            "original_name": "Deborah Twiss",
+            "popularity": 2.1203,
+            "profile_path": "/gg4xoBRej4WcgN5bm4UUPy5g01c.jpg",
+            "cast_id": 2,
+            "character": "Amanda",
+            "credit_id": "66eac50b82ff873f7d1f4456",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3328397,
+            "known_for_department": "Acting",
+            "name": "Staffan Edenholm",
+            "original_name": "Staffan Edenholm",
+            "popularity": 0.3678,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "Tyler",
+            "credit_id": "66eac521b2917eb1800b849f",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4949204,
+            "known_for_department": "Acting",
+            "name": "Ashley Westover",
+            "original_name": "Ashley Westover",
+            "popularity": 0.346,
+            "profile_path": "/7yRgjWCtw38hK4Y1MEVM7WXc845.jpg",
+            "cast_id": 4,
+            "character": "Jillie",
+            "credit_id": "66eac5381beca8ce07d36e85",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 181250,
+            "known_for_department": "Acting",
+            "name": "Patricia McKenzie",
+            "original_name": "Patricia McKenzie",
+            "popularity": 0.7017,
+            "profile_path": "/nlt5HOSayV2Wh6mTk6qp7n3sBnO.jpg",
+            "cast_id": 5,
+            "character": "Sandra",
+            "credit_id": "66eac54b5168a896e11f5ec9",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2180349,
+            "known_for_department": "Acting",
+            "name": "Russ Camarda",
+            "original_name": "Russ Camarda",
+            "popularity": 0.5892,
+            "profile_path": null,
+            "cast_id": 6,
+            "character": "Jazz",
+            "credit_id": "66eac5605168a896e11f5ed0",
+            "order": 5
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 116881,
+            "known_for_department": "Acting",
+            "name": "Deborah Twiss",
+            "original_name": "Deborah Twiss",
+            "popularity": 2.1203,
+            "profile_path": "/gg4xoBRej4WcgN5bm4UUPy5g01c.jpg",
+            "credit_id": "66eac5841beca8ce07d36eb8",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 116881,
+            "known_for_department": "Acting",
+            "name": "Deborah Twiss",
+            "original_name": "Deborah Twiss",
+            "popularity": 2.1203,
+            "profile_path": "/gg4xoBRej4WcgN5bm4UUPy5g01c.jpg",
+            "credit_id": "66eac5911beca8ce07d36ebd",
+            "department": "Writing",
+            "job": "Writer"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/xJQwAoMhBBUrcIz00XDRHyaMVaE.jpg",
+            "id": 38295,
+            "title": "She's So Lovely",
+            "original_title": "She's So Lovely",
+            "overview": "After being released from a psychiatric institution, a man tries to redeem himself in the eyes of his now-ex wife from the events that led up to his incarceration.",
+            "poster_path": "/oZISQ7Cnmezs5NgBaL6uHUkDMFZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "popularity": 2.6705,
+            "release_date": "1997-08-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xo6BiwGPV5MhGMQ7gBTQ6coC19H.jpg",
+            "id": 18538,
+            "title": "Dot the I",
+            "original_title": "Dot the I",
+            "overview": "A fiery Spanish woman is about to marry a kind British man when she meets a Brazilian actor who ignites in her a flame of lust she can't ignore.",
+            "poster_path": "/2Gq1e0OC7r6L4V5dJaLgANk09xl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18,
+                53
+            ],
+            "popularity": 3.8729,
+            "release_date": "2003-10-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jbWlI8dqKiEZ3eolUDkpV3GMNTm.jpg",
+            "id": 38583,
+            "title": "Separate Lies",
+            "original_title": "Separate Lies",
+            "overview": "Following a traffic accident, things take a turn when the victim's identity is revealed.",
+            "poster_path": "/vynOCaKcX3Ypp3PH3FlXdrDjWX4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18,
+                53
+            ],
+            "popularity": 1.8903,
+            "release_date": "2005-09-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.838,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wO8vg2bB4rR7lGtIlZ7mJlcfwJ7.jpg",
+            "id": 540023,
+            "title": "Wander Darkly",
+            "original_title": "Wander Darkly",
+            "overview": "New parents Adrienne and Matteo are forced to reckon with trauma amidst their troubled relationship. They must revisit the memories of their past and unravel haunting truths in order to face their uncertain future.",
+            "poster_path": "/96snLzPYifC4FyL2uOnzo4DPgCv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.4693,
+            "release_date": "2020-12-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.028,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Tb2QTevPW7L29I6EnISxnoArw6.jpg",
+            "id": 24461,
+            "title": "Asylum",
+            "original_title": "Asylum",
+            "overview": "A woman becomes very curious about one of her psychiatrist husband's inmates, a man who was found guilty in the murder and disfigurement of his former wife.",
+            "poster_path": "/kpVKZeMaTf6twAQycbccbeFjBDE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                10749
+            ],
+            "popularity": 2.9524,
+            "release_date": "2005-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.973,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AdRO1ZGa8Or4inBr8Bb557NV0Ba.jpg",
+            "id": 172226,
+            "title": "In Secret",
+            "original_title": "In Secret",
+            "overview": "In 1860s Paris, a young woman, Therese, is trapped in a loveless marriage to the sickly Camille by her domineering aunt, Madame Raquin. She spends her days behind the counter of a small shop and her evenings watching Madame play dominos with an eclectic group. After she meets her husband’s alluring friend, Laurent, she embarks on an illicit affair that leads to tragic consequences. Based on Emile Zola’s novel, Thérèse Raquin.",
+            "poster_path": "/iJSTzDyF2BKB9mcor7slIOOXSBD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                80,
+                10749
+            ],
+            "popularity": 8.6068,
+            "release_date": "2014-02-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.12,
+            "vote_count": 258
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mORSowyx92dlvx9zYOKXZx0NpAW.jpg",
+            "id": 149509,
+            "title": "Horns",
+            "original_title": "Horns",
+            "overview": "In the aftermath of his girlfriend's mysterious death, a young man awakens to strange horns sprouting from his temples.",
+            "poster_path": "/tjTy6W05mPXXw87IqpjeGNhIcM4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                14,
+                53
+            ],
+            "popularity": 4.1709,
+            "release_date": "2013-09-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.298,
+            "vote_count": 2469
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
+            "id": 763148,
+            "title": "Time Is Up",
+            "original_title": "Time Is Up",
+            "overview": "Vivien, an accomplished student with a passion for physics, and Roy, a troubled young man, are involved in an accident that forces them to reclaim their lives one minute at the time.",
+            "poster_path": "/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.8679,
+            "release_date": "2021-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.462,
+            "vote_count": 732
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/egVj5Y9f79xPnyAQJmeDR0Uwow3.jpg",
+            "id": 2251,
+            "title": "Unfaithful",
+            "original_title": "Unfaithful",
+            "overview": "A New York suburban couple's marriage goes dangerously awry when the wife indulges in an adulterous fling.",
+            "poster_path": "/bjiHEhuiwhIygzjczbTPAA07cGc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18,
+                10749
+            ],
+            "popularity": 20.1616,
+            "release_date": "2002-05-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.711,
+            "vote_count": 1769
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AnmfRV7X0kwEn96pg0lAVopV8YK.jpg",
+            "id": 893086,
+            "title": "The Good Neighbor",
+            "original_title": "The Good Neighbor",
+            "overview": "A nightmarish evening unfolds for neighbors David and Robert when they accidentally hit a woman on her bike and flee the scene. While David is increasingly plagued by feelings of guilt, Robert shows no remorse and becomes overbearing and possessive.",
+            "poster_path": "/mXJ2xI7B0Z9WxDjyv18anPsOxeE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 3.1563,
+            "release_date": "2022-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.555,
+            "vote_count": 192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qSh3Aav8Kcoe2D2Azr8Bh1J0HAa.jpg",
+            "id": 1145725,
+            "title": "Tyler Perry's Duplicity",
+            "original_title": "Tyler Perry's Duplicity",
+            "overview": "High-powered attorney Marley faces her most personal case yet when she is tasked with uncovering the truth behind the murder of her best friend Fela’s husband. With the help of her boyfriend – a former cop turned private investigator – Marley’s search for what really happened leads her down a treacherous maze of deception and betrayal.",
+            "poster_path": "/pYrmTaOnMgvS59OKSxkCSrhISoL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 6.2441,
+            "release_date": "2025-03-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.538,
+            "vote_count": 173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+            "id": 1294203,
+            "title": "My Fault: London",
+            "original_title": "My Fault: London",
+            "overview": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William’s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+            "poster_path": "/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 19.4475,
+            "release_date": "2025-02-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.392,
+            "vote_count": 616
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3HJpbh02zCrnjH9TnhKRB7pCHme.jpg",
+            "id": 302528,
+            "title": "Remember",
+            "original_title": "Remember",
+            "overview": "With the aid of a fellow Auschwitz survivor and a hand-written letter, an elderly man with dementia goes in search of the person responsible for the death of his family.",
+            "poster_path": "/x496Ip0weJYfsEX23eNyzG4MjXV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                9648
+            ],
+            "popularity": 3.2603,
+            "release_date": "2015-10-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.353,
+            "vote_count": 764
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6r38uhBZTZl0KGfEcfi3HNP2N0z.jpg",
+            "id": 5852,
+            "title": "Angel Eyes",
+            "original_title": "Angel Eyes",
+            "overview": "A story about a seemingly unlikely couple who cross paths under life-threatening circumstances as though they are destined not only to meet but to save each other's lives. Not once, but twice.",
+            "poster_path": "/6ZeMoynnz4pRweKKZ9c2G1absMJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "popularity": 4.9786,
+            "release_date": "2001-05-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.04,
+            "vote_count": 497
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/65m6t44CM85668zjy8pCsdc0Ow5.jpg",
+            "id": 810223,
+            "title": "An Autumn Romance",
+            "original_title": "An Autumn Romance",
+            "overview": "When librarian Taylor Harris suddenly loses her job, she decides to visit her brother in a small town in Montana. There, she gets involved in the fight to help save her brother's hotel from tycoon Joel Sheenan, who wants to renovate it.",
+            "poster_path": "/wvJzRrdivLX3QYoG0UHQhA5QOyV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18,
+                10751
+            ],
+            "popularity": 5.0684,
+            "release_date": "2021-05-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.101,
+            "vote_count": 169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6IsycwFwgZ0M1MIjXNkW9j45jcY.jpg",
+            "id": 1108566,
+            "title": "Killer Heat",
+            "original_title": "Killer Heat",
+            "overview": "An expat PI is hired to investigate a suspicious death in Crete, Greece, where jealousies run deep amongst the victim's powerful family.",
+            "poster_path": "/WiAEiqelck0NGWplhL5JQR12eg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "popularity": 5.986,
+            "release_date": "2024-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tMtXSrEeh2rueJQVWMom78ZBhG0.jpg",
+            "id": 364733,
+            "title": "Blind",
+            "original_title": "Blind",
+            "overview": "A novelist is blinded in a car crash that killed his wife and several years later rediscovers his passion for life and writing when he embarks on an affair with the neglected wife of an indicted businessman.",
+            "poster_path": "/cXyObe5aB63ueOndEXxXabgAvIi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.604,
+            "release_date": "2017-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.11,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xC0XeQOlbA8T7TVs4PiGvH5krDh.jpg",
+            "id": 390874,
+            "title": "Ashes in the Snow",
+            "original_title": "Ashes in the Snow",
+            "overview": "The coming-of-age tale of 16-year-old Lina Vilkas who is deported to Siberia amid Stalin's reign of terror in the Baltic region during WWII. An aspiring artist, she secretly documents her harrowing journey with her drawings.",
+            "poster_path": "/wRMgle7vPFvSMq5R76JhsH54W4S.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.3005,
+            "release_date": "2018-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.424,
+            "vote_count": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+            "id": 1659087,
+            "title": "180",
+            "original_title": "180",
+            "overview": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
+            "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                18,
+                10770
+            ],
+            "popularity": 7.1528,
+            "release_date": "2026-04-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.83,
+            "vote_count": 135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jPlyFmmh9rHQqIuRtEv0gCsOVPK.jpg",
+            "id": 65650,
+            "title": "The Good Doctor",
+            "original_title": "The Good Doctor",
+            "overview": "Dr. Martin Blake, who has spent his life looking for respect, meets an 18-year-old patient named Diane, suffering from a kidney infection, and gets a much-needed boost of self-esteem. However, when her health starts improving, Martin fears losing her, so he begins tampering with her treatment, keeping Diane sick and in the hospital right next to him.",
+            "poster_path": "/fJSdqHzpMeCkXMrILYt1SdGN2sL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                9648
+            ],
+            "popularity": 3.7722,
+            "release_date": "2011-04-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 260
+        }
+    ]
+}

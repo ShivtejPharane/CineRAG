@@ -1,0 +1,1034 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/rV9MLgLm4i5ImuhhqdJ2fa7JMc2.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "homepage": "",
+        "id": 1404791,
+        "imdb_id": "tt35276942",
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_title": "ドールハウス",
+        "overview": "After losing their child, a mother finds solace in a life-sized ancient doll she finds on the market.  When a new daughter enters the family's life, strange things begin to happen and no matter how hard the family tries to get rid of it, the doll always finds its way back.",
+        "popularity": 13.6441,
+        "poster_path": "/vUs4OPpvu4Is7wIGaXkseNJHhEA.jpg",
+        "production_companies": [
+            {
+                "id": 182161,
+                "logo_path": "/wvG4lK0m76M6jK8WbWkXNecA7SP.png",
+                "name": "TOHO Studios",
+                "origin_country": "JP"
+            },
+            {
+                "id": 146106,
+                "logo_path": "/eW8K469XBEJdaHtzgLe2r0IxZim.png",
+                "name": "Django Film",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2025-06-13",
+        "revenue": 11547839,
+        "runtime": 110,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "status": "Released",
+        "tagline": "It Wants to Play.",
+        "title": "Dollhouse",
+        "video": false,
+        "vote_average": 7.604,
+        "vote_count": 125
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 87637,
+            "known_for_department": "Acting",
+            "name": "Masami Nagasawa",
+            "original_name": "長澤まさみ",
+            "popularity": 4.3805,
+            "profile_path": "/yvHhfDOral1DeyBRSzpxsoHz60t.jpg",
+            "cast_id": 4,
+            "character": "Yoshie Suzuki",
+            "credit_id": "67ff7903de5e4dec62aea2da",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1112526,
+            "known_for_department": "Acting",
+            "name": "Koji Seto",
+            "original_name": "瀬戸康史",
+            "popularity": 1.2171,
+            "profile_path": "/hWB2vHeOIZ9Eifp84hXFNLDzbp6.jpg",
+            "cast_id": 5,
+            "character": "Tadahiko Suzuki",
+            "credit_id": "67ff7911d8b85eb782d95893",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 587661,
+            "known_for_department": "Acting",
+            "name": "Tetsushi Tanaka",
+            "original_name": "田中哲司",
+            "popularity": 1.5869,
+            "profile_path": "/9DHDP2thxiholidGe6WKr38suJz.jpg",
+            "cast_id": 6,
+            "character": "Kanda",
+            "credit_id": "67ff791dc1e0a708cbad8cba",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5196238,
+            "known_for_department": "Acting",
+            "name": "Aoi Ikemura",
+            "original_name": "池村碧彩",
+            "popularity": 0.5917,
+            "profile_path": "/484IuvLGngr79u48PVtTDmnBx4k.jpg",
+            "cast_id": 9,
+            "character": "Mai Suzuki",
+            "credit_id": "67ff794bde5e4dec62aea2e7",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 66153,
+            "known_for_department": "Acting",
+            "name": "Naomi Nishida",
+            "original_name": "西田尚美",
+            "popularity": 1.493,
+            "profile_path": "/kXRGUSybmoyiQ5iqNtGq5aBGei4.jpg",
+            "cast_id": 11,
+            "character": "Ryoko Takeuchi",
+            "credit_id": "67ff795caacf7cfb2699e19c",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 233522,
+            "known_for_department": "Acting",
+            "name": "Hiroki Konno",
+            "original_name": "今野浩喜",
+            "popularity": 0.9852,
+            "profile_path": "/lkVY8SGQ4LviNHzWGVnEiVtJ6Aw.jpg",
+            "cast_id": 33,
+            "character": "Terashima",
+            "credit_id": "6915d9ce87eb54ced231c461",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5196239,
+            "known_for_department": "Acting",
+            "name": "Totoka Honda",
+            "original_name": "Totoka Honda",
+            "popularity": 0.3767,
+            "profile_path": null,
+            "cast_id": 32,
+            "character": "Mei Suzuki",
+            "credit_id": "6915d793cecfcf4c7e9ad681",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1119732,
+            "known_for_department": "Acting",
+            "name": "Tōru Shinagawa",
+            "original_name": "品川徹",
+            "popularity": 0.9257,
+            "profile_path": "/z2OdQ8Gs6u5otdN2kg0AFeIOTKJ.jpg",
+            "cast_id": 12,
+            "character": "Muneharu Ikeya",
+            "credit_id": "67ff7963ef5ae687cbd99961",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1039220,
+            "known_for_department": "Acting",
+            "name": "Ken Yasuda",
+            "original_name": "安田顕",
+            "popularity": 1.1275,
+            "profile_path": "/mSEnXFHj8MnighBVG0yZdKOVyxI.jpg",
+            "cast_id": 7,
+            "character": "Yamamoto",
+            "credit_id": "67ff792ad8b85eb782d958a2",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 119244,
+            "known_for_department": "Acting",
+            "name": "Jun Fubuki",
+            "original_name": "風吹ジュン",
+            "popularity": 1.7861,
+            "profile_path": "/uHF9NdKrG1bN7GwZB7PI21Rkdv8.jpg",
+            "cast_id": 8,
+            "character": "Toshiko Suzuki",
+            "credit_id": "67ff7936c1e0a708cbad8cd1",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 131192,
+            "known_for_department": "Acting",
+            "name": "Hirotaro Honda",
+            "original_name": "本田博太郎",
+            "popularity": 1.3837,
+            "profile_path": "/ibgE0txHY6NnaXOHPSrQHi6tzvK.jpg",
+            "cast_id": 10,
+            "character": "",
+            "credit_id": "67ff795383c6e567c7d92d81",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1388729,
+            "known_for_department": "Acting",
+            "name": "Kintarô Hara",
+            "original_name": "原金太郎",
+            "popularity": 0.5157,
+            "profile_path": null,
+            "cast_id": 34,
+            "character": "Monk",
+            "credit_id": "6915d9e461f4c08e56ac23b8",
+            "order": 11
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 83524,
+            "known_for_department": "Directing",
+            "name": "Shinobu Yaguchi",
+            "original_name": "矢口史靖",
+            "popularity": 0.8724,
+            "profile_path": "/pRY2AnANlCqGCLnJaFjCyS61xDR.jpg",
+            "credit_id": "6763c390d6d44159d8ffde82",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 83524,
+            "known_for_department": "Directing",
+            "name": "Shinobu Yaguchi",
+            "original_name": "矢口史靖",
+            "popularity": 0.8724,
+            "profile_path": "/pRY2AnANlCqGCLnJaFjCyS61xDR.jpg",
+            "credit_id": "67690db129e0ed83d35ce215",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1057924,
+            "known_for_department": "Production",
+            "name": "Hisashi Usui",
+            "original_name": "臼井央",
+            "popularity": 0.4402,
+            "profile_path": null,
+            "credit_id": "68045c8c5836966f76acf488",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 555165,
+            "known_for_department": "Production",
+            "name": "Tomoo Fukatsu",
+            "original_name": "深津智男",
+            "popularity": 0.5739,
+            "profile_path": null,
+            "credit_id": "68045c9e3f88854c49ee0168",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2161710,
+            "known_for_department": "Lighting",
+            "name": "Tokujû Ichikawa",
+            "original_name": "市川徳充",
+            "popularity": 0.3982,
+            "profile_path": null,
+            "credit_id": "68045ccb65c23f254eacfafd",
+            "department": "Lighting",
+            "job": "Gaffer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1509187,
+            "known_for_department": "Art",
+            "name": "Hirokazu Kanakatsu",
+            "original_name": "金勝浩一",
+            "popularity": 0.3692,
+            "profile_path": null,
+            "credit_id": "68045cdee506a8e3a0ad9c67",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 550586,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Kakusei Fujiwara",
+            "original_name": "藤原鶴声",
+            "popularity": 0.3955,
+            "profile_path": null,
+            "credit_id": "68045cf203344aee7089b947",
+            "department": "Costume & Make-Up",
+            "job": "Special Effects Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 550586,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Kakusei Fujiwara",
+            "original_name": "藤原鶴声",
+            "popularity": 0.3955,
+            "profile_path": null,
+            "credit_id": "68045d15e3fac2f90289c334",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1284403,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Satoko Umehara",
+            "original_name": "梅原さとこ",
+            "popularity": 0.4379,
+            "profile_path": null,
+            "credit_id": "68045d286e1a769e81edff9e",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4034943,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Tomoko Chiba",
+            "original_name": "千葉友子",
+            "popularity": 0.3449,
+            "profile_path": null,
+            "credit_id": "68045d33e506a8e3a0ad9c90",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581718,
+            "known_for_department": "Sound",
+            "name": "Mizuki Ito",
+            "original_name": "伊藤瑞樹",
+            "popularity": 0.5047,
+            "profile_path": null,
+            "credit_id": "68045d486e1a769e81edffb1",
+            "department": "Sound",
+            "job": "Sound Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3167663,
+            "known_for_department": "Sound",
+            "name": "Youki Kojima",
+            "original_name": "小島裕規",
+            "popularity": 0.3824,
+            "profile_path": null,
+            "credit_id": "68045dacc3e8e74b6dedffed",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3321225,
+            "known_for_department": "Directing",
+            "name": "Tetsuya Okabe",
+            "original_name": "岡部哲也",
+            "popularity": 0.3307,
+            "profile_path": null,
+            "credit_id": "68045dbc6e1a769e81edffe2",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 509445,
+            "known_for_department": "Camera",
+            "name": "Fūta Takagi",
+            "original_name": "高木風太",
+            "popularity": 1.1478,
+            "profile_path": null,
+            "credit_id": "684cc15cec73293cd7bb481c",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5679627,
+            "known_for_department": "Production",
+            "name": "Manabu Kuwahara",
+            "original_name": "桑原学",
+            "popularity": 0.3389,
+            "profile_path": null,
+            "credit_id": "68bff41f29f4ce50344e6a7c",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 932478,
+            "known_for_department": "Visual Effects",
+            "name": "Yoshinori Makino",
+            "original_name": "牧野由典",
+            "popularity": 0.4037,
+            "profile_path": null,
+            "credit_id": "68bff8765c774830b21f5af2",
+            "department": "Visual Effects",
+            "job": "VFX Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5679653,
+            "known_for_department": "Sound",
+            "name": "IKEDA Masaki",
+            "original_name": "池田雅樹",
+            "popularity": 0.2661,
+            "profile_path": null,
+            "credit_id": "68bff95d64d278789b1f58be",
+            "department": "Sound",
+            "job": "Sound Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 115641,
+            "known_for_department": "Editing",
+            "name": "Ryuji Miyajima",
+            "original_name": "宮島竜治",
+            "popularity": 0.5797,
+            "profile_path": "/6byGshsPfd9mP4ZqbyJW07nnPRq.jpg",
+            "credit_id": "68c8101be3a815b792f22241",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5692870,
+            "known_for_department": "Editing",
+            "name": "Karol Kaczorowski",
+            "original_name": "Karol Kaczorowski",
+            "popularity": 0.1749,
+            "profile_path": null,
+            "credit_id": "68c9b39f0514e6dd515d4f29",
+            "department": "Editing",
+            "job": "Colorist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5723221,
+            "known_for_department": "Art",
+            "name": "Jin Suzuki",
+            "original_name": "鈴木仁",
+            "popularity": 0.3404,
+            "profile_path": null,
+            "credit_id": "68dd820308335f4e5e2dfe41",
+            "department": "Art",
+            "job": "Decorator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 83524,
+            "known_for_department": "Directing",
+            "name": "Shinobu Yaguchi",
+            "original_name": "矢口史靖",
+            "popularity": 0.8724,
+            "profile_path": "/pRY2AnANlCqGCLnJaFjCyS61xDR.jpg",
+            "credit_id": "6913907cdc4f028746a0d30e",
+            "department": "Writing",
+            "job": "Original Story"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2052711,
+            "known_for_department": "Sound",
+            "name": "Kyoko Kitahara",
+            "original_name": "北原京子",
+            "popularity": 0.6021,
+            "profile_path": null,
+            "credit_id": "697b8cd8609fdf301eef4ab1",
+            "department": "Sound",
+            "job": "Music Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3819005,
+            "known_for_department": "Production",
+            "name": "Akira Yamano",
+            "original_name": "山野晃",
+            "popularity": 0.2605,
+            "profile_path": null,
+            "credit_id": "697b8cedd9070591c322bad0",
+            "department": "Production",
+            "job": "Development Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1319217,
+            "known_for_department": "Production",
+            "name": "Manabu Endou",
+            "original_name": "遠藤学",
+            "popularity": 0.2702,
+            "profile_path": null,
+            "credit_id": "6980113812e69e7058fd4611",
+            "department": "Production",
+            "job": "Development Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1123054,
+            "known_for_department": "Production",
+            "name": "Yume Minamidani",
+            "original_name": "南谷夢",
+            "popularity": 0.5974,
+            "profile_path": null,
+            "credit_id": "69cfb564cfcc52748b9a1822",
+            "department": "Production",
+            "job": "Casting"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 2041,
+            "name": "island"
+        },
+        {
+            "id": 1909,
+            "name": "coffin"
+        },
+        {
+            "id": 33630,
+            "name": "doll"
+        },
+        {
+            "id": 165442,
+            "name": "washing machine"
+        },
+        {
+            "id": 215191,
+            "name": "strange"
+        },
+        {
+            "id": 240764,
+            "name": "possessed doll"
+        },
+        {
+            "id": 249694,
+            "name": "haunted doll"
+        },
+        {
+            "id": 253411,
+            "name": "death of a child"
+        },
+        {
+            "id": 288394,
+            "name": "suspense"
+        },
+        {
+            "id": 295907,
+            "name": "psychological horror"
+        },
+        {
+            "id": 316332,
+            "name": "mystery"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/m4E4HqHUjr6GXYyeWPVhAOcce2X.jpg",
+            "id": 758724,
+            "title": "The Cellar",
+            "original_title": "The Cellar",
+            "overview": "When Keira Woods' daughter mysteriously vanishes in the cellar of their new house in the country, she soon discovers there is an ancient and powerful entity controlling their home that she will have to face or risk losing her family's souls forever.",
+            "poster_path": "/2DFkiExCtXcmpepQiLgkSQhxZu8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 4.345,
+            "release_date": "2022-03-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.456,
+            "vote_count": 511
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vzw5733T4PSielVOeq268GdSzhS.jpg",
+            "id": 15856,
+            "title": "House on Haunted Hill",
+            "original_title": "House on Haunted Hill",
+            "overview": "Frederick Loren invites five strangers to the party of a lifetime and offers each of them $10,000 if they can stay the night in the reportedly haunted house. Armed with a gun for protection, each guest arrives in a hearse and will either leave in it much richer…Or dead.",
+            "poster_path": "/g5kdFt3piV3w1pG65W9sSToJ7HB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 6.0732,
+            "release_date": "1959-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zXHHqBsGhDP00BY0XBlXVj2EGKU.jpg",
+            "id": 32250,
+            "title": "Ju-on: The Curse",
+            "original_title": "呪怨",
+            "overview": "When elementary school teacher Kobayashi investigates the absence of one of his young pupils from the classroom, he finds himself at the doorstep of an anonymous suburban house that harbours a horrible secret, and into which all who enter are doomed.",
+            "poster_path": "/d5B5mXNPOtsrZWDMjyleqi1gFAr.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 3.3085,
+            "release_date": "2000-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.809,
+            "vote_count": 314
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sve315CAjMhSZBKBthDHJI77gmb.jpg",
+            "id": 13549,
+            "title": "Burnt Offerings",
+            "original_title": "Burnt Offerings",
+            "overview": "A family moves into a large old mansion in the countryside which seems to have a mysterious and sinister power over its new residents.",
+            "poster_path": "/2ipG69lXOjGMX7F7qxJQzUoiUsd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 2.3413,
+            "release_date": "1976-10-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.484,
+            "vote_count": 279
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rLm66DbLwxHeRB34oJ1mhsu0urc.jpg",
+            "id": 11167,
+            "title": "Peeping Tom",
+            "original_title": "Peeping Tom",
+            "overview": "Loner Mark Lewis works at a film studio during the day and, at night, takes racy photographs of women. Also he's making a documentary on fear, which involves recording the reactions of victims as he murders them. He befriends Helen, the daughter of the family living in the apartment below his, and he tells her vaguely about the movie he is making.",
+            "poster_path": "/u36rFrXW7XethWpiEWbRjzfgOc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "popularity": 4.5672,
+            "release_date": "1960-04-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.457,
+            "vote_count": 917
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6o6pDoUZ5XbSfNN64OErtcUkF5S.jpg",
+            "id": 1219556,
+            "title": "Chime",
+            "original_title": "Chime",
+            "overview": "A chef's life is disrupted by a chime that brings with it an increasing sense of dread.",
+            "poster_path": "/s6bBgT11fFHwKrzrFluCoKfcjdU.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.2787,
+            "release_date": "2024-08-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.826,
+            "vote_count": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fdQ5tWLCpbfz3zj3dq1nORih8Pq.jpg",
+            "id": 551238,
+            "title": "D-Railed",
+            "original_title": "D-Railed",
+            "overview": "Passengers on a murder mystery train that crashes into a river must decide whether to risk waiting for help in the wreckage or take their chances in the murky depths below.",
+            "poster_path": "/24GnXIwhkK95Kdz0KkTWeepA6El.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.204,
+            "release_date": "2018-12-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.87,
+            "vote_count": 280
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dRKPz3iZiuYpgdfbBQ3Af6Wo63R.jpg",
+            "id": 17898,
+            "title": "Silver Bullet",
+            "original_title": "Silver Bullet",
+            "overview": "The small city of Tarker's Mills is startled by a series of sadistic murders. The population fears the work of a maniac, but sightings of a mysterious, hairy creature soon spread. People lock themselves up at night, but there's one boy who's still outside…",
+            "poster_path": "/52CvWYuJyWcMTPvsfcmsxaVHi7f.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.0164,
+            "release_date": "1985-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 713
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/coZolPUocZJG3Qgd1g4cyI2Qm6L.jpg",
+            "id": 22440,
+            "title": "Dracula's Daughter",
+            "original_title": "Dracula's Daughter",
+            "overview": "A countess from Transylvania seeks a psychiatrist’s help to cure her vampiric cravings.",
+            "poster_path": "/y7xBkkRLcg1I0fXHO4yYC5SwBCX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.1224,
+            "release_date": "1936-05-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 228
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cCBVpqqFHavVJofPCTHFfQWTuV2.jpg",
+            "id": 1130899,
+            "title": "Sana",
+            "original_title": "ミンナのウタ",
+            "overview": "Takashi Shimizu's newest film is about a mysterious cassette tape containing a melody. People who hear this melody gradually begin to hum it themselves and become involved in a mysterious incident. What is the mystery behind this melody ?",
+            "poster_path": "/ziWLHm8xjuG2jQf9iIRC7XZZom8.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 1.6083,
+            "release_date": "2023-08-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v7wKtlycdR35iB7f5VmKc1mmUYx.jpg",
+            "id": 583132,
+            "title": "Sadako",
+            "original_title": "貞子",
+            "overview": "A psychologist connects her missing brother to the strange case of a mysterious little girl believed to be Sadako reincarnated.",
+            "poster_path": "/wCanUYBbUxADpfqpoe3tmQ3KVL6.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.598,
+            "release_date": "2019-05-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1bKfhtqVy48rmDl3t6yxLZNvB0B.jpg",
+            "id": 29403,
+            "title": "The Night Walker",
+            "original_title": "The Night Walker",
+            "overview": "A woman is haunted by recurring nightmares, which seem to be instigated by her late husband who supposedly was killed in a fire.",
+            "poster_path": "/yWIO2LYQvluWSIWNYqEGmqcmynf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27,
+                9648
+            ],
+            "popularity": 1.6732,
+            "release_date": "1964-12-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.596,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ylQUBfAfcrQUxjWYUIjmPXvlcD1.jpg",
+            "id": 27324,
+            "title": "Pulse",
+            "original_title": "回路",
+            "overview": "In the immense city of Tokyo, the darkness of the afterlife lures some of its inhabitants desperately trying to escape the sadness and isolation of the modern world.",
+            "poster_path": "/c3zEimDraIyMSasPMGDaNOrhnzn.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 4.9777,
+            "release_date": "2001-02-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.699,
+            "vote_count": 691
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/epWA8i3MoWfdgrR8E7UiodEQM8q.jpg",
+            "id": 575094,
+            "title": "Abigail",
+            "original_title": "Abigail",
+            "overview": "A young girl Abigail lives in a city whose borders were closed many years ago because of an epidemic of a mysterious disease. Abby's father was one of the sick - and he was taken when she was six years old. Going against the authorities to find his father, Abby learns that her city is actually full of magic. And she discovers in herself extraordinary magical abilities.",
+            "poster_path": "/5Ggf38fEAhOCdgvfLOfUcfEQTQT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                14,
+                9648
+            ],
+            "popularity": 3.792,
+            "release_date": "2019-08-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 262
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u6cyzNiF95GaZFRmNYRDQJoU0Av.jpg",
+            "id": 1942,
+            "title": "Bunny Lake Is Missing",
+            "original_title": "Bunny Lake Is Missing",
+            "overview": "A woman reports that her young daughter is missing, but there seems to be no evidence that she ever existed.",
+            "poster_path": "/zsZ2PAMMyBhkn5OSC8Qnror2KCA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "popularity": 1.9952,
+            "release_date": "1965-10-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.235,
+            "vote_count": 217
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A7nW6vbOJXH0uz0SrScdPdvJ416.jpg",
+            "id": 39204,
+            "title": "Detective Conan: Strategy Above the Depths",
+            "original_title": "名探偵コナン 水平線上の陰謀",
+            "overview": "Fifteen years ago in a barren stretch of the Pacific, a cruise ship collided with an iceberg and was lost at sea. More than a decade later, Hideto Yashiro—a ship engineer—died in a fatal car accident. The unlikely connection between these events only comes to light on the luxury liner St. Aphrodite during her maiden voyage. Aboard it on a much needed vacation, Kogorou Mouri, his daughter Ran, Conan Edogawa, and the Detective Boys enjoy a trip provided by Sonoko Suzuki's family. But their fun is soon cut short when a game of hide-and-seek leads to Sonoko's disappearance.",
+            "poster_path": "/enhiUd7MOuLjKa4NkZmLaN7dDWH.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                9648
+            ],
+            "popularity": 4.8936,
+            "release_date": "2005-04-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.909,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uVH4JeqPyVHWVwsYce1z8CxVG36.jpg",
+            "id": 448194,
+            "title": "Pyewacket",
+            "original_title": "Pyewacket",
+            "overview": "A frustrated, angry teenage girl awakens something in the woods when she naively performs an occult ritual to invoke a witch to kill her mother.",
+            "poster_path": "/3ET9MWmIx2ny2KP5mqY9ceb0WxF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.2575,
+            "release_date": "2017-12-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.933,
+            "vote_count": 349
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
+            "id": 7131,
+            "title": "Van Helsing",
+            "original_title": "Van Helsing",
+            "overview": "Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula. Anna Valerious reveals that Dracula has formed an unholy alliance with Dr. Frankenstein's monster and is hell-bent on exacting a centuries-old curse on her family.",
+            "poster_path": "/gsFun8nATm52aGHeT8ueAel98nE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                12,
+                28
+            ],
+            "popularity": 15.462,
+            "release_date": "2004-05-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 6774
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/le7N8M4bAM9suFGGTjvYblfmPT8.jpg",
+            "id": 32022,
+            "title": "Case Closed: Countdown to Heaven",
+            "original_title": "名探偵コナン 天国へのカウントダウン",
+            "overview": "As a pair of towers in Tokyo are being prepared for their grand opening, there is a series of murders of people connected to the towers. Conan suspects that the mysterious Syndicate may also be involved.",
+            "poster_path": "/1giFCODG6Bnik84NsyjHwvuX9Da.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                28,
+                80,
+                9648
+            ],
+            "popularity": 4.8099,
+            "release_date": "2001-04-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.386,
+            "vote_count": 202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9CVUzIPyBMnHsDDighQNgkDYsP9.jpg",
+            "id": 11772,
+            "title": "The Haunting",
+            "original_title": "The Haunting",
+            "overview": "Dr. John Markway recruits three strangers for a sleep-disorder study at the eerie and isolated Hill House. It soon becomes clear his real interest lies in the mansion itself and its sinister history, as they are forced to confront the nature of its horror…",
+            "poster_path": "/fmpTnUKTcrpuxLSY23gQMUf9qu7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 4.1434,
+            "release_date": "1963-03-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 727
+        }
+    ]
+}

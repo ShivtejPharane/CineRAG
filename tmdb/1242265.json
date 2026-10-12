@@ -1,0 +1,1056 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
+        "belongs_to_collection": null,
+        "budget": 45000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.fuzefilm.co.uk/",
+        "id": 1242265,
+        "imdb_id": "tt31189814",
+        "origin_country": [
+            "GB"
+        ],
+        "original_language": "en",
+        "original_title": "Fuze",
+        "overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+        "popularity": 15.5861,
+        "poster_path": "/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
+        "production_companies": [
+            {
+                "id": 138743,
+                "logo_path": "/abFJGmtPFs6Bq5cBavmrnXDcpf8.png",
+                "name": "Anton",
+                "origin_country": "GB"
+            },
+            {
+                "id": 53874,
+                "logo_path": "/mZJMAPElHQBIuWWXSyHtyaMf26C.png",
+                "name": "Sigma Films",
+                "origin_country": "GB"
+            },
+            {
+                "id": 181068,
+                "logo_path": "/8XjNmpBDZrMOoKRhA14wp1FLuvN.png",
+                "name": "Sky",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2026-03-23",
+        "revenue": 2890908,
+        "runtime": 96,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Down to the wire.",
+        "title": "Fuze",
+        "video": false,
+        "vote_average": 7.024,
+        "vote_count": 276
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 27428,
+            "known_for_department": "Acting",
+            "name": "Aaron Taylor-Johnson",
+            "original_name": "Aaron Taylor-Johnson",
+            "popularity": 4.6151,
+            "profile_path": "/pFtHhih2XEaFaD3qOFyQW6q83br.jpg",
+            "cast_id": 1,
+            "character": "Will",
+            "credit_id": "65c4ca10021cee019cc3894f",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 587020,
+            "known_for_department": "Acting",
+            "name": "Theo James",
+            "original_name": "Theo James",
+            "popularity": 6.3841,
+            "profile_path": "/lSC4cMhcQeCjPFkK6qCjSGDSeR3.jpg",
+            "cast_id": 9,
+            "character": "Karalis",
+            "credit_id": "66562e918de90543cda3e7fe",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1216606,
+            "known_for_department": "Acting",
+            "name": "Gugu Mbatha-Raw",
+            "original_name": "Gugu Mbatha-Raw",
+            "popularity": 3.6557,
+            "profile_path": "/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg",
+            "cast_id": 11,
+            "character": "Zuzana",
+            "credit_id": "668d525830494a6a69329f0f",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1010819,
+            "known_for_department": "Acting",
+            "name": "Elham Ehsas",
+            "original_name": "Elham Ehsas",
+            "popularity": 0.9732,
+            "profile_path": "/mlOS34qKEVApg5VVLTBUzY8cftN.jpg",
+            "cast_id": 12,
+            "character": "Rahim",
+            "credit_id": "668d575a942e4a4f834225f0",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 65731,
+            "known_for_department": "Acting",
+            "name": "Sam Worthington",
+            "original_name": "Sam Worthington",
+            "popularity": 5.897,
+            "profile_path": "/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg",
+            "cast_id": 10,
+            "character": "X",
+            "credit_id": "668d524c67947cfba5314e46",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1108142,
+            "known_for_department": "Acting",
+            "name": "Shaun Mason",
+            "original_name": "Shaun Mason",
+            "popularity": 1.307,
+            "profile_path": "/6JDlkUjE9tsWwLYbxoMStnYMMB4.jpg",
+            "cast_id": 34,
+            "character": "Y",
+            "credit_id": "69d16878772ea38dfc9a2484",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 26197,
+            "known_for_department": "Acting",
+            "name": "Nabil Elouahabi",
+            "original_name": "Nabil Elouahabi",
+            "popularity": 0.849,
+            "profile_path": "/gBWJGBBIWyAFv5rGv3hw3hwmEls.jpg",
+            "cast_id": 26,
+            "character": "Z",
+            "credit_id": "675b90347a8bf4a12dbd3792",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2038688,
+            "known_for_department": "Acting",
+            "name": "Honor Swinton Byrne",
+            "original_name": "Honor Swinton Byrne",
+            "popularity": 0.7927,
+            "profile_path": "/90w9RClgkcvu3pOavfj0ELuTFYW.jpg",
+            "cast_id": 13,
+            "character": "Clareese",
+            "credit_id": "668d5760bd7a5e997b74a61c",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2134546,
+            "known_for_department": "Acting",
+            "name": "Saffron Hocking",
+            "original_name": "Saffron Hocking",
+            "popularity": 0.759,
+            "profile_path": "/59fibQb4J3zcvC9awsVS2B0y6ga.jpg",
+            "cast_id": 20,
+            "character": "Dootsie",
+            "credit_id": "66955d14070c816e06f53cf4",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2998707,
+            "known_for_department": "Acting",
+            "name": "Laurie Duncan",
+            "original_name": "Laurie Duncan",
+            "popularity": 0.2649,
+            "profile_path": "/w60z9qUyTkASC47lCutIXu1wPh5.jpg",
+            "cast_id": 28,
+            "character": "Wardy",
+            "credit_id": "681b82b426e720062d5af540",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 68307,
+            "known_for_department": "Acting",
+            "name": "Luke Mably",
+            "original_name": "Luke Mably",
+            "popularity": 1.3048,
+            "profile_path": "/jTMAb14IELP0s2FjpFsM0Bo5rJk.jpg",
+            "cast_id": 21,
+            "character": "Colonel Headley",
+            "credit_id": "66d541ad5718e3e3be041420",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1477142,
+            "known_for_department": "Acting",
+            "name": "Iain Fletcher",
+            "original_name": "Iain Fletcher",
+            "popularity": 0.4789,
+            "profile_path": "/aivOqhKYk8QaeQIt18eHiUfZ1db.jpg",
+            "cast_id": 25,
+            "character": "General Minton",
+            "credit_id": "675b90174b5280ff0c1bf239",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1756556,
+            "known_for_department": "Acting",
+            "name": "Naveed Khan",
+            "original_name": "Naveed Khan",
+            "popularity": 0.9804,
+            "profile_path": null,
+            "cast_id": 27,
+            "character": "Hardeep",
+            "credit_id": "675b9045f1bf7a60dff9bcf3",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1475236,
+            "known_for_department": "Acting",
+            "name": "Gilly Gilchrist",
+            "original_name": "Gilly Gilchrist",
+            "popularity": 1.1826,
+            "profile_path": "/vtRvoMxvrp82Q0RPInvNVL8DHlK.jpg",
+            "cast_id": 35,
+            "character": "Sandy Dog",
+            "credit_id": "69d168b4899ae35b1a4b660e",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1221080,
+            "known_for_department": "Acting",
+            "name": "Alexander Arnold",
+            "original_name": "Alexander Arnold",
+            "popularity": 0.9593,
+            "profile_path": "/piGO9wUWNL2e3Y0bvdQ7mPiZ0GG.jpg",
+            "cast_id": 31,
+            "character": "Martin",
+            "credit_id": "6969e90fe88fdc77f7f58a76",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1606158,
+            "known_for_department": "Acting",
+            "name": "Samuel Oatley",
+            "original_name": "Samuel Oatley",
+            "popularity": 0.862,
+            "profile_path": "/w9PmZgEQ4D4AKDDLcf3TlErzXDu.jpg",
+            "cast_id": 32,
+            "character": "Newman",
+            "credit_id": "6969e92448fb558079d7e447",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1449693,
+            "known_for_department": "Acting",
+            "name": "Matthew Earley",
+            "original_name": "Matthew Earley",
+            "popularity": 0.5101,
+            "profile_path": null,
+            "cast_id": 33,
+            "character": "Gary",
+            "credit_id": "69d167bf4edd140a1bd29efa",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1615064,
+            "known_for_department": "Acting",
+            "name": "Atul Sharma",
+            "original_name": "Atul Sharma",
+            "popularity": 0.6522,
+            "profile_path": "/ArCswhLKzGJW6viP1uiF82wQLiX.jpg",
+            "cast_id": 22,
+            "character": "Mullah",
+            "credit_id": "66d541be402317d61acb7025",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 129565,
+            "known_for_department": "Acting",
+            "name": "Dragoș Bucur",
+            "original_name": "Dragoș Bucur",
+            "popularity": 1.1098,
+            "profile_path": "/ikzXvK5nEvownOHjhCwdtU3ZeM2.jpg",
+            "cast_id": 37,
+            "character": "Ludo",
+            "credit_id": "6a1c889c9f2e1691ed65ea39",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1256622,
+            "known_for_department": "Acting",
+            "name": "Tim Delap",
+            "original_name": "Tim Delap",
+            "popularity": 0.8313,
+            "profile_path": "/qC2DxUkIRdKWQQKF77vEnOjRZgY.jpg",
+            "cast_id": 38,
+            "character": "Commander Nicoli",
+            "credit_id": "6a1c88b30a48c4d08d9883cf",
+            "order": 19
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3055,
+            "known_for_department": "Directing",
+            "name": "David Mackenzie",
+            "original_name": "David Mackenzie",
+            "popularity": 1.0581,
+            "profile_path": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
+            "credit_id": "65c4ca34713ed4016c1748b1",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3079,
+            "known_for_department": "Camera",
+            "name": "Giles Nuttgens",
+            "original_name": "Giles Nuttgens",
+            "popularity": 0.5344,
+            "profile_path": "/jz40SpwgZtAshuVWq2ThsGpxObs.jpg",
+            "credit_id": "65c4ca630c2710017e77ff1a",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 7583,
+            "known_for_department": "Production",
+            "name": "Gillian Berrie",
+            "original_name": "Gillian Berrie",
+            "popularity": 0.3186,
+            "profile_path": null,
+            "credit_id": "65c4ca71db4ed60162d27a17",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2858152,
+            "known_for_department": "Production",
+            "name": "Sebastien Raybaud",
+            "original_name": "Sebastien Raybaud",
+            "popularity": 0.3829,
+            "profile_path": null,
+            "credit_id": "65c4ca7e194186017b76117d",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4303729,
+            "known_for_department": "Production",
+            "name": "Callum Grant",
+            "original_name": "Callum Grant",
+            "popularity": 0.1812,
+            "profile_path": null,
+            "credit_id": "65c4ca9407faa20163c27d52",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 72156,
+            "known_for_department": "Directing",
+            "name": "Ben Hopkins",
+            "original_name": "Ben Hopkins",
+            "popularity": 0.5603,
+            "profile_path": "/aRWnVuS30etQvFonmAQWR82CVLT.jpg",
+            "credit_id": "668d5792609cc621332c2a3c",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3055,
+            "known_for_department": "Directing",
+            "name": "David Mackenzie",
+            "original_name": "David Mackenzie",
+            "popularity": 1.0581,
+            "profile_path": "/ik6YTYOWdgmou40xRyPlCP4tyGC.jpg",
+            "credit_id": "668d57af6f4036527c198c0c",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1428470,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Christine Blundell",
+            "original_name": "Christine Blundell",
+            "popularity": 0.5609,
+            "profile_path": null,
+            "credit_id": "668d57de942e4a4f834225f9",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1317048,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Nigel Egerton",
+            "original_name": "Nigel Egerton",
+            "popularity": 0.3772,
+            "profile_path": null,
+            "credit_id": "668d57e7b0d9c6c0df314e6e",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 53526,
+            "known_for_department": "Art",
+            "name": "Amanda McArthur",
+            "original_name": "Amanda McArthur",
+            "popularity": 0.4057,
+            "profile_path": null,
+            "credit_id": "668d57f1c6c27b7415064d93",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3081,
+            "known_for_department": "Production",
+            "name": "Des Hamilton",
+            "original_name": "Des Hamilton",
+            "popularity": 0.7621,
+            "profile_path": "/8eysUfAzlezwB5M2L3ZrgGMxWmN.jpg",
+            "credit_id": "668d57fa4e1c831f4a2c29d5",
+            "department": "Production",
+            "job": "Casting Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3528058,
+            "known_for_department": "Crew",
+            "name": "Doren John Farmer",
+            "original_name": "Doren John Farmer",
+            "popularity": 0.8013,
+            "profile_path": "/c3bsf8KJryw1GL08sGjFjeMLRss.jpg",
+            "credit_id": "67201942a4ac8a432c5ce4e7",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4483203,
+            "known_for_department": "Sound",
+            "name": "Tony Doogan",
+            "original_name": "Tony Doogan",
+            "popularity": 0.2265,
+            "profile_path": null,
+            "credit_id": "68bb668a65e6732d2f9bbbad",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4525943,
+            "known_for_department": "Crew",
+            "name": "Arron Long",
+            "original_name": "Arron Long",
+            "popularity": 0.4816,
+            "profile_path": null,
+            "credit_id": "68f0e0d5a06ccb2758c77b4f",
+            "department": "Crew",
+            "job": "Stunt Driver"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5611073,
+            "known_for_department": "Production",
+            "name": "Thomas Dixon",
+            "original_name": "Thomas Dixon",
+            "popularity": 0.4553,
+            "profile_path": null,
+            "credit_id": "69fa8920096c66e82f1d2b8a",
+            "department": "Production",
+            "job": "Production Executive"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 212,
+            "name": "london, england"
+        },
+        {
+            "id": 258,
+            "name": "bomb"
+        },
+        {
+            "id": 10051,
+            "name": "heist"
+        },
+        {
+            "id": 10085,
+            "name": "betrayal"
+        },
+        {
+            "id": 18420,
+            "name": "surveillance"
+        },
+        {
+            "id": 201456,
+            "name": "paranoid"
+        },
+        {
+            "id": 240119,
+            "name": "father son relationship"
+        },
+        {
+            "id": 240237,
+            "name": "mother son relationship"
+        },
+        {
+            "id": 244530,
+            "name": "malicious"
+        },
+        {
+            "id": 275311,
+            "name": "plot twist"
+        },
+        {
+            "id": 298530,
+            "name": "conspiracy thriller"
+        },
+        {
+            "id": 298605,
+            "name": "techno thriller"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
+            "id": 379149,
+            "title": "The Foreigner",
+            "original_title": "The Foreigner",
+            "overview": "Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love – his teenage daughter – dies in an Irish Republican Army car bombing. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.",
+            "poster_path": "/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 10.3918,
+            "release_date": "2017-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.98,
+            "vote_count": 2981
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rtAW7KxJREyVFtnNSXlviU9Wu7w.jpg",
+            "id": 484889,
+            "title": "Rise of the Footsoldier 3",
+            "original_title": "Rise of the Footsoldier 3",
+            "overview": "In the late 1980s, Pat Tate journeys from peddling pills in Marbella to his time in prison, where he solidifies his power before his release to reclaim his turf.",
+            "poster_path": "/1LgOIQNpTfWKY3wizRrQ6CvNAXK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "popularity": 4.9026,
+            "release_date": "2017-11-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Njx2J5p4f4OaH6vZZHUCxw73uK.jpg",
+            "id": 6723,
+            "title": "The Rookie",
+            "original_title": "The Rookie",
+            "overview": "Veteran cop Nick Pulovski is used to playing musical partners; many of the partners he's had in the past have died on the job, and often as a result of Nick's risky tactics. But the rookie who's been assigned to help Nick bust a carjacking ring is almost as hotheaded as he is … and when Nick gets kidnapped, his newbie partner is his only hope.",
+            "poster_path": "/pr37i12Qe1gGxMBf6GTIDZvfFIT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "popularity": 5.9383,
+            "release_date": "1990-12-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.895,
+            "vote_count": 628
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c2B8gl2ZLbelWxS0ZODPKGJxdWX.jpg",
+            "id": 9882,
+            "title": "The Siege",
+            "original_title": "The Siege",
+            "overview": "The secret US abduction of a suspected terrorist from his Middle East homeland leads to a wave of terrorist attacks in New York.  An FBI senior agent and his team attempt to locate and decommission the enemy cells, but must also deal with an Army General gone rogue and a female CIA agent of uncertain loyalties.",
+            "poster_path": "/gbeeWu8rYaIYMyq9ayN1AepjNxP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28,
+                53,
+                80
+            ],
+            "popularity": 7.0398,
+            "release_date": "1998-11-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.295,
+            "vote_count": 1523
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
+            "id": 1448560,
+            "title": "Wildcat",
+            "original_title": "Wildcat",
+            "overview": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader’s eight-year-old daughter.",
+            "poster_path": "/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 18.2371,
+            "release_date": "2025-11-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.105,
+            "vote_count": 205
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+            "id": 628847,
+            "title": "Trap House",
+            "original_title": "Trap House",
+            "overview": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves – their own rebellious teenagers, who have begun robbing from a dangerous cartel, using their parents' tactics and top-secret intel to do it.",
+            "poster_path": "/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 12.1419,
+            "release_date": "2025-11-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.698,
+            "vote_count": 303
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fcjOngTcwB2DurqKP2vwMs6qsTl.jpg",
+            "id": 500922,
+            "title": "A Score to Settle",
+            "original_title": "A Score to Settle",
+            "overview": "A former mob enforcer who is released from prison after serving 22 years for a crime he didn't commit sets out on a path for revenge against the people who wronged him.",
+            "poster_path": "/7LwB71jzfmbweqYvNGCHNXnwedo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "popularity": 3.1771,
+            "release_date": "2019-08-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.831,
+            "vote_count": 525
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7rKyFSg6SdLoCRCVoWLjL5k658k.jpg",
+            "id": 668489,
+            "title": "Havoc",
+            "original_title": "Havoc",
+            "overview": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
+            "poster_path": "/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                18
+            ],
+            "popularity": 9.4901,
+            "release_date": "2025-04-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 1293
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p80dRTtTQE5U7FeDoJXanxFX2xO.jpg",
+            "id": 38199,
+            "title": "Unthinkable",
+            "original_title": "Unthinkable",
+            "overview": "The government gets wind of a plot to destroy America involving a trio of nuclear weapons for which the whereabouts are unknown. It's up to a seasoned interrogator and an FBI agent to find out exactly where the nukes are.",
+            "poster_path": "/6yQqguytl10FhImngDHV90Aqewa.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "popularity": 7.1177,
+            "release_date": "2010-05-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.81,
+            "vote_count": 1484
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s65RPy7DiBS4PXvUR3fiTw5f725.jpg",
+            "id": 972313,
+            "title": "Blowback",
+            "original_title": "Blowback",
+            "overview": "When a master thief is sabotaged during a bank heist and left for dead, he seeks revenge on his former crew one target at a time. Now, with the cops and the mob closing in, he's in the race of his life to reclaim an untold fortune in cryptocurrency from those who double-crossed him.",
+            "poster_path": "/fHQHC32dhom8u0OxC2hs2gYQh0M.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                9648,
+                53,
+                80
+            ],
+            "popularity": 2.7758,
+            "release_date": "2022-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.037,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yky6Dsxbv5ItMepk8GGu23K6Mvs.jpg",
+            "id": 1093995,
+            "title": "Chief of Station",
+            "original_title": "Chief of Station",
+            "overview": "After learning that the death of his wife was not an accident, a former CIA Station Chief is forced back into the espionage underworld, teaming up with an adversary to unravel a conspiracy that challenges everything he thought he knew.",
+            "poster_path": "/yndlj5aNPWAZ5ayJ4a2S37o98lq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 8.2756,
+            "release_date": "2024-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 253
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg",
+            "id": 395990,
+            "title": "Death Wish",
+            "original_title": "Death Wish",
+            "overview": "A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.",
+            "poster_path": "/g0eEEZAqMf98ULQnoiORuazjOpn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                18
+            ],
+            "popularity": 10.9972,
+            "release_date": "2018-03-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.239,
+            "vote_count": 2854
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vBPR3urSuYheuF8FjY5UZiPzqgV.jpg",
+            "id": 22314,
+            "title": "In Too Deep",
+            "original_title": "In Too Deep",
+            "overview": "Drug lord Dwayne Gittens rules Cincinnati with an iron fist. No wonder he's known as \"God\" on the streets. Determined to break Gittens' stranglehold on the city is undercover cop Jeffrey Cole. But as Cole takes on an assumed identity to penetrate Gittens' criminal empire, he makes a disturbing discovery -- he kind of likes being a gangster.",
+            "poster_path": "/mYteXffai9mmShyGCa4nPhfGCLQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28,
+                53,
+                80
+            ],
+            "popularity": 3.6425,
+            "release_date": "1999-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.405,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bvAMLx00BOr6vkSQWZscwGrPdGI.jpg",
+            "id": 1058949,
+            "title": "Little Dixie",
+            "original_title": "Little Dixie",
+            "overview": "Erstwhile Special Forces operative Doc Alexander is asked to broker a truce with the Mexican drug cartel in secrecy. When Oklahoma Governor Richard Jeffs celebrates the execution of a high-ranking cartel member on TV, his Chief of Staff and Doc inform him about the peace he just ended. But it’s too late, as Cuco, the cartel’s hatchet man, has set his vengeful sights on Doc’s daughter Dixie.",
+            "poster_path": "/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                18
+            ],
+            "popularity": 2.2271,
+            "release_date": "2023-02-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.807,
+            "vote_count": 166
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4H7QiNpacRNuSBYXR5yvGne5fEx.jpg",
+            "id": 23847,
+            "title": "Across 110th Street",
+            "original_title": "Across 110th Street",
+            "overview": "In a daring robbery, some $300,000 is taken from the Italian mob. Several mafiosi are killed, as are two policemen. Lt. Pope and Capt. Mattelli are two New York City cops trying to break the case. Three small-time criminals are on the run with the money. Will the mafia catch them first, or will the police?",
+            "poster_path": "/ooxttcglcMbcCX58jzXibGEybKB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "popularity": 1.8726,
+            "release_date": "1972-12-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6AxdvA5hiBGF5ajSKsyt0q7rHei.jpg",
+            "id": 921360,
+            "title": "Wire Room",
+            "original_title": "Wire Room",
+            "overview": "New recruit Justin Rosa must monitor arms-smuggling cartel member Eddie Flynn — and keep him alive at all costs. When a SWAT team descends on Flynn’s home, Rosa breaks protocol and contacts the gangster directly to save his life. As gunmen break into the Wire Room and chaos erupts, Mueller and Rosa make a final, desperate stand against the corrupt agents and officials who seek to destroy evidence and kill them both.",
+            "poster_path": "/b9ykj4v8ykjRoGB7SpI1OuxblNU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "popularity": 3.5757,
+            "release_date": "2022-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.052,
+            "vote_count": 182
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gosq7YRhLHhJ4GalCuQaDJQ0EhC.jpg",
+            "id": 1461181,
+            "title": "Hierarchy",
+            "original_title": "Hierarchy",
+            "overview": "In an undisclosed area of Texas after two adoptive brothers become entangled in criminal activity, forced to evade law enforcement and the greedy Russian mafia.",
+            "poster_path": "/3KVq24NkOn98nrSEAFphnRWVWNd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                10770
+            ],
+            "popularity": 4.7743,
+            "release_date": "2025-08-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.989,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sRM4tKNCWekgwM4Dk9EvfSZ0iXB.jpg",
+            "id": 1128377,
+            "title": "In Cold Light",
+            "original_title": "In Cold Light",
+            "overview": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute.",
+            "poster_path": "/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "popularity": 4.1344,
+            "release_date": "2026-01-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.888,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/brb00GEHqtkDetey1nNSsOEvDq8.jpg",
+            "id": 255157,
+            "title": "The Forger",
+            "original_title": "The Forger",
+            "overview": "A former child art prodigy and second generation petty thief arranges to buy his way out of prison to spend time with his ailing son, only to be forced to alter his plans and commit one more job for the man who financed his release.",
+            "poster_path": "/x6wsmaVgIhtOwbMyIzOyfmZZSqf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "popularity": 3.0353,
+            "release_date": "2014-09-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.809,
+            "vote_count": 403
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lBsbWXGn9maPKGhN3fozTU3BH0r.jpg",
+            "id": 757725,
+            "title": "Shadow Force",
+            "original_title": "Shadow Force",
+            "overview": "Kyrah and Isaac were once the leaders of a multinational special forces group called Shadow Force. They broke the rules by falling in love, and in order to protect their son, they go underground. With a large bounty on their heads, and the vengeful Shadow Force hot on their trail, one family's fight becomes all-out war.",
+            "poster_path": "/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 7.0597,
+            "release_date": "2025-05-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 313
+        }
+    ]
+}

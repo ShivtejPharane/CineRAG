@@ -1,0 +1,680 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 36,
+                "name": "History"
+            }
+        ],
+        "homepage": "",
+        "id": 1671541,
+        "imdb_id": "tt43515124",
+        "origin_country": [
+            "CN"
+        ],
+        "original_language": "zh",
+        "original_title": "三国第一部：争洛阳",
+        "overview": "Toward the end of the Eastern Han Dynasty, amid nationwide unrest, Cao Cao and Yuan Shao sought to enlist General-in-Chief He Jin’s support to check the power of the eunuchs and restore the Han Dynasty to its rightful order. Unexpectedly, Dong Zhuo seized the chaos to march his troops into the capital, plotting to dethrone the reigning emperor and install a new one.Swept up in the torrential tide of troubled times, a host of warlords emerged one after another: Yuan Shu, Lü Bu, Sun Jian, as well as Liu Bei, Guan Yu and Zhang Fei. Turmoil engulfed Luoyang, and the fate of the great Han Empire stood at a crossroads…",
+        "popularity": 10.6852,
+        "poster_path": "/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
+        "production_companies": [
+            {
+                "id": 67089,
+                "logo_path": "/b7eIxPp9okzoDcinBKxs1Vqckzm.png",
+                "name": "Light Chaser Animation Studios",
+                "origin_country": "CN"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "release_date": "2026-06-27",
+        "revenue": 0,
+        "runtime": 137,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Mandarin",
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Three Kingdoms: The Beginning",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2129165,
+            "known_for_department": "Acting",
+            "name": "Kai Wang",
+            "original_name": "王凱",
+            "popularity": 0.9285,
+            "profile_path": "/gjhmjROKqAxIwAbUdxaItr3AyMf.jpg",
+            "cast_id": 4,
+            "character": "曹操(voice)",
+            "credit_id": "6a4217d42a4c5c38a4d299e7",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2199340,
+            "known_for_department": "Acting",
+            "name": "Wei Chao",
+            "original_name": "魏超",
+            "popularity": 0.8375,
+            "profile_path": "/aPYAEWrS1lb1UYwCFejIcJOOGSU.jpg",
+            "cast_id": 5,
+            "character": "袁绍(voice)",
+            "credit_id": "6a4219e5ec9dd9caccf8ecde",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6315667,
+            "known_for_department": "Acting",
+            "name": "万昊",
+            "original_name": "万昊",
+            "popularity": 0.3264,
+            "profile_path": null,
+            "cast_id": 6,
+            "character": "何进(voice)",
+            "credit_id": "6a4219fd8a10feca67191e0c",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3769757,
+            "known_for_department": "Acting",
+            "name": "Li Nan",
+            "original_name": "李楠",
+            "popularity": 0.5235,
+            "profile_path": "/nnyFddBJJm0s5UTwzFSBX3VLTes.jpg",
+            "cast_id": 7,
+            "character": "董卓(voice)",
+            "credit_id": "6a421a11449d99ad7e4e6367",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4376425,
+            "known_for_department": "Acting",
+            "name": "Chang Wentao",
+            "original_name": "Wentao Chang",
+            "popularity": 0.6424,
+            "profile_path": "/s9jQXrUzbtMXA6d5iZkgQ6nGJ5N.jpg",
+            "cast_id": 8,
+            "character": "吕布(voice)",
+            "credit_id": "6a421a309ea2e4fe0b905fda",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5557717,
+            "known_for_department": "Acting",
+            "name": "Tang Mingdong",
+            "original_name": "Tang Mingdong",
+            "popularity": 0.2764,
+            "profile_path": "/rHlanIUmJVMm01zxfq10KXZJsUG.jpg",
+            "cast_id": 9,
+            "character": "袁术(voice)",
+            "credit_id": "6a421a4daa627b1b0bb19610",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2796184,
+            "known_for_department": "Acting",
+            "name": "Yan Yansheng",
+            "original_name": "Yan Yansheng",
+            "popularity": 0.6403,
+            "profile_path": "/9gArKt4F8IxPToVrFRqZEviToXb.jpg",
+            "cast_id": 10,
+            "character": "王允(voice)",
+            "credit_id": "6a421a5f449d99ad7e4e6377",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4244140,
+            "known_for_department": "Acting",
+            "name": "Chen Zhe",
+            "original_name": "陳喆",
+            "popularity": 0.6379,
+            "profile_path": "/dXhqfDYNGThM4qPdjb1W2gbL77H.jpg",
+            "cast_id": 11,
+            "character": "张让(voice)",
+            "credit_id": "6a421ad7bcdd9aa0524e62f1",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2463716,
+            "known_for_department": "Acting",
+            "name": "Li Shimeng",
+            "original_name": "李詩萌",
+            "popularity": 3.605,
+            "profile_path": "/i7hKjBsuxiMHuj3v68yWhbLXNbi.jpg",
+            "cast_id": 12,
+            "character": "何太后(voice)",
+            "credit_id": "6a421ae7b7caae4d2f80e7f7",
+            "order": 8
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3931953,
+            "known_for_department": "Directing",
+            "name": "Xie Junwei",
+            "original_name": "Xie Junwei",
+            "popularity": 0.3935,
+            "profile_path": "/pChBglAXa5qCd1WAC2G0wuj5wbP.jpg",
+            "credit_id": "69def269aa4a645831f93a58",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1531446,
+            "known_for_department": "Directing",
+            "name": "Gary Wang",
+            "original_name": "王微",
+            "popularity": 0.9386,
+            "profile_path": "/lVT7YqnICIrQ59Je509CjRht9vW.jpg",
+            "credit_id": "69def274c92757137ab4c74d",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5517595,
+            "known_for_department": "Production",
+            "name": "Song Yiyi",
+            "original_name": "Song Yiyi",
+            "popularity": 0.2222,
+            "profile_path": "/kCGT2QyNNwG2SThPB6ypDA7my7M.jpg",
+            "credit_id": "69def295aea19b4e51f939cf",
+            "department": "Production",
+            "job": "Producer"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/m4sS3YPOu6OPHzwJcPKjMH1TyRA.jpg",
+            "id": 1089654,
+            "title": "Chang'an",
+            "original_title": "长安三万里",
+            "overview": "A few years after the Anshi Rebellion, Tang dynasty military commander Gao Shi suffers a defeat in a battle threatening Chang'an. Trapped in the besieged city, he recalls his lifelong friendship with the acclaimed poet Li Bai.",
+            "poster_path": "/ltWuj0bEhITpiNYaTmpc2lUKy90.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                36
+            ],
+            "popularity": 3.1226,
+            "release_date": "2023-07-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.667,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tv2xJzlQfwTHHls2ze8UeSheWgv.jpg",
+            "id": 811634,
+            "title": "The Monkey King: Reborn",
+            "original_title": "西游记之再世妖王",
+            "overview": "When the irritable monkey king visits a temple together with his master Tang Monk, he feels offended because of a trifle and thereupon accidentally destroys a magic tree growing on the sacred ground. This brings an ancient demon king back to life, who promptly kidnaps Tang Monk to take revenge for his long imprisonment. The monkey king and his followers have only three days to not only save their master but also to prevent the demon king from regaining his full powers and destroying the world…",
+            "poster_path": "/67YXOoKGODyGvJXfXzVmgHNXYh8.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                10751
+            ],
+            "popularity": 3.7523,
+            "release_date": "2021-04-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.225,
+            "vote_count": 344
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tBY8hN4inRzOwUwfvhBUHo00pIQ.jpg",
+            "id": 332718,
+            "title": "Bilal: A New Breed of Hero",
+            "original_title": "Bilal: A New Breed of Hero",
+            "overview": "A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise his voice and make a change. Inspired by true events, this is a story of a real hero who earned his remembrance in time and history.",
+            "poster_path": "/ncWuEzxnXqssxRfHghZuUAIezCo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                36
+            ],
+            "popularity": 2.7156,
+            "release_date": "2016-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.806,
+            "vote_count": 169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/201mKrWi37SE1YkdqRP7rE3QamK.jpg",
+            "id": 416153,
+            "title": "Arctic Dogs",
+            "original_title": "Arctic Dogs",
+            "overview": "Animals band together to save the day when the evil Otto Von Walrus hatches a sinister scheme to accelerate global warming and melt the Arctic Circle.",
+            "poster_path": "/5YHjyjd2N0ZXcnGuB8G1nIa6h9t.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                35
+            ],
+            "popularity": 6.3104,
+            "release_date": "2019-11-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.983,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aJBpwcfIdurKgiCTYYiqtXkRwUR.jpg",
+            "id": 858064,
+            "title": "Night of the Animated Dead",
+            "original_title": "Night of the Animated Dead",
+            "overview": "An animated retelling of ‘Night of the Living Dead’, in which a group of people in a rural farmhouse struggle to survive the threat of bloodthirsty zombies.",
+            "poster_path": "/mluarGbxZjgvhe5bteR7P24HHAw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                27
+            ],
+            "popularity": 2.2892,
+            "release_date": "2021-09-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.119,
+            "vote_count": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hdXQxlD4mep7qtC5TsvhIt840OV.jpg",
+            "id": 703771,
+            "title": "Deathstroke: Knights & Dragons - The Movie",
+            "original_title": "Deathstroke: Knights & Dragons - The Movie",
+            "overview": "The assassin Deathstroke tries to save his family from the wrath of H.I.V.E. and the murderous Jackal.",
+            "poster_path": "/vFIHbiy55smzi50RmF8LQjmpGcx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                878
+            ],
+            "popularity": 2.9265,
+            "release_date": "2020-08-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.96,
+            "vote_count": 473
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zxIXvhF5PSZwQ9tvlLIzhcwi7IO.jpg",
+            "id": 844075,
+            "title": "New Gods: Yang Jian",
+            "original_title": "新神榜：杨戬",
+            "overview": "Fifteen hundred years after the war of gods, the heaven declined. Yang Jian, the God of Erlang, made a living by working as a catcher. One day, Yang Jian was ordered to hunt down a young man, his own nephew.",
+            "poster_path": "/tW5dFOemV4d7hxTcVI2bu4u0C9z.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                12,
+                14,
+                35
+            ],
+            "popularity": 6.0102,
+            "release_date": "2022-08-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.495,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hk4PwhKhT7q7jp1lvA8aiYqDluy.jpg",
+            "id": 926899,
+            "title": "The House",
+            "original_title": "The House",
+            "overview": "Across different eras, a poor family, an anxious developer and a fed-up landlady become tied to the same mysterious house in this animated dark comedy.",
+            "poster_path": "/xhE1EYcD6U7m5R8AT7yf29CCxia.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                18,
+                35,
+                27,
+                14
+            ],
+            "popularity": 5.6686,
+            "release_date": "2022-01-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.022,
+            "vote_count": 1162
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dYghS9G00IbI3dEPHWcCm8YuviH.jpg",
+            "id": 554594,
+            "title": "Koati",
+            "original_title": "Koati",
+            "overview": "Three unlikely heroes - Nachi, a free-spirited coati; Xochi, a fearless monarch butterfly and Pako, a hyperactive glass frog - embark on an adventure to stop wicked coral snake Zaina from destroying their rain forest homeland.",
+            "poster_path": "/b22cNsuP7Qk0V0KZzcNM5NYvTnl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16
+            ],
+            "popularity": 2.9098,
+            "release_date": "2021-10-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.029,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1YL8ksfwm3p2Tgt1yaNVYYOvOKC.jpg",
+            "id": 1203329,
+            "title": "The Witcher: Sirens of the Deep",
+            "original_title": "The Witcher: Sirens of the Deep",
+            "overview": "When human sailors are attacked by mysterious creatures of the deep, only one person can stop the war between land and sea: the Witcher, Geralt of Rivia.",
+            "poster_path": "/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                14,
+                28
+            ],
+            "popularity": 4.8187,
+            "release_date": "2025-02-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.813,
+            "vote_count": 283
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tsvZt8oObijb4d3nzOUJiHbfWLT.jpg",
+            "id": 47759,
+            "title": "The Monkey King: Uproar in Heaven",
+            "original_title": "大闹天宫",
+            "overview": "Sun Wukong, the King of the Monkeys, sets off on his first adventure to gain a worthy weapon. This earns the attention of the Jade Emperor of Heaven.",
+            "poster_path": "/vBHI9QjQyCyJP7EtqoGweahTU8S.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                12,
+                14,
+                28
+            ],
+            "popularity": 5.5729,
+            "release_date": "1961-07-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.763,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sN1sIv6YZTpdBr7D9mQBxGzRnLL.jpg",
+            "id": 137116,
+            "title": "Smurfs: The Lost Village",
+            "original_title": "Smurfs: The Lost Village",
+            "overview": "In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.",
+            "poster_path": "/swt9crREg1UcKgg3wGWfoFNlXOz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                35,
+                12,
+                16
+            ],
+            "popularity": 8.3333,
+            "release_date": "2017-03-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.362,
+            "vote_count": 1577
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kkXMDMRGtuO9cewtFjWNREC74nf.jpg",
+            "id": 739542,
+            "title": "America: The Motion Picture",
+            "original_title": "America: The Motion Picture",
+            "overview": "A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.",
+            "poster_path": "/j0HnLa6FtGcslbqClKOIyvCXfpe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                35
+            ],
+            "popularity": 3.7879,
+            "release_date": "2021-06-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.838,
+            "vote_count": 271
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tMOukv9bSjVW2AMevSmkU5l9sGb.jpg",
+            "id": 15035,
+            "title": "Fire and Ice",
+            "original_title": "Fire and Ice",
+            "overview": "The villainous Nekron and his mother, Queen Juliana, plot against the human race from their frigid fortress. Creating mass destruction with huge glaciers, mother and son incur the wrath of Larn, a warrior whose entire village was destroyed by ice. When Nekron's underlings kidnap the beautiful Princess Teegra, Larn sets out to rescue her, assisted by the fierce and enigmatic Darkwolf.",
+            "poster_path": "/v0fi9KgmdsUsGtopxxRzbtQ5NIX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                14,
+                878,
+                12
+            ],
+            "popularity": 4.8057,
+            "release_date": "1983-03-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.692,
+            "vote_count": 360
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/endVnEgUGjibpLaF0yjUX2CWhh4.jpg",
+            "id": 1007401,
+            "title": "Mortal Kombat Legends: Snow Blind",
+            "original_title": "Mortal Kombat Legends: Snow Blind",
+            "overview": "The vicious, power-mad Kano is determined to take over Earthrealm, one soul at a time. Assisted by a trio of cold Black Dragon mercenaries, he embarks on a brutal assault from town to defenseless town. The choice is simple: kneel or be annihilated. Kenshi, a rebel warrior, calls on Kuai Liang, the only one powerful enough to challenge the malevolent Kano. But Kuai Liang has given up the ways of the warrior, and Kenshi is too undisciplined to defeat Kano himself. If Kuai Liang cannot break through the glacier of doubt that holds him back, Earthrealm will fall.",
+            "poster_path": "/8wyOdQRVrpoUb2wMdGHykaD17GM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "popularity": 3.9155,
+            "release_date": "2022-10-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.717,
+            "vote_count": 242
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k1pJslKr4aDayw9kWwWnlC3MIP3.jpg",
+            "id": 615453,
+            "title": "Ne Zha",
+            "original_title": "哪吒之魔童降世",
+            "overview": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate.",
+            "poster_path": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                14,
+                12
+            ],
+            "popularity": 12.7009,
+            "release_date": "2019-07-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.891,
+            "vote_count": 915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gVgpNGHkgK8iPfKnc89jL8kmKsD.jpg",
+            "id": 24528,
+            "title": "Killer Bean Forever",
+            "original_title": "Killer Bean Forever",
+            "overview": "When things go bad in Beantown, top assassin Killer Bean is called to clean-up the mess. Detective Cromwell finds himself in the middle between Killer Bean and mob boss Cappuccino.",
+            "poster_path": "/qZTCweihd6H8IM2W1Bgk7M3HKrf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                53
+            ],
+            "popularity": 3.4348,
+            "release_date": "2008-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.156,
+            "vote_count": 192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ciQxS1iijdx4FTBxZgpJR8avloc.jpg",
+            "id": 74037,
+            "title": "Nezha Conquers the Dragon King",
+            "original_title": "哪吒闹海",
+            "overview": "In Chentang Pass, Nezha, the magical son of General Li Jing, makes enemies with Ao Guang, the Dragon King of East Sea. When he is reported to heaven's court and his home is threatened, Nezha takes it upon himself to destroy the palace and defeat the dragons. A retelling of the classic chapters from Investiture of The Gods.",
+            "poster_path": "/jMThfUmAEsA0K1rZIjW3dqRXv2q.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                14,
+                12,
+                28
+            ],
+            "popularity": 3.9915,
+            "release_date": "1979-05-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.758,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hXz0u1wEYU7LogAPspwd1o4xBfj.jpg",
+            "id": 594328,
+            "title": "Phineas and Ferb the Movie: Candace Against the Universe",
+            "original_title": "Phineas and Ferb the Movie: Candace Against the Universe",
+            "overview": "Phineas and Ferb travel across the galaxy to rescue their older sister Candace, who has been abducted by aliens and taken to a utopia in a far-off planet, free of her pesky little brothers.",
+            "poster_path": "/m5ZGqyTN8BMRO3OApuSWHBfyySg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                878,
+                35
+            ],
+            "popularity": 5.7024,
+            "release_date": "2020-06-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c9xmB53umjnrCMS4pZz11clF3yJ.jpg",
+            "id": 980477,
+            "title": "Ne Zha 2",
+            "original_title": "哪吒之魔童闹海",
+            "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+            "poster_path": "/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                12
+            ],
+            "popularity": 26.3696,
+            "release_date": "2025-01-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.158,
+            "vote_count": 779
+        }
+    ]
+}

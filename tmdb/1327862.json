@@ -1,0 +1,1406 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
+        "belongs_to_collection": null,
+        "budget": 30000000,
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://www.paramountpictures.com/movies/regretting-you",
+        "id": 1327862,
+        "imdb_id": "tt33088452",
+        "origin_country": [
+            "DE",
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Regretting You",
+        "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other.",
+        "popularity": 17.8204,
+        "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+        "production_companies": [
+            {
+                "id": 95966,
+                "logo_path": null,
+                "name": "Harbinger Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 140519,
+                "logo_path": null,
+                "name": "Frayed Pages Media",
+                "origin_country": "US"
+            },
+            {
+                "id": 216687,
+                "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+                "name": "Domain Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 47,
+                "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+                "name": "Constantin Film",
+                "origin_country": "DE"
+            },
+            {
+                "id": 220749,
+                "logo_path": null,
+                "name": "north.five.six",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "release_date": "2025-10-22",
+        "revenue": 90452948,
+        "runtime": 116,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Risk everything. Regret nothing.",
+        "title": "Regretting You",
+        "video": false,
+        "vote_average": 7.116,
+        "vote_count": 516
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1172108,
+            "known_for_department": "Acting",
+            "name": "Mckenna Grace",
+            "original_name": "Mckenna Grace",
+            "popularity": 8.8025,
+            "profile_path": "/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg",
+            "cast_id": 8,
+            "character": "Clara Grant",
+            "credit_id": "66b87851ffd0572dbb285a28",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2803710,
+            "known_for_department": "Acting",
+            "name": "Mason Thames",
+            "original_name": "Mason Thames",
+            "popularity": 3.7298,
+            "profile_path": "/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg",
+            "cast_id": 10,
+            "character": "Miller Adams",
+            "credit_id": "66cdee4e47e31699ada2a1b5",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1255540,
+            "known_for_department": "Acting",
+            "name": "Allison Williams",
+            "original_name": "Allison Williams",
+            "popularity": 3.3015,
+            "profile_path": "/5Jy9HELKS1OYg7moRl8870OSfJq.jpg",
+            "cast_id": 1,
+            "character": "Morgan Grant",
+            "credit_id": "66b71a585d83aa505e282b9f",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 54697,
+            "known_for_department": "Acting",
+            "name": "Dave Franco",
+            "original_name": "Dave Franco",
+            "popularity": 4.3937,
+            "profile_path": "/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg",
+            "cast_id": 9,
+            "character": "Jonah Sullivan",
+            "credit_id": "66ba5c957a0bd651909128a5",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3411744,
+            "known_for_department": "Acting",
+            "name": "Sam Morelos",
+            "original_name": "Sam Morelos",
+            "popularity": 0.6713,
+            "profile_path": "/nmrCwmyVB7BdwNrx1cvvxGY0Ci2.jpg",
+            "cast_id": 15,
+            "character": "Lexie",
+            "credit_id": "67dc5a16d67d7dc3c86b9e5a",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 928572,
+            "known_for_department": "Acting",
+            "name": "Scott Eastwood",
+            "original_name": "Scott Eastwood",
+            "popularity": 4.8023,
+            "profile_path": "/tKJEy1bFNxvIj7sivsB7Us2ThmY.jpg",
+            "cast_id": 14,
+            "character": "Chris Grant",
+            "credit_id": "67d8786d25f01d54167c4cde",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1318650,
+            "known_for_department": "Acting",
+            "name": "Willa Fitzgerald",
+            "original_name": "Willa Fitzgerald",
+            "popularity": 4.0361,
+            "profile_path": "/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg",
+            "cast_id": 13,
+            "character": "Jenny Davidson",
+            "credit_id": "67d48b9df17459c8ff53dff8",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6574,
+            "known_for_department": "Acting",
+            "name": "Clancy Brown",
+            "original_name": "Clancy Brown",
+            "popularity": 4.9447,
+            "profile_path": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg",
+            "cast_id": 16,
+            "character": "Hank \"Gramps\" Adams Sr.",
+            "credit_id": "67dc5a1e927d39deb3f2c5f7",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5144954,
+            "known_for_department": "Acting",
+            "name": "Ethan Costanilla",
+            "original_name": "Ethan Costanilla",
+            "popularity": 0.4491,
+            "profile_path": "/zAhhI5lqagf9Gi4VbGwASAp17Am.jpg",
+            "cast_id": 32,
+            "character": "Efren",
+            "credit_id": "68bd387b4232fbfcd74e5bcb",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4680485,
+            "known_for_department": "Acting",
+            "name": "Luke Pierre Roness",
+            "original_name": "Luke Pierre Roness",
+            "popularity": 0.4068,
+            "profile_path": "/mA41dGhmhznIJZGOyxheZWWozmu.jpg",
+            "cast_id": 31,
+            "character": "Hank Adams Jr.",
+            "credit_id": "68bd3869b5e9c25e5798bae6",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3862020,
+            "known_for_department": "Acting",
+            "name": "Daniel Smith",
+            "original_name": "Daniel Smith",
+            "popularity": 0.232,
+            "profile_path": null,
+            "cast_id": 54,
+            "character": "Pastor",
+            "credit_id": "68fa0a50da53ae7580dd935f",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2922079,
+            "known_for_department": "Acting",
+            "name": "Alicia Cuthbertson",
+            "original_name": "Alicia Cuthbertson",
+            "popularity": 0.3965,
+            "profile_path": "/1flGdKg3n5CxCVJMmT1s0BEVILP.jpg",
+            "cast_id": 55,
+            "character": "ER Desk Attendant",
+            "credit_id": "68fa0a6426c89ca7fa466ff3",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1957903,
+            "known_for_department": "Acting",
+            "name": "Marcelle LeBlanc",
+            "original_name": "Marcelle LeBlanc",
+            "popularity": 0.5824,
+            "profile_path": "/4nJsmehmC491BKG8Nylc9ciAGuC.jpg",
+            "cast_id": 30,
+            "character": "Tonya",
+            "credit_id": "68bd385798c17ea86d069b6d",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2068598,
+            "known_for_department": "Acting",
+            "name": "Kurt Yue",
+            "original_name": "Kurt Yue",
+            "popularity": 0.9513,
+            "profile_path": "/kPy0d5uUNiJJB18T55IdE01Ruru.jpg",
+            "cast_id": 52,
+            "character": "Doctor",
+            "credit_id": "68ceea1fae30a3e9f6cd72fc",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5767454,
+            "known_for_department": "Acting",
+            "name": "William Burnham Simmons",
+            "original_name": "William Burnham Simmons",
+            "popularity": 0.2541,
+            "profile_path": null,
+            "cast_id": 56,
+            "character": "Elijah",
+            "credit_id": "68fa0a71637c0bf816536799",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5948235,
+            "known_for_department": "Acting",
+            "name": "Ryan Conner Simmons",
+            "original_name": "Ryan Conner Simmons",
+            "popularity": 0.2396,
+            "profile_path": null,
+            "cast_id": 66,
+            "character": "Elijah",
+            "credit_id": "696d82524505048d2bdcb442",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1979944,
+            "known_for_department": "Editing",
+            "name": "Joe Binford Jr.",
+            "original_name": "Joe Binford Jr.",
+            "popularity": 0.3531,
+            "profile_path": null,
+            "cast_id": 57,
+            "character": "DJ (voice)",
+            "credit_id": "68fa0a89b142efde79536693",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5306940,
+            "known_for_department": "Acting",
+            "name": "Aubrey Brockwell",
+            "original_name": "Aubrey Brockwell",
+            "popularity": 0.2723,
+            "profile_path": null,
+            "cast_id": 33,
+            "character": "Young Clara (uncredited)",
+            "credit_id": "68bd38b474df74d86a9c054c",
+            "order": 17
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1053420,
+            "known_for_department": "Directing",
+            "name": "Josh Boone",
+            "original_name": "Josh Boone",
+            "popularity": 0.619,
+            "profile_path": "/Ak9d9uoTVIAJYOsl8vfcLICBIc5.jpg",
+            "credit_id": "66b71a651771b6558ea7b321",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1817019,
+            "known_for_department": "Writing",
+            "name": "Colleen Hoover",
+            "original_name": "Colleen Hoover",
+            "popularity": 0.6567,
+            "profile_path": "/1UVLH7yqLcDRQxmWOauVp36stCf.jpg",
+            "credit_id": "66b71a7af44005314c073291",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4017,
+            "known_for_department": "Production",
+            "name": "Robert Kulzer",
+            "original_name": "Robert Kulzer",
+            "popularity": 0.6173,
+            "profile_path": "/tzQeiYsq9CJIzGSN2nsmez68TM6.jpg",
+            "credit_id": "66b71a87013f50b977a8c3e7",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1664826,
+            "known_for_department": "Writing",
+            "name": "Anna Todd",
+            "original_name": "Anna Todd",
+            "popularity": 0.7626,
+            "profile_path": "/b0L0Hicos8ZeEXt96Jf9wDed8FS.jpg",
+            "credit_id": "66b71aa013df43edfe1db408",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1008413,
+            "known_for_department": "Production",
+            "name": "Brunson Green",
+            "original_name": "Brunson Green",
+            "popularity": 0.4501,
+            "profile_path": "/ecSbOefNb7NtmZvR3dwSKu6b8Vs.jpg",
+            "credit_id": "66b71a9420817ac8afaa8b75",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1817019,
+            "known_for_department": "Writing",
+            "name": "Colleen Hoover",
+            "original_name": "Colleen Hoover",
+            "popularity": 0.6567,
+            "profile_path": "/1UVLH7yqLcDRQxmWOauVp36stCf.jpg",
+            "credit_id": "66e7d85f050f14e4fccfd98a",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4945117,
+            "known_for_department": "Production",
+            "name": "Flavia Viotti",
+            "original_name": "Flavia Viotti",
+            "popularity": 0.2207,
+            "profile_path": null,
+            "credit_id": "66e7d87a9dfbbdf0e6cfe2dd",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 13585,
+            "known_for_department": "Production",
+            "name": "Nancy Nayor",
+            "original_name": "Nancy Nayor",
+            "popularity": 0.6221,
+            "profile_path": null,
+            "credit_id": "67dc5af0faba16b5bdf2c5b0",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3843827,
+            "known_for_department": "Production",
+            "name": "Jasmine Gutierrez",
+            "original_name": "Jasmine Gutierrez",
+            "popularity": 0.3934,
+            "profile_path": "/pgWtG3jldG56seIPOQbfLJvtmdL.jpg",
+            "credit_id": "67dc5b08faba16b5bdf2c5b5",
+            "department": "Production",
+            "job": "Casting Associate"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4992269,
+            "known_for_department": "Production",
+            "name": "Brent Hagata",
+            "original_name": "Brent Hagata",
+            "popularity": 0.2101,
+            "profile_path": null,
+            "credit_id": "67dc5b26d67d7dc3c86b9ee1",
+            "department": "Production",
+            "job": "Casting Associate"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1856994,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Leo Satkovich",
+            "original_name": "Leo Satkovich",
+            "popularity": 0.4173,
+            "profile_path": null,
+            "credit_id": "681fd7cce1c07d68892d1317",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Department Head"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2806855,
+            "known_for_department": "Directing",
+            "name": "Stephen W. Moore",
+            "original_name": "Stephen W. Moore",
+            "popularity": 0.4503,
+            "profile_path": null,
+            "credit_id": "681fd7e6aa0a2c16244b3e19",
+            "department": "Directing",
+            "job": "First Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1578364,
+            "known_for_department": "Crew",
+            "name": "Keith Splinter Davis",
+            "original_name": "Keith Splinter Davis",
+            "popularity": 0.5947,
+            "profile_path": "/buXCsTzcKOHTquh8LiOSDKd1rwd.jpg",
+            "credit_id": "681fd810722788a441a15b3a",
+            "department": "Crew",
+            "job": "Stunt Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1255540,
+            "known_for_department": "Acting",
+            "name": "Allison Williams",
+            "original_name": "Allison Williams",
+            "popularity": 3.3015,
+            "profile_path": "/5Jy9HELKS1OYg7moRl8870OSfJq.jpg",
+            "credit_id": "686082d8ea9f9de7bcfdc724",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4445624,
+            "known_for_department": "Production",
+            "name": "Anthony Tittanegro",
+            "original_name": "Anthony Tittanegro",
+            "popularity": 0.7256,
+            "profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg",
+            "credit_id": "689558dbf9f067e0e0c6ea0b",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4445622,
+            "known_for_department": "Production",
+            "name": "Pete Chiappetta",
+            "original_name": "Pete Chiappetta",
+            "popularity": 0.8421,
+            "profile_path": "/t2gaoeKDpCvzIhVzr7rQrX4gBjn.jpg",
+            "credit_id": "689558e48ec5a7992866ea92",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4445623,
+            "known_for_department": "Production",
+            "name": "Andrew Lary",
+            "original_name": "Andrew Lary",
+            "popularity": 0.5786,
+            "profile_path": "/cmiInaHyivPOr9OZyOMwDLiiINf.jpg",
+            "credit_id": "689558f240f79a883c28a7ea",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 674,
+            "known_for_department": "Production",
+            "name": "Oliver Berben",
+            "original_name": "Oliver Berben",
+            "popularity": 0.6091,
+            "profile_path": "/xzokTXR0FO1LGANvgUDbs4nKem1.jpg",
+            "credit_id": "68bd38d098c17ea86d069b7c",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 54697,
+            "known_for_department": "Acting",
+            "name": "Dave Franco",
+            "original_name": "Dave Franco",
+            "popularity": 4.3937,
+            "profile_path": "/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg",
+            "credit_id": "68bd38e374df74d86a9c0551",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1172108,
+            "known_for_department": "Acting",
+            "name": "Mckenna Grace",
+            "original_name": "Mckenna Grace",
+            "popularity": 8.8025,
+            "profile_path": "/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg",
+            "credit_id": "68bd38ee2ac2f5635f1bc37a",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3815829,
+            "known_for_department": "Production",
+            "name": "Samuel Hall",
+            "original_name": "Samuel Hall",
+            "popularity": 0.4177,
+            "profile_path": null,
+            "credit_id": "68bd39044acfe14e8e1bc698",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2395724,
+            "known_for_department": "Writing",
+            "name": "Emily Magee",
+            "original_name": "Emily Magee",
+            "popularity": 0.3976,
+            "profile_path": null,
+            "credit_id": "68bd391d10647f072c1bc56e",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1018084,
+            "known_for_department": "Production",
+            "name": "Warren T. Goz",
+            "original_name": "Warren T. Goz",
+            "popularity": 0.3049,
+            "profile_path": null,
+            "credit_id": "68bd3926e3333fb0f59c0377",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1343946,
+            "known_for_department": "Production",
+            "name": "Jon D. Wagner",
+            "original_name": "Jon D. Wagner",
+            "popularity": 0.4415,
+            "profile_path": null,
+            "credit_id": "68bd3945934c154ceb8cecd4",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2226017,
+            "known_for_department": "Production",
+            "name": "Michael J. Rothstein",
+            "original_name": "Michael J. Rothstein",
+            "popularity": 0.3361,
+            "profile_path": null,
+            "credit_id": "68bd3952e1c80d115494736e",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 72264,
+            "known_for_department": "Camera",
+            "name": "Tim Orr",
+            "original_name": "Tim Orr",
+            "popularity": 0.5978,
+            "profile_path": "/7ANEkhXONfNC1ftIlSvIg4HFH03.jpg",
+            "credit_id": "68bd3969b6a42c807c1f4e5b",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4643043,
+            "known_for_department": "Editing",
+            "name": "Marc Clark",
+            "original_name": "Marc Clark",
+            "popularity": 0.288,
+            "profile_path": null,
+            "credit_id": "68bd3977d18046b5cf9472f8",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19661,
+            "known_for_department": "Editing",
+            "name": "Robb Sullivan",
+            "original_name": "Robb Sullivan",
+            "popularity": 0.4454,
+            "profile_path": null,
+            "credit_id": "68bd39822ac2f5635f1bc384",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1715116,
+            "known_for_department": "Art",
+            "name": "Brittany Hites",
+            "original_name": "Brittany Hites",
+            "popularity": 0.5128,
+            "profile_path": null,
+            "credit_id": "68bd399121ffad0fb398b9db",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2028801,
+            "known_for_department": "Art",
+            "name": "Nicholas Urbano",
+            "original_name": "Nicholas Urbano",
+            "popularity": 0.249,
+            "profile_path": null,
+            "credit_id": "68bd39a039edc42a531bc64e",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1871270,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Erinn Knight",
+            "original_name": "Erinn Knight",
+            "popularity": 0.3342,
+            "profile_path": null,
+            "credit_id": "68bd39aba0a80ad1114e5d4d",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3165994,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Jessica Craig",
+            "original_name": "Jessica Craig",
+            "popularity": 0.4299,
+            "profile_path": null,
+            "credit_id": "68bd39bc9c3fe8147d1f4d88",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1530870,
+            "known_for_department": "Crew",
+            "name": "Lisa Rodgers",
+            "original_name": "Lisa Rodgers",
+            "popularity": 0.5139,
+            "profile_path": null,
+            "credit_id": "68bd39cea0a80ad1114e5d50",
+            "department": "Crew",
+            "job": "Post-Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3284482,
+            "known_for_department": "Production",
+            "name": "Huxley Rodriguez",
+            "original_name": "Huxley Rodriguez",
+            "popularity": 0.2923,
+            "profile_path": null,
+            "credit_id": "68bd39db0788cf8e8b947464",
+            "department": "Production",
+            "job": "Assistant Unit Manager"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 74277,
+            "known_for_department": "Writing",
+            "name": "Susan McMartin",
+            "original_name": "Susan McMartin",
+            "popularity": 0.7745,
+            "profile_path": "/tMh7ymJTn3gvxw1ViBcGJ4GD3um.jpg",
+            "credit_id": "68bd39f9f2a67aba9e4e5d6f",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 201210,
+            "known_for_department": "Sound",
+            "name": "Nate Walcott",
+            "original_name": "Nate Walcott",
+            "popularity": 0.3463,
+            "profile_path": null,
+            "credit_id": "68e6ea968fa7022a5430bbb1",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1530870,
+            "known_for_department": "Crew",
+            "name": "Lisa Rodgers",
+            "original_name": "Lisa Rodgers",
+            "popularity": 0.5139,
+            "profile_path": null,
+            "credit_id": "68fa0b1c4f10bc1a67e2d223",
+            "department": "Crew",
+            "job": "Post Production Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1343946,
+            "known_for_department": "Production",
+            "name": "Jon D. Wagner",
+            "original_name": "Jon D. Wagner",
+            "popularity": 0.4415,
+            "profile_path": null,
+            "credit_id": "68fa0b2c2689b9f1e18532b0",
+            "department": "Production",
+            "job": "Unit Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1565123,
+            "known_for_department": "Camera",
+            "name": "Matthew A. Petrosky",
+            "original_name": "Matthew A. Petrosky",
+            "popularity": 0.4614,
+            "profile_path": null,
+            "credit_id": "692e13dcd962c76f1528681f",
+            "department": "Camera",
+            "job": "\"A\" Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1565123,
+            "known_for_department": "Camera",
+            "name": "Matthew A. Petrosky",
+            "original_name": "Matthew A. Petrosky",
+            "popularity": 0.4614,
+            "profile_path": null,
+            "credit_id": "692e13e185e848a0b026ef7d",
+            "department": "Camera",
+            "job": "Steadicam Operator"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2568808,
+            "known_for_department": "Art",
+            "name": "Carla Martinez",
+            "original_name": "Carla Martinez",
+            "popularity": 0.5176,
+            "profile_path": null,
+            "credit_id": "69d42d7db6eb4d4f7cf65a01",
+            "department": "Art",
+            "job": "Art Direction"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 6270,
+            "name": "high school"
+        },
+        {
+            "id": 818,
+            "name": "based on novel or book"
+        },
+        {
+            "id": 12335,
+            "name": "aunt niece relationship"
+        },
+        {
+            "id": 5922,
+            "name": "north carolina"
+        },
+        {
+            "id": 10201,
+            "name": "death of father"
+        },
+        {
+            "id": 9844,
+            "name": "car crash"
+        },
+        {
+            "id": 11696,
+            "name": "underage drinking"
+        },
+        {
+            "id": 10614,
+            "name": "tragedy"
+        },
+        {
+            "id": 12279,
+            "name": "family drama"
+        },
+        {
+            "id": 175421,
+            "name": "death of husband"
+        },
+        {
+            "id": 198522,
+            "name": "underage smoking"
+        },
+        {
+            "id": 208397,
+            "name": "death of wife"
+        },
+        {
+            "id": 233083,
+            "name": "complex relationship"
+        },
+        {
+            "id": 240315,
+            "name": "mother daughter relationship"
+        },
+        {
+            "id": 241738,
+            "name": "sister sister relationship"
+        },
+        {
+            "id": 245358,
+            "name": "grandfather grandson relationship"
+        },
+        {
+            "id": 252104,
+            "name": "2000s"
+        },
+        {
+            "id": 269719,
+            "name": "high school romance"
+        },
+        {
+            "id": 285623,
+            "name": "loss of husband"
+        },
+        {
+            "id": 316396,
+            "name": "cinephile"
+        },
+        {
+            "id": 325761,
+            "name": "admiring"
+        },
+        {
+            "id": 325762,
+            "name": "adoring"
+        },
+        {
+            "id": 325765,
+            "name": "amused"
+        },
+        {
+            "id": 325778,
+            "name": "bold"
+        },
+        {
+            "id": 343234,
+            "name": "marijuana use"
+        },
+        {
+            "id": 345457,
+            "name": "loss of father"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/fsHxHpREPdE299Bl7RvKb1HKk9U.jpg",
+            "id": 682507,
+            "title": "Where the Crawdads Sing",
+            "original_title": "Where the Crawdads Sing",
+            "overview": "Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.",
+            "poster_path": "/n1el846gLDXfhOvrRCsyvaAOQWv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                9648,
+                10749
+            ],
+            "popularity": 15.7992,
+            "release_date": "2022-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.519,
+            "vote_count": 2357
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/feO6v1UMaCDFsshStLpAv2FwARz.jpg",
+            "id": 130150,
+            "title": "Labor Day",
+            "original_title": "Labor Day",
+            "overview": "Two strangers are drawn together under incredible circumstances. What starts as an unforeseen encounter over a long holiday weekend soon becomes a second chance love story.",
+            "poster_path": "/iQdbCtk1Q3TdZRBKSLU1Vh870l7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "popularity": 8.4353,
+            "release_date": "2013-12-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.067,
+            "vote_count": 1364
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bAup7FGUlmNVOuhZFlLgmDPo0Eg.jpg",
+            "id": 345938,
+            "title": "The Shack",
+            "original_title": "The Shack",
+            "overview": "A grieving man receives a mysterious, personal invitation to meet with God at a place called 'The Shack'.",
+            "poster_path": "/doAzav9kfdtsoSdw1MDFvjKq3J4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "popularity": 9.891,
+            "release_date": "2017-03-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.507,
+            "vote_count": 2274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/av15h0uEilEc3OrTNLuNw0VibtJ.jpg",
+            "id": 6022,
+            "title": "Evening",
+            "original_title": "Evening",
+            "overview": "As Constance (Natasha Richardson) and Nina (Toni Collette) gather at the deathbed of their mother, Ann (Vanessa Redgrave), they learn for the first time that their mother lived an entire other lifetime during one evening 50 years ago. In vivid flashbacks, the young Ann (Claire Daines) spends one night with a man named Harris (Patrick Wilson), who was the love of her life.",
+            "poster_path": "/A2UBh9Cw9jnUaXVcxuKWkwkk7D4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.2952,
+            "release_date": "2007-06-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.814,
+            "vote_count": 185
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fQehemJNDIKfGcmTnvm5SqQ7kgr.jpg",
+            "id": 32395,
+            "title": "The Greatest",
+            "original_title": "The Greatest",
+            "overview": "Teenagers Rose and Bennett were in love, and then a car crash claimed Bennett's life. He left behind a grieving mother, father and younger brother, and Rose was left all alone. She has no family to turn to for support, so when she finds out she's pregnant, she winds up at the Brewer's door. She needs their help, and although they can't quite admit it, they each need her so they can begin to heal.",
+            "poster_path": "/7dNynUNdYSxeOpuJJNv3Fyk54NA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.3464,
+            "release_date": "2009-02-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.217,
+            "vote_count": 175
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/66jPR8KMmdGzo8wa4VsSDevLTAf.jpg",
+            "id": 21291,
+            "title": "Dad",
+            "original_title": "Dad",
+            "overview": "A busy executive learns during a meeting that his mother may be dying and rushes home to her side. He ends up being his father's caretaker and becomes closer to him than ever before. Estranged from his own son, the executive comes to realize what has been missing in his own life.",
+            "poster_path": "/l43BVUdXxbsSt3stBgiW53Dql1n.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.8294,
+            "release_date": "1989-10-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.389,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jZC1xS5DVTe4T5azqJ4NB2QBpgt.jpg",
+            "id": 9062,
+            "title": "Love Story",
+            "original_title": "Love Story",
+            "overview": "Harvard Law student Oliver Barrett IV and music student Jennifer Cavilleri share a chemistry they cannot deny - and a love they cannot ignore. Despite their opposite backgrounds, the young couple put their hearts on the line for each other. When they marry, Oliver's wealthy father threatens to disown him. Jenny tries to reconcile the Barrett men, but to no avail.",
+            "poster_path": "/yCjADq9fwbdPnxMo0DKNeRGZ4YC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 4.6192,
+            "release_date": "1970-12-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 747
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gz3rCM34UicmOxRY1T2SgiQZJoS.jpg",
+            "id": 249164,
+            "title": "If I Stay",
+            "original_title": "If I Stay",
+            "overview": "Mia Hall, a talented young cellist, thought the most difficult decision she would ever have to make would be whether to pursue her musical dreams at prestigious Juilliard or follow her heart to be with the love of her life, Adam, a rock singer/guitarist. However, a car wreck changes everything in an instant, and now Mia's life hangs in the balance. Suspended between life and death, Mia faces a choice that will decide her future.",
+            "poster_path": "/7Twh8h3Wh7GC9npTAEUThgkxkWL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 5.7471,
+            "release_date": "2014-08-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.345,
+            "vote_count": 4335
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kUDzb7V5XuDHpY17lk8NQykiW5w.jpg",
+            "id": 112949,
+            "title": "Safe Haven",
+            "original_title": "Safe Haven",
+            "overview": "A young woman with a mysterious past lands in Southport, North Carolina where her bond with a widower forces her to confront the dark secret that haunts her.",
+            "poster_path": "/2CbJ3HTb6SFbMeguYH52UQSHOwY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                53
+            ],
+            "popularity": 6.7759,
+            "release_date": "2013-02-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.235,
+            "vote_count": 2447
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg",
+            "id": 537915,
+            "title": "After",
+            "original_title": "After",
+            "overview": "Tessa Young is a dedicated student, dutiful daughter and loyal girlfriend to her high school sweetheart. Entering her first semester of college, Tessa's guarded world opens up when she meets Hardin Scott, a mysterious and brooding rebel who makes her question all she thought she knew about herself -- and what she wants out of life.",
+            "poster_path": "/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 14.9225,
+            "release_date": "2019-04-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.104,
+            "vote_count": 8548
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vmonG9lV1s3CtmOQmmWUO206Xay.jpg",
+            "id": 7980,
+            "title": "The Lovely Bones",
+            "original_title": "The Lovely Bones",
+            "overview": "After being brutally murdered, 14-year-old Susie Salmon watches from heaven over her grief-stricken family -- and her killer. As she observes their daily lives, she must balance her thirst for revenge with her desire for her family to heal.",
+            "poster_path": "/sn0iDphRxQ7I6aLd9igIgACITak.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                18
+            ],
+            "popularity": 9.6338,
+            "release_date": "2009-12-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.057,
+            "vote_count": 5020
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
+            "id": 1367642,
+            "title": "Reminders of Him",
+            "original_title": "Reminders of Him",
+            "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+            "poster_path": "/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 15.4541,
+            "release_date": "2026-03-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.782,
+            "vote_count": 376
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+            "id": 858024,
+            "title": "Hamnet",
+            "original_title": "Hamnet",
+            "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+            "poster_path": "/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 21.6748,
+            "release_date": "2025-11-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.713,
+            "vote_count": 1495
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g27PNNr3GNo72hf86KIHjzx66H4.jpg",
+            "id": 226857,
+            "title": "Endless Love",
+            "original_title": "Endless Love",
+            "overview": "A privileged girl and a charismatic boy's instant desire sparks a love affair made only more reckless by parents trying to keep them apart.",
+            "poster_path": "/7WDqvNmy4p6IJx8JjvzOtaV2IRr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 7.1115,
+            "release_date": "2014-02-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.935,
+            "vote_count": 1779
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8vn4eis4xk6cnOnAuAcyzPbqVb0.jpg",
+            "id": 745376,
+            "title": "Hello, Goodbye, and Everything in Between",
+            "original_title": "Hello, Goodbye, and Everything in Between",
+            "overview": "Clare and Aidan make a pact to break up before college — no regrets, no broken hearts. But will one epic goodbye date offer them a last chance at love?",
+            "poster_path": "/xyGsnp4Ld5PmJYYWnfuYYoENhHt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.0382,
+            "release_date": "2022-07-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.159,
+            "vote_count": 270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z6CNrMLtBmz4T3VelF3QaOQT68n.jpg",
+            "id": 521190,
+            "title": "The Beach House",
+            "original_title": "The Beach House",
+            "overview": "Cara Rudland thought she’d left her Southern roots and troubled family far behind, but returns to the scenic Lowcountry of her childhood summers after losing her job in Chicago. There, she reconnects with her mother Lovie, who has been caring for her young, pregnant friend Toy in her charming beach house.",
+            "poster_path": "/gdGh7K00iaeD03EYqtXT70bivf4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10770,
+                10749,
+                18
+            ],
+            "popularity": 2.8704,
+            "release_date": "2018-04-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.309,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kbxk09QgBJfJjnp66ey3JCEshKf.jpg",
+            "id": 23169,
+            "title": "Remember Me",
+            "original_title": "Remember Me",
+            "overview": "Still reeling from a heartbreaking family event and his parents' subsequent divorce, Tyler Hawkins discovers a fresh lease on life when he meets Ally Craig, a gregarious beauty who witnessed her mother's death. But as the couple draws closer, the fallout from their separate tragedies jeopardizes their love.",
+            "poster_path": "/j7umuMiLCHvWT7wYhFKJOTFSokF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 7.4548,
+            "release_date": "2010-03-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.103,
+            "vote_count": 3763
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+            "id": 1100099,
+            "title": "We Live in Time",
+            "original_title": "We Live in Time",
+            "overview": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+            "poster_path": "/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 8.6287,
+            "release_date": "2024-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.226,
+            "vote_count": 1330
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dzx5vStQX4bHA1JBq8n5yLUqQx4.jpg",
+            "id": 37950,
+            "title": "Charlie St. Cloud",
+            "original_title": "Charlie St. Cloud",
+            "overview": "Accomplished sailor Charlie St. Cloud has the adoration of his mother Claire and his little brother Sam, as well as a college scholarship that will lead him far from his sleepy Pacific Northwest hometown. But his bright future is cut short when tragedy strikes and takes his dreams with it. After high school classmate Tess returns home unexpectedly, Charlie grows torn between honoring a promise he made four years earlier and moving forward with newfound love. As he finds the courage to let go of the past for good, Charlie discovers the soul most worth saving is his own.",
+            "poster_path": "/r4XSrs6N086EU8CNm339dHRPhZg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 4.3041,
+            "release_date": "2010-07-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.971,
+            "vote_count": 2256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/krC37EnKGPLTa1MMEVpi45wicDc.jpg",
+            "id": 14313,
+            "title": "Feast of Love",
+            "original_title": "Feast of Love",
+            "overview": "A meditation on love and its various incarnations, set within a community of friends in Oregon. It is described as an exploration of the magical, mysterious and sometimes painful incarnations of love.",
+            "poster_path": "/6Uyl94M1Yi8U0o6GddMRqAfa466.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.0248,
+            "release_date": "2007-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 269
+        }
+    ]
+}

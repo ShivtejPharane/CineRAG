@@ -1,0 +1,1076 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+        "belongs_to_collection": null,
+        "budget": 120000,
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1398,
+        "imdb_id": "tt0079944",
+        "origin_country": [
+            "SU"
+        ],
+        "original_language": "ru",
+        "original_title": "Сталкер",
+        "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+        "popularity": 12.356,
+        "poster_path": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+        "production_companies": [
+            {
+                "id": 344,
+                "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+                "name": "Mosfilm",
+                "origin_country": "SU"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "release_date": "1979-05-25",
+        "revenue": 0,
+        "runtime": 162,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Russian",
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "status": "Released",
+        "tagline": "There's no need to speak. You must only...concentrate and recall all your past life. When a man thinks of the past, he becomes kinder.",
+        "title": "Stalker",
+        "video": false,
+        "vote_average": 8.087,
+        "vote_count": 2546
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 28079,
+            "known_for_department": "Acting",
+            "name": "Alisa Freyndlikh",
+            "original_name": "Алиса Фрейндлих",
+            "popularity": 0.8937,
+            "profile_path": "/6r90VxIyPWE63DnBS91xeomZmIP.jpg",
+            "cast_id": 15,
+            "character": "Stalker's Wife",
+            "credit_id": "52fe42f3c3a36847f802f17b",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 28078,
+            "known_for_department": "Acting",
+            "name": "Aleksandr Kaydanovskiy",
+            "original_name": "Александр Кайдановский",
+            "popularity": 0.6022,
+            "profile_path": "/yHYfkxQu3GVKxx5ibFmEom8qAS6.jpg",
+            "cast_id": 6,
+            "character": "Stalker",
+            "credit_id": "52fe42f3c3a36847f802f15f",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8475,
+            "known_for_department": "Acting",
+            "name": "Anatoliy Solonitsyn",
+            "original_name": "Анатолий Солоницын",
+            "popularity": 0.6797,
+            "profile_path": "/37Vb7vNMHAz1s2WI5kW4BHt0X0N.jpg",
+            "cast_id": 16,
+            "character": "Writer",
+            "credit_id": "52fe42f3c3a36847f802f17f",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1190992,
+            "known_for_department": "Acting",
+            "name": "Mykola Hrynko",
+            "original_name": "Микола Гринько",
+            "popularity": 0.9596,
+            "profile_path": "/n8lxXQbLYOed7AeowxA49yB2jyS.jpg",
+            "cast_id": 20,
+            "character": "Professor",
+            "credit_id": "52fe42f3c3a36847f802f187",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 28080,
+            "known_for_department": "Acting",
+            "name": "Natalya Abramova",
+            "original_name": "Наталья Абрамова",
+            "popularity": 0.6434,
+            "profile_path": "/iJOfkfk0MT3rW1iVrzp8t4pKotr.jpg",
+            "cast_id": 18,
+            "character": "Marta",
+            "credit_id": "52fe42f3c3a36847f802f183",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1073948,
+            "known_for_department": "Acting",
+            "name": "Faime Jurno",
+            "original_name": "Faime Jürno",
+            "popularity": 0.4518,
+            "profile_path": "/kx04DJQeV2v3fdU23MeudKyTuBm.jpg",
+            "cast_id": 40,
+            "character": "Writer's Companion",
+            "credit_id": "5aee45ed0e0a261038002206",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1626954,
+            "known_for_department": "Acting",
+            "name": "Evgeniy Kostin",
+            "original_name": "Евгений Костин",
+            "popularity": 0.4008,
+            "profile_path": null,
+            "cast_id": 41,
+            "character": "Lyuger, Owner of Cafe",
+            "credit_id": "5aee4749c3a368078c001fdf",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2037109,
+            "known_for_department": "Acting",
+            "name": "Raimo Rendi",
+            "original_name": "Raimo Rendi",
+            "popularity": 0.3421,
+            "profile_path": null,
+            "cast_id": 42,
+            "character": "Police Patrol",
+            "credit_id": "5aee47819251411983002a07",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 85219,
+            "known_for_department": "Acting",
+            "name": "Vladimir Zamanskiy",
+            "original_name": "Владимир Заманский",
+            "popularity": 0.7705,
+            "profile_path": "/r5xiJE30c6gTd6Ps2Z5oLKAszM9.jpg",
+            "cast_id": 54,
+            "character": "Professor's Telephone Interlocutor (voice) (uncredited)",
+            "credit_id": "67d680aa31678cc3f80160c5",
+            "order": 8
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 28081,
+            "known_for_department": "Production",
+            "name": "Aleksandra Demidova",
+            "original_name": "Александра Демидова",
+            "popularity": 0.2814,
+            "profile_path": null,
+            "credit_id": "52fe42f3c3a36847f802f165",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 8463,
+            "known_for_department": "Editing",
+            "name": "Lyudmila Feiginova",
+            "original_name": "Людмила Фейгинова",
+            "popularity": 0.4178,
+            "profile_path": "/RKVyuvv5ZqGf9rjIkRWepJywcy.jpg",
+            "credit_id": "52fe42f3c3a36847f802f171",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8452,
+            "known_for_department": "Directing",
+            "name": "Andrei Tarkovsky",
+            "original_name": "Андрей Тарковский",
+            "popularity": 1.6497,
+            "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+            "credit_id": "52fe42f3c3a36847f802f143",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 28082,
+            "known_for_department": "Camera",
+            "name": "Aleksandr Knyazhinsky",
+            "original_name": "Александр Княжинский",
+            "popularity": 0.6945,
+            "profile_path": "/hpk4rRd2EVVBc68LbncDqKBsZb3.jpg",
+            "credit_id": "52fe42f3c3a36847f802f16b",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 28083,
+            "known_for_department": "Sound",
+            "name": "Raisa Lukina",
+            "original_name": "Раиса Лукина",
+            "popularity": 0.4497,
+            "profile_path": "/6dWApHm1Ul7apYoHEMJNn9MHwfk.jpg",
+            "credit_id": "52fe42f3c3a36847f802f177",
+            "department": "Sound",
+            "job": "Music Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150634,
+            "known_for_department": "Writing",
+            "name": "Arkadiy Strugatskiy",
+            "original_name": "Аркадий Стругацкий",
+            "popularity": 0.7006,
+            "profile_path": "/dVqqW6CzTSTGnUUr9I74wOKhy9y.jpg",
+            "credit_id": "535189710e0a2655fe0018a8",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1092909,
+            "known_for_department": "Production",
+            "name": "Willie Geller",
+            "original_name": "Вилли Геллер",
+            "popularity": 0.3452,
+            "profile_path": null,
+            "credit_id": "61ae509baafebd009518a35a",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2794161,
+            "known_for_department": "Art",
+            "name": "Aleksandr Boym",
+            "original_name": "Александр Бойм",
+            "popularity": 0.4338,
+            "profile_path": "/9dG9TXrckyDeX5H1ezs1TDZ3izA.jpg",
+            "credit_id": "633becd6cf48a10082245dc2",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1584743,
+            "known_for_department": "Directing",
+            "name": "Mariya Chugunova",
+            "original_name": "Мария Чугунова",
+            "popularity": 0.2815,
+            "profile_path": null,
+            "credit_id": "56d4ff55c3a3681e4a0155db",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1584741,
+            "known_for_department": "Art",
+            "name": "Rashit Safiullin",
+            "original_name": "Рашит Сафиуллин",
+            "popularity": 0.2399,
+            "profile_path": null,
+            "credit_id": "56d4ff2a9251413932002315",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 8471,
+            "known_for_department": "Acting",
+            "name": "Larisa Tarkovskaya",
+            "original_name": "Лариса Тарковская",
+            "popularity": 0.7913,
+            "profile_path": null,
+            "credit_id": "56d4ff4dc3a3682cef004762",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 8467,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Nelli Fomina",
+            "original_name": "Нелли Фомина",
+            "popularity": 0.2906,
+            "profile_path": "/hJ8WExzL6x3sVpq1H6cGNLHNit4.jpg",
+            "credit_id": "56d4ff33c3a3682cef004753",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1584742,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Vitaliy Lvov",
+            "original_name": "Виталий Львов",
+            "popularity": 0.2154,
+            "profile_path": null,
+            "credit_id": "56d4ff3ac3a3682cef004756",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1584740,
+            "known_for_department": "Art",
+            "name": "Shavkat Abdusalamov",
+            "original_name": "Шавкат Абдусаламов",
+            "popularity": 0.4516,
+            "profile_path": "/pSqHq4q1Ic3QzXx2Hc5vHInFuQo.jpg",
+            "credit_id": "56d4ff23c3a36870ac0024d1",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 591945,
+            "known_for_department": "Directing",
+            "name": "Evgeny Tsymbal",
+            "original_name": "Евгений Цымбал",
+            "popularity": 0.3914,
+            "profile_path": "/1cHODRwYLcRWatSG2JrOLGnAyvi.jpg",
+            "credit_id": "56d4ff459251410bd1003f5e",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1086268,
+            "known_for_department": "Directing",
+            "name": "Arvo Iho",
+            "original_name": "Arvo Iho",
+            "popularity": 0.4227,
+            "profile_path": "/hn5rDMIdFNF0O7GTVD86bcnw368.jpg",
+            "credit_id": "639c265f075288008c9692d1",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 47917,
+            "known_for_department": "Camera",
+            "name": "Leonid Kalashnikov",
+            "original_name": "Леонид Калашников",
+            "popularity": 0.3184,
+            "profile_path": "/A5ZqBnmMPvDjLMDRWDB0mNTnGTs.jpg",
+            "credit_id": "599a08739251414a21005ae4",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8452,
+            "known_for_department": "Directing",
+            "name": "Andrei Tarkovsky",
+            "original_name": "Андрей Тарковский",
+            "popularity": 1.6497,
+            "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+            "credit_id": "599a08469251414a0d005c83",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1585388,
+            "known_for_department": "Art",
+            "name": "Aleksan",
+            "original_name": "Aleksan",
+            "popularity": 0.1878,
+            "profile_path": null,
+            "credit_id": "599a08959251414a0600592f",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8452,
+            "known_for_department": "Directing",
+            "name": "Andrei Tarkovsky",
+            "original_name": "Андрей Тарковский",
+            "popularity": 1.6497,
+            "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+            "credit_id": "599a089dc3a3683978005899",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1584739,
+            "known_for_department": "Sound",
+            "name": "Vladlen Sharun",
+            "original_name": "Владимир Шарун",
+            "popularity": 0.3811,
+            "profile_path": null,
+            "credit_id": "599a08be92514149cc005d6f",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 88782,
+            "known_for_department": "Directing",
+            "name": "Konstantin Lopushansky",
+            "original_name": "Константин Лопушанский",
+            "popularity": 0.5013,
+            "profile_path": "/znz4T3wzZP0Ayodh2lSwX4imPa3.jpg",
+            "credit_id": "6676c1f2f3bdd57b80bdea17",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 560802,
+            "known_for_department": "Sound",
+            "name": "Eduard Artemyev",
+            "original_name": "Эдуард Артемьев",
+            "popularity": 0.9953,
+            "profile_path": "/yFRPDiSJcYkNLBzDjlS6xdBmP7S.jpg",
+            "credit_id": "5afdb0b40e0a267ede000578",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2353458,
+            "known_for_department": "Crew",
+            "name": "Arseny Tarkovsky",
+            "original_name": "Арсений Тарковский",
+            "popularity": 0.6519,
+            "profile_path": "/2AsxBK9pa9TMkcVXrQtOr2qLYJ6.jpg",
+            "credit_id": "6494c90ed236e6011e098ddd",
+            "department": "Crew",
+            "job": "Poem"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150635,
+            "known_for_department": "Writing",
+            "name": "Boris Strugatskiy",
+            "original_name": "Борис Стругацкий",
+            "popularity": 0.6929,
+            "profile_path": "/oXXFL4yQuJaVPklkWlZwiDpCMCo.jpg",
+            "credit_id": "5babec64c3a3683aa202bab2",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150635,
+            "known_for_department": "Writing",
+            "name": "Boris Strugatskiy",
+            "original_name": "Борис Стругацкий",
+            "popularity": 0.6929,
+            "profile_path": "/oXXFL4yQuJaVPklkWlZwiDpCMCo.jpg",
+            "credit_id": "66feef07e84eeb35a0f7ebab",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150634,
+            "known_for_department": "Writing",
+            "name": "Arkadiy Strugatskiy",
+            "original_name": "Аркадий Стругацкий",
+            "popularity": 0.7006,
+            "profile_path": "/dVqqW6CzTSTGnUUr9I74wOKhy9y.jpg",
+            "credit_id": "66feef1c67c6fb09fff7e675",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2353458,
+            "known_for_department": "Crew",
+            "name": "Arseny Tarkovsky",
+            "original_name": "Арсений Тарковский",
+            "popularity": 0.6519,
+            "profile_path": "/2AsxBK9pa9TMkcVXrQtOr2qLYJ6.jpg",
+            "credit_id": "66feef3ac9a10d46ea7ca94a",
+            "department": "Writing",
+            "job": "Author"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55518,
+            "known_for_department": "Camera",
+            "name": "Georgi Rerberg",
+            "original_name": "Георгий Рерберг",
+            "popularity": 0.4725,
+            "profile_path": "/9ausnjqac0MVwVMuPIkK6Edq5t9.jpg",
+            "credit_id": "6887500a7b01f1092616c688",
+            "department": "Crew",
+            "job": "Cinematography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1972447,
+            "known_for_department": "Acting",
+            "name": "Nikolay Vashchilin",
+            "original_name": "Николай Ващилин",
+            "popularity": 0.4376,
+            "profile_path": "/q2RqHo4WMuj55XmkDExf5UnXd0X.jpg",
+            "credit_id": "6a124ca5c075b1de95d4942b",
+            "department": "Crew",
+            "job": "Stunts"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 818,
+            "name": "based on novel or book"
+        },
+        {
+            "id": 5369,
+            "name": "guard"
+        },
+        {
+            "id": 4896,
+            "name": "wish"
+        },
+        {
+            "id": 6844,
+            "name": "stalker"
+        },
+        {
+            "id": 9951,
+            "name": "alien"
+        },
+        {
+            "id": 10128,
+            "name": "strugatsky"
+        },
+        {
+            "id": 13028,
+            "name": "writer"
+        },
+        {
+            "id": 13065,
+            "name": "soldier"
+        },
+        {
+            "id": 181324,
+            "name": "existentialism"
+        },
+        {
+            "id": 199047,
+            "name": "zone"
+        },
+        {
+            "id": 239797,
+            "name": "complex"
+        },
+        {
+            "id": 311138,
+            "name": "beautifully filmed"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+            "id": 670292,
+            "title": "The Creator",
+            "original_title": "The Creator",
+            "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+            "poster_path": "/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "popularity": 19.301,
+            "release_date": "2023-09-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.03,
+            "vote_count": 4066
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5rYnygKCkmqWuMv1O5yAnzGF8gV.jpg",
+            "id": 339964,
+            "title": "Valerian and the City of a Thousand Planets",
+            "original_title": "Valerian and the City of a Thousand Planets",
+            "overview": "In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.",
+            "poster_path": "/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "popularity": 10.5122,
+            "release_date": "2017-07-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.652,
+            "vote_count": 8132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qwZRvb0DJ5IwDoRuKDRCBuHWzkw.jpg",
+            "id": 828,
+            "title": "The Day the Earth Stood Still",
+            "original_title": "The Day the Earth Stood Still",
+            "overview": "An alien and a robot land on Earth after World War II and tell mankind to be peaceful or face destruction.",
+            "poster_path": "/eslDNzf0LF1m9GsgUXlmyfTcC6Y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                53,
+                18
+            ],
+            "popularity": 5.6998,
+            "release_date": "1951-09-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.452,
+            "vote_count": 1266
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+            "id": 27205,
+            "title": "Inception",
+            "original_title": "Inception",
+            "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+            "poster_path": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "popularity": 59.0066,
+            "release_date": "2010-07-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.373,
+            "vote_count": 39777
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pVVobDO8cezhVPvwD6EBUN0g3mt.jpg",
+            "id": 353491,
+            "title": "The Dark Tower",
+            "original_title": "The Dark Tower",
+            "overview": "A boy haunted by visions of a parallel world aids its disillusioned guardian in preventing the destruction of the nexus of universes known as the Dark Tower.",
+            "poster_path": "/i9GUSgddIqrroubiLsvvMRYyRy0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                28,
+                878
+            ],
+            "popularity": 11.9579,
+            "release_date": "2017-08-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.804,
+            "vote_count": 5602
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uQ5xARQz6BiKlppKCBnKmkfW76m.jpg",
+            "id": 13455,
+            "title": "Push",
+            "original_title": "Push",
+            "overview": "After his father, an assassin, is brutally murdered, Nick Gant vows revenge on Division, the covert government agency that dabbles in psychic warfare and experimental drugs. Hiding in Hong Kong's underworld, Nick assembles a band of rogue psychics dedicated to destroying Division. Together with Cassie, a teenage clairvoyant, Nick goes in search of a missing girl and a stolen suitcase that could be the key to accomplishing their mutual goal.",
+            "poster_path": "/fHStfRjQGstuqtUz4Q22lbFU58M.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53
+            ],
+            "popularity": 6.4609,
+            "release_date": "2009-02-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.147,
+            "vote_count": 2477
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg",
+            "id": 75612,
+            "title": "Oblivion",
+            "original_title": "Oblivion",
+            "overview": "Jack Harper is one of the last few drone repairmen stationed on Earth. Part of a massive operation to extract vital resources after decades of war with a terrifying threat known as the Scavs, Jack’s mission is nearly complete. His existence is brought crashing down when he rescues a beautiful  stranger from a downed spacecraft. Her arrival triggers a chain of events that  forces him to question everything he knows and puts the fate of humanity in his hands.",
+            "poster_path": "/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                12,
+                9648
+            ],
+            "popularity": 12.8978,
+            "release_date": "2013-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.689,
+            "vote_count": 11675
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cbJNZeFkiG4ggsNcwzBs6yeCXga.jpg",
+            "id": 514207,
+            "title": "Invasion",
+            "original_title": "Вторжение",
+            "overview": "Two years after the fall of the alien ship, the life of a young woman from Moscow has been changed forever. Her growing powers are now at the focus of both human and celestial investigation: an alien force takes an interest in her, and will stop short of nothing, including an invasion. Can love and compassion save humanity, when faced with a much greater and more demanding test this time?",
+            "poster_path": "/eNkewJGOW44OznlnfXA8ewWPPmI.jpg",
+            "media_type": "movie",
+            "original_language": "ru",
+            "genre_ids": [
+                878,
+                18,
+                28
+            ],
+            "popularity": 5.7276,
+            "release_date": "2020-02-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.869,
+            "vote_count": 905
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cBGQMVohebbWfmEGdezjyOdW7MO.jpg",
+            "id": 559581,
+            "title": "Stowaway",
+            "original_title": "Stowaway",
+            "overview": "A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.",
+            "poster_path": "/eFyRjhJfhNgM565U2mwEp5YUUOv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                18,
+                53
+            ],
+            "popularity": 3.9655,
+            "release_date": "2021-06-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.015,
+            "vote_count": 695
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i0eOILDW8HipIkOUSKhB1dvZzNJ.jpg",
+            "id": 2135,
+            "title": "The Time Machine",
+            "original_title": "The Time Machine",
+            "overview": "Hoping to alter the events of the past, a 19th-century inventor instead travels 800,000 years into the future, where he finds mankind divided into two warring races.",
+            "poster_path": "/iYayQahkghlbAsfOQX8b5eBzGVy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "popularity": 7.7973,
+            "release_date": "2002-03-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 2605
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hmv300bqfZmxvdXCtCsruDH0ycT.jpg",
+            "id": 453405,
+            "title": "Gemini Man",
+            "original_title": "Gemini Man",
+            "overview": "Henry Brogan is an elite 51-year-old assassin who's ready to call it quits after completing his 72nd job. His plans get turned upside down when he becomes the target of a mysterious operative who can seemingly predict his every move. To his horror, Brogan soon learns that the man who's trying to kill him is a younger, faster, cloned version of himself.",
+            "poster_path": "/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53,
+                18
+            ],
+            "popularity": 11.258,
+            "release_date": "2019-10-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.262,
+            "vote_count": 5519
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qSP072apfe2EEcd5Qg9vGYy2OLw.jpg",
+            "id": 262504,
+            "title": "Allegiant",
+            "original_title": "Allegiant",
+            "overview": "Beatrice Prior and Tobias Eaton venture into the world outside of the fence and are taken into protective custody by a mysterious agency known as the Bureau of Genetic Welfare.",
+            "poster_path": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                878,
+                28,
+                9648
+            ],
+            "popularity": 9.066,
+            "release_date": "2016-03-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 7051
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5mwd1quVNkdwImOF2RGm90hKZ5P.jpg",
+            "id": 9922,
+            "title": "The Postman",
+            "original_title": "The Postman",
+            "overview": "In 2013, there are no highways, no I-ways, no dreams of a better tomorrow, only scattered survivors across what was once the United States. Into this apocalyptic wasteland comes an enigmatic drifter with a mule, a knack for Shakespeare, and something yet undiscovered: the power to inspire hope.",
+            "poster_path": "/piVzOuKFLHNGLxnjwNtibC26lTy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "popularity": 6.9995,
+            "release_date": "1997-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.267,
+            "vote_count": 1216
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fZvAroq9Vb5hhyKT6TxsjxJW7nm.jpg",
+            "id": 72545,
+            "title": "Journey 2: The Mysterious Island",
+            "original_title": "Journey 2: The Mysterious Island",
+            "overview": "Sean Anderson partners with his mom's boyfriend on a mission to find his grandfather, who is thought to be missing on a mythical island.",
+            "poster_path": "/uFm2vnp9LhHx5MNo1Ego6O3vUhl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "popularity": 10.8302,
+            "release_date": "2012-01-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.145,
+            "vote_count": 4570
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1wX0Xgs316QapQXjmqrAY9UixgN.jpg",
+            "id": 227156,
+            "title": "The Giver",
+            "original_title": "The Giver",
+            "overview": "In a seemingly perfect community, without war, pain, suffering, differences or choice, a young boy is chosen to learn from an elderly man about the true pain and pleasure of the \"real\" world.",
+            "poster_path": "/dul62Av4pgi5x8LP7ELHzNyka9Z.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "popularity": 9.253,
+            "release_date": "2014-08-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.557,
+            "vote_count": 4675
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cCjzu6OZIUDWowadzexCHNBTmjH.jpg",
+            "id": 19959,
+            "title": "Surrogates",
+            "original_title": "Surrogates",
+            "overview": "Set in a futuristic world where humans live in isolation and interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to investigate the murders of others' surrogates.",
+            "poster_path": "/v3Z0Hbl0oe57njrrIPh0fJPFoo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                53
+            ],
+            "popularity": 7.8449,
+            "release_date": "2009-09-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.155,
+            "vote_count": 3498
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+            "id": 181812,
+            "title": "Star Wars: The Rise of Skywalker",
+            "original_title": "Star Wars: The Rise of Skywalker",
+            "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+            "poster_path": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "popularity": 24.9918,
+            "release_date": "2019-12-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.26,
+            "vote_count": 10992
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4wPZaKaucs4lN7V4JWwkCN8vSwp.jpg",
+            "id": 10606,
+            "title": "The Philadelphia Experiment",
+            "original_title": "The Philadelphia Experiment",
+            "overview": "Based on an \"actual event\" that took place in 1943. About a US Navy Destroyer Escort that disappeared from the Philadelphia Naval Shipyard, and sent two men 40 years into the future to 1984.",
+            "poster_path": "/loKzciPI19uLZ6GeSYjInzdGg60.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12,
+                53
+            ],
+            "popularity": 3.7055,
+            "release_date": "1984-10-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 457
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xqCU96foxW8w2dhaEhP3vr1Sx4R.jpg",
+            "id": 238603,
+            "title": "Earth to Echo",
+            "original_title": "Earth to Echo",
+            "overview": "After a construction project begins digging in their neighbourhood, best friends Tuck, Munch and Alex inexplicably begin to receive strange, encoded messages on their cell phones. Convinced something bigger is going on, they go to their parents and the authorities. The three embark on a secret adventure to crack the code and follow it to its source, and discover a mysterious being from another world who desperately needs their help. The journey that follows will change all their lives forever.",
+            "poster_path": "/yiNPza51nLvVTWTB9q4ifzfUlml.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                12,
+                878
+            ],
+            "popularity": 3.671,
+            "release_date": "2014-06-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.895,
+            "vote_count": 622
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lzMS0CI3FLQYC5EgJoWeIaEt0lm.jpg",
+            "id": 286217,
+            "title": "The Martian",
+            "original_title": "The Martian",
+            "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+            "poster_path": "/pjYWdykADVLTCh5g475RnI2hWIN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                18,
+                12
+            ],
+            "popularity": 44.5164,
+            "release_date": "2015-09-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.706,
+            "vote_count": 21573
+        }
+    ]
+}

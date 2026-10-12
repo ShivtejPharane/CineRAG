@@ -1,0 +1,1183 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/9dsOweKYJ6XAJteBIKEGOI0T2bf.jpg",
+        "belongs_to_collection": null,
+        "budget": 250000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "http://www.viewaskew.com/chasingamy",
+        "id": 2255,
+        "imdb_id": "tt0118842",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Chasing Amy",
+        "overview": "Holden and Banky are comic book artists. Everything is going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's a lesbian.",
+        "popularity": 11.835,
+        "poster_path": "/tqydORBcNlQxy3ijgSpPurgDHM2.jpg",
+        "production_companies": [
+            {
+                "id": 16934,
+                "logo_path": "/avyTgdxs372vSnOAPt7isdnzIWQ.png",
+                "name": "View Askew Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 14,
+                "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+                "name": "Miramax",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1997-04-04",
+        "revenue": 12021272,
+        "runtime": 114,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "It's not who you love. It's how.",
+        "title": "Chasing Amy",
+        "video": false,
+        "vote_average": 6.754,
+        "vote_count": 1578
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 880,
+            "known_for_department": "Acting",
+            "name": "Ben Affleck",
+            "original_name": "Ben Affleck",
+            "popularity": 5.9165,
+            "profile_path": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
+            "cast_id": 1,
+            "character": "Holden McNeil",
+            "credit_id": "52fe4346c3a36847f8047bd1",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 16484,
+            "known_for_department": "Acting",
+            "name": "Joey Lauren Adams",
+            "original_name": "Joey Lauren Adams",
+            "popularity": 1.6629,
+            "profile_path": "/A7p7Rrda5tmYQvlcCY5UXCpT5tq.jpg",
+            "cast_id": 3,
+            "character": "Alyssa Jones",
+            "credit_id": "52fe4346c3a36847f8047bd9",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11662,
+            "known_for_department": "Acting",
+            "name": "Jason Lee",
+            "original_name": "Jason Lee",
+            "popularity": 3.0512,
+            "profile_path": "/3duPl6Ve8RnvcouOaXoMCdJf5ln.jpg",
+            "cast_id": 2,
+            "character": "Banky Edwards",
+            "credit_id": "52fe4346c3a36847f8047bd5",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 20283,
+            "known_for_department": "Acting",
+            "name": "King Mustafa Obafemi",
+            "original_name": "King Mustafa Obafemi",
+            "popularity": 1.3311,
+            "profile_path": "/awCQ9N004ths2XwHSUpMAUJeJzR.jpg",
+            "cast_id": 5,
+            "character": "Hooper LaMont",
+            "credit_id": "52fe4346c3a36847f8047be1",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19302,
+            "known_for_department": "Acting",
+            "name": "Jason Mewes",
+            "original_name": "Jason Mewes",
+            "popularity": 1.6706,
+            "profile_path": "/jVL4WC8NbJFL894Z2FBYY3XuHW5.jpg",
+            "cast_id": 18,
+            "character": "Jay",
+            "credit_id": "52fe4346c3a36847f8047c27",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19303,
+            "known_for_department": "Directing",
+            "name": "Kevin Smith",
+            "original_name": "Kevin Smith",
+            "popularity": 2.6162,
+            "profile_path": "/g8sC36zUTkSTh7y9HjWa4Rbr0JP.jpg",
+            "cast_id": 6,
+            "character": "Silent Bob",
+            "credit_id": "52fe4346c3a36847f8047be5",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 824,
+            "known_for_department": "Acting",
+            "name": "Ethan Suplee",
+            "original_name": "Ethan Suplee",
+            "popularity": 1.5782,
+            "profile_path": "/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg",
+            "cast_id": 7,
+            "character": "Fan",
+            "credit_id": "52fe4346c3a36847f8047be9",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 20503,
+            "known_for_department": "Acting",
+            "name": "Scott Mosier",
+            "original_name": "Scott Mosier",
+            "popularity": 1.1809,
+            "profile_path": "/tuRQwgHYG4iAQXxU3R1CLPnto0w.jpg",
+            "cast_id": 8,
+            "character": "Collector",
+            "credit_id": "52fe4346c3a36847f8047bed",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1893,
+            "known_for_department": "Acting",
+            "name": "Casey Affleck",
+            "original_name": "Casey Affleck",
+            "popularity": 3.7577,
+            "profile_path": "/304ilSygaCRWykoBWAL67TOw8g9.jpg",
+            "cast_id": 4,
+            "character": "Little Kid",
+            "credit_id": "52fe4346c3a36847f8047bdd",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1892,
+            "known_for_department": "Acting",
+            "name": "Matt Damon",
+            "original_name": "Matt Damon",
+            "popularity": 14.7651,
+            "profile_path": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
+            "cast_id": 20,
+            "character": "Shawn Oran",
+            "credit_id": "52fe4346c3a36847f8047c2f",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 23629,
+            "known_for_department": "Acting",
+            "name": "Brian O'Halloran",
+            "original_name": "Brian O'Halloran",
+            "popularity": 1.1099,
+            "profile_path": "/c8bhTxVxhN4DMrJeCnu5usutbY5.jpg",
+            "cast_id": 19,
+            "character": "Jim Hicks",
+            "credit_id": "52fe4346c3a36847f8047c2b",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 143963,
+            "known_for_department": "Acting",
+            "name": "Carmen Llywelyn",
+            "original_name": "Carmen Llywelyn",
+            "popularity": 0.443,
+            "profile_path": "/vYM3oCRiHMTdexhRB0dKTTlCKW3.jpg",
+            "cast_id": 22,
+            "character": "Kim",
+            "credit_id": "54c56abc9251412d9c001e0d",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 32030,
+            "known_for_department": "Acting",
+            "name": "Guinevere Turner",
+            "original_name": "Guinevere Turner",
+            "popularity": 1.1282,
+            "profile_path": "/1j0RtYIayM7LOsT8bispVHsKBia.jpg",
+            "cast_id": 23,
+            "character": "Singer",
+            "credit_id": "568bac929251411334024415",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1187909,
+            "known_for_department": "Production",
+            "name": "Joe Quesada",
+            "original_name": "Joe Quesada",
+            "popularity": 1.0333,
+            "profile_path": "/lXvr9yj4OpPDLojusbKYowp9zZX.jpg",
+            "cast_id": 25,
+            "character": "Joe Quesada",
+            "credit_id": "59a64d68c3a36827e900518e",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 93620,
+            "known_for_department": "Acting",
+            "name": "Welker White",
+            "original_name": "Welker White",
+            "popularity": 1.3138,
+            "profile_path": "/iBHVPZZkVUIZcRDV6NaGuAL2OeI.jpg",
+            "cast_id": 24,
+            "character": "Jane",
+            "credit_id": "568bad1a9251410ffb0027e0",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1108072,
+            "known_for_department": "Writing",
+            "name": "Mike Allred",
+            "original_name": "Mike Allred",
+            "popularity": 0.3841,
+            "profile_path": null,
+            "cast_id": 26,
+            "character": "Mike Allred",
+            "credit_id": "5c3f72cfc3a3680573404098",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 985403,
+            "known_for_department": "Writing",
+            "name": "Vincent Pereira",
+            "original_name": "Vincent Pereira",
+            "popularity": 0.5609,
+            "profile_path": null,
+            "cast_id": 49,
+            "character": "Startled Pinball Player (uncredited)",
+            "credit_id": "6a051780d7dc5dcbd6e3bb04",
+            "order": 16
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21299,
+            "known_for_department": "Acting",
+            "name": "David Pirner",
+            "original_name": "David Pirner",
+            "popularity": 0.2994,
+            "profile_path": null,
+            "credit_id": "52fe4346c3a36847f8047bf9",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19303,
+            "known_for_department": "Directing",
+            "name": "Kevin Smith",
+            "original_name": "Kevin Smith",
+            "popularity": 2.6162,
+            "profile_path": "/g8sC36zUTkSTh7y9HjWa4Rbr0JP.jpg",
+            "credit_id": "52fe4346c3a36847f8047c17",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 21208,
+            "known_for_department": "Production",
+            "name": "Shana Lory",
+            "original_name": "Shana Lory",
+            "popularity": 0.1932,
+            "profile_path": null,
+            "credit_id": "52fe4346c3a36847f8047c23",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21133,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Christopher Del Coro",
+            "original_name": "Christopher Del Coro",
+            "popularity": 0.1831,
+            "profile_path": null,
+            "credit_id": "52fe4346c3a36847f8047c1d",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19303,
+            "known_for_department": "Directing",
+            "name": "Kevin Smith",
+            "original_name": "Kevin Smith",
+            "popularity": 2.6162,
+            "profile_path": "/g8sC36zUTkSTh7y9HjWa4Rbr0JP.jpg",
+            "credit_id": "52fe4346c3a36847f8047c0b",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 20503,
+            "known_for_department": "Acting",
+            "name": "Scott Mosier",
+            "original_name": "Scott Mosier",
+            "popularity": 1.1809,
+            "profile_path": "/tuRQwgHYG4iAQXxU3R1CLPnto0w.jpg",
+            "credit_id": "52fe4346c3a36847f8047bf3",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21405,
+            "known_for_department": "Camera",
+            "name": "David Klein",
+            "original_name": "David Klein",
+            "popularity": 0.8818,
+            "profile_path": "/6J13MlDcADRFexH1RLPYVUBXRIZ.jpg",
+            "credit_id": "52fe4346c3a36847f8047bff",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 20503,
+            "known_for_department": "Acting",
+            "name": "Scott Mosier",
+            "original_name": "Scott Mosier",
+            "popularity": 1.1809,
+            "profile_path": "/tuRQwgHYG4iAQXxU3R1CLPnto0w.jpg",
+            "credit_id": "52fe4346c3a36847f8047c05",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 999821,
+            "known_for_department": "Production",
+            "name": "Derrick Tseng",
+            "original_name": "Derrick Tseng",
+            "popularity": 0.4289,
+            "profile_path": null,
+            "credit_id": "60fe459233ec2600467b1f6a",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21405,
+            "known_for_department": "Camera",
+            "name": "David Klein",
+            "original_name": "David Klein",
+            "popularity": 0.8818,
+            "profile_path": "/6J13MlDcADRFexH1RLPYVUBXRIZ.jpg",
+            "credit_id": "60fe5c6ce24b93002e3ff564",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1962712,
+            "known_for_department": "Directing",
+            "name": "John M. Tyson",
+            "original_name": "John M. Tyson",
+            "popularity": 0.4293,
+            "profile_path": null,
+            "credit_id": "60fe4cc4e24b930048f899d8",
+            "department": "Directing",
+            "job": "First Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1919549,
+            "known_for_department": "Art",
+            "name": "Linda Krantz",
+            "original_name": "Linda Krantz",
+            "popularity": 0.1919,
+            "profile_path": null,
+            "credit_id": "60fe4fc98e8d30002dc2a63e",
+            "department": "Directing",
+            "job": "Second Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 408175,
+            "known_for_department": "Production",
+            "name": "Robert Hawk",
+            "original_name": "Robert Hawk",
+            "popularity": 0.4875,
+            "profile_path": null,
+            "credit_id": "60fe465a33ec2600467b203a",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21405,
+            "known_for_department": "Camera",
+            "name": "David Klein",
+            "original_name": "David Klein",
+            "popularity": 0.8818,
+            "profile_path": "/6J13MlDcADRFexH1RLPYVUBXRIZ.jpg",
+            "credit_id": "60fe5de0ba480200488b3664",
+            "department": "Directing",
+            "job": "Second Unit Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 74591,
+            "known_for_department": "Production",
+            "name": "Monica Hampton",
+            "original_name": "Monica Hampton",
+            "popularity": 0.3795,
+            "profile_path": null,
+            "credit_id": "60fe4ff17ad08c005e0d073d",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 91142,
+            "known_for_department": "Sound",
+            "name": "Bonnie Greenberg",
+            "original_name": "Bonnie Greenberg",
+            "popularity": 0.3689,
+            "profile_path": null,
+            "credit_id": "60fe5c38a58902002f9b3bf0",
+            "department": "Sound",
+            "job": "Music Consultant"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21405,
+            "known_for_department": "Camera",
+            "name": "David Klein",
+            "original_name": "David Klein",
+            "popularity": 0.8818,
+            "profile_path": "/6J13MlDcADRFexH1RLPYVUBXRIZ.jpg",
+            "credit_id": "60fe5d6538e5100045cd4f13",
+            "department": "Camera",
+            "job": "Steadicam Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 548384,
+            "known_for_department": "Sound",
+            "name": "William Kozy",
+            "original_name": "William Kozy",
+            "popularity": 0.382,
+            "profile_path": null,
+            "credit_id": "60fe60c67ad08c005e0d1773",
+            "department": "Sound",
+            "job": "Production Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 74591,
+            "known_for_department": "Production",
+            "name": "Monica Hampton",
+            "original_name": "Monica Hampton",
+            "popularity": 0.3795,
+            "profile_path": null,
+            "credit_id": "60fe5f4df10a1a005fbbd8ce",
+            "department": "Crew",
+            "job": "Post Production Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1271259,
+            "known_for_department": "Editing",
+            "name": "Noëlle Penraat",
+            "original_name": "Noëlle Penraat",
+            "popularity": 0.3716,
+            "profile_path": null,
+            "credit_id": "60fe6078f10a1a0046f849c9",
+            "department": "Editing",
+            "job": "Negative Cutter"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2097560,
+            "known_for_department": "Editing",
+            "name": "Fred Heid",
+            "original_name": "Fred Heid",
+            "popularity": 0.2931,
+            "profile_path": null,
+            "credit_id": "60fe6050e24b930048f8b24d",
+            "department": "Editing",
+            "job": "Color Timer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1551698,
+            "known_for_department": "Sound",
+            "name": "Lisa Brown",
+            "original_name": "Lisa Brown",
+            "popularity": 0.4285,
+            "profile_path": null,
+            "credit_id": "60fe5c2485c0a200743878db",
+            "department": "Sound",
+            "job": "Music Consultant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2966230,
+            "known_for_department": "Camera",
+            "name": "Kelly Baldwin",
+            "original_name": "Kelly Baldwin",
+            "popularity": 0.2108,
+            "profile_path": null,
+            "credit_id": "60fe5ce08e8d300045becb91",
+            "department": "Camera",
+            "job": "First Assistant Camera"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4047579,
+            "known_for_department": "Camera",
+            "name": "Peter Vietro-Hannum",
+            "original_name": "Peter Vietro-Hannum",
+            "popularity": 0.2347,
+            "profile_path": null,
+            "credit_id": "64562e3960620a017ba283da",
+            "department": "Camera",
+            "job": "Key Grip"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1194003,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Jane Choi",
+            "original_name": "Jane Choi",
+            "popularity": 0.22,
+            "profile_path": null,
+            "credit_id": "5eab611cc8a2d4001f49e55f",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 23654,
+            "known_for_department": "Art",
+            "name": "Robert Holtzman",
+            "original_name": "Robert Holtzman",
+            "popularity": 0.4959,
+            "profile_path": null,
+            "credit_id": "5eab6092c8a2d4001d49c840",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2494365,
+            "known_for_department": "Directing",
+            "name": "John Carlucci",
+            "original_name": "John Carlucci",
+            "popularity": 0.2849,
+            "profile_path": null,
+            "credit_id": "5eab60ec66f2d20022abffb8",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 472539,
+            "known_for_department": "Acting",
+            "name": "John Pierson",
+            "original_name": "John Pierson",
+            "popularity": 0.4701,
+            "profile_path": null,
+            "credit_id": "5eab607bca0e17001c0ad563",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1657703,
+            "known_for_department": "Art",
+            "name": "Susannah McCarthy",
+            "original_name": "Susannah McCarthy",
+            "popularity": 0.2704,
+            "profile_path": null,
+            "credit_id": "5eab61010e597b001b86e4d3",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19303,
+            "known_for_department": "Directing",
+            "name": "Kevin Smith",
+            "original_name": "Kevin Smith",
+            "popularity": 2.6162,
+            "profile_path": "/g8sC36zUTkSTh7y9HjWa4Rbr0JP.jpg",
+            "credit_id": "69bc281d3eefa9cabf23dad7",
+            "department": "Writing",
+            "job": "Writer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 1862,
+            "name": "coming out"
+        },
+        {
+            "id": 586,
+            "name": "new jersey"
+        },
+        {
+            "id": 2038,
+            "name": "love of one's life"
+        },
+        {
+            "id": 3183,
+            "name": "bisexuality"
+        },
+        {
+            "id": 3190,
+            "name": "menage a trois"
+        },
+        {
+            "id": 5451,
+            "name": "comic book"
+        },
+        {
+            "id": 9799,
+            "name": "romcom"
+        },
+        {
+            "id": 6799,
+            "name": "comic-strip artist"
+        },
+        {
+            "id": 12392,
+            "name": "best friend"
+        },
+        {
+            "id": 158718,
+            "name": "lgbt"
+        },
+        {
+            "id": 264386,
+            "name": "lesbian"
+        },
+        {
+            "id": 378672,
+            "name": "view askewniverse"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/fKxGUfI09ubxe594Nl8Om2cMuxH.jpg",
+            "id": 641934,
+            "title": "Am I OK?",
+            "original_title": "Am I OK?",
+            "overview": "Lucy and Jane have been best friends for most of their lives and think they know everything there is to know about each other. But when Jane announces she's moving to London, Lucy reveals a long-held secret. As Jane tries to help Lucy, their friendship is thrown into chaos.",
+            "poster_path": "/qKkaG7HVFVe7C1JuxTGwNz0eSyL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "popularity": 4.6125,
+            "release_date": "2024-06-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 353
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yTHvJqk7IFqnDCBBQ0ou60p2qvO.jpg",
+            "id": 1809,
+            "title": "The Rules of Attraction",
+            "original_title": "The Rules of Attraction",
+            "overview": "The incredibly spoiled and overprivileged students of Camden College are a backdrop for an unusual love triangle between a drug dealer, a virgin and a bisexual classmate.",
+            "poster_path": "/6OybelUmwUkDm7fbX1BI7OhpYeQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "popularity": 3.6906,
+            "release_date": "2002-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 620
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+            "id": 1468683,
+            "title": "Heartstopper Forever",
+            "original_title": "Heartstopper Forever",
+            "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
+            "poster_path": "/ch28kJu4pG2x07sN22valXvV3JY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 18.6223,
+            "release_date": "2026-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 215
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+            "id": 696,
+            "title": "Manhattan",
+            "original_title": "Manhattan",
+            "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+            "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 4.4184,
+            "release_date": "1979-04-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.707,
+            "vote_count": 2645
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ecinn4iRxpQs4mW7Y7n0b41Qgbe.jpg",
+            "id": 420622,
+            "title": "Professor Marston and the Wonder Women",
+            "original_title": "Professor Marston and the Wonder Women",
+            "overview": "The unconventional life of Dr. William Marston, the Harvard psychologist and inventor who helped invent the modern lie detector test and co-created Wonder Woman in 1941.",
+            "poster_path": "/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.6969,
+            "release_date": "2017-10-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.164,
+            "vote_count": 941
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j8rrinSi8z5cN5XkzlfIOZCMFV9.jpg",
+            "id": 20829,
+            "title": "Funny People",
+            "original_title": "Funny People",
+            "overview": "Famous and wealthy funnyman George Simmons doesn't give much thought to how he treats people until a doctor delivers stunning health news, forcing George to reevaluate his priorities with a little help from aspiring stand-up comic Ira.",
+            "poster_path": "/gEYKD5cWCBGg8Za3hhwDBk3gEsP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 5.576,
+            "release_date": "2009-07-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.887,
+            "vote_count": 1449
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vXYnLfn6c5137Dt2UlpSXIPeE1C.jpg",
+            "id": 507903,
+            "title": "Spoiler Alert",
+            "original_title": "Spoiler Alert",
+            "overview": "Journalist Michael Ausiello embarks on a rollercoaster ride of emotions when Kit Cowan, his partner of 14 years, is diagnosed with terminal cancer.",
+            "poster_path": "/m6FQtqoIP7JUqc9hRwQQfuYG2kz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 5.0196,
+            "release_date": "2022-12-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.986,
+            "vote_count": 177
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jUiH4T53kBjyflRgzVuD6aB8hQi.jpg",
+            "id": 250124,
+            "title": "The Diary of a Teenage Girl",
+            "original_title": "The Diary of a Teenage Girl",
+            "overview": "Minnie Goetze is a 15-year-old aspiring comic-book artist, coming of age in the haze of the 1970s in San Francisco. Insatiably curious about the world around her, Minnie is a pretty typical teenage girl. Oh, except that she’s sleeping with her mother’s boyfriend.",
+            "poster_path": "/5YlUrdYKuscD7pwf3yy9duVLbui.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "popularity": 3.55,
+            "release_date": "2015-08-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.572,
+            "vote_count": 794
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gncvmif7zzVOpMNxnpAOPfSXgUq.jpg",
+            "id": 10720,
+            "title": "Down with Love",
+            "original_title": "Down with Love",
+            "overview": "In 1962 New York City, love blossoms between a playboy journalist and a feminist advice author.",
+            "poster_path": "/74lG2SGDJdyiS8hB4kkFcRIviSi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 3.6113,
+            "release_date": "2003-05-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 795
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oySLOwNAsKu6ilFro8XxqP4wDJW.jpg",
+            "id": 614939,
+            "title": "Bros",
+            "original_title": "Bros",
+            "overview": "Two gay men are possibly, probably, stumbling towards love. Maybe. They're both very busy.",
+            "poster_path": "/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 5.0273,
+            "release_date": "2022-09-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.629,
+            "vote_count": 587
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wXYv3mC6mZPVChHBMxF2tVILcLb.jpg",
+            "id": 24548,
+            "title": "Just One of the Guys",
+            "original_title": "Just One of the Guys",
+            "overview": "When Terry Griffith loses her high school's writing competition, she's convinced that it's because she's a girl. So Terry decides to change high schools and pose as a boy to prove her point. Her brother, Buddy, helps her pass as a guy so well that she is soon making friends with the boys at school, including the attractive Rick, who becomes her new best friend. But her gender-swapping makes things difficult when she falls in love with him.",
+            "poster_path": "/7ffvsRv8ueYYK0H3zocmNRPd8yN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 3.1992,
+            "release_date": "1985-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.43,
+            "vote_count": 344
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aVYien6hGy4RQzzepZg1q9cwSzE.jpg",
+            "id": 515248,
+            "title": "Someone Great",
+            "original_title": "Someone Great",
+            "overview": "An aspiring music journalist lands her dream job and is about to move to San Francisco when her boyfriend of nine years decides to call it quits. To nurse her broken heart, she and her two best friends spend one outrageous last adventure in New York City.",
+            "poster_path": "/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 3.7886,
+            "release_date": "2019-04-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.372,
+            "vote_count": 1202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4uXIXErELMjnGX3lnEhChEhfnnn.jpg",
+            "id": 80038,
+            "title": "Friends with Kids",
+            "original_title": "Friends with Kids",
+            "overview": "In the wake of their friends' marriages and eventual offspring, longtime pals Julie and Jason decide to have a child together without becoming a couple. By becoming \"time-share\" parents, they reason, they can experience the joys of parenthood without significantly curbing their personal freedom. However, when Julie and Jason both become involved with others, they discover that they secretly harbor romantic feelings for each other.",
+            "poster_path": "/cA6putv2ND8snBBa0t9WhlW1TfG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 3.7858,
+            "release_date": "2012-03-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.943,
+            "vote_count": 495
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lghWedsBBl3lPlIs4EpZpP64mUT.jpg",
+            "id": 603661,
+            "title": "The Hating Game",
+            "original_title": "The Hating Game",
+            "overview": "Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.",
+            "poster_path": "/prbZxJxGcy07y60eq8lCGMciTYz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "popularity": 5.6185,
+            "release_date": "2021-12-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.27,
+            "vote_count": 1217
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dY2gkFvspAJP5Lf57mIIA1Wf5Sm.jpg",
+            "id": 597231,
+            "title": "Standing Up, Falling Down",
+            "original_title": "Standing Up, Falling Down",
+            "overview": "An unlikely friendship kindles between a struggling stand-up comedian from L.A. — forced to move back home to Eastern Long Island with his tail between his legs — and a tragically flawed, but charming and charismatic, alcoholic dermatologist. Discovering to be kindred spirits, each helps the other find healing, in addition to the confidence to face the \"failures\" in their lives.",
+            "poster_path": "/sPf007Zt2zdPk62FfeNYnxBbXUG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 3.1587,
+            "release_date": "2020-02-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.268,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l6w9H8tS3eK9zTBpJiy01jkKgCn.jpg",
+            "id": 27171,
+            "title": "The Lonely Guy",
+            "original_title": "The Lonely Guy",
+            "overview": "A writer for a greeting card company learns the true meaning of loneliness when he comes home to find his girlfriend in bed with another man.",
+            "poster_path": "/y6HWtKt6m41SMZuUeFcs94nWfHs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 3.4617,
+            "release_date": "1984-01-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.205,
+            "vote_count": 154
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jiyYIVcpfigO6wlhUQNDUOtefHS.jpg",
+            "id": 34482,
+            "title": "The Clique",
+            "original_title": "The Clique",
+            "overview": "A young girl tries to fit in with a clique of popular middle school girls after moving into the guest house of one of their homes.",
+            "poster_path": "/f8h9WF7l5vLWI6OU5nmIRKx6QJ0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "popularity": 4.5456,
+            "release_date": "2008-11-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1LMGpNSUekWg3XCPweN33knQPW9.jpg",
+            "id": 814340,
+            "title": "Cha Cha Real Smooth",
+            "original_title": "Cha Cha Real Smooth",
+            "overview": "Fresh out of college and stuck at his New Jersey home without a clear path forward, 22-year-old Andrew begins working as a party starter for bar/bat mitzvahs—where he strikes up a unique friendship with a young mom and her teenage daughter.",
+            "poster_path": "/iUvoVhvwTlP8DofoqeIu7QAGLAe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 4.2852,
+            "release_date": "2022-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 426
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xHhDA63HYklr4FMdxAd05FqhhhF.jpg",
+            "id": 1017633,
+            "title": "How to Date Billy Walsh",
+            "original_title": "How to Date Billy Walsh",
+            "overview": "Archie has been in love with his best friend Amelia for as long as he can remember. Just when he builds up the courage to declare his feelings, she falls head over heels for Billy Walsh, a new American transfer student.",
+            "poster_path": "/5qcHcoJL3otMwJPKnbV5M3a1jQd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "popularity": 4.2154,
+            "release_date": "2024-04-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.386,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xiv9qW6hv5VMhxkPOEGnXKuowTo.jpg",
+            "id": 277547,
+            "title": "Playing It Cool",
+            "original_title": "Playing It Cool",
+            "overview": "A young man meets and instantly falls in love with an engaged woman.",
+            "poster_path": "/96htqghZlKctNJqDLo2DuC9PEap.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 5.699,
+            "release_date": "2014-09-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.851,
+            "vote_count": 815
+        }
+    ]
+}

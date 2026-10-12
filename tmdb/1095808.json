@@ -1,0 +1,644 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": {
+            "id": 1074148,
+            "name": "Mirror, Flowers and Moonlight",
+            "poster_path": null,
+            "backdrop_path": null
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 1095808,
+        "imdb_id": null,
+        "origin_country": [
+            "TW"
+        ],
+        "original_language": "zh",
+        "original_title": "镜花风月之怪谈",
+        "overview": "Horror movie from Taiwan.",
+        "popularity": 11.5617,
+        "poster_path": "/cevf0oW0NKNyO2sAJC08MQo68n.jpg",
+        "production_companies": [
+            {
+                "id": 145347,
+                "logo_path": null,
+                "name": "Hung Yang Film Company",
+                "origin_country": "TW"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "release_date": "1991-07-19",
+        "revenue": 0,
+        "runtime": 0,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Mandarin",
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Flowers in the Mirror, Wind and Moon: Ghost Appears",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [
+        {
+            "adult": true,
+            "gender": 0,
+            "id": 3183530,
+            "known_for_department": "Directing",
+            "name": "Hsin Yen",
+            "original_name": "辛仁",
+            "popularity": 0.0,
+            "profile_path": null,
+            "cast_id": 1,
+            "character": "",
+            "credit_id": "65e14faaa806730161a8f249",
+            "order": 0
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 4565989,
+            "known_for_department": "Acting",
+            "name": "Jiang Ling-Ling",
+            "original_name": "蒋玲玲",
+            "popularity": 0.0,
+            "profile_path": null,
+            "cast_id": 2,
+            "character": "",
+            "credit_id": "65e14fc6daf57c01629bdad7",
+            "order": 1
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 4481090,
+            "known_for_department": "Acting",
+            "name": "Kao Wen-Song",
+            "original_name": "高文松",
+            "popularity": 0.0,
+            "profile_path": "/sbFl6OzvjiSysrzUxE7DRqJmrrp.jpg",
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "65e14fe22d531a0185c171b5",
+            "order": 2
+        },
+        {
+            "adult": true,
+            "gender": 0,
+            "id": 4203789,
+            "known_for_department": "Acting",
+            "name": "Chu Hui-Te",
+            "original_name": "Chu Hui-Te",
+            "popularity": 0.0,
+            "profile_path": "/rSL1j0oFI3PqLX7GLoPtMNP8vu8.jpg",
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "65e14ff16a300b017d1e6014",
+            "order": 3
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 4203790,
+            "known_for_department": "Acting",
+            "name": "Ai Ting",
+            "original_name": "爱婷",
+            "popularity": 0.0,
+            "profile_path": null,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "65e15001a806730184aa7fa8",
+            "order": 4
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 4203787,
+            "known_for_department": "Acting",
+            "name": "Li Qianqian",
+            "original_name": "纪倩倩",
+            "popularity": 0.0,
+            "profile_path": "/6Yn8OQQrtqhijtTmGQJwxbv3mGv.jpg",
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "65e1500c6c449c0163f98f41",
+            "order": 5
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 4565991,
+            "known_for_department": "Acting",
+            "name": "Chia-bao Lan",
+            "original_name": "蓝家宝",
+            "popularity": 0.0,
+            "profile_path": "/1s7nySl9T5sKtETqKA2tRwlWDRf.jpg",
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "65e150346c449c0186f9ecbd",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3183535,
+            "known_for_department": "Acting",
+            "name": "Ye Ling",
+            "original_name": "叶玲",
+            "popularity": 0.8121,
+            "profile_path": null,
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "65e1504a07e2810149dbf0d9",
+            "order": 7
+        }
+    ],
+    "crew": [
+        {
+            "adult": true,
+            "gender": 0,
+            "id": 3183530,
+            "known_for_department": "Directing",
+            "name": "Hsin Yen",
+            "original_name": "辛仁",
+            "popularity": 0.0,
+            "profile_path": null,
+            "credit_id": "6954492a9b27631412cbdc4b",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/zFvkgLY85gffP1ulQgzkEQPL8Nr.jpg",
+            "id": 1636891,
+            "title": "Mexicali",
+            "original_title": "Mexicali",
+            "overview": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
+            "poster_path": "/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 4.8667,
+            "release_date": "2026-03-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.675,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6DSXmqDufJj30TDUkw6WngZffd.jpg",
+            "id": 216580,
+            "title": "Savaged",
+            "original_title": "Savaged",
+            "overview": "After thugs brutalize a deaf-mute woman, the spirit of an Apache warrior takes over her lifeless body and sets out on a bloodthirsty quest for revenge.",
+            "poster_path": "/bsPV6pXVDTAGbl4Tg4xWkm3Kkl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                27,
+                53
+            ],
+            "popularity": 3.3807,
+            "release_date": "2014-08-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.653,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+            "id": 808396,
+            "title": "God Is a Bullet",
+            "original_title": "God Is a Bullet",
+            "overview": "Vice detective Bob Hightower finds his ex-wife murdered and daughter kidnapped by a cult. Frustrated by the botched official investigations, he quits the force and infiltrates the cult to hunt down the leader with the help of the cult’s only female victim escapee, Case Hardin.",
+            "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80,
+                27
+            ],
+            "popularity": 4.6942,
+            "release_date": "2023-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zWtF5eWVAyenIYu26VZbsLJon38.jpg",
+            "id": 1189798,
+            "title": "Squealer",
+            "original_title": "Squealer",
+            "overview": "When young women begin to disappear across a small town, a police officer and a street-smart social worker follow clues to a remote pig farm and discover the local butcher has been bringing his work home.",
+            "poster_path": "/wdNdrqVJgkNNuYbI11TiiYkuP7Q.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                27
+            ],
+            "popularity": 2.2355,
+            "release_date": "2023-11-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.849,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/RH3yBITcVZsmYGvQG0PJP1ZtcJ.jpg",
+            "id": 64992,
+            "title": "Human Lanterns",
+            "original_title": "人皮燈籠",
+            "overview": "A psychotic craftsman pits two rival Kung-Fu masters against each other while designing special lanterns from a disturbing source.",
+            "poster_path": "/v5a25FBIPqzVvLqhrBhUvMoB7mk.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                27,
+                28
+            ],
+            "popularity": 2.0561,
+            "release_date": "1982-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.118,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
+            "id": 285923,
+            "title": "Grindhouse",
+            "original_title": "Grindhouse",
+            "overview": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
+            "poster_path": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                27
+            ],
+            "popularity": 5.1775,
+            "release_date": "2007-04-06",
+            "softcore": false,
+            "video": true,
+            "vote_average": 7.004,
+            "vote_count": 1915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3h1AXkYA1yazZaFPVA12FtmtYye.jpg",
+            "id": 761563,
+            "title": "Medusa",
+            "original_title": "Medusa",
+            "overview": "After being bitten by a lethal snake, a young woman experiences changes in her senses and appearance, as she sheds her old self and slowly turns into a deadly weapon.",
+            "poster_path": "/fs8RXnnJkYKo53R8A6eakzcTTHj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                18,
+                14
+            ],
+            "popularity": 1.596,
+            "release_date": "2020-11-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.189,
+            "vote_count": 196
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f3rd6o0EQ0TnZsVtS1SD1k580Dh.jpg",
+            "id": 245527,
+            "title": "Convict",
+            "original_title": "Convict",
+            "overview": "Set in the dark and old Parramatta prison built by the original convicts our lead character Ray a war veteran finds himself serving 18 months for manslaughter after defending his fiance. He soon realizes that the prison boss has it in for him and does everything possible to break Ray even going after his fiance.",
+            "poster_path": "/mnvkok7eVau9Fg8BMDuwmk8JCZw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "popularity": 3.7913,
+            "release_date": "2014-01-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.516,
+            "vote_count": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/114yPZmKgsQVTSt0BDx5WagBOvW.jpg",
+            "id": 18405,
+            "title": "The Last House on the Left",
+            "original_title": "The Last House on the Left",
+            "overview": "When athletic teen Mari Collingwood opts to hang out with her friend Paige in town rather than spend an evening in with her parents vacationing at the family's remote lake house, it marks the beginning of a night no one is going to forget.",
+            "poster_path": "/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53,
+                27,
+                18
+            ],
+            "popularity": 9.952,
+            "release_date": "2009-03-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.495,
+            "vote_count": 1984
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7GAgYVK29A4NADWhPbqC9c44X7P.jpg",
+            "id": 9871,
+            "title": "Ginger Snaps",
+            "original_title": "Ginger Snaps",
+            "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself.",
+            "poster_path": "/ozohDiJd7Oi65NEf8B0ya7lR9Fr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                27,
+                18,
+                53
+            ],
+            "popularity": 4.8464,
+            "release_date": "2000-12-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1017
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4i6Yljr0xsCGuwIUkTjGANc4HMQ.jpg",
+            "id": 40081,
+            "title": "Crippled Avengers",
+            "original_title": "残缺",
+            "overview": "A group of martial artists seek revenge after being crippled by Tu Tin-To, a martial arts master, and his son.",
+            "poster_path": "/eKdvNCKtiuUFvwCXtpwISw8jqZ5.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 1.8451,
+            "release_date": "1978-12-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.827,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dm0e97z3atygNcEM67GwJrQanFC.jpg",
+            "id": 43051,
+            "title": "Al Capone",
+            "original_title": "Al Capone",
+            "overview": "In this unusually accurate biography, small-time hood Al Capone comes to Chicago at the dawn of Prohibition to be the bodyguard of racketeer Johnny Torrio. Capone's rise in Chicago gangdom is followed through murder, extortion, and political fraud. He becomes head of Chicago's biggest \"business,\" but moves inexorably toward his downfall and ignominious end.",
+            "poster_path": "/xmtLUojTRYTswWEx7U9lWjZeZtx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                80,
+                18
+            ],
+            "popularity": 2.212,
+            "release_date": "1959-03-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.623,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rtAW7KxJREyVFtnNSXlviU9Wu7w.jpg",
+            "id": 484889,
+            "title": "Rise of the Footsoldier 3",
+            "original_title": "Rise of the Footsoldier 3",
+            "overview": "In the late 1980s, Pat Tate journeys from peddling pills in Marbella to his time in prison, where he solidifies his power before his release to reclaim his turf.",
+            "poster_path": "/1LgOIQNpTfWKY3wizRrQ6CvNAXK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "popularity": 4.9026,
+            "release_date": "2017-11-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u85pNHeAmas7UDfYGzl7j3mH8OO.jpg",
+            "id": 41377,
+            "title": "Clan of the White Lotus",
+            "original_title": "洪文定三破白蓮教",
+            "overview": "The Qing emperor releases all detained Shaolin disciples, but the vindictive White Lotus clan decides to exterminate all the disciples. One martial artist survives the onslaught, and constantly trains while in hiding for revenge.",
+            "poster_path": "/pEzzzy3vzge65hdbKsTNFYcDdyO.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 1.8698,
+            "release_date": "1980-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k303bREblg3ySFCaXXXhrFbtceH.jpg",
+            "id": 403032,
+            "title": "The Tenants Downstairs",
+            "original_title": "樓下的房客",
+            "overview": "A loafer inherits an apartment block and lets out the place to a group of tenants, including a lusty gymnastics teacher, a geeky college student, a single father with his young daughter, a gay couple, a writer and a sexy female office worker. An incredible story is about to unfold as they start their lives in the same building.",
+            "poster_path": "/qsKUFtU4bvI0mPiutQcfrKLF6RS.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18,
+                9648,
+                80,
+                27
+            ],
+            "popularity": 2.3489,
+            "release_date": "2016-06-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vu5Y8qFqlzcboDbbZIMTAgj0KLb.jpg",
+            "id": 591273,
+            "title": "Fear Street: 1994",
+            "original_title": "Fear Street: 1994",
+            "overview": "After a series of brutal slayings, a teen and her friends take on an evil force that's plagued their notorious town for centuries.",
+            "poster_path": "/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                18
+            ],
+            "popularity": 6.6925,
+            "release_date": "2021-06-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.687,
+            "vote_count": 2710
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qsgZnHsxL62draUQ4EPccp52dyI.jpg",
+            "id": 48297,
+            "title": "Invincible Shaolin",
+            "original_title": "南少林與北少林",
+            "overview": "Three North Shaolin teachers are called on by the Manchus to teach their soldiers and are urged to challenge the current South Shaolin teachers. They defeat the South Shaolin teachers and, that night, the head general kills the South Shaolin teachers and blames their death on the North Shaolin teachers. The South Shaolin master sends more of his pupils, who are killed accidentally by the North Shaolin teachers. He finally sends two more of his students to train with old masters and trains one student himself with the goal of finally defeating the North Shaolin experts.",
+            "poster_path": "/gZ9KLwe4dKDWI0S83n0uk3nAG4D.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 2.0057,
+            "release_date": "1978-11-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.465,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tNa19CK0CQZl5rxZ35QRdKAT2s0.jpg",
+            "id": 460885,
+            "title": "Mandy",
+            "original_title": "Mandy",
+            "overview": "The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; but when their pine-scented haven is savagely destroyed, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.",
+            "poster_path": "/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                28,
+                27
+            ],
+            "popularity": 6.1993,
+            "release_date": "2018-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.199,
+            "vote_count": 2198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zbuqfxZyOGk2VCjulPEFjKSGxX1.jpg",
+            "id": 14575,
+            "title": "The Crew",
+            "original_title": "The Crew",
+            "overview": "Hoping to raise enough capital to finance a legitimate business and leave behind his life of crime, Liverpool underworld boss Ged Brennan sends his brother Ratter and a crew to pull a daring final heist. But when Ratter kills a drug kingpin during the job, Brennan must turn to rival crook Franner to avert an all-out gangland war.",
+            "poster_path": "/eDSuRzCRM9a2N8L6nDC5KQFoHRA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28,
+                53,
+                80
+            ],
+            "popularity": 2.1076,
+            "release_date": "2008-10-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.978,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oMnJhVFr0xVfxy4HPBt1LDKoFgV.jpg",
+            "id": 591274,
+            "title": "Fear Street: 1978",
+            "original_title": "Fear Street: 1978",
+            "overview": "In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns' history come alive.",
+            "poster_path": "/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                18
+            ],
+            "popularity": 6.6705,
+            "release_date": "2021-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.179,
+            "vote_count": 2282
+        }
+    ]
+}

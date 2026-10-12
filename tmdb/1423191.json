@@ -1,0 +1,1026 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
+        "belongs_to_collection": null,
+        "budget": 80000000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "homepage": "https://residentevil.movie",
+        "id": 1423191,
+        "imdb_id": "tt35538033",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Resident Evil",
+        "overview": "Bryan, a medical courier, is in the process of making a delivery when a sudden outbreak occurs, forcing him to fight for survival.",
+        "popularity": 9.1717,
+        "poster_path": "/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
+        "production_companies": [
+            {
+                "id": 47,
+                "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+                "name": "Constantin Film",
+                "origin_country": "DE"
+            },
+            {
+                "id": 240675,
+                "logo_path": null,
+                "name": "Subconscious",
+                "origin_country": "US"
+            },
+            {
+                "id": 829,
+                "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+                "name": "Vertigo Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 342,
+                "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+                "name": "Davis Films",
+                "origin_country": "FR"
+            },
+            {
+                "id": 5,
+                "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                "name": "Columbia Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 125281,
+                "logo_path": "/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png",
+                "name": "PlayStation Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 559,
+                "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+                "name": "TriStar Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "release_date": "2026-09-16",
+        "revenue": 0,
+        "runtime": 0,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Post Production",
+        "tagline": "No sweat.",
+        "title": "Resident Evil",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 148992,
+            "known_for_department": "Acting",
+            "name": "Austin Abrams",
+            "original_name": "Austin Abrams",
+            "popularity": 2.4266,
+            "profile_path": "/gG4KsGZDw3tO2R66cn9VdOo8uSu.jpg",
+            "cast_id": 9,
+            "character": "Bryan",
+            "credit_id": "67e56043421eb8c331ba5197",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1838225,
+            "known_for_department": "Acting",
+            "name": "Zach Cherry",
+            "original_name": "Zach Cherry",
+            "popularity": 2.2057,
+            "profile_path": "/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg",
+            "cast_id": 18,
+            "character": "Dave",
+            "credit_id": "68e0459e58abaa2a2eaa5ce0",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3119545,
+            "known_for_department": "Acting",
+            "name": "Kali Reis",
+            "original_name": "Kali Reis",
+            "popularity": 1.345,
+            "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+            "cast_id": 19,
+            "character": "Pauline",
+            "credit_id": "68e045ab954a0976d0932205",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1294982,
+            "known_for_department": "Acting",
+            "name": "Paul Walter Hauser",
+            "original_name": "Paul Walter Hauser",
+            "popularity": 2.9701,
+            "profile_path": "/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg",
+            "cast_id": 14,
+            "character": "Carl",
+            "credit_id": "68caeb292e10060fbfe3641f",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1169291,
+            "known_for_department": "Acting",
+            "name": "Johnno Wilson",
+            "original_name": "Johnno Wilson",
+            "popularity": 0.7316,
+            "profile_path": "/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg",
+            "cast_id": 20,
+            "character": "Max",
+            "credit_id": "68e04a1777d7e617f7ecb935",
+            "order": 4
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 84833,
+            "known_for_department": "Acting",
+            "name": "Zach Cregger",
+            "original_name": "Zach Cregger",
+            "popularity": 2.3031,
+            "profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+            "credit_id": "6794204025d2980fb023abc3",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4017,
+            "known_for_department": "Production",
+            "name": "Robert Kulzer",
+            "original_name": "Robert Kulzer",
+            "popularity": 0.6173,
+            "profile_path": "/tzQeiYsq9CJIzGSN2nsmez68TM6.jpg",
+            "credit_id": "67cb3aee05adfb9eb95b8074",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21036,
+            "known_for_department": "Production",
+            "name": "Roy Lee",
+            "original_name": "Roy Lee",
+            "popularity": 0.7816,
+            "profile_path": "/7HGbsI8y3TGK8VQhN5rkaXtQnro.jpg",
+            "credit_id": "67cb3b048230b256f4f57992",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1123422,
+            "known_for_department": "Production",
+            "name": "Miri Yoon",
+            "original_name": "Miri Yoon",
+            "popularity": 0.9641,
+            "profile_path": "/kZZoOpkSvscG4YHAuUJaNGg3WTM.jpg",
+            "credit_id": "67cb3b0c05adfb9eb95b8084",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1098783,
+            "known_for_department": "Art",
+            "name": "Tom Hammock",
+            "original_name": "Tom Hammock",
+            "popularity": 0.544,
+            "profile_path": "/mCB9AEVpATXxweHESls50ZXYOLo.jpg",
+            "credit_id": "682fc2c994584af5ae054261",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 53530,
+            "known_for_department": "Directing",
+            "name": "Sean Guest",
+            "original_name": "Sean Guest",
+            "popularity": 0.454,
+            "profile_path": null,
+            "credit_id": "6890f37dfd76b2d399b23759",
+            "department": "Directing",
+            "job": "First Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 120,
+            "known_for_department": "Camera",
+            "name": "Dariusz Wolski",
+            "original_name": "Dariusz Wolski",
+            "popularity": 0.8304,
+            "profile_path": "/qnNirhrjkbi6RGdP4FZeljbjzkU.jpg",
+            "credit_id": "68bfa54cfdd786ebf99c1179",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1691952,
+            "known_for_department": "Visual Effects",
+            "name": "Alessandro Ongaro",
+            "original_name": "Alessandro Ongaro",
+            "popularity": 0.4216,
+            "profile_path": null,
+            "credit_id": "68c04fa4d826c7d50906a938",
+            "department": "Visual Effects",
+            "job": "Visual Effects Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2457600,
+            "known_for_department": "Production",
+            "name": "Asad Qizilbash",
+            "original_name": "Asad Qizilbash",
+            "popularity": 0.4812,
+            "profile_path": "/hZdqsU1EmLsPDnW2LElvoRlSaFp.jpg",
+            "credit_id": "68caeb683cfb77f54de4fd0e",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1058615,
+            "known_for_department": "Production",
+            "name": "Carter Swan",
+            "original_name": "Carter Swan",
+            "popularity": 0.5527,
+            "profile_path": "/AvLwGyrFlPO0siw3MYH13mOpahI.jpg",
+            "credit_id": "68caeb6e2ee8b85a241f240a",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 31516,
+            "known_for_department": "Production",
+            "name": "Victor Hadida",
+            "original_name": "Victor Hadida",
+            "popularity": 0.5797,
+            "profile_path": "/6wk7SIcR3UA5NZ2V1nQeaYG8ByH.jpg",
+            "credit_id": "68caeb8e27aa6eb8491f0915",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1950723,
+            "known_for_department": "Crew",
+            "name": "Jan Petřina",
+            "original_name": "Jan Petřina",
+            "popularity": 0.546,
+            "profile_path": null,
+            "credit_id": "691e315ace274732a9b50266",
+            "department": "Crew",
+            "job": "Stunt Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1360848,
+            "known_for_department": "Sound",
+            "name": "Viktor Prášil",
+            "original_name": "Viktor Prášil",
+            "popularity": 0.3915,
+            "profile_path": null,
+            "credit_id": "6990e5dec8dc8a02df064dc0",
+            "department": "Sound",
+            "job": "Production Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1334494,
+            "known_for_department": "Art",
+            "name": "Martina Ter-Akopowá",
+            "original_name": "Martina Ter-Akopowá",
+            "popularity": 0.3763,
+            "profile_path": null,
+            "credit_id": "69bf27ac7ffc660363a24c31",
+            "department": "Art",
+            "job": "Supervising Art Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1721340,
+            "known_for_department": "Production",
+            "name": "Ludek Vomacka",
+            "original_name": "Ludek Vomacka",
+            "popularity": 0.4229,
+            "profile_path": null,
+            "credit_id": "69cf1671669eba65faa642b9",
+            "department": "Production",
+            "job": "Unit Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2104243,
+            "known_for_department": "Writing",
+            "name": "Shay Hatten",
+            "original_name": "Shay Hatten",
+            "popularity": 0.7528,
+            "profile_path": "/hu4OQVq5whk0C6v7B7KHCVUsmUG.jpg",
+            "credit_id": "69f386fa7a7ff60126a14ab1",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 84833,
+            "known_for_department": "Acting",
+            "name": "Zach Cregger",
+            "original_name": "Zach Cregger",
+            "popularity": 2.3031,
+            "profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+            "credit_id": "69f387014796389a1f61fc1b",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 84833,
+            "known_for_department": "Acting",
+            "name": "Zach Cregger",
+            "original_name": "Zach Cregger",
+            "popularity": 2.3031,
+            "profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+            "credit_id": "69f387357eeb00cbb312ecb3",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 674,
+            "known_for_department": "Production",
+            "name": "Oliver Berben",
+            "original_name": "Oliver Berben",
+            "popularity": 0.6091,
+            "profile_path": "/xzokTXR0FO1LGANvgUDbs4nKem1.jpg",
+            "credit_id": "69f3874dd8832e3ac312ece3",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3954,
+            "known_for_department": "Production",
+            "name": "Richard S. Wright",
+            "original_name": "Richard S. Wright",
+            "popularity": 0.4051,
+            "profile_path": null,
+            "credit_id": "69f3875ec38c559c3a12ecc2",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3959,
+            "known_for_department": "Production",
+            "name": "Robert Bernacchi",
+            "original_name": "Robert Bernacchi",
+            "popularity": 0.4249,
+            "profile_path": null,
+            "credit_id": "69f387676a5fff34b8a14b2f",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 373986,
+            "known_for_department": "Visual Effects",
+            "name": "Brice R. Parker",
+            "original_name": "Brice R. Parker",
+            "popularity": 0.527,
+            "profile_path": null,
+            "credit_id": "69f528f35539a979231ab560",
+            "department": "Visual Effects",
+            "job": "Visual Effects Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 373986,
+            "known_for_department": "Visual Effects",
+            "name": "Brice R. Parker",
+            "original_name": "Brice R. Parker",
+            "popularity": 0.527,
+            "profile_path": null,
+            "credit_id": "69f528f8236fd639cb87e470",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2504586,
+            "known_for_department": "Visual Effects",
+            "name": "Carolyn Shea",
+            "original_name": "Carolyn Shea",
+            "popularity": 0.3495,
+            "profile_path": null,
+            "credit_id": "69f5297a360bfde04487e55b",
+            "department": "Visual Effects",
+            "job": "Visual Effects Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1457329,
+            "known_for_department": "Visual Effects",
+            "name": "Kevin Andrew Smith",
+            "original_name": "Kevin Andrew Smith",
+            "popularity": 0.5233,
+            "profile_path": "/7HDtq3d0uPjmBpJIB7fXtdljQpQ.jpg",
+            "credit_id": "69f52988fab26a8f65c05a86",
+            "department": "Visual Effects",
+            "job": "Visual Effects Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1496396,
+            "known_for_department": "Editing",
+            "name": "Joe Murphy",
+            "original_name": "Joe Murphy",
+            "popularity": 0.2749,
+            "profile_path": null,
+            "credit_id": "6a02879215d7006139fb831c",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1424621,
+            "known_for_department": "Visual Effects",
+            "name": "Eric Reynolds",
+            "original_name": "Eric Reynolds",
+            "popularity": 0.4558,
+            "profile_path": null,
+            "credit_id": "6a05ffad24f3081bb0e3c3fe",
+            "department": "Visual Effects",
+            "job": "Animation Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6213509,
+            "known_for_department": "Visual Effects",
+            "name": "Janet Walters",
+            "original_name": "Janet Walters",
+            "popularity": 0.3891,
+            "profile_path": null,
+            "credit_id": "6a0600401706d291f0580770",
+            "department": "Visual Effects",
+            "job": "Visual Effects Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6238518,
+            "known_for_department": "Visual Effects",
+            "name": "Fahad Khaled",
+            "original_name": "Fahad Khaled",
+            "popularity": 0.368,
+            "profile_path": "/qOn6sR88SminJ1DdeXvnUOhlyqO.jpg",
+            "credit_id": "6a1413f1fa0dc5504e48e419",
+            "department": "Visual Effects",
+            "job": "Visual Effects Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 9744,
+            "name": "outbreak"
+        },
+        {
+            "id": 10349,
+            "name": "survival"
+        },
+        {
+            "id": 12377,
+            "name": "zombie"
+        },
+        {
+            "id": 41645,
+            "name": "based on video game"
+        },
+        {
+            "id": 50009,
+            "name": "survival horror"
+        },
+        {
+            "id": 283085,
+            "name": "body horror"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/rH60D4bS64CYGBIXps9OgSDl3RT.jpg",
+            "id": 1419229,
+            "title": "Silent Zone",
+            "original_title": "Silent Zone",
+            "overview": "In a zombie-ravaged world, a resourceful teen and her protector fight for survival, facing relentless dangers and testing the limits of hope and loyalty.",
+            "poster_path": "/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.2536,
+            "release_date": "2025-03-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.047,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ufUAOM5aVizNf8d5YLoutqrrlhq.jpg",
+            "id": 336843,
+            "title": "Maze Runner: The Death Cure",
+            "original_title": "Maze Runner: The Death Cure",
+            "overview": "Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
+            "poster_path": "/s8K0US4tUEoOrQ1LDh0eppuwGDx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53
+            ],
+            "popularity": 13.8545,
+            "release_date": "2018-01-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.079,
+            "vote_count": 8506
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
+            "id": 101299,
+            "title": "The Hunger Games: Catching Fire",
+            "original_title": "The Hunger Games: Catching Fire",
+            "overview": "After surviving the Hunger Games, Katniss and Peeta struggle with the consequences of their victory as unrest spreads across Panem. Forced back into the spotlight, they become symbols of hope and resistance while the Capitol prepares a new and deadly challenge that will change the future of the nation forever.",
+            "poster_path": "/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "popularity": 17.8974,
+            "release_date": "2013-11-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.428,
+            "vote_count": 18621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o3505VxhHKHbfTmuNif1ukjXDxI.jpg",
+            "id": 335866,
+            "title": "Circle",
+            "original_title": "Circle",
+            "overview": "In a massive, mysterious chamber, fifty strangers awaken to find themselves trapped with no memory of how they got there.  Organized in an inward-facing circle and unable to move, they quickly learn that every two minutes, one of them must die…executed by a strange device in the center of the room.",
+            "poster_path": "/hbIL53MdZFJXsgxXaSOVuApWTs8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                9648,
+                53
+            ],
+            "popularity": 2.7222,
+            "release_date": "2015-05-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.017,
+            "vote_count": 2152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jAXel5sHK1bnv9lL1U4HOkdxuD9.jpg",
+            "id": 487186,
+            "title": "Halo: Nightfall",
+            "original_title": "Halo: Nightfall",
+            "overview": "Set between the events of Halo 4 and Halo 5: Guardians… Halo: Nightfall tells the dramatic story of legendary man hunter and Naval Intelligence Officer Jameson Locke and his team as they are caught in a horrific biological attack while investigating terrorist activity on the distant colony world of Sedra. As they unravel a plot that draws them to an ancient, hellish artifact, they will be forced to fight for their survival, question everything and ultimately choose between their loyalty and their lives.",
+            "poster_path": "/liLQ8EFzHN06eFZ9KQMDK6cmGaK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "popularity": 2.9659,
+            "release_date": "2014-02-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.781,
+            "vote_count": 199
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qSP072apfe2EEcd5Qg9vGYy2OLw.jpg",
+            "id": 262504,
+            "title": "Allegiant",
+            "original_title": "Allegiant",
+            "overview": "Beatrice Prior and Tobias Eaton venture into the world outside of the fence and are taken into protective custody by a mysterious agency known as the Bureau of Genetic Welfare.",
+            "poster_path": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                878,
+                28,
+                9648
+            ],
+            "popularity": 9.066,
+            "release_date": "2016-03-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 7051
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ulaj7IhW72EK0cGSnMpP0UixTTC.jpg",
+            "id": 993867,
+            "title": "Eradication",
+            "original_title": "Eradication",
+            "overview": "When an unknown disease wipes out most of the world’s population, a man with unique blood is isolated for study. Fearing for his wife’s safety, he breaks his quarantine – into a world overrun by monstrous Infected and a shadowy agency hunting them down.",
+            "poster_path": "/6XZYA9VtCcidCU8Hus0J0V9wFhY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.8218,
+            "release_date": "2022-07-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.076,
+            "vote_count": 190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x9GeCXTGiPcmQcCsd1yzbNnx3up.jpg",
+            "id": 14161,
+            "title": "2012",
+            "original_title": "2012",
+            "overview": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build \"arks\" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
+            "poster_path": "/zaqam2RNscH5ooYFWInV6hjx6y5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 17.0514,
+            "release_date": "2009-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 12888
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1bDa2d9VqqBQlk42Gduu37Rz1ob.jpg",
+            "id": 72710,
+            "title": "The Host",
+            "original_title": "The Host",
+            "overview": "A parasitic alien soul is injected into the body of Melanie Stryder. Instead of carrying out her race's mission of taking over the Earth, \"Wanda\" (as she comes to be called) forms a bond with her host and sets out to aid other free humans.",
+            "poster_path": "/1mfIZw6WgkCX310eoe0Ys14c3Fi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 6.896,
+            "release_date": "2013-03-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.29,
+            "vote_count": 4111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
+            "id": 615656,
+            "title": "Meg 2: The Trench",
+            "original_title": "Meg 2: The Trench",
+            "overview": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+            "poster_path": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                27
+            ],
+            "popularity": 23.3687,
+            "release_date": "2023-08-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.374,
+            "vote_count": 4046
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tya34K7D4jtDrVbvExyvTx97Aen.jpg",
+            "id": 443791,
+            "title": "Underwater",
+            "original_title": "Underwater",
+            "overview": "After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.",
+            "poster_path": "/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                28,
+                12
+            ],
+            "popularity": 10.3313,
+            "release_date": "2020-01-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.289,
+            "vote_count": 3547
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
+            "id": 399579,
+            "title": "Alita: Battle Angel",
+            "original_title": "Alita: Battle Angel",
+            "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+            "poster_path": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "popularity": 15.355,
+            "release_date": "2019-01-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.27,
+            "vote_count": 10224
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+            "id": 181812,
+            "title": "Star Wars: The Rise of Skywalker",
+            "original_title": "Star Wars: The Rise of Skywalker",
+            "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+            "poster_path": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "popularity": 24.9918,
+            "release_date": "2019-12-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.26,
+            "vote_count": 10992
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vIEuJiIZN9EclAJDmD49F2zUzuX.jpg",
+            "id": 274855,
+            "title": "Geostorm",
+            "original_title": "Geostorm",
+            "overview": "After an unprecedented series of natural disasters threatened the planet, the world's leaders came together to create an intricate network of satellites to control the global climate and keep everyone safe. But now, something has gone wrong: the system built to protect Earth is attacking it, and it becomes a race against the clock to uncover the real threat before a worldwide geostorm wipes out everything and everyone along with it.",
+            "poster_path": "/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "popularity": 11.6207,
+            "release_date": "2017-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.125,
+            "vote_count": 5270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8z8uPdpCBxGMQQGr8IfxRSbXNFs.jpg",
+            "id": 15301,
+            "title": "Twilight Zone: The Movie",
+            "original_title": "Twilight Zone: The Movie",
+            "overview": "An anthology film presenting remakes of three episodes from the \"Twilight Zone\" TV series—\"Kick the Can\", \"It's a Good Life\" and \"Nightmare at 20,000 Feet\"—and one original story, \"Time Out.\"",
+            "poster_path": "/sDWARc5aYTUKE8Y2FIGVgWXuI4K.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                14,
+                878
+            ],
+            "popularity": 5.3688,
+            "release_date": "1983-06-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.489,
+            "vote_count": 828
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4wmT2KQrxA6pT6R4mN6kx8cqdFI.jpg",
+            "id": 24655,
+            "title": "The Car",
+            "original_title": "The Car",
+            "overview": "The Utah community of Santa Ynez is being terrorized by a mysterious black coupe that appears out of nowhere and begins running people down. After the car kills off the town sheriff, Captain Wade Parent is determined to stop the murderous driver.",
+            "poster_path": "/gFM9yMrO4fQMiG440Lx6bazB517.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                28,
+                53,
+                9648,
+                14
+            ],
+            "popularity": 3.5988,
+            "release_date": "1977-05-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+            "id": 141052,
+            "title": "Justice League",
+            "original_title": "Justice League",
+            "overview": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+            "poster_path": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 20.0093,
+            "release_date": "2017-11-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.07,
+            "vote_count": 13806
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dRKPz3iZiuYpgdfbBQ3Af6Wo63R.jpg",
+            "id": 17898,
+            "title": "Silver Bullet",
+            "original_title": "Silver Bullet",
+            "overview": "The small city of Tarker's Mills is startled by a series of sadistic murders. The population fears the work of a maniac, but sightings of a mysterious, hairy creature soon spread. People lock themselves up at night, but there's one boy who's still outside…",
+            "poster_path": "/52CvWYuJyWcMTPvsfcmsxaVHi7f.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.0164,
+            "release_date": "1985-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 713
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pakd7cxBetCEqWGbOWblWi2WGtv.jpg",
+            "id": 514690,
+            "title": "Global Meltdown",
+            "original_title": "Global Meltdown",
+            "overview": "A helicopter pilot and an environmental scientist lead a exodus of survivors in a search for a safe haven after a catastrophic tectonic event causes the crust of the earth to break apart.",
+            "poster_path": "/3msVFWalwQyfXQONXh9dRM0FLpD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                53,
+                10770
+            ],
+            "popularity": 2.0147,
+            "release_date": "2017-07-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.822,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bgkFOoXEQMRjKkCvgoj7smdGbuh.jpg",
+            "id": 157350,
+            "title": "Divergent",
+            "original_title": "Divergent",
+            "overview": "In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
+            "poster_path": "/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 14.0807,
+            "release_date": "2014-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.902,
+            "vote_count": 13607
+        }
+    ]
+}

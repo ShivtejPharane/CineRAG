@@ -1,0 +1,618 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/iGcL9VsO47kruolswdnlxjqFXax.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 415541,
+        "imdb_id": "tt0084326",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Mi conejo es el mejor",
+        "overview": "A young girl interned in reformatory lives the lesbian relationship with another partner, which makes her an object of desire ...",
+        "popularity": 11.7392,
+        "poster_path": "/wU4z6L19OZZcr52RnBNpZoWyket.jpg",
+        "production_companies": [
+            {
+                "id": 8160,
+                "logo_path": null,
+                "name": "Diasa P.C.",
+                "origin_country": "ES"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "1982-10-10",
+        "revenue": 0,
+        "runtime": 90,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "My Pussy is the Best",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 10
+    },
+    "cast": [
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 101472,
+            "known_for_department": "Acting",
+            "name": "Lina Romay",
+            "original_name": "Lina Romay",
+            "popularity": 0.0,
+            "profile_path": "/bSII10zGvXKOZV3CCKv5FfoaO5i.jpg",
+            "cast_id": 0,
+            "character": "Elisa",
+            "credit_id": "57d6b821c3a3684f3c0085ee",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 100820,
+            "known_for_department": "Acting",
+            "name": "Emilio Linder",
+            "original_name": "Emilio Linder",
+            "popularity": 0.4927,
+            "profile_path": "/gdIfIUzkTmRmPZEI1YyccJTCwES.jpg",
+            "cast_id": 1,
+            "character": "Carlos",
+            "credit_id": "57d6b82f9251416f52008747",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1377584,
+            "known_for_department": "Acting",
+            "name": "Elena Álvarez",
+            "original_name": "Elena Álvarez",
+            "popularity": 0.4677,
+            "profile_path": "/fS5hsJlOCkyFKluQiLkZ6RGxQqp.jpg",
+            "cast_id": 2,
+            "character": "Gloria",
+            "credit_id": "57d6b83dc3a3684f300085db",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 97658,
+            "known_for_department": "Acting",
+            "name": "Carmen Carrión",
+            "original_name": "Carmen Carrión",
+            "popularity": 0.8043,
+            "profile_path": "/5caregCI1X9R3ssU6qnlVP5eWXJ.jpg",
+            "cast_id": 3,
+            "character": "Marisa",
+            "credit_id": "57d6b8499251416f6500819a",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1678151,
+            "known_for_department": "Acting",
+            "name": "María Eugenia Muñoz",
+            "original_name": "María Eugenia Muñoz",
+            "popularity": 0.2952,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "Carmen",
+            "credit_id": "57d6b8579251416f5c008320",
+            "order": 4
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 1450600,
+            "known_for_department": "Acting",
+            "name": "Verónica Arecnavaleta",
+            "original_name": "Verónica Arecnavaleta",
+            "popularity": 0.0,
+            "profile_path": "/wlf9PNvG9FBYozQuM2bPCW9OZRS.jpg",
+            "cast_id": 5,
+            "character": "Celadora",
+            "credit_id": "57d6b86bc3a3684f2b007dd9",
+            "order": 5
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 32130,
+            "known_for_department": "Acting",
+            "name": "Ricardo Palacios",
+            "original_name": "Ricardo Palacios",
+            "popularity": 0.7348,
+            "profile_path": "/CywRvA9nuKxa5cih9VoUD0atfu.jpg",
+            "credit_id": "57d6b8919251416f500084ed",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 32130,
+            "known_for_department": "Acting",
+            "name": "Ricardo Palacios",
+            "original_name": "Ricardo Palacios",
+            "popularity": 0.7348,
+            "profile_path": "/CywRvA9nuKxa5cih9VoUD0atfu.jpg",
+            "credit_id": "5eebcccf6dea3a0032be3c0e",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 32130,
+            "known_for_department": "Acting",
+            "name": "Ricardo Palacios",
+            "original_name": "Ricardo Palacios",
+            "popularity": 0.7348,
+            "profile_path": "/CywRvA9nuKxa5cih9VoUD0atfu.jpg",
+            "credit_id": "5eebcce2bd990c0037fc0ac6",
+            "department": "Writing",
+            "job": "Story"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 155477,
+            "name": "softcore"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/mMjRFMOuFxsL2elALlm5v8CA7ud.jpg",
+            "id": 172631,
+            "title": "Family Weekend",
+            "original_title": "Family Weekend",
+            "overview": "A 16-year-old girl takes her parents hostage after they miss her big jump-roping competition.",
+            "poster_path": "/RiUNV96HPP14OfB7ILEOe2Vj26.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 3.0363,
+            "release_date": "2013-03-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.328,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kiRKdMztlnTzZnmuUsVu93cjrWR.jpg",
+            "id": 673159,
+            "title": "Hooking Up",
+            "original_title": "Hooking Up",
+            "overview": "Bailey and Darla embark upon a misguided and mutually deceitful form of therapy, one in which they must drive across the country, re-enacting Darla's colorful history as a sex addict. As their true motivations for the road trip come to light, the unlikely pair force one another to confront their issues, discovering that there might actually be more to love than just sex.",
+            "poster_path": "/y5QXP7qdwtPRiZy6cQTjRoaTXuW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 3.1169,
+            "release_date": "2020-03-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.333,
+            "vote_count": 180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jiyYIVcpfigO6wlhUQNDUOtefHS.jpg",
+            "id": 34482,
+            "title": "The Clique",
+            "original_title": "The Clique",
+            "overview": "A young girl tries to fit in with a clique of popular middle school girls after moving into the guest house of one of their homes.",
+            "poster_path": "/f8h9WF7l5vLWI6OU5nmIRKx6QJ0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "popularity": 4.5456,
+            "release_date": "2008-11-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AbPxK4IMO9eNUgJYeSOfOjHxfkz.jpg",
+            "id": 95755,
+            "title": "Small Apartments",
+            "original_title": "Small Apartments",
+            "overview": "When a clumsy deadbeat accidentally kills his landlord, he must do everything in his power to hide the body, only to find that the distractions of lust, the death of his beloved brother, and a crew of misfit characters force him on a journey where a fortune awaits him.",
+            "poster_path": "/z7j98OiCC6v0gOXJ9VF5t2kV169.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "popularity": 2.351,
+            "release_date": "2012-03-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5wHcVeMuUNlgQ2JvN0bVQ4sSDeM.jpg",
+            "id": 28339,
+            "title": "Hard to Die",
+            "original_title": "Hard to Die",
+            "overview": "While doing the inventory for a lingerie outlet in a high rise office building, five attractive women are terrorized by a series of bizarre killings. They suspect that the strange janitor, who witnessed another series of killings six months previously, is at the bottom of the whole thing. Little do they know the real horror that they face in the end.",
+            "poster_path": "/sQPdz28o3LmEaknwwnKB8zqqIYF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "popularity": 7.986,
+            "release_date": "1990-10-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.058,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aMMYfyQT5bYjP9l7Ap09oaMhwWf.jpg",
+            "id": 13375,
+            "title": "The Tit and the Moon",
+            "original_title": "La teta y la luna",
+            "overview": "A child does not stand the idea of having a new brother and dreams about drinking milk from the breasts of his mother again. The child asks the moon to bring him a tit only for him.",
+            "poster_path": "/rUYqLL2DXnWuyXoH468AlumoJIE.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 5.8525,
+            "release_date": "1994-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/upoaYa4aVhGE3ByouVV5WpdBwto.jpg",
+            "id": 829774,
+            "title": "Somewhere in Queens",
+            "original_title": "Somewhere in Queens",
+            "overview": "Leo and Angela Russo live a simple life in Queens, surrounded by their overbearing Italian-American family. When their son finds success on his high school basketball team, Leo tears the family apart trying to make it happen.",
+            "poster_path": "/zXr6AziPii0NFpbTANNpLrOPxRP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 2.2879,
+            "release_date": "2023-04-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pmUHC8IsRJsCEyggnNdbGnqeu6V.jpg",
+            "id": 14166,
+            "title": "Pretty Persuasion",
+            "original_title": "Pretty Persuasion",
+            "overview": "A 15-year-old girl incites chaos among her friends and a media frenzy when she accuses her drama teacher of sexual harassment.",
+            "poster_path": "/oTbmRS9OBqACIlgRkTqHIc1n6lO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 4.545,
+            "release_date": "2005-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.832,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hnuEnMxZBYjxXLNOnsdXsdY4kP6.jpg",
+            "id": 418402,
+            "title": "Inseparables",
+            "original_title": "Inseparables",
+            "overview": "Felipe a wealthy businessman who has been quadriplegic, due to an accident, is looking for a therapeutic assistant. There are several highly qualified, but he decides to take the assistant of his gardener, Tito who has decided to resign.",
+            "poster_path": "/mIC8ENJk2DdKk7KgcRK3ODbJRtU.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 1.9823,
+            "release_date": "2016-08-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.319,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f3rd6o0EQ0TnZsVtS1SD1k580Dh.jpg",
+            "id": 245527,
+            "title": "Convict",
+            "original_title": "Convict",
+            "overview": "Set in the dark and old Parramatta prison built by the original convicts our lead character Ray a war veteran finds himself serving 18 months for manslaughter after defending his fiance. He soon realizes that the prison boss has it in for him and does everything possible to break Ray even going after his fiance.",
+            "poster_path": "/mnvkok7eVau9Fg8BMDuwmk8JCZw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "popularity": 3.7913,
+            "release_date": "2014-01-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.516,
+            "vote_count": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gzyVkRCOsCADTahf4aRgWHv7N0P.jpg",
+            "id": 426230,
+            "title": "Band Aid",
+            "original_title": "Band Aid",
+            "overview": "A couple who can't stop fighting embark on a last-ditch effort to save their marriage: turning their fights into songs and starting a band.",
+            "poster_path": "/hDYKhDkmvvPnYESr1yNG3K5oMZT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10402
+            ],
+            "popularity": 2.5221,
+            "release_date": "2017-06-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.282,
+            "vote_count": 177
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dJDQp5KVM0AeyiM4IWlkwrYJJma.jpg",
+            "id": 436932,
+            "title": "Jawbone",
+            "original_title": "Jawbone",
+            "overview": "A former youth boxing champion, Jimmy McCabe is a man in search of hope but looking in all the wrong places. When he hits rock bottom he turns to his childhood boxing club and the only family he has left: gym owner Bill corner man Eddie and promoter Joe. Back in training, years after anyone thought he was a contender, he risks his life, as he tries to stand tall and regain his place in the world.",
+            "poster_path": "/kvL3CZRILLJ9STxRadGXI0MOeac.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 2.3635,
+            "release_date": "2017-05-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.171,
+            "vote_count": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vTPgBrqEhIIqeZOCqrdNjyXzK4c.jpg",
+            "id": 1219926,
+            "title": "South Park (Not Suitable for Children)",
+            "original_title": "South Park (Not Suitable for Children)",
+            "overview": "After it's discovered that a teacher at South Park Elementary has an OnlyFans page, Randy is compelled to take a closer look at the seedy underbelly of the world of online influencers.",
+            "poster_path": "/kN5H9EhUqDWBAsbnbt2XNhS7BFe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10770
+            ],
+            "popularity": 3.347,
+            "release_date": "2023-12-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.46,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pPzl3ae97wcU72yDE9PDl4qq446.jpg",
+            "id": 14262,
+            "title": "Desperate Living",
+            "original_title": "Desperate Living",
+            "overview": "After killing her husband, Peggy Gravel and her murderous maid Grizelda wind up in the crazy town of Mortville, where Queen Carlotta presides over a sleazy collection of misfits.",
+            "poster_path": "/kqEZ1CbxtrXtpAT1jeYfo52um3s.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 4.9553,
+            "release_date": "1977-05-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.347,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ggzUa7gPXs7mnLhJEcwP9r10Z9e.jpg",
+            "id": 1312150,
+            "title": "Ricky Gervais: Mortality",
+            "original_title": "Ricky Gervais: Mortality",
+            "overview": "Ricky Gervais tackles life, death and the state of the world in a brutally honest special that spares no topic, even his own mortality.",
+            "poster_path": "/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 8.0108,
+            "release_date": "2025-12-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.091,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fMt4fwqy0C908DwHDHpn65z1ku0.jpg",
+            "id": 323372,
+            "title": "The Corpse of Anna Fritz",
+            "original_title": "El cadáver de Anna Fritz",
+            "overview": "Anna Fritz is a beautiful and famous actress. Suddenly her body is found in a hotel and the news of her death goes around the planet. The young, shy caretaker Pau works at the hospital where they carried the body of Anna Fritz. He and his friends  decide to take pictures of the body of Anna Fritz.  They decide they could make love to her and nobody would know. They are in front of Anna Fritz ... and can do with it what  they want.",
+            "poster_path": "/wbGlMrymGFhYE8CTDVc7xwPUD6j.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "popularity": 3.4678,
+            "release_date": "2015-03-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.857,
+            "vote_count": 586
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/abWke008aC7M7nAUrij9JTWPEXk.jpg",
+            "id": 26520,
+            "title": "Bob & Carol & Ted & Alice",
+            "original_title": "Bob & Carol & Ted & Alice",
+            "overview": "After returning to Los Angeles from a group therapy session, documentary filmmaker Bob Sanders and his wife, Carol, find themselves becoming vigilante couples counselors, offering unsolicited advice to their best friends, Ted and Alice Henderson. Not wanting to be rude, the Hendersons play along, but some latent sexual tension among the four soon comes bubbling to the surface, and long-buried desires don't stay buried for long.",
+            "poster_path": "/8fDLuB1q3JycYJPK0F65OYO3lAX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 2.6682,
+            "release_date": "1969-09-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.248,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2tUCOsH8PW14ShjJdz8zU4EBJsq.jpg",
+            "id": 50380,
+            "title": "Lockdown",
+            "original_title": "Lockdown",
+            "overview": "Avery (Jones) returns to college as a competitive swimmer after getting his life back on track. But his life takes another unexpected turn when he and his two friends (Bonds, Casseus) are wrongly accused of murder and end up in prison.",
+            "poster_path": "/5nWDXa8zOK0Jf2dVjBtUgmsw8fs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "popularity": 1.7333,
+            "release_date": "2000-09-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.028,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cBZK1oi7td2E3Yy5cowwsDV3nTf.jpg",
+            "id": 371462,
+            "title": "Mammal",
+            "original_title": "Mammal",
+            "overview": "After Margaret, a divorcée living in Dublin, loses her teenage son, she develops an unorthodox relationship with Joe, a homeless youth. Their tentative trust is threatened by his involvement with a violent gang and the escalation of her ex-husband's grieving rage.",
+            "poster_path": "/l8bHUNWu1EMvVV5LGcdWFSUwJay.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.305,
+            "release_date": "2016-04-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5n417Ff5GXOGCOKj3ZLMRAxEP0o.jpg",
+            "id": 249397,
+            "title": "Nymphomaniac: Vol. II",
+            "original_title": "Nymphomaniac: Vol. II",
+            "overview": "The continuation of Joe's sexually dictated life delves into the darker aspects of her adult life and what led to her being in Seligman's care.",
+            "poster_path": "/iLUNqgNKuWn667kXCKztSxYbT3k.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "popularity": 12.9739,
+            "release_date": "2013-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.713,
+            "vote_count": 3233
+        }
+    ]
+}

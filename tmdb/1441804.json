@@ -1,0 +1,563 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1441804,
+        "imdb_id": null,
+        "origin_country": [
+            "PT"
+        ],
+        "original_language": "pt",
+        "original_title": "Na Sombra do Medo",
+        "overview": "Is fate stronger than self-will? In a dance that could change her future, Filipa fights against what has been imposed on her.",
+        "popularity": 11.9588,
+        "poster_path": "/4qLY5uc9nHT2JaRgESU2wCm6jU8.jpg",
+        "production_companies": [
+            {
+                "id": 235205,
+                "logo_path": null,
+                "name": "World Academy",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PT",
+                "name": "Portugal"
+            }
+        ],
+        "release_date": "2025-01-24",
+        "revenue": 0,
+        "runtime": 0,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Na Sombra do Medo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5277414,
+            "known_for_department": "Acting",
+            "name": "Carolina Valente",
+            "original_name": "Carolina Valente",
+            "popularity": 0.1354,
+            "profile_path": null,
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "67c35f4a04b6b222cf4df7e6",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5277410,
+            "known_for_department": "Acting",
+            "name": "Luísa Gonçalves",
+            "original_name": "Luísa Gonçalves",
+            "popularity": 0.1071,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "67c35f38111cdd4ed8b46e3a",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5277412,
+            "known_for_department": "Acting",
+            "name": "Catarina Faria",
+            "original_name": "Catarina Faria",
+            "popularity": 0.1071,
+            "profile_path": null,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "67c35f41111cdd4ed8b46e4a",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5277416,
+            "known_for_department": "Acting",
+            "name": "Inês Nabais",
+            "original_name": "Inês Nabais",
+            "popularity": 0.1071,
+            "profile_path": "/hrwvn8Us3tWfyfSWYnr2dc5E2hB.jpg",
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "67c35f54111cdd4ed8b46e6a",
+            "order": 3
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5277398,
+            "known_for_department": "Acting",
+            "name": "Andreia Maravilhas",
+            "original_name": "Andreia Maravilhas",
+            "popularity": 0.1071,
+            "profile_path": null,
+            "credit_id": "67c35f1489afff9e324df81a",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5277398,
+            "known_for_department": "Acting",
+            "name": "Andreia Maravilhas",
+            "original_name": "Andreia Maravilhas",
+            "popularity": 0.1071,
+            "profile_path": null,
+            "credit_id": "67c35f1fa5e1e358c44ae6eb",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5277409,
+            "known_for_department": "Sound",
+            "name": "Constança Quinteiro",
+            "original_name": "Constança Quinteiro",
+            "popularity": 0.1071,
+            "profile_path": null,
+            "credit_id": "67c35f2689afff9e324df838",
+            "department": "Sound",
+            "job": "Music"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/qL5Njffzz9kzq17nx2UHIPhauFk.jpg",
+            "id": 41240,
+            "title": "Bastard Out of Carolina",
+            "original_title": "Bastard Out of Carolina",
+            "overview": "A poor, struggling South Carolinian mother and daughter face painful choices with their resolve and pride. Bone, the eldest daughter, and Anney her tired mother, grow both closer and farther apart: Anney sees Glen as her last chance.",
+            "poster_path": "/jYFwFOkHwWxaStR21UIgdb96Gzh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.3634,
+            "release_date": "1996-12-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.088,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jKn2dzTUSLUkPQ3AZDFiT0hxR6D.jpg",
+            "id": 217919,
+            "title": "Salomé",
+            "original_title": "Salomé",
+            "overview": "After the lewd and frenetic Dance of the Seven Veils, and with the solemn pledge from the very lips of Herod himself that she could have whatever her heart desires up to half his kingdom, wanton and proud young Salomé comes before her king with an unreasonable demand. Beguiled by John the Baptist, and then scorned for the sake of his god, lascivious Salomé—encouraged by her mother, the vindictive, Herodias—commands that John be executed and his head delivered on a silver platter.",
+            "poster_path": "/funqENCFjduG3CGbiSYRl7VF3ud.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4552,
+            "release_date": "2013-08-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yf436twLhr0Xq6y6tGF8JMuEPES.jpg",
+            "id": 417546,
+            "title": "The Other End",
+            "original_title": "Fala Comigo",
+            "overview": "Diogo (17) has a little quirk: he likes to call his mother's female therapy patients and masturbate while listening to them on the phone. One of these patients is Angela (43), a woman who was just left by her husband When Diogo calls Angela, she thinks it's her husband calling. She starts having a relationship with the silence on the other end of the line. But when she finds out it's Diogo, she's disgusted. She's furious. But, most of all, she's attracted to this person who showed so much interest in her. The only person who called her every day.  Diogo helps Angela see that she can have a new beginning and she shows him his way to independence. But they have to face a number of obstacles: There's the age difference, Diogo's mother, and, especially, his own path to adulthood.",
+            "poster_path": "/ePFiF7L9airzDkPwI6txjxG9RV7.jpg",
+            "media_type": "movie",
+            "original_language": "pt",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.3091,
+            "release_date": "2016-10-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.536,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uTtsYLaC9b8joDKy4YGsMxfo3cp.jpg",
+            "id": 547590,
+            "title": "El Chicano",
+            "original_title": "El Chicano",
+            "overview": "A pair of twin brothers from East L.A. choose to live their lives differently and end up on opposite sides of the law.",
+            "poster_path": "/6LSJL2KHUAxSjDTWA5V5Cr7sNNd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4814,
+            "release_date": "2019-05-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.621,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gEZagBzbropWZqlU2yEZlr2x0pn.jpg",
+            "id": 15568,
+            "title": "Gracie",
+            "original_title": "Gracie",
+            "overview": "A teenager faces an uphill battle when she fights to give women the opportunity to play competitive soccer.",
+            "poster_path": "/gPmRGO7iwVRWNd0n5ePWLfSHeuH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.0164,
+            "release_date": "2007-06-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.196,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kk1MMdWF9Z4vBMM0ebBjD7G5zFf.jpg",
+            "id": 127373,
+            "title": "What Maisie Knew",
+            "original_title": "What Maisie Knew",
+            "overview": "In New York City, a young girl is caught in the middle of her parents' bitter custody battle.",
+            "poster_path": "/1unkWKdT68ba6NdiSsPqzJeylxc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.0972,
+            "release_date": "2013-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.117,
+            "vote_count": 452
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iSKHeZ2QumBwIuJnIBXzjaczbPP.jpg",
+            "id": 273059,
+            "title": "Starving in Suburbia",
+            "original_title": "Starving in Suburbia",
+            "overview": "When seventeen-year-old Hannah stumbles upon a website about Thinspiration--an online community devoted to anorexia as a life choice--she becomes an obsessive follower of the site founder, ButterflyAna. By the time Hannah's family realizes what is happening and get Hannah the help she needs, the disease has fully taken hold and Hannah is refusing to eat. Will this family be able to exorcise the demon of anorexia from their lives?",
+            "poster_path": "/kSTqlLJ0gNEIQVNwVe9YhvAcdZo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "popularity": 3.2033,
+            "release_date": "2014-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iYS4N87jQcYXnC2WKDlrUvE61Tf.jpg",
+            "id": 283698,
+            "title": "Hungry Hearts",
+            "original_title": "Hungry Hearts",
+            "overview": "The relationship of a couple who meet by chance in New York City is put to the test when they encounter a life or death circumstance.",
+            "poster_path": "/pSLlzA8bJWaLjrm7F7IAhJiHNVi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4157,
+            "release_date": "2015-01-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.511,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/te5GuHx6WoyClws4Gs4rBD6efdd.jpg",
+            "id": 520390,
+            "title": "The Kindness of Strangers",
+            "original_title": "The Kindness of Strangers",
+            "overview": "Clara and her two sons escape from her abusive husband with little more than their car and plan to start over in New York. After the car towed away, the family meets Alice, who gets them into an emergency shelter. While stealing food at a Russian restaurant called ‘Winter Palace’, Clara meets Marc, who has been given the chance to help the old eatery regain its former glory. The ‘Winter Palace’ soon becomes a place of unexpected encounters between people who are all undergoing some sort of crisis and whom fate has now brought together.",
+            "poster_path": "/9E9CB9YdhBl2q9tMqqXfKgf9hyP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.7098,
+            "release_date": "2019-12-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.332,
+            "vote_count": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2ITFFpDaKBa0zmjENtY1SMJkieu.jpg",
+            "id": 468592,
+            "title": "Vitalina Varela",
+            "original_title": "Vitalina Varela",
+            "overview": "A Cape Verdean woman navigates her way through Lisbon, following the scanty physical traces her deceased husband left behind and discovering his secret, illicit life.",
+            "poster_path": "/xJUMhpsxuoSLyDhb8cEbVdwuaAw.jpg",
+            "media_type": "movie",
+            "original_language": "pt",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 1.8006,
+            "release_date": "2019-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.621,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5L5NYXBPmThp1OBj3IGStlRGltx.jpg",
+            "id": 109417,
+            "title": "Battle of the Year",
+            "original_title": "Battle of the Year",
+            "overview": "A down-on-his-luck coach is hired to prepare a team of the best American dancers for an international tournament that attracts all the best crews from around the world, but the Americans haven't won in fifteen years.",
+            "poster_path": "/dB4L9yt9eFbVhx8tSuDUHoMeN4x.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "popularity": 2.7842,
+            "release_date": "2013-09-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.793,
+            "vote_count": 362
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yS2hbKPQOqhEEp5JwQTSEnJtphj.jpg",
+            "id": 82040,
+            "title": "Most",
+            "original_title": "Most",
+            "overview": "A poetic and powerful story of a father forced to choose between love and duty.",
+            "poster_path": "/e2hYKeo9sLYlHohCrNDuxqNPcrr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 1.6072,
+            "release_date": "2003-06-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.275,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5WyJYVBB2wzzzJn6VF6YEYHIpF3.jpg",
+            "id": 206284,
+            "title": "Grace Unplugged",
+            "original_title": "Grace Unplugged",
+            "overview": "A talented young singer and aspiring songwriter’s Christian faith and family ties are tested when she defies her worship-pastor father and pursues pop-music stardom in GRACE UNPLUGGED, a moving and inspiring new film that explores the true meaning of success.",
+            "poster_path": "/1woGP3DCEyfPuifRPSkrwDanOQm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "popularity": 2.8972,
+            "release_date": "2013-10-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.008,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lVDDXGuuu2WiqQCyXMsLe513FNP.jpg",
+            "id": 184341,
+            "title": "Hands of Stone",
+            "original_title": "Hands of Stone",
+            "overview": "The legendary Roberto Duran and his equally legendary trainer Ray Arcel change each other's lives.",
+            "poster_path": "/rpAYkkc7ltnxnMXOZLPuI9A6cuB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.4058,
+            "release_date": "2016-08-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 461
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q6M9TRlUKaiwiueHQMnZYkklLWZ.jpg",
+            "id": 537617,
+            "title": "The Padre",
+            "original_title": "The Padre",
+            "overview": "American retired Judge Randall Nemes and his hired gun, Gaspar, track down a con man posing as a priest in a small Colombian town only to be thrown off-course by a scrappy 16-year-old girl intent on reuniting with her sister in the United States.",
+            "poster_path": "/zaj41iC7bRdouW2xnL9shBKR0kl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.7965,
+            "release_date": "2018-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.905,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6lDdjAJ5uuHmYAv9eT7dUyGVvS.jpg",
+            "id": 413337,
+            "title": "Girl in the Box",
+            "original_title": "Girl in the Box",
+            "overview": "The true story of 20-year-old Colleen Stan, a hitchhiking woman abducted by a young couple and held captive for seven years, during which time she's tortured and forced to live as a slave to her captors.",
+            "poster_path": "/uLH92vwvTlOjnSCG5JqJtH1fT9p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "popularity": 5.8562,
+            "release_date": "2016-09-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.709,
+            "vote_count": 163
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dyqOb3yIF0JGoVxVoredYevxQHO.jpg",
+            "id": 14882,
+            "title": "Hounddog",
+            "original_title": "Hounddog",
+            "overview": "A drama set in the American South, where a precocious, troubled girl finds a safe haven in the music and movement of Elvis Presley.",
+            "poster_path": "/gHu64aEbNpkKM8Hh2NFDu45y3B6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "popularity": 2.9637,
+            "release_date": "2008-09-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.461,
+            "vote_count": 141
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lgMlbqvD0aXZno2NlmsIAqRVmjj.jpg",
+            "id": 230129,
+            "title": "Between Us",
+            "original_title": "Entre Nós",
+            "overview": "A group of literature-loving friends bury letters to be opened 10 years later when they will confront the dreams of their youth with what the future has held in store for them.",
+            "poster_path": "/kDqulfk6mJQvQ1IlrnLyZsysat6.jpg",
+            "media_type": "movie",
+            "original_language": "pt",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.0369,
+            "release_date": "2013-10-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1DHOug17KTzIILp7kuxtyemFSY9.jpg",
+            "id": 535348,
+            "title": "Long Way Home",
+            "original_title": "Temporada",
+            "overview": "In order to take a new job as an employee in the public sanitation department, Juliana moves from the inner city of Itaúna to the metropolitan town of Contagem in Brazil. While waiting for her husband to join her, she adapts to her new life, meeting people and discovering new horizons, trying to overcome her past.",
+            "poster_path": "/t0FnuCnfEVMuCeh1sfQPOOcSVO1.jpg",
+            "media_type": "movie",
+            "original_language": "pt",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.5614,
+            "release_date": "2019-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.89,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hXTRI7E5KUI5Q5H4hXKaZUywqPe.jpg",
+            "id": 364223,
+            "title": "Strange Weather",
+            "original_title": "Strange Weather",
+            "overview": "Years after her son's suicide, a woman longs to confront both the past and a friend of his who took his business idea.",
+            "poster_path": "/vlw625tmRD1qFIy4JiOZzQKc98P.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.3429,
+            "release_date": "2016-09-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.883,
+            "vote_count": 60
+        }
+    ]
+}

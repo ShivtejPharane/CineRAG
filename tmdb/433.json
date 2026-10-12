@@ -1,0 +1,1716 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+        "belongs_to_collection": {
+            "id": 527439,
+            "name": "Mary Poppins Collection",
+            "poster_path": "/zhRdMHwitG9vOuRjrzZA4KdLEix.jpg",
+            "backdrop_path": "/7f3qwby0wlw4y1vG7yQqhme5iTK.jpg"
+        },
+        "budget": 4650000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "https://movies.disney.com/mary-poppins",
+        "id": 433,
+        "imdb_id": "tt0058331",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Mary Poppins",
+        "overview": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.",
+        "popularity": 12.6714,
+        "poster_path": "/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
+        "production_companies": [
+            {
+                "id": 3166,
+                "logo_path": "/jmPS1qPfKnISciDF7RnUbh48jvK.png",
+                "name": "Walt Disney Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1964-12-17",
+        "revenue": 103100000,
+        "runtime": 139,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The fairest of them all...the funniest of them all!",
+        "title": "Mary Poppins",
+        "video": false,
+        "vote_average": 7.547,
+        "vote_count": 5058
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5823,
+            "known_for_department": "Acting",
+            "name": "Julie Andrews",
+            "original_name": "Julie Andrews",
+            "popularity": 3.3124,
+            "profile_path": "/yQ0J92DMiLtQYoytLJ6CuBkdeN0.jpg",
+            "cast_id": 1,
+            "character": "Mary Poppins",
+            "credit_id": "52fe4243c3a36847f801080f",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 61303,
+            "known_for_department": "Acting",
+            "name": "Dick Van Dyke",
+            "original_name": "Dick Van Dyke",
+            "popularity": 2.3516,
+            "profile_path": "/jXAeNx7mYdirzMHcqPyj5VXxcXi.jpg",
+            "cast_id": 2,
+            "character": "Bert / Mr. Dawes Sr.",
+            "credit_id": "52fe4243c3a36847f8010813",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5825,
+            "known_for_department": "Acting",
+            "name": "David Tomlinson",
+            "original_name": "David Tomlinson",
+            "popularity": 1.2659,
+            "profile_path": "/s4vye5TiGDNG8HiwOAm4KQqees8.jpg",
+            "cast_id": 3,
+            "character": "Mr. Banks",
+            "credit_id": "52fe4243c3a36847f8010817",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5826,
+            "known_for_department": "Acting",
+            "name": "Glynis Johns",
+            "original_name": "Glynis Johns",
+            "popularity": 1.4514,
+            "profile_path": "/st4IdzYEfXActXFbVnR3DLptpTw.jpg",
+            "cast_id": 4,
+            "character": "Mrs. Banks",
+            "credit_id": "52fe4243c3a36847f801081b",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5827,
+            "known_for_department": "Acting",
+            "name": "Hermione Baddeley",
+            "original_name": "Hermione Baddeley",
+            "popularity": 0.9958,
+            "profile_path": "/6HMJoP13gHI4MdPcApyYirfUNDl.jpg",
+            "cast_id": 5,
+            "character": "Ellen",
+            "credit_id": "52fe4243c3a36847f801081f",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5829,
+            "known_for_department": "Acting",
+            "name": "Karen Dotrice",
+            "original_name": "Karen Dotrice",
+            "popularity": 1.3321,
+            "profile_path": "/wieIGhDHMVsfGVZuVhctjN9kzXd.jpg",
+            "cast_id": 7,
+            "character": "Jane Banks",
+            "credit_id": "52fe4243c3a36847f8010827",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5830,
+            "known_for_department": "Acting",
+            "name": "Matthew Garber",
+            "original_name": "Matthew Garber",
+            "popularity": 0.6562,
+            "profile_path": "/x78xIImLQWfPFbDnhWTmRhe8vg2.jpg",
+            "cast_id": 8,
+            "character": "Michael Banks",
+            "credit_id": "52fe4243c3a36847f801082b",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2926,
+            "known_for_department": "Acting",
+            "name": "Elsa Lanchester",
+            "original_name": "Elsa Lanchester",
+            "popularity": 1.1425,
+            "profile_path": "/jek9jcqODZGWnmcMm7ynkSaLSWb.jpg",
+            "cast_id": 9,
+            "character": "Katie Nanna",
+            "credit_id": "52fe4243c3a36847f801082f",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5831,
+            "known_for_department": "Acting",
+            "name": "Arthur Treacher",
+            "original_name": "Arthur Treacher",
+            "popularity": 0.9454,
+            "profile_path": "/oPhvOmBTJxFqRQfkEyyPuKJM5Bu.jpg",
+            "cast_id": 10,
+            "character": "Constable",
+            "credit_id": "52fe4243c3a36847f8010833",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5832,
+            "known_for_department": "Acting",
+            "name": "Reginald Owen",
+            "original_name": "Reginald Owen",
+            "popularity": 1.1093,
+            "profile_path": "/a7PEC3JPysPo4OoOqOIagDFZmNB.jpg",
+            "cast_id": 11,
+            "character": "Admiral Boom",
+            "credit_id": "52fe4243c3a36847f8010837",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5833,
+            "known_for_department": "Acting",
+            "name": "Ed Wynn",
+            "original_name": "Ed Wynn",
+            "popularity": 1.4039,
+            "profile_path": "/ephGLfQWundnRnvMR0JdK2NhJBQ.jpg",
+            "cast_id": 12,
+            "character": "Uncle Albert",
+            "credit_id": "52fe4243c3a36847f801083b",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5828,
+            "known_for_department": "Acting",
+            "name": "Reta Shaw",
+            "original_name": "Reta Shaw",
+            "popularity": 0.9494,
+            "profile_path": "/gy1L3rVUPFRvoztcHc5GOT2ABhz.jpg",
+            "cast_id": 6,
+            "character": "Mrs. Brill",
+            "credit_id": "52fe4243c3a36847f8010823",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 13392,
+            "known_for_department": "Acting",
+            "name": "Arthur Malet",
+            "original_name": "Arthur Malet",
+            "popularity": 1.2937,
+            "profile_path": "/AbmKxci3EZMG2rBmFLQiUdNsySL.jpg",
+            "cast_id": 26,
+            "character": "Mr. Dawes Jr.",
+            "credit_id": "52fe4243c3a36847f801088b",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 8515,
+            "known_for_department": "Acting",
+            "name": "Jane Darwell",
+            "original_name": "Jane Darwell",
+            "popularity": 1.0277,
+            "profile_path": "/xWTsj5z2N94OOnimMmUYewQXOIi.jpg",
+            "cast_id": 25,
+            "character": "Bird Woman",
+            "credit_id": "52fe4243c3a36847f8010887",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 157411,
+            "known_for_department": "Acting",
+            "name": "James Logan",
+            "original_name": "James Logan",
+            "popularity": 0.3905,
+            "profile_path": null,
+            "cast_id": 32,
+            "character": "Bank Doorman",
+            "credit_id": "560f980c9251414feb005157",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 30144,
+            "known_for_department": "Acting",
+            "name": "Don Barclay",
+            "original_name": "Don Barclay",
+            "popularity": 0.5735,
+            "profile_path": "/jVKPE16JHrMa5H5VDyG4z05rK5M.jpg",
+            "cast_id": 28,
+            "character": "Mr. Binnacle",
+            "credit_id": "52fe4243c3a36847f8010893",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 403760,
+            "known_for_department": "Acting",
+            "name": "Alma Lawton",
+            "original_name": "Alma Lawton",
+            "popularity": 0.512,
+            "profile_path": null,
+            "cast_id": 29,
+            "character": "Mrs. Corry",
+            "credit_id": "52fe4243c3a36847f8010897",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 117714,
+            "known_for_department": "Acting",
+            "name": "Marjorie Eaton",
+            "original_name": "Marjorie Eaton",
+            "popularity": 0.7634,
+            "profile_path": "/7uOFOA0fkMpf1TWk8lSFBhAVuxL.jpg",
+            "cast_id": 30,
+            "character": "Miss Persimmon",
+            "credit_id": "52fe4243c3a36847f801089b",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 97257,
+            "known_for_department": "Acting",
+            "name": "Marjorie Bennett",
+            "original_name": "Marjorie Bennett",
+            "popularity": 1.1572,
+            "profile_path": "/1lnpsdUkhE72p8ydn8PLbYv6cU8.jpg",
+            "cast_id": 31,
+            "character": "Miss Lark",
+            "credit_id": "52fe4243c3a36847f801089f",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 21878,
+            "known_for_department": "Acting",
+            "name": "Doris Lloyd",
+            "original_name": "Doris Lloyd",
+            "popularity": 1.2184,
+            "profile_path": "/fBK3svuhA9YpWRtD6EHMJMd7YC4.jpg",
+            "cast_id": 192,
+            "character": "Depositor (uncredited)",
+            "credit_id": "68b86ffc7c22ace9274e49e5",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 44676,
+            "known_for_department": "Acting",
+            "name": "Dal McKennon",
+            "original_name": "Dal McKennon",
+            "popularity": 0.9424,
+            "profile_path": "/7ke4WPwpxVsSsYfoibCKEmrI56V.jpg",
+            "cast_id": 193,
+            "character": "Penguin Waiters / Carousel Guard / Horse / Fox (voice)",
+            "credit_id": "69772b7cb88d5d1ee1eaf815",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 109969,
+            "known_for_department": "Acting",
+            "name": "Daws Butler",
+            "original_name": "Daws Butler",
+            "popularity": 0.9965,
+            "profile_path": "/qxaOMbICdts0qpUmkYj3OMhDGt8.jpg",
+            "cast_id": 195,
+            "character": "Turtle/Penguin (voice) (uncredited)",
+            "credit_id": "69796d226ce135275e79bff7",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1224636,
+            "known_for_department": "Acting",
+            "name": "Bill Lee",
+            "original_name": "Bill Lee",
+            "popularity": 0.521,
+            "profile_path": "/eS8aQgJy4nNMIs5t7DyKDHTotXl.jpg",
+            "cast_id": 197,
+            "character": "Ram (voice) (uncredited)",
+            "credit_id": "69c438bfdcc9b53306665a92",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6933,
+            "known_for_department": "Acting",
+            "name": "Alan Napier",
+            "original_name": "Alan Napier",
+            "popularity": 1.715,
+            "profile_path": "/90TwBLqH94JqWeVBXqkkYR2wsp2.jpg",
+            "cast_id": 198,
+            "character": "Huntsman/Reporter #3/Hound (voice) (uncredited)",
+            "credit_id": "69ee85a6efc287ff9c93679f",
+            "order": 23
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150739,
+            "known_for_department": "Acting",
+            "name": "Thurl Ravenscroft",
+            "original_name": "Thurl Ravenscroft",
+            "popularity": 1.0211,
+            "profile_path": "/bG8r0mdyU0lvhllYAAjRAJupWqq.jpg",
+            "cast_id": 200,
+            "character": "Hog / Andrew's Whimper (Voice) (Uncredited)",
+            "credit_id": "6a29ba129e9d42ff69407849",
+            "order": 24
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 22602,
+            "known_for_department": "Acting",
+            "name": "J. Pat O'Malley",
+            "original_name": "J. Pat O'Malley",
+            "popularity": 1.5885,
+            "profile_path": "/AaaALfecdxxSsW65eIQoznII0li.jpg",
+            "cast_id": 201,
+            "character": "Pearly Drummer/Master of Hounds/Huntsman/Hound/Horse/Penguin/Reporter #2/Photographer (Voice) (Uncredited)",
+            "credit_id": "6a29ba64d2163e018e68259f",
+            "order": 25
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 187678,
+            "known_for_department": "Acting",
+            "name": "Marni Nixon",
+            "original_name": "Marni Nixon",
+            "popularity": 0.6004,
+            "profile_path": "/76mZuCSred16BMfneYmmlXlbXeB.jpg",
+            "cast_id": 202,
+            "character": "Geese (Voice) (Uncredited)",
+            "credit_id": "6a29ba8801ba01579a81e66b",
+            "order": 26
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 71779,
+            "known_for_department": "Acting",
+            "name": "Betty Lou Gerson",
+            "original_name": "Betty Lou Gerson",
+            "popularity": 0.8611,
+            "profile_path": "/eRL8OFppYDCoQjmtEVkeVPFJ7UT.jpg",
+            "cast_id": 203,
+            "character": "Old Crone (Uncredited)",
+            "credit_id": "6a29bab0beeb3e2f5681e74c",
+            "order": 27
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5838,
+            "known_for_department": "Sound",
+            "name": "Richard M. Sherman",
+            "original_name": "Richard M. Sherman",
+            "popularity": 0.638,
+            "profile_path": "/1uI7VEKd4RquqxEVaykX04fbqSs.jpg",
+            "cast_id": 204,
+            "character": "Penguin / Pearly (Voice) (Uncredited)",
+            "credit_id": "6a29bb16cee8a02f6179b871",
+            "order": 28
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5839,
+            "known_for_department": "Sound",
+            "name": "Robert B. Sherman",
+            "original_name": "Robert B. Sherman",
+            "popularity": 0.5003,
+            "profile_path": "/hPcoQvIiP8DYfnA5NVyO8BgoSPb.jpg",
+            "cast_id": 205,
+            "character": "Pearly Banjo Player (Voice) (Uncredited)",
+            "credit_id": "6a29bb38c9f25f693aaf89ca",
+            "order": 29
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5834,
+            "known_for_department": "Directing",
+            "name": "Robert Stevenson",
+            "original_name": "Robert Stevenson",
+            "popularity": 0.916,
+            "profile_path": "/AfqR78fhdCGcCo52zRbUuSYwUsO.jpg",
+            "credit_id": "52fe4243c3a36847f8010841",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5839,
+            "known_for_department": "Sound",
+            "name": "Robert B. Sherman",
+            "original_name": "Robert B. Sherman",
+            "popularity": 0.5003,
+            "profile_path": "/hPcoQvIiP8DYfnA5NVyO8BgoSPb.jpg",
+            "credit_id": "52fe4243c3a36847f801086b",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5838,
+            "known_for_department": "Sound",
+            "name": "Richard M. Sherman",
+            "original_name": "Richard M. Sherman",
+            "popularity": 0.638,
+            "profile_path": "/1uI7VEKd4RquqxEVaykX04fbqSs.jpg",
+            "credit_id": "52fe4243c3a36847f8010865",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5836,
+            "known_for_department": "Writing",
+            "name": "Bill Walsh",
+            "original_name": "Bill Walsh",
+            "popularity": 0.7983,
+            "profile_path": "/nfwyYYj1sVg5uneKLftutLhNqIN.jpg",
+            "credit_id": "52fe4243c3a36847f801084d",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5840,
+            "known_for_department": "Camera",
+            "name": "Edward Colman",
+            "original_name": "Edward Colman",
+            "popularity": 0.5541,
+            "profile_path": null,
+            "credit_id": "52fe4243c3a36847f8010871",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5841,
+            "known_for_department": "Editing",
+            "name": "Cotton Warburton",
+            "original_name": "Cotton Warburton",
+            "popularity": 0.6997,
+            "profile_path": null,
+            "credit_id": "52fe4243c3a36847f8010877",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5837,
+            "known_for_department": "Directing",
+            "name": "Don DaGradi",
+            "original_name": "Don DaGradi",
+            "popularity": 0.7177,
+            "profile_path": "/1ZLdNjZqJtxCkEfEg9Z9AyzSuDV.jpg",
+            "credit_id": "52fe4243c3a36847f8010853",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3255,
+            "known_for_department": "Art",
+            "name": "Carroll Clark",
+            "original_name": "Carroll Clark",
+            "popularity": 0.5593,
+            "profile_path": null,
+            "credit_id": "52fe4243c3a36847f801087d",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5842,
+            "known_for_department": "Art",
+            "name": "William H. Tuntke",
+            "original_name": "William H. Tuntke",
+            "popularity": 0.4226,
+            "profile_path": null,
+            "credit_id": "52fe4243c3a36847f8010883",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 22066,
+            "known_for_department": "Visual Effects",
+            "name": "Eric Larson",
+            "original_name": "Eric Larson",
+            "popularity": 0.252,
+            "profile_path": "/gNrUDEgF3qgspHxLNGR01byJZGx.jpg",
+            "credit_id": "565a0acd92514161bb000b1c",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 63646,
+            "known_for_department": "Visual Effects",
+            "name": "Frank Thomas",
+            "original_name": "Frank Thomas",
+            "popularity": 0.6648,
+            "profile_path": "/ex3jyUogtwMt2zQgzmh3cwEz8ds.jpg",
+            "credit_id": "565a1e05c3a3680ac7000ec5",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 138170,
+            "known_for_department": "Visual Effects",
+            "name": "Milt Kahl",
+            "original_name": "Milt Kahl",
+            "popularity": 0.6951,
+            "profile_path": "/3Kh10dBqHTNDbXmsEoD7GAISelz.jpg",
+            "credit_id": "565a194a92514161c1000d2a",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 143786,
+            "known_for_department": "Visual Effects",
+            "name": "Ollie Johnston",
+            "original_name": "Ollie Johnston",
+            "popularity": 0.6479,
+            "profile_path": "/7LShcoYbJg7vfXV2lSjzTlGAGb.jpg",
+            "credit_id": "565a248c92514161b1000ef5",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1471048,
+            "known_for_department": "Crew",
+            "name": "Marc Breaux",
+            "original_name": "Marc Breaux",
+            "popularity": 0.5056,
+            "profile_path": null,
+            "credit_id": "65cc3b4e1365450149a133d1",
+            "department": "Crew",
+            "job": "Choreographer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2355548,
+            "known_for_department": "Crew",
+            "name": "Dee Dee Wood",
+            "original_name": "Dee Dee Wood",
+            "popularity": 0.2934,
+            "profile_path": null,
+            "credit_id": "65cc3b6fe210230185c32b29",
+            "department": "Crew",
+            "job": "Choreographer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 136118,
+            "known_for_department": "Art",
+            "name": "Bill Layne",
+            "original_name": "Bill Layne",
+            "popularity": 0.2545,
+            "profile_path": null,
+            "credit_id": "661471dd048638014919c067",
+            "department": "Art",
+            "job": "Background Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 148810,
+            "known_for_department": "Visual Effects",
+            "name": "Cliff Nordberg",
+            "original_name": "Cliff Nordberg",
+            "popularity": 0.5382,
+            "profile_path": null,
+            "credit_id": "6614718c9bcd0f01632ad8ed",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 143785,
+            "known_for_department": "Art",
+            "name": "Al Dempster",
+            "original_name": "Al Dempster",
+            "popularity": 0.3377,
+            "profile_path": null,
+            "credit_id": "661471bd04863801301984e1",
+            "department": "Art",
+            "job": "Background Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 137180,
+            "known_for_department": "Directing",
+            "name": "Don Griffith",
+            "original_name": "Don Griffith",
+            "popularity": 0.4516,
+            "profile_path": null,
+            "credit_id": "661471d4048638017c1b3072",
+            "department": "Art",
+            "job": "Background Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 69003,
+            "known_for_department": "Visual Effects",
+            "name": "John Lounsbery",
+            "original_name": "John Lounsbery",
+            "popularity": 0.4572,
+            "profile_path": "/sHvTdMA98zyOEn3Mfffz1zApBaL.jpg",
+            "credit_id": "6614717de10f46014a38e5df",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11429,
+            "known_for_department": "Directing",
+            "name": "Hamilton Luske",
+            "original_name": "Hamilton Luske",
+            "popularity": 0.8752,
+            "profile_path": "/bEccjwuG6QGc4V0AtA87rexRHYo.jpg",
+            "credit_id": "661470d959008601627d4708",
+            "department": "Visual Effects",
+            "job": "Animation Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5838,
+            "known_for_department": "Sound",
+            "name": "Richard M. Sherman",
+            "original_name": "Richard M. Sherman",
+            "popularity": 0.638,
+            "profile_path": "/1uI7VEKd4RquqxEVaykX04fbqSs.jpg",
+            "credit_id": "6614722304863801631a564e",
+            "department": "Writing",
+            "job": "Lyricist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5836,
+            "known_for_department": "Writing",
+            "name": "Bill Walsh",
+            "original_name": "Bill Walsh",
+            "popularity": 0.7983,
+            "profile_path": "/nfwyYYj1sVg5uneKLftutLhNqIN.jpg",
+            "credit_id": "661472e98ee0a9014ba3b4b3",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 68137,
+            "known_for_department": "Sound",
+            "name": "Irwin Kostal",
+            "original_name": "Irwin Kostal",
+            "popularity": 0.4093,
+            "profile_path": "/zK96QVlXFZ7TKeGmKXymSQU0813.jpg",
+            "credit_id": "6614723da6a4c10186bddf7f",
+            "department": "Sound",
+            "job": "Conductor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 109453,
+            "known_for_department": "Visual Effects",
+            "name": "Ward Kimball",
+            "original_name": "Ward Kimball",
+            "popularity": 0.542,
+            "profile_path": null,
+            "credit_id": "661471a4e10f4601a43a0e0c",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150737,
+            "known_for_department": "Art",
+            "name": "Art Riley",
+            "original_name": "Art Riley",
+            "popularity": 0.3229,
+            "profile_path": null,
+            "credit_id": "661471cbac617c017db1e227",
+            "department": "Art",
+            "job": "Background Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5839,
+            "known_for_department": "Sound",
+            "name": "Robert B. Sherman",
+            "original_name": "Robert B. Sherman",
+            "popularity": 0.5003,
+            "profile_path": "/hPcoQvIiP8DYfnA5NVyO8BgoSPb.jpg",
+            "credit_id": "664a1d3fe68b7c68cb790761",
+            "department": "Writing",
+            "job": "Lyricist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 68137,
+            "known_for_department": "Sound",
+            "name": "Irwin Kostal",
+            "original_name": "Irwin Kostal",
+            "popularity": 0.4093,
+            "profile_path": "/zK96QVlXFZ7TKeGmKXymSQU0813.jpg",
+            "credit_id": "5dc8147099259c67b279cc78",
+            "department": "Sound",
+            "job": "Music Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 148253,
+            "known_for_department": "Visual Effects",
+            "name": "Jack Boyd",
+            "original_name": "Jack Boyd",
+            "popularity": 0.5281,
+            "profile_path": null,
+            "credit_id": "5dbeb56c9d893900132deb2f",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150110,
+            "known_for_department": "Visual Effects",
+            "name": "Hal Ambro",
+            "original_name": "Hal Ambro",
+            "popularity": 0.4309,
+            "profile_path": null,
+            "credit_id": "5dbeb5629d893900132deb21",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 958487,
+            "known_for_department": "Art",
+            "name": "Peter Ellenshaw",
+            "original_name": "Peter Ellenshaw",
+            "popularity": 0.6788,
+            "profile_path": null,
+            "credit_id": "5dbeb4bfefe37c001882faac",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 109456,
+            "known_for_department": "Crew",
+            "name": "Eustace Lycett",
+            "original_name": "Eustace Lycett",
+            "popularity": 0.3356,
+            "profile_path": null,
+            "credit_id": "5dbeb4cd9d893900152dfad6",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1369447,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Pat McNalley",
+            "original_name": "Pat McNalley",
+            "popularity": 0.4184,
+            "profile_path": null,
+            "credit_id": "5dbeb3669638640016e3aee6",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 101773,
+            "known_for_department": "Writing",
+            "name": "Joseph L. McEveety",
+            "original_name": "Joseph L. McEveety",
+            "popularity": 0.6795,
+            "profile_path": null,
+            "credit_id": "5dbeb3b09d893900132de5c0",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1680954,
+            "known_for_department": "Directing",
+            "name": "Arthur J. Vitarelli",
+            "original_name": "Arthur J. Vitarelli",
+            "popularity": 0.3944,
+            "profile_path": null,
+            "credit_id": "5dbeb3c59638640014e35240",
+            "department": "Directing",
+            "job": "Second Unit Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 85770,
+            "known_for_department": "Sound",
+            "name": "Dean Thomas",
+            "original_name": "Dean Thomas",
+            "popularity": 0.435,
+            "profile_path": null,
+            "credit_id": "5dbeb4a09d893900132de896",
+            "department": "Sound",
+            "job": "Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8586,
+            "known_for_department": "Crew",
+            "name": "Robert A. Mattey",
+            "original_name": "Robert A. Mattey",
+            "popularity": 0.3019,
+            "profile_path": null,
+            "credit_id": "5dbeb4dbefe37c00138302a4",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2022547,
+            "known_for_department": "Costume & Make-Up",
+            "name": "La Rue Matheron",
+            "original_name": "La Rue Matheron",
+            "popularity": 0.4732,
+            "profile_path": null,
+            "credit_id": "5dbeb35b9638640014e35165",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 68137,
+            "known_for_department": "Sound",
+            "name": "Irwin Kostal",
+            "original_name": "Irwin Kostal",
+            "popularity": 0.4093,
+            "profile_path": "/zK96QVlXFZ7TKeGmKXymSQU0813.jpg",
+            "credit_id": "5dbeb5ceefe37c0013830420",
+            "department": "Sound",
+            "job": "Music Arranger"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1261,
+            "known_for_department": "Art",
+            "name": "Hal Gausman",
+            "original_name": "Hal Gausman",
+            "popularity": 0.4732,
+            "profile_path": null,
+            "credit_id": "5dbeb3397d2bc10013361221",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2433437,
+            "known_for_department": "Directing",
+            "name": "Paul Feiner",
+            "original_name": "Paul Feiner",
+            "popularity": 0.1744,
+            "profile_path": null,
+            "credit_id": "5dbeb39e9d893900132de583",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2117,
+            "known_for_department": "Sound",
+            "name": "Robert O. Cook",
+            "original_name": "Robert O. Cook",
+            "popularity": 0.6522,
+            "profile_path": null,
+            "credit_id": "5dbeb4929d893900152dfa5d",
+            "department": "Sound",
+            "job": "Sound Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1432109,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Gertrude Casey",
+            "original_name": "Gertrude Casey",
+            "popularity": 0.3091,
+            "profile_path": null,
+            "credit_id": "5dbeb580efe37c001882fc5b",
+            "department": "Costume & Make-Up",
+            "job": "Costumer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 70541,
+            "known_for_department": "Sound",
+            "name": "Evelyn Kennedy",
+            "original_name": "Evelyn Kennedy",
+            "popularity": 0.5026,
+            "profile_path": null,
+            "credit_id": "5dbeb5bc9d893900132debbe",
+            "department": "Sound",
+            "job": "Music Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 17670,
+            "known_for_department": "Art",
+            "name": "Emile Kuri",
+            "original_name": "Emile Kuri",
+            "popularity": 0.4247,
+            "profile_path": null,
+            "credit_id": "5dbeb3489638640014e35131",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1332198,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Chuck Keehne",
+            "original_name": "Chuck Keehne",
+            "popularity": 0.3867,
+            "profile_path": null,
+            "credit_id": "5dbeb58d9638640016e3b5d8",
+            "department": "Costume & Make-Up",
+            "job": "Costumer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 18755,
+            "known_for_department": "Art",
+            "name": "Tony Walton",
+            "original_name": "Tony Walton",
+            "popularity": 0.5235,
+            "profile_path": "/eEcDEWZ7pcf1vpJ8Q1v7p3coiFH.jpg",
+            "credit_id": "5e2454fdcf4b8b0017f69f84",
+            "department": "Costume & Make-Up",
+            "job": "Costume Consultant"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5835,
+            "known_for_department": "Writing",
+            "name": "P.L. Travers",
+            "original_name": "P.L. Travers",
+            "popularity": 0.4573,
+            "profile_path": "/9A4CADWSI86HOtXsRgdCWjv6ekR.jpg",
+            "credit_id": "6998e311a52d9159d3666bee",
+            "department": "Writing",
+            "job": "Book"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 150115,
+            "known_for_department": "Art",
+            "name": "McLaren Stewart",
+            "original_name": "McLaren Stewart",
+            "popularity": 0.3084,
+            "profile_path": null,
+            "credit_id": "6a15e27e5ea3b67a9d90ea7d",
+            "department": "Art",
+            "job": "Art Direction"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 3515,
+            "name": "banker"
+        },
+        {
+            "id": 212,
+            "name": "london, england"
+        },
+        {
+            "id": 380,
+            "name": "sibling relationship"
+        },
+        {
+            "id": 818,
+            "name": "based on novel or book"
+        },
+        {
+            "id": 970,
+            "name": "parent child relationship"
+        },
+        {
+            "id": 2343,
+            "name": "magic"
+        },
+        {
+            "id": 2341,
+            "name": "nanny"
+        },
+        {
+            "id": 4344,
+            "name": "musical"
+        },
+        {
+            "id": 18035,
+            "name": "family"
+        },
+        {
+            "id": 41277,
+            "name": "umbrella"
+        },
+        {
+            "id": 165468,
+            "name": "governess"
+        },
+        {
+            "id": 175910,
+            "name": "kite flying"
+        },
+        {
+            "id": 206834,
+            "name": "mischievous children"
+        },
+        {
+            "id": 209220,
+            "name": "live action and animation"
+        },
+        {
+            "id": 210184,
+            "name": "1910s"
+        },
+        {
+            "id": 211559,
+            "name": "chimney sweep"
+        },
+        {
+            "id": 214831,
+            "name": "suffragettes"
+        },
+        {
+            "id": 240422,
+            "name": "wonder"
+        },
+        {
+            "id": 259333,
+            "name": "penguins"
+        },
+        {
+            "id": 261205,
+            "name": "dancing men"
+        },
+        {
+            "id": 270064,
+            "name": "music and dance"
+        },
+        {
+            "id": 283250,
+            "name": "magic world"
+        },
+        {
+            "id": 288816,
+            "name": "lighthearted"
+        },
+        {
+            "id": 303310,
+            "name": "joyous"
+        },
+        {
+            "id": 312820,
+            "name": "bank president"
+        },
+        {
+            "id": 325045,
+            "name": "happiness"
+        },
+        {
+            "id": 325762,
+            "name": "adoring"
+        },
+        {
+            "id": 325775,
+            "name": "awestruck"
+        },
+        {
+            "id": 325782,
+            "name": "cheerful"
+        },
+        {
+            "id": 325832,
+            "name": "joyful"
+        },
+        {
+            "id": 325840,
+            "name": "optimistic"
+        },
+        {
+            "id": 325853,
+            "name": "sympathetic"
+        },
+        {
+            "id": 325856,
+            "name": "vibrant"
+        },
+        {
+            "id": 363093,
+            "name": "dance musical"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/oGzToOBTRdXVOrHj8r0VgK3d2sU.jpg",
+            "id": 400650,
+            "title": "Mary Poppins Returns",
+            "original_title": "Mary Poppins Returns",
+            "overview": "Mary Poppins returns to the Banks family and helps them evade grave dangers by taking them on magical, musical adventures.",
+            "poster_path": "/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                10751,
+                35
+            ],
+            "popularity": 8.0452,
+            "release_date": "2018-12-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.51,
+            "vote_count": 3496
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vwcfvPzYO3Gz975yRXp6DYSSbzo.jpg",
+            "id": 10693,
+            "title": "Peter Pan",
+            "original_title": "Peter Pan",
+            "overview": "Leaving the safety of their nursery behind, Wendy, Michael and John follow Peter Pan to a magical world where childhood lasts forever. But while in Neverland, the kids must face Captain Hook and foil his attempts to get rid of Peter for good.",
+            "poster_path": "/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                14
+            ],
+            "popularity": 14.1732,
+            "release_date": "1953-02-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.193,
+            "vote_count": 5807
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ijmKdhQQ86L18ZUywjHjM7h7YgO.jpg",
+            "id": 11283,
+            "title": "Nanny McPhee",
+            "original_title": "Nanny McPhee",
+            "overview": "Widower Cedric Brown hires Nanny McPhee to care for his seven rambunctious children, who have chased away all previous nannies. Taunted by Simon and his siblings, Nanny McPhee uses mystical powers to instill discipline. And when the children's great-aunt and benefactor, Lady Adelaide Stitch, threatens to separate the kids, the family pulls together under the guidance of Nanny McPhee.",
+            "poster_path": "/8tommndfI0W62teXwSmXdmVZ7gz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                35,
+                10751
+            ],
+            "popularity": 10.0402,
+            "release_date": "2005-10-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.69,
+            "vote_count": 3255
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sf3xfJppftP4VF0Ta2sqlT8oe2x.jpg",
+            "id": 24816,
+            "title": "The Gnome-Mobile",
+            "original_title": "The Gnome-Mobile",
+            "overview": "An eccentric millionaire and his grandchildren are embroiled in the plights of some forest gnomes who are searching for the rest of their tribe. While helping them, the millionaire is suspected of being crazy because he's seeing gnomes! He's committed, and the niece and nephew and the gnomes have to find him and free him.",
+            "poster_path": "/oeugD3jvHaNCaSc6r3NK1EcYvty.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                35,
+                10751
+            ],
+            "popularity": 2.7322,
+            "release_date": "1967-07-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.279,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y9OZCg6OUqtDMtedW9Pr6mSL09y.jpg",
+            "id": 42884,
+            "title": "Cinderella",
+            "original_title": "Cinderella",
+            "overview": "Cinderella chafes under the cruelty of her wicked stepmother and her evil stepsisters, until her Fairy Godmother steps in to change her life for one unforgettable night. At the ball, she falls for handsome Prince Christopher, whose parents, King Maximillian and Queen Constantina, are anxious for him to find a suitable paramour.",
+            "poster_path": "/54awQrtekrsI11bKg2NwQrBHLIe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10770,
+                10751,
+                14
+            ],
+            "popularity": 2.2689,
+            "release_date": "1997-11-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.605,
+            "vote_count": 214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jG52tsazn04F1fe8hPZfVv7ICKt.jpg",
+            "id": 668482,
+            "title": "Roald Dahl's Matilda the Musical",
+            "original_title": "Roald Dahl's Matilda the Musical",
+            "overview": "An extraordinary young girl discovers her superpower and summons the remarkable courage, against all odds, to help others change their stories, whilst also taking charge of her own destiny. Standing up for what's right, she's met with miraculous results.",
+            "poster_path": "/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                35,
+                14
+            ],
+            "popularity": 6.9705,
+            "release_date": "2022-11-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 825
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9pBv1BOSloAUgAkF0meJWdnbV4Q.jpg",
+            "id": 2454,
+            "title": "The Chronicles of Narnia: Prince Caspian",
+            "original_title": "The Chronicles of Narnia: Prince Caspian",
+            "overview": "One year after their incredible adventures in the Lion, the Witch and the Wardrobe, Peter, Edmund, Lucy and Susan Pevensie return to Narnia to aid a young prince whose life has been threatened by the evil King Miraz. Now, with the help of a colorful cast of new characters, including Trufflehunter the badger and Nikabrik the dwarf, the Pevensie clan embarks on an incredible quest to ensure that Narnia is returned to its rightful heir.",
+            "poster_path": "/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                10751,
+                14
+            ],
+            "popularity": 11.6981,
+            "release_date": "2008-05-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.635,
+            "vote_count": 6856
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sZhTfYouKM1iV3rVbgIVEQFQogA.jpg",
+            "id": 2758,
+            "title": "Addams Family Values",
+            "original_title": "Addams Family Values",
+            "overview": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
+            "poster_path": "/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751,
+                14
+            ],
+            "popularity": 10.2631,
+            "release_date": "1993-11-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.977,
+            "vote_count": 3359
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dECKGAenue36W50HYhd3Jh1OJs.jpg",
+            "id": 10137,
+            "title": "Stuart Little",
+            "original_title": "Stuart Little",
+            "overview": "When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his new brother, and the family cat, Snowbell, is even less enthusiastic. Stuart resolves to face these difficulties with as much pluck and courage as he can muster.",
+            "poster_path": "/362lcwTJlNyAhitTlp2UraECISR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                14,
+                35,
+                12
+            ],
+            "popularity": 9.8057,
+            "release_date": "1999-12-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.079,
+            "vote_count": 4713
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iqL1ztNeXAXulsZzpJWmyiZdZWc.jpg",
+            "id": 592983,
+            "title": "Spellbound",
+            "original_title": "Spellbound",
+            "overview": "When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it's too late.",
+            "poster_path": "/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                14,
+                10751,
+                12,
+                35
+            ],
+            "popularity": 6.6093,
+            "release_date": "2024-11-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.595,
+            "vote_count": 325
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qGZXYHvWR1TYOU9raCaEABrj9m7.jpg",
+            "id": 10144,
+            "title": "The Little Mermaid",
+            "original_title": "The Little Mermaid",
+            "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+            "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "popularity": 19.8052,
+            "release_date": "1989-11-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.352,
+            "vote_count": 8492
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ba8MIR0o5xp2Vs442Pq1RLA4AYP.jpg",
+            "id": 25898,
+            "title": "Babes in Toyland",
+            "original_title": "Babes in Toyland",
+            "overview": "Ollie Dee and Stannie Dum try to borrow money from their employer, the toymaker, to pay off the mortgage on Mother Peep's shoe and keep it and Little Bo Peep from the clutches of the evil Barnaby. When that fails, they trick Barnaby, enraging him.",
+            "poster_path": "/iN8B54ymwiLJmnbz5iluqbsit1e.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                35,
+                10751
+            ],
+            "popularity": 3.1404,
+            "release_date": "1934-12-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.297,
+            "vote_count": 160
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cQW6UoDxwwfqIMTVfxdxHk4JLGP.jpg",
+            "id": 35019,
+            "title": "Nanny McPhee and the Big Bang",
+            "original_title": "Nanny McPhee and the Big Bang",
+            "overview": "Nanny McPhee appears at the door of a harried young mother who is trying to run the family farm while her husband is away at war. But once she’s arrived, Nanny discovers that the children are fighting a war of their own against two spoiled city cousins who have just moved in. Relying on everything from a flying motorcycle and a statue that comes to life to a tree-climbing piglet and a baby elephant, Nanny uses her magic to teach her mischievous charges five new lessons.",
+            "poster_path": "/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                14,
+                10751
+            ],
+            "popularity": 8.8423,
+            "release_date": "2010-03-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.326,
+            "vote_count": 1972
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9p3bwHTpX5Axpyp4gxqmDxWaau0.jpg",
+            "id": 410113,
+            "title": "The Loud House Movie",
+            "original_title": "The Loud House Movie",
+            "overview": "The Loud family travel to Scotland and discover they are descendants of Scottish royalty as they move into their giant ancestral castle.",
+            "poster_path": "/7dM5DILTl9ddpjvnJhs2nA1U9Ru.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                14
+            ],
+            "popularity": 3.6198,
+            "release_date": "2021-08-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.254,
+            "vote_count": 211
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1dbO38aZrL9HXPqdmjtERjK5NGS.jpg",
+            "id": 41465,
+            "title": "Life with Father",
+            "original_title": "Life with Father",
+            "overview": "A straitlaced turn-of-the-century father presides over a family of boys and the mother who really rules the roost.",
+            "poster_path": "/6b7xRttshmonGW6xzSCDMrHMTjA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "popularity": 1.8888,
+            "release_date": "1947-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wN47m8DMp8byXfMBQl4rdfu4xvx.jpg",
+            "id": 1327872,
+            "title": "Frozen: The Hit Broadway Musical",
+            "original_title": "Frozen: The Hit Broadway Musical",
+            "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+            "poster_path": "/qrRlxuVP6vOHYXPnL4u4FA1q9lq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                10751,
+                12
+            ],
+            "popularity": 3.5923,
+            "release_date": "2025-06-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zylJOaiIp0M4xeE6ox3giDjBTFx.jpg",
+            "id": 12335,
+            "title": "Bedknobs and Broomsticks",
+            "original_title": "Bedknobs and Broomsticks",
+            "overview": "Three children evacuated from London during World War II are forced to stay with an eccentric spinster. The children's initial fears disappear when they find out she is in fact a trainee witch.",
+            "poster_path": "/1BBzsThIZ06UmjZ3rChYGZhJtFQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                14
+            ],
+            "popularity": 4.2845,
+            "release_date": "1971-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.044,
+            "vote_count": 1039
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hKXmvyBGkyIYfKPAgJdH40q1ozh.jpg",
+            "id": 22586,
+            "title": "The Swan Princess",
+            "original_title": "The Swan Princess",
+            "overview": "The beautiful princess Odette is transformed into a swan by an evil sorcerer's spell. Held captive at an enchanted lake, she befriends Jean-Bob the frog, Speed the turtle and Puffin the bird. Despite their struggle to keep the princess safe, these good-natured creatures can do nothing about the sorcerer's spell, which can only be broken by a vow of everlasting love.",
+            "poster_path": "/f5YvIPrkJ9HCsNbgzWJJyxXVNhj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                14,
+                12,
+                35
+            ],
+            "popularity": 4.9256,
+            "release_date": "1994-11-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.629,
+            "vote_count": 1041
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mchDEPh1fkID8nq8IONAGQeiPJg.jpg",
+            "id": 338958,
+            "title": "Disenchanted",
+            "original_title": "Disenchanted",
+            "overview": "Disillusioned with life in the city, feeling out of place in suburbia, and frustrated that her happily ever after hasn’t been so easy to find, Giselle turns to the magic of Andalasia for help. Accidentally transforming the entire town into a real-life fairy tale and placing her family’s future happiness in jeopardy, she must race against time to reverse the spell and determine what happily ever after truly means to her and her family.",
+            "poster_path": "/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751,
+                14
+            ],
+            "popularity": 7.4058,
+            "release_date": "2022-11-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.66,
+            "vote_count": 1197
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3r9aPVVNuCXNOFFXsL03abZs9xF.jpg",
+            "id": 739547,
+            "title": "Thelma the Unicorn",
+            "original_title": "Thelma the Unicorn",
+            "overview": "Thelma dreams of being a glamorous unicorn. Then in a rare pink and glitter-filled moment of fate, Thelma's wish comes true. She rises to instant international stardom, but at an unexpected cost. After a while, Thelma realizes that she was happier as her ordinary, sparkle-free self. So she ditches her horn, scrubs off her sparkles, and returns home, where her best friend is waiting for her with a hug.",
+            "poster_path": "/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                14,
+                10751
+            ],
+            "popularity": 4.7113,
+            "release_date": "2024-05-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.881,
+            "vote_count": 198
+        }
+    ]
+}

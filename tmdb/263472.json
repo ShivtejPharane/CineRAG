@@ -1,0 +1,1419 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/9DclZBBDxMrbcqNS81Pjz8opZTW.jpg",
+        "belongs_to_collection": null,
+        "budget": 2500000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "http://knockknockmovie.tumblr.com/",
+        "id": 263472,
+        "imdb_id": "tt3605418",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Knock Knock",
+        "overview": "When a devoted husband and father is left home alone for the weekend, two stranded young women unexpectedly knock on his door for help. What starts out as a kind gesture results in a dangerous seduction and a deadly game of cat and mouse.",
+        "popularity": 11.7505,
+        "poster_path": "/cUC4rUb1Cs2KMaZ6RD4uYUEEwls.jpg",
+        "production_companies": [
+            {
+                "id": 55497,
+                "logo_path": null,
+                "name": "Sobras International Pictures",
+                "origin_country": "CL"
+            },
+            {
+                "id": 12372,
+                "logo_path": "/lcQScIQXHQXuLMLFQt0loJl5gWJ.png",
+                "name": "UFA",
+                "origin_country": "DE"
+            },
+            {
+                "id": 22146,
+                "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+                "name": "Black Bear Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 83744,
+                "logo_path": null,
+                "name": "Camp Grey",
+                "origin_country": "US"
+            },
+            {
+                "id": 63369,
+                "logo_path": "/sCgcuxsM4wvkfwL56tkHX4j9bds.png",
+                "name": "Elevated Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 138201,
+                "logo_path": "/u9k264LCl7rGU1MaP5ZKsPdBQ6H.png",
+                "name": "Movie Trailer House",
+                "origin_country": "US"
+            },
+            {
+                "id": 18142,
+                "logo_path": null,
+                "name": "Dragonfly Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 6626,
+                "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+                "name": "Voltage Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CL",
+                "name": "Chile"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2015-06-26",
+        "revenue": 6341684,
+        "runtime": 99,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "One night can cost you everything.",
+        "title": "Knock Knock",
+        "video": false,
+        "vote_average": 5.386,
+        "vote_count": 3537
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6384,
+            "known_for_department": "Acting",
+            "name": "Keanu Reeves",
+            "original_name": "Keanu Reeves",
+            "popularity": 8.4315,
+            "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg",
+            "cast_id": 4,
+            "character": "Evan Webber",
+            "credit_id": "5342cb37c3a368150f003a88",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1078608,
+            "known_for_department": "Acting",
+            "name": "Lorenza Izzo",
+            "original_name": "Lorenza Izzo",
+            "popularity": 1.9742,
+            "profile_path": "/tz0uevfqM0da5k5xDoHq5EkI1hw.jpg",
+            "cast_id": 5,
+            "character": "Genesis",
+            "credit_id": "5342cb52c3a3683d0300148f",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 224513,
+            "known_for_department": "Acting",
+            "name": "Ana de Armas",
+            "original_name": "Ana de Armas",
+            "popularity": 7.9351,
+            "profile_path": "/eDuBeSHV0R7vuCnHHXrfa7d7IfB.jpg",
+            "cast_id": 6,
+            "character": "Bel",
+            "credit_id": "5342cb64c3a36814f9003b54",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 557303,
+            "known_for_department": "Acting",
+            "name": "Aaron Burns",
+            "original_name": "Aaron Burns",
+            "popularity": 0.7191,
+            "profile_path": "/zQKqDXhtguHDwO5YSpUYEg7w98y.jpg",
+            "cast_id": 9,
+            "character": "Louis",
+            "credit_id": "5342cb87c3a36814f9003b59",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 13023,
+            "known_for_department": "Acting",
+            "name": "Colleen Camp",
+            "original_name": "Colleen Camp",
+            "popularity": 3.3609,
+            "profile_path": "/hNAIkUVtsQfpC95BDkXr1lmoI2F.jpg",
+            "cast_id": 8,
+            "character": "Vivian",
+            "credit_id": "5342cb7dc3a368150f003a99",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1049536,
+            "known_for_department": "Acting",
+            "name": "Ignacia Allamand",
+            "original_name": "Ignacia Allamand",
+            "popularity": 1.0486,
+            "profile_path": "/tTPc7lXyUNuudtTStMptSLYb4ZO.jpg",
+            "cast_id": 7,
+            "character": "Karen Alvarado",
+            "credit_id": "5342cb74c3a368150f003a95",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1049548,
+            "known_for_department": "Camera",
+            "name": "Antonio Quercia",
+            "original_name": "Antonio Quercia",
+            "popularity": 0.5548,
+            "profile_path": null,
+            "cast_id": 33,
+            "character": "Uber Driver",
+            "credit_id": "5620961dc3a368240d000597",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1626948,
+            "known_for_department": "Acting",
+            "name": "Dan Baily",
+            "original_name": "Dan Baily",
+            "popularity": 0.4009,
+            "profile_path": null,
+            "cast_id": 34,
+            "character": "Jake",
+            "credit_id": "57482e649251416356001849",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1626950,
+            "known_for_department": "Acting",
+            "name": "Megan Baily",
+            "original_name": "Megan Baily",
+            "popularity": 0.4487,
+            "profile_path": null,
+            "cast_id": 35,
+            "character": "Lisa",
+            "credit_id": "57482ee3c3a3683d1000092d",
+            "order": 8
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 16847,
+            "known_for_department": "Directing",
+            "name": "Eli Roth",
+            "original_name": "Eli Roth",
+            "popularity": 3.5752,
+            "profile_path": "/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg",
+            "credit_id": "5342cacec3a368150f003a7f",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 16847,
+            "known_for_department": "Directing",
+            "name": "Eli Roth",
+            "original_name": "Eli Roth",
+            "popularity": 3.5752,
+            "profile_path": "/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg",
+            "credit_id": "5342cadbc3a368151e0038a1",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 86500,
+            "known_for_department": "Writing",
+            "name": "Nicolás López",
+            "original_name": "Nicolás López",
+            "popularity": 0.5041,
+            "profile_path": "/hxEWldT7k43Q64qadk1kv5sQbkG.jpg",
+            "credit_id": "5342caedc3a36814f9003b47",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 236211,
+            "known_for_department": "Writing",
+            "name": "Guillermo Amoedo",
+            "original_name": "Guillermo Amoedo",
+            "popularity": 0.6798,
+            "profile_path": "/zKiMXm5GsQVT4mYX0vQtd2HaLHX.jpg",
+            "credit_id": "5342caf8c3a3683d0300147a",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1776145,
+            "known_for_department": "Acting",
+            "name": "Constanza B. Majluf",
+            "original_name": "Constanza B. Majluf",
+            "popularity": 0.486,
+            "profile_path": null,
+            "credit_id": "6556394753866e011c07e43f",
+            "department": "Directing",
+            "job": "Second Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1717163,
+            "known_for_department": "Production",
+            "name": "Justine Hempe",
+            "original_name": "Justine Hempe",
+            "popularity": 0.4058,
+            "profile_path": null,
+            "credit_id": "6556395bd051d9013a172249",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1056187,
+            "known_for_department": "Sound",
+            "name": "Mauricio Castañeda",
+            "original_name": "Mauricio Castañeda",
+            "popularity": 0.4685,
+            "profile_path": null,
+            "credit_id": "65563983d051d900e329b2a2",
+            "department": "Sound",
+            "job": "Foley Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1056187,
+            "known_for_department": "Sound",
+            "name": "Mauricio Castañeda",
+            "original_name": "Mauricio Castañeda",
+            "popularity": 0.4685,
+            "profile_path": null,
+            "credit_id": "6556398a53866e011c07e462",
+            "department": "Sound",
+            "job": "Foley Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1407621,
+            "known_for_department": "Sound",
+            "name": "Soledad Vargas",
+            "original_name": "Soledad Vargas",
+            "popularity": 0.6952,
+            "profile_path": null,
+            "credit_id": "65563995ea84c710910c4916",
+            "department": "Sound",
+            "job": "Foley Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4215106,
+            "known_for_department": "Visual Effects",
+            "name": "Camila Acevedo Carmona",
+            "original_name": "Camila Acevedo Carmona",
+            "popularity": 0.1573,
+            "profile_path": null,
+            "credit_id": "655639a553866e0139e272e5",
+            "department": "Visual Effects",
+            "job": "VFX Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1407623,
+            "known_for_department": "Visual Effects",
+            "name": "Felix Vergara",
+            "original_name": "Felix Vergara",
+            "popularity": 0.2125,
+            "profile_path": null,
+            "credit_id": "655639af0816c70137e95bc1",
+            "department": "Visual Effects",
+            "job": "VFX Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3142964,
+            "known_for_department": "Crew",
+            "name": "Salvador Allende",
+            "original_name": "Salvador Allende",
+            "popularity": 0.1725,
+            "profile_path": null,
+            "credit_id": "655639d367b61345cb4e4a9d",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 2642505,
+            "known_for_department": "Acting",
+            "name": "María Jesús Marcone",
+            "original_name": "María Jesús Marcone",
+            "popularity": 0.0,
+            "profile_path": "/hpuQYwXPhMtavX6noRZpIGxlmxh.jpg",
+            "credit_id": "65563a10ea84c71096dda57d",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1571128,
+            "known_for_department": "Crew",
+            "name": "Wernher Schurmann",
+            "original_name": "Wernher Schurmann",
+            "popularity": 0.3679,
+            "profile_path": null,
+            "credit_id": "65563a20ea84c710959dfada",
+            "department": "Crew",
+            "job": "Stunt Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1571128,
+            "known_for_department": "Crew",
+            "name": "Wernher Schurmann",
+            "original_name": "Wernher Schurmann",
+            "popularity": 0.3679,
+            "profile_path": null,
+            "credit_id": "65563a26ea84c71092281d5e",
+            "department": "Crew",
+            "job": "Fight Choreographer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1049548,
+            "known_for_department": "Camera",
+            "name": "Antonio Quercia",
+            "original_name": "Antonio Quercia",
+            "popularity": 0.5548,
+            "profile_path": null,
+            "credit_id": "55c95d29c3a36875230009e4",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 7494,
+            "known_for_department": "Production",
+            "name": "Sheila Jaffe",
+            "original_name": "Sheila Jaffe",
+            "popularity": 0.8348,
+            "profile_path": null,
+            "credit_id": "55f82bb2c3a3680a0d00ddb5",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1510551,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Felipe Figueroa",
+            "original_name": "Felipe Figueroa",
+            "popularity": 0.3232,
+            "profile_path": null,
+            "credit_id": "55f82cd1c3a3686d2700c817",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1510551,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Felipe Figueroa",
+            "original_name": "Felipe Figueroa",
+            "popularity": 0.3232,
+            "profile_path": null,
+            "credit_id": "55f82cde92514103b6007d76",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1510552,
+            "known_for_department": "Visual Effects",
+            "name": "Rodrigo Rojas Echaiz",
+            "original_name": "Rodrigo Rojas Echaiz",
+            "popularity": 0.2785,
+            "profile_path": null,
+            "credit_id": "55f82d1692514175f80072fc",
+            "department": "Visual Effects",
+            "job": "Visual Effects Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1207549,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Elisa Hormazábal",
+            "original_name": "Elisa Hormazábal",
+            "popularity": 0.6473,
+            "profile_path": null,
+            "credit_id": "55f82d359251415852004187",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1510554,
+            "known_for_department": "Art",
+            "name": "Marichi Palacios",
+            "original_name": "Marichi Palacios",
+            "popularity": 0.428,
+            "profile_path": null,
+            "credit_id": "55f82ddfc3a3686d0b00dfa6",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 65622,
+            "known_for_department": "Writing",
+            "name": "Larry Spiegel",
+            "original_name": "Larry Spiegel",
+            "popularity": 0.3801,
+            "profile_path": null,
+            "credit_id": "55f82e0e9251416f87001f46",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1080589,
+            "known_for_department": "Production",
+            "name": "Teddy Schwarzman",
+            "original_name": "Teddy Schwarzman",
+            "popularity": 0.6347,
+            "profile_path": "/7apJa3ZEMKRftobSxqa01dxfz7v.jpg",
+            "credit_id": "55f82ea59251416f87001f56",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 66223,
+            "known_for_department": "Acting",
+            "name": "Sondra Locke",
+            "original_name": "Sondra Locke",
+            "popularity": 1.9476,
+            "profile_path": "/2Ez6zzfONzIGb4KhWnnqFbdUq14.jpg",
+            "credit_id": "55f82eb39251416f87001f58",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 13023,
+            "known_for_department": "Acting",
+            "name": "Colleen Camp",
+            "original_name": "Colleen Camp",
+            "popularity": 3.3609,
+            "profile_path": "/hNAIkUVtsQfpC95BDkXr1lmoI2F.jpg",
+            "credit_id": "55f82ec4c3a3686d2700c848",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1510555,
+            "known_for_department": "Production",
+            "name": "Tim Degraye",
+            "original_name": "Tim Degraye",
+            "popularity": 0.2514,
+            "profile_path": null,
+            "credit_id": "55f82edfc3a3686d0b00dfc1",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 64058,
+            "known_for_department": "Production",
+            "name": "Cassian Elwes",
+            "original_name": "Cassian Elwes",
+            "popularity": 0.5806,
+            "profile_path": null,
+            "credit_id": "55f82ef192514158520041ac",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 16847,
+            "known_for_department": "Directing",
+            "name": "Eli Roth",
+            "original_name": "Eli Roth",
+            "popularity": 3.5752,
+            "profile_path": "/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg",
+            "credit_id": "55f82f06c3a3685c9c001f40",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 86500,
+            "known_for_department": "Writing",
+            "name": "Nicolás López",
+            "original_name": "Nicolás López",
+            "popularity": 0.5041,
+            "profile_path": "/hxEWldT7k43Q64qadk1kv5sQbkG.jpg",
+            "credit_id": "55f82f17925141504d001bdb",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1279579,
+            "known_for_department": "Writing",
+            "name": "Anthony Overman",
+            "original_name": "Anthony Overman",
+            "popularity": 0.3976,
+            "profile_path": null,
+            "credit_id": "55f82f77c3a3686d0700dd2b",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1279580,
+            "known_for_department": "Writing",
+            "name": "Michael Ronald Ross",
+            "original_name": "Michael Ronald Ross",
+            "popularity": 0.3943,
+            "profile_path": null,
+            "credit_id": "55f82f859251410f3e002ba3",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1049547,
+            "known_for_department": "Sound",
+            "name": "Manuel Riveiro",
+            "original_name": "Manuel Riveiro",
+            "popularity": 0.4192,
+            "profile_path": null,
+            "credit_id": "561c68b79251415a72002a17",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1056188,
+            "known_for_department": "Sound",
+            "name": "Martin Seltzer",
+            "original_name": "Martin Seltzer",
+            "popularity": 0.365,
+            "profile_path": null,
+            "credit_id": "62071fcbc92c5d0068e2ef01",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1571129,
+            "known_for_department": "Sound",
+            "name": "Mauricio Molina",
+            "original_name": "Mauricio Molina",
+            "popularity": 0.4795,
+            "profile_path": null,
+            "credit_id": "62071fdc9408ec00cc6b87ae",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1571129,
+            "known_for_department": "Sound",
+            "name": "Mauricio Molina",
+            "original_name": "Mauricio Molina",
+            "popularity": 0.4795,
+            "profile_path": null,
+            "credit_id": "62071fe4d7fbda0044e0b857",
+            "department": "Sound",
+            "job": "Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1407620,
+            "known_for_department": "Sound",
+            "name": "Mauricio López",
+            "original_name": "Mauricio López",
+            "popularity": 0.3991,
+            "profile_path": "/xH0WICbPIGCheKrWkuy3hicEk6l.jpg",
+            "credit_id": "62071ff0d7fbda00bcc47ebd",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1407620,
+            "known_for_department": "Sound",
+            "name": "Mauricio López",
+            "original_name": "Mauricio López",
+            "popularity": 0.3991,
+            "profile_path": "/xH0WICbPIGCheKrWkuy3hicEk6l.jpg",
+            "credit_id": "62071ffa1cac8c0067754d99",
+            "department": "Sound",
+            "job": "Sound Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1049546,
+            "known_for_department": "Production",
+            "name": "Miguel Asensio Llamas",
+            "original_name": "Miguel Asensio Llamas",
+            "popularity": 0.211,
+            "profile_path": null,
+            "credit_id": "583975f29251417092003127",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1049546,
+            "known_for_department": "Production",
+            "name": "Miguel Asensio Llamas",
+            "original_name": "Miguel Asensio Llamas",
+            "popularity": 0.211,
+            "profile_path": null,
+            "credit_id": "58397600925141709200312f",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6384,
+            "known_for_department": "Acting",
+            "name": "Keanu Reeves",
+            "original_name": "Keanu Reeves",
+            "popularity": 8.4315,
+            "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg",
+            "credit_id": "5839797f925141701d003406",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1714329,
+            "known_for_department": "Production",
+            "name": "Peter Traynor",
+            "original_name": "Peter Traynor",
+            "popularity": 0.2523,
+            "profile_path": null,
+            "credit_id": "583979bac3a368473f0031a3",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1049549,
+            "known_for_department": "Editing",
+            "name": "Diego Macho Gómez",
+            "original_name": "Diego Macho Gómez",
+            "popularity": 0.4463,
+            "profile_path": null,
+            "credit_id": "583979e5c3a36843ef003e1e",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1571126,
+            "known_for_department": "Production",
+            "name": "Fernando Alé",
+            "original_name": "Fernando Alé",
+            "popularity": 0.3246,
+            "profile_path": null,
+            "credit_id": "58397a04c3a3681cdc007e15",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1320985,
+            "known_for_department": "Crew",
+            "name": "Andre Coutu",
+            "original_name": "Andre Coutu",
+            "popularity": 0.4522,
+            "profile_path": null,
+            "credit_id": "58397a30c3a36847c7002eba",
+            "department": "Crew",
+            "job": "Post Production Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1714331,
+            "known_for_department": "Directing",
+            "name": "Pablo Atienza",
+            "original_name": "Pablo Atienza",
+            "popularity": 0.2201,
+            "profile_path": null,
+            "credit_id": "58397a5792514170920033ae",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1714332,
+            "known_for_department": "Sound",
+            "name": "Soledad Andrade",
+            "original_name": "Soledad Andrade",
+            "popularity": 0.295,
+            "profile_path": null,
+            "credit_id": "58397a67c3a36848b2003788",
+            "department": "Sound",
+            "job": "Boom Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1477027,
+            "known_for_department": "Camera",
+            "name": "Chechu Graf",
+            "original_name": "Chechu Graf",
+            "popularity": 0.2463,
+            "profile_path": null,
+            "credit_id": "58397ab3c3a36848b500344b",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1714333,
+            "known_for_department": "Camera",
+            "name": "Mirko Zlatar",
+            "original_name": "Mirko Zlatar",
+            "popularity": 0.2487,
+            "profile_path": null,
+            "credit_id": "58397ad6c3a3681cdc007e84",
+            "department": "Camera",
+            "job": "Steadicam Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1714334,
+            "known_for_department": "Sound",
+            "name": "Sokio",
+            "original_name": "Sokio",
+            "popularity": 0.2966,
+            "profile_path": null,
+            "credit_id": "58397aedc3a3681cdc007e95",
+            "department": "Sound",
+            "job": "Music Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1571127,
+            "known_for_department": "Directing",
+            "name": "Gabriela Sobarzo",
+            "original_name": "Gabriela Sobarzo",
+            "popularity": 0.4136,
+            "profile_path": null,
+            "credit_id": "5ab3f8dc0e0a265f3300cfec",
+            "department": "Directing",
+            "job": "Script Supervisor"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 596,
+            "name": "adultery"
+        },
+        {
+            "id": 1326,
+            "name": "infidelity"
+        },
+        {
+            "id": 4426,
+            "name": "sadism"
+        },
+        {
+            "id": 5320,
+            "name": "cake"
+        },
+        {
+            "id": 635,
+            "name": "disc jockey"
+        },
+        {
+            "id": 1664,
+            "name": "eroticism"
+        },
+        {
+            "id": 2217,
+            "name": "rain"
+        },
+        {
+            "id": 2301,
+            "name": "architect"
+        },
+        {
+            "id": 3182,
+            "name": "seduction"
+        },
+        {
+            "id": 13006,
+            "name": "torture"
+        },
+        {
+            "id": 14893,
+            "name": "art"
+        },
+        {
+            "id": 14903,
+            "name": "home invasion"
+        },
+        {
+            "id": 34094,
+            "name": "extramarital affair"
+        },
+        {
+            "id": 155262,
+            "name": "threesome"
+        },
+        {
+            "id": 156688,
+            "name": "seductress"
+        },
+        {
+            "id": 207767,
+            "name": "erotic thriller"
+        },
+        {
+            "id": 219833,
+            "name": "married man"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/191Cv9JHPkceprzAPlCNUVCaU5Y.jpg",
+            "id": 86743,
+            "title": "Death Game",
+            "original_title": "Death Game",
+            "overview": "George Manning is a well-to-do businessman, husband, and father. While his family is away on his birthday, he invites a pair of rain-soaked young women into his house to wait out an evening thunderstorm. The two girls seduce Manning and ultimately kidnap and torture him in his own home.",
+            "poster_path": "/a4emMnKA9b9RjDgOeMKvVRBmXAT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 1.9511,
+            "release_date": "1977-05-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vTsEz34qxqBDOxVNdqC1bXNlL3X.jpg",
+            "id": 11033,
+            "title": "Dressed to Kill",
+            "original_title": "Dressed to Kill",
+            "overview": "After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.",
+            "poster_path": "/oy1m5dd44foNrxV8U9l6Walx82V.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                9648,
+                27
+            ],
+            "popularity": 5.1431,
+            "release_date": "1980-07-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.956,
+            "vote_count": 1134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l2iiSqwUYzM5l9sA0fAPZxdTyhr.jpg",
+            "id": 574883,
+            "title": "An Affair to Die For",
+            "original_title": "An Affair to Die For",
+            "overview": "A weekend get-away for two lovers turns into a nightmare of psychological mind games when their infidelity is discovered.",
+            "poster_path": "/Vo4vUGaE081biscSRiacl9agmE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.9981,
+            "release_date": "2019-02-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.811,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rHnANzYUmV3WZw3n0yWOLiR3pen.jpg",
+            "id": 976912,
+            "title": "Graphic Desires",
+            "original_title": "Graphic Desires",
+            "overview": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
+            "poster_path": "/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "popularity": 45.2137,
+            "release_date": "2023-08-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+            "id": 1330421,
+            "title": "Bone Lake",
+            "original_title": "Bone Lake",
+            "overview": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+            "poster_path": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 10.9358,
+            "release_date": "2025-10-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.891,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rc0n0PItBZK4ptPNEuSRv83Noee.jpg",
+            "id": 9280,
+            "title": "Femme Fatale",
+            "original_title": "Femme Fatale",
+            "overview": "A $10-million diamond rip-off, a stolen identity, a new life married to a diplomat. Laure Ash has risked big, won big. But then a tabloid shutterbug snaps her picture in Paris, and suddenly, enemies from Laure's secret past know who and where she is. And they all want their share of the diamond heist. Or her life. Or both.",
+            "poster_path": "/i2OgxmZVbIsJxaLiYMjCSewsLty.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                80,
+                53
+            ],
+            "popularity": 6.218,
+            "release_date": "2002-04-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.164,
+            "vote_count": 671
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/boprqXZexBatujVC07gZzzxjWk.jpg",
+            "id": 1109406,
+            "title": "Compulsion",
+            "original_title": "Compulsion",
+            "overview": "Two women—Diana, a flamboyant and ruthless thief, and Evie, a seemingly innocent young woman with a troubled past—become embroiled in a series of horrific murders on the island of Malta.",
+            "poster_path": "/s3MzSdsMcmxmpVJMuH5ezNPjzs7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 3.3393,
+            "release_date": "2024-11-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.046,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rVdKBzVyHTG1gv8bAAJnr5Eu6gl.jpg",
+            "id": 993,
+            "title": "Sleuth",
+            "original_title": "Sleuth",
+            "overview": "A man who loves games and theatre invites his wife's lover to meet, setting up a battle of wits with potentially deadly results.",
+            "poster_path": "/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                9648,
+                80
+            ],
+            "popularity": 2.9638,
+            "release_date": "1972-12-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 731
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aEitmeLoFACS2hUEJSo1cDyWosn.jpg",
+            "id": 497814,
+            "title": "Breaking In",
+            "original_title": "Breaking In",
+            "overview": "Shaun Russell takes her son and daughter on a weekend getaway to her late father's secluded, high-tech vacation home in the countryside. The family soon gets an unwelcome surprise when four men break into the house to find hidden money. After managing to escape, Shaun must now figure out a way to turn the tables on the desperate thieves and save her captive children.",
+            "poster_path": "/nuCxJwcQOEKYoiHTgcf4em8TxWv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 9.1284,
+            "release_date": "2018-05-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.934,
+            "vote_count": 711
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+            "id": 808396,
+            "title": "God Is a Bullet",
+            "original_title": "God Is a Bullet",
+            "overview": "Vice detective Bob Hightower finds his ex-wife murdered and daughter kidnapped by a cult. Frustrated by the botched official investigations, he quits the force and infiltrates the cult to hunt down the leader with the help of the cult’s only female victim escapee, Case Hardin.",
+            "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80,
+                27
+            ],
+            "popularity": 4.6942,
+            "release_date": "2023-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s1CBwblInR0ZBIv59CSko2QdLD3.jpg",
+            "id": 793,
+            "title": "Blue Velvet",
+            "original_title": "Blue Velvet",
+            "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+            "poster_path": "/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                53,
+                80
+            ],
+            "popularity": 11.7215,
+            "release_date": "1986-09-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.603,
+            "vote_count": 3884
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qf6Y1lDrlkJhJ04NCw0SEJ6NCNN.jpg",
+            "id": 22048,
+            "title": "Foxy Brown",
+            "original_title": "Foxy Brown",
+            "overview": "A voluptuous black woman takes a job as a high-class prostitute in order to get revenge on the mobsters who murdered her boyfriend.",
+            "poster_path": "/lAeEDcBgEqnxl9l7n7i4936ERi8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 4.2008,
+            "release_date": "1974-04-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.273,
+            "vote_count": 267
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dgoFyczFZjnmUh3lmUHhkpauXa1.jpg",
+            "id": 26850,
+            "title": "Under Suspicion",
+            "original_title": "Under Suspicion",
+            "overview": "In the late 1950s, British police officer Tony Aaron resigns from the force after sleeping with Hazel, wife of the man whose house he was supposed to guard. In his new job as a fake private investigator, he helps couples get divorces by photographing Hazel having \"affairs\" with the husband. When she is murdered during a job, Tony begins having an affair with the dead man's mistress, Angeline, while trying to prove his innocence.",
+            "poster_path": "/wnAcBVWvcQzHQEqS8SXXX3YyHbA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "popularity": 5.7598,
+            "release_date": "1991-09-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.915,
+            "vote_count": 124
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2cQMVHBaP1wK0UBX5SGDahB3lp3.jpg",
+            "id": 807356,
+            "title": "Watcher",
+            "original_title": "Watcher",
+            "overview": "As a serial killer stalks the city, Julia — a young actress who just moved to town with her husband — notices a mysterious stranger watching her from across the street.",
+            "poster_path": "/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 10.354,
+            "release_date": "2022-06-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.491,
+            "vote_count": 1189
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rmYAHOJoA55EKP2t4WQAntPTjMY.jpg",
+            "id": 207768,
+            "title": "I Spit on Your Grave 2",
+            "original_title": "I Spit on Your Grave 2",
+            "overview": "Broke, and in desperate need to update her portfolio, New York City model Katie calls a number from a tear-off flyer offering free photos. But this innocent attempt quickly turns into an unthinkable kidnapping nightmare where she's ripped away from everyone and everything she knows.",
+            "poster_path": "/wit1VRI9sAbCstuwm3KPgxfYYqo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27,
+                80
+            ],
+            "popularity": 6.8701,
+            "release_date": "2013-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.286,
+            "vote_count": 1453
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o1jzMqBiziQILkPVEONuYS4QluX.jpg",
+            "id": 37865,
+            "title": "Buried Alive",
+            "original_title": "Buried Alive",
+            "overview": "A married woman and her lover plot to kill her husband to make off with the insurance money. However, their attempt to murder him using poisonous fish toxins backfires in surprising ways.",
+            "poster_path": "/75X5BCuZIsfZYxWZfhi02v4MudO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                27,
+                10770
+            ],
+            "popularity": 3.0955,
+            "release_date": "1990-05-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.724,
+            "vote_count": 185
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sNhYDvDbEwf9AUGip2fGRwP7x8r.jpg",
+            "id": 7183,
+            "title": "Perfect Stranger",
+            "original_title": "Perfect Stranger",
+            "overview": "A journalist goes undercover to ferret out businessman Harrison Hill as her best friend's killer. Posing as one of his temps, she enters into a game of online cat-and-mouse.",
+            "poster_path": "/i7D5QqQ0q5EXU1UuZVY9KwIxoYR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                9648
+            ],
+            "popularity": 5.1516,
+            "release_date": "2007-04-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.825,
+            "vote_count": 1050
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/heayRHS4N4ySt7ooN1Hts0PiB35.jpg",
+            "id": 18588,
+            "title": "52 Pick-Up",
+            "original_title": "52 Pick-Up",
+            "overview": "Harry Mitchell is a successful Los Angeles manufacturer whose wife is running for city council. His life is turned upside down when three blackmailers confront him with a videotape of him with his young mistress and demand $100,000. Fearing that the story will hurt his wife's political campaign if he goes to the police, Harry pretends that he will pay the men, but does not follow through.",
+            "poster_path": "/ru8dtoh6tNi7kKAbLgbaE9J5SGf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "popularity": 2.9351,
+            "release_date": "1986-11-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/43ZU7sKMdh7WFXgfuHntpPUh4Nf.jpg",
+            "id": 127521,
+            "title": "6 Bullets",
+            "original_title": "6 Bullets",
+            "overview": "An ex-mercenary known for finding missing children is hired by a mixed martial arts fighter whose daughter has been kidnapped.",
+            "poster_path": "/7yEbEUrOsAS0d5DW1OqtvSpmRQv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80
+            ],
+            "popularity": 3.6722,
+            "release_date": "2012-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.282,
+            "vote_count": 412
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/84h6avqHvW2TgLfERuqYkQwzjp1.jpg",
+            "id": 1130276,
+            "title": "Succubus",
+            "original_title": "Succubus",
+            "overview": "A new father going through a marital separation joins a dating app and matches with a beautiful but mysterious young woman... whose powers of seduction and manipulation entangle him in a mystery more horrifying than he could have ever imagined.",
+            "poster_path": "/7AfBMebJS8mEtSV5ymdxEPpgvXb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 11.9002,
+            "release_date": "2024-10-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.465,
+            "vote_count": 257
+        }
+    ]
+}

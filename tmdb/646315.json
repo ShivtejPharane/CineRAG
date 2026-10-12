@@ -1,0 +1,586 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/pe3cTrUeAHHLycZVEmFjT9kEV7a.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            }
+        ],
+        "homepage": "",
+        "id": 646315,
+        "imdb_id": "tt34510565",
+        "origin_country": [
+            "KR"
+        ],
+        "original_language": "ko",
+        "original_title": "전설의 라이타",
+        "overview": "A man who used to be called Lighter cleans up his act from his days as a gangster and struggles to start over.",
+        "popularity": 12.453,
+        "poster_path": "/h5fCwKCnKAKxdX6onTnrU6MeYe8.jpg",
+        "production_companies": [
+            {
+                "id": 144669,
+                "logo_path": "/tLkb4DyX0VeTa0adDl3cdrJeq1r.png",
+                "name": "Fiveday",
+                "origin_country": "KR"
+            },
+            {
+                "id": 144667,
+                "logo_path": null,
+                "name": "Gnos",
+                "origin_country": "KR"
+            },
+            {
+                "id": 144668,
+                "logo_path": null,
+                "name": "Kkuljam Company",
+                "origin_country": "KR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "release_date": "2019-10-29",
+        "revenue": 0,
+        "runtime": 109,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Legendary Lighter",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 6
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2452602,
+            "known_for_department": "Acting",
+            "name": "Kim Hae-joon",
+            "original_name": "김해준",
+            "popularity": 0.6129,
+            "profile_path": "/wAEtNDv5k9jQm5ETDWECXDheliO.jpg",
+            "cast_id": 1,
+            "character": "Chae Song Bin (Lighter)",
+            "credit_id": "5dc5b9f8ab1bc70013ffca83",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2452603,
+            "known_for_department": "Acting",
+            "name": "Park Sharon",
+            "original_name": "Park Sharon",
+            "popularity": 0.8434,
+            "profile_path": "/uq5tH8aJXcPSytfDhbsLGATR7h1.jpg",
+            "cast_id": 2,
+            "character": "Park Jin-ah",
+            "credit_id": "5dc5ba14470ead0013911142",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2452605,
+            "known_for_department": "Acting",
+            "name": "Lee Dong-ju",
+            "original_name": "Lee Dong-ju",
+            "popularity": 0.4772,
+            "profile_path": "/k1PlrxAArh76ntlO7XqPOiJYLxg.jpg",
+            "cast_id": 3,
+            "character": "Lee Yeong-tae",
+            "credit_id": "5dc5ba4ea14e1000105a4678",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2452606,
+            "known_for_department": "Acting",
+            "name": "Hong Dal-pyo",
+            "original_name": "홍달표",
+            "popularity": 0.5793,
+            "profile_path": "/4vmksskfHlZSSFc6YAXkne7SEBN.jpg",
+            "cast_id": 4,
+            "character": "Ma Seok-joon",
+            "credit_id": "5dc5ba8399259c00157ed773",
+            "order": 3
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2452607,
+            "known_for_department": "Directing",
+            "name": "Chae Ki-jun",
+            "original_name": "Chae Ki-jun",
+            "popularity": 0.789,
+            "profile_path": null,
+            "credit_id": "5dc5bac59c24fc0018bf0799",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2452607,
+            "known_for_department": "Directing",
+            "name": "Chae Ki-jun",
+            "original_name": "Chae Ki-jun",
+            "popularity": 0.789,
+            "profile_path": null,
+            "credit_id": "5dc5badc470ead00189109d2",
+            "department": "Writing",
+            "job": "Screenplay"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 14955,
+            "name": "fighting"
+        },
+        {
+            "id": 219404,
+            "name": "action hero"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/qziKhMyrVqj567jlbj55GpBdKf9.jpg",
+            "id": 440777,
+            "title": "Female Fight Squad",
+            "original_title": "Female Fight Squad",
+            "overview": "A former fighter reluctantly returns to the life she abandoned in order to help her sister survive the sadistic world of illegal fighting and the maniac who runs it.",
+            "poster_path": "/iI9c8XNdPuwB4RYbHMd62QNhoRK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28
+            ],
+            "popularity": 2.1638,
+            "release_date": "2017-03-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.102,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg",
+            "id": 931642,
+            "title": "Lights Out",
+            "original_title": "Lights Out",
+            "overview": "A drifting ex-soldier turns underground fighter with the help of a just-released ex-con, pitting him against corrupt cops and hired killers now gunning for him and all those he cares about.",
+            "poster_path": "/gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 4.436,
+            "release_date": "2024-02-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.035,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+            "id": 1292415,
+            "title": "Beast",
+            "original_title": "Beast",
+            "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+            "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 24.9366,
+            "release_date": "2026-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3HbqYk1yo3Dtj9jAtRHNiKNTuET.jpg",
+            "id": 592643,
+            "title": "Embattled",
+            "original_title": "Embattled",
+            "overview": "The eldest son of a ruthlessly tough MMA champion must fight his way out of the abusive cycle his father has continued.",
+            "poster_path": "/Foi2Via2fIACRJMB4934D5MP3j.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 4.3556,
+            "release_date": "2020-11-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.723,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+            "id": 974453,
+            "title": "Absolution",
+            "original_title": "Absolution",
+            "overview": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn’t done with him and won’t loosen their grip willingly.",
+            "poster_path": "/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                9648
+            ],
+            "popularity": 4.7492,
+            "release_date": "2024-10-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.901,
+            "vote_count": 535
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vtsqIXoDGM8ZS6rcQ1TKfdOycjC.jpg",
+            "id": 893228,
+            "title": "Section 8",
+            "original_title": "Section 8",
+            "overview": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "poster_path": "/3rJDTaxBKLZ6XLvcVK7V20Eaj2d.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.3379,
+            "release_date": "2022-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.142,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ldHPIMzOxS1bvEDtzPWS4csOhd8.jpg",
+            "id": 531503,
+            "title": "Point Blank",
+            "original_title": "Point Blank",
+            "overview": "A nurse is forced to spring a wounded murder suspect from the hospital when the man’s brother kidnaps his pregnant wife and wants to make a trade.",
+            "poster_path": "/weAvkxl0dnPevIKD8fwHjiOi6tc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.7667,
+            "release_date": "2019-07-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.97,
+            "vote_count": 582
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/84tIGF4i2ObSxGy8VGGgtCcV6Dj.jpg",
+            "id": 445993,
+            "title": "The Marine 5: Battleground",
+            "original_title": "The Marine 5: Battleground",
+            "overview": "While working as an EMT back stateside Jake Carter after responding to a distress call, finds himself caught up protecting a person of interest from a biker gang ruthlessly hunting them down.",
+            "poster_path": "/9dbZqft6gS34f4qVncU6APBAKWU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28
+            ],
+            "popularity": 3.3369,
+            "release_date": "2017-03-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 191
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qQNFOI3ZlLBKaiJDU8Gmow4ecQm.jpg",
+            "id": 36934,
+            "title": "American Shaolin",
+            "original_title": "American Shaolin",
+            "overview": "After facing brutal humiliation in the ring, a young karateka travels to China in order to study the ancient art of Shaolin Kung Fu, and in the process becomes the first American Shaolin.",
+            "poster_path": "/vCUHCkMJ94KqvfzaVviOngjZgLm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28
+            ],
+            "popularity": 2.6671,
+            "release_date": "1991-10-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.846,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cVzAhirOhKh91AB1TFcGn0Rh5c3.jpg",
+            "id": 1208561,
+            "title": "Art of Eight Limbs",
+            "original_title": "Art of Eight Limbs",
+            "overview": "Four canisters of deadly VX nerve gas have fallen into the hands of an international arms dealer in Myanmar. A CIA recruit delivers a high-tech detection device to an agent already on the ground.",
+            "poster_path": "/tZRypLd2SU3Eeqg5tD5cwkk5CdL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 2.3035,
+            "release_date": "2024-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.681,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fvBshQMwOnYZdUXySGMdT6LiqsI.jpg",
+            "id": 2636,
+            "title": "The Specialist",
+            "original_title": "The Specialist",
+            "overview": "May Munro is a woman obsessed with getting revenge on the people who murdered her parents when she was still a girl. She hires Ray Quick, a retired explosives expert, to kill her parents' killers. When Ned Trent, embittered ex-partner of Quick's, is assigned to protect one of Quick's potential victims, a deadly game of cat and mouse ensues.",
+            "poster_path": "/9CVAjtkSaFs9FyddGfThj11ZuQq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 7.706,
+            "release_date": "1994-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 1469
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cOF7XiobQU4TC2tKDPXJ8d2nULP.jpg",
+            "id": 1024127,
+            "title": "King of Killers",
+            "original_title": "King of Killers",
+            "overview": "Garan is a part of a group of international hitmen who are contracted to take out the most dangerous killer in the world, only to find out that they're the ones being hunted.",
+            "poster_path": "/x5AreOAgkTBzUSL58o4jsYortw2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.5874,
+            "release_date": "2023-09-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.287,
+            "vote_count": 181
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eq24kKsd5S1NCZDrQ2fBkKDkWle.jpg",
+            "id": 1002088,
+            "title": "Mission: Cross",
+            "original_title": "크로스",
+            "overview": "In the ultimate test of marriage, an agent-turned-househusband gets tangled in a perilous mission with his detective wife, who's clueless about his past.",
+            "poster_path": "/aE9WqOApdRYsowsGE0118dyA4c9.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "popularity": 3.0095,
+            "release_date": "2024-08-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tRdorrIjlybrGsebXOzgF7vRyYy.jpg",
+            "id": 1469354,
+            "title": "Border Hunters",
+            "original_title": "Border Hunters",
+            "overview": "After his police officer brother is killed by a drug dealer who flees to the protection of his cartel-connected uncle in Mexico, an American man with a diverse law enforcement/military background goes south of the border to get revenge",
+            "poster_path": "/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 6.3891,
+            "release_date": "2025-10-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.207,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3XPgvbWGlEJfgmEBzQHLtcEZfLt.jpg",
+            "id": 554972,
+            "title": "Unstoppable",
+            "original_title": "성난황소",
+            "overview": "Dong-chul and Ji-soo are a happily married couple. One day, Dong-chul comes home to find his house in disarray and his wife missing.",
+            "poster_path": "/csle64zkLObsdRoabreC6bBRxLI.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                80,
+                28,
+                53,
+                35
+            ],
+            "popularity": 4.3105,
+            "release_date": "2018-11-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.439,
+            "vote_count": 213
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fCBIG0zHkECT2elo7CDhdfbufwK.jpg",
+            "id": 329540,
+            "title": "The Marine 4: Moving Target",
+            "original_title": "The Marine 4: Moving Target",
+            "overview": "WWE Superstar Mike \"The Miz\" Mizanin returns as Jake Carter where he is assigned to protect a whistleblower who wishes to expose a corrupt military defense contractor. However, the military hires a heavily armed team of mercenaries to kill her and it's up to Carter to stop them at any cost.",
+            "poster_path": "/yR4R4SP6nLwwJ30DZOCVXefqPhi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28
+            ],
+            "popularity": 3.0983,
+            "release_date": "2015-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.358,
+            "vote_count": 265
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ihLKlPCcC0ZZICh1fxlzsbXbGEq.jpg",
+            "id": 1093994,
+            "title": "One Ranger",
+            "original_title": "One Ranger",
+            "overview": "A Texas Ranger is recruited by British Intelligence to track down a dangerous terrorist and stop him from attacking London.",
+            "poster_path": "/puffdkze3GZmQHu2Hy8t1XdOYtM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.0658,
+            "release_date": "2023-05-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ruKcAP8XimNLfrKwNl9YfAUlCGm.jpg",
+            "id": 763025,
+            "title": "Never Back Down: Revolt",
+            "original_title": "Never Back Down: Revolt",
+            "overview": "An amateur fighter is lured by a trafficking syndicate specializing in elite underground fighting where her brutal captor forces her to fight or face certain death.",
+            "poster_path": "/2tkwrelJopWtF75LYyXNzk494nL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28
+            ],
+            "popularity": 4.2212,
+            "release_date": "2021-11-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.321,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+            "id": 293660,
+            "title": "Deadpool",
+            "original_title": "Deadpool",
+            "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+            "poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "popularity": 32.8511,
+            "release_date": "2016-02-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.625,
+            "vote_count": 33036
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/leukkAoRu9rsa3s8oaLm8C10EWw.jpg",
+            "id": 10027,
+            "title": "Unleashed",
+            "original_title": "Unleashed",
+            "overview": "Raised as a slave, Danny is used to fighting for his survival. In fact, his \"master,\" Bart, thinks of him as a pet and goes as far as leashing him with a collar so they can make money in fight clubs, where Danny is the main contender. When Bart's crew is in a car accident, Danny escapes and meets a blind, kindhearted piano tuner who takes him in and uses music to free the fighter's long-buried heart.",
+            "poster_path": "/gghvmS3UxtOw1UHIgYjpeZNxHil.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "popularity": 5.7555,
+            "release_date": "2005-02-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.947,
+            "vote_count": 2225
+        }
+    ]
+}

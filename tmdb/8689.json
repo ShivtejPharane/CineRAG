@@ -1,0 +1,1437 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/7QBBvE6tA1kUlo7AKeZZMygdSHp.jpg",
+        "belongs_to_collection": {
+            "id": 1743648,
+            "name": "Ад каннибалов",
+            "poster_path": "/4c8qDZYrS7X53ZhTpoE4PujFIz4.jpg",
+            "backdrop_path": "/siYPhb4JWFbmjBQE1DrvejuPKcj.jpg"
+        },
+        "budget": 100000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "http://cannibalholocaust.net/",
+        "id": 8689,
+        "imdb_id": "tt0078935",
+        "origin_country": [
+            "IT"
+        ],
+        "original_language": "it",
+        "original_title": "Cannibal Holocaust",
+        "overview": "A New York University professor returns from a rescue mission to the Amazon rainforest with the footage shot by a lost team of documentarians who were making a film about the area's local cannibal tribes.",
+        "popularity": 17.2084,
+        "poster_path": "/otxZzMh53TsN7yYFqSZ3rwH1yMd.jpg",
+        "production_companies": [
+            {
+                "id": 17893,
+                "logo_path": null,
+                "name": "F.D. Cinematografica",
+                "origin_country": "IT"
+            },
+            {
+                "id": 192617,
+                "logo_path": null,
+                "name": "Bolivariana Films",
+                "origin_country": "CO"
+            },
+            {
+                "id": 220144,
+                "logo_path": null,
+                "name": "United Artists Europa",
+                "origin_country": ""
+            },
+            {
+                "id": 1723,
+                "logo_path": null,
+                "name": "Transcontinental Films",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CO",
+                "name": "Colombia"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "1980-02-07",
+        "revenue": 2000000,
+        "runtime": 95,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "They eat and they are eaten!",
+        "title": "Cannibal Holocaust",
+        "video": false,
+        "vote_average": 6.249,
+        "vote_count": 1908
+    },
+    "cast": [
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 55648,
+            "known_for_department": "Acting",
+            "name": "Robert Kerman",
+            "original_name": "Robert Kerman",
+            "popularity": 0.0,
+            "profile_path": "/kjQ8g1UBn4l1T8flT4qZ9OwbE2k.jpg",
+            "cast_id": 3,
+            "character": "Professor Harold Monroe",
+            "credit_id": "52fe44b4c3a36847f80a55c9",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 55652,
+            "known_for_department": "Acting",
+            "name": "Francesca Ciardi",
+            "original_name": "Francesca Ciardi",
+            "popularity": 0.8462,
+            "profile_path": "/slZvL8ENq49hJ2iYPMNBXqyoJNa.jpg",
+            "cast_id": 7,
+            "character": "Faye Daniels",
+            "credit_id": "52fe44b4c3a36847f80a55d9",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55649,
+            "known_for_department": "Acting",
+            "name": "Perry Pirkanen",
+            "original_name": "Perry Pirkanen",
+            "popularity": 0.4553,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "Jack Anders",
+            "credit_id": "52fe44b4c3a36847f80a55cd",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55650,
+            "known_for_department": "Acting",
+            "name": "Luca Barbareschi",
+            "original_name": "Luca Barbareschi",
+            "popularity": 0.7405,
+            "profile_path": "/fREMNtoQqVWLA8hG3JbqD9ALxvP.jpg",
+            "cast_id": 5,
+            "character": "Mark Tomaso",
+            "credit_id": "52fe44b4c3a36847f80a55d1",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55651,
+            "known_for_department": "Acting",
+            "name": "Salvatore Basile",
+            "original_name": "Salvatore Basile",
+            "popularity": 1.1096,
+            "profile_path": "/ojSEGsVcoeaZvNO9mfOeL74ZbXA.jpg",
+            "cast_id": 6,
+            "character": "Chaco Losojos",
+            "credit_id": "52fe44b4c3a36847f80a55d5",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4105248,
+            "known_for_department": "Acting",
+            "name": "Ricardo Fuentes",
+            "original_name": "Ricardo Fuentes",
+            "popularity": 0.4552,
+            "profile_path": "/qYRuJE1g337nAc6GxBw1QJjsnZC.jpg",
+            "cast_id": 65,
+            "character": "Miguel Lujan",
+            "credit_id": "6483e6b4d2b209010c18bdec",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55653,
+            "known_for_department": "Acting",
+            "name": "Carl Gabriel Yorke",
+            "original_name": "Carl Gabriel Yorke",
+            "popularity": 0.8088,
+            "profile_path": "/A4JbFJlm1bnybDrbCyjzTkCRS4z.jpg",
+            "cast_id": 8,
+            "character": "Alan Yates",
+            "credit_id": "52fe44b4c3a36847f80a55dd",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 105341,
+            "known_for_department": "Acting",
+            "name": "Paolo Paoloni",
+            "original_name": "Paolo Paoloni",
+            "popularity": 0.5574,
+            "profile_path": "/mPBSvVQzXMqq1tDTe3nyIP1HfNF.jpg",
+            "cast_id": 22,
+            "character": "1st Executive",
+            "credit_id": "54b931eb9251411d6a004bb7",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1414253,
+            "known_for_department": "Acting",
+            "name": "Lionello Pio Di Savoia",
+            "original_name": "Lionello Pio Di Savoia",
+            "popularity": 0.4648,
+            "profile_path": "/6K2CRvTYYzWxEmQZYv9KGQvPjMW.jpg",
+            "cast_id": 24,
+            "character": "2nd Executive",
+            "credit_id": "54b9322592514148bd001a15",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 937654,
+            "known_for_department": "Acting",
+            "name": "Luigina Rocchi",
+            "original_name": "Luigina Rocchi",
+            "popularity": 0.9923,
+            "profile_path": "/jtX62XtWnIujZs7ueCTdsOklz7J.jpg",
+            "cast_id": 25,
+            "character": "",
+            "credit_id": "54b9323e92514148bd001a1b",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3905841,
+            "known_for_department": "Acting",
+            "name": "Mauricio Rodríguez",
+            "original_name": "Mauricio Rodríguez",
+            "popularity": 0.1579,
+            "profile_path": null,
+            "cast_id": 59,
+            "character": "",
+            "credit_id": "63dea18c373ac2007f0154f0",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3905842,
+            "known_for_department": "Acting",
+            "name": "Ricardo Ramírez",
+            "original_name": "Ricardo Ramírez",
+            "popularity": 0.1676,
+            "profile_path": null,
+            "cast_id": 60,
+            "character": "",
+            "credit_id": "63dea1a18741c400871491e0",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3905843,
+            "known_for_department": "Acting",
+            "name": "Guillermo Bueno",
+            "original_name": "Guillermo Bueno",
+            "popularity": 0.1113,
+            "profile_path": null,
+            "cast_id": 61,
+            "character": "",
+            "credit_id": "63dea1ae8741c400c7f1c86a",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3905844,
+            "known_for_department": "Acting",
+            "name": "William Sánchez",
+            "original_name": "William Sánchez",
+            "popularity": 0.1844,
+            "profile_path": null,
+            "cast_id": 62,
+            "character": "",
+            "credit_id": "63dea1c56ee3d7007a7da5e2",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3905845,
+            "known_for_department": "Acting",
+            "name": "Ángel Manuel García",
+            "original_name": "Ángel Manuel García",
+            "popularity": 0.1989,
+            "profile_path": null,
+            "cast_id": 63,
+            "character": "",
+            "credit_id": "63dea1de8741c40099b4224b",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3905847,
+            "known_for_department": "Acting",
+            "name": "Edgardo Maza Anaya",
+            "original_name": "Edgardo Maza Anaya",
+            "popularity": 0.1496,
+            "profile_path": null,
+            "cast_id": 64,
+            "character": "",
+            "credit_id": "63dea1ef6ee3d70081af7a7e",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1414252,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Lucia Costantini",
+            "original_name": "Lucia Costantini",
+            "popularity": 0.331,
+            "profile_path": null,
+            "cast_id": 50,
+            "character": "Adulteress (uncredited)",
+            "credit_id": "5edda4538d52c90027a7c1e0",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 45572,
+            "known_for_department": "Directing",
+            "name": "Ruggero Deodato",
+            "original_name": "Ruggero Deodato",
+            "popularity": 1.0256,
+            "profile_path": "/bNDicvx6S1D5KbYmkWDB6eADPiN.jpg",
+            "cast_id": 26,
+            "character": "Man Sitting in NYU Campus (uncredited)",
+            "credit_id": "54b93252c3a3681411001807",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1177374,
+            "known_for_department": "Acting",
+            "name": "Enrico Papa",
+            "original_name": "Enrico Papa",
+            "popularity": 0.3772,
+            "profile_path": "/akhgIQ5Yj44y81qWxy2CJpZq2rI.jpg",
+            "cast_id": 51,
+            "character": "Pantheon Interviewer (uncredited)",
+            "credit_id": "5edda48e8d52c90022a551af",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1212047,
+            "known_for_department": "Acting",
+            "name": "David Sage",
+            "original_name": "David Sage",
+            "popularity": 0.513,
+            "profile_path": "/vH6jckatlKSJCbTkRcpm7FuxgTt.jpg",
+            "cast_id": 52,
+            "character": "Alan's Father (uncredited)",
+            "credit_id": "5edda4beb42242002092db65",
+            "order": 19
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 45572,
+            "known_for_department": "Directing",
+            "name": "Ruggero Deodato",
+            "original_name": "Ruggero Deodato",
+            "popularity": 1.0256,
+            "profile_path": "/bNDicvx6S1D5KbYmkWDB6eADPiN.jpg",
+            "credit_id": "52fe44b4c3a36847f80a55c5",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 53197,
+            "known_for_department": "Editing",
+            "name": "Vincenzo Tomassi",
+            "original_name": "Vincenzo Tomassi",
+            "popularity": 0.6468,
+            "profile_path": null,
+            "credit_id": "52fe44b4c3a36847f80a5607",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 101572,
+            "known_for_department": "Production",
+            "name": "Franco Di Nunzio",
+            "original_name": "Franco Di Nunzio",
+            "popularity": 0.2309,
+            "profile_path": null,
+            "credit_id": "52fe44b4c3a36847f80a55ef",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1266719,
+            "known_for_department": "Production",
+            "name": "Giovanni Masini",
+            "original_name": "Giovanni Masini",
+            "popularity": 0.3287,
+            "profile_path": null,
+            "credit_id": "52fe44b4c3a36847f80a5625",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1266717,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Massimo Giustini",
+            "original_name": "Massimo Giustini",
+            "popularity": 0.3746,
+            "profile_path": null,
+            "credit_id": "52fe44b4c3a36847f80a5613",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55647,
+            "known_for_department": "Writing",
+            "name": "Gianfranco Clerici",
+            "original_name": "Gianfranco Clerici",
+            "popularity": 0.7327,
+            "profile_path": null,
+            "credit_id": "52fe44b4c3a36847f80a55e3",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 33804,
+            "known_for_department": "Sound",
+            "name": "Riz Ortolani",
+            "original_name": "Riz Ortolani",
+            "popularity": 0.5512,
+            "profile_path": "/nFJdprMcg4MJTk9WP5BHfDQvCWm.jpg",
+            "credit_id": "52fe44b4c3a36847f80a55fb",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55647,
+            "known_for_department": "Writing",
+            "name": "Gianfranco Clerici",
+            "original_name": "Gianfranco Clerici",
+            "popularity": 0.7327,
+            "profile_path": null,
+            "credit_id": "52fe44b4c3a36847f80a55e9",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 101574,
+            "known_for_department": "Camera",
+            "name": "Sergio D'Offizi",
+            "original_name": "Sergio D'Offizi",
+            "popularity": 0.4749,
+            "profile_path": "/rz8lvcxx2rotW8fCUzqij5PdCpM.jpg",
+            "credit_id": "52fe44b4c3a36847f80a5601",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 101573,
+            "known_for_department": "Production",
+            "name": "Franco Palaggi",
+            "original_name": "Franco Palaggi",
+            "popularity": 0.4557,
+            "profile_path": null,
+            "credit_id": "52fe44b4c3a36847f80a55f5",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 32672,
+            "known_for_department": "Crew",
+            "name": "Aldo Gasparri",
+            "original_name": "Aldo Gasparri",
+            "popularity": 0.4612,
+            "profile_path": null,
+            "credit_id": "52fe44b4c3a36847f80a5619",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 101554,
+            "known_for_department": "Art",
+            "name": "Massimo Antonello Geleng",
+            "original_name": "Massimo Antonello Geleng",
+            "popularity": 0.4631,
+            "profile_path": "/i3j7I3Jsr2SSNqgXWTdRbUd5KB9.jpg",
+            "credit_id": "610fa17c960cde00456d6fd3",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3476523,
+            "known_for_department": "Acting",
+            "name": "Gloria Jaramillo",
+            "original_name": "Gloria Jaramillo",
+            "popularity": 0.1907,
+            "profile_path": null,
+            "credit_id": "63dea0589974ee00b9966abf",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3905837,
+            "known_for_department": "Directing",
+            "name": "Alberto Jiménez Ruiz",
+            "original_name": "Alberto Jiménez Ruiz",
+            "popularity": 0.1654,
+            "profile_path": null,
+            "credit_id": "63dea09be55937007b778a94",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3905835,
+            "known_for_department": "Directing",
+            "name": "Carlos Eduardo Uribe",
+            "original_name": "Carlos Eduardo Uribe",
+            "popularity": 0.137,
+            "profile_path": null,
+            "credit_id": "63dea033ce5d8200cd901304",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 44955,
+            "known_for_department": "Directing",
+            "name": "Lamberto Bava",
+            "original_name": "Lamberto Bava",
+            "popularity": 0.9247,
+            "profile_path": "/alCOCvgUarpfuFaf750r0r7adp7.jpg",
+            "credit_id": "5a90b160c3a36824fd000697",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1625614,
+            "known_for_department": "Sound",
+            "name": "Raul Montesanti",
+            "original_name": "Raul Montesanti",
+            "popularity": 0.3496,
+            "profile_path": null,
+            "credit_id": "5a90b1840e0a2616c3000692",
+            "department": "Sound",
+            "job": "Sound Engineer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1983890,
+            "known_for_department": "Sound",
+            "name": "Bruno Longobardo",
+            "original_name": "Bruno Longobardo",
+            "popularity": 0.2204,
+            "profile_path": null,
+            "credit_id": "5a90b177925141417400060b",
+            "department": "Sound",
+            "job": "Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 582413,
+            "known_for_department": "Sound",
+            "name": "Gianni D'Amico",
+            "original_name": "Gianni D'Amico",
+            "popularity": 0.5279,
+            "profile_path": null,
+            "credit_id": "5a90b16b925141417a0005a5",
+            "department": "Sound",
+            "job": "Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2670269,
+            "known_for_department": "Lighting",
+            "name": "Luigi Pasqualini",
+            "original_name": "Luigi Pasqualini",
+            "popularity": 0.2503,
+            "profile_path": null,
+            "credit_id": "5edda2c38d52c90021a47861",
+            "department": "Lighting",
+            "job": "Electrician"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1958071,
+            "known_for_department": "Sound",
+            "name": "Umberto Montesanti",
+            "original_name": "Umberto Montesanti",
+            "popularity": 0.428,
+            "profile_path": null,
+            "credit_id": "5edda2389c24fc002068a388",
+            "department": "Sound",
+            "job": "Boom Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1058164,
+            "known_for_department": "Editing",
+            "name": "Rita Antonelli",
+            "original_name": "Rita Antonelli",
+            "popularity": 0.2965,
+            "profile_path": null,
+            "credit_id": "5edda307f36a32001f8a9a1e",
+            "department": "Editing",
+            "job": "Assistant Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1334558,
+            "known_for_department": "Production",
+            "name": "Vito Di Bari",
+            "original_name": "Vito Di Bari",
+            "popularity": 0.3941,
+            "profile_path": null,
+            "credit_id": "5edda345f36a3200208968ae",
+            "department": "Production",
+            "job": "Production Secretary"
+        },
+        {
+            "adult": true,
+            "gender": 0,
+            "id": 1202360,
+            "known_for_department": "Production",
+            "name": "Bill Williams",
+            "original_name": "Bill Williams",
+            "popularity": 0.0,
+            "profile_path": null,
+            "credit_id": "5edda1aeb42242002092d68c",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2087964,
+            "known_for_department": "Directing",
+            "name": "Rossana Rocchi",
+            "original_name": "Rossana Rocchi",
+            "popularity": 0.2336,
+            "profile_path": null,
+            "credit_id": "5edda32cb422420021937961",
+            "department": "Directing",
+            "job": "Continuity"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1758392,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Nicola Catalani",
+            "original_name": "Nicola Catalani",
+            "popularity": 0.21,
+            "profile_path": null,
+            "credit_id": "5edda1dcf36a32001e88b005",
+            "department": "Costume & Make-Up",
+            "job": "Assistant Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1120225,
+            "known_for_department": "Camera",
+            "name": "Roberto Forges Davanzati",
+            "original_name": "Roberto Forges Davanzati",
+            "popularity": 0.3537,
+            "profile_path": "/svU3xB3Db2mnjDPfBNuJ5ysxVLq.jpg",
+            "credit_id": "5edda29e8d52c90027a7be77",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55651,
+            "known_for_department": "Acting",
+            "name": "Salvatore Basile",
+            "original_name": "Salvatore Basile",
+            "popularity": 1.1096,
+            "profile_path": "/ojSEGsVcoeaZvNO9mfOeL74ZbXA.jpg",
+            "credit_id": "5edda1fef36a32001d8bde49",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1711431,
+            "known_for_department": "Camera",
+            "name": "Enrico Maggi",
+            "original_name": "Enrico Maggi",
+            "popularity": 0.4608,
+            "profile_path": null,
+            "credit_id": "5edda2b28d52c90022a54e56",
+            "department": "Camera",
+            "job": "Assistant Camera"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1724136,
+            "known_for_department": "Camera",
+            "name": "Paolo Cavicchioli",
+            "original_name": "Paolo Cavicchioli",
+            "popularity": 0.3514,
+            "profile_path": null,
+            "credit_id": "5edda27cb42242001f9236d3",
+            "department": "Camera",
+            "job": "Still Photographer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1414252,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Lucia Costantini",
+            "original_name": "Lucia Costantini",
+            "popularity": 0.331,
+            "profile_path": null,
+            "credit_id": "5edda2dcf36a32001d8bdfee",
+            "department": "Costume & Make-Up",
+            "job": "Wardrobe Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1867698,
+            "known_for_department": "Camera",
+            "name": "Ennio Brizzolari",
+            "original_name": "Ennio Brizzolari",
+            "popularity": 0.3766,
+            "profile_path": null,
+            "credit_id": "5edda26cf36a32001e88b2d1",
+            "department": "Camera",
+            "job": "Key Grip"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 73624,
+            "known_for_department": "Writing",
+            "name": "Giorgio Stegani",
+            "original_name": "Giorgio Stegani",
+            "popularity": 0.534,
+            "profile_path": null,
+            "credit_id": "5edda150b42242002092d5ec",
+            "department": "Crew",
+            "job": "Additional Dialogue"
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 1266718,
+            "known_for_department": "Art",
+            "name": "Rodolfo Ruzza",
+            "original_name": "Rodolfo Ruzza",
+            "popularity": 0.0,
+            "profile_path": null,
+            "credit_id": "5f01a675f031740037553816",
+            "department": "Art",
+            "job": "Property Master"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 596,
+            "name": "adultery"
+        },
+        {
+            "id": 570,
+            "name": "rape"
+        },
+        {
+            "id": 1585,
+            "name": "snake"
+        },
+        {
+            "id": 4931,
+            "name": "pig"
+        },
+        {
+            "id": 1463,
+            "name": "culture clash"
+        },
+        {
+            "id": 4720,
+            "name": "ritual"
+        },
+        {
+            "id": 886,
+            "name": "movie business"
+        },
+        {
+            "id": 2517,
+            "name": "leech"
+        },
+        {
+            "id": 3986,
+            "name": "spider"
+        },
+        {
+            "id": 5160,
+            "name": "animal attack"
+        },
+        {
+            "id": 9701,
+            "name": "controversy"
+        },
+        {
+            "id": 4551,
+            "name": "swamp"
+        },
+        {
+            "id": 10148,
+            "name": "tribe"
+        },
+        {
+            "id": 5569,
+            "name": "vomit"
+        },
+        {
+            "id": 5968,
+            "name": "amazon rainforest"
+        },
+        {
+            "id": 9732,
+            "name": "film in film"
+        },
+        {
+            "id": 10864,
+            "name": "human sacrifice"
+        },
+        {
+            "id": 10787,
+            "name": "jungle"
+        },
+        {
+            "id": 13006,
+            "name": "torture"
+        },
+        {
+            "id": 13083,
+            "name": "rape and murder"
+        },
+        {
+            "id": 14707,
+            "name": "brutality"
+        },
+        {
+            "id": 14895,
+            "name": "cannibal"
+        },
+        {
+            "id": 15394,
+            "name": "hatchet"
+        },
+        {
+            "id": 18266,
+            "name": "south america"
+        },
+        {
+            "id": 33490,
+            "name": "filmmaking"
+        },
+        {
+            "id": 156091,
+            "name": "missing person"
+        },
+        {
+            "id": 161166,
+            "name": "misogyny"
+        },
+        {
+            "id": 162745,
+            "name": "ritual sacrifice"
+        },
+        {
+            "id": 163053,
+            "name": "found footage"
+        },
+        {
+            "id": 188460,
+            "name": "tortoise"
+        },
+        {
+            "id": 189921,
+            "name": "video nasty"
+        },
+        {
+            "id": 192694,
+            "name": "lost footage"
+        },
+        {
+            "id": 205685,
+            "name": "animal cruelty"
+        },
+        {
+            "id": 210856,
+            "name": "amazon tribe"
+        },
+        {
+            "id": 232071,
+            "name": "vomiting woman"
+        },
+        {
+            "id": 243608,
+            "name": "abused woman"
+        },
+        {
+            "id": 246926,
+            "name": "film within a film"
+        },
+        {
+            "id": 248288,
+            "name": "adulterous wife"
+        },
+        {
+            "id": 253980,
+            "name": "film censorship"
+        },
+        {
+            "id": 263398,
+            "name": "film industry"
+        },
+        {
+            "id": 276164,
+            "name": "pseudo-documentary"
+        },
+        {
+            "id": 278235,
+            "name": "cannibalism"
+        },
+        {
+            "id": 299360,
+            "name": "guerilla filmmaking"
+        },
+        {
+            "id": 310003,
+            "name": "banned film"
+        },
+        {
+            "id": 310004,
+            "name": "disemboweling"
+        },
+        {
+            "id": 310005,
+            "name": "film reel"
+        },
+        {
+            "id": 310006,
+            "name": "yacomo"
+        },
+        {
+            "id": 342626,
+            "name": "b-horror"
+        },
+        {
+            "id": 365923,
+            "name": "found footage adjacent"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
+            "id": 285923,
+            "title": "Grindhouse",
+            "original_title": "Grindhouse",
+            "overview": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
+            "poster_path": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                27
+            ],
+            "popularity": 5.1775,
+            "release_date": "2007-04-06",
+            "softcore": false,
+            "video": true,
+            "vote_average": 7.004,
+            "vote_count": 1915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xVkseUmDqseTua63V48ihhEnq8u.jpg",
+            "id": 30876,
+            "title": "Last Cannibal World",
+            "original_title": "Ultimo mondo cannibale",
+            "overview": "An oil prospector escapes from capture by a primitive cannibal tribe in the Philippine rain forest and heads out to locate his missing companion and their plane to return home.",
+            "poster_path": "/q5MEqvaBLueVEEnetKdhax0DXhy.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                12,
+                27
+            ],
+            "popularity": 3.082,
+            "release_date": "1977-02-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2W8iYJBSA25ENrM25GbVO4EiWAO.jpg",
+            "id": 25239,
+            "title": "Day of the Woman",
+            "original_title": "Day of the Woman",
+            "overview": "A young, beautiful career woman rents a backwoods cabin to write her first novel. Attacked by a group of local lowlifes and left for dead, she devises a horrific plan to inflict revenge.",
+            "poster_path": "/nMCkOo26GtISoxJmpkTAJyMqBO8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.1059,
+            "release_date": "1978-11-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.019,
+            "vote_count": 728
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f6bYn4s7fa24XVzUvvkbezc81aw.jpg",
+            "id": 6217,
+            "title": "Cat People",
+            "original_title": "Cat People",
+            "overview": "After years of separation, Irena Gallier and her minister brother, Paul, reunite in New Orleans. When zoologists capture a wild panther, Irena is drawn to the cat – and zoo curator Oliver to her. Soon, Paul will have to reveal the family secret: that when sexually aroused, they revert into predatory jungle cats.",
+            "poster_path": "/nYcQnkbTD4LDmp11HCReQuUoMKD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                27
+            ],
+            "popularity": 5.6377,
+            "release_date": "1982-04-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.026,
+            "vote_count": 575
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hP7snoME9lumckt7NpOMIZJDOmP.jpg",
+            "id": 272692,
+            "title": "The Possession of Michael King",
+            "original_title": "The Possession of Michael King",
+            "overview": "The film tells the story of documentary filmmaker Michael King (Shane Johnson), who doesn’t believe in God or the Devil. Following the sudden death of his wife, Michael decides to make his next film about the search for the existence of the supernatural, making himself the center of the experiment – allowing demonologists, necromancers, and various practitioners of the occult to try the deepest and darkest spells and rituals they can find on him – in the hopes that when they fail, he’ll once and for all have proof that religion, spiritualism, and the paranormal are nothing more than myth. But something does happen. An evil and horrifying force has taken over Michael King. And it will not let him go.",
+            "poster_path": "/r1LrvbUsQHn8ByJIOoeI76F6jR0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.1795,
+            "release_date": "2014-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 444
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xAC9kXLxUHpdCkISgYcLzYrxIQR.jpg",
+            "id": 84348,
+            "title": "V/H/S",
+            "original_title": "V/H/S",
+            "overview": "When a group of misfits is hired by an unknown third party to burglarize a desolate house and acquire one rare VHS tape, they discover more found footage than they had bargained for.",
+            "poster_path": "/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 5.1103,
+            "release_date": "2012-07-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.103,
+            "vote_count": 1737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z0ALFPZjhaAQjXThyMO9b3dIrz4.jpg",
+            "id": 11503,
+            "title": "The Serpent and the Rainbow",
+            "original_title": "The Serpent and the Rainbow",
+            "overview": "A Harvard anthropologist is sent to Haiti to retrieve a strange powder that is said to have the power to bring human beings back from the dead. In his quest to find the miracle drug, the cynical scientist enters the rarely seen netherworld of walking zombies, blood rites and ancient curses. Based on the true life experiences of Wade Davis and filmed on location in Haiti, it's a frightening excursion into black magic and the supernatural.",
+            "poster_path": "/b7yjF5FUM2LpgjXRwDfukeFdjq4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.8356,
+            "release_date": "1988-02-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 561
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg",
+            "id": 764,
+            "title": "The Evil Dead",
+            "original_title": "The Evil Dead",
+            "overview": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
+            "poster_path": "/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 19.0348,
+            "release_date": "1982-05-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 4599
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aELgHEHFGDCcGslMoyg9KGiDV4v.jpg",
+            "id": 159117,
+            "title": "V/H/S/2",
+            "original_title": "V/H/S/2",
+            "overview": "Inside a darkened house looms a column of TVs littered with VHS tapes, a pagan shrine to forgotten analog gods. The screens crackle and pop endlessly with monochrome vistas of static white noise permeating the brain and fogging concentration. But you must fight the urge to relax: this is no mere movie night. Those obsolete spools contain more than just magnetic tape. They are imprinted with the very soul of evil.",
+            "poster_path": "/o4hcWsHaHaNQ9BBReOxLvYJNRhA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.4169,
+            "release_date": "2013-06-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.201,
+            "vote_count": 1205
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xrt2SCSXmKiAuzCuYQVGkssvWS.jpg",
+            "id": 101669,
+            "title": "Mother's Day",
+            "original_title": "Mother's Day",
+            "overview": "Crazed members of a sadistic family return to their childhood home to terrorize the new owners.",
+            "poster_path": "/wjKmtce2WFoOyoiYGVx0nUSzGxT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "popularity": 3.1609,
+            "release_date": "2010-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.485,
+            "vote_count": 474
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/np58LPJkwC3THsKBkBscDKSlQPz.jpg",
+            "id": 1029235,
+            "title": "Azrael",
+            "original_title": "Azrael",
+            "overview": "In a world where no one speaks, a devout female hunts down a young woman who has escaped her imprisonment. Recaptured by its ruthless leaders, Azrael is due to be sacrificed to pacify an ancient evil deep within the surrounding wilderness.",
+            "poster_path": "/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "popularity": 5.55,
+            "release_date": "2024-09-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.853,
+            "vote_count": 463
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o2SeAw8ARPB1D8oudCRJcxW3w60.jpg",
+            "id": 13186,
+            "title": "Wrong Turn 2: Dead End",
+            "original_title": "Wrong Turn 2: Dead End",
+            "overview": "Retired military commander Colonel Dale Murphy hosts the simulated post-apocalyptic reality show where participants are challenged to survive a remote West Virginia wasteland. But the show turns into a nightmarish showdown when each realizes they are being hunted by an inbred family of cannibals determined to make them all dinner!",
+            "poster_path": "/ow3IMhTVLryZuCEoQznVTTmFYuu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 10.5968,
+            "release_date": "2007-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.174,
+            "vote_count": 1586
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7MorkyWQXVOi2XKYci6pIGbjb2x.jpg",
+            "id": 1691,
+            "title": "Hostel: Part II",
+            "original_title": "Hostel: Part II",
+            "overview": "Three American college students studying abroad are lured to a Slovakian hostel, and discover the grim reality behind it.",
+            "poster_path": "/qB20aiY8Ah3pQikkBxm3j7jQVc8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 6.7592,
+            "release_date": "2007-06-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.858,
+            "vote_count": 2248
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+            "id": 1426297,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+            "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.9648,
+            "release_date": "2025-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kB7Eo8fjyHn4a80A2WUfW6YiMPG.jpg",
+            "id": 1190868,
+            "title": "V/H/S/Beyond",
+            "original_title": "V/H/S/Beyond",
+            "overview": "The infinite playground of forbidden worlds and dangerous lifeforms offered by the sci-fi horror genre will lead to the biggest, maddest, bloodiest V/H/S ever.",
+            "poster_path": "/wXaf6VGNHIGU7qivapGOF7o4o4N.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "popularity": 3.1633,
+            "release_date": "2024-09-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.573,
+            "vote_count": 315
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fL9ca2p8wCW0FwT0tCNCzGiHw1x.jpg",
+            "id": 7219,
+            "title": "Zombie Flesh Eaters",
+            "original_title": "Zombi 2",
+            "overview": "After an abandoned boat sails into New York harbor with a zombie aboard, a reporter teams up with the daughter of the boat's missing captain to investigate the island where he was last seen conducting research—the site of an alleged zombie outbreak.",
+            "poster_path": "/jc17a3PqDnQeBzT7GbK0dp8TDvx.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 3.5876,
+            "release_date": "1979-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.735,
+            "vote_count": 688
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4obIhFZBUxn0aRL1hO1wMyPca8o.jpg",
+            "id": 759902,
+            "title": "Hunter Hunter",
+            "original_title": "Hunter Hunter",
+            "overview": "A fur trapper leaves his wife and daughter behind to kill a rogue wolf in the remote wilderness, but they soon become increasingly worried when their peaceful existence is disrupted.",
+            "poster_path": "/j52lKBGoHGmUJNUMsDV5kHOkMfC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 3.8497,
+            "release_date": "2020-12-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.423,
+            "vote_count": 368
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eJGbf7RB8YNE9s3YLCt6lgqAOB9.jpg",
+            "id": 16395,
+            "title": "Inferno",
+            "original_title": "Inferno",
+            "overview": "A young man returns from Rome to his sister's satanic New York apartment house.",
+            "poster_path": "/A92SmwJ4w2GSF6Mp2m8xE9GbG39.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.282,
+            "release_date": "1980-02-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.642,
+            "vote_count": 684
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e5ecjQw8AK0e924UIkMOUTxGhMj.jpg",
+            "id": 12262,
+            "title": "The Hills Have Eyes",
+            "original_title": "The Hills Have Eyes",
+            "overview": "Taking an ill-advised detour en-route to California, the Carter family soon run into trouble when their RV breaks down in the middle of the desert. Stranded, they find themselves at the mercy of monstrous cannibals lurking in the surrounding hills.",
+            "poster_path": "/1G2DBIEkoS0JdCiOFIeR3mD8ROE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 3.7142,
+            "release_date": "1977-07-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.165,
+            "vote_count": 1019
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uWbP41poWgP0f7sgAQTf6UeRtwg.jpg",
+            "id": 753453,
+            "title": "V/H/S/94",
+            "original_title": "V/H/S/94",
+            "overview": "After the discovery of a mysterious VHS tape, a brutish police SWAT team launches a high-intensity raid on a remote warehouse, only to discover a sinister cult compound whose collection of pre-recorded material uncovers a nightmarish conspiracy.",
+            "poster_path": "/9fSogEkqDfJQTuGHsTFloQz3Tw8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.5733,
+            "release_date": "2021-09-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 568
+        }
+    ]
+}

@@ -1,0 +1,1197 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/3oAmqJxMqOgmnEhoOP3swpOUwzC.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://www.leograndefilm.co.uk/",
+        "id": 758330,
+        "imdb_id": "tt13352968",
+        "origin_country": [
+            "US",
+            "GB"
+        ],
+        "original_language": "en",
+        "original_title": "Good Luck to You, Leo Grande",
+        "overview": "Nancy Stokes, a retired schoolteacher, is pretty sure she has never had good sex. Now that her husband has died, she is determined to take a tour of sexual vistas that until now she has only imagined. She even has a plan; it involves an anonymous hotel room, and a sex worker who calls himself Leo Grande.",
+        "popularity": 18.7658,
+        "poster_path": "/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg",
+        "production_companies": [
+            {
+                "id": 118715,
+                "logo_path": "/mRCdjLcjvRvCqIMovDzOcqmRFfv.png",
+                "name": "Cornerstone Films",
+                "origin_country": "GB"
+            },
+            {
+                "id": 54431,
+                "logo_path": "/v4CjB3zI2xRw1UDSYjwKA8K71gT.png",
+                "name": "Genesius Pictures",
+                "origin_country": "GB"
+            },
+            {
+                "id": 144803,
+                "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
+                "name": "Align",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2022-06-16",
+        "revenue": 7589829,
+        "runtime": 97,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "status": "Released",
+        "tagline": "It's never too late to try something new.",
+        "title": "Good Luck to You, Leo Grande",
+        "video": false,
+        "vote_average": 6.99,
+        "vote_count": 700
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 7056,
+            "known_for_department": "Acting",
+            "name": "Emma Thompson",
+            "original_name": "Emma Thompson",
+            "popularity": 6.8454,
+            "profile_path": "/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg",
+            "cast_id": 1,
+            "character": "Nancy Stokes",
+            "credit_id": "5f99a5d26c1e040039e087ad",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1829245,
+            "known_for_department": "Acting",
+            "name": "Daryl McCormack",
+            "original_name": "Daryl McCormack",
+            "popularity": 1.3328,
+            "profile_path": "/uxBEREn7HCDzhSNJaFw8MPdvXxo.jpg",
+            "cast_id": 5,
+            "character": "Leo Grande",
+            "credit_id": "61b2c121ea39490044baaee0",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 234930,
+            "known_for_department": "Acting",
+            "name": "Isabella Laughland",
+            "original_name": "Isabella Laughland",
+            "popularity": 1.3785,
+            "profile_path": "/3vdUpjDwTxZQbaeI8dE0GOu0qzU.jpg",
+            "cast_id": 8,
+            "character": "Becky Foster",
+            "credit_id": "61ec9589e4886000a334d1c7",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3396528,
+            "known_for_department": "Acting",
+            "name": "Les Mabaleka",
+            "original_name": "Les Mabaleka",
+            "popularity": 0.4404,
+            "profile_path": "/9jF6qAjzjUt6dcBrj13KTORAD8R.jpg",
+            "cast_id": 10,
+            "character": "Delivery Person",
+            "credit_id": "61ef2f286d4c97009b75fb31",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3396529,
+            "known_for_department": "Acting",
+            "name": "Lennie Beare",
+            "original_name": "Lennie Beare",
+            "popularity": 0.3976,
+            "profile_path": null,
+            "cast_id": 11,
+            "character": "Person on Bike",
+            "credit_id": "61ef2f3442bf010066ce489a",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3396530,
+            "known_for_department": "Acting",
+            "name": "Carina Lopes",
+            "original_name": "Carina Lopes",
+            "popularity": 0.3966,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "Waitress 1",
+            "credit_id": "61ef2f40c5ada5001c21a9f8",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3396531,
+            "known_for_department": "Acting",
+            "name": "Charlotte Ware",
+            "original_name": "Charlotte Ware",
+            "popularity": 0.3748,
+            "profile_path": null,
+            "cast_id": 13,
+            "character": "Waitress 2",
+            "credit_id": "61ef2f4bcd204653096a7ea2",
+            "order": 6
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 75150,
+            "known_for_department": "Sound",
+            "name": "Adrian Medhurst",
+            "original_name": "Adrian Medhurst",
+            "popularity": 0.4709,
+            "profile_path": null,
+            "credit_id": "6223a713e323f3006cc27ae8",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1715106,
+            "known_for_department": "Art",
+            "name": "Simon Walker",
+            "original_name": "Simon Walker",
+            "popularity": 0.4799,
+            "profile_path": null,
+            "credit_id": "6223a637363909001bc51075",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3453861,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Katie Finch",
+            "original_name": "Katie Finch",
+            "popularity": 0.1966,
+            "profile_path": null,
+            "credit_id": "6223a6bb4a0b190045c591a4",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1928450,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Carrie Wallbank",
+            "original_name": "Carrie Wallbank",
+            "popularity": 0.2443,
+            "profile_path": null,
+            "credit_id": "6223a73d0fb398001bc778ca",
+            "department": "Costume & Make-Up",
+            "job": "Costume Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 75150,
+            "known_for_department": "Sound",
+            "name": "Adrian Medhurst",
+            "original_name": "Adrian Medhurst",
+            "popularity": 0.4709,
+            "profile_path": null,
+            "credit_id": "6223a70d0fb398001bc77888",
+            "department": "Sound",
+            "job": "Sound Effects Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3453862,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Christabel Franklin",
+            "original_name": "Christabel Franklin",
+            "popularity": 0.2433,
+            "profile_path": null,
+            "credit_id": "6223a6eb25b9550064c47e8e",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3011503,
+            "known_for_department": "Art",
+            "name": "Ellie Jones",
+            "original_name": "Ellie Jones",
+            "popularity": 0.1876,
+            "profile_path": null,
+            "credit_id": "6223a661cedac400661185a4",
+            "department": "Art",
+            "job": "Standby Art Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1333656,
+            "known_for_department": "Art",
+            "name": "Miren Marañón",
+            "original_name": "Miren Marañón",
+            "popularity": 0.2897,
+            "profile_path": "/xJbP3EQNTyzg28sdgoBUbzpz2t0.jpg",
+            "credit_id": "6223a62c481382006d870378",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2750871,
+            "known_for_department": "Art",
+            "name": "Fiona Albrow",
+            "original_name": "Fiona Albrow",
+            "popularity": 0.4663,
+            "profile_path": null,
+            "credit_id": "6223a674ab5e34001b94c888",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1409821,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Naomi Donne",
+            "original_name": "Naomi Donne",
+            "popularity": 0.7584,
+            "profile_path": "/xGSMYuDT1mSOilrEiNbbRLr1VXb.jpg",
+            "credit_id": "6223a6d5bfeb8b0043a931b9",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1354922,
+            "known_for_department": "Sound",
+            "name": "Steve Fanagan",
+            "original_name": "Steve Fanagan",
+            "popularity": 0.5565,
+            "profile_path": null,
+            "credit_id": "6223a704e375c0001b12bb69",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1111474,
+            "known_for_department": "Editing",
+            "name": "Bryan Mason",
+            "original_name": "Bryan Mason",
+            "popularity": 0.3702,
+            "profile_path": null,
+            "credit_id": "61ec81afcd20460092348271",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1111474,
+            "known_for_department": "Editing",
+            "name": "Bryan Mason",
+            "original_name": "Bryan Mason",
+            "popularity": 0.3702,
+            "profile_path": null,
+            "credit_id": "61ec8179eb64f100694049ae",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 54204,
+            "known_for_department": "Production",
+            "name": "Adrian Politowski",
+            "original_name": "Adrian Politowski",
+            "popularity": 0.523,
+            "profile_path": "/hqE3d8hi08RnY3JaYwCuHZoG7zi.jpg",
+            "credit_id": "61ef2f7a6e938a00f49d6954",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1222241,
+            "known_for_department": "Acting",
+            "name": "Katy Brand",
+            "original_name": "Katy Brand",
+            "popularity": 0.877,
+            "profile_path": "/lMxM7EwxghGuhBPFZkAXSYT35A7.jpg",
+            "credit_id": "61ef2f92cd204600e579e007",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1016176,
+            "known_for_department": "Production",
+            "name": "Amy Hubbard",
+            "original_name": "Amy Hubbard",
+            "popularity": 0.4587,
+            "profile_path": null,
+            "credit_id": "61ef3099d11e0e00957dd438",
+            "department": "Production",
+            "job": "Casting Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1333656,
+            "known_for_department": "Art",
+            "name": "Miren Marañón",
+            "original_name": "Miren Marañón",
+            "popularity": 0.2897,
+            "profile_path": "/xJbP3EQNTyzg28sdgoBUbzpz2t0.jpg",
+            "credit_id": "61ef306cd40d4c01167c6495",
+            "department": "Production",
+            "job": "Production Designer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 54205,
+            "known_for_department": "Production",
+            "name": "Nadia Khamlichi",
+            "original_name": "Nadia Khamlichi",
+            "popularity": 0.6199,
+            "profile_path": "/ngeXDXYulln8G5VQzhm1RvEiGi7.jpg",
+            "credit_id": "61ef3051a402c1006da20132",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2732043,
+            "known_for_department": "Production",
+            "name": "Alison Thompson",
+            "original_name": "Alison Thompson",
+            "popularity": 0.3749,
+            "profile_path": null,
+            "credit_id": "61ef2fe15a78840117623493",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3396538,
+            "known_for_department": "Production",
+            "name": "Julian Gleek",
+            "original_name": "Julian Gleek",
+            "popularity": 0.3075,
+            "profile_path": null,
+            "credit_id": "61ef2feb6e938a006bc61c0f",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1542343,
+            "known_for_department": "Production",
+            "name": "Martin Metz",
+            "original_name": "Martin Metz",
+            "popularity": 0.379,
+            "profile_path": null,
+            "credit_id": "61ef2ff61ad93b0043102a4c",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 92736,
+            "known_for_department": "Production",
+            "name": "Mark Gooder",
+            "original_name": "Mark Gooder",
+            "popularity": 0.3992,
+            "profile_path": null,
+            "credit_id": "61ef2fd43009aa00ddea6d38",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1471829,
+            "known_for_department": "Production",
+            "name": "Debbie Gray",
+            "original_name": "Debbie Gray",
+            "popularity": 0.4316,
+            "profile_path": null,
+            "credit_id": "61ef2f6b5a788400aaad9204",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3396540,
+            "known_for_department": "Production",
+            "name": "Nessa McGill",
+            "original_name": "Nessa McGill",
+            "popularity": 0.274,
+            "profile_path": null,
+            "credit_id": "61ef3003cedac400a0e2bfef",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1542233,
+            "known_for_department": "Lighting",
+            "name": "Freddie Bonfanti",
+            "original_name": "Freddie Bonfanti",
+            "popularity": 0.4643,
+            "profile_path": null,
+            "credit_id": "65c4a1310c27100163779be2",
+            "department": "Lighting",
+            "job": "Lighting Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 551482,
+            "known_for_department": "Sound",
+            "name": "Stephen Rennicks",
+            "original_name": "Stephen Rennicks",
+            "popularity": 0.5232,
+            "profile_path": "/zqGMVRvq2sRsNCvKCWwEx9xPN48.jpg",
+            "credit_id": "65c4a269021cee0183c31afe",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1700884,
+            "known_for_department": "Sound",
+            "name": "Jonathan Blagrove",
+            "original_name": "Jonathan Blagrove",
+            "popularity": 0.3233,
+            "profile_path": null,
+            "credit_id": "65c4a1b09451e70184bd3656",
+            "department": "Sound",
+            "job": "Sound Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1222241,
+            "known_for_department": "Acting",
+            "name": "Katy Brand",
+            "original_name": "Katy Brand",
+            "popularity": 0.877,
+            "profile_path": "/lMxM7EwxghGuhBPFZkAXSYT35A7.jpg",
+            "credit_id": "65c4a2fff495ee017e0c12d3",
+            "department": "Crew",
+            "job": "Creator"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1187862,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Sian Jenkins",
+            "original_name": "Sian Jenkins",
+            "popularity": 0.3243,
+            "profile_path": null,
+            "credit_id": "65c4a21ff495ee01310becd0",
+            "department": "Costume & Make-Up",
+            "job": "Costume Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3027831,
+            "known_for_department": "Directing",
+            "name": "Malinda Kaur",
+            "original_name": "Malinda Kaur",
+            "popularity": 0.2573,
+            "profile_path": null,
+            "credit_id": "65c4a11cdb4ed60183d29c96",
+            "department": "Directing",
+            "job": "First Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2114505,
+            "known_for_department": "Production",
+            "name": "Kelly Duffell",
+            "original_name": "Kelly Duffell",
+            "popularity": 0.2671,
+            "profile_path": null,
+            "credit_id": "65c4a103194186017b75e54f",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4367087,
+            "known_for_department": "Directing",
+            "name": "Sophie Hyde",
+            "original_name": "Sophie Hyde",
+            "popularity": 0.4623,
+            "profile_path": "/7TnCR9KmcfNG1Yv0kjcEePXVsg0.jpg",
+            "credit_id": "65c4a2af021cee0183c31b2b",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2524553,
+            "known_for_department": "Production",
+            "name": "Pamela Holt",
+            "original_name": "Pamela Holt",
+            "popularity": 0.1907,
+            "profile_path": null,
+            "credit_id": "65c4bd14021cee0168c2e71d",
+            "department": "Production",
+            "job": "Production Accountant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4525003,
+            "known_for_department": "Production",
+            "name": "Lucille Tipple",
+            "original_name": "Lucille Tipple",
+            "popularity": 0.1882,
+            "profile_path": null,
+            "credit_id": "65c4bd320c4c16018503202c",
+            "department": "Production",
+            "job": "Assistant Accountant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2524560,
+            "known_for_department": "Production",
+            "name": "Sam Cornish",
+            "original_name": "Sam Cornish",
+            "popularity": 0.3666,
+            "profile_path": null,
+            "credit_id": "65c4bcf1021cee0168c2e710",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4367087,
+            "known_for_department": "Directing",
+            "name": "Sophie Hyde",
+            "original_name": "Sophie Hyde",
+            "popularity": 0.4623,
+            "profile_path": "/7TnCR9KmcfNG1Yv0kjcEePXVsg0.jpg",
+            "credit_id": "6614fd3c982f74017e611698",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1222241,
+            "known_for_department": "Acting",
+            "name": "Katy Brand",
+            "original_name": "Katy Brand",
+            "popularity": 0.877,
+            "profile_path": "/lMxM7EwxghGuhBPFZkAXSYT35A7.jpg",
+            "credit_id": "5f99a6279a9f9a00387d85c4",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1466996,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Julie Dartnell",
+            "original_name": "Julie Dartnell",
+            "popularity": 0.7603,
+            "profile_path": null,
+            "credit_id": "66f61d61be3f1cab4d709ff3",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1337412,
+            "known_for_department": "Sound",
+            "name": "Jason Swanscott",
+            "original_name": "Jason Swanscott",
+            "popularity": 0.7237,
+            "profile_path": null,
+            "credit_id": "66f61da386862fa4b45094a1",
+            "department": "Sound",
+            "job": "Foley Artist"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1466996,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Julie Dartnell",
+            "original_name": "Julie Dartnell",
+            "popularity": 0.7603,
+            "profile_path": null,
+            "credit_id": "6834a99bbc1e644c7a8382b8",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Designer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1466996,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Julie Dartnell",
+            "original_name": "Julie Dartnell",
+            "popularity": 0.7603,
+            "profile_path": null,
+            "credit_id": "6834a9adb549f0d27da86f20",
+            "department": "Costume & Make-Up",
+            "job": "Hair Designer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 922,
+            "name": "hotel room"
+        },
+        {
+            "id": 4129,
+            "name": "widow"
+        },
+        {
+            "id": 18732,
+            "name": "sexual repression"
+        },
+        {
+            "id": 41404,
+            "name": "sexual desire"
+        },
+        {
+            "id": 157799,
+            "name": "older woman younger man relationship"
+        },
+        {
+            "id": 162804,
+            "name": "sexual awakening"
+        },
+        {
+            "id": 187056,
+            "name": "woman director"
+        },
+        {
+            "id": 190178,
+            "name": "sex worker"
+        },
+        {
+            "id": 213286,
+            "name": "sexual encounter"
+        },
+        {
+            "id": 217001,
+            "name": "nervousness"
+        },
+        {
+            "id": 233689,
+            "name": "self image"
+        },
+        {
+            "id": 267122,
+            "name": "sex"
+        },
+        {
+            "id": 322942,
+            "name": "adventure"
+        },
+        {
+            "id": 328430,
+            "name": "retired teacher"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/40JNQ4FOekM1LDgUC5mDcM8bZyl.jpg",
+            "id": 802,
+            "title": "Lolita",
+            "original_title": "Lolita",
+            "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
+            "poster_path": "/8Puqbeh0D95DpXFWep1rmH78btu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 21.0197,
+            "release_date": "1962-06-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.304,
+            "vote_count": 2272
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b9diKSmofRcgjbUxDrSPms82yAN.jpg",
+            "id": 9769,
+            "title": "Lolita",
+            "original_title": "Lolita",
+            "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
+            "poster_path": "/9INcC14WZjCMKGE360VXmklCLdZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 20.2536,
+            "release_date": "1997-09-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.105,
+            "vote_count": 1999
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4E5iitr7WbHdK7P6pMVT4iNMIp4.jpg",
+            "id": 15720,
+            "title": "The Man from Elysian Fields",
+            "original_title": "The Man from Elysian Fields",
+            "overview": "A failed novelist's inability to pay the bills strains relations with his wife and leads him to work at an escort service, where he becomes entwined with a wealthy woman whose husband is a successful writer.",
+            "poster_path": "/mCUzyYDMHNdihZVTVH1g3KvTo8p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 4.2276,
+            "release_date": "2001-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sKnbKlgMDCTDTtKm91wJ4vSbyIH.jpg",
+            "id": 192145,
+            "title": "Third Person",
+            "original_title": "Third Person",
+            "overview": "An acclaimed novelist struggles to write an analysis of love in one of three stories, each set in a different city, that detail the beginning, middle and end of a relationship.",
+            "poster_path": "/8HfxGEbQnPvIzaYAHMvu947r8sQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.8999,
+            "release_date": "2014-06-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.89,
+            "vote_count": 651
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yme0UvacQuWaZK9QiywD6lvx0Oz.jpg",
+            "id": 41003,
+            "title": "White Palace",
+            "original_title": "White Palace",
+            "overview": "Max Baron is a Jewish advertising executive in his 20s who's still getting over the death of his wife. Nora Baker is a 40-something diner waitress who enjoys the wilder side of life. Mismatched or not, their attraction is instant and smoldering. With time, however, their class and age differences become an obstacle in their relationship, especially since Max can't keep Nora a secret from his Jewish friends and upper-crust associates forever.",
+            "poster_path": "/nUxEeMzDNIrxlUXTmg3ApKj4EhU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 4.6153,
+            "release_date": "1990-10-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tMtXSrEeh2rueJQVWMom78ZBhG0.jpg",
+            "id": 364733,
+            "title": "Blind",
+            "original_title": "Blind",
+            "overview": "A novelist is blinded in a car crash that killed his wife and several years later rediscovers his passion for life and writing when he embarks on an affair with the neglected wife of an indicted businessman.",
+            "poster_path": "/cXyObe5aB63ueOndEXxXabgAvIi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.604,
+            "release_date": "2017-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.11,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+            "id": 337167,
+            "title": "Fifty Shades Freed",
+            "original_title": "Fifty Shades Freed",
+            "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+            "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 21.7635,
+            "release_date": "2018-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.67,
+            "vote_count": 8405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AlqDoPCHBqrqRNpAWkAmltIFTR1.jpg",
+            "id": 73454,
+            "title": "X",
+            "original_title": "X",
+            "overview": "A veteran call girl and a runaway prostitute witness a murder which sends them on an out-of-control roller coaster ride through the twilight zone of sex-for-sale.",
+            "poster_path": "/nvU6uTwSpMpitM6mnuYXb1LgxxX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                10749
+            ],
+            "popularity": 7.6368,
+            "release_date": "2011-11-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.401,
+            "vote_count": 324
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lX3ag7lRucBnplL2nQiYkOyssbj.jpg",
+            "id": 391714,
+            "title": "On Chesil Beach",
+            "original_title": "On Chesil Beach",
+            "overview": "In 1962 England, a young couple finds their idyllic romance colliding with issues of sexual freedom and societal pressure, leading to an awkward and fateful wedding night.",
+            "poster_path": "/7uRdd5NawI9iTQ5oWIKYjqNkyc1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.4218,
+            "release_date": "2018-01-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.118,
+            "vote_count": 393
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nKg5kyHwYzJU7US64unJfCkjQEd.jpg",
+            "id": 59210,
+            "title": "The Mother",
+            "original_title": "The Mother",
+            "overview": "A grandmother has a passionate affair with a man half her age, who is also sleeping with her daughter.",
+            "poster_path": "/uCoIolCRu8edvQidFDMOdKLPH3t.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.9904,
+            "release_date": "2003-11-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.993,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+            "id": 216015,
+            "title": "Fifty Shades of Grey",
+            "original_title": "Fifty Shades of Grey",
+            "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+            "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "popularity": 22.3208,
+            "release_date": "2015-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.865,
+            "vote_count": 12484
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qoxriJ6n1qxvG1bBMPnsZBHKGco.jpg",
+            "id": 11845,
+            "title": "Intimacy",
+            "original_title": "Intimacy",
+            "overview": "Failed musician Jay abandoned his family and now earns a living as head bartender in a trendy London pub. Every Wednesday afternoon, a woman comes to his house for graphic, almost wordless, sex. One day, Jay follows her and learns about her. This eventually disrupts their relationship.",
+            "poster_path": "/aiPhBVo2eNhuPw5Pezx4BHagvUx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18,
+                14
+            ],
+            "popularity": 8.1284,
+            "release_date": "2001-01-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.221,
+            "vote_count": 557
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AdRO1ZGa8Or4inBr8Bb557NV0Ba.jpg",
+            "id": 172226,
+            "title": "In Secret",
+            "original_title": "In Secret",
+            "overview": "In 1860s Paris, a young woman, Therese, is trapped in a loveless marriage to the sickly Camille by her domineering aunt, Madame Raquin. She spends her days behind the counter of a small shop and her evenings watching Madame play dominos with an eclectic group. After she meets her husband’s alluring friend, Laurent, she embarks on an illicit affair that leads to tragic consequences. Based on Emile Zola’s novel, Thérèse Raquin.",
+            "poster_path": "/iJSTzDyF2BKB9mcor7slIOOXSBD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                80,
+                10749
+            ],
+            "popularity": 8.6068,
+            "release_date": "2014-02-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.12,
+            "vote_count": 258
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/egVj5Y9f79xPnyAQJmeDR0Uwow3.jpg",
+            "id": 2251,
+            "title": "Unfaithful",
+            "original_title": "Unfaithful",
+            "overview": "A New York suburban couple's marriage goes dangerously awry when the wife indulges in an adulterous fling.",
+            "poster_path": "/bjiHEhuiwhIygzjczbTPAA07cGc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18,
+                10749
+            ],
+            "popularity": 20.1616,
+            "release_date": "2002-05-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.711,
+            "vote_count": 1769
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xNNF4l1OVscJNchJc5xvejHzTDO.jpg",
+            "id": 370663,
+            "title": "Below Her Mouth",
+            "original_title": "Below Her Mouth",
+            "overview": "An unexpected affair quickly escalates into a heart-stopping reality for two women whose passionate connection changes their lives forever.",
+            "poster_path": "/tPhBftWySbanfEialbsUzOuccgN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 10.7772,
+            "release_date": "2017-02-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.816,
+            "vote_count": 1311
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5QKddKk1qEe8CwWYpklmKq68uyo.jpg",
+            "id": 1312946,
+            "title": "The Map That Leads to You",
+            "original_title": "The Map That Leads to You",
+            "overview": "Heather is a young woman traveling Europe with friends before starting her perfectly planned life. A chance meeting with Jack sparks an unexpected romance that leads to deep emotional discovery. As secrets and life choices test their bond, her path changes forever.",
+            "poster_path": "/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 8.6388,
+            "release_date": "2025-08-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.615,
+            "vote_count": 334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vyqmGMafFwTa8phpx234MGFIuE6.jpg",
+            "id": 19214,
+            "title": "Passion of Mind",
+            "original_title": "Passion of Mind",
+            "overview": "A psychological romantic thriller where fantasy and reality become indistinguishable for a woman leading a double life in her dreams.",
+            "poster_path": "/A7lzVd2YHz85pgOugGJCJ983bQB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.1475,
+            "release_date": "2000-01-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.833,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uqYjy4MwB4vZScpUPGdINVaSeTd.jpg",
+            "id": 451,
+            "title": "Leaving Las Vegas",
+            "original_title": "Leaving Las Vegas",
+            "overview": "Ben Sanderson, an alcoholic Hollywood screenwriter who lost everything because of his drinking, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
+            "poster_path": "/wIfP6uLXD9Ptu68SyRx8WuSNNSK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 6.7433,
+            "release_date": "1995-10-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.255,
+            "vote_count": 1689
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vKvoOlhhaZCsiGQDvaZQqyGq1oA.jpg",
+            "id": 851,
+            "title": "Brief Encounter",
+            "original_title": "Brief Encounter",
+            "overview": "Returning home from a shopping trip to a nearby town, bored suburban housewife Laura Jesson is thrown by happenstance into an acquaintance with virtuous doctor Alec Harvey. Their casual friendship soon develops during their weekly visits into something more emotionally fulfilling than either expected, and they must wrestle with the potential havoc their deepening relationship would have on their lives and the lives of those they love.",
+            "poster_path": "/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.1392,
+            "release_date": "1945-11-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 717
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6GGsUgmef5MIfJnnp2fGvkFWRg6.jpg",
+            "id": 1059073,
+            "title": "Winter Spring Summer or Fall",
+            "original_title": "Winter Spring Summer or Fall",
+            "overview": "Remi and Barnes, two very different teenagers, meet by chance in the winter of their senior year, then spend four  days together over the course of a year that will change their lives forever.",
+            "poster_path": "/mEPi5ISa5RmzpzeDfwkhX0CcNsf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 4.8765,
+            "release_date": "2024-12-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 251
+        }
+    ]
+}

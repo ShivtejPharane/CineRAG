@@ -1,0 +1,1083 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/kiyKsB203WpuuFVhGd7o9tU5Dak.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1337148,
+        "imdb_id": "tt27907966",
+        "origin_country": [
+            "EG"
+        ],
+        "original_language": "ar",
+        "original_title": "عائشة لا تستطيع الطيران",
+        "overview": "Aisha, a 26-year-old Sudanese woman, lives in Ain-Shams, a neighborhood in Cairo with a large African migrant community. The authorities’ indifference to the violent tensions between Egyptians and various African nationalities, has allowed different gangs to seize control of the neighborhood. The situation quickly turns sour after one of them offers Aisha security in exchange for a favor.",
+        "popularity": 29.1098,
+        "poster_path": "/no8SXwqDhAVE8SMDILdEqS6qxh8.jpg",
+        "production_companies": [
+            {
+                "id": 187033,
+                "logo_path": "/reXWjaxqBejUtfkLKYO5gs3YpWs.png",
+                "name": "Station Films",
+                "origin_country": "SD"
+            },
+            {
+                "id": 13728,
+                "logo_path": "/bpsUvoLS3Xms2xXOPQFq5nLZI5J.png",
+                "name": "Nomadis Images",
+                "origin_country": "TN"
+            },
+            {
+                "id": 94688,
+                "logo_path": "/stD0eT3eNqWRzex8iwklTN2txu7.png",
+                "name": "MAD Solutions",
+                "origin_country": "EG"
+            },
+            {
+                "id": 157610,
+                "logo_path": "/9Bc2upRaLIrbGvasOeBDwRW99lt.png",
+                "name": "Lagoonie Film Production",
+                "origin_country": "EG"
+            },
+            {
+                "id": 34320,
+                "logo_path": "/wiYuQiEr15YGdedQP1h9vzsGXVf.png",
+                "name": "Film Clinic",
+                "origin_country": "EG"
+            },
+            {
+                "id": 1873,
+                "logo_path": "/911T70eQ0qxId7NN31zV8YpMWFE.png",
+                "name": "Sophie Dulac Productions",
+                "origin_country": "FR"
+            },
+            {
+                "id": 199598,
+                "logo_path": "/ubRIT2LDJslOEtTfGlShErXX1ee.png",
+                "name": "CineWaves Films",
+                "origin_country": "SA"
+            },
+            {
+                "id": 236960,
+                "logo_path": "/aZvDcwikldp5hhRgUBoVKoYiy8g.png",
+                "name": "Bonanza Films",
+                "origin_country": "EG"
+            },
+            {
+                "id": 236961,
+                "logo_path": null,
+                "name": "AAFilms",
+                "origin_country": "EG"
+            },
+            {
+                "id": 211780,
+                "logo_path": "/zSug2orShQHFz6yauNqie4w0Kgr.png",
+                "name": "Coorigines Production",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "EG",
+                "name": "Egypt"
+            },
+            {
+                "iso_3166_1": "QA",
+                "name": "Qatar"
+            },
+            {
+                "iso_3166_1": "TN",
+                "name": "Tunisia"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "SD",
+                "name": "Sudan"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "SA",
+                "name": "Saudi Arabia"
+            }
+        ],
+        "release_date": "2025-05-20",
+        "revenue": 0,
+        "runtime": 131,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Arabic",
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Aisha Can't Fly Away",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4898175,
+            "known_for_department": "Acting",
+            "name": "Buliana Simon Arop",
+            "original_name": "Buliana Simona",
+            "popularity": 0.2302,
+            "profile_path": "/2JHbBBiORCL8KsLmaYEm5sCFvFE.jpg",
+            "cast_id": 2,
+            "character": "Aisha",
+            "credit_id": "66c66836af88c1f6f052915e",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4278126,
+            "known_for_department": "Acting",
+            "name": "Ziad Zaza",
+            "original_name": "Ziad Zaza",
+            "popularity": 0.3962,
+            "profile_path": "/yl5YddiGGpsM3HXJgDhgjUsglGD.jpg",
+            "cast_id": 3,
+            "character": "Zuka",
+            "credit_id": "66c6683ceecff1ee68fa3c74",
+            "order": 1
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 1887421,
+            "known_for_department": "Acting",
+            "name": "Emad Ghoneim",
+            "original_name": "Emad Ghoniem",
+            "popularity": 0.0,
+            "profile_path": "/zBPrEVfDlVcMykBuz1WLLXsScMH.jpg",
+            "cast_id": 4,
+            "character": "Abdoun",
+            "credit_id": "66c66841b4015ba503fa3c97",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4898177,
+            "known_for_department": "Acting",
+            "name": "Mamdouh Saleh",
+            "original_name": "Mamdouh Saleh",
+            "popularity": 0.57,
+            "profile_path": "/zYyXLVfCfFX5yNpiEfLcbzRLg7K.jpg",
+            "cast_id": 5,
+            "character": "Khalil",
+            "credit_id": "66c668478b2837534039358f",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3573316,
+            "known_for_department": "Acting",
+            "name": "Maha Mohammed Al-Adwani",
+            "original_name": "Maha Mohammed Al-Adwani",
+            "popularity": 0.6044,
+            "profile_path": "/80VYO6nN3oIzfhAzbxDbZ36lQ8x.jpg",
+            "cast_id": 30,
+            "character": "Tawfiqah",
+            "credit_id": "66c66ce771d61dc42e36cf39",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4898219,
+            "known_for_department": "Acting",
+            "name": "Mohamed Abd El Hady",
+            "original_name": "Mohamed Abd El Hady",
+            "popularity": 0.1638,
+            "profile_path": null,
+            "cast_id": 31,
+            "character": "Mr. Abdelhady",
+            "credit_id": "66c66cf8b7c0c54444a2decd",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4898221,
+            "known_for_department": "Acting",
+            "name": "Achai Ayom",
+            "original_name": "Achai Ayom",
+            "popularity": 0.2074,
+            "profile_path": "/yuBhTvWvQUkC84NdJOa8COfMWqe.jpg",
+            "cast_id": 32,
+            "character": "",
+            "credit_id": "66c66d1f810e7708f9906c34",
+            "order": 6
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1115945,
+            "known_for_department": "Production",
+            "name": "Mohamed Hefzy",
+            "original_name": "Mohamed Hefzy",
+            "popularity": 0.5103,
+            "profile_path": "/lHIeWkPanABjWpE7dXHMWCx6gQJ.jpg",
+            "credit_id": "66c668b6d8186e3b31acbf64",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2945919,
+            "known_for_department": "Production",
+            "name": "Faisal Baltyuor",
+            "original_name": "Faisal Baltyuor",
+            "popularity": 0.3354,
+            "profile_path": "/kenAvB99lN3TW1mI0vIXRJwaw4z.jpg",
+            "credit_id": "66c668c6435b027a72fa3c7d",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4898216,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Amr Abdallah",
+            "original_name": "Amr Abdallah",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "credit_id": "66c66cb6f36c7c620facc055",
+            "department": "Costume & Make-Up",
+            "job": "Special Effects Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4898211,
+            "known_for_department": "Production",
+            "name": "Ahmed Rahal",
+            "original_name": "Ahmed Rahal",
+            "popularity": 0.2088,
+            "profile_path": null,
+            "credit_id": "66c66c73acba8a51df033a29",
+            "department": "Production",
+            "job": "Producer's Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1976232,
+            "known_for_department": "Directing",
+            "name": "Amjad Abu Alala",
+            "original_name": "Amjad Abu Alala",
+            "popularity": 0.4985,
+            "profile_path": "/sKyWayOqv1eWDGUKGfn8WKxlNa5.jpg",
+            "credit_id": "66c6690b435b027a72fa3c81",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4034906,
+            "known_for_department": "Production",
+            "name": "Maher Diab",
+            "original_name": "Maher Diab",
+            "popularity": 0.224,
+            "profile_path": null,
+            "credit_id": "66c668d7c42459ace0651a2d",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3200157,
+            "known_for_department": "Sound",
+            "name": "Moustafa Shaaban Abdelhamid",
+            "original_name": "Moustafa Shaaban Abdelhamid",
+            "popularity": 0.1786,
+            "profile_path": null,
+            "credit_id": "66c66c83fe1f5c5e785290be",
+            "department": "Sound",
+            "job": "Sound"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4654248,
+            "known_for_department": "Acting",
+            "name": "Jimmy Mohamed",
+            "original_name": "Jimmy Mohamed",
+            "popularity": 0.2171,
+            "profile_path": null,
+            "credit_id": "66c66c627010d1c3eb39357f",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1159577,
+            "known_for_department": "Production",
+            "name": "Dora Bouchoucha",
+            "original_name": "Dora Bouchoucha",
+            "popularity": 0.3889,
+            "profile_path": null,
+            "credit_id": "66c668be78caee5ffe36cf45",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4898181,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Nayera El Dahshoury",
+            "original_name": "Nayera El Dahshoury",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "credit_id": "66c6688cc7683b2f65a2dfb5",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4898186,
+            "known_for_department": "Production",
+            "name": "Shahinaz El Akkad",
+            "original_name": "Shahinaz El Akkad",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "credit_id": "66c668ef6aee49c710d1ebc6",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4774995,
+            "known_for_department": "Art",
+            "name": "Eman Elalby",
+            "original_name": "Eman Elalby",
+            "popularity": 0.2027,
+            "profile_path": null,
+            "credit_id": "66c66871d8186e3b31acbf61",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3200150,
+            "known_for_department": "Production",
+            "name": "Sawsan Yusuf",
+            "original_name": "Sawsan Yusuf",
+            "popularity": 0.3976,
+            "profile_path": null,
+            "credit_id": "66c6698b7198c693d3a2dea5",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1719425,
+            "known_for_department": "Writing",
+            "name": "Ahmad Amer",
+            "original_name": "أحمد عامر",
+            "popularity": 0.6801,
+            "profile_path": "/DZYAGtpFvRdMIyxwZ7kHs23NFT.jpg",
+            "credit_id": "66c668fba548e07722a2df38",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3071160,
+            "known_for_department": "Acting",
+            "name": "Ayman Mansour",
+            "original_name": "Ayman Mansour",
+            "popularity": 0.4185,
+            "profile_path": "/ivsDldvdaVOgdl5UNk9NvcyDoXu.jpg",
+            "credit_id": "66c66c94ee45cac2d1acbf6c",
+            "department": "Production",
+            "job": "Casting Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2768315,
+            "known_for_department": "Editing",
+            "name": "Mohamed Mamdouh",
+            "original_name": "Mohamed Mamdouh",
+            "popularity": 0.3864,
+            "profile_path": null,
+            "credit_id": "66c66896810e7708f9906c11",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4034907,
+            "known_for_department": "Production",
+            "name": "Alaa Karkouti",
+            "original_name": "Alaa Karkouti",
+            "popularity": 0.2228,
+            "profile_path": null,
+            "credit_id": "66c668cffe1f5c5e785290a9",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4898209,
+            "known_for_department": "Writing",
+            "name": "Mohammad Abdulqader",
+            "original_name": "Mohammad Abdulqader",
+            "popularity": 0.1472,
+            "profile_path": null,
+            "credit_id": "66c66c517e81a9019e36cfa0",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3200131,
+            "known_for_department": "Camera",
+            "name": "Mostafa El Kashef",
+            "original_name": "Mostafa El Kashef",
+            "popularity": 0.3922,
+            "profile_path": null,
+            "credit_id": "66c668604ffe61a2ddacbf77",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3200150,
+            "known_for_department": "Production",
+            "name": "Sawsan Yusuf",
+            "original_name": "Sawsan Yusuf",
+            "popularity": 0.3976,
+            "profile_path": null,
+            "credit_id": "66c668a39e34d1fe7ffa3c7d",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 42434,
+            "known_for_department": "Production",
+            "name": "Michel Zana",
+            "original_name": "Michel Zana",
+            "popularity": 0.3679,
+            "profile_path": null,
+            "credit_id": "66c6691db8dd9602fdd1ebf6",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4898215,
+            "known_for_department": "Production",
+            "name": "Ahmed Hashem",
+            "original_name": "Ahmed Hashem",
+            "popularity": 0.138,
+            "profile_path": null,
+            "credit_id": "66c66ca65d6c1545a5d60677",
+            "department": "Production",
+            "job": "Casting Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4898217,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Salma Omara",
+            "original_name": "Salma Omara",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "credit_id": "66c66cbe912210473b39364d",
+            "department": "Costume & Make-Up",
+            "job": "Special Effects Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2768359,
+            "known_for_department": "Directing",
+            "name": "Murad Mustafa",
+            "original_name": "Murad Mustafa",
+            "popularity": 0.3817,
+            "profile_path": "/da2Ddw1y2IiYfyNxblJLdCZ6TLq.jpg",
+            "credit_id": "66c66ec17e81a9019e36cfb2",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2768359,
+            "known_for_department": "Directing",
+            "name": "Murad Mustafa",
+            "original_name": "Murad Mustafa",
+            "popularity": 0.3817,
+            "profile_path": "/da2Ddw1y2IiYfyNxblJLdCZ6TLq.jpg",
+            "credit_id": "66c66ed0e9c99b1804d60667",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4335463,
+            "known_for_department": "Production",
+            "name": "Laura Nikolov",
+            "original_name": "Laura Nikolov",
+            "popularity": 0.4333,
+            "profile_path": null,
+            "credit_id": "684fd9a3b68cba1afa1ecd53",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2563747,
+            "known_for_department": "Production",
+            "name": "May Odeh",
+            "original_name": "May Odeh",
+            "popularity": 0.2876,
+            "profile_path": "/rIODGGFF4lQliqXmeDDBhM00jCt.jpg",
+            "credit_id": "69e884d29d0327a7ba240a27",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1123123,
+            "known_for_department": "Acting",
+            "name": "Zorana Musikic",
+            "original_name": "Zorana Musikic",
+            "popularity": 0.2724,
+            "profile_path": null,
+            "credit_id": "69e884f2ac4994d8fbc012dd",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5081753,
+            "known_for_department": "Production",
+            "name": "Abdullah Al Ahmari",
+            "original_name": "Abdullah Al Ahmari",
+            "popularity": 0.1096,
+            "profile_path": null,
+            "credit_id": "69e8852596ddacea65e0cc10",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1976232,
+            "known_for_department": "Directing",
+            "name": "Amjad Abu Alala",
+            "original_name": "Amjad Abu Alala",
+            "popularity": 0.4985,
+            "profile_path": "/sKyWayOqv1eWDGUKGfn8WKxlNa5.jpg",
+            "credit_id": "69e88540bb68e5674de0cd05",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6031148,
+            "known_for_department": "Production",
+            "name": "Alexis Auffret",
+            "original_name": "Alexis Auffret",
+            "popularity": 0.3346,
+            "profile_path": null,
+            "credit_id": "69e886edac4994d8fbc012e0",
+            "department": "Production",
+            "job": "Production Assistant"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/b0qfFTzpzDGNqK1NUdALroL2XLG.jpg",
+            "id": 777620,
+            "title": "Caged",
+            "original_title": "Caged",
+            "overview": "An African American male is imprisoned and placed in solitary confinement after being found guilty of murdering his wife, as he's haunted by internal demons and his dead wife, and pushed to the breaking point by an abusive female guard.",
+            "poster_path": "/8NUM43rtQSt0chumXGJPvnYb01I.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27,
+                18
+            ],
+            "popularity": 1.9644,
+            "release_date": "2021-01-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.252,
+            "vote_count": 123
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mFhaWSCPSidNjsLD0yzwypajDvS.jpg",
+            "id": 157351,
+            "title": "The Truth About Emanuel",
+            "original_title": "The Truth About Emanuel",
+            "overview": "A troubled young woman becomes obsessed with her mysterious new neighbor, who bears a striking resemblance to the girl's dead mother.",
+            "poster_path": "/z98jqAlVlnXyYnTlC95Na8FQXHF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "popularity": 2.6442,
+            "release_date": "2013-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 301
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dmgFJdivUmV4vGLkbPD49KVjlHx.jpg",
+            "id": 395458,
+            "title": "Suburbicon",
+            "original_title": "Suburbicon",
+            "overview": "In the quiet family town of Suburbicon during the 1950s, the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge and murder.",
+            "poster_path": "/yqYwf0kPK2SaCWM80msl4nYK6U7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                18,
+                9648
+            ],
+            "popularity": 5.497,
+            "release_date": "2017-10-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 1828
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ocF2ZRaQ2QD4obmjhUM1p5mdpc4.jpg",
+            "id": 132137,
+            "title": "Werewolf: The Beast Among Us",
+            "original_title": "Werewolf: The Beast Among Us",
+            "overview": "Set in a 19th century village, a young man studying under a local doctor joins a team of hunters on the trail of a wolf-like creature.",
+            "poster_path": "/9VHFRTE8TWSL2ivZaVcUEu6ACc1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "popularity": 3.6746,
+            "release_date": "2012-10-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.886,
+            "vote_count": 273
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/84DgFoFDppvf3i5MKZzOctx9HFz.jpg",
+            "id": 1220566,
+            "title": "Eagles of the Republic",
+            "original_title": "Eagles of the Republic",
+            "overview": "George Fahmy, Egypt's most adored actor, is pressured to star in a film commissioned by the highest authorities. He reluctantly accepts and finds himself thrown into the inner circle of power. Like moth drawn to flame, he begins an affair with the mysterious wife of the general overseeing the project.",
+            "poster_path": "/f9MzpMfbBL4PknhKqoQpIUdskTl.jpg",
+            "media_type": "movie",
+            "original_language": "ar",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 3.633,
+            "release_date": "2025-09-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.898,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yZpAb2uqzcSJmdF9K9ks6yhvB2l.jpg",
+            "id": 31863,
+            "title": "True Believer",
+            "original_title": "True Believer",
+            "overview": "Eddie Dodd is a burnt out former civil rights lawyer who now specializes in defending drug dealers. Roger Baron, newly graduated from law school, has followed Eddie's great cases and now wants to learn at his feet. With Roger's idealistic prodding, Eddie reluctantly takes on a case of a young Korean man who, according to his mother, has been in jail for eight years for a murder he didn't commit.",
+            "poster_path": "/ouL2ibaIdTMobM1CUlZxKauJBaM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "popularity": 2.5279,
+            "release_date": "1989-02-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.234,
+            "vote_count": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bmyugjdRl1aEOfBePwUpykIY3x3.jpg",
+            "id": 12888,
+            "title": "Belly",
+            "original_title": "Belly",
+            "overview": "Tommy Bundy and Sincere are best friends as well as infamous and ruthless criminals and shot-callers in the hood. Respected by many but feared by all.  As the police are closing in on them and new players are looking for a come up, will their reign last?",
+            "poster_path": "/i4QhjdZXxdOpKOhc9kh4qqWjRWr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "popularity": 2.8181,
+            "release_date": "1998-11-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.261,
+            "vote_count": 180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xlZM7eymDabtzi3SMW3QGpLKDXx.jpg",
+            "id": 846956,
+            "title": "Rogue Agent",
+            "original_title": "Rogue Agent",
+            "overview": "Conman Robert Freegard poses as an undercover MI5 agent and kidnaps countless victims amidst a high-stakes manhunt, until the woman who fell for him brings him to justice.",
+            "poster_path": "/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 5.654,
+            "release_date": "2022-08-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+            "id": 1292415,
+            "title": "Beast",
+            "original_title": "Beast",
+            "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+            "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 24.9366,
+            "release_date": "2026-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kwdSImlpOKypvWMmVJWL42tQQa4.jpg",
+            "id": 333674,
+            "title": "Intruders",
+            "original_title": "Intruders",
+            "overview": "Anna suffers from agoraphobia so crippling that when a trio of criminals break into her house, she cannot bring herself to flee. But what the intruders don't realize is that agoraphobia is not her only psychosis.",
+            "poster_path": "/5zRiFh5d1hWmYDqcYKz6uSUXKnl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                27
+            ],
+            "popularity": 2.4829,
+            "release_date": "2015-06-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.894,
+            "vote_count": 520
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6DSXmqDufJj30TDUkw6WngZffd.jpg",
+            "id": 216580,
+            "title": "Savaged",
+            "original_title": "Savaged",
+            "overview": "After thugs brutalize a deaf-mute woman, the spirit of an Apache warrior takes over her lifeless body and sets out on a bloodthirsty quest for revenge.",
+            "poster_path": "/bsPV6pXVDTAGbl4Tg4xWkm3Kkl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                27,
+                53
+            ],
+            "popularity": 3.3807,
+            "release_date": "2014-08-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.653,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rzchR1ZQQlj5bCfEUdrTZsC5CF2.jpg",
+            "id": 740903,
+            "title": "The Unhealer",
+            "original_title": "The Unhealer",
+            "overview": "A botched faith healing bestows supernatural Shaman powers on a bullied teenager. When his lifelong tormentors pull a prank that kills someone he loves, he uses his powers for revenge and goes on a bloody rampage to settle the score.",
+            "poster_path": "/jEuKhYfeS4dz0uQj1yTZ2Gl8yNH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                53,
+                27
+            ],
+            "popularity": 4.1708,
+            "release_date": "2021-12-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "id": 14041,
+            "title": "Civic Duty",
+            "original_title": "Civic Duty",
+            "overview": "An American accountant bombarded with cable news and the media's obsession with terrorist plots in the post 9-11 world, receives a jolt when an unattached Islamic graduate student moves in next door.",
+            "poster_path": "/mmRTv1Ipg91Nxlvo7aj5dKt7UCA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                53
+            ],
+            "popularity": 2.1466,
+            "release_date": "2006-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.133,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f74BDYMlNCYf797Wj0guOzDXFyz.jpg",
+            "id": 933090,
+            "title": "Starve Acre",
+            "original_title": "Starve Acre",
+            "overview": "When their son starts acting strangely, a couple unwittingly allow dark and sinister forces into their home, awakening a long-dormant ancient evil rooted deep in the countryside.",
+            "poster_path": "/5j37QHXuNygzEa2X54RMlOb6hj3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                18,
+                14
+            ],
+            "popularity": 3.4598,
+            "release_date": "2024-07-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.918,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3h1AXkYA1yazZaFPVA12FtmtYye.jpg",
+            "id": 761563,
+            "title": "Medusa",
+            "original_title": "Medusa",
+            "overview": "After being bitten by a lethal snake, a young woman experiences changes in her senses and appearance, as she sheds her old self and slowly turns into a deadly weapon.",
+            "poster_path": "/fs8RXnnJkYKo53R8A6eakzcTTHj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                18,
+                14
+            ],
+            "popularity": 1.596,
+            "release_date": "2020-11-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.189,
+            "vote_count": 196
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Aqldsq65Nj1KAkQD2MzkZsAk5N5.jpg",
+            "id": 846433,
+            "title": "The Enforcer",
+            "original_title": "The Enforcer",
+            "overview": "A noir thriller set in Miami, the film follows an enforcer who discovers his femme fatale boss has branched out into cyber sex trafficking, putting a young runaway he’s befriended at risk. He sacrifices everything to save the young girl from the deadly organization he’s spent his life building.",
+            "poster_path": "/72V1r1G8S87ELagVxjqAUdChMCt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "popularity": 5.7541,
+            "release_date": "2022-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.054,
+            "vote_count": 514
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hD5F3Y98ksgjikInJoRsGD19efp.jpg",
+            "id": 48129,
+            "title": "Run",
+            "original_title": "Run",
+            "overview": "When a law student accidentally kills the son of a mob boss in a fight, he finds himself relentlessly pursued by the mob and the police.",
+            "poster_path": "/w4sxXgXpALEDFexRZE9cb3j8bb2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                18
+            ],
+            "popularity": 2.8307,
+            "release_date": "1991-02-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.037,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aO5ILS7qnqtFIprbJ40zla0jhpu.jpg",
+            "id": 741067,
+            "title": "Welcome to Sudden Death",
+            "original_title": "Welcome to Sudden Death",
+            "overview": "Jesse Freeman is a former special forces officer and explosives expert now working a regular job as a security guard in a state-of-the-art basketball arena. Trouble erupts when a tech-savvy cadre of terrorists kidnap the team's owner and Jesse's daughter during opening night. Facing a ticking clock and impossible odds, it's up to Jesse to not only save them but also a full house of fans in this highly charged action thriller.",
+            "poster_path": "/elZ6JCzSEvFOq4gNjNeZsnRFsvj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 2.5605,
+            "release_date": "2020-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 300
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rdcfJttCMCcq3eeOmT10dyc6X7O.jpg",
+            "id": 14524,
+            "title": "Cass",
+            "original_title": "Cass",
+            "overview": "The incredible true story of how an orphaned Jamaican baby, adopted by an elderly white couple and brought up in an all white area of London, became one of the most feared and respected men in Britain.",
+            "poster_path": "/9tZLlHdNe8f9iJ8rGmCiiQgDMuU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "popularity": 2.3525,
+            "release_date": "2008-01-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.891,
+            "vote_count": 78
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6m3K1hizm5yoguOsAcIjNSECn5b.jpg",
+            "id": 1319951,
+            "title": "40 Acres",
+            "original_title": "40 Acres",
+            "overview": "Hailey Freeman and her family are the last descendants of African American farmers who settled in rural Canada after the Civil War. In a famine-decimated near future, they now struggle to safeguard their farm, as they make one last stand against a vicious militia hell-bent on taking their 40 Acres.",
+            "poster_path": "/3zCEo21Y9wVFBgGhgDVWCyvMZ47.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                18,
+                14,
+                27
+            ],
+            "popularity": 3.6363,
+            "release_date": "2025-07-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.711,
+            "vote_count": 161
+        }
+    ]
+}

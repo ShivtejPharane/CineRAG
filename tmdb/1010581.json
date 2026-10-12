@@ -1,0 +1,1259 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+        "belongs_to_collection": {
+            "id": 1156666,
+            "name": "Fault Collection",
+            "poster_path": "/sClS8nmwN9uVRy4rzwzil01aTY9.jpg",
+            "backdrop_path": "/7N9p8D39MXJDfm14zlBwW7mBh7g.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.amazon.com/gp/video/detail/B0B683GY1G",
+        "id": 1010581,
+        "imdb_id": "tt21909764",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Culpa mía",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "popularity": 39.9792,
+        "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "production_companies": [
+            {
+                "id": 32485,
+                "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
+                "name": "Pokeepsie Films",
+                "origin_country": "ES"
+            },
+            {
+                "id": 208240,
+                "logo_path": "/hYREaYiVyoGVP26CbDpAWD3wDRD.png",
+                "name": "Amazon Studios",
+                "origin_country": "ES"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2023-06-08",
+        "revenue": 0,
+        "runtime": 116,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Love can only survive in the shadow of secrets.",
+        "title": "My Fault",
+        "video": false,
+        "vote_average": 7.729,
+        "vote_count": 4155
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2527414,
+            "known_for_department": "Acting",
+            "name": "Nicole Wallace",
+            "original_name": "Nicole Wallace",
+            "popularity": 4.4288,
+            "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+            "cast_id": 1,
+            "character": "Noah Morán",
+            "credit_id": "62f2a7a041ad8d007f30fd8f",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2786960,
+            "known_for_department": "Acting",
+            "name": "Gabriel Guevara",
+            "original_name": "Gabriel Guevara",
+            "popularity": 6.0825,
+            "profile_path": "/pviRYKEEmoPUfLYwP1VHJ6LQcRg.jpg",
+            "cast_id": 2,
+            "character": "Nick Leister",
+            "credit_id": "62f2a7af5be00e007ad98d66",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 970027,
+            "known_for_department": "Acting",
+            "name": "Marta Hazas",
+            "original_name": "Marta Hazas",
+            "popularity": 1.6848,
+            "profile_path": "/1dbeTFRCbWBt70dIGjYHKVLnpaG.jpg",
+            "cast_id": 5,
+            "character": "Rafaella Leister",
+            "credit_id": "62f2a97d85b105008524e587",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1251336,
+            "known_for_department": "Acting",
+            "name": "Iván Sánchez",
+            "original_name": "Iván Sánchez",
+            "popularity": 0.9331,
+            "profile_path": "/woVz8D7t1VUKjFJnsTAdc8tyz5C.jpg",
+            "cast_id": 9,
+            "character": "William Leister",
+            "credit_id": "64844d43bf31f25057061756",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4105602,
+            "known_for_department": "Acting",
+            "name": "Eva Ruiz",
+            "original_name": "Eva Ruiz",
+            "popularity": 1.4799,
+            "profile_path": "/bcu0nmQvhxwTzh4csc4kuxJsQee.jpg",
+            "cast_id": 11,
+            "character": "Jenna",
+            "credit_id": "648473efe375c000ff485958",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2126335,
+            "known_for_department": "Acting",
+            "name": "Víctor Varona",
+            "original_name": "Víctor Varona",
+            "popularity": 1.4319,
+            "profile_path": "/lcwFAjHjhJXkxf59TXGSjGGOlLj.jpg",
+            "cast_id": 12,
+            "character": "Lion",
+            "credit_id": "6484740ed2b20900ebc03eea",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3212974,
+            "known_for_department": "Acting",
+            "name": "Fran Berenguer",
+            "original_name": "Fran Berenguer",
+            "popularity": 0.9846,
+            "profile_path": "/uYi3MOwqtNdfZt82DdvzKCZku50.jpg",
+            "cast_id": 13,
+            "character": "Ronnie",
+            "credit_id": "6484741dc9dbf9011dfbebfc",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4105605,
+            "known_for_department": "Acting",
+            "name": "Adriana Ubani",
+            "original_name": "Adriana Ubani",
+            "popularity": 0.8337,
+            "profile_path": "/7TlpwffkqeTu1mQNZW3OG0IdTFm.jpg",
+            "cast_id": 14,
+            "character": "Anna",
+            "credit_id": "64847431e2726000e8c0a38a",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 31422,
+            "known_for_department": "Acting",
+            "name": "Ivan Massagué",
+            "original_name": "Ivan Massagué",
+            "popularity": 1.1415,
+            "profile_path": "/dmnJo2sGlfFjtKb8FDPlNjRhfyc.jpg",
+            "cast_id": 15,
+            "character": "Jonas",
+            "credit_id": "64847452d2b20900ad3c3ed0",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 56468,
+            "known_for_department": "Acting",
+            "name": "Mariano Venancio",
+            "original_name": "Mariano Venancio",
+            "popularity": 0.538,
+            "profile_path": "/aZT4jP35s7hwOspb4nW1wqKZpmE.jpg",
+            "cast_id": 16,
+            "character": "Martin",
+            "credit_id": "6484746ac9dbf900c5719d95",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1206196,
+            "known_for_department": "Acting",
+            "name": "Jaime Ordóñez",
+            "original_name": "Jaime Ordóñez",
+            "popularity": 0.8468,
+            "profile_path": "/x46hVHDEGrX6148QT9fdQYK5pdu.jpg",
+            "cast_id": 17,
+            "character": "Chofer",
+            "credit_id": "6484748f99259c00c5b484b4",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3440557,
+            "known_for_department": "Acting",
+            "name": "Jaime Gutiérrez",
+            "original_name": "Jaime Gutiérrez",
+            "popularity": 0.3145,
+            "profile_path": "/v16hDXL23WV08T93SN7WdlAPLew.jpg",
+            "cast_id": 18,
+            "character": "Leonardo",
+            "credit_id": "648474abc9dbf9011dfbec2e",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3690350,
+            "known_for_department": "Acting",
+            "name": "Anastasia Russo",
+            "original_name": "Anastasia Russo",
+            "popularity": 0.7212,
+            "profile_path": "/8RQi40pI2ddocE8S3GbXnpUKZ9S.jpg",
+            "cast_id": 19,
+            "character": "Noah Nina",
+            "credit_id": "648474c299259c00ff0e7c77",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4105608,
+            "known_for_department": "Acting",
+            "name": "Noah Casas",
+            "original_name": "Noah Casas",
+            "popularity": 0.4506,
+            "profile_path": "/pCLSPCIQq1Re4Qv2LtTSP6kvPXx.jpg",
+            "cast_id": 20,
+            "character": "Maggie",
+            "credit_id": "648474d5c9dbf9011dfbec46",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1650225,
+            "known_for_department": "Acting",
+            "name": "Daniel Martínez",
+            "original_name": "Daniel Martínez",
+            "popularity": 0.5325,
+            "profile_path": "/xBSTWMW1fkbb6atZfYi3ELtIFdZ.jpg",
+            "cast_id": 21,
+            "character": "Cruz",
+            "credit_id": "648474ebbf31f25054b5af3d",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4105609,
+            "known_for_department": "Acting",
+            "name": "Pablo Riguero",
+            "original_name": "Pablo Riguero",
+            "popularity": 0.3995,
+            "profile_path": "/gHxn7b4RTfgLxCfSnLeuuldLtep.jpg",
+            "cast_id": 22,
+            "character": "Dan",
+            "credit_id": "64847510c9dbf9011dfbec62",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3578019,
+            "known_for_department": "Acting",
+            "name": "Eve Ryan",
+            "original_name": "Eve Ryan",
+            "popularity": 5.1703,
+            "profile_path": "/lqNMF1KmRt2R76GBblGH1mxum8P.jpg",
+            "cast_id": 23,
+            "character": "Betty",
+            "credit_id": "64847520bf31f25055a0babc",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2768896,
+            "known_for_department": "Acting",
+            "name": "Lucas Nabor",
+            "original_name": "Lucas Nabor",
+            "popularity": 0.6926,
+            "profile_path": "/xaJPHVub2M4Qk3y4j3oGaIvPmcZ.jpg",
+            "cast_id": 24,
+            "character": "Mario",
+            "credit_id": "64847530bf31f25055a0bac5",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4105611,
+            "known_for_department": "Acting",
+            "name": "Antonio Hernández Fimia",
+            "original_name": "Antonio Hernández Fimia",
+            "popularity": 0.2632,
+            "profile_path": "/u2jjeMbQthFMVPH6ozbPWiGsAph.jpg",
+            "cast_id": 25,
+            "character": "Mikel",
+            "credit_id": "6484754ee375c000acc53ff9",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1377932,
+            "known_for_department": "Acting",
+            "name": "Paloma Catalán",
+            "original_name": "Paloma Catalán",
+            "popularity": 0.3057,
+            "profile_path": "/5ABKo2L3kKWeqMnP4gHNpcR4li3.jpg",
+            "cast_id": 26,
+            "character": "Petra",
+            "credit_id": "64847560bf31f250569b61a8",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2374210,
+            "known_for_department": "Acting",
+            "name": "Rocío Peláez",
+            "original_name": "Rocío Peláez",
+            "popularity": 0.3832,
+            "profile_path": "/8k2CKcjr8IPGHcjOmkLaIj8VCGr.jpg",
+            "cast_id": 27,
+            "character": "Inspectora",
+            "credit_id": "64847579d2b20900ca1f201a",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2935675,
+            "known_for_department": "Acting",
+            "name": "Jon Rod",
+            "original_name": "Jon Rod",
+            "popularity": 0.6351,
+            "profile_path": "/2ZJW1ccmffZqFnuKQhhVSc3Qex.jpg",
+            "cast_id": 28,
+            "character": "Policia 1",
+            "credit_id": "6484758de272600147b9c6a9",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4105614,
+            "known_for_department": "Acting",
+            "name": "Mariano Andres",
+            "original_name": "Mariano Andres",
+            "popularity": 0.2287,
+            "profile_path": "/oACjDbXl1gIm8qGumiiwxe9kSzg.jpg",
+            "cast_id": 29,
+            "character": "Policia 2",
+            "credit_id": "648475a1d2b20900ca1f2036",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4105616,
+            "known_for_department": "Acting",
+            "name": "Jonatan Ruiz",
+            "original_name": "Jonatan Ruiz",
+            "popularity": 0.2281,
+            "profile_path": "/uLmL9FM0JcomHn0KBLUpLKQVmDw.jpg",
+            "cast_id": 30,
+            "character": "Tipo Bebida Fiesta",
+            "credit_id": "648475d099259c00e2f4d0b3",
+            "order": 23
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2366716,
+            "known_for_department": "Acting",
+            "name": "Mónica Caballero",
+            "original_name": "Mónica Caballero",
+            "popularity": 0.3905,
+            "profile_path": "/kwF1j4hsgKGpbXFfnwci5u1gwYZ.jpg",
+            "cast_id": 31,
+            "character": "Doctora Maggie",
+            "credit_id": "64847602bf31f250569b61de",
+            "order": 24
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2758656,
+            "known_for_department": "Acting",
+            "name": "Álvaro Navarro",
+            "original_name": "Álvaro Navarro",
+            "popularity": 0.6113,
+            "profile_path": "/AjJpZZPILRW7tEpVcmPmdeMQ18Y.jpg",
+            "cast_id": 32,
+            "character": "Maitre",
+            "credit_id": "6484761bc9dbf9013a068ddf",
+            "order": 25
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3755956,
+            "known_for_department": "Art",
+            "name": "Joana Ginart",
+            "original_name": "Joana Ginart",
+            "popularity": 0.2008,
+            "profile_path": "/f43E1du7XNWMwZ1I5iMuq8ZlpKO.jpg",
+            "credit_id": "6356bf4ff8e982007c5dca83",
+            "department": "Art",
+            "job": "Props"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2557574,
+            "known_for_department": "Lighting",
+            "name": "Gonzalo Fernández de la Vega",
+            "original_name": "Gonzalo Fernández de la Vega",
+            "popularity": 0.3711,
+            "profile_path": null,
+            "credit_id": "666095955a2f867d3aa227f4",
+            "department": "Lighting",
+            "job": "Gaffer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3497930,
+            "known_for_department": "Camera",
+            "name": "Shantall González",
+            "original_name": "Shantall González",
+            "popularity": 0.2503,
+            "profile_path": null,
+            "credit_id": "666095d1bcfc32ac094f651e",
+            "department": "Camera",
+            "job": "Second Assistant Camera"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 82960,
+            "known_for_department": "Camera",
+            "name": "Fernando Moleón",
+            "original_name": "Fernando Moleón",
+            "popularity": 0.4033,
+            "profile_path": "/qPTZOUTS8XsyC1PqfgHIATEYOEo.jpg",
+            "credit_id": "6660960bc6919aca38f260f9",
+            "department": "Camera",
+            "job": "\"A\" Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2557567,
+            "known_for_department": "Camera",
+            "name": "Guillermo Moreno Garcia",
+            "original_name": "Guillermo Moreno Garcia",
+            "popularity": 0.5094,
+            "profile_path": null,
+            "credit_id": "66609624816365125bb748df",
+            "department": "Camera",
+            "job": "\"A\" Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3894830,
+            "known_for_department": "Camera",
+            "name": "Víctor Garoz Ruiz",
+            "original_name": "Víctor Garoz Ruiz",
+            "popularity": 0.4952,
+            "profile_path": null,
+            "credit_id": "666095c0752ed5b0ea7d9457",
+            "department": "Camera",
+            "job": "Key Grip"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 82960,
+            "known_for_department": "Camera",
+            "name": "Fernando Moleón",
+            "original_name": "Fernando Moleón",
+            "popularity": 0.4033,
+            "profile_path": "/qPTZOUTS8XsyC1PqfgHIATEYOEo.jpg",
+            "credit_id": "6660e8bef800109d5d2449c7",
+            "department": "Camera",
+            "job": "Steadicam Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4249923,
+            "known_for_department": "Camera",
+            "name": "Nicolas Ramirez Lopez",
+            "original_name": "Nicolás Ramírez López",
+            "popularity": 0.2443,
+            "profile_path": null,
+            "credit_id": "6660e81cf31040440e3f0c32",
+            "department": "Camera",
+            "job": "Data Wrangler"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4106905,
+            "known_for_department": "Writing",
+            "name": "Mercedes Ron",
+            "original_name": "Mercedes Ron",
+            "popularity": 0.8956,
+            "profile_path": null,
+            "credit_id": "6485b5d1e2726000e8c13945",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 512958,
+            "known_for_department": "Acting",
+            "name": "Carolina Bang",
+            "original_name": "Carolina Bang",
+            "popularity": 0.8719,
+            "profile_path": "/zwY5dMMeRAxUGU2Q50u7mWk3DA0.jpg",
+            "credit_id": "64c17cfadf86a8010636c16d",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1739102,
+            "known_for_department": "Directing",
+            "name": "Domingo González",
+            "original_name": "Domingo González",
+            "popularity": 0.9463,
+            "profile_path": "/bTf1OPwNZSIbVHl7SII6Yv429G4.jpg",
+            "credit_id": "64c17bd9df86a800c8e8909a",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1915666,
+            "known_for_department": "Crew",
+            "name": "Hermes Marco",
+            "original_name": "Hermes Marco",
+            "popularity": 0.2968,
+            "profile_path": null,
+            "credit_id": "64c17d30871b3400c7466528",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2659970,
+            "known_for_department": "Production",
+            "name": "María Contreras",
+            "original_name": "María Contreras",
+            "popularity": 0.2904,
+            "profile_path": "/zT13bZ1sTrUXL2OocUUnoUNrkCL.jpg",
+            "credit_id": "64c17d09097c4900e3f35cca",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3500965,
+            "known_for_department": "Production",
+            "name": "Araceli Pérez-Rastrilla",
+            "original_name": "Araceli Pérez-Rastrilla",
+            "popularity": 0.422,
+            "profile_path": null,
+            "credit_id": "64c17d1c13a32000e21ab8b1",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 57865,
+            "known_for_department": "Directing",
+            "name": "Álex de la Iglesia",
+            "original_name": "Álex de la Iglesia",
+            "popularity": 1.4993,
+            "profile_path": "/n67diBAoT58ODgqXNHHyPWIE1Nc.jpg",
+            "credit_id": "64c17ce4db4ed6013bf3705b",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1868619,
+            "known_for_department": "Sound",
+            "name": "Jaime Barros",
+            "original_name": "Jaime Barros",
+            "popularity": 0.3255,
+            "profile_path": "/uPSh7gN1AhSAwCLPpXMpmpxFhk4.jpg",
+            "credit_id": "64c17d79db4ed60101a99a63",
+            "department": "Sound",
+            "job": "Sound"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1739102,
+            "known_for_department": "Directing",
+            "name": "Domingo González",
+            "original_name": "Domingo González",
+            "popularity": 0.9463,
+            "profile_path": "/bTf1OPwNZSIbVHl7SII6Yv429G4.jpg",
+            "credit_id": "674ddb12f313bac2f7a98b13",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5803550,
+            "known_for_department": "Camera",
+            "name": "Gonzalo Martín Robledo",
+            "original_name": "Gonzalo Martín Robledo",
+            "popularity": 0.4812,
+            "profile_path": null,
+            "credit_id": "690ef7abaee235a1df31a7e1",
+            "department": "Camera",
+            "job": "Second Assistant \"A\" Camera"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2629234,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Miguel Cervera",
+            "original_name": "Miguel Cervera",
+            "popularity": 0.4684,
+            "profile_path": null,
+            "credit_id": "69128f51743d11af9dc063c8",
+            "department": "Costume & Make-Up",
+            "job": "Costume Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3808644,
+            "known_for_department": "Production",
+            "name": "Eneko Botana",
+            "original_name": "Eneko Botana",
+            "popularity": 0.2429,
+            "profile_path": null,
+            "credit_id": "691b773bffc2d222b9609b15",
+            "department": "Production",
+            "job": "Casting Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5005452,
+            "known_for_department": "Production",
+            "name": "Álvaro Haro",
+            "original_name": "Álvaro Haro",
+            "popularity": 0.2921,
+            "profile_path": null,
+            "credit_id": "691b774d292048406352eca5",
+            "department": "Production",
+            "job": "Casting Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3924556,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Aída del Bustio",
+            "original_name": "Aída del Bustio",
+            "popularity": 0.2581,
+            "profile_path": "/kbLgdpoePVM00HGkTF0PBnAnKUd.jpg",
+            "credit_id": "691b776743005e5cb6446c7b",
+            "department": "Costume & Make-Up",
+            "job": "Hair Department Head"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5823248,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Sara Sánchez Silos",
+            "original_name": "Sara Sánchez Silos",
+            "popularity": 0.2829,
+            "profile_path": null,
+            "credit_id": "691b777c370fc1c86c52ec61",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Department Head"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1739102,
+            "known_for_department": "Directing",
+            "name": "Domingo González",
+            "original_name": "Domingo González",
+            "popularity": 0.9463,
+            "profile_path": "/bTf1OPwNZSIbVHl7SII6Yv429G4.jpg",
+            "credit_id": "691c620603e4a165afc7d3ff",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1643811,
+            "known_for_department": "Art",
+            "name": "Laura Musso",
+            "original_name": "Laura Musso",
+            "popularity": 0.5443,
+            "profile_path": "/3uapQvLNeQ0Gs6aRoPOBoucxbRA.jpg",
+            "credit_id": "69426867669d46085a2dbd72",
+            "department": "Art",
+            "job": "Art Direction"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 2201,
+            "name": "first time"
+        },
+        {
+            "id": 3691,
+            "name": "forbidden love"
+        },
+        {
+            "id": 7714,
+            "name": "stepbrother"
+        },
+        {
+            "id": 11322,
+            "name": "female protagonist"
+        },
+        {
+            "id": 171341,
+            "name": "underage sex"
+        },
+        {
+            "id": 196691,
+            "name": "stepsister"
+        },
+        {
+            "id": 199524,
+            "name": "disturbed"
+        },
+        {
+            "id": 246466,
+            "name": "based on young adult novel"
+        },
+        {
+            "id": 282986,
+            "name": "enemies to lovers"
+        },
+        {
+            "id": 283057,
+            "name": "passion and romance"
+        },
+        {
+            "id": 310324,
+            "name": "car"
+        },
+        {
+            "id": 325778,
+            "name": "bold"
+        },
+        {
+            "id": 325796,
+            "name": "disapproving"
+        },
+        {
+            "id": 325798,
+            "name": "disgusted"
+        },
+        {
+            "id": 337262,
+            "name": "step-sibling romance"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/tL8c4Oz3fXqRP3oquUpHWqpEC6B.jpg",
+            "id": 12723,
+            "title": "Inventing the Abbotts",
+            "original_title": "Inventing the Abbotts",
+            "overview": "In the 1950s, brothers Jacey and Doug Holt, who come from the poorer side of their sleepy Midwestern town, vie for the affections of the wealthy, lovely Abbott sisters. Lady-killer Jacey alternates between Eleanor and Alice, wanting simply to break the hearts of rich young women. But sensitive Doug has a real romance with Pamela, which Jacey and the Abbott patriarch, Lloyd, both frown upon.",
+            "poster_path": "/ysfD96fF56BEzpktyDWChC8Epgs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.6731,
+            "release_date": "1997-04-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 268
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fi7gBF2nfIGWF9MuOhuEr6rkgBQ.jpg",
+            "id": 18183,
+            "title": "Like Water for Chocolate",
+            "original_title": "Como agua para chocolate",
+            "overview": "Tita is passionately in love with Pedro, but her controlling mother forbids her from marrying him. When Pedro marries her sister, Tita throws herself into her cooking and discovers she can transfer her emotions through the food she prepares, infecting all who eat it with her intense heartbreak.",
+            "poster_path": "/itwUdMqLmPfhtGJ44hiDxkqZhiq.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.0016,
+            "release_date": "1992-04-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.289,
+            "vote_count": 561
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2l5pGtlYQoFNip1LIdIE0qzAq9.jpg",
+            "id": 85654,
+            "title": "Fire with Fire",
+            "original_title": "Fire with Fire",
+            "overview": "A tough, street-smart kid serving a sentence in a state youth reformatory meets a beautiful, innocent girl studying at a nearby convent. When forbidden love blossoms between them, they must fight the prison authorities, their parents and the law.",
+            "poster_path": "/1lCi4gHuQmnqn5laJFYZZfaEW9F.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.7138,
+            "release_date": "1986-05-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.15,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Mq10FWFbxoYgsZysWlw7T9wSNe.jpg",
+            "id": 61979,
+            "title": "Three Steps Above Heaven",
+            "original_title": "Tres metros sobre el cielo",
+            "overview": "Babi, a sheltered upper-class girl, and Hache, a reckless rebel obsessed with illegal motorcycle races, fall into a forbidden love that pulls them deeper into passion and risk.",
+            "poster_path": "/xeWyY2s13dRlKOLk4E3TkXgM4sS.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 10.8892,
+            "release_date": "2010-12-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.732,
+            "vote_count": 3258
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m2QvGozzKz5ux74gKocn4kFTGz1.jpg",
+            "id": 796,
+            "title": "Cruel Intentions",
+            "original_title": "Cruel Intentions",
+            "overview": "Slaking a thirst for dangerous games, Kathryn challenges her stepbrother, Sebastian, to deflower their headmaster's daughter before the summer ends. If he succeeds, the prize is the chance to bed Kathryn. But if he loses, Kathryn will claim his most prized possession.",
+            "poster_path": "/76cCsRtQ5MJBAqoigojXsLXLJwh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 10.6414,
+            "release_date": "1999-03-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.82,
+            "vote_count": 3641
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
+            "id": 1477317,
+            "title": "Your Fault: London",
+            "original_title": "Your Fault: London",
+            "overview": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
+            "poster_path": "/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 24.8152,
+            "release_date": "2026-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.514,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hNYF27LeIxyvqUFZpS0fAqOEYxp.jpg",
+            "id": 479957,
+            "title": "Desire",
+            "original_title": "Desearás al hombre de tu hermana",
+            "overview": "Lucía and Ofelia, two sisters, finally meet after 7 years of cold relationships upon Lucia 's wedding. But when Juan, Lucia's husband, and Ofelia meet, they feel like a disruptive fantasy have enchanted their minds and bodies...",
+            "poster_path": "/jnTYASRVkL5QPLeM0FeojTGRbgV.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.5846,
+            "release_date": "2017-10-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.004,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+            "id": 1294203,
+            "title": "My Fault: London",
+            "original_title": "My Fault: London",
+            "overview": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William’s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+            "poster_path": "/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 19.4475,
+            "release_date": "2025-02-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.392,
+            "vote_count": 616
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yXF89vOhQeGl4ayy1jez67zTPHd.jpg",
+            "id": 12568,
+            "title": "Brideshead Revisited",
+            "original_title": "Brideshead Revisited",
+            "overview": "Befriended by aristocrat Sebastian Flyte, Oxford student Charles Ryder finds that the power and privilege experienced by the family is seductive. On a visit to the ancestral home, Brideshead, he falls in love with his friend's sister, Julia.  However, as his ties to the Flytes deepen, Ryder finds himself at odds with their strong Roman Catholicism.",
+            "poster_path": "/q1IqGWVNIRcXnfw9vjye7oQYUg4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.8927,
+            "release_date": "2008-07-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.254,
+            "vote_count": 169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tPKmDydEzqJPj5yol2zFCrraUcM.jpg",
+            "id": 814338,
+            "title": "Lady Chatterley's Lover",
+            "original_title": "Lady Chatterley's Lover",
+            "overview": "After a crippling injury leaves her husband impotent, Lady Chatterly is torn between her love for her husband and her physical desires. With her husband's consent, she seeks out other means of fulfilling her needs.",
+            "poster_path": "/aSgl2DxPG3DuQXoaHr500KeULmT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.8828,
+            "release_date": "2022-11-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.703,
+            "vote_count": 537
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Bqeun8WDCJZ2rlJEcYy5teTBgM.jpg",
+            "id": 792001,
+            "title": "Amor Bandido",
+            "original_title": "Amor bandido",
+            "overview": "Joan is a naïve, 16-year-old who falls in love easily. One day he decides to escape to the provinces with Luciana, a beautiful 35-year-old woman and a teacher at his school, in order to give free rein to his love. Soon, Joan discovers with horror that he has fallen into a trap that is a mix between sex, money, politics and violence.",
+            "poster_path": "/qb3YySysqo8ikQoagBIz29BZOmi.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                53,
+                10749,
+                18
+            ],
+            "popularity": 4.2174,
+            "release_date": "2021-03-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.65,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8SHUNL0AlfzYC4TZIQzseU63BSp.jpg",
+            "id": 22625,
+            "title": "Circle of Friends",
+            "original_title": "Circle of Friends",
+            "overview": "Three girlhood friends now at college share first loves, first kisses and first betrayals. At the center of it all is the best-looking boy on campus. Can a self-conscious dreamer hook the biggest fish in the pond?",
+            "poster_path": "/2QLTcXxrdSBrEgQZjPjpCf5QS4f.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.5369,
+            "release_date": "1995-04-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.258,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cUh3QGvpXXdeNdms7I86XVDL4bv.jpg",
+            "id": 1252,
+            "title": "Lonely Hearts",
+            "original_title": "Lonely Hearts",
+            "overview": "In the late 1940s, a murderous couple known as the 'The Lonely Hearts Killers' kills close to a dozen people. Two detectives try to nab the duo who find their targets via the personals in the paper.",
+            "poster_path": "/qnQK4JUwEUFDKt7dSMY2fJmhv2f.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                80,
+                10749
+            ],
+            "popularity": 4.2195,
+            "release_date": "2006-04-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.052,
+            "vote_count": 384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7BSSLv4MvBjEmercZIolaOUR42q.jpg",
+            "id": 12165,
+            "title": "The Burning Plain",
+            "original_title": "The Burning Plain",
+            "overview": "A trailer is burning in the middle of a plain. The bodies of two adulterous lovers are found. Scenes from both families, before and after the dramatic events, suggest an unusual connection between them. But what is their secret?",
+            "poster_path": "/lZlChM3LmOLUCQCfnbaf2dQKe9J.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                80
+            ],
+            "popularity": 3.3678,
+            "release_date": "2008-11-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.595,
+            "vote_count": 470
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
+            "id": 763148,
+            "title": "Time Is Up",
+            "original_title": "Time Is Up",
+            "overview": "Vivien, an accomplished student with a passion for physics, and Roy, a troubled young man, are involved in an accident that forces them to reclaim their lives one minute at the time.",
+            "poster_path": "/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.8679,
+            "release_date": "2021-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.462,
+            "vote_count": 732
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gDekB0OnIYbKhqzzdArfSQpcAvH.jpg",
+            "id": 267,
+            "title": "Live Flesh",
+            "original_title": "Carne trémula",
+            "overview": "When Victor attempts to seduce Elena, all he gets for his trouble is a one-way, six-year ticket to prison, where he concentrates on strengthening his mind, his body... and his desire for vengeance on the man who put him there. After his release and still madly in love with her, Victor will stop at nothing to win her over even if means revenge, for Elena has married David, the cop who sent him to prison!",
+            "poster_path": "/7YPGYeamF6AuyxhKqbd5oNKKCCy.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "popularity": 4.8585,
+            "release_date": "1997-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.021,
+            "vote_count": 752
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wsMuEaqX5Sks209lnjWEChCdv3C.jpg",
+            "id": 790459,
+            "title": "Fingernails",
+            "original_title": "Fingernails",
+            "overview": "Anna and Ryan have found true love together. It's been proven by a controversial test. There's just one problem: Anna still isn't sure. Then she meets Amir.",
+            "poster_path": "/q04g3un61aeBoheQEso7enM28AF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                878,
+                18
+            ],
+            "popularity": 4.7215,
+            "release_date": "2023-10-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 227
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+            "id": 1379963,
+            "title": "Tell Me Softly",
+            "original_title": "Dímelo bajito",
+            "overview": "Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothers, after seven years of absence. Thiago stole her first kiss, and Taylor was her best friend, but now their return will turn Kami's world upside down. Can the three overcome the past that binds them? Or will everything explode into pieces once again?",
+            "poster_path": "/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 11.4755,
+            "release_date": "2025-12-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.268,
+            "vote_count": 196
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s3pniDBtG52O26WySm6HY0YLVWh.jpg",
+            "id": 274109,
+            "title": "Palm Trees in the Snow",
+            "original_title": "Palmeras en la nieve",
+            "overview": "Spain, 2003. An accidental discovery leads Clarence to travel from the snowy mountains of Huesca to Equatorial Guinea, to visit the land where her father Jacobo and her uncle Kilian spent most of their youth, the island of Fernando Poo.",
+            "poster_path": "/wqBmtHgsAMWbRUPLKaX90pSr3H.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "popularity": 3.7157,
+            "release_date": "2015-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.378,
+            "vote_count": 546
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9qYD7pAOEdYBoQblv5VAMMSVAC8.jpg",
+            "id": 1078600,
+            "title": "Marked Men: Rule + Shaw",
+            "original_title": "Marked Men: Rule + Shaw",
+            "overview": "Shaw Landon has loved Rule Archer from the moment she laid eyes on him. Rule, a fiery-tempered rebel tattoo artist, doesn’t have time for a good girl pre-med student like Shaw — even if she’s the only one who can see the person he truly is. She lives by other people’s rules; he makes his own. But a short skirt, too many birthday cocktails, and spilled secrets lead to a night neither can forget. Now, Shaw and Rule must figure out how a girl like her and a guy like him are supposed to be together without destroying their love…or each other.",
+            "poster_path": "/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 6.2743,
+            "release_date": "2025-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 253
+        }
+    ]
+}

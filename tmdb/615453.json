@@ -1,0 +1,943 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/k1pJslKr4aDayw9kWwWnlC3MIP3.jpg",
+        "belongs_to_collection": {
+            "id": 1449595,
+            "name": "Ne Zha Collection",
+            "poster_path": "/t4TTe2hGFIVr6D0UJBWajCD78IB.jpg",
+            "backdrop_path": "/kazABXcuhF5AdpdjlWQQCH8iUyR.jpg"
+        },
+        "budget": 22000000,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "homepage": "https://www.wellgousa.com/films/ne-zha",
+        "id": 615453,
+        "imdb_id": "tt10627720",
+        "origin_country": [
+            "CN"
+        ],
+        "original_language": "zh",
+        "original_title": "哪吒之魔童降世",
+        "overview": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate.",
+        "popularity": 12.7009,
+        "poster_path": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+        "production_companies": [
+            {
+                "id": 17818,
+                "logo_path": "/tqImejhMUsOuuKCX2cySzaO7QTj.png",
+                "name": "Beijing Enlight Pictures",
+                "origin_country": "CN"
+            },
+            {
+                "id": 121042,
+                "logo_path": "/c8y6syie4YoN4Pzz62Lvu11UNz0.png",
+                "name": "Horgos Coloroom Pictures",
+                "origin_country": "CN"
+            },
+            {
+                "id": 153486,
+                "logo_path": "/389mBiWxOR04XM8233qcRFfx9TN.png",
+                "name": "October Media",
+                "origin_country": "CN"
+            },
+            {
+                "id": 167789,
+                "logo_path": null,
+                "name": "Chengdu Coco Cartoon",
+                "origin_country": "CN"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "release_date": "2019-07-26",
+        "revenue": 742718496,
+        "runtime": 110,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Mandarin",
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Fight your fate",
+        "title": "Ne Zha",
+        "video": false,
+        "vote_average": 7.889,
+        "vote_count": 913
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2367355,
+            "known_for_department": "Acting",
+            "name": "Lu Yanting",
+            "original_name": "吕艳婷",
+            "popularity": 1.1263,
+            "profile_path": "/vKpOzPutTaPf03rWXiLuK8R2K3B.jpg",
+            "cast_id": 5,
+            "character": "Young Nezha (voice)",
+            "credit_id": "5d3443a92f8d097db9d0fdb5",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2367356,
+            "known_for_department": "Acting",
+            "name": "Joseph",
+            "original_name": "囧森瑟夫",
+            "popularity": 1.1408,
+            "profile_path": "/1TgCL0mlekWivRNo1voCwUZ8I5s.jpg",
+            "cast_id": 6,
+            "character": "Youth Nezha (voice)",
+            "credit_id": "5d3444162f8d090388d2b958",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2368846,
+            "known_for_department": "Acting",
+            "name": "Han Mo",
+            "original_name": "瀚墨",
+            "popularity": 0.9466,
+            "profile_path": "/6Ueom0Y4pjIG9B6zjQlfIbgcGhH.jpg",
+            "cast_id": 7,
+            "character": "Ao Bing (voice)",
+            "credit_id": "5d36a45660c51d00148133f6",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2368848,
+            "known_for_department": "Acting",
+            "name": "Chen Hao",
+            "original_name": "陈浩",
+            "popularity": 1.0099,
+            "profile_path": "/eBZJW1NCBFDh3U3xImf0vCCnDpy.jpg",
+            "cast_id": 8,
+            "character": "Li Jing (voice)",
+            "credit_id": "5d36a4e660c51d0014813537",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2368849,
+            "known_for_department": "Acting",
+            "name": "Lu Qi",
+            "original_name": "绿绮",
+            "popularity": 0.7079,
+            "profile_path": "/eGoSeaM1c6KCLiRIqM8LJq5S5L5.jpg",
+            "cast_id": 9,
+            "character": "Lady Yin (voice)",
+            "credit_id": "5d36a5b460c51d185980b021",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2368857,
+            "known_for_department": "Acting",
+            "name": "Zhang Jiaming",
+            "original_name": "张珈铭",
+            "popularity": 0.7433,
+            "profile_path": "/nFPxvqQLuDUpYgFiKRFkH0sX20P.jpg",
+            "cast_id": 11,
+            "character": "Master Taiyi (voice)",
+            "credit_id": "5d36a6f7ab684900108497f4",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1574893,
+            "known_for_department": "Acting",
+            "name": "Yang Wei",
+            "original_name": "Yang Wei",
+            "popularity": 0.4561,
+            "profile_path": "/rTi0M7yePiL3NqEGg5pTL7x56De.jpg",
+            "cast_id": 10,
+            "character": "Shen Gongbao (voice)",
+            "credit_id": "5d36a65760c51d00138135be",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3523565,
+            "known_for_department": "Acting",
+            "name": "He Yuxiang",
+            "original_name": "He Yuxiang",
+            "popularity": 0.4315,
+            "profile_path": "/ftyBCAgwqIUXIrGuGLxfGrRrPIf.jpg",
+            "cast_id": 18,
+            "character": "Yuanshi Tianzun / Boundary Beast (voice)",
+            "credit_id": "63bd67dcfa40460094a73556",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3791106,
+            "known_for_department": "Acting",
+            "name": "Ren Junpeng",
+            "original_name": "Ren Junpeng",
+            "popularity": 0.4335,
+            "profile_path": "/4Nh2EqWzCZqhFJnU0VvnievIVhV.jpg",
+            "cast_id": 19,
+            "character": "Haiyasha (voice)",
+            "credit_id": "63bd68bbae6f093cb9df8f90",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3791098,
+            "known_for_department": "Acting",
+            "name": "Da Hai",
+            "original_name": "Da Hai",
+            "popularity": 0.3462,
+            "profile_path": "/r0V7EhrOLxrELJZ0IGKoIZpo0eJ.jpg",
+            "cast_id": 22,
+            "character": "Amblyopia Old Man / Purple Dragon / News Guard (voice)",
+            "credit_id": "63bd6ae6fa404600c12964f4",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4927413,
+            "known_for_department": "Acting",
+            "name": "Yu Chen",
+            "original_name": "雨辰",
+            "popularity": 0.6271,
+            "profile_path": "/zZ15ZOUpH7yNZ5Rz71l7YUhveMN.jpg",
+            "cast_id": 29,
+            "character": "Mr. Selling Words / Male Neighborhood / Red Dragon (voice)",
+            "credit_id": "66db5cca7086d53bb195a4b1",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4927373,
+            "known_for_department": "Acting",
+            "name": "Liu Linzhu",
+            "original_name": "刘霖竺",
+            "popularity": 0.2313,
+            "profile_path": "/lYsPq6Ze90hJrIHugrpwEn4wbbj.jpg",
+            "cast_id": 28,
+            "character": "The Midwife / Matchmaker (voice)",
+            "credit_id": "66db550ce6b80d38e3f98465",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4925983,
+            "known_for_department": "Acting",
+            "name": "Tao Yuan",
+            "original_name": "陶渊",
+            "popularity": 0.2025,
+            "profile_path": "/m57DK4q9auLAJNL0A9fXruevmxP.jpg",
+            "cast_id": 26,
+            "character": "Housekeeper Li (voice)",
+            "credit_id": "66da351ca678e3806ddde5a8",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4926013,
+            "known_for_department": "Acting",
+            "name": "Li Nan",
+            "original_name": "李南",
+            "popularity": 1.2667,
+            "profile_path": "/oHz2xKSBwNddOuOr8oylMlo6LL5.jpg",
+            "cast_id": 27,
+            "character": "Dragon King (voice)",
+            "credit_id": "66da36cccae934178a89ea2c",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3254572,
+            "known_for_department": "Acting",
+            "name": "Xingliner",
+            "original_name": "Xingliner",
+            "popularity": 0.315,
+            "profile_path": "/kAwo90XvibPmibd0XyWgR48tJBA.jpg",
+            "cast_id": 23,
+            "character": "Aunt Long / Fisherman (voice)",
+            "credit_id": "63bd6c075be00e008c12ef67",
+            "order": 14
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2397782,
+            "known_for_department": "Writing",
+            "name": "Wei Yunyun",
+            "original_name": "Wei Yunyun",
+            "popularity": 0.3931,
+            "profile_path": "/cevtT5Q4IqEeV04vlyNWpJxBtvb.jpg",
+            "credit_id": "61df548c68b1ea0041376fae",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3380497,
+            "known_for_department": "Production",
+            "name": "Liu Wenzhang",
+            "original_name": "Liu Wenzhang",
+            "popularity": 0.2692,
+            "profile_path": "/7BLmmFhYDN7MyKVui5qJ590qgi9.jpg",
+            "credit_id": "61df5496cb30840098d53597",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2367353,
+            "known_for_department": "Directing",
+            "name": "Jiao Zi",
+            "original_name": "饺子",
+            "popularity": 1.1035,
+            "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+            "credit_id": "5d3442e62f8d090388d2b4eb",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2367353,
+            "known_for_department": "Directing",
+            "name": "Jiao Zi",
+            "original_name": "饺子",
+            "popularity": 1.1035,
+            "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+            "credit_id": "5d3443516a300b2f7ea8338f",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1608970,
+            "known_for_department": "Production",
+            "name": "Wang Changtian",
+            "original_name": "王长田",
+            "popularity": 0.5328,
+            "profile_path": "/5NVTL4mXj8PjBbvJiXBum0WmvPw.jpg",
+            "credit_id": "5d3443746a300b05ada37119",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2367353,
+            "known_for_department": "Directing",
+            "name": "Jiao Zi",
+            "original_name": "饺子",
+            "popularity": 1.1035,
+            "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+            "credit_id": "5d661f0158361b001421cc0f",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2397781,
+            "known_for_department": "Writing",
+            "name": "Yi Qiao",
+            "original_name": "Yi Qiao",
+            "popularity": 0.3056,
+            "profile_path": null,
+            "credit_id": "5d661f33ba4802001326e1b9",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2397782,
+            "known_for_department": "Writing",
+            "name": "Wei Yunyun",
+            "original_name": "Wei Yunyun",
+            "popularity": 0.3931,
+            "profile_path": "/cevtT5Q4IqEeV04vlyNWpJxBtvb.jpg",
+            "credit_id": "5d661f5558361b001021cd39",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2623147,
+            "known_for_department": "Sound",
+            "name": "Wan Pin-Chu",
+            "original_name": "朱藝編",
+            "popularity": 0.4706,
+            "profile_path": "/r8Fixl6Mbv9SsjM7z4lLGTyTOgg.jpg",
+            "credit_id": "5eade40e27d9cc001bd0130c",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2980083,
+            "known_for_department": "Writing",
+            "name": "Xu Zhonglin",
+            "original_name": "许仲琳",
+            "popularity": 0.6232,
+            "profile_path": "/pgfrhZ0VHMAbmlGniYIZsYQWRR.jpg",
+            "credit_id": "6a6964c2600586578e5e8b16",
+            "department": "Writing",
+            "job": "Novel"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 1721,
+            "name": "fight"
+        },
+        {
+            "id": 2343,
+            "name": "magic"
+        },
+        {
+            "id": 12554,
+            "name": "dragon"
+        },
+        {
+            "id": 15001,
+            "name": "demon"
+        },
+        {
+            "id": 177895,
+            "name": "dark fantasy"
+        },
+        {
+            "id": 185343,
+            "name": "based on myths, legends or folklore"
+        },
+        {
+            "id": 278823,
+            "name": "3d animation"
+        },
+        {
+            "id": 290656,
+            "name": "nezha"
+        },
+        {
+            "id": 295840,
+            "name": "chinese folklore"
+        },
+        {
+            "id": 297031,
+            "name": "chinese mythology"
+        },
+        {
+            "id": 315535,
+            "name": "donghua"
+        },
+        {
+            "id": 331623,
+            "name": "shenmo"
+        },
+        {
+            "id": 344604,
+            "name": "ne zha"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/c9xmB53umjnrCMS4pZz11clF3yJ.jpg",
+            "id": 980477,
+            "title": "Ne Zha 2",
+            "original_title": "哪吒之魔童闹海",
+            "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+            "poster_path": "/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                12
+            ],
+            "popularity": 26.3696,
+            "release_date": "2025-01-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.158,
+            "vote_count": 779
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4PKfa0zltSrp1BJoLl8zfvYXaac.jpg",
+            "id": 663558,
+            "title": "New Gods: Nezha Reborn",
+            "original_title": "新神榜：哪吒重生",
+            "overview": "While living as an ordinary deliveryman and motor racing fan, Nezha encounters old nemeses and must rediscover his powers to protect his loved ones.",
+            "poster_path": "/np4ScPY04HESKBbpexwstKsipKe.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                14,
+                28
+            ],
+            "popularity": 5.7404,
+            "release_date": "2021-02-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.072,
+            "vote_count": 523
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Urx7y2CQQvxIlzk5R0BpOKI2NR.jpg",
+            "id": 635389,
+            "title": "Jiang Ziya",
+            "original_title": "姜子牙",
+            "overview": "Atop the ruins of war, top commander Jiang Ziya is given the task to banish the Nine-tailed Fox Demon who threatens all mortals' very existence. When he discovers the Nine-tailed Fox's life linked to the soul of an innocent girl, he is faced with a challenging decision: follow the will of heaven or find his own path to righteousness.",
+            "poster_path": "/eDq4dGgNHxPbT3Y5S6mfymsQ0rQ.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                12
+            ],
+            "popularity": 2.5595,
+            "release_date": "2020-10-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.296,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zxIXvhF5PSZwQ9tvlLIzhcwi7IO.jpg",
+            "id": 844075,
+            "title": "New Gods: Yang Jian",
+            "original_title": "新神榜：杨戬",
+            "overview": "Fifteen hundred years after the war of gods, the heaven declined. Yang Jian, the God of Erlang, made a living by working as a catcher. One day, Yang Jian was ordered to hunt down a young man, his own nephew.",
+            "poster_path": "/tW5dFOemV4d7hxTcVI2bu4u0C9z.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                12,
+                14,
+                35
+            ],
+            "popularity": 6.0102,
+            "release_date": "2022-08-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.495,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg",
+            "id": 527774,
+            "title": "Raya and the Last Dragon",
+            "original_title": "Raya and the Last Dragon",
+            "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+            "poster_path": "/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14,
+                10751
+            ],
+            "popularity": 16.0936,
+            "release_date": "2021-03-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.796,
+            "vote_count": 7368
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/60Y6NXOXiqPHACYhMoW5Fo4eCO5.jpg",
+            "id": 170657,
+            "title": "Journey to the West: Conquering the Demons",
+            "original_title": "西游·降魔篇",
+            "overview": "In a world plagued by demons who cause great human suffering, young demon hunter Tang Sanzang must fight against monstrous demons, as well as contend with a beautiful demon hunting woman on his path to enlightenment.",
+            "poster_path": "/XcFMQQfx1gMlh1RyEednP6frNC.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                28,
+                14,
+                12,
+                35
+            ],
+            "popularity": 5.702,
+            "release_date": "2013-02-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.948,
+            "vote_count": 455
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rrUsh0jODStzpJcDbDvLB1Tl901.jpg",
+            "id": 1144107,
+            "title": "The Legend of Hei 2",
+            "original_title": "罗小黑战记 2",
+            "overview": "When an attack shatters the fragile peace between the spirit world and humanity, Hei teams up with Luye, the last disciple of his Shifu Wuxian, to expose a conspiracy that threatens both realms - and the bond they've sworn to protect.",
+            "poster_path": "/dRCUBiTKtsmju3fmSS4MK0ywcqR.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                14,
+                28,
+                12
+            ],
+            "popularity": 25.3906,
+            "release_date": "2025-07-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.58,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sPU9KWoPYt9z8ZbI6iLlF6Xvsje.jpg",
+            "id": 202575,
+            "title": "The House of Magic",
+            "original_title": "The House of Magic",
+            "overview": "Thunder, an abandoned young cat seeking shelter from a storm, stumbles into the strangest house imaginable, owned by an old magician and inhabited by a dazzling array of automatons and gizmos. Not everyone welcomes the new addition to the troupe as Jack Rabbit and Maggie Mouse plot to evict Thunder. The situation gets worse when the magician lands in hospital and his scheming nephew sees his chance to cash in by selling the mansion. Our young hero is determined to earn his place and so he enlists the help of some wacky magician's assistants to protect his magical new home.",
+            "poster_path": "/3R13g2XgblynIrQGF8geFZJPNvR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                14,
+                16,
+                12
+            ],
+            "popularity": 4.3495,
+            "release_date": "2013-12-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.306,
+            "vote_count": 382
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jIAyjJMrEIDjojxQDdZemDwqr82.jpg",
+            "id": 573699,
+            "title": "White Snake",
+            "original_title": "白蛇：缘起",
+            "overview": "One day a young woman named Blanca is saved by Xuan, a snake catcher from a nearby village. As they set off an a journey to discover her real identity, the pair develop feelings for each other.",
+            "poster_path": "/30SLnoKmYNyRPkKCYowsrGLRnJA.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                10749,
+                16,
+                14
+            ],
+            "popularity": 4.6458,
+            "release_date": "2019-01-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.695,
+            "vote_count": 566
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rhJgHS28BVc5o2rBWVwZa3aMJCF.jpg",
+            "id": 795607,
+            "title": "Green Snake",
+            "original_title": "白蛇2：青蛇劫起",
+            "overview": "While trying to free her sister from Fahai's clutches, Xiao Qing winds up in a dystopian city and meets a mysterious man who can't recall his past life.",
+            "poster_path": "/g9SQCIGHDqol11QcymtDqMI7SCp.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                14,
+                28,
+                12
+            ],
+            "popularity": 4.7309,
+            "release_date": "2021-07-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.057,
+            "vote_count": 385
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/apBUC70udhxoLzXo7DqclQ6gcXo.jpg",
+            "id": 511817,
+            "title": "Wendell & Wild",
+            "original_title": "Wendell & Wild",
+            "overview": "Two scheming demons strike a deal with a punk rock-loving teen so they can leave the Underworld and live out their dreams in the Land of the Living.",
+            "poster_path": "/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                14,
+                12,
+                27
+            ],
+            "popularity": 5.0386,
+            "release_date": "2022-10-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.584,
+            "vote_count": 391
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j4zVW7xqw3OdhjcqEyKgtDpiKJf.jpg",
+            "id": 84092,
+            "title": "Ramayana : The Legend of Prince Rama",
+            "original_title": "Ramayana : The Legend of Prince Rama",
+            "overview": "In Ayodhya, the royal palace of Kosala Kingdom in Ancient India, four princes were born to three queens, each of whom grew to great stature. Banished for 14 years due to court intrigue, Prince Rama retreated to the forest with his beautiful wife Sita. When Rama vanquishes the demons of the forest, he invites the wrath of the demon king Ravana, who kidnaps Sita. Based on the Indian epic the Ramayana.",
+            "poster_path": "/jnwUw88Zq5tS0BFNvDwhISQ7p8Y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14
+            ],
+            "popularity": 4.8659,
+            "release_date": "1993-01-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.193,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eZhgY71I2kOkKgYckYHuLncsVlX.jpg",
+            "id": 11052,
+            "title": "Yu-Gi-Oh! The Movie",
+            "original_title": "Yu-Gi-Oh! The Movie",
+            "overview": "After the conclusion of the Battle City Tournament, deep below the sands of Egypt, an ancient evil has awakened. Anubis, who was defeated centuries ago by Yugi’s mysterious alter ego – the ancient Pharaoh – has returned for revenge. Wielding the power of the Eighth Millennium Item, Anubis is determined to destroy Yugi and take over the world.",
+            "poster_path": "/3VD5QDTu0rQgRvERBMXtAvg0oIC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                14,
+                28,
+                878
+            ],
+            "popularity": 2.6774,
+            "release_date": "2004-08-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.13,
+            "vote_count": 384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jQHjvKOc3FG3ShoKTJfp1tXoKnQ.jpg",
+            "id": 381902,
+            "title": "The Monkey King 2",
+            "original_title": "西遊記之孫悟空三打白骨精",
+            "overview": "Taking place 500 years after the Havoc in Heaven, the Tang Priest is appointed by Buddha to go to the West to fetch the sacred scriptures, only to accidentally free the Monkey King. With Lady White aiming to break up the team assembled to defeat her, the Monkey King must fight in order to save his world!",
+            "poster_path": "/iOApsyuFG05NaDCNHnicrln1ztM.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "popularity": 4.166,
+            "release_date": "2016-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.931,
+            "vote_count": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bhspYsRMHgMqzUlxiVpIY8OrqMt.jpg",
+            "id": 313297,
+            "title": "Kubo and the Two Strings",
+            "original_title": "Kubo and the Two Strings",
+            "overview": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
+            "poster_path": "/ewcOCkuuKAKULGUnbBVaO1htt0D.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751
+            ],
+            "popularity": 7.7539,
+            "release_date": "2016-08-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.638,
+            "vote_count": 3867
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tv2xJzlQfwTHHls2ze8UeSheWgv.jpg",
+            "id": 811634,
+            "title": "The Monkey King: Reborn",
+            "original_title": "西游记之再世妖王",
+            "overview": "When the irritable monkey king visits a temple together with his master Tang Monk, he feels offended because of a trifle and thereupon accidentally destroys a magic tree growing on the sacred ground. This brings an ancient demon king back to life, who promptly kidnaps Tang Monk to take revenge for his long imprisonment. The monkey king and his followers have only three days to not only save their master but also to prevent the demon king from regaining his full powers and destroying the world…",
+            "poster_path": "/67YXOoKGODyGvJXfXzVmgHNXYh8.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                10751
+            ],
+            "popularity": 3.7523,
+            "release_date": "2021-04-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.225,
+            "vote_count": 344
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xESy6kg2k4JsGzHU0ILkOL9qYec.jpg",
+            "id": 351694,
+            "title": "Monkey King: Hero Is Back",
+            "original_title": "西游记之大圣归来",
+            "overview": "The all-powerful Monkey King once roamed freely between Heaven and Earth, but after angering the Gods, he was imprisoned within an ice cage deep within the mountains. 500 years later, monsters attack a small village and a child flees to the mountains. Unknowingly, the child releases the Monkey King from his curse. With the help and encouragement from this special child, Monkey King saves the village from the evil monsters.",
+            "poster_path": "/xHme10Y5jVdH8KeSGgStndjatF5.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                14,
+                16,
+                35
+            ],
+            "popularity": 4.6266,
+            "release_date": "2015-07-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.934,
+            "vote_count": 302
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9a59H9qoAzMcj1NWurMgvg9iLaT.jpg",
+            "id": 1729,
+            "title": "The Forbidden Kingdom",
+            "original_title": "The Forbidden Kingdom",
+            "overview": "An American teenager who is obsessed with Hong Kong cinema and kung-fu classics makes an extraordinary discovery in a Chinatown pawnshop: the legendary stick weapon of the Chinese sage and warrior, the Monkey King. With the lost relic in hand, the teenager unexpectedly finds himself travelling back to ancient China to join a crew of warriors from martial arts lore on a dangerous quest to free the imprisoned Monkey King.",
+            "poster_path": "/z8chF1Z7hyuSVqLYTgElkQZh2VB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "popularity": 8.6575,
+            "release_date": "2008-04-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.644,
+            "vote_count": 1958
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg",
+            "id": 550205,
+            "title": "Wish Dragon",
+            "original_title": "Wish Dragon",
+            "overview": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
+            "poster_path": "/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                14,
+                10749,
+                12
+            ],
+            "popularity": 11.8978,
+            "release_date": "2021-01-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.84,
+            "vote_count": 1531
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6i29AyCu1aKAbzbmQITTmOF2cVb.jpg",
+            "id": 257932,
+            "title": "Dragon Nest: Warriors' Dawn",
+            "original_title": "龙之谷：破晓奇兵",
+            "overview": "For years, the land of Altera has observed an uneasy peace between the humans, the elves, and the beasts who are loyal to the legendary Black Dragon. But when the dragon wakes from its hibernation, mobilizing a force of beasts to make war, a small band of humans and elves unite in a search for the secret road to the dragon’s lair.",
+            "poster_path": "/8fklM49dK7AZ3j8jgycxbRwECGa.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                14,
+                16
+            ],
+            "popularity": 4.2215,
+            "release_date": "2014-05-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.547,
+            "vote_count": 160
+        }
+    ]
+}

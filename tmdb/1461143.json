@@ -1,0 +1,501 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 1461143,
+        "imdb_id": null,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Playground Safety: Simple as A, B, C",
+        "overview": "The film emphasizes the importance of playground safety through the ABCD framework. It teaches children to avoid unsafe behaviors, be safety-minded, practice courtesy, and do their part to maintain a safe playground environment. Key rules include using equipment properly, waiting for turns, and keeping the area clean to prevent accidents.",
+        "popularity": 9.2762,
+        "poster_path": null,
+        "production_companies": [
+            {
+                "id": 61051,
+                "logo_path": null,
+                "name": "Centron Pictures",
+                "origin_country": ""
+            },
+            {
+                "id": 23600,
+                "logo_path": null,
+                "name": "Centron Corporation",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1976-01-01",
+        "revenue": 0,
+        "runtime": 15,
+        "softcore": false,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Playground Safety: Simple as A, B, C",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [],
+    "crew": [],
+    "keywords": [
+        {
+            "id": 3852,
+            "name": "safety"
+        },
+        {
+            "id": 5500,
+            "name": "playground"
+        },
+        {
+            "id": 18257,
+            "name": "educational"
+        },
+        {
+            "id": 241542,
+            "name": "public safety"
+        },
+        {
+            "id": 336060,
+            "name": "childrens safety"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/a2GqkeAhr9jxyBPTMwJk6Hzdhih.jpg",
+            "id": 98548,
+            "title": "People Like Us",
+            "original_title": "People Like Us",
+            "overview": "After flying home to L.A. for the funeral of his estranged record-producer father, a struggling man discovers that the will stipulates that he must deliver $150,000 in cash to a 30-year-old alcoholic sister he never knew existed, and her troubled 12-year-old son.",
+            "poster_path": "/aXfIwSJogLjQdmX9Qzhkeuv3HQI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.6681,
+            "release_date": "2012-06-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.795,
+            "vote_count": 660
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iwIgSq0uOJA9oJd38XbjG5hiMg4.jpg",
+            "id": 634233,
+            "title": "Class Action Park",
+            "original_title": "Class Action Park",
+            "overview": "Class Action Park explores the legend, legacy, and truth behind the 1980s water park in Vernon, New Jersey that long ago entered the realm of myth. Known for its dangerous, unsupervised rides and lack of regulation, guests of Action Park expected to walk away with injuries and were lucky if they made it out alive. Shirking the trappings of nostalgia, the film uses investigative journalism, original animations,  recordings, and interviews with the people who lived it to reveal the true story of Action Park.",
+            "poster_path": "/AoNojvxMhZtdVu9V8LtjfXJ6TPT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.8114,
+            "release_date": "2020-08-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.574,
+            "vote_count": 156
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/llZz64BIZcIyGnazveysBCFsPsN.jpg",
+            "id": 30698,
+            "title": "The Five People You Meet In Heaven",
+            "original_title": "The Five People You Meet In Heaven",
+            "overview": "On his 83rd birthday, Eddie, a war vet and a maintenance worker at the Ruby Pier amusement park, dies while trying to save a girl who is sitting under a falling ride. When he awakens in the afterlife, he encounters five people with ties to his corporeal existence who help him understand the meaning of his life.",
+            "poster_path": "/1fvMz3gy4YuqPDC5LotTWofFFcx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                14,
+                878,
+                10770
+            ],
+            "popularity": 1.9589,
+            "release_date": "2004-12-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.986,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bPm5kQLlc2KypdYkUxGbrGfLJ82.jpg",
+            "id": 147773,
+            "title": "The Way Way Back",
+            "original_title": "The Way Way Back",
+            "overview": "Shy 14-year-old Duncan goes on summer vacation with his mother, her overbearing boyfriend, and her boyfriend's daughter. Having a rough time fitting in, Duncan finds an unexpected friend in Owen, manager of the Water Wizz water park.",
+            "poster_path": "/4DgA0EDDVv37C8xISc3Vv0rhxlL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 4.6289,
+            "release_date": "2013-06-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.135,
+            "vote_count": 1979
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bWN6ZBr6nJNEuHigL9fQWhZ78hd.jpg",
+            "id": 9918,
+            "title": "Glory Road",
+            "original_title": "Glory Road",
+            "overview": "In 1966, Texas Western coach Don Haskins led the first all-black starting line-up for a college basketball team to the NCAA national championship.",
+            "poster_path": "/bGRSV5tStxDNPRLCewnOeeiZzrY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "popularity": 6.3246,
+            "release_date": "2006-01-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 812
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yd750mff5FTjwMenmBMWRezbuSe.jpg",
+            "id": 8457,
+            "title": "Drillbit Taylor",
+            "original_title": "Drillbit Taylor",
+            "overview": "Dealing with a sociopathic school bully, three high school freshmen hire a low-budget bodyguard to protect them, not realizing he is just a homeless beggar and petty thief looking for some easy cash.",
+            "poster_path": "/shqO696kFnM8Z4ODa3JglcjP97u.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 5.613,
+            "release_date": "2008-02-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.829,
+            "vote_count": 1114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
+            "id": 11123,
+            "title": "Earthquake",
+            "original_title": "Earthquake",
+            "overview": "Various interconnected people struggle to survive when an earthquake of unimaginable magnitude hits Los Angeles, California.",
+            "poster_path": "/6hJorsInxNpj1dIekh6dK6Kh9S6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "popularity": 4.2638,
+            "release_date": "1974-11-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.142,
+            "vote_count": 373
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AvPLYsn8SyDWFFBzBqmsohZ5p8x.jpg",
+            "id": 1816,
+            "title": "A Chorus Line",
+            "original_title": "A Chorus Line",
+            "overview": "A group of dancers congregate on the stage of a Broadway theatre to audition for a new musical production directed by Zach. After the initial eliminations, seventeen hopefuls remain, among them Cassie, who once had a tempestuous romantic relationship with Zach. She is desperate enough for work to humble herself and audition for him; whether he's willing to let professionalism overcome his personal feelings about their past remains to be seen.",
+            "poster_path": "/bQzbO6y6gxePrEcU57Su8HJ9UdH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "popularity": 4.2634,
+            "release_date": "1985-12-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.225,
+            "vote_count": 202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qxfuWn03LIk8FFT85gIoFQmPB3.jpg",
+            "id": 30295,
+            "title": "Father Goose",
+            "original_title": "Father Goose",
+            "overview": "During World War II, South Sea beachcomber Walter Eckland is persuaded to spy on planes passing over his island. He gets more than he bargained for as schoolteacher Catherine Frenau arrives on the run from the Japanese with her pupils in tow!",
+            "poster_path": "/Tp4vSQef0qsI78M90SsZZLJzPE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                35,
+                10749
+            ],
+            "popularity": 2.7609,
+            "release_date": "1964-12-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.042,
+            "vote_count": 201
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rEX8tOPvdgWqURQWx6oEzQqSWsM.jpg",
+            "id": 778810,
+            "title": "Fireheart",
+            "original_title": "Fireheart",
+            "overview": "The film explores the world of firefighters in 1920s New York City and tells the story of a 16-year-old girl who will have to become a hero in order to save her city.",
+            "poster_path": "/vYAUgsoel6slydF6y4NCPLW96ah.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                35
+            ],
+            "popularity": 3.2398,
+            "release_date": "2022-01-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.194,
+            "vote_count": 294
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sgsW7aqUXg4jG2GcoLKotSvp807.jpg",
+            "id": 24226,
+            "title": "The Verdict",
+            "original_title": "The Verdict",
+            "overview": "Frank Galvin is a down-on-his-luck lawyer and reduced to drinking and ambulance chasing, when a former associate reminds him of his obligations in a medical malpractice suit by serving it to Galvin on a silver platter—all parties are willing to settle out of court. Blundering his way through the preliminaries, Galvin suddenly realizes that the case should actually go to court—to punish the guilty, to get a decent settlement for his clients... and to restore his standing as a lawyer.",
+            "poster_path": "/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 5.2102,
+            "release_date": "1982-12-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.468,
+            "vote_count": 746
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3I0ibLoqCBu3gCeN46wpnKL7gq6.jpg",
+            "id": 12763,
+            "title": "Take the Lead",
+            "original_title": "Take the Lead",
+            "overview": "A former professional dancer volunteers to teach dance in the New York public school system and, while his background first clashes with his students' tastes, together they create a completely new style of dance. Based on the story of ballroom dancer, Pierre Dulane.",
+            "poster_path": "/vkGSs0eeOOISEe9jddBZnRSkn46.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "popularity": 4.3536,
+            "release_date": "2006-03-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.865,
+            "vote_count": 757
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h0Esq4UXKlDmXc7YTprUFKLQPFf.jpg",
+            "id": 990,
+            "title": "The Hustler",
+            "original_title": "The Hustler",
+            "overview": "Fast Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary Minnesota Fats to a high-stakes match.",
+            "poster_path": "/snItsSViawjaadW9mlWUmGwR41R.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 4.5853,
+            "release_date": "1961-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.66,
+            "vote_count": 1106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tOTtJelsPKX0bvSdvDVL2ou3cGS.jpg",
+            "id": 267935,
+            "title": "The BFG",
+            "original_title": "The BFG",
+            "overview": "An orphan little girl befriends a benevolent giant who takes her to Giant Country, where they attempt to stop the man-eating giants that are invading the human world.",
+            "poster_path": "/w17Mc2x2olB5CtewznUFxgpvne0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                10751,
+                14
+            ],
+            "popularity": 11.8483,
+            "release_date": "2016-06-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.287,
+            "vote_count": 3674
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eyn0vuN4IZjImE5Dws0iPhZrCMc.jpg",
+            "id": 205220,
+            "title": "Philomena",
+            "original_title": "Philomena",
+            "overview": "A woman searches for her adult son, who was taken away from her decades ago when she was forced to live in a convent.",
+            "poster_path": "/eBUv2GmGdXmCk1AaSOmyiu70hN8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.5587,
+            "release_date": "2013-11-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.342,
+            "vote_count": 1733
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bi9ihIMB9DoXs7odkS5oKkHoK2o.jpg",
+            "id": 2280,
+            "title": "Big",
+            "original_title": "Big",
+            "overview": "When a young boy makes a wish at a carnival machine to be big—he wakes up the following morning to find that it has been granted and his body has grown older overnight. But he is still the same 13-year-old boy inside. Now he must learn how to cope with the unfamiliar world of grown-ups including getting a job and having his first romantic encounter with a woman.",
+            "poster_path": "/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                18,
+                35
+            ],
+            "popularity": 9.5118,
+            "release_date": "1988-06-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.193,
+            "vote_count": 4105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6kTLm7zfwKAgAcGnaVU0uT4QYug.jpg",
+            "id": 10539,
+            "title": "James and the Giant Peach",
+            "original_title": "James and the Giant Peach",
+            "overview": "When the young orphan boy James spills a magic bag of crocodile tongues, he finds himself in possession of a giant peach that flies him away to strange lands.",
+            "poster_path": "/vNEGobe23vW43mSPYVaVaBLP6qV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                12,
+                14
+            ],
+            "popularity": 5.3653,
+            "release_date": "1996-04-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.596,
+            "vote_count": 1455
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/11eRKCIIkRnGseeIlWlAqkbiHKl.jpg",
+            "id": 236751,
+            "title": "Heaven Is for Real",
+            "original_title": "Heaven Is for Real",
+            "overview": "After their young son, Colton, undergoes emergency surgery, small-town parents Todd and Sonja Burpo are overjoyed at the child's miraculous recovery. However, the Burpos are unprepared for what happens next... Colton says that during his surgery he went to heaven and back, and tells his parents things that he couldn't possibly know. Can Todd find the courage and conviction to share his son's extraordinary, life-changing experience with the world?",
+            "poster_path": "/tsFovEJuZHVgpvFTHXb37l7ma4F.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.6349,
+            "release_date": "2014-04-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.795,
+            "vote_count": 896
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9t8zSBYMSV8fc51FV4xCdmK7oyP.jpg",
+            "id": 10641,
+            "title": "Autumn in New York",
+            "original_title": "Autumn in New York",
+            "overview": "Will Keane, a Manhattan restaurateur, is content with his playboy lifestyle until he meets Charlotte Fielding, a free-spirited young woman. Together the pair pursue a passionate affair that forces them both to reevaluate what they want out of life, even as fate threatens to steal away their future.",
+            "poster_path": "/avtPZ5vGvFugnY0NK8d3Przx6P7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.6716,
+            "release_date": "2000-08-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.137,
+            "vote_count": 779
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cJwkku3SPprS0Splfgh8VFRd0xn.jpg",
+            "id": 638597,
+            "title": "YES DAY",
+            "original_title": "YES DAY",
+            "overview": "A mom and dad who usually say no decide to say yes to their kids' wildest requests — with a few ground rules — on a whirlwind day of fun and adventure.",
+            "poster_path": "/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "popularity": 6.5401,
+            "release_date": "2021-03-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.673,
+            "vote_count": 1311
+        }
+    ]
+}

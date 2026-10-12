@@ -1,0 +1,851 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/tCyQ00lRBQvNNV2VQvH0Atrid6r.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 77429,
+        "imdb_id": "tt0103948",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Chechu y familia",
+        "overview": "Chechu is a 13 year old boy who lives surrounded by peculiar people: his grandfather, his uncle, and two maids. He falls in love with one of them.",
+        "popularity": 14.5768,
+        "poster_path": "/rZBzPx0w6IDE3ST1T7K8uXIZvYf.jpg",
+        "production_companies": [
+            {
+                "id": 8026,
+                "logo_path": null,
+                "name": "Alma Ata International Pictures S.L.",
+                "origin_country": ""
+            },
+            {
+                "id": 8011,
+                "logo_path": null,
+                "name": "Producciones A.S.H. Films S.A.",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "1992-06-25",
+        "revenue": 264432,
+        "runtime": 81,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Chechu and Family",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 10
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 965,
+            "known_for_department": "Acting",
+            "name": "Fernando Fernán Gómez",
+            "original_name": "Fernando Fernán Gómez",
+            "popularity": 0.952,
+            "profile_path": "/2itwZtBNlvA4B6tmFmNbQN9qvmu.jpg",
+            "cast_id": 3,
+            "character": "Don José",
+            "credit_id": "52fe496bc3a368484e12a83f",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 582005,
+            "known_for_department": "Acting",
+            "name": "César Lucendo",
+            "original_name": "César Lucendo",
+            "popularity": 0.366,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "Chechu",
+            "credit_id": "52fe496bc3a368484e12a843",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 72998,
+            "known_for_department": "Acting",
+            "name": "Neus Asensi",
+            "original_name": "Neus Asensi",
+            "popularity": 1.3574,
+            "profile_path": "/qeB7Jqimr2y3Ehg5wnHjMA3MPOi.jpg",
+            "cast_id": 5,
+            "character": "Pauli",
+            "credit_id": "52fe496bc3a368484e12a847",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 132444,
+            "known_for_department": "Acting",
+            "name": "Amparo Moreno",
+            "original_name": "Amparo Moreno",
+            "popularity": 0.6132,
+            "profile_path": "/hHt7OrT6A2yFgEnqLSbLmwkjqt3.jpg",
+            "cast_id": 6,
+            "character": "Marusa",
+            "credit_id": "52fe496bc3a368484e12a84b",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 582006,
+            "known_for_department": "Acting",
+            "name": "Emilio Mellado",
+            "original_name": "Emilio Mellado",
+            "popularity": 0.5209,
+            "profile_path": null,
+            "cast_id": 7,
+            "character": "Tedy",
+            "credit_id": "52fe496bc3a368484e12a84f",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 262444,
+            "known_for_department": "Acting",
+            "name": "Antonio Flores",
+            "original_name": "Antonio Flores",
+            "popularity": 0.6658,
+            "profile_path": "/5ms4CuoQvqdnD0XIUKtY2fYDBi7.jpg",
+            "cast_id": 8,
+            "character": "Cosme",
+            "credit_id": "52fe496bc3a368484e12a853",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 231730,
+            "known_for_department": "Acting",
+            "name": "Raúl Fraire",
+            "original_name": "Raúl Fraire",
+            "popularity": 0.7221,
+            "profile_path": null,
+            "cast_id": 15,
+            "character": "Jacinto",
+            "credit_id": "55b17e799251411e1800ec95",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 140090,
+            "known_for_department": "Acting",
+            "name": "Luis Lorenzo",
+            "original_name": "Luis Lorenzo",
+            "popularity": 0.6042,
+            "profile_path": "/z6wp6DGns9YFCz3qpdF8N2cqM9C.jpg",
+            "cast_id": 10,
+            "character": "Florito",
+            "credit_id": "52fe496bc3a368484e12a85b",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 72887,
+            "known_for_department": "Acting",
+            "name": "Esperanza Roy",
+            "original_name": "Esperanza Roy",
+            "popularity": 0.784,
+            "profile_path": "/i4NMYbfYyCoZR9ilUf9KrorNLvc.jpg",
+            "cast_id": 11,
+            "character": "Mamen",
+            "credit_id": "52fe496bc3a368484e12a85f",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 582007,
+            "known_for_department": "Acting",
+            "name": "José Yepes",
+            "original_name": "José Yepes",
+            "popularity": 0.5475,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "Felipe",
+            "credit_id": "52fe496bc3a368484e12a863",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 582008,
+            "known_for_department": "Acting",
+            "name": "Kunio Kobayashi",
+            "original_name": "Kunio Kobayashi",
+            "popularity": 0.2598,
+            "profile_path": null,
+            "cast_id": 13,
+            "character": "Aurelio",
+            "credit_id": "52fe496bc3a368484e12a867",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 105771,
+            "known_for_department": "Acting",
+            "name": "Carlos Lucas",
+            "original_name": "Carlos Lucas",
+            "popularity": 0.3884,
+            "profile_path": "/mnu3htUh8YfELbWOeuJU8noV2hh.jpg",
+            "cast_id": 14,
+            "character": "Camarero",
+            "credit_id": "52fe496bc3a368484e12a86b",
+            "order": 11
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 533375,
+            "known_for_department": "Directing",
+            "name": "Álvaro Sáenz de Heredia",
+            "original_name": "Álvaro Sáenz de Heredia",
+            "popularity": 0.734,
+            "profile_path": "/iVFcL0In2GhgpFZ8jVGOjQBJfG.jpg",
+            "credit_id": "52fe496bc3a368484e12a835",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 37590,
+            "known_for_department": "Writing",
+            "name": "Rafael Azcona",
+            "original_name": "Rafael Azcona",
+            "popularity": 0.7278,
+            "profile_path": "/lmNHJhGZAClCrw7YH3l6LMkAA0e.jpg",
+            "credit_id": "52fe496bc3a368484e12a83b",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1028828,
+            "known_for_department": "Directing",
+            "name": "Raimundo García",
+            "original_name": "Raimundo García",
+            "popularity": 0.4406,
+            "profile_path": null,
+            "credit_id": "5c237f3ac3a368044aed34da",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 995380,
+            "known_for_department": "Production",
+            "name": "José María Calleja",
+            "original_name": "José María Calleja",
+            "popularity": 0.3564,
+            "profile_path": null,
+            "credit_id": "5c237eaf0e0a264ddef15728",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 30825,
+            "known_for_department": "Editing",
+            "name": "Antonio Ramírez de Loaysa",
+            "original_name": "Antonio Ramírez de Loaysa",
+            "popularity": 0.5094,
+            "profile_path": null,
+            "credit_id": "5c237ecd9251416801c4c7ba",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2202082,
+            "known_for_department": "Art",
+            "name": "Carlos Dorremochea",
+            "original_name": "Carlos Dorremochea",
+            "popularity": 0.3474,
+            "profile_path": null,
+            "credit_id": "5c237efdc3a368044aed349e",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1423051,
+            "known_for_department": "Sound",
+            "name": "José Tejera",
+            "original_name": "José Tejera",
+            "popularity": 0.1855,
+            "profile_path": null,
+            "credit_id": "5c237eb90e0a264ddbf16e37",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1321745,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Francisca Guillot",
+            "original_name": "Francisca Guillot",
+            "popularity": 0.2534,
+            "profile_path": null,
+            "credit_id": "5c237f2b0e0a264dedf163eb",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1490119,
+            "known_for_department": "Art",
+            "name": "Gumersindo Andrés",
+            "original_name": "Gumersindo Andrés",
+            "popularity": 0.3843,
+            "profile_path": null,
+            "credit_id": "5c237f1192514167fbc4fa37",
+            "department": "Costume & Make-Up",
+            "job": "Costume Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 37590,
+            "known_for_department": "Writing",
+            "name": "Rafael Azcona",
+            "original_name": "Rafael Azcona",
+            "popularity": 0.7278,
+            "profile_path": "/lmNHJhGZAClCrw7YH3l6LMkAA0e.jpg",
+            "credit_id": "5c237ea4c3a3686fffef3c98",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 90267,
+            "known_for_department": "Camera",
+            "name": "Josep M. Civit",
+            "original_name": "Josep M. Civit",
+            "popularity": 0.2608,
+            "profile_path": "/8Kngza9rCJnFjY4E175y6QYEwAr.jpg",
+            "credit_id": "5c237ec6925141520dc28c34",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1321746,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Miguel Sesé",
+            "original_name": "Miguel Sesé",
+            "popularity": 0.4614,
+            "profile_path": null,
+            "credit_id": "5c237f22c3a368044aed34bd",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2202082,
+            "known_for_department": "Art",
+            "name": "Carlos Dorremochea",
+            "original_name": "Carlos Dorremochea",
+            "popularity": 0.3474,
+            "profile_path": null,
+            "credit_id": "5c237f07c3a3681c34eed28b",
+            "department": "Art",
+            "job": "Art Direction"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 10041,
+            "name": "dysfunctional family"
+        },
+        {
+            "id": 11254,
+            "name": "loss of virginity"
+        },
+        {
+            "id": 13097,
+            "name": "maid"
+        },
+        {
+            "id": 156866,
+            "name": "based on short story"
+        },
+        {
+            "id": 228181,
+            "name": "sexual initiation"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/3BlLlwc1dLWLpgFQG9l5Fzzl5Xg.jpg",
+            "id": 26685,
+            "title": "How to Murder Your Wife",
+            "original_title": "How to Murder Your Wife",
+            "overview": "Stanley Ford leads an idyllic bachelor life. He is a nationally syndicated cartoonist whose Bash Brannigan series provides him with a luxury townhouse and a full-time valet, Charles. When he wakes up the morning after the night before - he had attended a friend's stag party - he finds that he is married to the very beautiful woman who popped out of the cake - and who doesn't speak a word of English. Despite his initial protestations, he comes to like married life and even changes his cartoon character from a super spy to a somewhat harried husband.",
+            "poster_path": "/1lwxAeN3OGXkoPH9DzZrRtA7XK0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.9242,
+            "release_date": "1965-01-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8cAtMxn5unNCpuVQ318d4Uf4jUl.jpg",
+            "id": 308024,
+            "title": "The Overnight",
+            "original_title": "The Overnight",
+            "overview": "Alex, Emily, and their son, RJ, are new to Los Angeles. A chance meeting at the park introduces them to the mysterious Kurt, Charlotte, and Max. A family “playdate” becomes increasingly interesting as the night goes on.",
+            "poster_path": "/8DDEGc6vifxxYdkym3G99AMlITG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                35
+            ],
+            "popularity": 3.7036,
+            "release_date": "2015-06-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.946,
+            "vote_count": 364
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5wHcVeMuUNlgQ2JvN0bVQ4sSDeM.jpg",
+            "id": 28339,
+            "title": "Hard to Die",
+            "original_title": "Hard to Die",
+            "overview": "While doing the inventory for a lingerie outlet in a high rise office building, five attractive women are terrorized by a series of bizarre killings. They suspect that the strange janitor, who witnessed another series of killings six months previously, is at the bottom of the whole thing. Little do they know the real horror that they face in the end.",
+            "poster_path": "/sQPdz28o3LmEaknwwnKB8zqqIYF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "popularity": 7.986,
+            "release_date": "1990-10-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.058,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ggzUa7gPXs7mnLhJEcwP9r10Z9e.jpg",
+            "id": 1312150,
+            "title": "Ricky Gervais: Mortality",
+            "original_title": "Ricky Gervais: Mortality",
+            "overview": "Ricky Gervais tackles life, death and the state of the world in a brutally honest special that spares no topic, even his own mortality.",
+            "poster_path": "/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 8.0108,
+            "release_date": "2025-12-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.091,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zBKbtf2M7wyThxjrqFO9QGCv5MP.jpg",
+            "id": 1417677,
+            "title": "Bill Burr: Drop Dead Years",
+            "original_title": "Bill Burr: Drop Dead Years",
+            "overview": "In what might be his most personal and introspective hour yet, Bill offers hilarious takes on everything from male sadness to dating advice.",
+            "poster_path": "/vBdVi94tI9AH3oNgNtVuHc6vYu7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 8.0308,
+            "release_date": "2025-03-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.22,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pmUHC8IsRJsCEyggnNdbGnqeu6V.jpg",
+            "id": 14166,
+            "title": "Pretty Persuasion",
+            "original_title": "Pretty Persuasion",
+            "overview": "A 15-year-old girl incites chaos among her friends and a media frenzy when she accuses her drama teacher of sexual harassment.",
+            "poster_path": "/oTbmRS9OBqACIlgRkTqHIc1n6lO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 4.545,
+            "release_date": "2005-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.832,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/utsFSjBd6Ai56BwFB8s80S1a9bC.jpg",
+            "id": 14267,
+            "title": "Female Trouble",
+            "original_title": "Female Trouble",
+            "overview": "Teenage delinquent Dawn Davenport, incensed after her parents do not give her the cha-cha heels she wanted for Christmas, runs away from home. After an illegitimate child and hairstylist husband bring her more misery, she's enticed into a life of crime when the owners of her husband's salon promise her fame and fortune.",
+            "poster_path": "/cqhIufhoORDMuFKEinV1IIYUBxD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 2.3343,
+            "release_date": "1976-02-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 234
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pPzl3ae97wcU72yDE9PDl4qq446.jpg",
+            "id": 14262,
+            "title": "Desperate Living",
+            "original_title": "Desperate Living",
+            "overview": "After killing her husband, Peggy Gravel and her murderous maid Grizelda wind up in the crazy town of Mortville, where Queen Carlotta presides over a sleazy collection of misfits.",
+            "poster_path": "/kqEZ1CbxtrXtpAT1jeYfo52um3s.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 4.9553,
+            "release_date": "1977-05-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.347,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b4zuUZ1VJVb6wljjUEGJEwSYz1k.jpg",
+            "id": 455236,
+            "title": "Accident Man",
+            "original_title": "Accident Man",
+            "overview": "Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.",
+            "poster_path": "/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                12,
+                35
+            ],
+            "popularity": 5.4111,
+            "release_date": "2018-02-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 605
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tv0ylbCoN9UTiCd4aFahF5gjRl3.jpg",
+            "id": 367462,
+            "title": "68 Kill",
+            "original_title": "68 Kill",
+            "overview": "Chip's problem is that he can't say no to beautiful women. This weakness gets him into a world of trouble when he agrees to help his girlfriend steal $68,000.",
+            "poster_path": "/80ifMmWcNMQ8uD4DTyMFEuJbEJG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 2.4935,
+            "release_date": "2017-08-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 210
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
+            "id": 1390300,
+            "title": "Over Your Dead Body",
+            "original_title": "Over Your Dead Body",
+            "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+            "poster_path": "/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "popularity": 23.5944,
+            "release_date": "2026-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.472,
+            "vote_count": 502
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hfTW2KG7KVZqNdIhHLF1RvNdSyk.jpg",
+            "id": 14542,
+            "title": "Jeff Dunham: Arguing with Myself",
+            "original_title": "Jeff Dunham: Arguing with Myself",
+            "overview": "A recorded live performance of ventriloquist Jeff Dunham portrays a comedian whose revival of an old-fashioned art has made ventriloquism more relevant to modern societal concerns. Starring his six main characters, from Bubba Jay, a Nascar-obsessed hick, to Peanut, a flamboyant gay monkey, Dunham’s puppets have dirty but inoffensive senses of humor that mock the American Dream.",
+            "poster_path": "/wh5KAy9lGcf7z9yv1Ax8hHVdUU2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 1.7495,
+            "release_date": "2006-04-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.773,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/75UkXLlLedidOGo0VogF0A0NPfC.jpg",
+            "id": 1493859,
+            "title": "Pizza Movie",
+            "original_title": "Pizza Movie",
+            "overview": "A group of college students go downstairs to their dorm lobby to get a delivery pizza. There's only one issue: They're insanely high on a homemade drug, turning their simple journey down two sets of stairs into a mind-bendingly transformative quest.",
+            "poster_path": "/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "popularity": 9.437,
+            "release_date": "2026-03-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.408,
+            "vote_count": 136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vTPgBrqEhIIqeZOCqrdNjyXzK4c.jpg",
+            "id": 1219926,
+            "title": "South Park (Not Suitable for Children)",
+            "original_title": "South Park (Not Suitable for Children)",
+            "overview": "After it's discovered that a teacher at South Park Elementary has an OnlyFans page, Randy is compelled to take a closer look at the seedy underbelly of the world of online influencers.",
+            "poster_path": "/kN5H9EhUqDWBAsbnbt2XNhS7BFe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10770
+            ],
+            "popularity": 3.347,
+            "release_date": "2023-12-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.46,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tEFYrXJXMBSNQNuHKJcobHQ3IRM.jpg",
+            "id": 1208476,
+            "title": "Ricky Gervais: Armageddon",
+            "original_title": "Ricky Gervais: Armageddon",
+            "overview": "Ricky Gervais dishes out controversial takes on political correctness and oversensitivity in a taboo-busting comedy special about the end of humanity.",
+            "poster_path": "/rnT1Aq92RdhlYMIikuwnwNMaOGu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 1.6306,
+            "release_date": "2023-12-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.13,
+            "vote_count": 227
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uh1zf6Q0UcHaqWQXZXu1qOOSCRg.jpg",
+            "id": 692,
+            "title": "Pink Flamingos",
+            "original_title": "Pink Flamingos",
+            "overview": "Notorious Baltimore criminal and underground figure Divine goes up against Connie & Raymond Marble, a sleazy married couple who make a passionate attempt to humiliate her and seize her tabloid-given title as \"The Filthiest Person Alive\".",
+            "poster_path": "/10N8SvTQwUqyWgocPam1P18Jgr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 6.4501,
+            "release_date": "1972-03-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.124,
+            "vote_count": 573
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3Z9n1DjfYzvknQvoLLkMCvQsSxz.jpg",
+            "id": 13950,
+            "title": "All About the Benjamins",
+            "original_title": "All About the Benjamins",
+            "overview": "Bounty hunter Bucum Jackson teams with the small-time con artist, Reggie Wright, that he is pursuing, in an attempt to locate a missing stash of diamonds and a lottery ticket worth millions of dollars. Bucum and Reggie find themselves in a race to the finish as they embark on an unlikely partnership that should -- when all is said and done -- prove beneficial to them both.",
+            "poster_path": "/sO7IpJHjZBGLevi8Ozj9EsAUw5h.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                80,
+                53
+            ],
+            "popularity": 2.6993,
+            "release_date": "2002-03-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.892,
+            "vote_count": 190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uI7Wxl9RMthNtSPOCfTNvPW6oWs.jpg",
+            "id": 21700,
+            "title": "Airbag",
+            "original_title": "Airbag",
+            "overview": "A man gets involved in a series of mishaps while frantically searching for his lost wedding ring",
+            "poster_path": "/sjvz7mxHsygeO4K09GoSgWR4dfy.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                35,
+                28,
+                80,
+                53
+            ],
+            "popularity": 1.5833,
+            "release_date": "1997-06-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.572,
+            "vote_count": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fEMUwqYwHQq5lokxGI1BsSG0LFK.jpg",
+            "id": 185574,
+            "title": "Louis C.K.: Oh My God",
+            "original_title": "Louis C.K.: Oh My God",
+            "overview": "Filmed at the Celebrity Theatre in Phoenix, AZ on February 15th and 16th, 2013, Oh My God is Louis C.K.'s fifth stand-up special, his first for HBO since 2007's Shameless, and his first since winning a Emmy Award for writing on his acclaimed show on FX, Louie.  Performed in the round in front of a live audience, he discusses such topics as the food chain, animals, divorce, strange anecdotes, broken morality, murder and mortality.",
+            "poster_path": "/uMiRDSnFRpKicYbikKa8aO1QKbU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 1.5422,
+            "release_date": "2013-04-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.598,
+            "vote_count": 214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bFCJcJ8Grp12Fkeh0X4oUcoV5uR.jpg",
+            "id": 8675,
+            "title": "Orgazmo",
+            "original_title": "Orgazmo",
+            "overview": "A devout Mormon living in L.A. becomes a pornographic actor after his martial arts moves impress a big-time director.",
+            "poster_path": "/irvFBOc33CHsioU6hqcu8ExymEa.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 4.0275,
+            "release_date": "1998-07-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.089,
+            "vote_count": 494
+        }
+    ]
+}

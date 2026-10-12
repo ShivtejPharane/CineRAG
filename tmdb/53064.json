@@ -1,0 +1,924 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/hII4gDYkG9DJZ6iysUO4cNjkD2p.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 53064,
+        "imdb_id": "tt0930902",
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_title": "地下幻燈劇画 少女椿",
+        "overview": "After losing her parents, young flower selling Midori is put up by a fairground group. She is abused and forced to slavery, until the arrival of an enigmatic magician of short stature, who gives her hope for a better future.",
+        "popularity": 10.6056,
+        "poster_path": "/iv3TU7RAuWnMwhsYd7eaAIJ3NuO.jpg",
+        "production_companies": [
+            {
+                "id": 77004,
+                "logo_path": null,
+                "name": "Kiryûkan",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "1992-05-02",
+        "revenue": 0,
+        "runtime": 55,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The camelia girl.",
+        "title": "Midori",
+        "video": false,
+        "vote_average": 6.014,
+        "vote_count": 175
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1107767,
+            "known_for_department": "Acting",
+            "name": "Minako Naka",
+            "original_name": "Minako Naka",
+            "popularity": 0.505,
+            "profile_path": "/vZvTURVJ8FoSpogDqqIS3CTUuHf.jpg",
+            "cast_id": 5,
+            "character": "Midori (voice)",
+            "credit_id": "52fe4851c3a36847f81613ab",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1107768,
+            "known_for_department": "Acting",
+            "name": "Norihiko Morishita",
+            "original_name": "Norihiko Morishita",
+            "popularity": 0.3314,
+            "profile_path": "/ye2Wusz0AyLZBvJvGeXqSZVTJzh.jpg",
+            "cast_id": 6,
+            "character": "Wandâ Masamitsu (voice)",
+            "credit_id": "52fe4851c3a36847f81613af",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1107769,
+            "known_for_department": "Acting",
+            "name": "Keinosuke Okamoto",
+            "original_name": "Keinosuke Okamoto",
+            "popularity": 0.2552,
+            "profile_path": null,
+            "cast_id": 7,
+            "character": "Koijirô Arashi (voice)",
+            "credit_id": "52fe4851c3a36847f81613b3",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1107770,
+            "known_for_department": "Acting",
+            "name": "Kazuyoshi Hayashi",
+            "original_name": "林和義",
+            "popularity": 0.5169,
+            "profile_path": "/59ntsdRx3WqpBpaxKo8AVChcOVM.jpg",
+            "cast_id": 8,
+            "character": "Akaza (voice)",
+            "credit_id": "52fe4851c3a36847f81613b7",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1037805,
+            "known_for_department": "Directing",
+            "name": "Yoshihiko Matsui",
+            "original_name": "松井良彦",
+            "popularity": 0.6332,
+            "profile_path": "/1Yzd01ruTy2PYdodagvYwxQDa3f.jpg",
+            "cast_id": 36,
+            "character": "",
+            "credit_id": "69a6e9edec8eff785c8dd249",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1107771,
+            "known_for_department": "Acting",
+            "name": "Yoshifumi Nomura",
+            "original_name": "Yoshifumi Nomura",
+            "popularity": 0.4803,
+            "profile_path": null,
+            "cast_id": 9,
+            "character": "Muchisute (voice)",
+            "credit_id": "52fe4851c3a36847f81613bb",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1107772,
+            "known_for_department": "Acting",
+            "name": "Sanae Katô",
+            "original_name": "Sanae Katô",
+            "popularity": 0.2965,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "Benietsu (voice)",
+            "credit_id": "52fe4851c3a36847f81613bf",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1107773,
+            "known_for_department": "Acting",
+            "name": "Yumiko Takagi",
+            "original_name": "Yumiko Takagi",
+            "popularity": 0.2988,
+            "profile_path": null,
+            "cast_id": 11,
+            "character": "Kanabun (voice)",
+            "credit_id": "52fe4851c3a36847f81613c3",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1107774,
+            "known_for_department": "Writing",
+            "name": "Akiko Tanaka",
+            "original_name": "Akiko Tanaka",
+            "popularity": 0.3012,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "Midori's Mother (voice)",
+            "credit_id": "52fe4851c3a36847f81613c7",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1107775,
+            "known_for_department": "Acting",
+            "name": "Kôji Imoto",
+            "original_name": "Kôji Imoto",
+            "popularity": 0.2183,
+            "profile_path": null,
+            "cast_id": 13,
+            "character": "Hiroshi Inagaki (voice)",
+            "credit_id": "52fe4851c3a36847f81613cb",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3805535,
+            "known_for_department": "Acting",
+            "name": "Yoshihiko Matsui",
+            "original_name": "Yoshihiko Matsui",
+            "popularity": 0.1792,
+            "profile_path": null,
+            "cast_id": 23,
+            "character": "(voice)",
+            "credit_id": "638432d35b4fed0086b38807",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3805536,
+            "known_for_department": "Acting",
+            "name": "Kinu Yoshimi",
+            "original_name": "Kinu Yoshimi",
+            "popularity": 0.2103,
+            "profile_path": null,
+            "cast_id": 24,
+            "character": "(voice)",
+            "credit_id": "638432ddb3316b0084a80db3",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3805537,
+            "known_for_department": "Acting",
+            "name": "Karuki Tamazukuri",
+            "original_name": "Karuki Tamazukuri",
+            "popularity": 0.09,
+            "profile_path": null,
+            "cast_id": 25,
+            "character": "(voice)",
+            "credit_id": "638432e95e14e500b806c150",
+            "order": 12
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1107765,
+            "known_for_department": "Directing",
+            "name": "Hiroshi Harada",
+            "original_name": "原田浩",
+            "popularity": 1.577,
+            "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+            "credit_id": "52fe4851c3a36847f81613dd",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1107777,
+            "known_for_department": "Camera",
+            "name": "Nobuyuki Sugaya",
+            "original_name": "菅谷信行",
+            "popularity": 0.4152,
+            "profile_path": null,
+            "credit_id": "6384327dbf09d100afd17d60",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1107766,
+            "known_for_department": "Writing",
+            "name": "Suehiro Maruo",
+            "original_name": "丸尾末広",
+            "popularity": 0.4516,
+            "profile_path": "/7tv0ncDzyKpGWskftVQ9dlvLx4s.jpg",
+            "credit_id": "6384322e1b157d007a4302f5",
+            "department": "Writing",
+            "job": "Comic Book"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1170115,
+            "known_for_department": "Sound",
+            "name": "J.A. Seazer",
+            "original_name": "J・A・シーザー",
+            "popularity": 0.4521,
+            "profile_path": "/xkNsmZTia04ZEH8pt65I4eFZrai.jpg",
+            "credit_id": "6384326b8fdda9009fdea9e8",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1352120,
+            "known_for_department": "Art",
+            "name": "Katsufumi Haryu",
+            "original_name": "針生勝文",
+            "popularity": 0.7506,
+            "profile_path": null,
+            "credit_id": "6392b82bd7fbda0095ed0680",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1107765,
+            "known_for_department": "Directing",
+            "name": "Hiroshi Harada",
+            "original_name": "原田浩",
+            "popularity": 1.577,
+            "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+            "credit_id": "6392b8189e458600b9015883",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 65443,
+            "known_for_department": "Editing",
+            "name": "Harutoshi Ogata",
+            "original_name": "尾形治敏",
+            "popularity": 0.7041,
+            "profile_path": null,
+            "credit_id": "6641a95b08cd508acfc17744",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1107765,
+            "known_for_department": "Directing",
+            "name": "Hiroshi Harada",
+            "original_name": "原田浩",
+            "popularity": 1.577,
+            "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+            "credit_id": "66f34517505132830e21669e",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1107765,
+            "known_for_department": "Directing",
+            "name": "Hiroshi Harada",
+            "original_name": "原田浩",
+            "popularity": 1.577,
+            "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+            "credit_id": "68bb3ab665e6732d2f9bbac8",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 2337,
+            "name": "pedophilia"
+        },
+        {
+            "id": 516,
+            "name": "child abuse"
+        },
+        {
+            "id": 570,
+            "name": "rape"
+        },
+        {
+            "id": 4662,
+            "name": "illusion"
+        },
+        {
+            "id": 9840,
+            "name": "romance"
+        },
+        {
+            "id": 11322,
+            "name": "female protagonist"
+        },
+        {
+            "id": 12663,
+            "name": "little girl"
+        },
+        {
+            "id": 13141,
+            "name": "based on manga"
+        },
+        {
+            "id": 14576,
+            "name": "pedophile"
+        },
+        {
+            "id": 157164,
+            "name": "animal death"
+        },
+        {
+            "id": 162735,
+            "name": "disability"
+        },
+        {
+            "id": 200234,
+            "name": "shocking"
+        },
+        {
+            "id": 206750,
+            "name": "transgression"
+        },
+        {
+            "id": 207545,
+            "name": "freak show"
+        },
+        {
+            "id": 207876,
+            "name": "1920s"
+        },
+        {
+            "id": 210024,
+            "name": "anime"
+        },
+        {
+            "id": 210730,
+            "name": "illusionist"
+        },
+        {
+            "id": 215492,
+            "name": "amputee"
+        },
+        {
+            "id": 222792,
+            "name": "grooming"
+        },
+        {
+            "id": 234125,
+            "name": "child protagonist"
+        },
+        {
+            "id": 239393,
+            "name": "hermaphrodite"
+        },
+        {
+            "id": 267122,
+            "name": "sex"
+        },
+        {
+            "id": 283085,
+            "name": "body horror"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/1C3Y8XqOxR9LLhKl4BxS5nTTr3C.jpg",
+            "id": 48624,
+            "title": "Urotsukidōji: Legend of the Overfiend",
+            "original_title": "超神伝説 うろつき童子",
+            "overview": "Legend has it that the human race is not the only dominant civilization living on Earth. Two other races exist in this world: the Makai (a demon race) and the Jujinkai (a half-man, half-beast race). Once every 3,000 years, a supreme being known as the Choujin (Overfiend) will emerge and bring balance to all three realms on Earth. In present-day Japan, after 300 years of endless searching, a Jujinkai named Amano Jyaku has discovered the presence of the Choujin inside high school slacker Tatsuo Nagumo. But now, Amano, along with his sister Megumi and their sidekick Kuroko, must protect Nagumo and his new girlfriend Akemi Ito from the Makai, who believe that Nagumo is not the Choujin, but an evil entity bent on destroying all living beings on Earth.",
+            "poster_path": "/5JzDyR3gEkOf1USGIeC8lSOlo3m.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                28,
+                27,
+                14
+            ],
+            "popularity": 4.305,
+            "release_date": "1989-03-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.975,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gpCfsRtAiOTG1H4sTVQpl6edZQV.jpg",
+            "id": 64847,
+            "title": "Belladonna of Sadness",
+            "original_title": "哀しみのベラドンナ",
+            "overview": "An evil feudal lord rapes a village girl on her wedding night and proceeds to ruin her and her husband's lives. After she's eventually banished from her village, the girl makes a pact with the devil to gain magical ability and take revenge.",
+            "poster_path": "/2okYZVVw7RdMwlOKcAJsQ7Nsrpr.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                18,
+                14
+            ],
+            "popularity": 3.2913,
+            "release_date": "1973-06-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 367
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mOd8oNCNyKOXs58FzdD1pPygWD.jpg",
+            "id": 14282,
+            "title": "Ninja Scroll",
+            "original_title": "獣兵衛忍風帖",
+            "overview": "Jubei is a masterless ninja who travels the land alone, lending his services to those with gold—or a worthy cause. His fearsome abilities have served him well, but a plot to overthrow the government threatens to end his wandering ways—and possibly his life.",
+            "poster_path": "/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                14,
+                16,
+                28,
+                27,
+                36
+            ],
+            "popularity": 4.213,
+            "release_date": "1993-06-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 761
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rmhhTF2fr8w6iNh8KHNi6EqWLZv.jpg",
+            "id": 21453,
+            "title": "Wicked City",
+            "original_title": "妖獣都市",
+            "overview": "A peace treaty between the Earth and the Black World, a parallel universe of demons, is coming to an end. Two cops, Taki, a human male, and Maki, a female demon, are assigned to protect a diplomat who will help secure another treaty. A radical group of demons from the Black World are out to assassinate the diplomat and prevent the treaty; only the bond that forms between the two cops can save the Earth from destruction.",
+            "poster_path": "/aFtLwGv6pcqO72M1v5iQYZOCkZ5.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                14,
+                27
+            ],
+            "popularity": 3.7133,
+            "release_date": "1987-04-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bt3hh1kbNJhntZT5hQCWImKBJzj.jpg",
+            "id": 44179,
+            "title": "Demon City Shinjuku",
+            "original_title": "魔界都市＜新宿＞",
+            "overview": "Ten Years ago, Genichiro Izayoi died trying to stop the sorcerer Rebi Ra, and as a result Shinjuku became a playground for demons. And now, the day approaches when Rebi Ra will complete his decade-long ritual to plunge the rest of the world into chaos! As Genichiro's son, it falls to Kyoya to venture into the heart of Shinjuku and put an end to the sorcerer his father couldn't beat. Can Kyoya exceed his father's legacy, or will the demons of Shinjuku create Hell on Earth?",
+            "poster_path": "/9O6Mewk4JmM7pLvsHt9Eyq92fWq.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                14,
+                16,
+                27
+            ],
+            "popularity": 2.7131,
+            "release_date": "1988-10-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.031,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p9UJnaKy2GDjZpQFG4fwTILuxEp.jpg",
+            "id": 62182,
+            "title": "Devilman - Volume 3: Devilman Apocalypse",
+            "original_title": "AMON デビルマン黙示録",
+            "overview": "Fear runs rampant throughout Tokyo with the revelation that demons in fact exist amongst us. Paranoia and the darker side of humanity boils onto the streets as people turn on one another, suspecting that anyone could in fact be a demon hiding in human clothing. Amidst the growing tensions, tragedy strikes Akira causing his mind to snap, retreating into his subconscious, allowing his Devilish alter-ego Amon to break free from Akira's cage of flesh and wreak havoc on both human and demons alike.",
+            "poster_path": "/jFqY8LaZLrn0uCiOuqZ2ebiSRkn.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                14,
+                27
+            ],
+            "popularity": 1.9181,
+            "release_date": "2000-05-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.978,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nMfRuH0WOdl4UVn4t3BK4GlcJ1m.jpg",
+            "id": 44587,
+            "title": "X",
+            "original_title": "X -エックス-",
+            "overview": "It's the year of destiny, and 15 year old Kamui Shiro, a powerful psychic, has returned to Toyko after a 6 year absence, having left when he was very young. He wants to be with his childhood friends, Fuma (his best friend) and Kotori, Fuma's little sister (and Kamui's possible girlfriend). He wants to protect them from all dangers, but destiny and fate are haunting Kamui and pulling in himself and his beloved childhood friends. It is his destiny and his sole decision to decide the fate of the world, no matter if he wants the role or not. Now it is a matter of if he will join the side of the Seven Seals and become the Dragon of Heaven to save mankind or join the Seven Angels and become the Dragon of Earth to destroy all civilization so the earth can heal itself from man's destruction.",
+            "poster_path": "/irv0rrd34VGdxHRjI3AiJiXnAdo.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                16,
+                14,
+                27
+            ],
+            "popularity": 2.9911,
+            "release_date": "1996-08-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tDM4UAaHxMrvODGIUj9ZixmyVmw.jpg",
+            "id": 357786,
+            "title": "Kizumonogatari Part 1: Tekketsu",
+            "original_title": "傷物語〈Ⅰ鉄血篇〉",
+            "overview": "One day, Koyomi Araragi encounters the horrifying vampire, Kiss-shot Acerola-orion Heart-under-blade A.K.A. the \"King of Apparitions.\" He saves the fatally wounded Kiss-shot by offering his blood at the expense of his own life as a human. Now Koyomi has to face the vampire hunters to retrieve Kiss-shot’s limbs which were taken by these hunters...",
+            "poster_path": "/vftYhVOdvMCmb0dQIRIKmUYG9TU.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                14,
+                18,
+                9648,
+                28
+            ],
+            "popularity": 2.708,
+            "release_date": "2016-01-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.715,
+            "vote_count": 314
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dPPjBf74W1j8va6KvDGePaJcqm7.jpg",
+            "id": 539517,
+            "title": "Constantine: City of Demons - The Movie",
+            "original_title": "Constantine: City of Demons - The Movie",
+            "overview": "A decade after a tragic mistake, family man Chas Chandler and occult detective John Constantine set out to cure his daughter Trish from a mysterious supernatural coma.",
+            "poster_path": "/tZIMe2pYug1cS9e7AZnd1bTTidM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                16,
+                27,
+                28
+            ],
+            "popularity": 4.0273,
+            "release_date": "2018-10-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.683,
+            "vote_count": 671
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hH7p7r2yn6AhckdEW7Z5MNMsWFP.jpg",
+            "id": 85398,
+            "title": "A Thousand and One Nights",
+            "original_title": "千夜一夜物語",
+            "overview": "Aldin, a vagabond water vendor, embarks of a series of fantastical and tragic misadventures through the Middle East in search of love, fortune, and power.",
+            "poster_path": "/tjBg2W3UCxZIr5SnXyfgs9rTUqd.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                18,
+                14,
+                27
+            ],
+            "popularity": 3.8141,
+            "release_date": "1969-06-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wyDNiOVWwviCFzWITuxs9CnjmAW.jpg",
+            "id": 396263,
+            "title": "GANTZ:O",
+            "original_title": "GANTZ:O",
+            "overview": "After being brutally murdered in a subway station, a teen boy awakens to find himself resurrected by a strange computer named Gantz, and forced to fight a large force of invading aliens in Osaka.",
+            "poster_path": "/9yTuw6ddf28lItHwgeqFSNtXsaG.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                878,
+                28,
+                18
+            ],
+            "popularity": 5.6399,
+            "release_date": "2016-10-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 858
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9CxwriuI30YxGhKqLnr5A8FgP9r.jpg",
+            "id": 171823,
+            "title": "Blood-C: The Last Dark",
+            "original_title": "Blood-C The Last Dark",
+            "overview": "Tokyo, Winter. Despite the use of the Youth Ordinance Bill to enforce curfews for minors and regulate the use of the Internet, young people continue to fight for their own freedom through underground methods. One such group calls themselves Surat. They have decided to take on Fumito Nanahara, a man who has great influence on the political world, and basically controls Tokyo with an iron fist. While using the Internet as a weapon to discover more information about Fumito, they learn about \"Tower\", the secret organization behind Fumito which engages in human experimentation.",
+            "poster_path": "/sUlxd7SRFr6ou8d5MfL0sj7XpSv.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                28,
+                27
+            ],
+            "popularity": 2.5239,
+            "release_date": "2012-06-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 157
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b0wvlhQdnBMKjkxDDs3OqHVYgCW.jpg",
+            "id": 642538,
+            "title": "Inu-Oh",
+            "original_title": "犬王",
+            "overview": "A cursed dancer and a blind musician — both ostracized by society — become business partners and inseparable friends as their larger-than-life concerts propel them to stardom in 14th century Japan.",
+            "poster_path": "/67WmijqW7fjmLcc0eKZtW59Hf4d.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                18,
+                10402,
+                14,
+                36
+            ],
+            "popularity": 3.3928,
+            "release_date": "2022-05-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.377,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lwkwVTNdNeG0a1FT06wr1Ylm1OV.jpg",
+            "id": 15999,
+            "title": "Vampire Hunter D: Bloodlust",
+            "original_title": "吸血鬼ハンターD ブラッドラスト",
+            "overview": "Legendary dhampir D competes with a motley family of bounty hunters to track down Charlotte Elbourne, a young woman seemingly abducted by undead nobleman Meier Link.",
+            "poster_path": "/9ipbQRgOq6Ilxpwagfa98ikgR9v.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                14,
+                27
+            ],
+            "popularity": 5.3115,
+            "release_date": "2001-04-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.711,
+            "vote_count": 823
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rQNWdUtbZxkvbFRfGZr9iUOizfs.jpg",
+            "id": 791348,
+            "title": "DC Showcase - Constantine: The House of Mystery",
+            "original_title": "DC Showcase - Constantine: The House of Mystery",
+            "overview": "John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!",
+            "poster_path": "/nKLa8IginSnGQAAsr1kzIqiDmkf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                27
+            ],
+            "popularity": 3.7687,
+            "release_date": "2022-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/udXzNuKUkVwLriw084f1KbB0STb.jpg",
+            "id": 48628,
+            "title": "Urotsukidōji III: Return of the Overfiend",
+            "original_title": "超神伝説うろつき童子 未来篇",
+            "overview": "As the Overfiend slumbers, the mad emperor Caesar rises to power, enslaving a new race of demon beasts. Into this cruel existence is born the Lord of Chaos, the Overfiend's nemesis. As the blood-thirsty beasts capture the tyrant's daughter in a brutal coup, the Overfiend must awaken to an apocalyptic battle of the Gods.",
+            "poster_path": "/ve47BKzivPD4C53BrkoItdWGE24.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                27,
+                14
+            ],
+            "popularity": 2.7146,
+            "release_date": "1993-12-31",
+            "softcore": false,
+            "video": true,
+            "vote_average": 6.6,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1zs8iKZMKrtIh2MulIwwU6Gs9EK.jpg",
+            "id": 9463,
+            "title": "Vampire Hunter D",
+            "original_title": "バンパイアハンターD",
+            "overview": "In a far-future time ruled by the supernatural, a young girl requests the help of a vampire hunter to kill the vampire who has bitten her and thus prevent her from becoming a vampire herself.",
+            "poster_path": "/5Ni9RhIs6cLUrBLwdrqZ2fUFimS.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                14,
+                27
+            ],
+            "popularity": 4.5199,
+            "release_date": "1985-12-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.622,
+            "vote_count": 546
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+            "id": 18491,
+            "title": "Neon Genesis Evangelion: The End of Evangelion",
+            "original_title": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+            "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
+            "poster_path": "/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                878,
+                18,
+                14,
+                28
+            ],
+            "popularity": 15.4951,
+            "release_date": "1997-07-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 1902
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d8VGgwr2WApwFewrL5yZQgo78E0.jpg",
+            "id": 16774,
+            "title": "Hellboy Animated: Sword of Storms",
+            "original_title": "Hellboy Animated: Sword of Storms",
+            "overview": "A folklore professor becomes unwittingly possessed by the ancient Japanese demons of Thunder and Lightning. But when The Bureau of Paranormal Research & Defense dispatches a team of agents to investigate, a cursed samurai sword sends Hellboy to a supernatural dimension of ghosts, monsters, and feudal mayhem. Now while pyrokinetic Liz Sherman and fishboy Abe Sapien battle one very pissed-off dragon, a lost and cranky Hellboy must find his way home.",
+            "poster_path": "/vUCrcikFCDsvA6IiS59kdfQkseU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                16,
+                14,
+                28,
+                27,
+                12,
+                53,
+                10770
+            ],
+            "popularity": 2.4514,
+            "release_date": "2006-10-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.296,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yPJyXYfDrlD7bEjAtTAQ8nqmRIf.jpg",
+            "id": 1333100,
+            "title": "Attack on Titan: THE LAST ATTACK",
+            "original_title": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
+            "overview": "A colossal-sized omnibus film bringing together the last two episodes of Attack on Titan in the franchise's first-ever theatrical experience. After venturing beyond the walls and separated from his comrades, Eren finds himself inspired by this new truth and plots the \"Rumbling,\" a terrifying plan to eradicate every living thing in the world. With the fate of the world hanging in the balance, a motley crew of Eren's former comrades and enemies scramble to halt his deadly mission. The only question is, can they stop him?",
+            "poster_path": "/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                18
+            ],
+            "popularity": 6.9368,
+            "release_date": "2024-03-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.676,
+            "vote_count": 227
+        }
+    ]
+}

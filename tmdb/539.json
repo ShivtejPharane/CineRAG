@@ -1,0 +1,1429 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg",
+        "belongs_to_collection": {
+            "id": 119674,
+            "name": "Psycho Collection",
+            "poster_path": "/2cFhmOImIv5VPbc2ieLRPCFacAh.jpg",
+            "backdrop_path": "/qawcCCyJNcdOpDRuXo5aJJycecY.jpg"
+        },
+        "budget": 806947,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "homepage": "",
+        "id": 539,
+        "imdb_id": "tt0054215",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Psycho",
+        "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+        "popularity": 23.3126,
+        "poster_path": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+        "production_companies": [
+            {
+                "id": 10717,
+                "logo_path": null,
+                "name": "Shamley Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1960-06-22",
+        "revenue": 50000000,
+        "runtime": 109,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "A new and altogether different screen excitement!",
+        "title": "Psycho",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 11126
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7301,
+            "known_for_department": "Acting",
+            "name": "Anthony Perkins",
+            "original_name": "Anthony Perkins",
+            "popularity": 2.5724,
+            "profile_path": "/7FipKwmg2woHNvt5ATeXLBirHXs.jpg",
+            "cast_id": 4,
+            "character": "Norman Bates",
+            "credit_id": "52fe424fc3a36847f8014213",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 7302,
+            "known_for_department": "Acting",
+            "name": "Janet Leigh",
+            "original_name": "Janet Leigh",
+            "popularity": 3.4575,
+            "profile_path": "/2dv9IqJEx31RSoH7xAHlJZXF5uB.jpg",
+            "cast_id": 5,
+            "character": "Marion Crane",
+            "credit_id": "52fe424fc3a36847f8014217",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 7303,
+            "known_for_department": "Acting",
+            "name": "Vera Miles",
+            "original_name": "Vera Miles",
+            "popularity": 2.0801,
+            "profile_path": "/9PDTsJnBfrAlvVPOBBFS3ehN8lD.jpg",
+            "cast_id": 6,
+            "character": "Lila Crane",
+            "credit_id": "52fe424fc3a36847f801421b",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7304,
+            "known_for_department": "Acting",
+            "name": "John Gavin",
+            "original_name": "John Gavin",
+            "popularity": 1.5143,
+            "profile_path": "/n8vlG1PRtNzv6vlwjTNK7UnoKr0.jpg",
+            "cast_id": 7,
+            "character": "Sam Loomis",
+            "credit_id": "52fe424fc3a36847f801421f",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1936,
+            "known_for_department": "Acting",
+            "name": "Martin Balsam",
+            "original_name": "Martin Balsam",
+            "popularity": 2.361,
+            "profile_path": "/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg",
+            "cast_id": 20,
+            "character": "Milton Arbogast",
+            "credit_id": "52fe424fc3a36847f8014265",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 53010,
+            "known_for_department": "Acting",
+            "name": "John McIntire",
+            "original_name": "John McIntire",
+            "popularity": 2.1785,
+            "profile_path": "/6t1VIejDVkfyspgrwlvgyrbDwWk.jpg",
+            "cast_id": 21,
+            "character": "Al Chambers",
+            "credit_id": "52fe424fc3a36847f8014269",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 14063,
+            "known_for_department": "Acting",
+            "name": "Simon Oakland",
+            "original_name": "Simon Oakland",
+            "popularity": 1.8486,
+            "profile_path": "/wDytzjcJNp1P39mZ1hcRb8mcvvl.jpg",
+            "cast_id": 22,
+            "character": "Fred Richman",
+            "credit_id": "52fe424fc3a36847f801426d",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 78902,
+            "known_for_department": "Acting",
+            "name": "Frank Albertson",
+            "original_name": "Frank Albertson",
+            "popularity": 1.2009,
+            "profile_path": "/sT9JZ8GgHgunZS4PWIDX6wMoIS7.jpg",
+            "cast_id": 23,
+            "character": "Tom Cassidy",
+            "credit_id": "52fe424fc3a36847f8014271",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 12500,
+            "known_for_department": "Acting",
+            "name": "Patricia Hitchcock",
+            "original_name": "Patricia Hitchcock",
+            "popularity": 0.9874,
+            "profile_path": "/bgMYy4SJLFcFex91an1D593pBY9.jpg",
+            "cast_id": 24,
+            "character": "Caroline",
+            "credit_id": "52fe424fc3a36847f8014275",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3641,
+            "known_for_department": "Acting",
+            "name": "Vaughn Taylor",
+            "original_name": "Vaughn Taylor",
+            "popularity": 1.2418,
+            "profile_path": "/qX7jGnLyveGDBRy9nRgzBJFMqTH.jpg",
+            "cast_id": 25,
+            "character": "George Lowery",
+            "credit_id": "52fe424fc3a36847f8014279",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 19781,
+            "known_for_department": "Acting",
+            "name": "Lurene Tuttle",
+            "original_name": "Lurene Tuttle",
+            "popularity": 1.4607,
+            "profile_path": "/t0dLpAfrSECNGjtGsGiO4SQquVW.jpg",
+            "cast_id": 26,
+            "character": "Mrs. Chambers",
+            "credit_id": "52fe424fc3a36847f801427d",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19111,
+            "known_for_department": "Acting",
+            "name": "John Anderson",
+            "original_name": "John Anderson",
+            "popularity": 1.9124,
+            "profile_path": "/wcliAvgKHkwUmxkMUIGETp9tk1d.jpg",
+            "cast_id": 29,
+            "character": "California Charlie",
+            "credit_id": "52fe424fc3a36847f8014285",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 45525,
+            "known_for_department": "Acting",
+            "name": "Mort Mills",
+            "original_name": "Mort Mills",
+            "popularity": 1.2674,
+            "profile_path": "/lSFwFQog617EIKnhUlZllxorH9u.jpg",
+            "cast_id": 28,
+            "character": "Highway Patrol Officer",
+            "credit_id": "52fe424fc3a36847f8014281",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2223538,
+            "known_for_department": "Acting",
+            "name": "Fletcher Allen",
+            "original_name": "Fletcher Allen",
+            "popularity": 0.2854,
+            "profile_path": null,
+            "cast_id": 62,
+            "character": "Policeman on Steps (uncredited)",
+            "credit_id": "5f4c5bfd74507d0032b19265",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1550460,
+            "known_for_department": "Acting",
+            "name": "Walter Bacon",
+            "original_name": "Walter Bacon",
+            "popularity": 0.67,
+            "profile_path": null,
+            "cast_id": 31,
+            "character": "Church Member (uncredited)",
+            "credit_id": "56b8df83c3a368746600091d",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1824638,
+            "known_for_department": "Acting",
+            "name": "Kit Carson",
+            "original_name": "Kit Carson",
+            "popularity": 0.4997,
+            "profile_path": null,
+            "cast_id": 64,
+            "character": "(uncredited)",
+            "credit_id": "5f4c5c8712aabc0034a8fdc1",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 124848,
+            "known_for_department": "Acting",
+            "name": "Francis De Sales",
+            "original_name": "Francis De Sales",
+            "popularity": 0.4746,
+            "profile_path": "/1fI2uJRm9ClJznIgcm2fIUr2KRA.jpg",
+            "cast_id": 32,
+            "character": "Alan Deats (uncredited)",
+            "credit_id": "56b93fb692514106aa000b80",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 117673,
+            "known_for_department": "Acting",
+            "name": "George Dockstader",
+            "original_name": "George Dockstader",
+            "popularity": 0.321,
+            "profile_path": null,
+            "cast_id": 33,
+            "character": "(uncredited)",
+            "credit_id": "56b93fedc3a3681e680017b0",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 116135,
+            "known_for_department": "Acting",
+            "name": "George Eldredge",
+            "original_name": "George Eldredge",
+            "popularity": 0.759,
+            "profile_path": "/4sWV8w8lX6UC0mnI8wmESKcwO6z.jpg",
+            "cast_id": 37,
+            "character": "James Mitchell (uncredited)",
+            "credit_id": "56b940cc92514106b4000c1c",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 183856,
+            "known_for_department": "Acting",
+            "name": "Harper Flaherty",
+            "original_name": "Harper Flaherty",
+            "popularity": 0.3501,
+            "profile_path": null,
+            "cast_id": 34,
+            "character": "(uncredited)",
+            "credit_id": "56b9400992514106aa000b91",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 120736,
+            "known_for_department": "Acting",
+            "name": "Sam Flint",
+            "original_name": "Sam Flint",
+            "popularity": 0.8784,
+            "profile_path": "/iZXn3Myb6SVQifYpWt1aixEyqWJ.jpg",
+            "cast_id": 38,
+            "character": "County Sheriff (uncredited)",
+            "credit_id": "56b940f6c3a3681e77000bac",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 19110,
+            "known_for_department": "Acting",
+            "name": "Virginia Gregg",
+            "original_name": "Virginia Gregg",
+            "popularity": 2.1552,
+            "profile_path": "/AmNAKjlShaPxv7C3Z2xYC0vvSk5.jpg",
+            "cast_id": 39,
+            "character": "Norma Bates (voice) (uncredited)",
+            "credit_id": "56b9412bc3a3681e64000b81",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2636,
+            "known_for_department": "Directing",
+            "name": "Alfred Hitchcock",
+            "original_name": "Alfred Hitchcock",
+            "popularity": 3.9759,
+            "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
+            "cast_id": 30,
+            "character": "Man Outside Office (uncredited)",
+            "credit_id": "52fe424fc3a36847f8014289",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1844168,
+            "known_for_department": "Acting",
+            "name": "Paul Jasmin",
+            "original_name": "Paul Jasmin",
+            "popularity": 0.3675,
+            "profile_path": null,
+            "cast_id": 56,
+            "character": "Norma Bates (voice) (uncredited)",
+            "credit_id": "5bc2c8c50e0a266e6b03efaa",
+            "order": 23
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2492916,
+            "known_for_department": "Acting",
+            "name": "Lee Kass",
+            "original_name": "Lee Kass",
+            "popularity": 0.2668,
+            "profile_path": null,
+            "cast_id": 65,
+            "character": "(uncredited)",
+            "credit_id": "5f4c5cda65e0a2003551f5c0",
+            "order": 24
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 117602,
+            "known_for_department": "Acting",
+            "name": "Frank Killmond",
+            "original_name": "Frank Killmond",
+            "popularity": 0.3693,
+            "profile_path": null,
+            "cast_id": 41,
+            "character": "Bob Summerfield (uncredited)",
+            "credit_id": "56b941a792514106a1000be4",
+            "order": 25
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 71146,
+            "known_for_department": "Acting",
+            "name": "Ted Knight",
+            "original_name": "Ted Knight",
+            "popularity": 1.0436,
+            "profile_path": "/KQ1T3PD20c238GYwBQt6Ph7sFZ.jpg",
+            "cast_id": 42,
+            "character": "Policeman in Hallway Opening Door (uncredited)",
+            "credit_id": "56b941ccc3a3681e5d000cb0",
+            "order": 26
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 151550,
+            "known_for_department": "Acting",
+            "name": "Pat McCaffrie",
+            "original_name": "Pat McCaffrie",
+            "popularity": 0.4058,
+            "profile_path": null,
+            "cast_id": 43,
+            "character": "Police Guard (uncredited)",
+            "credit_id": "56b941edc3a3681e7d000c8c",
+            "order": 27
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1469587,
+            "known_for_department": "Acting",
+            "name": "Hans Moebus",
+            "original_name": "Hans Moebus",
+            "popularity": 0.6624,
+            "profile_path": null,
+            "cast_id": 44,
+            "character": "Passerby on Sidewalk (uncredited)",
+            "credit_id": "56b9420cc3a3681e5d000cbf",
+            "order": 28
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 7520,
+            "known_for_department": "Acting",
+            "name": "Jeanette Nolan",
+            "original_name": "Jeanette Nolan",
+            "popularity": 2.6485,
+            "profile_path": "/wb9G3heeItXTpXqPy4HlNDMJWrE.jpg",
+            "cast_id": 40,
+            "character": "Norma Bates (voice) (uncredited)",
+            "credit_id": "56b9416792514106ac000be0",
+            "order": 29
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1422376,
+            "known_for_department": "Acting",
+            "name": "Lillian O'Malley",
+            "original_name": "Lillian O'Malley",
+            "popularity": 0.4419,
+            "profile_path": null,
+            "cast_id": 35,
+            "character": "(uncredited)",
+            "credit_id": "56b9403bc3a3681e59000d3a",
+            "order": 30
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 938901,
+            "known_for_department": "Acting",
+            "name": "Robert Osborne",
+            "original_name": "Robert Osborne",
+            "popularity": 0.6415,
+            "profile_path": "/bFfmauxhtvh1kKOej899kEiNC6M.jpg",
+            "cast_id": 54,
+            "character": "Man (uncredited)",
+            "credit_id": "58af21e39251414a210001ba",
+            "order": 31
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1574696,
+            "known_for_department": "Acting",
+            "name": "Fred Scheiwiller",
+            "original_name": "Fred Scheiwiller",
+            "popularity": 0.3664,
+            "profile_path": null,
+            "cast_id": 36,
+            "character": "(uncredited)",
+            "credit_id": "56b9409d92514106aa000bb6",
+            "order": 32
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 114962,
+            "known_for_department": "Acting",
+            "name": "Helen Wallace",
+            "original_name": "Helen Wallace",
+            "popularity": 0.8203,
+            "profile_path": "/jpPmlUP1JgBNnWef4n9cLI7mZ8M.jpg",
+            "cast_id": 45,
+            "character": "Hardware Store Customer (uncredited)",
+            "credit_id": "56b94232925141069f000c2f",
+            "order": 33
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2636,
+            "known_for_department": "Directing",
+            "name": "Alfred Hitchcock",
+            "original_name": "Alfred Hitchcock",
+            "popularity": 3.9759,
+            "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
+            "credit_id": "52fe424ec3a36847f8014203",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7300,
+            "known_for_department": "Writing",
+            "name": "Joseph Stefano",
+            "original_name": "Joseph Stefano",
+            "popularity": 0.7609,
+            "profile_path": null,
+            "credit_id": "52fe424fc3a36847f801420f",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2636,
+            "known_for_department": "Directing",
+            "name": "Alfred Hitchcock",
+            "original_name": "Alfred Hitchcock",
+            "popularity": 3.9759,
+            "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
+            "credit_id": "52fe424fc3a36847f8014225",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1045,
+            "known_for_department": "Sound",
+            "name": "Bernard Herrmann",
+            "original_name": "Bernard Herrmann",
+            "popularity": 0.7446,
+            "profile_path": "/vpIPFhUpHBqDrbgbnaQnDCYekDI.jpg",
+            "credit_id": "52fe424fc3a36847f801422b",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7305,
+            "known_for_department": "Camera",
+            "name": "John L. Russell",
+            "original_name": "John L. Russell",
+            "popularity": 0.4684,
+            "profile_path": null,
+            "credit_id": "52fe424fc3a36847f8014231",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2655,
+            "known_for_department": "Editing",
+            "name": "George Tomasini",
+            "original_name": "George Tomasini",
+            "popularity": 0.4,
+            "profile_path": null,
+            "credit_id": "52fe424fc3a36847f8014237",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6934,
+            "known_for_department": "Art",
+            "name": "George Milo",
+            "original_name": "George Milo",
+            "popularity": 0.536,
+            "profile_path": null,
+            "credit_id": "52fe424fc3a36847f801423d",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7306,
+            "known_for_department": "Art",
+            "name": "Robert Clatworthy",
+            "original_name": "Robert Clatworthy",
+            "popularity": 0.3838,
+            "profile_path": null,
+            "credit_id": "52fe424fc3a36847f8014243",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7307,
+            "known_for_department": "Art",
+            "name": "Joseph Hurley",
+            "original_name": "Joseph Hurley",
+            "popularity": 0.261,
+            "profile_path": null,
+            "credit_id": "52fe424fc3a36847f8014249",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7311,
+            "known_for_department": "Crew",
+            "name": "Clarence Champagne",
+            "original_name": "Clarence Champagne",
+            "popularity": 0.2642,
+            "profile_path": null,
+            "credit_id": "52fe424fc3a36847f8014261",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19460,
+            "known_for_department": "Art",
+            "name": "Saul Bass",
+            "original_name": "Saul Bass",
+            "popularity": 0.8448,
+            "profile_path": null,
+            "credit_id": "6096c375b2e074003b6fb3e9",
+            "department": "Art",
+            "job": "Title Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1574697,
+            "known_for_department": "Production",
+            "name": "Lew Leary",
+            "original_name": "Lew Leary",
+            "popularity": 0.2778,
+            "profile_path": null,
+            "credit_id": "56b9441ec3a3681e6800188c",
+            "department": "Production",
+            "job": "Unit Manager"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6935,
+            "known_for_department": "Production",
+            "name": "Hilton A. Green",
+            "original_name": "Hilton A. Green",
+            "popularity": 0.5521,
+            "profile_path": null,
+            "credit_id": "56b94447c3a3681e59000e2f",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3456,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Helen Colvig",
+            "original_name": "Helen Colvig",
+            "popularity": 0.385,
+            "profile_path": "/fruO5H9bpyjWJgTB0UwPFWgIM3G.jpg",
+            "credit_id": "56b945c0c3a3681e6d000ce3",
+            "department": "Costume & Make-Up",
+            "job": "Costume Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7309,
+            "known_for_department": "Sound",
+            "name": "William Russell",
+            "original_name": "William Russell",
+            "popularity": 0.2481,
+            "profile_path": null,
+            "credit_id": "65a8371aa6ddcb0133243610",
+            "department": "Sound",
+            "job": "Sound Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 7310,
+            "known_for_department": "Sound",
+            "name": "Waldon O. Watson",
+            "original_name": "Waldon O. Watson",
+            "popularity": 0.632,
+            "profile_path": null,
+            "credit_id": "65a838267d2bc10130ea2200",
+            "department": "Sound",
+            "job": "Sound Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7299,
+            "known_for_department": "Writing",
+            "name": "Robert Bloch",
+            "original_name": "Robert Bloch",
+            "popularity": 0.8298,
+            "profile_path": "/sc6dSKVCdqxCCqwHdBjtsCFLMyn.jpg",
+            "credit_id": "5bb2c36f9251414269003857",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2162947,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Florence Bush",
+            "original_name": "Florence Bush",
+            "popularity": 0.5359,
+            "profile_path": null,
+            "credit_id": "5c5c5936c3a3683ccf89de48",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1610777,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Jack Barron",
+            "original_name": "Jack Barron",
+            "popularity": 0.4592,
+            "profile_path": null,
+            "credit_id": "5c5c594ec3a3683cd189cf79",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1339685,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Robert Dawn",
+            "original_name": "Robert Dawn",
+            "popularity": 0.4209,
+            "profile_path": null,
+            "credit_id": "5c5c59649251413374ba462e",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Supervisor"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 612,
+            "name": "hotel"
+        },
+        {
+            "id": 1443,
+            "name": "clerk"
+        },
+        {
+            "id": 703,
+            "name": "detective"
+        },
+        {
+            "id": 1879,
+            "name": "shower"
+        },
+        {
+            "id": 1859,
+            "name": "arizona"
+        },
+        {
+            "id": 2669,
+            "name": "motel"
+        },
+        {
+            "id": 3335,
+            "name": "halloween"
+        },
+        {
+            "id": 8627,
+            "name": "stolen money"
+        },
+        {
+            "id": 9181,
+            "name": "alter ego"
+        },
+        {
+            "id": 9719,
+            "name": "taxidermy"
+        },
+        {
+            "id": 10594,
+            "name": "money"
+        },
+        {
+            "id": 9826,
+            "name": "murder"
+        },
+        {
+            "id": 10562,
+            "name": "on the run"
+        },
+        {
+            "id": 11677,
+            "name": "secretary"
+        },
+        {
+            "id": 10714,
+            "name": "serial killer"
+        },
+        {
+            "id": 12339,
+            "name": "slasher"
+        },
+        {
+            "id": 12565,
+            "name": "psychological thriller"
+        },
+        {
+            "id": 12999,
+            "name": "black and white"
+        },
+        {
+            "id": 13092,
+            "name": "corpse"
+        },
+        {
+            "id": 13112,
+            "name": "murderer"
+        },
+        {
+            "id": 14604,
+            "name": "theft"
+        },
+        {
+            "id": 14646,
+            "name": "overbearing mother"
+        },
+        {
+            "id": 14831,
+            "name": "stabbing"
+        },
+        {
+            "id": 41329,
+            "name": "mental illness"
+        },
+        {
+            "id": 155790,
+            "name": "private detective"
+        },
+        {
+            "id": 156091,
+            "name": "missing person"
+        },
+        {
+            "id": 156761,
+            "name": "split personality"
+        },
+        {
+            "id": 176182,
+            "name": "psycho"
+        },
+        {
+            "id": 178649,
+            "name": "voyeurism"
+        },
+        {
+            "id": 180340,
+            "name": "voyeur"
+        },
+        {
+            "id": 190205,
+            "name": "oedipus complex"
+        },
+        {
+            "id": 217140,
+            "name": "double identity"
+        },
+        {
+            "id": 222314,
+            "name": "abusive mother"
+        },
+        {
+            "id": 227947,
+            "name": "dual personality"
+        },
+        {
+            "id": 233450,
+            "name": "proto-slasher"
+        },
+        {
+            "id": 236119,
+            "name": "multiple personality disorder"
+        },
+        {
+            "id": 240237,
+            "name": "mother son relationship"
+        },
+        {
+            "id": 240242,
+            "name": "birds"
+        },
+        {
+            "id": 314152,
+            "name": "motel owner"
+        },
+        {
+            "id": 323925,
+            "name": "corruptibility"
+        },
+        {
+            "id": 323926,
+            "name": "confused identities"
+        },
+        {
+            "id": 323927,
+            "name": "human vulnerabilities"
+        },
+        {
+            "id": 325798,
+            "name": "disgusted"
+        },
+        {
+            "id": 325825,
+            "name": "horrified"
+        },
+        {
+            "id": 347137,
+            "name": "man with female alter ego"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/6w4WKcZc0Qqi1fm9LfaIER7Hr0L.jpg",
+            "id": 10576,
+            "title": "Psycho II",
+            "original_title": "Psycho II",
+            "overview": "Norman Bates is declared sane and released from the facility in which he was being held, despite the complaints of Lila Loomis, sister of his most famous victim. Is he really cured, or will he kill again?",
+            "poster_path": "/sJAPRj3vHmjV4z97YK84iDovYlm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 5.231,
+            "release_date": "1983-06-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.511,
+            "vote_count": 754
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+            "id": 913290,
+            "title": "Barbarian",
+            "original_title": "Barbarian",
+            "overview": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "poster_path": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 12.6579,
+            "release_date": "2022-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.874,
+            "vote_count": 3384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+            "id": 1330421,
+            "title": "Bone Lake",
+            "original_title": "Bone Lake",
+            "overview": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+            "poster_path": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 10.9358,
+            "release_date": "2025-10-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.891,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iiPBXynI88EgnpunHoUlBCnLpSE.jpg",
+            "id": 2832,
+            "title": "Identity",
+            "original_title": "Identity",
+            "overview": "Complete strangers stranded at a remote desert motel during a raging storm soon find themselves the target of a deranged murderer. As their numbers thin out, the travelers begin to turn on each other, as each tries to figure out who the killer is.",
+            "poster_path": "/sYgimsiBywqVwJI8H4sETke8m7v.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "popularity": 10.8824,
+            "release_date": "2003-04-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 4453
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vTsEz34qxqBDOxVNdqC1bXNlL3X.jpg",
+            "id": 11033,
+            "title": "Dressed to Kill",
+            "original_title": "Dressed to Kill",
+            "overview": "After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.",
+            "poster_path": "/oy1m5dd44foNrxV8U9l6Walx82V.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                9648,
+                27
+            ],
+            "popularity": 5.1431,
+            "release_date": "1980-07-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.956,
+            "vote_count": 1134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aCaqCvYn48b3lfGKGnUdVAE1yeB.jpg",
+            "id": 814800,
+            "title": "Goodnight Mommy",
+            "original_title": "Goodnight Mommy",
+            "overview": "When twin brothers arrive home to find their mother’s demeanor altered and face covered in surgical bandages, they begin to suspect the woman beneath the gauze might not be their mother.",
+            "poster_path": "/oHhD5jD4S5ElPNNFCDKXJAzMZ5h.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 3.8146,
+            "release_date": "2022-09-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.281,
+            "vote_count": 568
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/48LdnfGahm8LuM2cg7LFWEmrTEd.jpg",
+            "id": 1081208,
+            "title": "The Dogs",
+            "original_title": "The Dogs",
+            "overview": "After fleeing his psychotic father, a young teen and his mom seek refuge in a remote farmhouse, only to face a pack of ferocious dogs and the sinister spirits that haunt the property.",
+            "poster_path": "/kz6oqKyKCjmR8V1JdnF9brp9DSn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 3.925,
+            "release_date": "2025-06-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.574,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/94YH8jiKn9whvImsx3Mq4xJrdDs.jpg",
+            "id": 419835,
+            "title": "Crooked House",
+            "original_title": "Crooked House",
+            "overview": "A private investigator helps a former flame solve the murder of her wealthy grandfather, who lived in a sprawling estate surrounded by his idiosyncratic family.",
+            "poster_path": "/AewyKG2cvgZQBG4XU6SVomfu1k5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                80,
+                53
+            ],
+            "popularity": 4.8724,
+            "release_date": "2017-09-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.374,
+            "vote_count": 1006
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+            "id": 77,
+            "title": "Memento",
+            "original_title": "Memento",
+            "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "poster_path": "/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "popularity": 22.7822,
+            "release_date": "2000-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.174,
+            "vote_count": 16512
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ekZUWo5XtSrfe10RKWrL0YKkq9b.jpg",
+            "id": 1043565,
+            "title": "Mindcage",
+            "original_title": "Mindcage",
+            "overview": "Detectives Jake Doyle and Mary Kelly seek the help of an incarcerated serial killer named The Artist when a copycat killer strikes. While Mary searches for clues in The Artist's brilliant but twisted psyche, she and Jake are lured into a diabolical game of cat and mouse, racing against time to stay one step ahead of The Artist and his copycat.",
+            "poster_path": "/fUi9vNYQaB8QtrbEyS9J6vbKJJt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                53,
+                80
+            ],
+            "popularity": 4.4197,
+            "release_date": "2022-12-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.908,
+            "vote_count": 435
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg",
+            "id": 458723,
+            "title": "Us",
+            "original_title": "Us",
+            "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.",
+            "poster_path": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 11.51,
+            "release_date": "2019-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.942,
+            "vote_count": 8193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yt3wwVVZEeE0VvsxooDTwZhY8Ig.jpg",
+            "id": 532814,
+            "title": "The Bad Seed",
+            "original_title": "The Bad Seed",
+            "overview": "A widower suspects that his seemingly perfect adolescent daughter is a heartless killer.",
+            "poster_path": "/1m10QitDjpbZgFP1syXgVOv2pH7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                10770
+            ],
+            "popularity": 4.4842,
+            "release_date": "2018-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.073,
+            "vote_count": 358
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hZiVR0mn81iyYnRQNw7gGRaHkw8.jpg",
+            "id": 829038,
+            "title": "Night Shift",
+            "original_title": "Night Shift",
+            "overview": "A young woman working her first night shift at a remote motel begins to suspect that she is being followed by a dangerous character from her past. As the night progresses and increasingly supernatural  events occur, she quickly finds out that nothing is what it appears to be.",
+            "poster_path": "/shsdw00R6RwkGsUmT7O5cKhmLqv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.9251,
+            "release_date": "2023-03-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/49RkUuDWrsv5ba6525fAXG5g0Tg.jpg",
+            "id": 13937,
+            "title": "Raising Cain",
+            "original_title": "Raising Cain",
+            "overview": "Child psychologist Carter Nix is a loving and caring family man, but under this appearance lies a dark and troubled past. Grappling with the consequences of this past on his own psyche and the influence of his returning father and violent brother Cain, Carter becomes involved in a series of murders and kidnappings. Meanwhile, his wife Jenny rekindles an old love affair, placing herself in the crosshairs of her increasingly unstable husband.",
+            "poster_path": "/5vRn138vnZeUNFe32qTuPGKkVLR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.91,
+            "release_date": "1992-08-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 401
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/35kYvfK9TUOQ912QVsNoTCnYqlH.jpg",
+            "id": 502416,
+            "title": "Ma",
+            "original_title": "Ma",
+            "overview": "Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.",
+            "poster_path": "/6n7ASmQ1wY2cxTubFFGlcvPpyk7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.6804,
+            "release_date": "2019-05-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.815,
+            "vote_count": 2467
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+            "id": 10299,
+            "title": "Hush... Hush, Sweet Charlotte",
+            "original_title": "Hush... Hush, Sweet Charlotte",
+            "overview": "An aging, reclusive Southern belle plagued by a horrifying family secret descends into madness after the arrival of a lost relative.",
+            "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 3.2454,
+            "release_date": "1964-12-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.302,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jiW3TaZtpMQgMfVnMn5Nmciqhdv.jpg",
+            "id": 1530875,
+            "title": "All the Devils Are Here",
+            "original_title": "All the Devils Are Here",
+            "overview": "After a heist, four criminals lay low in a remote safehouse, waiting for orders. As paranoia builds, one thing becomes clear — the real threat may not be outside, but among them.",
+            "poster_path": "/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                9648
+            ],
+            "popularity": 4.2503,
+            "release_date": "2025-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.179,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg",
+            "id": 1023922,
+            "title": "MaXXXine",
+            "original_title": "MaXXXine",
+            "overview": "In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.",
+            "poster_path": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 8.2111,
+            "release_date": "2024-07-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 1567
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qKF9GwtJbi2rob8kZBmGcQGAaMo.jpg",
+            "id": 11596,
+            "title": "Wes Craven's New Nightmare",
+            "original_title": "Wes Craven's New Nightmare",
+            "overview": "A demonic force has chosen Freddy Krueger as its portal to the real world. Can Heather Langenkamp play the part of Nancy one last time and trap the evil trying to enter our world?",
+            "poster_path": "/q5BWxfL1x34nyYSvA3Qo5odleGW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                14
+            ],
+            "popularity": 6.6389,
+            "release_date": "1994-10-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1627
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5C6njaciKvyZlKWUrQX7mjdl4D1.jpg",
+            "id": 2043,
+            "title": "Along Came a Spider",
+            "original_title": "Along Came a Spider",
+            "overview": "After the harrowing death of his partner, forensic psychologist and best-selling author Alex Cross cannot forgive himself and has retreated to the peace of retirement. But when a brilliant criminal kidnaps a senator's young daughter, he is lured back into action as the kidnapper wants to deal with Alex personally. Teamed with Jezzie Flanigan, the Secret Service agent assigned to protect the missing girl, Alex follows a serpentine trail of clues that leads him to a stunning discovery - the kidnapper wants more than just ransom.",
+            "poster_path": "/vipRsbIpwUNf1gjfOcVNizQ1o3c.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                9648,
+                53,
+                28
+            ],
+            "popularity": 6.1464,
+            "release_date": "2001-04-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.346,
+            "vote_count": 2092
+        }
+    ]
+}

@@ -1,0 +1,1011 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/1McO40rFBnUSz0EB2EwYQlUv9LV.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 776797,
+        "imdb_id": "tt13872248",
+        "origin_country": [
+            "TW"
+        ],
+        "original_language": "zh",
+        "original_title": "哭悲",
+        "overview": "A young couple is pushed to the limits of sanity as they attempt to be reunited amid the chaos of a pandemic outbreak. The streets erupt into violence and depravity, as those infected are driven to enact the most cruel and ghastly things imaginable.",
+        "popularity": 11.1458,
+        "poster_path": "/a7VHvhROWorsWrtNKQnLZTxpxuG.jpg",
+        "production_companies": [
+            {
+                "id": 157638,
+                "logo_path": "/Ald7xs1VHUiJge0oNEPgwzkB6PR.png",
+                "name": "Machi Xcelsior Studios",
+                "origin_country": "TW"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "release_date": "2021-01-22",
+        "revenue": 0,
+        "runtime": 100,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Mandarin",
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "status": "Released",
+        "tagline": "It feels...wonderful...",
+        "title": "The Sadness",
+        "video": false,
+        "vote_average": 6.841,
+        "vote_count": 1198
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2407771,
+            "known_for_department": "Acting",
+            "name": "Berant Zhu",
+            "original_name": "朱軒洋",
+            "popularity": 0.9856,
+            "profile_path": "/dWCVwm3MecRuo9nNnxAMwbbIyVD.jpg",
+            "cast_id": 1,
+            "character": "Jim",
+            "credit_id": "5fda3c7f385202003ff57c74",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2874730,
+            "known_for_department": "Acting",
+            "name": "Regina Lei",
+            "original_name": "雷嘉汭",
+            "popularity": 1.8431,
+            "profile_path": "/gnd2t2Ya9AfAKAlOovqXZbMVXp2.jpg",
+            "cast_id": 2,
+            "character": "Kat",
+            "credit_id": "5fda3c85385202003ef606ce",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2889663,
+            "known_for_department": "Acting",
+            "name": "Wang Tzu-chiang",
+            "original_name": "王自強",
+            "popularity": 0.8041,
+            "profile_path": "/3Y5dNXJnM6zZpmrQPPXUsniAwiA.jpg",
+            "cast_id": 3,
+            "character": "Business Man",
+            "credit_id": "5fda3c8d9408ec003dde03d8",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2896620,
+            "known_for_department": "Acting",
+            "name": "Apple Chen",
+            "original_name": "陳映如",
+            "popularity": 0.8228,
+            "profile_path": "/rzCPFtMrR4vZO3ORojPk3gJbKTj.jpg",
+            "cast_id": 5,
+            "character": "Molly",
+            "credit_id": "5fda411bcf48a1003f44c855",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2298208,
+            "known_for_department": "Acting",
+            "name": "Lan Wei-hua",
+            "original_name": "藍葦華",
+            "popularity": 1.0118,
+            "profile_path": "/rqJjuV8DCxCoGkteinJECz4p6AK.jpg",
+            "cast_id": 6,
+            "character": "Dr. Alan Wong",
+            "credit_id": "5fda4182706e560041d24348",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1473997,
+            "known_for_department": "Acting",
+            "name": "Ralf Chiu",
+            "original_name": "邱彥翔",
+            "popularity": 0.7251,
+            "profile_path": "/9i9BrKZMjCmOJwbqHfFMJ4HdWxP.jpg",
+            "cast_id": 4,
+            "character": "Mr. Lin",
+            "credit_id": "5fda3cd6cf4b8b003e9dec5a",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3491259,
+            "known_for_department": "Acting",
+            "name": "Huang Lueh-geng",
+            "original_name": "黃略耕",
+            "popularity": 0.6061,
+            "profile_path": "/oetVPX69HCsmodxRIbmjjtuv45m.jpg",
+            "cast_id": 16,
+            "character": "Kevin / MRT Employee",
+            "credit_id": "624fc386109cd000668e6525",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1260978,
+            "known_for_department": "Acting",
+            "name": "Emerson Tsai",
+            "original_name": "蔡昌憲",
+            "popularity": 1.0552,
+            "profile_path": "/hLKscapHezzzTLo7l2dSWw6XoXH.jpg",
+            "cast_id": 7,
+            "character": "Warren Liu",
+            "credit_id": "5fda418a0d5d85003e2dfe87",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3300391,
+            "known_for_department": "Acting",
+            "name": "Chih-Min Chou",
+            "original_name": "周之民",
+            "popularity": 0.5777,
+            "profile_path": "/v3Cp0c9t6SL0rECzLk2LQDk6o6k.jpg",
+            "cast_id": 40,
+            "character": "Old Woman",
+            "credit_id": "68bd7e125e0d47b0758cefcd",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5676010,
+            "known_for_department": "Acting",
+            "name": "An-Long Cai",
+            "original_name": "蔡岸龍",
+            "popularity": 0.2227,
+            "profile_path": null,
+            "cast_id": 41,
+            "character": "President",
+            "credit_id": "68bd80b477e17450c398bb32",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2891478,
+            "known_for_department": "Acting",
+            "name": "Liu Chang-han",
+            "original_name": "劉昌翰",
+            "popularity": 0.7276,
+            "profile_path": "/1QEe1JK2dGsH8tvTgNBvxXviOvW.jpg",
+            "cast_id": 17,
+            "character": "General",
+            "credit_id": "624fc3a56840cc00a2dbb50a",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1901157,
+            "known_for_department": "Acting",
+            "name": "Kass Tsai",
+            "original_name": "蔡承邑",
+            "popularity": 0.6419,
+            "profile_path": "/6PMnLXxoKcViqVJPbWRTOkmn5K3.jpg",
+            "cast_id": 36,
+            "character": "Cafe Owner (uncredited)",
+            "credit_id": "659a283c4d0e8d014897e0ca",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2312880,
+            "known_for_department": "Acting",
+            "name": "Ark Zheng",
+            "original_name": "鄭永岳",
+            "popularity": 1.0716,
+            "profile_path": "/Gre50qVpcKw0MDQRXE3vLsjyRc.jpg",
+            "cast_id": 29,
+            "character": "Man Wearing Sunglasses on the Subway (uncredited)",
+            "credit_id": "634589f02dffd8007a397d14",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5089774,
+            "known_for_department": "Acting",
+            "name": "Ricky Liu",
+            "original_name": "劉丞",
+            "popularity": 0.4256,
+            "profile_path": "/fIUcwUsxhhabcv6sKGzrJKsldUu.jpg",
+            "cast_id": 39,
+            "character": "Man Who Has His Eyes Gouged Out on the Subway (uncredited)",
+            "credit_id": "6762fb3240d2c02ecdab0e2f",
+            "order": 13
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3061802,
+            "known_for_department": "Production",
+            "name": "Li-Cheng Huang",
+            "original_name": "Li-Cheng Huang",
+            "popularity": 0.4362,
+            "profile_path": null,
+            "credit_id": "6259ab245f2db100a8561460",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3507936,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Naoto Tung",
+            "original_name": "Naoto Tung",
+            "popularity": 0.1505,
+            "profile_path": null,
+            "credit_id": "6259ac605e120012c60ecabc",
+            "department": "Costume & Make-Up",
+            "job": "Wardrobe Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1539990,
+            "known_for_department": "Sound",
+            "name": "Ric Schnupp",
+            "original_name": "Ric Schnupp",
+            "popularity": 0.5219,
+            "profile_path": "/AjJjCuP1sHIkYch92muQ7le4fzy.jpg",
+            "credit_id": "6259ab49dff66e0051b18436",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1445916,
+            "known_for_department": "Directing",
+            "name": "Rob Jabbaz",
+            "original_name": "Rob Jabbaz",
+            "popularity": 1.0081,
+            "profile_path": "/3sSUxIrREBVHPhUt6a0Qa5VoEgv.jpg",
+            "credit_id": "6259ab92fe6c18009f1461a6",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3507922,
+            "known_for_department": "Art",
+            "name": "Chin-Fu Liu",
+            "original_name": "Chin-Fu Liu",
+            "popularity": 0.2067,
+            "profile_path": null,
+            "credit_id": "6259ab7ee0ec51195a3ebf99",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3507919,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Azzurro Kuo",
+            "original_name": "Azzurro Kuo",
+            "popularity": 0.1637,
+            "profile_path": null,
+            "credit_id": "6259ab39a0f1a200666e416d",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3507933,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Nina Chiang",
+            "original_name": "Nina Chiang",
+            "popularity": 0.2008,
+            "profile_path": null,
+            "credit_id": "6259ac3decaef515fd0269b8",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3507931,
+            "known_for_department": "Art",
+            "name": "Bonnie Chen",
+            "original_name": "Bonnie Chen",
+            "popularity": 0.228,
+            "profile_path": null,
+            "credit_id": "6259ac0efe6c180068e89dc5",
+            "department": "Art",
+            "job": "Supervising Art Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3507932,
+            "known_for_department": "Art",
+            "name": "Teyen Liu",
+            "original_name": "Teyen Liu",
+            "popularity": 0.2247,
+            "profile_path": null,
+            "credit_id": "6259ac1fc92c5d1968a039d3",
+            "department": "Art",
+            "job": "Set Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1445916,
+            "known_for_department": "Directing",
+            "name": "Rob Jabbaz",
+            "original_name": "Rob Jabbaz",
+            "popularity": 1.0081,
+            "profile_path": "/3sSUxIrREBVHPhUt6a0Qa5VoEgv.jpg",
+            "credit_id": "60f63d67f1759c005f32bf5d",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3164406,
+            "known_for_department": "Camera",
+            "name": "Bai Jie-li",
+            "original_name": "白杰立",
+            "popularity": 0.4265,
+            "profile_path": "/kczuRewJ1R9MRegI0rvBNF9kngY.jpg",
+            "credit_id": "60f63d7012c604007448215a",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3164404,
+            "known_for_department": "Production",
+            "name": "Lu Wei-chun",
+            "original_name": "盧維君",
+            "popularity": 0.3816,
+            "profile_path": null,
+            "credit_id": "60f63d5de72fe8002f8af980",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3746554,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Elaine Ye",
+            "original_name": "Elaine Ye",
+            "popularity": 0.2315,
+            "profile_path": null,
+            "credit_id": "634ef284880c9200796b6423",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3312981,
+            "known_for_department": "Production",
+            "name": "Eunice Cheng",
+            "original_name": "Eunice Cheng",
+            "popularity": 0.2374,
+            "profile_path": null,
+            "credit_id": "634ef1a5076ce8007fff2a09",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3746546,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Alina Chen",
+            "original_name": "Alina Chen",
+            "popularity": 0.081,
+            "profile_path": null,
+            "credit_id": "634ef248869e750085b03aa3",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3154409,
+            "known_for_department": "Visual Effects",
+            "name": "Logan Sprangers",
+            "original_name": "Logan Sprangers",
+            "popularity": 0.262,
+            "profile_path": null,
+            "credit_id": "634ef2d3869e75007d0333ac",
+            "department": "Visual Effects",
+            "job": "Visual Effects"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3746552,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Emily Chiang",
+            "original_name": "Emily Chiang",
+            "popularity": 0.2545,
+            "profile_path": null,
+            "credit_id": "634ef265076ce800917546a9",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4552539,
+            "known_for_department": "Production",
+            "name": "David Barker",
+            "original_name": "David Barker",
+            "popularity": 0.2227,
+            "profile_path": "/4FtRPomrp4eSaIvZnDvycIht15b.jpg",
+            "credit_id": "65d81bd5944a57017c23fab3",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2539600,
+            "known_for_department": "Directing",
+            "name": "Schiele Lee",
+            "original_name": "Schiele Lee",
+            "popularity": 0.2901,
+            "profile_path": null,
+            "credit_id": "65d967ec688cd0016310c83b",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1445916,
+            "known_for_department": "Directing",
+            "name": "Rob Jabbaz",
+            "original_name": "Rob Jabbaz",
+            "popularity": 1.0081,
+            "profile_path": "/3sSUxIrREBVHPhUt6a0Qa5VoEgv.jpg",
+            "credit_id": "5fda428b29c62600411e73a8",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1445916,
+            "known_for_department": "Directing",
+            "name": "Rob Jabbaz",
+            "original_name": "Rob Jabbaz",
+            "popularity": 1.0081,
+            "profile_path": "/3sSUxIrREBVHPhUt6a0Qa5VoEgv.jpg",
+            "credit_id": "5fda4400609750003e9e0c0f",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3164407,
+            "known_for_department": "Sound",
+            "name": "Tzechar",
+            "original_name": "Tzechar",
+            "popularity": 0.1855,
+            "profile_path": "/80hVNosdOXxCrYF0xxoOWW1Ub7L.jpg",
+            "credit_id": "68bd869555ff55b5e58cebb3",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 570,
+            "name": "rape"
+        },
+        {
+            "id": 1583,
+            "name": "mass murder"
+        },
+        {
+            "id": 14624,
+            "name": "cruelty"
+        },
+        {
+            "id": 188957,
+            "name": "virus"
+        },
+        {
+            "id": 188973,
+            "name": "pandemic"
+        },
+        {
+            "id": 242410,
+            "name": "depraved"
+        },
+        {
+            "id": 278235,
+            "name": "cannibalism"
+        },
+        {
+            "id": 328072,
+            "name": "fight for survival"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/1J5n9DDQN62pKkyTwzxr3wvZTzU.jpg",
+            "id": 1103437,
+            "title": "Please Don't Feed the Children",
+            "original_title": "Please Don't Feed the Children",
+            "overview": "After a viral outbreak ravaged the country’s adult population, a group of orphans heads south in search of a new life, only to find themselves at the mercy of a deranged woman harboring a dangerous secret.",
+            "poster_path": "/GoIIdrjmXo587L2s2mqgMFvBIs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.7953,
+            "release_date": "2025-07-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.217,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rwr038BaQBqRQbnP8yps4hXp5Dp.jpg",
+            "id": 426814,
+            "title": "The Domestics",
+            "original_title": "The Domestics",
+            "overview": "A young husband and wife must fight to return home in a post-apocalyptic mid-western landscape ravaged by gangs.",
+            "poster_path": "/j64I3u1wwgPct3stvvKU2ikl14w.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.8339,
+            "release_date": "2018-06-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.126,
+            "vote_count": 528
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iXRxlRsBr0mGr9Wx3OPbVdbUJzl.jpg",
+            "id": 360784,
+            "title": "Hidden",
+            "original_title": "Hidden",
+            "overview": "A family takes refuge in a fallout shelter to avoid a dangerous outbreak.",
+            "poster_path": "/mPuaHaczkoJDzlYD9GyXiDjMXig.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 5.6874,
+            "release_date": "2015-09-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.958,
+            "vote_count": 1224
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/83ownpZPvBHJD5UVNShzQfa3LaW.jpg",
+            "id": 1562,
+            "title": "28 Weeks Later",
+            "original_title": "28 Weeks Later",
+            "overview": "Twenty-eight weeks after the spread of a deadly rage virus, the inhabitants of the British Isles have lost their battle against the onslaught, as the virus has killed everyone there. Six months later, a group of Americans dare to set foot on the Isles, convinced the danger has passed. But it soon becomes all too clear that the scourge continues to live, waiting to pounce on its next victims.",
+            "poster_path": "/oix0aNv1lvW3nUGspUyvSIBlpbs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "popularity": 15.7959,
+            "release_date": "2007-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.597,
+            "vote_count": 5719
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aqm0i13UOmow0K30gB1hrNYpJca.jpg",
+            "id": 721625,
+            "title": "Songbird",
+            "original_title": "Songbird",
+            "overview": "During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.",
+            "poster_path": "/pm7pstYup0ZHpImjT0k6YyxGVkX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "popularity": 5.0711,
+            "release_date": "2020-12-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.157,
+            "vote_count": 795
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2GmnhciVW262POiTCx43TTSvys3.jpg",
+            "id": 13460,
+            "title": "Doomsday",
+            "original_title": "Doomsday",
+            "overview": "The lethal Reaper virus spreads throughout Britain—infecting millions and killing hundreds of thousands. Authorities brutally and successfully quarantine the country but, three decades later, the virus resurfaces in a major city. An elite group of specialists is urgently dispatched into the still-quarantined country to retrieve a cure by any means necessary. Shut off from the rest of the world, the unit must battle through a landscape that has become a waking nightmare.",
+            "poster_path": "/cKUmTyXgmhv8cMRCY9RYTKcAeTn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "popularity": 6.8782,
+            "release_date": "2008-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.939,
+            "vote_count": 1427
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+            "id": 1100988,
+            "title": "28 Years Later",
+            "original_title": "28 Years Later",
+            "overview": "Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+            "poster_path": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "popularity": 27.2853,
+            "release_date": "2025-06-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.606,
+            "vote_count": 2767
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jmE8wxLSS90K1K01mCBaS4rQq23.jpg",
+            "id": 601844,
+            "title": "Becky",
+            "original_title": "Becky",
+            "overview": "A teenager's weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.",
+            "poster_path": "/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27,
+                28
+            ],
+            "popularity": 4.7516,
+            "release_date": "2020-07-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.317,
+            "vote_count": 737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k3xS5HuixDQXRFg4eX9vLohuGjP.jpg",
+            "id": 1162858,
+            "title": "The Other",
+            "original_title": "The Other",
+            "overview": "Unable to conceive, a couple seeks to build a family with a young orphan, survivor of tragic childhood. But their act of love turns to horror when they realize the violence in their foster's past has returned to destroy the new family.",
+            "poster_path": "/kE6FV8Lc9Aqir6OlgaNgnbFcy9E.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.7283,
+            "release_date": "2025-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.167,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+            "id": 170,
+            "title": "28 Days Later",
+            "original_title": "28 Days Later",
+            "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+            "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "popularity": 22.5782,
+            "release_date": "2002-10-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.244,
+            "vote_count": 8699
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/np58LPJkwC3THsKBkBscDKSlQPz.jpg",
+            "id": 1029235,
+            "title": "Azrael",
+            "original_title": "Azrael",
+            "overview": "In a world where no one speaks, a devout female hunts down a young woman who has escaped her imprisonment. Recaptured by its ruthless leaders, Azrael is due to be sacrificed to pacify an ancient evil deep within the surrounding wilderness.",
+            "poster_path": "/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "popularity": 5.55,
+            "release_date": "2024-09-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.853,
+            "vote_count": 463
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wqlwSAATTZTYA60OSeTKsj4ChZh.jpg",
+            "id": 830788,
+            "title": "The Invitation",
+            "original_title": "The Invitation",
+            "overview": "After the death of her mother, Evie is approached by an unknown cousin who invites her to a lavish wedding in the English countryside. Soon, she realizes a gothic conspiracy is afoot and must fight for survival as she uncovers twisted secrets in her family’s history.",
+            "poster_path": "/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.0929,
+            "release_date": "2022-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.985,
+            "vote_count": 986
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+            "id": 1426297,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+            "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.9648,
+            "release_date": "2025-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
+            "id": 1251717,
+            "title": "Vicious",
+            "original_title": "Vicious",
+            "overview": "When Polly receives a mysterious box, it comes with one rule: place inside something she needs, something she hates, and something she loves. If she doesn’t obey, it will consume everything—and everyone—she’s ever known.",
+            "poster_path": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.7756,
+            "release_date": "2025-08-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 281
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
+            "id": 285923,
+            "title": "Grindhouse",
+            "original_title": "Grindhouse",
+            "overview": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
+            "poster_path": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                27
+            ],
+            "popularity": 5.1775,
+            "release_date": "2007-04-06",
+            "softcore": false,
+            "video": true,
+            "vote_average": 7.004,
+            "vote_count": 1915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aPrrrGtSjXbw8XnpzsVJgF0ioq3.jpg",
+            "id": 20504,
+            "title": "The Book of Eli",
+            "original_title": "The Book of Eli",
+            "overview": "A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.",
+            "poster_path": "/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "popularity": 10.4146,
+            "release_date": "2010-01-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.805,
+            "vote_count": 6793
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/456tLLmzg7OeNyijCvCfL6X55VV.jpg",
+            "id": 1142414,
+            "title": "Cheat",
+            "original_title": "Cheat",
+            "overview": "On the surface it's believed to be another urban legend - a supernatural being from the afterlife is violently killing anyone who cheats on their significant other in the small college town of Silvercreek, Pennsylvania. But the town's unusually high suicide rate is finally convincing both locals and college students that everything is not as it seems. When Maeve - a female college student - sleeps with Charlie, the married man of the host family she is staying with, both sense the deadly curse is closing in on them. Unable to get anyone to believe them, Maeve and Charlie seek out a local history student to help find answers and figure out a way to defend themselves. It all comes undone, however, as several people are horrifically killed by the savage being - one-by-one at a rapid pace. Eventually, Maeve, Charlie and the few survivors band together in an attempt to defeat the monster once and for all.",
+            "poster_path": "/46Um9OTHNA390mMxwpSSc2m35Zp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.8601,
+            "release_date": "2023-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.014,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o2SeAw8ARPB1D8oudCRJcxW3w60.jpg",
+            "id": 13186,
+            "title": "Wrong Turn 2: Dead End",
+            "original_title": "Wrong Turn 2: Dead End",
+            "overview": "Retired military commander Colonel Dale Murphy hosts the simulated post-apocalyptic reality show where participants are challenged to survive a remote West Virginia wasteland. But the show turns into a nightmarish showdown when each realizes they are being hunted by an inbred family of cannibals determined to make them all dinner!",
+            "poster_path": "/ow3IMhTVLryZuCEoQznVTTmFYuu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 10.5968,
+            "release_date": "2007-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.174,
+            "vote_count": 1586
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dUbOGH7CWEIr2aCZBpG2n33Vhw2.jpg",
+            "id": 1141182,
+            "title": "Die Alone",
+            "original_title": "Die Alone",
+            "overview": "Lost in a world reclaimed by nature and overrun by mysterious creatures, Ethan, a young man with amnesia navigates the dangerous landscape in search of his lost love Emma.  His journey takes an unexpected turn when he encounters Mae, a hardened and eccentric survivor.  Together, Ethan and Mae face threats both human and otherwise before a fateful encounter with Kai unravels a secret that lies just beyond Ethan's fractured memory.",
+            "poster_path": "/dQdIj2OYELhLzECWONY932wGRxA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "popularity": 5.4194,
+            "release_date": "2024-09-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.308,
+            "vote_count": 172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r4clWIxKeWoqrHspQP0XunuUmB7.jpg",
+            "id": 442249,
+            "title": "The First Purge",
+            "original_title": "The First Purge",
+            "overview": "To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America test a sociological theory that vents aggression for one night in one isolated community. But when the violence of oppressors meets the rage of the others, the contagion will explode from the trial-city borders and spread across the nation.",
+            "poster_path": "/litjsBoiydO6JlO70uOX4N3WnNL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "popularity": 7.8236,
+            "release_date": "2018-07-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.997,
+            "vote_count": 4269
+        }
+    ]
+}

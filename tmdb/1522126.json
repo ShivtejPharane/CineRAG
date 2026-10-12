@@ -1,0 +1,791 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/62a8bMDftwD9aU0dkXr4eN6Q5q2.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documentary"
+            },
+            {
+                "id": 10770,
+                "name": "TV Movie"
+            }
+        ],
+        "homepage": "https://www.channel4.com/programmes/1000-men-and-me-the-bonnie-blue-story",
+        "id": 1522126,
+        "imdb_id": "tt37738006",
+        "origin_country": [
+            "GB"
+        ],
+        "original_language": "en",
+        "original_title": "1000 Men and Me: The Bonnie Blue Story",
+        "overview": "Adult content creator Bonnie Blue announced that she’d slept with 1057 men in 12 hours. Exploring the polarising debate around Bonnie and the pornification of our society, the film follows her over the most eye-opening six months of her life.",
+        "popularity": 30.9894,
+        "poster_path": "/ip78INb1BSW1YbQLd5iOnsYvsc5.jpg",
+        "production_companies": [
+            {
+                "id": 269521,
+                "logo_path": null,
+                "name": "Magnificent Pictures",
+                "origin_country": ""
+            },
+            {
+                "id": 5778,
+                "logo_path": "/2loyoQweDxvotH3AknfL2zhsthg.png",
+                "name": "Channel 4 Television",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2025-07-29",
+        "revenue": 0,
+        "runtime": 60,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "1000 Men and Me: The Bonnie Blue Story",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 26
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2925129,
+            "known_for_department": "Acting",
+            "name": "Bonnie Blue",
+            "original_name": "Bonnie Blue",
+            "popularity": 3.7569,
+            "profile_path": "/rdDY91UYwb17B1TdTv0VwIoVwi7.jpg",
+            "cast_id": 4,
+            "character": "Self",
+            "credit_id": "68892f6b06e371a3905aded1",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2917635,
+            "known_for_department": "Directing",
+            "name": "Victoria Silver",
+            "original_name": "Victoria Silver",
+            "popularity": 2.9711,
+            "profile_path": null,
+            "cast_id": 17,
+            "character": "Self (voice)",
+            "credit_id": "688f95c61881a0c10311dc17",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5620334,
+            "known_for_department": "Acting",
+            "name": "Josh Lee Spooner",
+            "original_name": "Josh Lee Spooner",
+            "popularity": 0.5192,
+            "profile_path": null,
+            "cast_id": 21,
+            "character": "Self",
+            "credit_id": "689a69975d3761d8fb8dae21",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5620340,
+            "known_for_department": "Acting",
+            "name": "Ermes de Cristofaro",
+            "original_name": "Ermes de Cristofaro",
+            "popularity": 0.3395,
+            "profile_path": null,
+            "cast_id": 22,
+            "character": "Self",
+            "credit_id": "689a6b3bda9b244a391a2e6c",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5620395,
+            "known_for_department": "Acting",
+            "name": "Ollie Davidson",
+            "original_name": "Ollie Davidson",
+            "popularity": 0.4184,
+            "profile_path": null,
+            "cast_id": 23,
+            "character": "Self",
+            "credit_id": "689a6f0868c37615c3c6fcb1",
+            "order": 4
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 2865521,
+            "known_for_department": "Acting",
+            "name": "Andy Lee",
+            "original_name": "Andy Lee",
+            "popularity": 0.0,
+            "profile_path": "/42N2uciafWylF1f9Uvr8XNBIJeE.jpg",
+            "cast_id": 24,
+            "character": "Self",
+            "credit_id": "689a6f2616f93e9bebc6fbe9",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5620418,
+            "known_for_department": "Acting",
+            "name": "Sarah Billinger",
+            "original_name": "Sarah Billinger",
+            "popularity": 0.4826,
+            "profile_path": null,
+            "cast_id": 25,
+            "character": "Self",
+            "credit_id": "689a70e614835f85285d1681",
+            "order": 6
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2917635,
+            "known_for_department": "Directing",
+            "name": "Victoria Silver",
+            "original_name": "Victoria Silver",
+            "popularity": 2.9711,
+            "profile_path": null,
+            "credit_id": "68892f39efa49eead4e136e4",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1607004,
+            "known_for_department": "Editing",
+            "name": "Kate Spankie",
+            "original_name": "Kate Spankie",
+            "popularity": 0.4136,
+            "profile_path": null,
+            "credit_id": "68892f44bb82bb41c1581047",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5594545,
+            "known_for_department": "Production",
+            "name": "Mark Henderson",
+            "original_name": "Mark Henderson",
+            "popularity": 0.4028,
+            "profile_path": null,
+            "credit_id": "68892f57246dec20f4694232",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4686676,
+            "known_for_department": "Directing",
+            "name": "James Bainbridge",
+            "original_name": "James Bainbridge",
+            "popularity": 0.3062,
+            "profile_path": null,
+            "credit_id": "688a04777db3e6ed6ca1a4d9",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5595740,
+            "known_for_department": "Camera",
+            "name": "Dominic Longmuir",
+            "original_name": "Dominic Longmuir",
+            "popularity": 0.349,
+            "profile_path": null,
+            "credit_id": "688a048efe9eb0b54cb26ba1",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3567388,
+            "known_for_department": "Directing",
+            "name": "Sam Wilkinson",
+            "original_name": "Sam Wilkinson",
+            "popularity": 0.3226,
+            "profile_path": null,
+            "credit_id": "688a04bbc924e19083b26abe",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5595742,
+            "known_for_department": "Sound",
+            "name": "Stephen O'Toole",
+            "original_name": "Stephen O'Toole",
+            "popularity": 0.4312,
+            "profile_path": null,
+            "credit_id": "688a04f5eda54843a5d0248b",
+            "department": "Sound",
+            "job": "Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4532111,
+            "known_for_department": "Editing",
+            "name": "Azem Kola",
+            "original_name": "Azem Kola",
+            "popularity": 0.2683,
+            "profile_path": null,
+            "credit_id": "688a050eefa49eead4e1391f",
+            "department": "Editing",
+            "job": "Colorist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4532111,
+            "known_for_department": "Editing",
+            "name": "Azem Kola",
+            "original_name": "Azem Kola",
+            "popularity": 0.2683,
+            "profile_path": null,
+            "credit_id": "688a051ef74e816848b26b86",
+            "department": "Editing",
+            "job": "Online Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5595744,
+            "known_for_department": "Art",
+            "name": "Rosie Holtom",
+            "original_name": "Rosie Holtom",
+            "popularity": 0.3295,
+            "profile_path": null,
+            "credit_id": "688a052be132e0fd7d01d493",
+            "department": "Art",
+            "job": "Graphic Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4247703,
+            "known_for_department": "Sound",
+            "name": "Justin Nicholls",
+            "original_name": "Justin Nicholls",
+            "popularity": 0.3582,
+            "profile_path": null,
+            "credit_id": "688a0539ee5bab2f8e01d4d9",
+            "department": "Sound",
+            "job": "Music"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5595746,
+            "known_for_department": "Production",
+            "name": "Lola Afolabi",
+            "original_name": "Lola Afolabi",
+            "popularity": 0.3497,
+            "profile_path": null,
+            "credit_id": "688a056cf3aad78905694644",
+            "department": "Production",
+            "job": "Producer's Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5595747,
+            "known_for_department": "Production",
+            "name": "Cassie Wolfinger",
+            "original_name": "Cassie Wolfinger",
+            "popularity": 0.2958,
+            "profile_path": null,
+            "credit_id": "688a057d3f3a653d1ee13a28",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5595748,
+            "known_for_department": "Production",
+            "name": "Anna Curtin",
+            "original_name": "Anna Curtin",
+            "popularity": 0.1971,
+            "profile_path": null,
+            "credit_id": "688a058ca2284baf19a1a5c3",
+            "department": "Production",
+            "job": "Development Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2178753,
+            "known_for_department": "Camera",
+            "name": "Theodore Tennant",
+            "original_name": "Theodore Tennant",
+            "popularity": 0.3242,
+            "profile_path": null,
+            "credit_id": "6a105e23bc1e6f12ada30b40",
+            "department": "Camera",
+            "job": "Camera Operator"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 18321,
+            "name": "porn industry"
+        },
+        {
+            "id": 155477,
+            "name": "softcore"
+        },
+        {
+            "id": 239225,
+            "name": "nude photography"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/5oRKJU5NxAtAirvR9eZCbbRcJzo.jpg",
+            "id": 19929,
+            "title": "9to5: Days in Porn",
+            "original_title": "9to5: Days in Porn",
+            "overview": "9to5 - Days in Porn focuses on the people behind a controversial and multi-billion dollar industry \"The Adult Entertainment industry\". It depicts their stories, each one different, unadorned and authentic, without glorification or prejudice. It delivers deep insight into their personal lives - from glamorous to grotesque - strange, fascinating, offensive, absurd and sometimes funny moments all at once.",
+            "poster_path": "/vCcXRri6Rrb2nZ0eDXPU3JKrpaS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 7.6178,
+            "release_date": "2008-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fx1wiibwJPemUMxmnWDCFzEoVeS.jpg",
+            "id": 484133,
+            "title": "Nude",
+            "original_title": "Nude",
+            "overview": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
+            "poster_path": "/699DbQ8eTecLmzjTLrao9D5bbpq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 4.7092,
+            "release_date": "2017-10-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 9.4,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bV7eAcBrYb57PwjpQ2ODT6VyFPd.jpg",
+            "id": 318256,
+            "title": "Hot Girls Wanted",
+            "original_title": "Hot Girls Wanted",
+            "overview": "A first-ever look at the realities of the professional “amateur” porn world and the steady stream of 18-to-19-year old girls entering into it.",
+            "poster_path": "/75ot83QOkc02vujyzmIbumQCU6Y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.7766,
+            "release_date": "2015-01-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.13,
+            "vote_count": 736
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3gw6ZMxVbfOQcQahGsmwdvFJPOa.jpg",
+            "id": 324558,
+            "title": "X-Rated: The Greatest Adult Movies of All Time",
+            "original_title": "X-Rated: The Greatest Adult Movies of All Time",
+            "overview": "The evolution of adult cinema through the most influential films in history, a journey that begins in the 1970s and ends nowadays. An in-depth analysis of the success of the most prestigious erotic films, their impact on industry and society, and their influence on cinema and contemporary culture.",
+            "poster_path": "/uYzHkzZPp84B7nHOKaJZWjyGFUL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 7.3983,
+            "release_date": "2015-02-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 197
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s0Dy3QFvEqM3yz7fzM9nfqqqCrL.jpg",
+            "id": 427719,
+            "title": "X-Rated 2: The Greatest Adult Stars of All-Time",
+            "original_title": "X-Rated 2: The Greatest Adult Stars of All-Time",
+            "overview": "Documentary sequel that offers a close-up look into the personal lives of the legendary porn stars who've survived the test of time and influenced popular culture. Blends rare interviews with erotic clips and additional appearances by Whoopi Goldberg, Steven Soderbergh and a host of adult stars, directors and trendsetters.",
+            "poster_path": "/n22dgC0qBbYVeDGRLOuQSoihWAD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 5.1335,
+            "release_date": "2016-10-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vPn2IpnioCdFebDUajGriDXrsD7.jpg",
+            "id": 178862,
+            "title": "Aroused",
+            "original_title": "Aroused",
+            "overview": "Get up close and personal with 16 of the most successful women in the adult film industry as they shed their clothes for an intimate photo shoot with director Deborah Anderson. As questions are asked, personal stories about their lives are revealed, from why they chose the business of sex to how they got into it in the first place. These porn stars have always been discreet about their private lives in the past, yet Anderson has a way of opening up a dialog allowing them to share more than just their naked skin on screen. Their true inner vulnerability is touching, yet the characters they have created are confident and intoxicating. Once you hear their stories, you'll never look at them in the same way again.",
+            "poster_path": "/dsaqRUvGpkSoLmDKuTMys4j8GQI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.4352,
+            "release_date": "2013-02-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d00ChtBndVkVg6OxV7jzS8OMRKg.jpg",
+            "id": 441965,
+            "title": "The Tickle King",
+            "original_title": "The Tickle King",
+            "overview": "Featuring new, previously unseen footage documenting the bizarre and unsettling things that happened to filmmakers David Farrier and Dylan Reeve as Tickled premiered at film festivals and theaters in 2016. Lawsuits, private investigators, disrupted screenings and surprise appearances are just part of what they encounter along the way. Amidst new threats, the duo begins to answer questions that remained once the credits rolled on Tickled, including whether the disturbing behavior they uncovered will ever come to an end.",
+            "poster_path": "/qDphC4FhgRKVIQ0hxKeKzjcdmhW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 3.8517,
+            "release_date": "2017-02-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/52t7nT1f117FW6gdG32DrQKxpU1.jpg",
+            "id": 1642859,
+            "title": "Iron Maiden: Burning Ambition",
+            "original_title": "Iron Maiden: Burning Ambition",
+            "overview": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
+            "poster_path": "/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "popularity": 4.9862,
+            "release_date": "2026-05-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eoAvHxfbaPOcfiQyjqypWIXWxDr.jpg",
+            "id": 1059673,
+            "title": "Avatar: The Deep Dive - A Special Edition of 20/20",
+            "original_title": "Avatar: The Deep Dive - A Special Edition of 20/20",
+            "overview": "An inside look at one of the most anticipated movie sequels ever with James Cameron and cast.",
+            "poster_path": "/pzZGqIyrrSqIfrkPLJnN1tvCGnV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.0162,
+            "release_date": "2022-12-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aJvgoRMrYFTMu7MrcfxYVPMRuU5.jpg",
+            "id": 1061671,
+            "title": "Pamela, A Love Story",
+            "original_title": "Pamela, A Love Story",
+            "overview": "In her own words, through personal video and diaries, Pamela Anderson shares the story of her rise to fame, rocky romances and infamous sex tape scandal.",
+            "poster_path": "/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.2192,
+            "release_date": "2023-01-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.042,
+            "vote_count": 252
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u3MWQCdHyCK7IADtat4sVmBXd9U.jpg",
+            "id": 1022256,
+            "title": "Selena Gomez: My Mind & Me",
+            "original_title": "Selena Gomez: My Mind & Me",
+            "overview": "After years in the limelight, Selena Gomez achieves unimaginable stardom. But just as she reaches a new peak, an unexpected turn pulls her into darkness. This uniquely raw and intimate documentary spans her six-year journey into a new light.",
+            "poster_path": "/oMpsswJv8x4vnOnIKqs4xJs2Kn3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "popularity": 9.1127,
+            "release_date": "2022-11-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.462,
+            "vote_count": 616
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/csuz4zkcyckKn5dVVRkOhCmkWJs.jpg",
+            "id": 653579,
+            "title": "Welcome to Chechnya",
+            "original_title": "Welcome to Chechnya",
+            "overview": "This searing investigative work shadows a group of activists risking unimaginable peril to confront the ongoing anti-LGBTQ program raging in the repressive and closed Russian republic. Unfettered access and a remarkable approach to protecting anonymity exposes this under-reported atrocity–and an extraordinary group of people confronting evil.",
+            "poster_path": "/wR1b8w3fFPQR5wpbkekviLmo4wW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.0283,
+            "release_date": "2020-01-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.913,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2i1p4MGPr5yaAhB1vY6ssQjhwPT.jpg",
+            "id": 507256,
+            "title": "Whitney",
+            "original_title": "Whitney",
+            "overview": "Examines the life and career of singer Whitney Houston. Features never-before-seen archival footage, exclusive recordings, rare performances and interviews with the people who knew her best.",
+            "poster_path": "/j1c6dTycYBMZs2T1wKA6bknLLa6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                99
+            ],
+            "popularity": 2.5983,
+            "release_date": "2018-07-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.32,
+            "vote_count": 208
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sVUj3GZ6qWCyaVyu4PpMlyYQbxd.jpg",
+            "id": 962192,
+            "title": "Halftime",
+            "original_title": "Halftime",
+            "overview": "Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary.",
+            "poster_path": "/jUVglxBw7KSkcVEhvfJs1eipPnk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "popularity": 2.2667,
+            "release_date": "2022-06-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.758,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rSuqSerMzqMtgX7fX50Hl55ficF.jpg",
+            "id": 1492608,
+            "title": "John Candy: I Like Me",
+            "original_title": "John Candy: I Like Me",
+            "overview": "Those who knew iconic funnyman John Candy best share his story, in their own words, through never-before-seen archival footage, imagery, and interviews.",
+            "poster_path": "/mNEJdx9WSXeyMmkuQfTeY4zouNx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 5.5937,
+            "release_date": "2025-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.872,
+            "vote_count": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "id": 301959,
+            "title": "Interstellar: Nolan's Odyssey",
+            "original_title": "Interstellar: Nolan's Odyssey",
+            "overview": "A look behind the lens of Christopher Nolan's space epic.",
+            "poster_path": "/i4PpBcuLvdcJwIf3hkcV9QDR1iH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 2.1957,
+            "release_date": "2014-11-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.775,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c1vrJxyuKhswMm9IbRJJhsFXm0I.jpg",
+            "id": 56205,
+            "title": "The Godfather Family: A Look Inside",
+            "original_title": "The Godfather Family: A Look Inside",
+            "overview": "A documentary on the making of the three Godfather films, with interviews and recollections from the film makers and cast. This feature also includes the original screen tests of some of the actors for \"The Godfather\" film, and some candid moments on the set of \"The Godfather: Part III.\"",
+            "poster_path": "/jDdybr7reoVABPthX9OSlazvncD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 2.0379,
+            "release_date": "1990-07-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.791,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5lZXIkRpOJICbWYJgImdbZ1vWx6.jpg",
+            "id": 1591516,
+            "title": "Evil Influencer: The Jodi Hildebrandt Story",
+            "original_title": "Evil Influencer: The Jodi Hildebrandt Story",
+            "overview": "Unravel the case of Utah therapist Jodi Hildebrandt, whose child abuse arrest with parenting YouTuber Ruby Franke exposed a twisted tale of manipulation.",
+            "poster_path": "/xCawp08whOaJS434IDlBytX7sSm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.9307,
+            "release_date": "2025-12-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.22,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1lXuVrX8ZcQWHc1k192yFSNh1R7.jpg",
+            "id": 12228,
+            "title": "Inside Deep Throat",
+            "original_title": "Inside Deep Throat",
+            "overview": "In 1972, a seemingly typical shoestring budget pornographic film was made in a Florida hotel: \"Deep Throat,\" starring Linda Lovelace. This film would surpass the wildest expectation of everyone involved to become one of the most successful independent films of all time. It caught the public imagination which met the spirit of the times, even as the self-appointed guardians of public morality struggled to suppress it, and created, for a brief moment, a possible future where sexuality in film had a bold artistic potential. This film covers the story of the making of this controversial film, its stunning success, its hysterical opposition along with its dark side of mob influence and allegations of the on set mistreatment of the film's star.",
+            "poster_path": "/iy96Ud1jpnjOEYiHh2XMooD1PfG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 4.9703,
+            "release_date": "2005-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3CQ4coB7LbAraB0upz6YWmY8rKR.jpg",
+            "id": 836919,
+            "title": "Who Are You, Charlie Brown?",
+            "original_title": "Who Are You, Charlie Brown?",
+            "overview": "Lupita Nyong'o narrates a documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—including Drew Barrymore, Kevin Smith, and Al Roker—share its influence on them, and a new animated story finds Charlie Brown on a quest.",
+            "poster_path": "/kqQfs98qAEwirmuZM48JH6ydQjb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                16
+            ],
+            "popularity": 4.3778,
+            "release_date": "2021-06-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 42
+        }
+    ]
+}

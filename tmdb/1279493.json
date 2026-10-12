@@ -1,0 +1,811 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 1279493,
+        "imdb_id": "tt32321803",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Get Out",
+        "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+        "popularity": 27.119,
+        "poster_path": "/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+        "production_companies": [
+            {
+                "id": 110723,
+                "logo_path": "/27Od860h9Xc7gDS3Pph6yRlUyBI.png",
+                "name": "Nickel City Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 221397,
+                "logo_path": "/aj3EiCWM5jKxDJGZh34KV6L9HcE.png",
+                "name": "A Higher Standard",
+                "origin_country": "US"
+            },
+            {
+                "id": 219277,
+                "logo_path": null,
+                "name": "G2 Dispatch",
+                "origin_country": "AU"
+            },
+            {
+                "id": 253092,
+                "logo_path": "/c0IeAmYXNix7gMJbWzPGHzzsTwv.png",
+                "name": "Life & Soul Pictures",
+                "origin_country": "GB"
+            },
+            {
+                "id": 181874,
+                "logo_path": "/crrgXvLhDO9c57HYrbO4H58Vxmb.png",
+                "name": "Fifth Season",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2026-06-18",
+        "revenue": 0,
+        "runtime": 111,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The night life is dirty business.",
+        "title": "The Get Out",
+        "video": false,
+        "vote_average": 6.314,
+        "vote_count": 51
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 934,
+            "known_for_department": "Acting",
+            "name": "Russell Crowe",
+            "original_name": "Russell Crowe",
+            "popularity": 5.0504,
+            "profile_path": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg",
+            "cast_id": 4,
+            "character": "Manco Kapak",
+            "credit_id": "67aa3a6e38e948bd676fa9dd",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 114019,
+            "known_for_department": "Acting",
+            "name": "Luke Evans",
+            "original_name": "Luke Evans",
+            "popularity": 3.4742,
+            "profile_path": "/qUkYJcrDc4M0LHNYASs30luFvw0.jpg",
+            "cast_id": 16,
+            "character": "Joe Carver",
+            "credit_id": "67c744b926b4e196b1f068ab",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 84497,
+            "known_for_department": "Acting",
+            "name": "Aaron Paul",
+            "original_name": "Aaron Paul",
+            "popularity": 3.8611,
+            "profile_path": "/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg",
+            "cast_id": 15,
+            "character": "Jeff",
+            "credit_id": "67c744a95e77893e05f06c35",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 20374,
+            "known_for_department": "Acting",
+            "name": "Teresa Palmer",
+            "original_name": "Teresa Palmer",
+            "popularity": 3.8464,
+            "profile_path": "/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg",
+            "cast_id": 14,
+            "character": "Sunny",
+            "credit_id": "67c0587e072a707ae935ad65",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 19961,
+            "known_for_department": "Acting",
+            "name": "Nina Dobrev",
+            "original_name": "Nina Dobrev",
+            "popularity": 4.855,
+            "profile_path": "/euHNgS3z3M3OTzLhQQAezViQddq.jpg",
+            "cast_id": 13,
+            "character": "Carrie",
+            "credit_id": "67b90246d7bcce4690f3d3ce",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1172147,
+            "known_for_department": "Acting",
+            "name": "Daniel Zovatto",
+            "original_name": "Daniel Zovatto",
+            "popularity": 1.9094,
+            "profile_path": "/gV0qvvMrNPXjDfsjgzLNNayaemj.jpg",
+            "cast_id": 17,
+            "character": "Rodriguez",
+            "credit_id": "67c744bea75500a876409a8e",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4898226,
+            "known_for_department": "Acting",
+            "name": "Kartiah Vergara",
+            "original_name": "Kartiah Vergara",
+            "popularity": 0.472,
+            "profile_path": "/je5XTyAj7gqev0j9CxENW4JLx0j.jpg",
+            "cast_id": 3,
+            "character": "Irena",
+            "credit_id": "67aa3a654982eacfd51d798d",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5837297,
+            "known_for_department": "Acting",
+            "name": "Sabelle Morrow-Woods",
+            "original_name": "Sabelle Morrow-Woods",
+            "popularity": 0.6475,
+            "profile_path": "/1y5jkcSgZUicMI22Y3DxYaWcjfT.jpg",
+            "cast_id": 20,
+            "character": "Clubber",
+            "credit_id": "692778f0792b9dd8f2a757ca",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6382599,
+            "known_for_department": "Acting",
+            "name": "Sean Richard",
+            "original_name": "Sean Richard",
+            "popularity": 0.2725,
+            "profile_path": null,
+            "cast_id": 24,
+            "character": "Nightclub Supervisor (uncredited)",
+            "credit_id": "6a6d368d5eae0a3681246432",
+            "order": 8
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 126910,
+            "known_for_department": "Directing",
+            "name": "Derrick Borte",
+            "original_name": "Derrick Borte",
+            "popularity": 0.7381,
+            "profile_path": "/riwN6viBryfIycai9oSYFPvUKHw.jpg",
+            "credit_id": "662925c74a4bf60188778cd9",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5238636,
+            "known_for_department": "Writing",
+            "name": "Thomas Perry",
+            "original_name": "Thomas Perry",
+            "popularity": 0.5135,
+            "profile_path": null,
+            "credit_id": "67aa3ad26f0b7d9db939e866",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1488892,
+            "known_for_department": "Writing",
+            "name": "Daniel Forte",
+            "original_name": "Daniel Forte",
+            "popularity": 0.3973,
+            "profile_path": null,
+            "credit_id": "67aa3b27c1cef4d0581d7476",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 126910,
+            "known_for_department": "Directing",
+            "name": "Derrick Borte",
+            "original_name": "Derrick Borte",
+            "popularity": 0.7381,
+            "profile_path": "/riwN6viBryfIycai9oSYFPvUKHw.jpg",
+            "credit_id": "67aa3b374b8b37b35539e881",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1485550,
+            "known_for_department": "Production",
+            "name": "Mark Fasano",
+            "original_name": "Mark Fasano",
+            "popularity": 0.5192,
+            "profile_path": null,
+            "credit_id": "67aa3b554e98f21b426faa05",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1409852,
+            "known_for_department": "Production",
+            "name": "Jeffrey Greenstein",
+            "original_name": "Jeffrey Greenstein",
+            "popularity": 0.5245,
+            "profile_path": null,
+            "credit_id": "67aa3b7c3d48038e601d7383",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2968654,
+            "known_for_department": "Production",
+            "name": "Deborah Glover",
+            "original_name": "Deborah Glover",
+            "popularity": 0.2764,
+            "profile_path": null,
+            "credit_id": "67aa3b96c1cef4d0581d74ad",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5238650,
+            "known_for_department": "Production",
+            "name": "Mark Bower",
+            "original_name": "Mark Bower",
+            "popularity": 0.3469,
+            "profile_path": null,
+            "credit_id": "67aa3bb551c52038dc6faa07",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4914839,
+            "known_for_department": "Production",
+            "name": "Bruno Mustić",
+            "original_name": "Bruno Mustić",
+            "popularity": 0.3239,
+            "profile_path": null,
+            "credit_id": "67aa3bc4d16dc7677339ec53",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4549780,
+            "known_for_department": "Production",
+            "name": "Matthew Alex Goldberg",
+            "original_name": "Matthew Alex Goldberg",
+            "popularity": 0.3412,
+            "profile_path": null,
+            "credit_id": "6914684e6f33467683c06c9b",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3851785,
+            "known_for_department": "Production",
+            "name": "Thayer Juergens",
+            "original_name": "Thayer Juergens",
+            "popularity": 0.218,
+            "profile_path": "/t4HG6sEDXRpsHEBpuS37GnPUTmg.jpg",
+            "credit_id": "6994b02402e7f556ba2884cc",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 931956,
+            "known_for_department": "Sound",
+            "name": "Bryan Senti",
+            "original_name": "Bryan Senti",
+            "popularity": 0.3711,
+            "profile_path": null,
+            "credit_id": "6a3f7b055fddf3cfcce20628",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 818,
+            "name": "based on novel or book"
+        },
+        {
+            "id": 10175,
+            "name": "drug cartel"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/1leYKN0DPNffpldGnCWnbXaiWoD.jpg",
+            "id": 1305717,
+            "title": "Hunting Grounds",
+            "original_title": "Hunting Grounds",
+            "overview": "Desperate to find refuge for her children, Chloe Marvino runs away from her Mafia tied husband, and finds shelter in a cabin with a recluse drifter named Jake. But as her husband's henchmen draw closer to her, it turns out that Jake is the biggest enemy of them all.",
+            "poster_path": "/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 4.5453,
+            "release_date": "2025-05-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.879,
+            "vote_count": 124
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tRdorrIjlybrGsebXOzgF7vRyYy.jpg",
+            "id": 1469354,
+            "title": "Border Hunters",
+            "original_title": "Border Hunters",
+            "overview": "After his police officer brother is killed by a drug dealer who flees to the protection of his cartel-connected uncle in Mexico, an American man with a diverse law enforcement/military background goes south of the border to get revenge",
+            "poster_path": "/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 6.3891,
+            "release_date": "2025-10-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.207,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg",
+            "id": 931642,
+            "title": "Lights Out",
+            "original_title": "Lights Out",
+            "overview": "A drifting ex-soldier turns underground fighter with the help of a just-released ex-con, pitting him against corrupt cops and hired killers now gunning for him and all those he cares about.",
+            "poster_path": "/gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 4.436,
+            "release_date": "2024-02-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.035,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yky6Dsxbv5ItMepk8GGu23K6Mvs.jpg",
+            "id": 1093995,
+            "title": "Chief of Station",
+            "original_title": "Chief of Station",
+            "overview": "After learning that the death of his wife was not an accident, a former CIA Station Chief is forced back into the espionage underworld, teaming up with an adversary to unravel a conspiracy that challenges everything he thought he knew.",
+            "poster_path": "/yndlj5aNPWAZ5ayJ4a2S37o98lq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 8.2756,
+            "release_date": "2024-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 253
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/riDrpqQtZpXGeiJdlmfcwwPH7nN.jpg",
+            "id": 721452,
+            "title": "One Night in Bangkok",
+            "original_title": "One Night in Bangkok",
+            "overview": "A hit man named Kai flies into Bangkok, gets a gun, and orders a cab. He offers a professional female driver big money to be his all-night driver. But when she realizes Kai is committing brutal murders at each stop, it's too late to walk away. Meanwhile, an offbeat police detective races to decode the string of slayings before more blood is spilled.",
+            "poster_path": "/i4kPwXPlM1iy8Jf3S1uuLuwqQAV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.0699,
+            "release_date": "2020-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.527,
+            "vote_count": 204
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cOF7XiobQU4TC2tKDPXJ8d2nULP.jpg",
+            "id": 1024127,
+            "title": "King of Killers",
+            "original_title": "King of Killers",
+            "overview": "Garan is a part of a group of international hitmen who are contracted to take out the most dangerous killer in the world, only to find out that they're the ones being hunted.",
+            "poster_path": "/x5AreOAgkTBzUSL58o4jsYortw2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.5874,
+            "release_date": "2023-09-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.287,
+            "vote_count": 181
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vtsqIXoDGM8ZS6rcQ1TKfdOycjC.jpg",
+            "id": 893228,
+            "title": "Section 8",
+            "original_title": "Section 8",
+            "overview": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "poster_path": "/3rJDTaxBKLZ6XLvcVK7V20Eaj2d.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.3379,
+            "release_date": "2022-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.142,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tUjgRaqoTPgQKfqDx8PjVbpPWrG.jpg",
+            "id": 4836,
+            "title": "Layer Cake",
+            "original_title": "Layer Cake",
+            "overview": "When a seemingly straight-forward drug deal goes awry, XXXX has to break his die-hard rules and turn up the heat, not only to outwit the old regime and come out on top, but to save his own skin...",
+            "poster_path": "/rDOxXteqxALBaSa3V3zTjGJuyWB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "popularity": 6.8657,
+            "release_date": "2004-09-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.914,
+            "vote_count": 2418
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wIb43RlPf5iYeoBAYIfxfhpE8NI.jpg",
+            "id": 1094319,
+            "title": "The Best Man",
+            "original_title": "The Best Man",
+            "overview": "Mercenaries seize control of a remote resort hotel during a wedding and it's up to the best man, the groom and their drunken best friend to stop the terrorists and save the hostages.",
+            "poster_path": "/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.176,
+            "release_date": "2023-04-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mo57hzhW3BcZL1f7MNteWKHsmlN.jpg",
+            "id": 763788,
+            "title": "Dangerous",
+            "original_title": "Dangerous",
+            "overview": "A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.",
+            "poster_path": "/vTtkQGC7qKlSRQJZYtAWAmYdH0A.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 5.3776,
+            "release_date": "2021-11-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.973,
+            "vote_count": 521
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ldHPIMzOxS1bvEDtzPWS4csOhd8.jpg",
+            "id": 531503,
+            "title": "Point Blank",
+            "original_title": "Point Blank",
+            "overview": "A nurse is forced to spring a wounded murder suspect from the hospital when the man’s brother kidnaps his pregnant wife and wants to make a trade.",
+            "poster_path": "/weAvkxl0dnPevIKD8fwHjiOi6tc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.7667,
+            "release_date": "2019-07-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.97,
+            "vote_count": 582
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5j8f8nfG4kAwnPZaXBA0trhfjDy.jpg",
+            "id": 949484,
+            "title": "Hounds of War",
+            "original_title": "Hounds of War",
+            "overview": "After a mission goes wrong, only one of a group of mercenaries is left alive to avenge his fallen brothers.",
+            "poster_path": "/tLdUPi2h6LGmF5foza0a5PXtQRr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.5063,
+            "release_date": "2024-08-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.336,
+            "vote_count": 189
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jpS4Hg1MjXgmIXYZhJwNPVGJaTG.jpg",
+            "id": 1371151,
+            "title": "Off the Grid",
+            "original_title": "Off the Grid",
+            "overview": "After a morally-bankrupt company tries to weaponize a brilliant scientist's revolutionary technology, he goes off the grid to safeguard humanity. When the company sends a strike force to find him, they make their biggest mistake of all – they weaponize the man they are trying to catch.",
+            "poster_path": "/mMUVnkcx2VawTBJYnnnRN8fxJpb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 7.1715,
+            "release_date": "2025-06-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.44,
+            "vote_count": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fvBshQMwOnYZdUXySGMdT6LiqsI.jpg",
+            "id": 2636,
+            "title": "The Specialist",
+            "original_title": "The Specialist",
+            "overview": "May Munro is a woman obsessed with getting revenge on the people who murdered her parents when she was still a girl. She hires Ray Quick, a retired explosives expert, to kill her parents' killers. When Ned Trent, embittered ex-partner of Quick's, is assigned to protect one of Quick's potential victims, a deadly game of cat and mouse ensues.",
+            "poster_path": "/9CVAjtkSaFs9FyddGfThj11ZuQq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 7.706,
+            "release_date": "1994-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 1469
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cVzAhirOhKh91AB1TFcGn0Rh5c3.jpg",
+            "id": 1208561,
+            "title": "Art of Eight Limbs",
+            "original_title": "Art of Eight Limbs",
+            "overview": "Four canisters of deadly VX nerve gas have fallen into the hands of an international arms dealer in Myanmar. A CIA recruit delivers a high-tech detection device to an agent already on the ground.",
+            "poster_path": "/tZRypLd2SU3Eeqg5tD5cwkk5CdL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 2.3035,
+            "release_date": "2024-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.681,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sRM4tKNCWekgwM4Dk9EvfSZ0iXB.jpg",
+            "id": 1128377,
+            "title": "In Cold Light",
+            "original_title": "In Cold Light",
+            "overview": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute.",
+            "poster_path": "/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "popularity": 4.1344,
+            "release_date": "2026-01-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.888,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6AxdvA5hiBGF5ajSKsyt0q7rHei.jpg",
+            "id": 921360,
+            "title": "Wire Room",
+            "original_title": "Wire Room",
+            "overview": "New recruit Justin Rosa must monitor arms-smuggling cartel member Eddie Flynn — and keep him alive at all costs. When a SWAT team descends on Flynn’s home, Rosa breaks protocol and contacts the gangster directly to save his life. As gunmen break into the Wire Room and chaos erupts, Mueller and Rosa make a final, desperate stand against the corrupt agents and officials who seek to destroy evidence and kill them both.",
+            "poster_path": "/b9ykj4v8ykjRoGB7SpI1OuxblNU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "popularity": 3.5757,
+            "release_date": "2022-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.052,
+            "vote_count": 182
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xGuNyCX46pwEpdQISRYiaBXEN7.jpg",
+            "id": 64689,
+            "title": "Killing Them Softly",
+            "original_title": "Killing Them Softly",
+            "overview": "Jackie Cogan is an enforcer hired to restore order after three dumb guys rob a Mob protected card game, causing the local criminal economy to collapse.",
+            "poster_path": "/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "popularity": 5.4466,
+            "release_date": "2012-07-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.022,
+            "vote_count": 2449
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dv4uPIXzgQM5LJ8MFyy1TG877nY.jpg",
+            "id": 58626,
+            "title": "The Hit List",
+            "original_title": "The Hit List",
+            "overview": "A disgruntled man creates a hit list with a stranger during a drunken night out and must then race to try to save those he marked for extermination as the bodies begin to pile up and all fingers point to him.",
+            "poster_path": "/tR88diuLaMMdxl9rBVdAKERzIjo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 2.9509,
+            "release_date": "2011-04-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.957,
+            "vote_count": 292
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ihLKlPCcC0ZZICh1fxlzsbXbGEq.jpg",
+            "id": 1093994,
+            "title": "One Ranger",
+            "original_title": "One Ranger",
+            "overview": "A Texas Ranger is recruited by British Intelligence to track down a dangerous terrorist and stop him from attacking London.",
+            "poster_path": "/puffdkze3GZmQHu2Hy8t1XdOYtM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.0658,
+            "release_date": "2023-05-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 127
+        }
+    ]
+}

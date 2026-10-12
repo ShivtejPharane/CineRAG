@@ -1,0 +1,828 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/uOQtyMV2G9yJvc0s14zmLoRC5H9.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "https://theasylum.cc/index.php/titles/detail?id=651",
+        "id": 1698856,
+        "imdb_id": "tt41087705",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Master of the Universe",
+        "overview": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
+        "popularity": 97.9006,
+        "poster_path": "/a77OcLmarwiBJakOPPC36m58t4L.jpg",
+        "production_companies": [
+            {
+                "id": 1311,
+                "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+                "name": "The Asylum",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2026-05-22",
+        "revenue": 0,
+        "runtime": 81,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "He's the Man.",
+        "title": "Master of the Universe",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 44
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4133256,
+            "known_for_department": "Acting",
+            "name": "Matthew Gademske",
+            "original_name": "Matthew Gademske",
+            "popularity": 0.6851,
+            "profile_path": "/wgvHF93BO0VxQA3HemklufBFEX4.jpg",
+            "cast_id": 1,
+            "character": "Prince Eli",
+            "credit_id": "6a0d13e7f0b45ade9006a47c",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4499806,
+            "known_for_department": "Acting",
+            "name": "Morgan Flanagan",
+            "original_name": "Morgan Flanagan",
+            "popularity": 0.7595,
+            "profile_path": "/5Qb68qsULMlUz83At9cHixtLkDN.jpg",
+            "cast_id": 2,
+            "character": "Ella",
+            "credit_id": "6a0d13f6bafedf8af9edb352",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2812699,
+            "known_for_department": "Acting",
+            "name": "Krymis J Fernando",
+            "original_name": "Krymis J Fernando",
+            "popularity": 0.7948,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "Chancellor Faurtax",
+            "credit_id": "6a0d141e4c87932ed8a2ab53",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3213589,
+            "known_for_department": "Acting",
+            "name": "Antonio Valles",
+            "original_name": "Antonio Valles",
+            "popularity": 0.5268,
+            "profile_path": "/qbUYTt2m5qey8rO310887XyT2XQ.jpg",
+            "cast_id": 4,
+            "character": "Gunnar",
+            "credit_id": "6a0d142f39a7bef654833604",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3796858,
+            "known_for_department": "Acting",
+            "name": "Telisha Johnson",
+            "original_name": "Telisha Johnson",
+            "popularity": 0.5841,
+            "profile_path": "/tVUzmTyd5WgF2aTKdGPLpPsLQ4b.jpg",
+            "cast_id": 5,
+            "character": "Samara",
+            "credit_id": "6a0d14406f82c851996a36a1",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2722294,
+            "known_for_department": "Acting",
+            "name": "Llana Barron",
+            "original_name": "Llana Barron",
+            "popularity": 0.8505,
+            "profile_path": "/ynxZ9Bu8L9wUGygwkBaLbQu84ie.jpg",
+            "cast_id": 14,
+            "character": "Sevryn",
+            "credit_id": "6a5c65db81c36434bbd74152",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6356723,
+            "known_for_department": "Acting",
+            "name": "Jim O'Brien",
+            "original_name": "Jim O'Brien",
+            "popularity": 0.7736,
+            "profile_path": null,
+            "cast_id": 15,
+            "character": "King Walter",
+            "credit_id": "6a5c661edc4727d8b0262ba4",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6298511,
+            "known_for_department": "Acting",
+            "name": "Bryan Barron",
+            "original_name": "Bryan Barron",
+            "popularity": 0.9131,
+            "profile_path": null,
+            "cast_id": 16,
+            "character": "Atrious",
+            "credit_id": "6a5c662981c36434bbd74160",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6356724,
+            "known_for_department": "Acting",
+            "name": "Bryan J Mangam",
+            "original_name": "Bryan J Mangam",
+            "popularity": 0.4768,
+            "profile_path": null,
+            "cast_id": 17,
+            "character": "Wynne",
+            "credit_id": "6a5c66340457126ef4fade37",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1752240,
+            "known_for_department": "Acting",
+            "name": "Leo Christopher Sheridan",
+            "original_name": "Leo Christopher Sheridan",
+            "popularity": 0.3066,
+            "profile_path": null,
+            "cast_id": 18,
+            "character": "Rik",
+            "credit_id": "6a5c664567ad78ba0c9a5690",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2831424,
+            "known_for_department": "Sound",
+            "name": "Martin Richard Chappell",
+            "original_name": "Martin Richard Chappell",
+            "popularity": 0.5688,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "Progenator",
+            "credit_id": "6a5c6660d686eb61fb262b4a",
+            "order": 10
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 228632,
+            "known_for_department": "Directing",
+            "name": "Marcel Walz",
+            "original_name": "Marcel Walz",
+            "popularity": 1.0195,
+            "profile_path": "/zorcLcvnUGTa4hirNuOhvYcg7lF.jpg",
+            "credit_id": "6a0d1459ab591fc492b8144c",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1654626,
+            "known_for_department": "Writing",
+            "name": "Marc Gottlieb",
+            "original_name": "Marc Gottlieb",
+            "popularity": 0.9633,
+            "profile_path": "/duydmfYVttStJiRfp2ZgaWaE2ge.jpg",
+            "credit_id": "6a0d147cdc22160114a2adf5",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 30053,
+            "known_for_department": "Production",
+            "name": "David Michael Latt",
+            "original_name": "David Michael Latt",
+            "popularity": 0.7458,
+            "profile_path": "/cBkmGgFkGFFyyE6aWDYovvaHL0g.jpg",
+            "credit_id": "6a0d148cc87f77b5ed069bdf",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 79390,
+            "known_for_department": "Production",
+            "name": "Paul Bales",
+            "original_name": "Paul Bales",
+            "popularity": 0.6448,
+            "profile_path": "/3Y28BvJ7JwjqEd8Px0mUogDlN2Z.jpg",
+            "credit_id": "6a1a3ce5a491a5425d533242",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 236844,
+            "known_for_department": "Production",
+            "name": "David Rimawi",
+            "original_name": "David Rimawi",
+            "popularity": 0.7061,
+            "profile_path": "/uGrN7upcJHt4qEx6H89qKWS1dmI.jpg",
+            "credit_id": "6a1a3cee74adc19dd719e067",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1975569,
+            "known_for_department": "Art",
+            "name": "Cristobal Hernandez",
+            "original_name": "Cristobal Hernandez",
+            "popularity": 0.447,
+            "profile_path": null,
+            "credit_id": "6a1a3d044d8447d590ee5db4",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 131286,
+            "known_for_department": "Directing",
+            "name": "Mark David",
+            "original_name": "Mark David",
+            "popularity": 0.4658,
+            "profile_path": "/cmNYk1fozoQe1vxM6uPGfIeSYpN.jpg",
+            "credit_id": "6a1a3d0a99548ddafc533337",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4159108,
+            "known_for_department": "Directing",
+            "name": "Allison Nicole Tucker",
+            "original_name": "Allison Nicole Tucker",
+            "popularity": 0.3449,
+            "profile_path": null,
+            "credit_id": "6a1a3d49d88d040c746be86a",
+            "department": "Directing",
+            "job": "First Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1562416,
+            "known_for_department": "Sound",
+            "name": "Mikel Shane Prather",
+            "original_name": "Mikel Shane Prather",
+            "popularity": 0.6005,
+            "profile_path": "/5ANTzQ93uFERMaJLy8qZZ8Nt3pq.jpg",
+            "credit_id": "6a5c669cc37e39a28674ff84",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3660505,
+            "known_for_department": "Sound",
+            "name": "PJ Ramirez",
+            "original_name": "PJ Ramirez",
+            "popularity": 0.1825,
+            "profile_path": null,
+            "credit_id": "6a5c66a581c36434bbd74170",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2980713,
+            "known_for_department": "Writing",
+            "name": "Jacob David Smith",
+            "original_name": "Jacob David Smith",
+            "popularity": 0.5707,
+            "profile_path": "/jTCuJMrRs9tqgnFC83jZOsdw3jr.jpg",
+            "credit_id": "6a5c66b842cfb861e1212fbe",
+            "department": "Writing",
+            "job": "Story"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 10542,
+            "name": "based on toy"
+        },
+        {
+            "id": 208879,
+            "name": "mockbuster"
+        },
+        {
+            "id": 325777,
+            "name": "bewildered"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/biu21pZCpfe6dv9rrl23k6m6MXJ.jpg",
+            "id": 323027,
+            "title": "Justice League: Gods and Monsters",
+            "original_title": "Justice League: Gods and Monsters",
+            "overview": "In an alternate universe, very different versions of DC's Trinity fight against the government after they are framed for an embassy bombing.",
+            "poster_path": "/9EoqQuEZKmQIYjexoUbkxMcMCVr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                16,
+                14,
+                12,
+                878
+            ],
+            "popularity": 3.7245,
+            "release_date": "2015-06-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 620
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bazlsLkNuhy3IuhviepqvlMm2hV.jpg",
+            "id": 618354,
+            "title": "Superman: Man of Tomorrow",
+            "original_title": "Superman: Man of Tomorrow",
+            "overview": "It’s the dawn of a new age of heroes, and Metropolis has just met its first. But as Daily Planet intern Clark Kent – working alongside reporter Lois Lane – secretly wields his alien powers of flight, super-strength and x-ray vision in the battle for good, there’s even greater trouble on the horizon.",
+            "poster_path": "/n9GtiJiBETVFayQy7YnVdF9AucU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                878
+            ],
+            "popularity": 3.6881,
+            "release_date": "2020-08-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.071,
+            "vote_count": 501
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jAXel5sHK1bnv9lL1U4HOkdxuD9.jpg",
+            "id": 487186,
+            "title": "Halo: Nightfall",
+            "original_title": "Halo: Nightfall",
+            "overview": "Set between the events of Halo 4 and Halo 5: Guardians… Halo: Nightfall tells the dramatic story of legendary man hunter and Naval Intelligence Officer Jameson Locke and his team as they are caught in a horrific biological attack while investigating terrorist activity on the distant colony world of Sedra. As they unravel a plot that draws them to an ancient, hellish artifact, they will be forced to fight for their survival, question everything and ultimately choose between their loyalty and their lives.",
+            "poster_path": "/liLQ8EFzHN06eFZ9KQMDK6cmGaK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "popularity": 2.9659,
+            "release_date": "2014-02-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.781,
+            "vote_count": 199
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/57f96GAYR25Olk7EdV3cT7LHdsV.jpg",
+            "id": 44801,
+            "title": "Real Men",
+            "original_title": "Real Men",
+            "overview": "A womanizing CIA agent and an insecure insurance agent are paired together to make sure a deal goes through with aliens for the future of mankind.",
+            "poster_path": "/48RNciPt5K9myWDPcfNhLWUYLgf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                878,
+                28
+            ],
+            "popularity": 3.7328,
+            "release_date": "1987-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+            "id": 118340,
+            "title": "Guardians of the Galaxy",
+            "original_title": "Guardians of the Galaxy",
+            "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+            "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "popularity": 20.604,
+            "release_date": "2014-07-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.907,
+            "vote_count": 30027
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Aack4R47Po0qtyvID374rRacuWB.jpg",
+            "id": 15257,
+            "title": "Hulk vs. Wolverine",
+            "original_title": "Hulk vs. Wolverine",
+            "overview": "Department H sends in Wolverine to track down a mysterious beast known by the US Military as the Hulk, who is rampaging across the Canadian wilderness. Surveying the extent of the damage to a destroyed town, Wolverine notices a toxic scent as well as the smell of gunpowder. He is then deployed to the wilderness to resume tracking the creature.",
+            "poster_path": "/p8PZfkrCuXanfYr3k6xAS6WzN8Y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                878,
+                12,
+                14
+            ],
+            "popularity": 3.9723,
+            "release_date": "2009-01-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.124,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
+            "id": 91314,
+            "title": "Transformers: Age of Extinction",
+            "original_title": "Transformers: Age of Extinction",
+            "overview": "As humanity picks up the pieces after the battle of Chicago, a shadowy group reveals itself in an attempt to control the direction of history…while an ancient, powerful new menace sets Earth in its crosshairs. With help from Cade Yeager, Optimus Prime and the Autobots rise to meet their most fearsome challenge yet.",
+            "poster_path": "/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "popularity": 18.2333,
+            "release_date": "2014-06-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.971,
+            "vote_count": 8867
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+            "id": 141052,
+            "title": "Justice League",
+            "original_title": "Justice League",
+            "overview": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+            "poster_path": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 20.0093,
+            "release_date": "2017-11-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.07,
+            "vote_count": 13806
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg",
+            "id": 75612,
+            "title": "Oblivion",
+            "original_title": "Oblivion",
+            "overview": "Jack Harper is one of the last few drone repairmen stationed on Earth. Part of a massive operation to extract vital resources after decades of war with a terrifying threat known as the Scavs, Jack’s mission is nearly complete. His existence is brought crashing down when he rescues a beautiful  stranger from a downed spacecraft. Her arrival triggers a chain of events that  forces him to question everything he knows and puts the fate of humanity in his hands.",
+            "poster_path": "/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                12,
+                9648
+            ],
+            "popularity": 12.8978,
+            "release_date": "2013-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.689,
+            "vote_count": 11675
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qQ1xCJC5604FM8lP7hqMGycCAB7.jpg",
+            "id": 11244,
+            "title": "The Meteor Man",
+            "original_title": "The Meteor Man",
+            "overview": "One night Jefferson Reed gets hit in the chest by a souped-up chunk of meteor. So he can fly, but he's scared of heights. He can master the information in any book ... for about thirty seconds. Now his friends and family want him to protect their community from the dreaded Golden Lords.",
+            "poster_path": "/d30mZVOrY8n5KCvwaPkiQEFv1tc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                878
+            ],
+            "popularity": 2.7911,
+            "release_date": "1993-08-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.829,
+            "vote_count": 202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+            "id": 181812,
+            "title": "Star Wars: The Rise of Skywalker",
+            "original_title": "Star Wars: The Rise of Skywalker",
+            "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+            "poster_path": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "popularity": 24.9918,
+            "release_date": "2019-12-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.26,
+            "vote_count": 10992
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+            "id": 24428,
+            "title": "The Avengers",
+            "original_title": "The Avengers",
+            "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+            "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "popularity": 81.0619,
+            "release_date": "2012-04-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.063,
+            "vote_count": 39073
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iQJ1gC2p6yn5wnBEklhPaEFJ3n1.jpg",
+            "id": 886396,
+            "title": "Batman and Superman: Battle of the Super Sons",
+            "original_title": "Batman and Superman: Battle of the Super Sons",
+            "overview": "After discovering he has powers, 11-year-old Jonathan Kent and assassin-turned-Boy-Wonder Damian Wayne must join forces to rescue their fathers (Superman & Batman) and save the planet from the malevolent alien force known as Starro.",
+            "poster_path": "/mvffaexT5kA3chOnGxwBSlRoshh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                878
+            ],
+            "popularity": 4.9353,
+            "release_date": "2022-10-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.633,
+            "vote_count": 361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xFlvdymCBqyBN8Ab5i69Sgqk7m.jpg",
+            "id": 464882,
+            "title": "Batman vs. Two-Face",
+            "original_title": "Batman vs. Two-Face",
+            "overview": "Former Gotham City District Attorney Harvey Dent, one side of his face scarred by acid, goes on a crime spree based on the number '2'. All of his actions are decided by the flip of a defaced, two-headed silver dollar.",
+            "poster_path": "/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                878
+            ],
+            "popularity": 3.0071,
+            "release_date": "2017-11-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iCDMBi6WLjUBnt24dNwHqqF81UL.jpg",
+            "id": 1858,
+            "title": "Transformers",
+            "original_title": "Transformers",
+            "overview": "Young teenager Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots – the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it.",
+            "poster_path": "/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "popularity": 6.3414,
+            "release_date": "2007-06-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.843,
+            "vote_count": 12391
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rRGl4Uqo962I2iqQSOT8nArWNWd.jpg",
+            "id": 887357,
+            "title": "Green Lantern: Beware My Power",
+            "original_title": "Green Lantern: Beware My Power",
+            "overview": "Recently discharged Marine sniper John Stewart is at a crossroads in his life, one which is only complicated by receiving an extraterrestrial ring which grants him the powers of the Green Lantern of Earth. Unfortunately, the ring doesn't come with instructions - but it does come with baggage, like a horde of interplanetary killers bent on eliminating every Green Lantern in the universe. Now, with the aid of the light-hearted Green Arrow, Adam Strange and Hawkgirl, this reluctant soldier must journey into the heart of a galactic Rann/Thanagar war and somehow succeed where all other Green Lanterns have failed.",
+            "poster_path": "/nS41LN1m2HYvVotvgOTcbPW2cjL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                878,
+                28
+            ],
+            "popularity": 3.6533,
+            "release_date": "2022-07-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.728,
+            "vote_count": 254
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
+            "id": 399579,
+            "title": "Alita: Battle Angel",
+            "original_title": "Alita: Battle Angel",
+            "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+            "poster_path": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "popularity": 15.355,
+            "release_date": "2019-01-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.27,
+            "vote_count": 10224
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zGKDR7bYPo14MXmzpj8c4AErhtt.jpg",
+            "id": 46529,
+            "title": "I Am Number Four",
+            "original_title": "I Am Number Four",
+            "overview": "A teenage fugitive with an incredible secret races to stay one step ahead of the mysterious forces seeking destroy him. With three dead and one on the run, the race to find the elusive Number Four begins. Outwardly normal teen John Smith never gets too comfortable in the same identity, and along with his guardian, Henri, he is constantly moving from town to town. With each passing day, John gains a stronger grasp on his extraordinary new powers, and his bond to the beings that share his fantastic fate grows stronger.",
+            "poster_path": "/2NrP3h3GEsrPXX60bmjKuYWAvl9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                878,
+                12
+            ],
+            "popularity": 8.3481,
+            "release_date": "2011-02-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.198,
+            "vote_count": 5070
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uQ5xARQz6BiKlppKCBnKmkfW76m.jpg",
+            "id": 13455,
+            "title": "Push",
+            "original_title": "Push",
+            "overview": "After his father, an assassin, is brutally murdered, Nick Gant vows revenge on Division, the covert government agency that dabbles in psychic warfare and experimental drugs. Hiding in Hong Kong's underworld, Nick assembles a band of rogue psychics dedicated to destroying Division. Together with Cassie, a teenage clairvoyant, Nick goes in search of a missing girl and a stolen suitcase that could be the key to accomplishing their mutual goal.",
+            "poster_path": "/fHStfRjQGstuqtUz4Q22lbFU58M.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53
+            ],
+            "popularity": 6.4609,
+            "release_date": "2009-02-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.147,
+            "vote_count": 2477
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+            "id": 1724,
+            "title": "The Incredible Hulk",
+            "original_title": "The Incredible Hulk",
+            "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+            "poster_path": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "popularity": 34.1667,
+            "release_date": "2008-06-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 12909
+        }
+    ]
+}

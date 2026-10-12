@@ -1,0 +1,557 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/hfv5JL4AHowjMhDDE91OI9RTMbE.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1592768,
+        "imdb_id": "tt39063202",
+        "origin_country": [
+            "BG"
+        ],
+        "original_language": "bg",
+        "original_title": "Един грам живот",
+        "overview": "“One Gram of Life” follows four interconnected stories inspired by real events, exposing the harsh consequences of drug use and distribution among young people. The film aims to raise awareness about the risks teenagers and their families face.",
+        "popularity": 12.3026,
+        "poster_path": "/oIHQ83HeDkwd4lj2YKkhA9pDX2M.jpg",
+        "production_companies": [
+            {
+                "id": 263440,
+                "logo_path": "/xzD1eHOveortkcBy9sb9n4uSyK4.png",
+                "name": "Zipo and Slash",
+                "origin_country": "BG"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            }
+        ],
+        "release_date": "2025-11-14",
+        "revenue": 0,
+        "runtime": 144,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Bulgarian",
+                "iso_639_1": "bg",
+                "name": "български език"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "One Gram of Life",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1128125,
+            "known_for_department": "Acting",
+            "name": "Ivaylo Zahariev",
+            "original_name": "Ивайло Захариев",
+            "popularity": 0.6152,
+            "profile_path": "/ulXnVOIkVa98T7GMwhHBP9P4Cjv.jpg",
+            "cast_id": 1,
+            "character": "",
+            "credit_id": "693149d6eae8390396e67b21",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5856044,
+            "known_for_department": "Acting",
+            "name": "Калоян Патерков",
+            "original_name": "Калоян Патерков",
+            "popularity": 0.3352,
+            "profile_path": null,
+            "cast_id": 2,
+            "character": "",
+            "credit_id": "69314bd120cac3ce0cc1e85d",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5856046,
+            "known_for_department": "Acting",
+            "name": "Тервел Пулев",
+            "original_name": "Тервел Пулев",
+            "popularity": 0.2463,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "69314be061caeb676fc1e95f",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5856047,
+            "known_for_department": "Acting",
+            "name": "Доби Главинчева",
+            "original_name": "Доби Главинчева",
+            "popularity": 0.1872,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "69314beeaea62b5f6713999c",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5856048,
+            "known_for_department": "Acting",
+            "name": "Симона Йорданова",
+            "original_name": "Симона Йорданова",
+            "popularity": 0.1962,
+            "profile_path": null,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "69314bf9ea17162dfa139a48",
+            "order": 4
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5856051,
+            "known_for_department": "Directing",
+            "name": "Atanas Mihaylov",
+            "original_name": "Атанас Михайлов",
+            "popularity": 0.2666,
+            "profile_path": null,
+            "credit_id": "69314c73244e115f354a3f03",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/8ntTGtJCT9SbfZ2TjRDZTICr0Yv.jpg",
+            "id": 29989,
+            "title": "Skin",
+            "original_title": "Skin",
+            "overview": "Based on the true story of a black girl who was born to two white Afrikaner parents in South Africa during the apartheid era.",
+            "poster_path": "/lRKQ0CXJF1cIO1kc2XqdWptbaAX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.7843,
+            "release_date": "2009-07-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9IrsCOyzEq9mieD0MAbh8ZDuvSw.jpg",
+            "id": 187541,
+            "title": "Call Me Crazy: A Five Film",
+            "original_title": "Call Me Crazy: A Five Film",
+            "overview": "A psychotherapist helps a law student cope with schizophrenia in one of five interconnected tales dealing with mental illness.",
+            "poster_path": "/kVcDZluWy2vBxi1rTfZ3OOxmXLg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.8093,
+            "release_date": "2013-04-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iSKHeZ2QumBwIuJnIBXzjaczbPP.jpg",
+            "id": 273059,
+            "title": "Starving in Suburbia",
+            "original_title": "Starving in Suburbia",
+            "overview": "When seventeen-year-old Hannah stumbles upon a website about Thinspiration--an online community devoted to anorexia as a life choice--she becomes an obsessive follower of the site founder, ButterflyAna. By the time Hannah's family realizes what is happening and get Hannah the help she needs, the disease has fully taken hold and Hannah is refusing to eat. Will this family be able to exorcise the demon of anorexia from their lives?",
+            "poster_path": "/kSTqlLJ0gNEIQVNwVe9YhvAcdZo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "popularity": 3.2033,
+            "release_date": "2014-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dCSmuAoO7NMkDkkuMQA0J48Ba9E.jpg",
+            "id": 422619,
+            "title": "Jonathan",
+            "original_title": "Jonathan",
+            "overview": "Jonathan is a young man with a strange condition that only his brother understands.  But when he begins to yearn for a different life, their unique bond becomes increasingly tested.",
+            "poster_path": "/nTd0PBJkA1HLM9yImDnRZDzGAwb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "popularity": 2.2733,
+            "release_date": "2018-11-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.886,
+            "vote_count": 214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zAfG4ZmpNfKSyr8MVn1CHjgYYXx.jpg",
+            "id": 292011,
+            "title": "Richard Jewell",
+            "original_title": "Richard Jewell",
+            "overview": "Richard Jewell thinks quick, works fast, and saves hundreds, perhaps thousands, of lives after a domestic terrorist plants several pipe bombs and they explode during a concert, only to be falsely suspected of the crime by sloppy FBI work and sensational media coverage.",
+            "poster_path": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                36,
+                80
+            ],
+            "popularity": 6.6847,
+            "release_date": "2019-12-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.416,
+            "vote_count": 2762
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1WoPau7XK17cWQGAOxmyisud0Iq.jpg",
+            "id": 113294,
+            "title": "Fast Girls",
+            "original_title": "Fast Girls",
+            "overview": "A street smart runner develops an intense rivalry with an equally ambitious wealthy young athlete.",
+            "poster_path": "/wrsIUs4esWv3oncNpRI4ERon4bF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.5519,
+            "release_date": "2012-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.049,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jrsB8tChsAFTQilhsS8fxNTuear.jpg",
+            "id": 520318,
+            "title": "Fatima",
+            "original_title": "Fatima",
+            "overview": "In 1917, outside the parish of Fátima, Portugal, a 10-year-old girl and her two younger cousins witness multiple visitations of the Virgin Mary, who tells them that only prayer and suffering will bring an end to World War I.  As secularist government officials and Church leaders try to force the children to recant their story, word of the sighting spreads across the country, inspiring religious pilgrims to flock to the site in hopes of witnessing a miracle..",
+            "poster_path": "/lfA46pZbk4kxIaQvHyBPq0KH84Q.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.4209,
+            "release_date": "2020-08-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.232,
+            "vote_count": 198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dq9ShpvPDB7CmjgfPHHPUvshCLZ.jpg",
+            "id": 829503,
+            "title": "Gigi & Nate",
+            "original_title": "Gigi & Nate",
+            "overview": "A young man with a bright future suffers a near-fatal accident and recreates his new life with the help of an unlikely animal friend.",
+            "poster_path": "/xP1GXV1gms9b5BpHZP7S8qs8FO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.5146,
+            "release_date": "2022-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.639,
+            "vote_count": 148
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kk1MMdWF9Z4vBMM0ebBjD7G5zFf.jpg",
+            "id": 127373,
+            "title": "What Maisie Knew",
+            "original_title": "What Maisie Knew",
+            "overview": "In New York City, a young girl is caught in the middle of her parents' bitter custody battle.",
+            "poster_path": "/1unkWKdT68ba6NdiSsPqzJeylxc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.0972,
+            "release_date": "2013-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.117,
+            "vote_count": 452
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/diF927vBIYi1uQxVpdx7W7wUuIr.jpg",
+            "id": 159389,
+            "title": "TalhotBlond",
+            "original_title": "TalhotBlond",
+            "overview": "Thomas Montgomery, a married father of two young daughters, gets seduced by the world of online gambling and chat rooms where a virtual romance and sexual obsession ultimately leads to the murder of an innocent man.",
+            "poster_path": "/3FF9YFuVvh5t393NxfME47wxqrZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "popularity": 3.003,
+            "release_date": "2012-06-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eW81T3E28s40VFW8AgAJPCZqE2X.jpg",
+            "id": 16056,
+            "title": "Winged Creatures",
+            "original_title": "Winged Creatures",
+            "overview": "A psychotic man opens fire in a diner, murdering numerous people before killing himself. The survivors struggle in different ways following this horrendous event: a doctor doubts his own instincts and elects to use an experimental medical procedure on his wife, while a gambler believes he's on a lucky streak. A waitress begins engaging in promiscuous sex, and a young girl whose father is among the dead gains unexpected fame.",
+            "poster_path": "/mkKSPO5CuYogooyUzRlNckoJTkd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "popularity": 3.1608,
+            "release_date": "2009-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.89,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tEodwsC1kRFFbI4CJCZJopdX0D.jpg",
+            "id": 38557,
+            "title": "The River",
+            "original_title": "The River",
+            "overview": "Tom and Mae Garvey are a Tennessee farming couple battling violent floods to save their land. In addition to natural disasters, the Garveys fight to stop a selfish land developer and a local corporation from foreclosing on their farm. While Mae stays at home to care for their children and tend to the crops, Tom finds work as a scab at a steel mill to preserve his family's property.",
+            "poster_path": "/bXIlE2QVIarVug9wpyPIz2xiWxf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.8225,
+            "release_date": "1984-12-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.325,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y6jpd3c1UFoouBmIVWZMCGVyQmS.jpg",
+            "id": 374461,
+            "title": "Mr. Church",
+            "original_title": "Mr. Church",
+            "overview": "A unique friendship develops when a little girl and her dying mother inherit a cook - Mr. Church. What begins as an arrangement that should only last six months, instead spans fifteen years.",
+            "poster_path": "/5fCfZEQwcbuqVPyMu7pN5XNpK5V.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.699,
+            "release_date": "2016-09-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.41,
+            "vote_count": 536
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q0X5l5GfbqxKuof0XHEIuh94RKb.jpg",
+            "id": 397837,
+            "title": "Before I Fall",
+            "original_title": "Before I Fall",
+            "overview": "Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.",
+            "poster_path": "/eowzonDJMCuNXoJGVkP9Z7oCmiM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "popularity": 10.7612,
+            "release_date": "2017-03-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.966,
+            "vote_count": 3563
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y9EqhIvXtvKOFLZMSZL3jHybXvZ.jpg",
+            "id": 19819,
+            "title": "Blue Chips",
+            "original_title": "Blue Chips",
+            "overview": "Pete Bell, a college basketball coach is under a lot of pressure. His team isn't winning and he cannot attract new players. The stars of the future are secretly being paid by boosters. This practice is forbidden in the college game, but Pete is desperate and has pressures from all around.",
+            "poster_path": "/tO71i4Ob64tchCRBB5MoqonPKAF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.8036,
+            "release_date": "1994-02-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 213
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iRUBsjkPeK21nlHqH4szJCz2Ma1.jpg",
+            "id": 221,
+            "title": "Rebel Without a Cause",
+            "original_title": "Rebel Without a Cause",
+            "overview": "After moving to a new town, troublemaking teen Jim Stark is supposed to have a clean slate, although being the new kid in town brings its own problems. While searching for some stability, Stark forms a bond with a disturbed classmate, Plato, and falls for local girl Judy. However, Judy is the girlfriend of neighborhood tough, Buzz. When Buzz violently confronts Jim and challenges him to a drag race, the new kid's real troubles begin.",
+            "poster_path": "/yHStsC8rRRfIjqRN38BQsLh6S7k.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 5.4833,
+            "release_date": "1955-10-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.492,
+            "vote_count": 1790
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ktSsmJ6h2IeQgxFwUOQ9ZOxbUP3.jpg",
+            "id": 860852,
+            "title": "Tyson's Run",
+            "original_title": "Tyson's Run",
+            "overview": "When fifteen-year-old Tyson attends public school for the first time, his life is changed forever. While helping his father clean up after the football team, Tyson befriends champion marathon runner Aklilu. Never letting his autism hold him back, Tyson becomes determined to run his first marathon in hopes of winning his father's approval.  With the help of an unlikely friend and his parents, Tyson learns that with faith in yourself and the courage to take the first step, anything is possible.",
+            "poster_path": "/n1YApVTO1gHudv7avTRSSvUqIDR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.052,
+            "release_date": "2022-03-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.728,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lVs1eNZAasBUdHC9FpRQQFKr5o8.jpg",
+            "id": 35123,
+            "title": "The Verdict",
+            "original_title": "The Verdict",
+            "overview": "After an innocent man is executed in a case he was responsible for, a Scotland Yard superintendent finds himself investigating the murder of his key witness.",
+            "poster_path": "/mBaLOlfTOd71p9cJnaAMeK5NFcL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                53
+            ],
+            "popularity": 2.3755,
+            "release_date": "1946-10-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1wX0Xgs316QapQXjmqrAY9UixgN.jpg",
+            "id": 227156,
+            "title": "The Giver",
+            "original_title": "The Giver",
+            "overview": "In a seemingly perfect community, without war, pain, suffering, differences or choice, a young boy is chosen to learn from an elderly man about the true pain and pleasure of the \"real\" world.",
+            "poster_path": "/dul62Av4pgi5x8LP7ELHzNyka9Z.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "popularity": 9.253,
+            "release_date": "2014-08-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.557,
+            "vote_count": 4675
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/le5lQ6p5A7hlLO1Y5PJ4YYg4DMS.jpg",
+            "id": 706260,
+            "title": "Adam",
+            "original_title": "Adam",
+            "overview": "A hard-living salesman becomes a quadriplegic after an accident.",
+            "poster_path": "/xAv4u8E6DN5Jc7qjQT3WLQBO4C3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.0291,
+            "release_date": "2020-07-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.275,
+            "vote_count": 51
+        }
+    ]
+}

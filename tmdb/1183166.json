@@ -1,0 +1,695 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/8YTbDLjcIpCvBjiUa1yYFFUhwGX.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documentary"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "",
+        "id": 1183166,
+        "imdb_id": "tt29274601",
+        "origin_country": [
+            "FR"
+        ],
+        "original_language": "fr",
+        "original_title": "Vjeran Tomic: L'homme-araignée de Paris",
+        "overview": "In his own words, the burglar behind the 2010 robbery of the Paris Museum of Modern Art tells how he pulled off the biggest art heist in French history.",
+        "popularity": 13.4706,
+        "poster_path": "/sv0Pzq9Kdv3NBZNdKnEu9xOdcT4.jpg",
+        "production_companies": [
+            {
+                "id": 63246,
+                "logo_path": "/eqHEYpEbLdFHB0hsdsGAaaP3lbn.png",
+                "name": "Amos Pictures",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "release_date": "2023-10-20",
+        "revenue": 0,
+        "runtime": 86,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Vjeran Tomic: The Spider-Man of Paris",
+        "video": false,
+        "vote_average": 7.015,
+        "vote_count": 67
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4289645,
+            "known_for_department": "Acting",
+            "name": "Vjeran Tomic",
+            "original_name": "Vjeran Tomic",
+            "popularity": 0.2631,
+            "profile_path": null,
+            "cast_id": 2,
+            "character": "self",
+            "credit_id": "65114d81344a8e096f858cae",
+            "order": 0
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1897767,
+            "known_for_department": "Directing",
+            "name": "Jamie Roberts",
+            "original_name": "Jamie Roberts",
+            "popularity": 0.6141,
+            "profile_path": "/p2t0sikVZ9KoLWqMuprXdbO9Bws.jpg",
+            "credit_id": "65114b4e3a4a1200e2956da8",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1897767,
+            "known_for_department": "Directing",
+            "name": "Jamie Roberts",
+            "original_name": "Jamie Roberts",
+            "popularity": 0.6141,
+            "profile_path": "/p2t0sikVZ9KoLWqMuprXdbO9Bws.jpg",
+            "credit_id": "65662e3289d97f00ab15ef1b",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1897767,
+            "known_for_department": "Directing",
+            "name": "Jamie Roberts",
+            "original_name": "Jamie Roberts",
+            "popularity": 0.6141,
+            "profile_path": "/p2t0sikVZ9KoLWqMuprXdbO9Bws.jpg",
+            "credit_id": "65662dae3d745401503fa393",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3423242,
+            "known_for_department": "Crew",
+            "name": "Cécile Dolman",
+            "original_name": "Cécile Dolman",
+            "popularity": 0.1429,
+            "profile_path": null,
+            "credit_id": "65662dfd6f53e100e36259c9",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 71769,
+            "known_for_department": "Editing",
+            "name": "William Grayburn",
+            "original_name": "William Grayburn",
+            "popularity": 0.318,
+            "profile_path": null,
+            "credit_id": "65662ddf89d97f00c435e82d",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 74626,
+            "known_for_department": "Directing",
+            "name": "Dan Reed",
+            "original_name": "Dan Reed",
+            "popularity": 0.9325,
+            "profile_path": "/tsvuZfVjtsB8MPD1NmUDvwHonWH.jpg",
+            "credit_id": "65662dcd6f53e101001824be",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2151794,
+            "known_for_department": "Production",
+            "name": "Claire Walker",
+            "original_name": "Claire Walker",
+            "popularity": 0.2645,
+            "profile_path": null,
+            "credit_id": "664a41f76aceacecb52fbff7",
+            "department": "Production",
+            "job": "Head of Production"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4673695,
+            "known_for_department": "Editing",
+            "name": "Kirsty Hampton",
+            "original_name": "Kirsty Hampton",
+            "popularity": 0.1812,
+            "profile_path": null,
+            "credit_id": "664a421bf60ffeeef2929da9",
+            "department": "Editing",
+            "job": "Assistant Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3120338,
+            "known_for_department": "Production",
+            "name": "Marguerite Gaudin",
+            "original_name": "Marguerite Gaudin",
+            "popularity": 0.3647,
+            "profile_path": null,
+            "credit_id": "664a423d199d8c6f2d5441e3",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4673692,
+            "known_for_department": "Camera",
+            "name": "Taofeeqat Olanlokun",
+            "original_name": "Taofeeqat Olanlokun",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "credit_id": "664a4264a408fa48dacc451f",
+            "department": "Camera",
+            "job": "Additional Camera"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4723454,
+            "known_for_department": "Crew",
+            "name": "Alice Uzzan",
+            "original_name": "Alice Uzzan",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "credit_id": "664a42ca05ce3ae62be76b03",
+            "department": "Crew",
+            "job": "Translator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4723435,
+            "known_for_department": "Production",
+            "name": "Amelia Griffiths",
+            "original_name": "Amelia Griffiths",
+            "popularity": 0.1121,
+            "profile_path": null,
+            "credit_id": "664a427a5e39a926b0960b4a",
+            "department": "Camera",
+            "job": "Additional Camera"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4723429,
+            "known_for_department": "Production",
+            "name": "Michael Dare",
+            "original_name": "Michael Dare",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "credit_id": "664a4206f4cdaeb7667a845e",
+            "department": "Production",
+            "job": "Production Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3689996,
+            "known_for_department": "Directing",
+            "name": "Hannah Cauhépé",
+            "original_name": "Hannah Cauhépé",
+            "popularity": 0.1521,
+            "profile_path": null,
+            "credit_id": "664a42e939a681446b791249",
+            "department": "Crew",
+            "job": "Translator"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 90,
+            "name": "paris, france"
+        },
+        {
+            "id": 9672,
+            "name": "based on true story"
+        },
+        {
+            "id": 156031,
+            "name": "art theft"
+        },
+        {
+            "id": 250043,
+            "name": "art heist"
+        },
+        {
+            "id": 307587,
+            "name": "crime documentary"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/hz59eF5z6ObaaWiGlUKcVbODti7.jpg",
+            "id": 1513598,
+            "title": "Stolen: Heist of the Century",
+            "original_title": "Stolen: Heist of the Century",
+            "overview": "Antwerp, 2003. A gang of thieves rob the impenetrable Diamond Center. Who was behind one of the world's biggest heists - and how did they pull it off?",
+            "poster_path": "/aqZOJkBd3DR6ioacm136lP7BGvi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                80
+            ],
+            "popularity": 2.608,
+            "release_date": "2025-08-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.989,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kwwuAQpPvewf4voKVMN98KcXEPM.jpg",
+            "id": 43003,
+            "title": "F for Fake",
+            "original_title": "Vérités et Mensonges",
+            "overview": "Documents the lives of infamous fakers Elmyr de Hory and Clifford Irving. De Hory, who later committed suicide to avoid more prison time, made his name by selling forged works of art by painters like Picasso and Matisse. Irving was infamous for writing a fake autobiography of Howard Hughes. Welles moves between documentary and fiction as he examines the fundamental elements of fraud and the people who commit fraud at the expense of others.",
+            "poster_path": "/fVeIDxS73CrosoeVOaefQuCUGZg.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.5055,
+            "release_date": "1973-09-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.407,
+            "vote_count": 366
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eoAvHxfbaPOcfiQyjqypWIXWxDr.jpg",
+            "id": 1059673,
+            "title": "Avatar: The Deep Dive - A Special Edition of 20/20",
+            "original_title": "Avatar: The Deep Dive - A Special Edition of 20/20",
+            "overview": "An inside look at one of the most anticipated movie sequels ever with James Cameron and cast.",
+            "poster_path": "/pzZGqIyrrSqIfrkPLJnN1tvCGnV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.0162,
+            "release_date": "2022-12-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a9jBEm8wb4XJIvAdFJlAVgVxbB5.jpg",
+            "id": 377462,
+            "title": "O.J.: Made in America",
+            "original_title": "O.J.: Made in America",
+            "overview": "A chronicle of the rise and fall of O.J. Simpson, whose high-profile murder trial exposed the extent of American racial tensions, revealing a fractured and divided nation.",
+            "poster_path": "/nFmg2G4IJ0x9mALXkYFN8Gw0Dw5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                80,
+                36
+            ],
+            "popularity": 1.8499,
+            "release_date": "2016-05-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.398,
+            "vote_count": 264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o1gNOkgyQhsdK0x6FcpoV7TR35C.jpg",
+            "id": 477331,
+            "title": "Long Shot",
+            "original_title": "Long Shot",
+            "overview": "When Juan Catalan is arrested for a murder he insists he didn't commit, he builds his case for innocence around unexpected raw footage.",
+            "poster_path": "/8LDeHrG8RBluJ7IkPgBaOMkU3fl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                99
+            ],
+            "popularity": 1.2287,
+            "release_date": "2017-09-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.183,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9KRKWXUCL983d9V9GgAsd8GxfeZ.jpg",
+            "id": 824865,
+            "title": "Nail Bomber: Manhunt",
+            "original_title": "Nail Bomber: Manhunt",
+            "overview": "This documentary examines the 1999 London bombings that targeted Black, Bangladeshi and gay communities, and the race to find the far-right perpetrator. He terrorized a city, seeking to ignite a race war but justice was served by those who wouldn't let his hate win.",
+            "poster_path": "/3iSL0WLl2Y76n9l9FejaoXTaPPE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                99,
+                36
+            ],
+            "popularity": 1.209,
+            "release_date": "2021-05-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.558,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xQFxoGYtwMBAq89DPa9gUcLlOdA.jpg",
+            "id": 1629369,
+            "title": "The Truth and Tragedy of Moriah Wilson",
+            "original_title": "The Truth and Tragedy of Moriah Wilson",
+            "overview": "An intimate, arresting portrait of cyclist Moriah Wilson—raised by a fierce, loving family—whose singular drive becomes her superpower, carrying her to athletic brilliance and, devastatingly, toward a life cut short by murder.",
+            "poster_path": "/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                80
+            ],
+            "popularity": 3.8474,
+            "release_date": "2026-03-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.479,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
+            "id": 1715492,
+            "title": "Shipwrecked: Nightmare at Sea",
+            "original_title": "Shipwrecked: Nightmare at Sea",
+            "overview": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
+            "poster_path": "/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 7.3368,
+            "release_date": "2026-07-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dTEbfFiaYupyhgFg9ZC4NpH5p8G.jpg",
+            "id": 1678844,
+            "title": "The Bus: A French Football Mutiny",
+            "original_title": "Le Bus : Les Bleus en grève",
+            "overview": "This documentary revisits the French football team's controversial 2010 World Cup and the bus strike that sparked global headlines and national outrage.",
+            "poster_path": "/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.4098,
+            "release_date": "2026-05-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.889,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1yFmxvVYgVrFKL2ksFzgX0MrWOM.jpg",
+            "id": 44639,
+            "title": "Inside Job",
+            "original_title": "Inside Job",
+            "overview": "A film that exposes the shocking truth behind the economic crisis of 2008. The global financial meltdown, at a cost of over $20 trillion, resulted in millions of people losing their homes and jobs. Through extensive research and interviews with major financial insiders, politicians and journalists, Inside Job traces the rise of a rogue industry and unveils the corrosive relationships which have corrupted politics, regulation and academia.",
+            "poster_path": "/7yXXIWec24htucjsZS1sDuPLqw8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                80
+            ],
+            "popularity": 5.3068,
+            "release_date": "2010-10-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.713,
+            "vote_count": 1054
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/spgZcy2k1SSjnvBGONXKMxQWXhC.jpg",
+            "id": 193645,
+            "title": "Seduced and Abandoned",
+            "original_title": "Seduced and Abandoned",
+            "overview": "SEDUCED AND ABANDONED combines acting legend Alec Baldwin with director James Toback as they lead us on a troublesome and often hilarious journey of raising financing for their next feature film. Moving from director to financier to star actor, the two players provide us with a unique look behind the curtain at the world's biggest and most glamourous film festival, shining a light on the bitter-sweet relationship filmmakers have with Cannes and the film business. Featuring insights from directors Martin Scorsese, 'Bernando Bertolucci' and Roman Polanski; actors Ryan Gosling and Jessica Chastain and a host of film distribution luminaries.",
+            "poster_path": "/gaXPdoGRurNLgfyRrUDKsa95fYa.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.3875,
+            "release_date": "2013-05-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.206,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rSuqSerMzqMtgX7fX50Hl55ficF.jpg",
+            "id": 1492608,
+            "title": "John Candy: I Like Me",
+            "original_title": "John Candy: I Like Me",
+            "overview": "Those who knew iconic funnyman John Candy best share his story, in their own words, through never-before-seen archival footage, imagery, and interviews.",
+            "poster_path": "/mNEJdx9WSXeyMmkuQfTeY4zouNx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 5.5937,
+            "release_date": "2025-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.872,
+            "vote_count": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c8jqJ502BzvkCXy2enrao1PuQEE.jpg",
+            "id": 1015606,
+            "title": "Obi-Wan Kenobi: A Jedi's Return",
+            "original_title": "Obi-Wan Kenobi: A Jedi's Return",
+            "overview": "This special explores the return of Obi-Wan Kenobi and Anakin Skywalker to the screen, as well as Ewan McGregor and Hayden Christensen to their classic roles. Director Deborah Chow leads the cast and crew as they create new heroes and villains that live alongside new incarnations of beloved Star Wars characters, and an epic story that dramatically bridges the saga films.",
+            "poster_path": "/vQGgvXjoMZf8x1m3BHsMxVXPyck.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 5.977,
+            "release_date": "2022-09-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.795,
+            "vote_count": 1020
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jmr5GZmQ2Ds3REQi4FJ4GA0vUBJ.jpg",
+            "id": 1525091,
+            "title": "All the Empty Rooms",
+            "original_title": "All the Empty Rooms",
+            "overview": "A journalist and a photographer set out to memorialize the bedrooms left behind by children killed in school shootings.",
+            "poster_path": "/ajOXPpgh96rxxaHqqQCoxPP6dH5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.1553,
+            "release_date": "2025-08-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.336,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4dZ88NOFhz2Ja5XQzwfyS7f18LF.jpg",
+            "id": 13364,
+            "title": "Deliver Us from Evil",
+            "original_title": "Deliver Us from Evil",
+            "overview": "Documentary filmmaker Amy Berg investigates the life of 30-year pedophile Father Oliver O'Grady and exposes the corruption inside the Catholic Church that allowed him to abuse countless children. Victims' stories and a disturbing interview with O'Grady offer a view into the troubled mind of the spiritual leader who moved from parish to parish gaining trust ... all the while betraying so many.",
+            "poster_path": "/4FSBT712p6OwawSqLCkloNSqMaM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                99
+            ],
+            "popularity": 1.045,
+            "release_date": "2006-06-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.14,
+            "vote_count": 210
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Bcm0qBnS6yjwTFad8eI6thzRub.jpg",
+            "id": 869250,
+            "title": "Being James Bond",
+            "original_title": "Being James Bond",
+            "overview": "Daniel Craig candidly reflects on his 15 year adventure as James Bond. Including never-before-seen archival footage from Casino Royale to the upcoming 25th film No Time To Die, Craig shares his personal memories in conversation with 007 producers, Michael G Wilson and Barbara Broccoli.",
+            "poster_path": "/kKG9gieki5wgEcVXLfnX1lbOcrO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.399,
+            "release_date": "2021-08-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.766,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/208aRGBlyf8wVACc3TjgzaDm91X.jpg",
+            "id": 49650,
+            "title": "Daguerréotypes",
+            "original_title": "Daguerréotypes",
+            "overview": "An intimate portrait of the small shops and shopkeepers of the Rue Daguerre in Paris, a picturesque street that has been the filmmaker’s home for more than 50 years.",
+            "poster_path": "/3XXWWVKbePGBu6Q7e0ngve5cwBB.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.6642,
+            "release_date": "1978-02-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 53
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eJIQeihNUsXb7ZY7NjAxZlp7wwr.jpg",
+            "id": 84342,
+            "title": "Something from Nothing: The Art of Rap",
+            "original_title": "Something from Nothing: The Art of Rap",
+            "overview": "SOMETHING FROM NOTHING: THE ART OF RAP is a feature length performance documentary about the runaway juggernaut that is Rap music. At the wheel of this unstoppable beast is the film's director and interviewer Ice-T. Taking us on a deeply personal journey Ice-T uncovers how this music of the street has grown to dominate the world. Along the way Ice-T meets a whole spectrum of Hip-Hop talent, from founders, to new faces, to the global superstars like Eminem, Dr Dre, Snoop Dogg and Kanye West. He exposes the roots and history of Rap and then, through meeting many of its most famous protagonists, studies the living mechanism of the music to reveal 'The Art Of Rap'. This extraordinary film features unique performances from the entire cast, without resorting to archive material, to build a fresh and surprising take on the phenomenon that is Rap.",
+            "poster_path": "/vXEZjHxxwaQqKnkE92paaXg5bV1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "popularity": 1.8669,
+            "release_date": "2012-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.669,
+            "vote_count": 62
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vNYnOjQJykFModnm0e7jpnVTryG.jpg",
+            "id": 554967,
+            "title": "Varda by Agnès",
+            "original_title": "Varda par Agnès",
+            "overview": "An unpredictable documentary from a fascinating storyteller, Agnès Varda’s last film sheds light on her experience as a director, bringing a personal insight to what she calls \"cine-writing,\" traveling from Rue Daguerre in Paris to Los Angeles and Beijing.",
+            "poster_path": "/99xU63PePSbtffV5CUqPQYu84XY.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.2722,
+            "release_date": "2019-04-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.87,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/YP6FhLBnw8gwFb5RmL9i1Exm2c.jpg",
+            "id": 1261924,
+            "title": "What Jennifer Did",
+            "original_title": "What Jennifer Did",
+            "overview": "When Jennifer Pan calls 911 to report that her parents have been shot, she becomes the primary focus of a captivating criminal case.",
+            "poster_path": "/r3PJPXuSArGK8tM6lBUyPUTtIbJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                80
+            ],
+            "popularity": 1.9295,
+            "release_date": "2024-04-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.282,
+            "vote_count": 181
+        }
+    ]
+}

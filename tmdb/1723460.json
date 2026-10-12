@@ -1,0 +1,595 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documentary"
+            }
+        ],
+        "homepage": "https://www.netflix.com/title/81923353",
+        "id": 1723460,
+        "imdb_id": "tt43619305",
+        "origin_country": [
+            "GB"
+        ],
+        "original_language": "en",
+        "original_title": "A Toxic Love Story",
+        "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+        "popularity": 11.9795,
+        "poster_path": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+        "production_companies": [
+            {
+                "id": 81364,
+                "logo_path": "/cwPL6vTyZi4tfqSaJ1gizzFdgST.png",
+                "name": "Curious Films",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2026-07-22",
+        "revenue": 0,
+        "runtime": 89,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "A Toxic Love Story",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 41
+    },
+    "cast": [],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3564107,
+            "known_for_department": "Production",
+            "name": "Emma Supple",
+            "original_name": "Emma Supple",
+            "popularity": 0.354,
+            "profile_path": null,
+            "credit_id": "6a43536af5d5a79501575a25",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3008457,
+            "known_for_department": "Production",
+            "name": "Dov Freedman",
+            "original_name": "Dov Freedman",
+            "popularity": 0.3789,
+            "profile_path": null,
+            "credit_id": "6a43537798a229d3482d7af8",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1045283,
+            "known_for_department": "Directing",
+            "name": "Charlie Russell",
+            "original_name": "Charlie Russell",
+            "popularity": 0.3258,
+            "profile_path": null,
+            "credit_id": "6a4353883b704e545ab1d02f",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150542,
+            "known_for_department": "Directing",
+            "name": "Sam Hobkinson",
+            "original_name": "Sam Hobkinson",
+            "popularity": 0.5434,
+            "profile_path": "/sbTKKnP5EbOhd5PLz6LWhghfh9S.jpg",
+            "credit_id": "6a435390742fb9ebb02d7a8d",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4002398,
+            "known_for_department": "Production",
+            "name": "Alexandra Lacey",
+            "original_name": "Alexandra Lacey",
+            "popularity": 0.5564,
+            "profile_path": null,
+            "credit_id": "6a4353990cc6d8fd5fa53612",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1459174,
+            "known_for_department": "Camera",
+            "name": "Megan Stacey",
+            "original_name": "Megan Stacey",
+            "popularity": 0.3325,
+            "profile_path": null,
+            "credit_id": "6a622f2f9c6167af110ed437",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4533337,
+            "known_for_department": "Editing",
+            "name": "Simon Mason",
+            "original_name": "Simon Mason",
+            "popularity": 0.2879,
+            "profile_path": null,
+            "credit_id": "6a62306c5994baedae87d2ea",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1859464,
+            "known_for_department": "Editing",
+            "name": "Tom Parsons",
+            "original_name": "Tom Parsons",
+            "popularity": 0.2312,
+            "profile_path": null,
+            "credit_id": "6a623076dc48ece5990207af",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1697072,
+            "known_for_department": "Editing",
+            "name": "Hugh Williams",
+            "original_name": "Hugh Williams",
+            "popularity": 0.4254,
+            "profile_path": null,
+            "credit_id": "6a62307e0b9da7375c020798",
+            "department": "Editing",
+            "job": "Editor"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 307587,
+            "name": "crime documentary"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/pYxLP0MWvhMG1Sx852N2PT8F3zf.jpg",
+            "id": 84330,
+            "title": "Room 237",
+            "original_title": "Room 237",
+            "overview": "A subjective documentary that explores various theories about hidden meanings in Stanley Kubrick's classic film The Shining. Five very different points of view are illuminated through voice over, film clips, animation and dramatic reenactments.",
+            "poster_path": "/wPXxJSz36VjAkxa4MZ0C28uOdwA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.7393,
+            "release_date": "2012-10-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.132,
+            "vote_count": 531
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y3bebCmOJ32gzLKpghjKcRoKFRi.jpg",
+            "id": 29047,
+            "title": "The Kid Stays in the Picture",
+            "original_title": "The Kid Stays in the Picture",
+            "overview": "Documentary about legendary Paramount producer Robert Evans, based on his famous 1994 autobiography.",
+            "poster_path": "/wQd4tf308KGwbUZeoDLPxgYqhiv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.7072,
+            "release_date": "2002-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.587,
+            "vote_count": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hiqB5fFZ230MeFAGLPahoy06UOE.jpg",
+            "id": 576017,
+            "title": "For Sama",
+            "original_title": "For Sama",
+            "overview": "A love letter from a young mother to her daughter, the film tells the story of Waad al-Kateab’s life through five years of the uprising in Aleppo, Syria as she falls in love, gets married and gives birth to Sama, all while cataclysmic conflict rises around her.  Her camera captures incredible stories of loss, laughter and survival as Waad wrestles with an impossible choice– whether or not to flee the city to protect her daughter’s life, when leaving means abandoning the struggle for freedom for which she has already sacrificed so much.",
+            "poster_path": "/mDna51F8QfrJFZOgPGQUz3VKqsB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10752
+            ],
+            "popularity": 3.5854,
+            "release_date": "2019-07-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.251,
+            "vote_count": 315
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ciaJwWmeO4XY45IkGzwCcCYD0jN.jpg",
+            "id": 319152,
+            "title": "Finders Keepers",
+            "original_title": "Finders Keepers",
+            "overview": "In this documentary, recovering addict and amputee John Wood finds himself in a stranger-than-fiction battle to reclaim his mummified leg from Southern entrepreneur Shannon Whisnant, who found it in a grill he bought at an auction and believes it therefore to be his rightful property.",
+            "poster_path": "/4lp1NBwRd1zmxspN1MQUvS4qPE3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.5288,
+            "release_date": "2015-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bGY3ec44F0cuA8UUzhNrA7xxGJq.jpg",
+            "id": 30966,
+            "title": "Facing Ali",
+            "original_title": "Facing Ali",
+            "overview": "Ten of Muhammad Ali's former rivals pay tribute to the three-time world heavyweight champion.",
+            "poster_path": "/cvGflJpxYX4tK6WOTFGiwS5BXPD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.5448,
+            "release_date": "2009-05-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 53
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iHn0mBPLqteqGMvoYz35vatFVy9.jpg",
+            "id": 13003,
+            "title": "Gonzo: The Life and Work of Dr. Hunter S. Thompson",
+            "original_title": "Gonzo: The Life and Work of Dr. Hunter S. Thompson",
+            "overview": "Fueled by a raging libido, Wild Turkey, and superhuman doses of drugs, Thompson was a true \"free lance, \" goring sacred cows with impunity, hilarity, and a steel-eyed conviction for writing wrongs. Focusing on the good doctor's heyday, 1965 to 1975, the film includes clips of never-before-seen (nor heard) home movies, audiotapes, and passages from unpublished manuscripts.",
+            "poster_path": "/a8cRVJTTofxF7TgCGEvC5Yr4GnC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.8126,
+            "release_date": "2008-07-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.913,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/25lmSs1aYZsCcr6a9lapQse55Qq.jpg",
+            "id": 625561,
+            "title": "Travis Scott: Look Mom I Can Fly",
+            "original_title": "Travis Scott: Look Mom I Can Fly",
+            "overview": "While crafting his Grammy-nominated album \"Astroworld,\" Travis Scott juggles controversy, fatherhood and career highs in this intimate documentary.",
+            "poster_path": "/oNOXntnRY7dFrgu1x6bQQmWBVdu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "popularity": 1.9284,
+            "release_date": "2019-08-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 227
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ib2aD7GJwQZj5vyaPLZEIWnGgUw.jpg",
+            "id": 380808,
+            "title": "Zero Days",
+            "original_title": "Zero Days",
+            "overview": "Alex Gibney explores the phenomenon of Stuxnet, a self-replicating computer virus discovered in 2010 by international IT experts. Evidently commissioned by the US and Israeli governments, this malware was designed to specifically sabotage Iran’s nuclear programme. However, the complex computer worm ended up not only infecting its intended target but also spreading uncontrollably.",
+            "poster_path": "/xwQVkRJGCH59jGNPR78Aw8wzyZg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.3007,
+            "release_date": "2016-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.354,
+            "vote_count": 264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rOo8r3NzUVL5Q9mIb6xbsdp5b3c.jpg",
+            "id": 396232,
+            "title": "Sour Grapes",
+            "original_title": "Sour Grapes",
+            "overview": "Controversy erupts when an unassuming young man floods the American wine market with fake vintages valued in the millions, bamboozling the wine world elite, in this humorous and suspenseful tale of an ingenious con on the eve of the 2008 stock market crash.",
+            "poster_path": "/8jLfS18TvzQ4IkpMXHIgWgS8kZW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.0465,
+            "release_date": "2016-05-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2X4rN11T056eHyYNt44p6eHQ6C7.jpg",
+            "id": 97044,
+            "title": "Aileen Wuornos: The Selling of a Serial Killer",
+            "original_title": "Aileen Wuornos: The Selling of a Serial Killer",
+            "overview": "In this documentary, filmmaker Nick Broomfield follows the saga of Aileen Wuornos, a prostitute who has been accused of committing a brutal series of murders. Broomfield conducts interviews with Wuornos herself, and his crew films her trial as well as her interactions with religious fanatic Arlene Pralle, who gives Wuornos dubious advice and legally adopts her. The cameras also roll as the accused's attorney ignores the case at hand to negotiate a deal to sell his client's story.",
+            "poster_path": "/cRsTiPrgzWVFnSw14biZkrPEpY9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                80
+            ],
+            "popularity": 1.4544,
+            "release_date": "1992-11-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.74,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1lXuVrX8ZcQWHc1k192yFSNh1R7.jpg",
+            "id": 12228,
+            "title": "Inside Deep Throat",
+            "original_title": "Inside Deep Throat",
+            "overview": "In 1972, a seemingly typical shoestring budget pornographic film was made in a Florida hotel: \"Deep Throat,\" starring Linda Lovelace. This film would surpass the wildest expectation of everyone involved to become one of the most successful independent films of all time. It caught the public imagination which met the spirit of the times, even as the self-appointed guardians of public morality struggled to suppress it, and created, for a brief moment, a possible future where sexuality in film had a bold artistic potential. This film covers the story of the making of this controversial film, its stunning success, its hysterical opposition along with its dark side of mob influence and allegations of the on set mistreatment of the film's star.",
+            "poster_path": "/iy96Ud1jpnjOEYiHh2XMooD1PfG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 4.9703,
+            "release_date": "2005-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5oRKJU5NxAtAirvR9eZCbbRcJzo.jpg",
+            "id": 19929,
+            "title": "9to5: Days in Porn",
+            "original_title": "9to5: Days in Porn",
+            "overview": "9to5 - Days in Porn focuses on the people behind a controversial and multi-billion dollar industry \"The Adult Entertainment industry\". It depicts their stories, each one different, unadorned and authentic, without glorification or prejudice. It delivers deep insight into their personal lives - from glamorous to grotesque - strange, fascinating, offensive, absurd and sometimes funny moments all at once.",
+            "poster_path": "/vCcXRri6Rrb2nZ0eDXPU3JKrpaS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 7.6178,
+            "release_date": "2008-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9VVyZl0ul9ZGn6iLDkRNzuFVvvj.jpg",
+            "id": 566368,
+            "title": "One Child Nation",
+            "original_title": "One Child Nation",
+            "overview": "Through interviews with both victims and instigators, Nanfu Wang, a first-time mother, breaks open decades of silence on a vast, unprecedented social experiment that shaped — and destroyed — countless lives in China.",
+            "poster_path": "/bV0aqhB7fsw5mWJROBnFro1Qhwn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.5708,
+            "release_date": "2019-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.194,
+            "vote_count": 175
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eQNlRh69W9HVw46znLOhyMe7dsN.jpg",
+            "id": 653610,
+            "title": "Disclosure",
+            "original_title": "Disclosure",
+            "overview": "An investigation of how Hollywood's fabled stories have deeply influenced how Americans feel about transgender people, and how transgender people have been taught to feel about themselves.",
+            "poster_path": "/2MB2FPNxdSlykbH7ghBltoBYnTH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.4797,
+            "release_date": "2020-06-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.82,
+            "vote_count": 147
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aXLcNxJI2JDdASNL6ZaNI0jWl2s.jpg",
+            "id": 588226,
+            "title": "Woodstock: Three Days That Defined a Generation",
+            "original_title": "Woodstock",
+            "overview": "50 years after the legendary fest, Barak Goodman’s electric retelling of Woodstock, from the point of view of those who were on the ground, evokes the freedom, passion, community, and joy the three-day music festival created.",
+            "poster_path": "/ejPrzjG17UrYHjUn8xE3EAYnoDl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                99
+            ],
+            "popularity": 1.5511,
+            "release_date": "2019-05-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.304,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1FIK6rehI7ZMVRv3MDY5GHiYa9M.jpg",
+            "id": 493100,
+            "title": "Robin Williams: Come Inside My Mind",
+            "original_title": "Robin Williams: Come Inside My Mind",
+            "overview": "A funny, intimate and heartbreaking portrait of one of the world’s most beloved and inventive comedians, Robin Williams, told largely through his own words. Celebrates what he brought to comedy and to the culture at large, from the wild days of late-1970s L.A. to his death in 2014.",
+            "poster_path": "/ak9DZnzInl9oIUlXxsFsUd37ueh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.6547,
+            "release_date": "2018-01-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.868,
+            "vote_count": 268
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jQPrZn9Qd6jGfPbfCm8OhOQkson.jpg",
+            "id": 41116,
+            "title": "The Shock Doctrine",
+            "original_title": "The Shock Doctrine",
+            "overview": "An investigation of \"disaster capitalism\", based on Naomi Klein's proposition that neo-liberal capitalism feeds on natural disasters, war and terror to establish its dominance.",
+            "poster_path": "/54CE1sVtX7vRYGGnDIBE9fHCkZO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.3163,
+            "release_date": "2009-09-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1p5Ihtk4Rh633uTAO1dBiGucSBo.jpg",
+            "id": 45274,
+            "title": "Client 9: The Rise and Fall of Eliot Spitzer",
+            "original_title": "Client 9: The Rise and Fall of Eliot Spitzer",
+            "overview": "An in-depth look at the rapid rise and dramatic fall of New York Governor Eliot Spitzer.",
+            "poster_path": "/4wK6M1vgGYBLKTVpI5kb6CkMq6I.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 0.9687,
+            "release_date": "2010-11-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.225,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dFFdQgTtvL2X02xuGpDwn6SqFiL.jpg",
+            "id": 12698,
+            "title": "The Fog of War",
+            "original_title": "The Fog of War",
+            "overview": "Using archival footage, cabinet conversation recordings, and an interview of the 85-year-old Robert McNamara, The Fog of War depicts his life, from working as a WWII whiz-kid military officer, to being the Ford Motor Company's president, to managing the Vietnam War as defense secretary for presidents Kennedy and Johnson.",
+            "poster_path": "/m1dEnkrdJGBSLeAyJepuGrU9sNI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 2.4021,
+            "release_date": "2003-10-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.704,
+            "vote_count": 301
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sPv96xgkp8Mme0jpIC2RkQotk9b.jpg",
+            "id": 56224,
+            "title": "Z Channel: A Magnificent Obsession",
+            "original_title": "Z Channel: A Magnificent Obsession",
+            "overview": "A documentary on the Z Channel, one of the first pay cable stations in the US, and its programming chief, Jerry Harvey. Debuting in 1974, the LA-based channel's eclectic slate of movies became a prime example of the untapped power of cable television.",
+            "poster_path": "/mhEUVtXc08I8hZSbexWnilXga1p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                36,
+                99
+            ],
+            "popularity": 1.7999,
+            "release_date": "2004-05-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.073,
+            "vote_count": 41
+        }
+    ]
+}

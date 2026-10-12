@@ -1,0 +1,986 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/n4lmOJZw2TDIzLF6EbQQAAUNdp5.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            }
+        ],
+        "homepage": "",
+        "id": 1535392,
+        "imdb_id": "tt37897646",
+        "origin_country": [
+            "MY"
+        ],
+        "original_language": "ms",
+        "original_title": "Malaikat Malam",
+        "overview": "Azam, a motorcycle workshop owner, balances his daily life activities between caring for his older brother who struggles with depression, participating in illegal street racing, and winning an innocent blind girl's heart.",
+        "popularity": 10.2328,
+        "poster_path": "/eneTJD8imT50BmxmNUoVxBAbmAQ.jpg",
+        "production_companies": [
+            {
+                "id": 21361,
+                "logo_path": "/1nkM6TsM8LkCZGrprQotQR6oD3H.png",
+                "name": "Skop Productions Sdn. Bhd.",
+                "origin_country": "MY"
+            },
+            {
+                "id": 191208,
+                "logo_path": null,
+                "name": "Viper Studios",
+                "origin_country": ""
+            },
+            {
+                "id": 19055,
+                "logo_path": "/g7R3rz40PaD1vcDEtc0DOODzw0F.png",
+                "name": "Astro Shaw",
+                "origin_country": "MY"
+            },
+            {
+                "id": 27090,
+                "logo_path": "/rm9GCMgxKobZuUATg41ZTb1IzzT.png",
+                "name": "Primeworks Studios",
+                "origin_country": "MY"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MY",
+                "name": "Malaysia"
+            }
+        ],
+        "release_date": "2026-03-26",
+        "revenue": 0,
+        "runtime": 111,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Malay",
+                "iso_639_1": "ms",
+                "name": "Bahasa melayu"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Malaikat Malam",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 3
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1758117,
+            "known_for_department": "Acting",
+            "name": "Syafiq Kyle",
+            "original_name": "Syafiq Kyle",
+            "popularity": 1.239,
+            "profile_path": "/3WjbYMbX09ExkJHCa2864tTsWhF.jpg",
+            "cast_id": 1,
+            "character": "Azam",
+            "credit_id": "68ac2b959c4b8a6b8e670b35",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3887257,
+            "known_for_department": "Acting",
+            "name": "Tracie Sinidol",
+            "original_name": "Tracie Sinidol",
+            "popularity": 0.9859,
+            "profile_path": "/xQZM7WDxmZL6EyUwTCgZAOuVvN5.jpg",
+            "cast_id": 2,
+            "character": "Ratna",
+            "credit_id": "68ac2ba1c6df0feb1a6ce816",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1977575,
+            "known_for_department": "Acting",
+            "name": "Amir Nafis",
+            "original_name": "Amir Nafis",
+            "popularity": 0.7515,
+            "profile_path": "/n1ktt94fDYP6G5XitadFuprno94.jpg",
+            "cast_id": 3,
+            "character": "Boy",
+            "credit_id": "68ac2bac20c42f65d9548385",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1466715,
+            "known_for_department": "Acting",
+            "name": "Kodi Rasheed",
+            "original_name": "Kodi Rasheed",
+            "popularity": 0.7284,
+            "profile_path": "/mYqHT5ADVBs5iw4DyT3u3c1QCft.jpg",
+            "cast_id": 4,
+            "character": "Jimmy",
+            "credit_id": "68ac2bc0544b5cb6df6ce8f3",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1252372,
+            "known_for_department": "Acting",
+            "name": "Juzzthin",
+            "original_name": "Juzzthin",
+            "popularity": 0.4578,
+            "profile_path": "/snOhXNHlIHPp1TLGlMPmBeHAVoP.jpg",
+            "cast_id": 5,
+            "character": "Mat Jet",
+            "credit_id": "68ac2bced92415a50da9a514",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1172820,
+            "known_for_department": "Acting",
+            "name": "Riezman Khuzaimi",
+            "original_name": "Riezman Khuzaimi",
+            "popularity": 0.6087,
+            "profile_path": "/ab5zMRmBTQKyeb3fwGteqGDufcO.jpg",
+            "cast_id": 6,
+            "character": "Kamal",
+            "credit_id": "68ac2bd8ec06ec52ad6ce7e0",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 111250,
+            "known_for_department": "Acting",
+            "name": "Que Haidar",
+            "original_name": "Que Haidar",
+            "popularity": 0.7177,
+            "profile_path": "/xg1vLwqlywfdZkQVXiSjM7Lz3EQ.jpg",
+            "cast_id": 17,
+            "character": "Arash",
+            "credit_id": "69b81d7b53dd07eef20201ba",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4255094,
+            "known_for_department": "Acting",
+            "name": "Akmal Asyraf",
+            "original_name": "Akmal Asyraf",
+            "popularity": 0.4958,
+            "profile_path": null,
+            "cast_id": 18,
+            "character": "Kutu",
+            "credit_id": "69b81d8d4aed7296315ca668",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 544529,
+            "known_for_department": "Acting",
+            "name": "Cat Farish",
+            "original_name": "Cat Farish",
+            "popularity": 0.4273,
+            "profile_path": "/ajpv5SsrbC5ggdkssInWW5ABruw.jpg",
+            "cast_id": 19,
+            "character": "Bookie 2",
+            "credit_id": "69b81d9c47798715fc08f524",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2748358,
+            "known_for_department": "Acting",
+            "name": "Razib Salimin",
+            "original_name": "Razif Salimin",
+            "popularity": 0.6441,
+            "profile_path": "/i9v2mtjKkkYZyrLEHln99nNjJ0M.jpg",
+            "cast_id": 20,
+            "character": "Driver 1",
+            "credit_id": "69b81da76db172e4c608f5e0",
+            "order": 9
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4581100,
+            "known_for_department": "Writing",
+            "name": "Nazifdin Nasrudin",
+            "original_name": "Nazifdin Nasrudin",
+            "popularity": 0.6611,
+            "profile_path": null,
+            "credit_id": "68ac2bfda6e6b21bbc449080",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4581100,
+            "known_for_department": "Writing",
+            "name": "Nazifdin Nasrudin",
+            "original_name": "Nazifdin Nasrudin",
+            "popularity": 0.6611,
+            "profile_path": null,
+            "credit_id": "68ac2c0b06427b6513448ca4",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1271993,
+            "known_for_department": "Acting",
+            "name": "Yusof Haslam",
+            "original_name": "Dato' Yusof Haslam",
+            "popularity": 0.6974,
+            "profile_path": "/i1i1B9yRT39vj8MOeaKeYPns65b.jpg",
+            "credit_id": "68ac2c20d6392648227822f9",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1107571,
+            "known_for_department": "Directing",
+            "name": "Syafiq Yusof",
+            "original_name": "Syafiq Yusof",
+            "popularity": 0.7759,
+            "profile_path": "/yYoS6QpVW6ChARSymimCrSCaOwx.jpg",
+            "credit_id": "68ac2c2e9639cb5f10670634",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2544835,
+            "known_for_department": "Production",
+            "name": "Syamin Yusof",
+            "original_name": "Syamin Yusof",
+            "popularity": 0.3204,
+            "profile_path": null,
+            "credit_id": "68ac2c3b67751769309db3c9",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2544801,
+            "known_for_department": "Visual Effects",
+            "name": "Dinie Shuhaimi",
+            "original_name": "Dinie Shuhaimi",
+            "popularity": 0.2569,
+            "profile_path": null,
+            "credit_id": "68ac2c4c93883df5f8a9a39f",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4118532,
+            "known_for_department": "Camera",
+            "name": "Zikri Iman",
+            "original_name": "Zikri Iman",
+            "popularity": 0.2416,
+            "profile_path": null,
+            "credit_id": "68ac2c5c2d2c51440e448f6e",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4158365,
+            "known_for_department": "Camera",
+            "name": "Nazrul Naim Mazlan",
+            "original_name": "Nazrul Naim Mazlan",
+            "popularity": 0.4796,
+            "profile_path": null,
+            "credit_id": "68ac2c6a9f4594a976670745",
+            "department": "Camera",
+            "job": "Still Photographer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5268502,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Marlia Fattin Artiqah",
+            "original_name": "Marlia Fattin Artiqah",
+            "popularity": 0.1907,
+            "profile_path": null,
+            "credit_id": "6957c2ead257e773157c6e9b",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2363756,
+            "known_for_department": "Production",
+            "name": "Raja Jastina Raja Arshad",
+            "original_name": "Raja Jastina Arshad",
+            "popularity": 0.5258,
+            "profile_path": null,
+            "credit_id": "696e30a5a170300061f12725",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3865903,
+            "known_for_department": "Sound",
+            "name": "Teoh Eng Hooi",
+            "original_name": "Teoh Eng Hooi",
+            "popularity": 0.3601,
+            "profile_path": null,
+            "credit_id": "69b81dea23cfd60a01a63de2",
+            "department": "Sound",
+            "job": "Music"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4116720,
+            "known_for_department": "Production",
+            "name": "Wan Anas Satiraksa",
+            "original_name": "Wan Anas Satiraksa",
+            "popularity": 0.3973,
+            "profile_path": null,
+            "credit_id": "69b81e05d9ff60f49f21ddd1",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4208757,
+            "known_for_department": "Production",
+            "name": "Nini Yusof",
+            "original_name": "Nini Yusof",
+            "popularity": 0.2179,
+            "profile_path": null,
+            "credit_id": "69b81e2048a2cb5db56742c7",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4581100,
+            "known_for_department": "Writing",
+            "name": "Nazifdin Nasrudin",
+            "original_name": "Nazifdin Nasrudin",
+            "popularity": 0.6611,
+            "profile_path": null,
+            "credit_id": "69b81e435cc20203a208f536",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6075507,
+            "known_for_department": "Art",
+            "name": "Mohd Zahari Abu Bakar",
+            "original_name": "Mohd Zahari Abu Bakar",
+            "popularity": 0.3662,
+            "profile_path": null,
+            "credit_id": "69b81e7e5654b473435a78bd",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5717719,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Malya Djayadiningrat",
+            "original_name": "Malya Djayadiningrat",
+            "popularity": 0.2496,
+            "profile_path": null,
+            "credit_id": "69b81e9498d6e82d016740c4",
+            "department": "Costume & Make-Up",
+            "job": "Costume Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5822169,
+            "known_for_department": "Directing",
+            "name": "Alief Mat Zoher",
+            "original_name": "Alief Mat Zoher",
+            "popularity": 0.4561,
+            "profile_path": null,
+            "credit_id": "69b81eaf57c3f7537a02013d",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3311995,
+            "known_for_department": "Sound",
+            "name": "Mohsin Othman",
+            "original_name": "Mohsin Othman",
+            "popularity": 0.3745,
+            "profile_path": null,
+            "credit_id": "69b81ec242d2dfa5b45ca3b2",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3865905,
+            "known_for_department": "Editing",
+            "name": "Johan Arif Mazlan",
+            "original_name": "Johan Arif Mazlan",
+            "popularity": 0.253,
+            "profile_path": null,
+            "credit_id": "69b81ed9d0e49c21eb02006c",
+            "department": "Production",
+            "job": "Post Production Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6075513,
+            "known_for_department": "Editing",
+            "name": "Nicolas Billy",
+            "original_name": "Nicolas Billy",
+            "popularity": 0.5004,
+            "profile_path": null,
+            "credit_id": "69b81ef5e796f94bed95fddc",
+            "department": "Editing",
+            "job": "Colorist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4783600,
+            "known_for_department": "Production",
+            "name": "Azman Ismail",
+            "original_name": "Azman Ismail",
+            "popularity": 0.1393,
+            "profile_path": null,
+            "credit_id": "69b81f095cc20203a208f550",
+            "department": "Production",
+            "job": "Production Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4783601,
+            "known_for_department": "Production",
+            "name": "Anuar Sharib",
+            "original_name": "Anuar Sharib",
+            "popularity": 0.2853,
+            "profile_path": null,
+            "credit_id": "69b81f1ed2d657221a67426b",
+            "department": "Production",
+            "job": "Production Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4711077,
+            "known_for_department": "Production",
+            "name": "Norsalvina Alwee",
+            "original_name": "Norsalvina Alwee",
+            "popularity": 0.2322,
+            "profile_path": null,
+            "credit_id": "69b81f2f4aed7296315ca67f",
+            "department": "Production",
+            "job": "Head of Production"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 9673,
+            "name": "love"
+        },
+        {
+            "id": 14735,
+            "name": "motorcycle"
+        },
+        {
+            "id": 242128,
+            "name": "motorsport"
+        },
+        {
+            "id": 251645,
+            "name": "motorbike"
+        },
+        {
+            "id": 293773,
+            "name": "rider"
+        },
+        {
+            "id": 333328,
+            "name": "sport"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/oC3ya5pKxKy8BXjj3eXDit7iz3e.jpg",
+            "id": 17186,
+            "title": "Supercross",
+            "original_title": "Supercross",
+            "overview": "Faced with the suspicious death of their father, two brothers must motivate one another to get back on their bikes and take the Las Vegas Motocross Championships by storm.",
+            "poster_path": "/82dbqeFOA2iPhwWuciZItw1ELew.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                10749
+            ],
+            "popularity": 2.0632,
+            "release_date": "2005-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.276,
+            "vote_count": 152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eeYYvPFVhupP2L2BcMoMsSIle3g.jpg",
+            "id": 44695,
+            "title": "The Born Losers",
+            "original_title": "The Born Losers",
+            "overview": "A biker gang incites a reign of terror in a California coastal town that culminates in four teenage girls being raped. Vietnam veteran Billy Jack has had enough, however, and takes on the depraved bikers single-handedly. He rescues young Vicky Barrington from their clutches, but then has to contend with not only the thugs, but also the ineffectual and racist local lawmen, who have it out for the half-Native American Billy.",
+            "poster_path": "/mQ3IsmgXIsV8mitbatCG6N2IrRE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "popularity": 2.0804,
+            "release_date": "1967-07-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+            "id": 1292415,
+            "title": "Beast",
+            "original_title": "Beast",
+            "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+            "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 24.9366,
+            "release_date": "2026-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2l5pGtlYQoFNip1LIdIE0qzAq9.jpg",
+            "id": 85654,
+            "title": "Fire with Fire",
+            "original_title": "Fire with Fire",
+            "overview": "A tough, street-smart kid serving a sentence in a state youth reformatory meets a beautiful, innocent girl studying at a nearby convent. When forbidden love blossoms between them, they must fight the prison authorities, their parents and the law.",
+            "poster_path": "/1lCi4gHuQmnqn5laJFYZZfaEW9F.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.7138,
+            "release_date": "1986-05-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.15,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Xb0LfbdrS2pwDYyMkUiawzbGBu.jpg",
+            "id": 2623,
+            "title": "An Officer and a Gentleman",
+            "original_title": "An Officer and a Gentleman",
+            "overview": "Zack Mayo is an aloof, taciturn man who aspires to be a navy pilot. Once he arrives at training camp for his 13-week officer's course, Mayo runs afoul of abrasive, no-nonsense drill Sergeant Emil Foley. Mayo is an excellent cadet, but a little cold around the heart, so Foley rides him mercilessly, sensing that the young man would be prime officer material if he weren't so self-involved. Zack's affair with a working girl is likewise compromised by his unwillingness to give of himself.",
+            "poster_path": "/69adZbLeRk5TNQ3e0008dMnde9p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.9564,
+            "release_date": "1982-07-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1208
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v6ZKREYbiRITI6kyusyzm009o6D.jpg",
+            "id": 540414,
+            "title": "Dirt Music",
+            "original_title": "Dirt Music",
+            "overview": "Georgie is slowly suffocating in a loveless marriage to fishing tycoon Jim Buckridge. Handsome poacher Lu is an irresistible symbol of the excitement she craves. A passionate affair follows that reveals the dark secrets in Lu’s past and forces him to take flight into the blistering heat of the outback. Georgie follows, determined to find him and bring him back.",
+            "poster_path": "/9FbR35fAEr6vMiQLyxeCSgHkgvW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.9252,
+            "release_date": "2020-10-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.259,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gJZEZRpWRyoalaboAR6kpIHGK4u.jpg",
+            "id": 77985,
+            "title": "Maria's Lovers",
+            "original_title": "Maria's Lovers",
+            "overview": "A World War II prisoner returns home to his childhood sweetheart. However, back home, he discovers that he has to compete to win her love.",
+            "poster_path": "/tWDuhuZaH6lsCnkBYXuWxJPJnkI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.6854,
+            "release_date": "1984-07-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.023,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
+            "id": 763148,
+            "title": "Time Is Up",
+            "original_title": "Time Is Up",
+            "overview": "Vivien, an accomplished student with a passion for physics, and Roy, a troubled young man, are involved in an accident that forces them to reclaim their lives one minute at the time.",
+            "poster_path": "/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.8679,
+            "release_date": "2021-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.462,
+            "vote_count": 732
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o71u8V1u8uB4mL1kZjMjBGQU14M.jpg",
+            "id": 470610,
+            "title": "Endless",
+            "original_title": "Endless",
+            "overview": "When madly in love high school graduates Riley and Chris are separated by a tragic car accident, Riley blames herself for her boyfriend's death while Chris is stranded in limbo. Miraculously, the two find a way to connect. In a love story that transcends life and death, both Riley and Chris are forced to learn the hardest lesson of all: letting go.",
+            "poster_path": "/1ZViaX2oRnI0uM3Gf87Z7eCZ3hE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18,
+                14
+            ],
+            "popularity": 3.1306,
+            "release_date": "2020-04-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4E5iitr7WbHdK7P6pMVT4iNMIp4.jpg",
+            "id": 15720,
+            "title": "The Man from Elysian Fields",
+            "original_title": "The Man from Elysian Fields",
+            "overview": "A failed novelist's inability to pay the bills strains relations with his wife and leads him to work at an escort service, where he becomes entwined with a wealthy woman whose husband is a successful writer.",
+            "poster_path": "/mCUzyYDMHNdihZVTVH1g3KvTo8p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 4.2276,
+            "release_date": "2001-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+            "id": 1317672,
+            "title": "Love Me Love Me",
+            "original_title": "Love Me Love Me",
+            "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+            "poster_path": "/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 14.5319,
+            "release_date": "2026-02-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 293
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zbLbjvbDph2eTYhAWWH1rbM0cP5.jpg",
+            "id": 621191,
+            "title": "Blue Story",
+            "original_title": "Blue Story",
+            "overview": "Blue Story is a tragic tale of a friendship between Timmy and Marco, two young boys from opposing postcodes. Timmy, a shy, smart, naive and timid young boy from Deptford, goes to school in Peckham where he strikes up a friendship with Marco, a charismatic, streetwise kid from the local area. Although from warring postcodes, the two quickly form a firm friendship until it is tested and they wind up on rival sides of a street war. Blue Story depicts elements of Rapman's own personal experiences and aspects of his childhood.",
+            "poster_path": "/qI4Rw83LxKq07xIjM3RcbKcWpAM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "popularity": 3.5678,
+            "release_date": "2019-11-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.278,
+            "vote_count": 245
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tMtXSrEeh2rueJQVWMom78ZBhG0.jpg",
+            "id": 364733,
+            "title": "Blind",
+            "original_title": "Blind",
+            "overview": "A novelist is blinded in a car crash that killed his wife and several years later rediscovers his passion for life and writing when he embarks on an affair with the neglected wife of an indicted businessman.",
+            "poster_path": "/cXyObe5aB63ueOndEXxXabgAvIi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.604,
+            "release_date": "2017-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.11,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yGsEsHlc81Q1i9Z3yoVv394PrlG.jpg",
+            "id": 1319965,
+            "title": "All of You",
+            "original_title": "All of You",
+            "overview": "Laura and Simon have been best friends since college. Over the years, they've realized their bond is more than platonic. Can they—and should they—risk everything to explore a love that has existed all along?",
+            "poster_path": "/U2KFjtXN9NL9eCENB28w42Jakp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 7.1204,
+            "release_date": "2025-09-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.327,
+            "vote_count": 165
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3HbqYk1yo3Dtj9jAtRHNiKNTuET.jpg",
+            "id": 592643,
+            "title": "Embattled",
+            "original_title": "Embattled",
+            "overview": "The eldest son of a ruthlessly tough MMA champion must fight his way out of the abusive cycle his father has continued.",
+            "poster_path": "/Foi2Via2fIACRJMB4934D5MP3j.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 4.3556,
+            "release_date": "2020-11-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.723,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/16aJtXO6lObbBUr11IvkjB1QD1f.jpg",
+            "id": 341174,
+            "title": "Fifty Shades Darker",
+            "original_title": "Fifty Shades Darker",
+            "overview": "When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.",
+            "poster_path": "/w3qa274gvca9t8pkUoG8nfQgTU3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 10.813,
+            "release_date": "2017-02-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.472,
+            "vote_count": 7985
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+            "id": 337167,
+            "title": "Fifty Shades Freed",
+            "original_title": "Fifty Shades Freed",
+            "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+            "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 21.7635,
+            "release_date": "2018-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.67,
+            "vote_count": 8405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Tb2QTevPW7L29I6EnISxnoArw6.jpg",
+            "id": 24461,
+            "title": "Asylum",
+            "original_title": "Asylum",
+            "overview": "A woman becomes very curious about one of her psychiatrist husband's inmates, a man who was found guilty in the murder and disfigurement of his former wife.",
+            "poster_path": "/kpVKZeMaTf6twAQycbccbeFjBDE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                10749
+            ],
+            "popularity": 2.9524,
+            "release_date": "2005-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.973,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6IsycwFwgZ0M1MIjXNkW9j45jcY.jpg",
+            "id": 1108566,
+            "title": "Killer Heat",
+            "original_title": "Killer Heat",
+            "overview": "An expat PI is hired to investigate a suspicious death in Crete, Greece, where jealousies run deep amongst the victim's powerful family.",
+            "poster_path": "/WiAEiqelck0NGWplhL5JQR12eg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                10749
+            ],
+            "popularity": 5.986,
+            "release_date": "2024-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m0lmDVKbQ1TA9sQoUxgBorgFsI5.jpg",
+            "id": 47212,
+            "title": "China Girl",
+            "original_title": "China Girl",
+            "overview": "Teenage lovers Tony and Tyan-Hwa tip the balance of power in New York's Little Italy and Chinatown.",
+            "poster_path": "/x0VilySeyfLX3HSobjWv3CXxvCp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                80,
+                18
+            ],
+            "popularity": 2.5948,
+            "release_date": "1987-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 78
+        }
+    ]
+}

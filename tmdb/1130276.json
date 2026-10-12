@@ -1,0 +1,806 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/84h6avqHvW2TgLfERuqYkQwzjp1.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 1130276,
+        "imdb_id": "tt13778486",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Succubus",
+        "overview": "A new father going through a marital separation joins a dating app and matches with a beautiful but mysterious young woman... whose powers of seduction and manipulation entangle him in a mystery more horrifying than he could have ever imagined.",
+        "popularity": 11.9002,
+        "poster_path": "/7AfBMebJS8mEtSV5ymdxEPpgvXb.jpg",
+        "production_companies": [
+            {
+                "id": 121204,
+                "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+                "name": "BondIt Media Capital",
+                "origin_country": "US"
+            },
+            {
+                "id": 130900,
+                "logo_path": null,
+                "name": "Buffalo 8 Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 150317,
+                "logo_path": "/s7mb1kW5Qph2EcsHZnyFQfuHzqt.png",
+                "name": "Kiss and Tale Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2024-10-06",
+        "revenue": 0,
+        "runtime": 103,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Succubus",
+        "video": false,
+        "vote_average": 8.465,
+        "vote_count": 257
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1564490,
+            "known_for_department": "Acting",
+            "name": "Brendan Bradley",
+            "original_name": "Brendan Bradley",
+            "popularity": 0.596,
+            "profile_path": "/I3SeZ7gDnN8JDQUA5bf4iB3W5u.jpg",
+            "cast_id": 3,
+            "character": "Chris",
+            "credit_id": "646beae22bcf6701389612e5",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1495677,
+            "known_for_department": "Acting",
+            "name": "Rachel Cook",
+            "original_name": "Rachel Cook",
+            "popularity": 2.8929,
+            "profile_path": "/uwsBnc6TKmzRerhy0SnCOXi3P1Q.jpg",
+            "cast_id": 23,
+            "character": "Adra",
+            "credit_id": "66b3b07aaba37940c52b164d",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1423663,
+            "known_for_department": "Acting",
+            "name": "Olivia Grace Applegate",
+            "original_name": "Olivia Grace Applegate",
+            "popularity": 1.6831,
+            "profile_path": "/5NVwmNqbjmZKHYlqqvOKUpQ5ndb.jpg",
+            "cast_id": 4,
+            "character": "Sharon",
+            "credit_id": "646beb0fd18572010199824d",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1316479,
+            "known_for_department": "Acting",
+            "name": "Derek Smith",
+            "original_name": "Derek Smith",
+            "popularity": 0.7601,
+            "profile_path": "/kclAcT37hTJUta0SGIL6lLRaD5h.jpg",
+            "cast_id": 5,
+            "character": "Eddie",
+            "credit_id": "646beb1a54a09801728ae86b",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1533902,
+            "known_for_department": "Acting",
+            "name": "Emily Kincaid",
+            "original_name": "Emily Kincaid",
+            "popularity": 0.4207,
+            "profile_path": "/7tnAuNWLTQauuQyN8OlV0zvmt1i.jpg",
+            "cast_id": 6,
+            "character": "Charlisse",
+            "credit_id": "646beb3ca5046e01058ca667",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2372,
+            "known_for_department": "Acting",
+            "name": "Ron Perlman",
+            "original_name": "Ron Perlman",
+            "popularity": 5.6487,
+            "profile_path": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg",
+            "cast_id": 1,
+            "character": "Dr. Orion Zephyr",
+            "credit_id": "646bea92a5046e0189428202",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2165,
+            "known_for_department": "Acting",
+            "name": "Rosanna Arquette",
+            "original_name": "Rosanna Arquette",
+            "popularity": 2.8739,
+            "profile_path": "/qfS5G5VHW2gz2sYGDhIYRBoy3vY.jpg",
+            "cast_id": 2,
+            "character": "Denise",
+            "credit_id": "646bea9b2bcf6700fe61b03b",
+            "order": 6
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2997941,
+            "known_for_department": "Production",
+            "name": "Julie Gause",
+            "original_name": "Julie Gause",
+            "popularity": 0.2257,
+            "profile_path": null,
+            "credit_id": "646beb8f54a098011b2c2b26",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1264585,
+            "known_for_department": "Editing",
+            "name": "R.J. Daniel Hanna",
+            "original_name": "R.J. Daniel Hanna",
+            "popularity": 0.6743,
+            "profile_path": null,
+            "credit_id": "646beb6754a09801728ae893",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1264585,
+            "known_for_department": "Editing",
+            "name": "R.J. Daniel Hanna",
+            "original_name": "R.J. Daniel Hanna",
+            "popularity": 0.6743,
+            "profile_path": null,
+            "credit_id": "646beb60a5046e0168380d2e",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1264585,
+            "known_for_department": "Editing",
+            "name": "R.J. Daniel Hanna",
+            "original_name": "R.J. Daniel Hanna",
+            "popularity": 0.6743,
+            "profile_path": null,
+            "credit_id": "646beba454a098011b2c2b31",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1141732,
+            "known_for_department": "Crew",
+            "name": "Braden R. Duemmler",
+            "original_name": "Braden R. Duemmler",
+            "popularity": 0.3128,
+            "profile_path": null,
+            "credit_id": "646beb85c3514c2b0a3380aa",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2814904,
+            "known_for_department": "Production",
+            "name": "Tyler Gould",
+            "original_name": "Tyler Gould",
+            "popularity": 0.3367,
+            "profile_path": null,
+            "credit_id": "646beb9a54a09800e4105405",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1645309,
+            "known_for_department": "Directing",
+            "name": "Anna Elizabeth James",
+            "original_name": "Anna Elizabeth James",
+            "popularity": 0.5514,
+            "profile_path": "/o71AIgiyI83Pi7ZT6b6dJkvBHET.jpg",
+            "credit_id": "646bebbd54a09800feac5bc1",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1460444,
+            "known_for_department": "Directing",
+            "name": "Ari Novak",
+            "original_name": "Ari Novak",
+            "popularity": 0.6034,
+            "profile_path": null,
+            "credit_id": "646bebca33a3760101fbfeae",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1489060,
+            "known_for_department": "Production",
+            "name": "Matthew Helderman",
+            "original_name": "Matthew Helderman",
+            "popularity": 0.5079,
+            "profile_path": "/tylGESPhyioiRd9etbk5kFCg14j.jpg",
+            "credit_id": "646bebb3d1857201802e053a",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1064104,
+            "known_for_department": "Acting",
+            "name": "Kris Black",
+            "original_name": "Kris Black",
+            "popularity": 0.7608,
+            "profile_path": "/pTAH1RHSn509x79H85Duluju7uI.jpg",
+            "credit_id": "646beb79c3514c2b0687f501",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 63532,
+            "known_for_department": "Production",
+            "name": "Elizabeth Barnes",
+            "original_name": "Elizabeth Barnes",
+            "popularity": 0.4369,
+            "profile_path": null,
+            "credit_id": "646bec04c3514c2b0741c13a",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1605770,
+            "known_for_department": "Editing",
+            "name": "Brian Scofield",
+            "original_name": "Brian Scofield",
+            "popularity": 0.4431,
+            "profile_path": "/6fBcqjluWNsnJcByYLHeIrVpMdk.jpg",
+            "credit_id": "646bebd6c3514c2b0a3380c8",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1673707,
+            "known_for_department": "Production",
+            "name": "Luke Taylor",
+            "original_name": "Luke Taylor",
+            "popularity": 0.4587,
+            "profile_path": "/hMQuwCLvqQfd8XF0n3NwUub0AxR.jpg",
+            "credit_id": "646bebeec3514c2b0741c133",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1265525,
+            "known_for_department": "Production",
+            "name": "Brandon Henry Rodriguez",
+            "original_name": "Brandon Henry Rodriguez",
+            "popularity": 0.5486,
+            "profile_path": null,
+            "credit_id": "646bebfa2bcf6700e3bbee86",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1451847,
+            "known_for_department": "Production",
+            "name": "Todd Slater",
+            "original_name": "Todd Slater",
+            "popularity": 0.4855,
+            "profile_path": null,
+            "credit_id": "646bebe3a5046e01474e2e55",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1141733,
+            "known_for_department": "Camera",
+            "name": "Jimmy Jung Lu",
+            "original_name": "Jimmy Jung Lu",
+            "popularity": 0.2303,
+            "profile_path": null,
+            "credit_id": "6a175896077677f00fa7b9a4",
+            "department": "Crew",
+            "job": "Cinematography"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/k3xS5HuixDQXRFg4eX9vLohuGjP.jpg",
+            "id": 1162858,
+            "title": "The Other",
+            "original_title": "The Other",
+            "overview": "Unable to conceive, a couple seeks to build a family with a young orphan, survivor of tragic childhood. But their act of love turns to horror when they realize the violence in their foster's past has returned to destroy the new family.",
+            "poster_path": "/kE6FV8Lc9Aqir6OlgaNgnbFcy9E.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.7283,
+            "release_date": "2025-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.167,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lUbt7o9maj8DHEhnHvSv5tIzivg.jpg",
+            "id": 1020696,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "Criminology student Chloe fakes her own death to break into a morgue, in order to retrieve a piece of evidence that ties her younger brother to a crime gone wrong. Once inside, she discovers that a sadistic coroner is using the corpses for his sick and twisted business, and when he realises that Chloe still has a pulse, a terrifying game of cat and mouse ensues.",
+            "poster_path": "/zeiwFQzyMNp6JBwCfSspG5ZcoLp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.3306,
+            "release_date": "2022-12-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.107,
+            "vote_count": 210
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A4ZvbsC0o86bpgHa00iad1YCtu2.jpg",
+            "id": 14397,
+            "title": "Whisper",
+            "original_title": "Whisper",
+            "overview": "Sinister things begin happening to kidnappers who are holding a young boy for ransom in a remote cabin.",
+            "poster_path": "/mxs3ox33B3IWs6jMAS3EZ0TckXm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.5854,
+            "release_date": "2007-11-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.297,
+            "vote_count": 322
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/obBe7n3FVvHfwK3wP182MrsBbCk.jpg",
+            "id": 826753,
+            "title": "Candy Land",
+            "original_title": "Candy Land",
+            "overview": "Remy, a seemingly naive and devout young woman, finds herself cast out from her religious cult. With no place to turn, she immerses herself into the underground world of truck stop sex workers. Under the watchful eye of their matriarch and an enigmatic local lawman, Remy navigates between her strained belief system and the code to find her true calling in life.",
+            "poster_path": "/3upBKM4ZFZ1fEEnWrnTZMuyPrzI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.5229,
+            "release_date": "2023-01-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.236,
+            "vote_count": 178
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4wXTv2LhZrVWIyIHG4dVIsjxCon.jpg",
+            "id": 1241674,
+            "title": "The Last Breath",
+            "original_title": "The Last Breath",
+            "overview": "A group of old college friends reunite on a Caribbean scuba diving trip exploring the wreckage of a WWII battleship and find themselves trapped inside the underwater labyrinth of rusted metal surrounded by great white sharks.",
+            "poster_path": "/aC892vhMsNwcIUX5UfrsTSy9IL9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.4392,
+            "release_date": "2024-06-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.963,
+            "vote_count": 176
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sDhfPvuGe6e5pnWlC8BOg7uTKOa.jpg",
+            "id": 979806,
+            "title": "Shades of Desire",
+            "original_title": "Shades of Desire",
+            "overview": "After her twin sister Aubrey goes missing, Jennifer uncovers the scandalous, secret double-life that Aubrey leads - and that has put both of them in danger.",
+            "poster_path": "/32TLnB6OSVYVGBRJJ7sbuYZnn2X.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.2061,
+            "release_date": "2023-04-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.539,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qkEnklEGDFy4TRVhuHFn2DI2BP6.jpg",
+            "id": 930600,
+            "title": "The Deliverance",
+            "original_title": "The Deliverance",
+            "overview": "Ebony Jackson, a struggling single mother fighting her personal demons, moves her family into a new home for a fresh start. But when strange occurrences inside the home raise the suspicions of Child Protective Services and threaten to tear the family apart, Ebony soon finds herself locked in a battle for her life and the souls of her children.",
+            "poster_path": "/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.6479,
+            "release_date": "2024-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.994,
+            "vote_count": 573
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ibK0sooxQwIeqS9tz4Tj0chyca9.jpg",
+            "id": 1058710,
+            "title": "Bloodline Killer",
+            "original_title": "Bloodline Killer",
+            "overview": "Moira Cole endeavors to rebuild her shattered life after her family's murder at the hands of her deranged and obsessed cousin.",
+            "poster_path": "/wHmzCQwBzT6m8wtZdXHOIITn82B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.6014,
+            "release_date": "2024-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.044,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sLdlUypLzpQiJvO2dmqx5J7rigP.jpg",
+            "id": 1118595,
+            "title": "The Jester",
+            "original_title": "The Jester",
+            "overview": "A malevolent being known as The Jester terrorizes the inhabitants of a small town on Halloween night, including two estranged sisters who must come together to find a way to defeat this evil entity.",
+            "poster_path": "/zZzW0wUcyLXBLMSGasdvtLefwsL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.9986,
+            "release_date": "2023-09-20",
+            "softcore": false,
+            "video": true,
+            "vote_average": 6.191,
+            "vote_count": 406
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
+            "id": 1251717,
+            "title": "Vicious",
+            "original_title": "Vicious",
+            "overview": "When Polly receives a mysterious box, it comes with one rule: place inside something she needs, something she hates, and something she loves. If she doesn’t obey, it will consume everything—and everyone—she’s ever known.",
+            "poster_path": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.7756,
+            "release_date": "2025-08-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 281
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xYNiy7nCN7C01QI8OKTutstY3Vq.jpg",
+            "id": 1117321,
+            "title": "You'll Never Find Me",
+            "original_title": "You'll Never Find Me",
+            "overview": "Patrick, a strange and lonely resident, lives in a mobile home at the back of an isolated caravan park. After a violent thunderstorm erupts, a mysterious young woman appears at his door, seeking shelter from the weather. The longer the night wears on and the more the young woman discovers about Patrick, the more difficult she finds it to leave. Soon she begins to question Patrick’s intentions, while Patrick begins to question his own grip on reality...",
+            "poster_path": "/jdDrzkq1vgQzR6vZPumyjHiKvFP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.0269,
+            "release_date": "2024-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.056,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/boprqXZexBatujVC07gZzzxjWk.jpg",
+            "id": 1109406,
+            "title": "Compulsion",
+            "original_title": "Compulsion",
+            "overview": "Two women—Diana, a flamboyant and ruthless thief, and Evie, a seemingly innocent young woman with a troubled past—become embroiled in a series of horrific murders on the island of Malta.",
+            "poster_path": "/s3MzSdsMcmxmpVJMuH5ezNPjzs7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 3.3393,
+            "release_date": "2024-11-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.046,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aDyHYVjMzc5YdX0hM27lLnerjjE.jpg",
+            "id": 707408,
+            "title": "Rent-A-Pal",
+            "original_title": "Rent-A-Pal",
+            "overview": "Set in 1990, a lonely bachelor named David searches for an escape from the day-to-day drudgery of caring for his aging mother.  While seeking a partner through a video dating service, he discovers a strange VHS tape called Rent-A-Pal. Hosted by the charming and charismatic Andy, the tape offers him much-needed company, compassion, and friendship. But Andy's friendship comes at a cost, and David desperately struggles to afford the price of admission.",
+            "poster_path": "/wFaO4uc8po7uNCTSdvbqduMTyuu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 1.5759,
+            "release_date": "2020-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.518,
+            "vote_count": 136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kYS5oHeMjmgwHZQ1voxMbsqXpqd.jpg",
+            "id": 849369,
+            "title": "Superhost",
+            "original_title": "Superhost",
+            "overview": "Two travel vloggers check into a vacation rental with a host that will do anything for a good review.",
+            "poster_path": "/3YBdvIrYlWGXAp2jJGNMbwXp7tZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.022,
+            "release_date": "2021-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.796,
+            "vote_count": 191
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f9KrrJT81aRUe3pTh9AnmHOzhb9.jpg",
+            "id": 1000173,
+            "title": "Nightman",
+            "original_title": "Nightman",
+            "overview": "A young pregnant woman discovers that her perfect boyfriend may be a dangerous sleepwalker when she finds out of strange disappearances and murders taking place in the region.",
+            "poster_path": "/wpaos88xaADUCA0KavKW7PhJQ3R.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 1.7117,
+            "release_date": "2023-09-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.814,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/456tLLmzg7OeNyijCvCfL6X55VV.jpg",
+            "id": 1142414,
+            "title": "Cheat",
+            "original_title": "Cheat",
+            "overview": "On the surface it's believed to be another urban legend - a supernatural being from the afterlife is violently killing anyone who cheats on their significant other in the small college town of Silvercreek, Pennsylvania. But the town's unusually high suicide rate is finally convincing both locals and college students that everything is not as it seems. When Maeve - a female college student - sleeps with Charlie, the married man of the host family she is staying with, both sense the deadly curse is closing in on them. Unable to get anyone to believe them, Maeve and Charlie seek out a local history student to help find answers and figure out a way to defend themselves. It all comes undone, however, as several people are horrifically killed by the savage being - one-by-one at a rapid pace. Eventually, Maeve, Charlie and the few survivors band together in an attempt to defeat the monster once and for all.",
+            "poster_path": "/46Um9OTHNA390mMxwpSSc2m35Zp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.8601,
+            "release_date": "2023-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.014,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ikmZYjAi4rx1ZGJfB18obWfqxZb.jpg",
+            "id": 19904,
+            "title": "The Stepfather",
+            "original_title": "The Stepfather",
+            "overview": "Michael Harding returns home from military school to find his mother happily in love and living with her new boyfriend, David. As the two men get to know each other, Michael becomes more and more suspicious of the man who is always there with a helpful hand. Is he really the man of her dreams or could David be hiding a dark side?",
+            "poster_path": "/bTolBUgHeU4Tcq8HjBxL92f9wLm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.6549,
+            "release_date": "2009-10-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.825,
+            "vote_count": 967
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1fpwEe2GvNjAq2MN2xxdifNZLBT.jpg",
+            "id": 280092,
+            "title": "Insidious: Chapter 3",
+            "original_title": "Insidious: Chapter 3",
+            "overview": "A twisted new tale of terror begins for a teenage girl and her family, and revealing more mysteries of the otherworldly realm, 'The Further'.",
+            "poster_path": "/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 13.3867,
+            "release_date": "2015-05-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.285,
+            "vote_count": 3674
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pBryS94PWpO4VAxfhx0sVhtqcm6.jpg",
+            "id": 726527,
+            "title": "The Parish",
+            "original_title": "The Parish",
+            "overview": "Strange events plague a recently widowed woman and her young daughter when they move to a small town.",
+            "poster_path": "/bIN2kfKhp3W4bjGD5L7obx9xROH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 1.2118,
+            "release_date": "2021-03-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.816,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hpi5WO7ND2bejjH2Wtv3jxTOirK.jpg",
+            "id": 513268,
+            "title": "Body Cam",
+            "original_title": "Body Cam",
+            "overview": "As a police officer investigates the gruesome murder of her colleague, she discovers that a mysterious supernatural force is behind it.",
+            "poster_path": "/akmjfKPlxBAdXi4G1TZOirty8Ia.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 4.3422,
+            "release_date": "2020-05-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.193,
+            "vote_count": 431
+        }
+    ]
+}

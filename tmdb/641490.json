@@ -1,0 +1,760 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://www.sgiff.com/onscreen/the-graduation-of-edison/",
+        "id": 641490,
+        "imdb_id": null,
+        "origin_country": [
+            "VN"
+        ],
+        "original_language": "vi",
+        "original_title": "Lễ Trưởng Thành Của Ê-Đi-Xơn",
+        "overview": "Minh lives in a village where every child is born with a tree on their heads, except for him. On graduation day, students who have turned 18 will get their tree cut to signify adulthood. Problems arise when Minh’s sister decides to keep hers.",
+        "popularity": 8.9927,
+        "poster_path": "/rdG5XWw1GeubEhrNP0cY95lryv0.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "VN",
+                "name": "Vietnam"
+            }
+        ],
+        "release_date": "2019-11-30",
+        "revenue": 0,
+        "runtime": 21,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Vietnamese",
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Graduation of Edison",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3098349,
+            "known_for_department": "Acting",
+            "name": "Cao Hai Ha",
+            "original_name": "Cao Hai Ha",
+            "popularity": 0.7658,
+            "profile_path": null,
+            "cast_id": 15,
+            "character": "Sister",
+            "credit_id": "60a7be2f142ef10057b47a7f",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2089493,
+            "known_for_department": "Acting",
+            "name": "Nguyễn Thanh Tú",
+            "original_name": "Nguyễn Thanh Tú",
+            "popularity": 0.3348,
+            "profile_path": null,
+            "cast_id": 16,
+            "character": "Boy",
+            "credit_id": "60a7be4a142ef10040f120cb",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2413163,
+            "known_for_department": "Acting",
+            "name": "Lê Thiện",
+            "original_name": "Lê Thiện",
+            "popularity": 0.7233,
+            "profile_path": "/Aj0WDJxaV8Hp3Rx2vzC529aSGzu.jpg",
+            "cast_id": 17,
+            "character": "Grandma",
+            "credit_id": "60a7be5a85702e0040614b81",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2675942,
+            "known_for_department": "Acting",
+            "name": "Hoang Sang",
+            "original_name": "Hoang Sang",
+            "popularity": 0.5035,
+            "profile_path": null,
+            "cast_id": 18,
+            "character": "The Old Man",
+            "credit_id": "60a7be6f8dbc33007a4056d6",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3098358,
+            "known_for_department": "Acting",
+            "name": "Trinh Quang Minh",
+            "original_name": "Trinh Quang Minh",
+            "popularity": 0.1993,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "Teacher",
+            "credit_id": "60a7be88fac502002a003275",
+            "order": 4
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3098345,
+            "known_for_department": "Directing",
+            "name": "Nguyen Trung Nghia",
+            "original_name": "Nguyen Trung Nghia",
+            "popularity": 0.9081,
+            "profile_path": "/AdcO3ucxaonRgQjKRZaxtV9cCr4.jpg",
+            "credit_id": "60a7bdcffac502002a003190",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2438414,
+            "known_for_department": "Directing",
+            "name": "Pham Hoang Minh Thy",
+            "original_name": "Pham Hoang Minh Thy",
+            "popularity": 0.2908,
+            "profile_path": null,
+            "credit_id": "60a7bd00501cf20026d26421",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2438504,
+            "known_for_department": "Directing",
+            "name": "Vũ Minh Nghĩa",
+            "original_name": "Vũ Minh Nghĩa",
+            "popularity": 0.552,
+            "profile_path": "/sjXX8ofWBUo3gqDjhOGqNXGCAoG.jpg",
+            "credit_id": "60a7bd8a8dbc33007a405626",
+            "department": "Writing",
+            "job": "Creative Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3098348,
+            "known_for_department": "Sound",
+            "name": "Nguyen Hoang Tung",
+            "original_name": "Nguyen Hoang Tung",
+            "popularity": 0.7523,
+            "profile_path": null,
+            "credit_id": "60a7be13fac5020070732a59",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3098337,
+            "known_for_department": "Production",
+            "name": "Jang Keu",
+            "original_name": "Jang Keu",
+            "popularity": 0.6764,
+            "profile_path": null,
+            "credit_id": "60a7bc86142ef1002785ccb8",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2438414,
+            "known_for_department": "Directing",
+            "name": "Pham Hoang Minh Thy",
+            "original_name": "Pham Hoang Minh Thy",
+            "popularity": 0.2908,
+            "profile_path": null,
+            "credit_id": "60a7bceb501cf20078c49017",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1354649,
+            "known_for_department": "Writing",
+            "name": "Nguyễn Hoàng Điệp",
+            "original_name": "Nguyễn Hoàng Điệp",
+            "popularity": 1.4603,
+            "profile_path": "/hKSxgSaaHVoBkRREY2RAw8UPp75.jpg",
+            "credit_id": "60a7bcae8dbc3300282a7255",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2438504,
+            "known_for_department": "Directing",
+            "name": "Vũ Minh Nghĩa",
+            "original_name": "Vũ Minh Nghĩa",
+            "popularity": 0.552,
+            "profile_path": "/sjXX8ofWBUo3gqDjhOGqNXGCAoG.jpg",
+            "credit_id": "60a7bd45fac5020059ba6ed1",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1607852,
+            "known_for_department": "Camera",
+            "name": "Trang Cong Minh",
+            "original_name": "Trang Công Minh",
+            "popularity": 0.2185,
+            "profile_path": null,
+            "credit_id": "60a7bda185702e002917558e",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3098343,
+            "known_for_department": "Production",
+            "name": "Trang Cong Thanh",
+            "original_name": "Trang Công Thành",
+            "popularity": 0.5054,
+            "profile_path": "/8YNcLTgEIj6NWjGB0Z439MwOGVd.jpg",
+            "credit_id": "60a7bd6f142ef10057b479c3",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2438414,
+            "known_for_department": "Directing",
+            "name": "Pham Hoang Minh Thy",
+            "original_name": "Pham Hoang Minh Thy",
+            "popularity": 0.2908,
+            "profile_path": null,
+            "credit_id": "60a7bd3c9a64c1002965954a",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2438504,
+            "known_for_department": "Directing",
+            "name": "Vũ Minh Nghĩa",
+            "original_name": "Vũ Minh Nghĩa",
+            "popularity": 0.552,
+            "profile_path": "/sjXX8ofWBUo3gqDjhOGqNXGCAoG.jpg",
+            "credit_id": "60a7bd176ee3d700407eba8a",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2655795,
+            "known_for_department": "Acting",
+            "name": "Dang Nguyen",
+            "original_name": "Dang Nguyen",
+            "popularity": 0.1985,
+            "profile_path": null,
+            "credit_id": "60a7bde3501cf200400edbb6",
+            "department": "Production",
+            "job": "Production Designer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2438414,
+            "known_for_department": "Directing",
+            "name": "Pham Hoang Minh Thy",
+            "original_name": "Pham Hoang Minh Thy",
+            "popularity": 0.2908,
+            "profile_path": null,
+            "credit_id": "5daecb7ea44d09001382491d",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 263548,
+            "name": "short film"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/b3RGeMU6IdVFvKitGtXtUh2iuZN.jpg",
+            "id": 1358305,
+            "title": "A Tooth Fairy Tale",
+            "original_title": "A Tooth Fairy Tale",
+            "overview": "Van, the brave son of a tooth fairy leader, meets the goblins girl Gemma on his first mission. Despite the myths about ancient disputes between fairies and goblins, they share common values. When the greedy Spider Queen threatens both tribes, they must work together.",
+            "poster_path": "/wZDLyFkI9YtBg1lSL4G9RUtCYIg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                14,
+                10751
+            ],
+            "popularity": 3.0804,
+            "release_date": "2025-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.557,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3qdg2DDLodZhj0dfra65G0EJ05i.jpg",
+            "id": 260234,
+            "title": "Monster High: Frights, Camera, Action!",
+            "original_title": "Monster High: Frights, Camera, Action!",
+            "overview": "When Draculaura is led to believe she's the rightful heir to the vampire throne, she and her best ghoulfriends are whisked away to Transylvania for a royal coronation to die for. But they soon discover the hunt for the queen is not over yet. The Ghouls must locate an ancient artifact known as the Vampire's Heart in order to discover the identity of the true Vampire Queen. It's a fangtastic adventure that will lead them from the Tower of Londoom, to a haunted river boat in New Goreleans and finally to the glamorous boo-vie lots of Hauntlywood. Could this be the moment when Draculara finally receives her vampire powers and discovers screams really can come true?",
+            "poster_path": "/5gTNnqidaAfTHlOIB7tiMkGh3hK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                14
+            ],
+            "popularity": 3.7182,
+            "release_date": "2014-03-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.554,
+            "vote_count": 157
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8iwjFgudDelX4o3XdczcB2ij1L7.jpg",
+            "id": 15485,
+            "title": "Disney Princess Enchanted Tales: Follow Your Dreams",
+            "original_title": "Disney Princess Enchanted Tales: Follow Your Dreams",
+            "overview": "Princess Aurora and Princess Jasmine learn valuable life lessons in two short stories.",
+            "poster_path": "/8HTCBnWvdkS5kcff61tcQtDqFUq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "popularity": 2.4863,
+            "release_date": "2007-09-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.48,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Tw3Z9vcu1Hwo1CijEPineKPkFO.jpg",
+            "id": 499338,
+            "title": "I Believe",
+            "original_title": "I Believe",
+            "overview": "A 9 year old boy experiences God's power in a supernatural way.",
+            "poster_path": "/7DVRR21ol8EojJxAlaNcLTzLBvI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                18
+            ],
+            "popularity": 2.4597,
+            "release_date": "2019-06-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.734,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",
+            "id": 896536,
+            "title": "The Legend of Ochi",
+            "original_title": "The Legend of Ochi",
+            "overview": "In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
+            "poster_path": "/qYyEelO4JfOwE0Ui5KsrCE0O8UA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                14,
+                12
+            ],
+            "popularity": 5.424,
+            "release_date": "2025-04-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.142,
+            "vote_count": 330
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9SICXMeX0v0gr5czpoRO5I0U7M9.jpg",
+            "id": 1118203,
+            "title": "The Swan Princess: A Fairytale Is Born",
+            "original_title": "The Swan Princess: A Fairytale Is Born",
+            "overview": "Before becoming queen, Uberta lived a humble life with her husband Maximillian when she is suddenly thrust into royalty. Through triumph and tragedy, she learns the lessons needed to become a beloved Queen, all while raising the next generation of rulers. When it's time for Uberta to pass the royal scepter to Odette and Derek, rival Queen Wixom has plans of her own to ruin the kingdom's greatest coronation.",
+            "poster_path": "/2axXVpi3dKfESWzgncbakLB7o7f.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                14
+            ],
+            "popularity": 2.3135,
+            "release_date": "2023-05-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.976,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8cpaUuYwSG24rOJZKyKOSdlcgY4.jpg",
+            "id": 14012,
+            "title": "Flicka",
+            "original_title": "Flicka",
+            "overview": "Katy McLaughlin desires to work on her family's mountainside horse ranch, although her father insists she finish boarding school. Katy finds a mustang in the hills near her ranch. The headstrong 16 year old then sets her mind to tame a mustang and prove to her father she can run the ranch. But when tragedy happens, it will take all the love and strength the family can muster to restore hope.",
+            "poster_path": "/nhJlXSmiHnlVxea5J5l3wfuATwY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                18
+            ],
+            "popularity": 2.338,
+            "release_date": "2006-10-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.881,
+            "vote_count": 315
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kFZAu1g0f7bpunIumUY8Gb3Y9WU.jpg",
+            "id": 785522,
+            "title": "Skater Girl",
+            "original_title": "Skater Girl",
+            "overview": "Prerna, a teenager growing up in rural India, comes of age when she’s introduced to the sport of skateboarding. As a result, she has to fight the odds to follow her dreams and compete in the national championship.",
+            "poster_path": "/e8yxFPOvNmhlfUXBqiNvvpMI4t5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "popularity": 2.1973,
+            "release_date": "2021-06-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.249,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AoeSnxGTz6Wam39uWfQ22cFosW5.jpg",
+            "id": 119893,
+            "title": "An American Girl: McKenna Shoots for the Stars",
+            "original_title": "An American Girl: McKenna Shoots for the Stars",
+            "overview": "A young girl struggles to maintain her school grades while competing as a gymnast.",
+            "poster_path": "/bDbtolQKNSKlW9QQo98ZmJDoaTG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "popularity": 6.7292,
+            "release_date": "2012-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.76,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zFyuN8vF2XNSzxIdACES0IyNrhK.jpg",
+            "id": 116711,
+            "title": "Epic",
+            "original_title": "Epic",
+            "overview": "A teenager finds herself transported to a deep forest setting where a battle between the forces of good and the forces of evil is taking place. She bands together with a rag-tag group characters in order to save their world—and ours.",
+            "poster_path": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "popularity": 9.8266,
+            "release_date": "2013-05-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.566,
+            "vote_count": 2979
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8CdC61bvZTEwDlgFrXyYubjyMWc.jpg",
+            "id": 38602,
+            "title": "Little Lord Fauntleroy",
+            "original_title": "Little Lord Fauntleroy",
+            "overview": "Young Cedric Errol and his widowed mother live in genteel poverty in 1880s Brooklyn after the death of his father. Cedric's grandfather, the Earl of Dorincourt, has long ago disowned his son for marrying an American. But after the death of the Earl's remaining son, he decides to accept Cedric as his heir.",
+            "poster_path": "/7rLhBRseh1ZVNMQIFUxhy9IcWvi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                18,
+                10770
+            ],
+            "popularity": 2.9721,
+            "release_date": "1980-12-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.348,
+            "vote_count": 320
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ebmY8j6bfTsxUdhVtTaoNITch6u.jpg",
+            "id": 831395,
+            "title": "Tuesday",
+            "original_title": "Tuesday",
+            "overview": "A mother and her teenage daughter must confront Death when it arrives in the form of an astonishing talking bird.",
+            "poster_path": "/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                18
+            ],
+            "popularity": 3.7345,
+            "release_date": "2024-06-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6W5zmMhUO9yHuVbsYQTJnjLFQnT.jpg",
+            "id": 32790,
+            "title": "The Good Witch",
+            "original_title": "The Good Witch",
+            "overview": "A mysterious woman comes in to town and inhabits the local haunted mansion, making everyone wonder if she's a witch or \"The Grey Lady\".",
+            "poster_path": "/nZVOeGCbhLzIfCOB7BCvIrE2TaY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                14,
+                18,
+                10770
+            ],
+            "popularity": 2.0464,
+            "release_date": "2008-01-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/usIfpM7Lr3r9fWTvMGZ8HoD1f8f.jpg",
+            "id": 521034,
+            "title": "The Secret Garden",
+            "original_title": "The Secret Garden",
+            "overview": "Mary Lennox is born in India to wealthy British parents who never wanted her. When her parents suddenly die, she is sent back to England to live with her uncle. She meets her sickly cousin, and the two children find a wondrous secret garden lost in the grounds of Misselthwaite Manor.",
+            "poster_path": "/5MSDwUcqnGodFTvtlLiLKK0XKS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                14,
+                18
+            ],
+            "popularity": 5.0648,
+            "release_date": "2020-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.339,
+            "vote_count": 618
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mORnIJNRN9gifjxUL4DVCPk7In1.jpg",
+            "id": 805051,
+            "title": "Welcome to Smelliville",
+            "original_title": "The Ogglies",
+            "overview": "The Oggly family arrive at the municipal rubbish dump of Smelliville and must look for a new home, but they never feel really welcome anywhere. They stink and are for most humans just a tad too oggly. When Firebottom, the family dragon, crash-lands on the run-down rubbish tip of the small town of Smelliville, the Ogglies at once feel at home. And it's here they want to stay.",
+            "poster_path": "/w7PJ7fBEYOuaAMKfYa4zmw45v3N.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "popularity": 3.2211,
+            "release_date": "2021-05-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fOcNMGiK13vqfKApVBJYEW8hmXr.jpg",
+            "id": 476389,
+            "title": "Anastasia: Once Upon a Time",
+            "original_title": "Anastasia: Once Upon a Time",
+            "overview": "Anastasia Romanov escapes through a portal when her family is threatened by Vladimir Lenin, and she finds herself in the year 1988, befriended by a young American girl.",
+            "poster_path": "/1g9R5lpmJ77kRcx4agxc3oIzN1C.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                12,
+                14
+            ],
+            "popularity": 1.7316,
+            "release_date": "2020-02-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lI2AHx0QQrNnEkUqUG01QHUdLDW.jpg",
+            "id": 638507,
+            "title": "How to Train Your Dragon: Homecoming",
+            "original_title": "How to Train Your Dragon: Homecoming",
+            "overview": "It's been ten years since the dragons moved to the Hidden World, and even though Toothless doesn't live in New Berk anymore, Hiccup continues the holiday traditions he once shared with his best friend. But the Vikings of New Berk were beginning to forget about their friendship with dragons. Hiccup, Astrid, and Gobber know just what to do to keep the dragons in the villagers' hearts. And across the sea, the dragons have a plan of their own...",
+            "poster_path": "/kXj2Qrfm994yLeuADqbOieU1mUH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                14,
+                12,
+                10751
+            ],
+            "popularity": 7.484,
+            "release_date": "2019-12-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.033,
+            "vote_count": 1128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qUWr7fJRsiccFcOAKvIJV30gZsP.jpg",
+            "id": 29911,
+            "title": "FairyTale: A True Story",
+            "original_title": "FairyTale: A True Story",
+            "overview": "In 1917, two children take a photograph, which is soon believed by some to be the first scientific evidence of the existence of fairies. Based on the true story of the Cottingley Fairies.",
+            "poster_path": "/5H86i0qE8zCAbg0vTBKG7S7I2Vi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                18,
+                9648,
+                10751
+            ],
+            "popularity": 1.8527,
+            "release_date": "1997-10-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 123
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oY7pWz17RHaLPHycG8eVcKH1fA7.jpg",
+            "id": 30071,
+            "title": "Where the Red Fern Grows",
+            "original_title": "Where the Red Fern Grows",
+            "overview": "Set in the Ozark Mountains during the Great Depression, Billy Coleman works hard and saves his earnings for 2 years to achieve his dream of buying two coonhound pups. He develops a new trust in God as he faces overwhelming challenges in adventure and tragedy roaming the river bottoms of Cherokee country with \"Old Dan\" and \"Little Ann.\"",
+            "poster_path": "/zUDxfnWLq73rQaa8YSHBDGx96ZS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "popularity": 2.1574,
+            "release_date": "2003-05-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.422,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yJAQSaH6L2TIpF23ojGiBxtbVJJ.jpg",
+            "id": 83564,
+            "title": "La luna",
+            "original_title": "La luna",
+            "overview": "A young boy comes of age in the most peculiar of circumstances. Tonight is the very first time his Papa and Grandpa are taking him to work. In an old wooden boat they row far out to sea, and with no land in sight, they stop and wait. A big surprise awaits the boy as he discovers his family's most unusual line of work. Should he follow the example of his Papa, or his Grandpa? Will he be able to find his own way in the midst of their conflicting opinions and timeworn traditions?",
+            "poster_path": "/9euW64JUgFlA7fxN8lAmwK6gUaQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "popularity": 2.8806,
+            "release_date": "2012-02-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.807,
+            "vote_count": 858
+        }
+    ]
+}

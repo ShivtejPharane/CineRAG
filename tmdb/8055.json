@@ -1,0 +1,1666 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/waMGsUEoHfYj3A1uRMUUgpBa71d.jpg",
+        "belongs_to_collection": null,
+        "budget": 32000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 8055,
+        "imdb_id": "tt0976051",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Reader",
+        "overview": "The story of Michael Berg, a German lawyer who, as a teenager in the late 1950s, had an affair with an older woman, Hanna, who then disappeared only to resurface years later as one of the defendants in a war crimes trial stemming from her actions as a concentration camp guard late in the war. He alone realizes that Hanna is illiterate and may be concealing that fact at the expense of her freedom.",
+        "popularity": 12.7476,
+        "poster_path": "/r0WURbmnhgKeBpHcpDULBgRedQM.jpg",
+        "production_companies": [
+            {
+                "id": 308,
+                "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+                "name": "The Weinstein Company",
+                "origin_country": "US"
+            },
+            {
+                "id": 932,
+                "logo_path": "/o7leiZVIDBHxODfK8pjGPV2SdMp.png",
+                "name": "Mirage Enterprises",
+                "origin_country": "US"
+            },
+            {
+                "id": 264,
+                "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+                "name": "Studio Babelsberg",
+                "origin_country": "DE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2008-12-10",
+        "revenue": 108902486,
+        "runtime": 124,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "english_name": "Greek",
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            },
+            {
+                "english_name": "Latin",
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Behind the mystery lies a truth that will make you question everything you know.",
+        "title": "The Reader",
+        "video": false,
+        "vote_average": 7.464,
+        "vote_count": 3436
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5469,
+            "known_for_department": "Acting",
+            "name": "Ralph Fiennes",
+            "original_name": "Ralph Fiennes",
+            "popularity": 5.6328,
+            "profile_path": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg",
+            "cast_id": 15,
+            "character": "Michael Berg",
+            "credit_id": "52fe448fc3a36847f809cde3",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 204,
+            "known_for_department": "Acting",
+            "name": "Kate Winslet",
+            "original_name": "Kate Winslet",
+            "popularity": 6.3547,
+            "profile_path": "/6qNnMsKtKz9si5rabpUEG85UfHp.jpg",
+            "cast_id": 2,
+            "character": "Hanna Schmitz",
+            "credit_id": "52fe448ec3a36847f809cda7",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5847,
+            "known_for_department": "Acting",
+            "name": "David Kross",
+            "original_name": "David Kross",
+            "popularity": 1.994,
+            "profile_path": "/jRFxrLwiroTbGedG9uyXZghgxlX.jpg",
+            "cast_id": 7,
+            "character": "Young Michael Berg",
+            "credit_id": "52fe448fc3a36847f809cdbb",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5313,
+            "known_for_department": "Acting",
+            "name": "Lena Olin",
+            "original_name": "Lena Olin",
+            "popularity": 3.1386,
+            "profile_path": "/tUg7cH4qLqs5WdOIH0WMQby9kWH.jpg",
+            "cast_id": 53,
+            "character": "Rose Mather",
+            "credit_id": "56a63243c3a368388e00a9f9",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2310,
+            "known_for_department": "Acting",
+            "name": "Bruno Ganz",
+            "original_name": "Bruno Ganz",
+            "popularity": 1.619,
+            "profile_path": "/8bhS1PObqe8OOVcyIRxV5Rcdufd.jpg",
+            "cast_id": 5,
+            "character": "Professor Rohl",
+            "credit_id": "52fe448ec3a36847f809cdb3",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 49018,
+            "known_for_department": "Acting",
+            "name": "Jeanette Hain",
+            "original_name": "Jeanette Hain",
+            "popularity": 0.9802,
+            "profile_path": "/hfE2fjdms4XW1LZphRQ1JwFoha7.jpg",
+            "cast_id": 9,
+            "character": "Brigitte",
+            "credit_id": "52fe448fc3a36847f809cdc3",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 16783,
+            "known_for_department": "Acting",
+            "name": "Hannah Herzsprung",
+            "original_name": "Hannah Herzsprung",
+            "popularity": 1.1188,
+            "profile_path": "/r7HqgdYtosrLnAwJKVnfDr13mdz.jpg",
+            "cast_id": 3,
+            "character": "Julia",
+            "credit_id": "52fe448ec3a36847f809cdab",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 17067,
+            "known_for_department": "Acting",
+            "name": "Karoline Herfurth",
+            "original_name": "Karoline Herfurth",
+            "popularity": 1.7581,
+            "profile_path": "/tuG0Jy82jC9ReiD9qXIDBLCYfhi.jpg",
+            "cast_id": 6,
+            "character": "Marthe",
+            "credit_id": "52fe448ec3a36847f809cdb7",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 23182,
+            "known_for_department": "Acting",
+            "name": "Volker Bruch",
+            "original_name": "Volker Bruch",
+            "popularity": 1.5864,
+            "profile_path": "/vRlIMyCSISdh2d2pdOMQlLyV0ce.jpg",
+            "cast_id": 8,
+            "character": "Dieter Spenz",
+            "credit_id": "52fe448fc3a36847f809cdbf",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5644,
+            "known_for_department": "Acting",
+            "name": "Alexandra Maria Lara",
+            "original_name": "Alexandra Maria Lara",
+            "popularity": 1.8244,
+            "profile_path": "/68YNY2TfvsE9T3tcCeHDVXbnzyB.jpg",
+            "cast_id": 4,
+            "character": "Young Ilana Mather",
+            "credit_id": "52fe448ec3a36847f809cdaf",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 17543,
+            "known_for_department": "Acting",
+            "name": "Fabian Busch",
+            "original_name": "Fabian Busch",
+            "popularity": 0.892,
+            "profile_path": "/aPwhdQSEvHIFwzMYRCcx7WIUZW2.jpg",
+            "cast_id": 14,
+            "character": "Hanna's Defense Council",
+            "credit_id": "52fe448fc3a36847f809cddf",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 45811,
+            "known_for_department": "Acting",
+            "name": "Vijessna Ferkic",
+            "original_name": "Vijessna Ferkic",
+            "popularity": 0.6106,
+            "profile_path": "/jBnWXi9chUFV9RejeRon0pM6sus.jpg",
+            "cast_id": 34,
+            "character": "Sophie",
+            "credit_id": "531900e492514177b700181c",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 19123,
+            "known_for_department": "Acting",
+            "name": "Susanne Lothar",
+            "original_name": "Susanne Lothar",
+            "popularity": 0.6118,
+            "profile_path": "/51CyaN2rUTqvIiidOdOGvAyEGk6.jpg",
+            "cast_id": 35,
+            "character": "Carla Berg",
+            "credit_id": "536b63210e0a2647d100b69b",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4534,
+            "known_for_department": "Acting",
+            "name": "Matthias Habich",
+            "original_name": "Matthias Habich",
+            "popularity": 1.0924,
+            "profile_path": "/dzrlyzf3yxOTibLLBEbawytMDKs.jpg",
+            "cast_id": 36,
+            "character": "Peter Berg",
+            "credit_id": "536b63310e0a2647db00b8cc",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3934,
+            "known_for_department": "Acting",
+            "name": "Burghart Klaußner",
+            "original_name": "Burghart Klaußner",
+            "popularity": 0.8307,
+            "profile_path": "/fRRo8H3zqvKJxyId4ECQeKqYFwM.jpg",
+            "cast_id": 37,
+            "character": "Judge",
+            "credit_id": "536b63420e0a2647d800bbf4",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 41965,
+            "known_for_department": "Acting",
+            "name": "Sylvester Groth",
+            "original_name": "Sylvester Groth",
+            "popularity": 1.5116,
+            "profile_path": "/baIqxNzKPLffJLSuLLFIXG0yZ3l.jpg",
+            "cast_id": 38,
+            "character": "Prosecuting Council",
+            "credit_id": "536b63530e0a2647d400b958",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 10923,
+            "known_for_department": "Acting",
+            "name": "Jürgen Tarrach",
+            "original_name": "Jürgen Tarrach",
+            "popularity": 0.69,
+            "profile_path": "/jEmYDjiJTVCjzyCtT5kv5SLm1SZ.jpg",
+            "cast_id": 39,
+            "character": "Gerhard Bade",
+            "credit_id": "536b63670e0a2647db00b8d1",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 231835,
+            "known_for_department": "Acting",
+            "name": "Florian Bartholomäi",
+            "original_name": "Florian Bartholomäi",
+            "popularity": 0.8428,
+            "profile_path": "/7iILONJhMET8FHXc1vhYQffQC9s.jpg",
+            "cast_id": 47,
+            "character": "Thomas Berg",
+            "credit_id": "56a631c192514119d6000c45",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1071317,
+            "known_for_department": "Acting",
+            "name": "Moritz Grove",
+            "original_name": "Moritz Grove",
+            "popularity": 0.4739,
+            "profile_path": "/o91DGggcEAkpo3Zqv7IEo0BjPkQ.jpg",
+            "cast_id": 48,
+            "character": "Holger",
+            "credit_id": "56a631d892514154f0008771",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 49766,
+            "known_for_department": "Acting",
+            "name": "Kirsten Block",
+            "original_name": "Kirsten Block",
+            "popularity": 0.8076,
+            "profile_path": "/e1gl6JMgedhLKVh1THHpVaevQ8V.jpg",
+            "cast_id": 49,
+            "character": "Female Judge",
+            "credit_id": "56a631f3925141419f006110",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 79449,
+            "known_for_department": "Acting",
+            "name": "Margarita Broich",
+            "original_name": "Margarita Broich",
+            "popularity": 0.6479,
+            "profile_path": "/6O1RCsEu7olUgWjvO9tSEsTX7EZ.jpg",
+            "cast_id": 51,
+            "character": "Co-Defendant",
+            "credit_id": "56a63228925141419f006118",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 8205,
+            "known_for_department": "Acting",
+            "name": "Marie Gruber",
+            "original_name": "Marie Gruber",
+            "popularity": 1.1032,
+            "profile_path": "/a6tspybRaqckZnFag7JFrkJ5wfy.jpg",
+            "cast_id": 52,
+            "character": "Co-Defendant",
+            "credit_id": "56a63235c3a368389b00b0b1",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 44393,
+            "known_for_department": "Acting",
+            "name": "Martin Brambach",
+            "original_name": "Martin Brambach",
+            "popularity": 0.8476,
+            "profile_path": "/Gso7o3DTnxlGbtIE8CL6swdxox.jpg",
+            "cast_id": 54,
+            "character": "Remand Prison Guard #1",
+            "credit_id": "56a63258c3a368388b00b288",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 10243,
+            "known_for_department": "Acting",
+            "name": "Carmen-Maja Antoni",
+            "original_name": "Carmen-Maja Antoni",
+            "popularity": 0.544,
+            "profile_path": "/2YQnjykrrrdlNbU5lnOoIk9izFg.jpg",
+            "cast_id": 55,
+            "character": "Prison Librarian",
+            "credit_id": "56a63267925141161a000d55",
+            "order": 23
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1008395,
+            "known_for_department": "Acting",
+            "name": "Heike Hanold-Lynch",
+            "original_name": "Heike Hanold-Lynch",
+            "popularity": 0.4851,
+            "profile_path": "/ejqUfDN5oIfOGEWWWotGz52Kxli.jpg",
+            "cast_id": 56,
+            "character": "Prison Guard",
+            "credit_id": "56a63278c3a368388e00aa04",
+            "order": 24
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 8443,
+            "known_for_department": "Acting",
+            "name": "Linda Bassett",
+            "original_name": "Linda Bassett",
+            "popularity": 1.2004,
+            "profile_path": "/pE6Zoig9kbEn1te1MRtfjchDMeC.jpg",
+            "cast_id": 58,
+            "character": "Ms. Brenner",
+            "credit_id": "5a26051a92514103260ec6e3",
+            "order": 25
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5214,
+            "known_for_department": "Acting",
+            "name": "Ludwig Blochberger",
+            "original_name": "Ludwig Blochberger",
+            "popularity": 0.7297,
+            "profile_path": "/evoXspimGyBNFNg0AcdvdnfCYeb.jpg",
+            "cast_id": 61,
+            "character": "Student",
+            "credit_id": "5c369ff40e0a2631ab54052d",
+            "order": 26
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 439032,
+            "known_for_department": "Acting",
+            "name": "Benjamin Trinks",
+            "original_name": "Benjamin Trinks",
+            "popularity": 0.5852,
+            "profile_path": "/rv7wLFEleg3JecnA76gu9XeofAH.jpg",
+            "cast_id": 62,
+            "character": "Holger's friend",
+            "credit_id": "5c54bb82c3a368302881c5dc",
+            "order": 27
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 151,
+            "known_for_department": "Camera",
+            "name": "Roger Deakins",
+            "original_name": "Roger Deakins",
+            "popularity": 1.3259,
+            "profile_path": "/y6tSqoDvl705BnLELyCuUqQujfv.jpg",
+            "credit_id": "52fe448fc3a36847f809ce05",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 20063,
+            "known_for_department": "Production",
+            "name": "Donna Gigliotti",
+            "original_name": "Donna Gigliotti",
+            "popularity": 0.4231,
+            "profile_path": null,
+            "credit_id": "52fe448fc3a36847f809cded",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 6208,
+            "known_for_department": "Art",
+            "name": "Brigitte Broch",
+            "original_name": "Brigitte Broch",
+            "popularity": 0.533,
+            "profile_path": "/cEXNWFeZbY2ZWVKOH1dnQ4VVruw.jpg",
+            "credit_id": "52fe448fc3a36847f809ce1d",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2239,
+            "known_for_department": "Directing",
+            "name": "Anthony Minghella",
+            "original_name": "Anthony Minghella",
+            "popularity": 0.9304,
+            "profile_path": "/3zNlCjH6Ddh5pn2UrNWd6SAKGKg.jpg",
+            "credit_id": "52fe448fc3a36847f809cddb",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4222,
+            "known_for_department": "Production",
+            "name": "Simone Bär",
+            "original_name": "Simone Bär",
+            "popularity": 0.6053,
+            "profile_path": "/Z1sJ73Rcq8VzUpJzJLPDjiAnAp.jpg",
+            "credit_id": "52fe448fc3a36847f809ce11",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 63832,
+            "known_for_department": "Art",
+            "name": "Eva Stiebler",
+            "original_name": "Eva Stiebler",
+            "popularity": 0.4162,
+            "profile_path": null,
+            "credit_id": "52fe448fc3a36847f809ce41",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2226,
+            "known_for_department": "Directing",
+            "name": "Sydney Pollack",
+            "original_name": "Sydney Pollack",
+            "popularity": 1.8447,
+            "profile_path": "/l6Sq7iEakN4eCeMXyZuloc5VIJO.jpg",
+            "credit_id": "52fe448fc3a36847f809cdf9",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 11880,
+            "known_for_department": "Editing",
+            "name": "Claire Simpson",
+            "original_name": "Claire Simpson",
+            "popularity": 0.7492,
+            "profile_path": "/wMKFN8rYfqDoHvCWoNIHDi63KFu.jpg",
+            "credit_id": "52fe448fc3a36847f809ce0b",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1177713,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Donna Maloney",
+            "original_name": "Donna Maloney",
+            "popularity": 0.5271,
+            "profile_path": null,
+            "credit_id": "52fe448fc3a36847f809ce47",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 9022,
+            "known_for_department": "Production",
+            "name": "Redmond Morris",
+            "original_name": "Redmond Morris",
+            "popularity": 0.4196,
+            "profile_path": null,
+            "credit_id": "52fe448fc3a36847f809cdf3",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5493,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Ann Roth",
+            "original_name": "Ann Roth",
+            "popularity": 0.6852,
+            "profile_path": "/cT4EtdqvG0Yq4EQ3LASXiwyndYi.jpg",
+            "credit_id": "52fe448fc3a36847f809ce4d",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 474,
+            "known_for_department": "Production",
+            "name": "Jina Jay",
+            "original_name": "Jina Jay",
+            "popularity": 0.9634,
+            "profile_path": "/6IG0L5UgQ8jzDkiCI6Umy9qAq9x.jpg",
+            "credit_id": "52fe448fc3a36847f809ce17",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52552,
+            "known_for_department": "Art",
+            "name": "Erwin Prib",
+            "original_name": "Erwin Prib",
+            "popularity": 0.3661,
+            "profile_path": null,
+            "credit_id": "52fe448fc3a36847f809ce2f",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1045816,
+            "known_for_department": "Sound",
+            "name": "Nico Muhly",
+            "original_name": "Nico Muhly",
+            "popularity": 0.255,
+            "profile_path": "/cSPXIHGZALFCdgYS7QUUywkH0nU.jpg",
+            "credit_id": "52fe448fc3a36847f809cdff",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8403,
+            "known_for_department": "Writing",
+            "name": "David Hare",
+            "original_name": "David Hare",
+            "popularity": 1.168,
+            "profile_path": "/fbS6ii117N26KBRceAQo9zTBmNW.jpg",
+            "credit_id": "52fe448fc3a36847f809cdcf",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 17561,
+            "known_for_department": "Art",
+            "name": "Yeşim Zolan",
+            "original_name": "Yeşim Zolan",
+            "popularity": 0.2934,
+            "profile_path": null,
+            "credit_id": "52fe448fc3a36847f809ce35",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 468,
+            "known_for_department": "Directing",
+            "name": "Stephen Daldry",
+            "original_name": "Stephen Daldry",
+            "popularity": 1.1708,
+            "profile_path": "/jJSZVEOIyZnT70lUILjS9YVv0pb.jpg",
+            "credit_id": "52fe448ec3a36847f809cda3",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8969,
+            "known_for_department": "Camera",
+            "name": "Chris Menges",
+            "original_name": "Chris Menges",
+            "popularity": 0.8308,
+            "profile_path": "/nmjNp6Sx1G9NCjn2jaLhScjyiUX.jpg",
+            "credit_id": "52fe448fc3a36847f809cdc9",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1177711,
+            "known_for_department": "Art",
+            "name": "Stefan Hauck",
+            "original_name": "Stefan Hauck",
+            "popularity": 0.2639,
+            "profile_path": null,
+            "credit_id": "52fe448fc3a36847f809ce23",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1177712,
+            "known_for_department": "Art",
+            "name": "Karin Betzler",
+            "original_name": "Karin Betzler",
+            "popularity": 0.6916,
+            "profile_path": null,
+            "credit_id": "52fe448fc3a36847f809ce3b",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1078304,
+            "known_for_department": "Editing",
+            "name": "Barbara Jean Kearney",
+            "original_name": "Barbara Jean Kearney",
+            "popularity": 0.398,
+            "profile_path": null,
+            "credit_id": "54ebc245c3a3686d6d000181",
+            "department": "Editing",
+            "job": "Digital Intermediate"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1458984,
+            "known_for_department": "Directing",
+            "name": "Katri Billard",
+            "original_name": "Katri Billard",
+            "popularity": 0.4336,
+            "profile_path": null,
+            "credit_id": "55507debc3a3687f630052d5",
+            "department": "Directing",
+            "job": "Script Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1338291,
+            "known_for_department": "Directing",
+            "name": "Susanna Lenton",
+            "original_name": "Susanna Lenton",
+            "popularity": 0.3706,
+            "profile_path": null,
+            "credit_id": "55507e2a92514154c9000ead",
+            "department": "Directing",
+            "job": "Script Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1012907,
+            "known_for_department": "Art",
+            "name": "Anja Fromm",
+            "original_name": "Anja Fromm",
+            "popularity": 0.2873,
+            "profile_path": null,
+            "credit_id": "55507d569251414f3900113e",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1408850,
+            "known_for_department": "Crew",
+            "name": "Linda Gamble",
+            "original_name": "Linda Gamble",
+            "popularity": 0.3382,
+            "profile_path": null,
+            "credit_id": "55507e0c92514161b3000ab1",
+            "department": "Crew",
+            "job": "Unit Publicist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 86594,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Linda Melazzo",
+            "original_name": "Linda Melazzo",
+            "popularity": 0.4321,
+            "profile_path": null,
+            "credit_id": "55507daa92514154c9000e64",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1427381,
+            "known_for_department": "Sound",
+            "name": "Annette Kudrak",
+            "original_name": "Annette Kudrak",
+            "popularity": 0.322,
+            "profile_path": null,
+            "credit_id": "56452ae4c3a36870e3007466",
+            "department": "Sound",
+            "job": "Music Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6097,
+            "known_for_department": "Art",
+            "name": "Christian M. Goldbeck",
+            "original_name": "Christian M. Goldbeck",
+            "popularity": 0.4656,
+            "profile_path": null,
+            "credit_id": "570abcd89251417da7000a2d",
+            "department": "Art",
+            "job": "Supervising Art Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 59839,
+            "known_for_department": "Production",
+            "name": "Harvey Weinstein",
+            "original_name": "Harvey Weinstein",
+            "popularity": 2.3193,
+            "profile_path": "/yUeo7hPc6fdHB2vy2zkGqg3bJyv.jpg",
+            "credit_id": "5a8848229251410ac404e733",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1411075,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Peter Owen",
+            "original_name": "Peter Owen",
+            "popularity": 0.538,
+            "profile_path": null,
+            "credit_id": "64b79205eee18600aed90999",
+            "department": "Costume & Make-Up",
+            "job": "Wig Designer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1112569,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Maria Torfeld",
+            "original_name": "Maria Torfeld",
+            "popularity": 0.2964,
+            "profile_path": null,
+            "credit_id": "64b7928ceee186011dc488cd",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 84348,
+            "known_for_department": "Production",
+            "name": "Jason Blum",
+            "original_name": "Jason Blum",
+            "popularity": 1.4669,
+            "profile_path": "/oOsdVzSXyj1L1mKN3d2QcF01hkc.jpg",
+            "credit_id": "64b792b2109cd000ae92bba7",
+            "department": "Production",
+            "job": "Co-Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2093478,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Matthew Smith",
+            "original_name": "Matthew Smith",
+            "popularity": 0.4496,
+            "profile_path": null,
+            "credit_id": "64b7924e55b0c000acffaacb",
+            "department": "Costume & Make-Up",
+            "job": "Prosthetic Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1039164,
+            "known_for_department": "Sound",
+            "name": "George A. Lara",
+            "original_name": "George A. Lara",
+            "popularity": 0.5546,
+            "profile_path": null,
+            "credit_id": "64b7934ba806730144924631",
+            "department": "Sound",
+            "job": "Foley Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1635006,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Chris Lyons",
+            "original_name": "Chris Lyons",
+            "popularity": 1.0215,
+            "profile_path": null,
+            "credit_id": "64b78ecda806730125d12601",
+            "department": "Costume & Make-Up",
+            "job": "Special Effects Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 10903,
+            "known_for_department": "Production",
+            "name": "Henning Molfenter",
+            "original_name": "Henning Molfenter",
+            "popularity": 0.5899,
+            "profile_path": "/ehadQnjTvjsUh3CSd8OQFdEm4iV.jpg",
+            "credit_id": "64b792e055b0c000c58e8afc",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1539055,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Annett Schulze",
+            "original_name": "Annett Schulze",
+            "popularity": 0.4928,
+            "profile_path": null,
+            "credit_id": "64b7921eb1f68d00e70ad5cb",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2081140,
+            "known_for_department": "Sound",
+            "name": "Michael Fowler",
+            "original_name": "Michael Fowler",
+            "popularity": 0.3627,
+            "profile_path": null,
+            "credit_id": "64b793a0109cd0011e6922ba",
+            "department": "Sound",
+            "job": "ADR Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 965320,
+            "known_for_department": "Art",
+            "name": "Anu Schwartz",
+            "original_name": "Anu Schwartz",
+            "popularity": 0.3627,
+            "profile_path": null,
+            "credit_id": "64b78e8aa8067300c8d1741d",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 10905,
+            "known_for_department": "Production",
+            "name": "Carl Woebcken",
+            "original_name": "Carl Woebcken",
+            "popularity": 0.713,
+            "profile_path": "/14xrXsj1OVQWrn4EkzhWQW7QlUl.jpg",
+            "credit_id": "64b792f755b0c000c58e8b0c",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1621371,
+            "known_for_department": "Sound",
+            "name": "Eric Hirsch",
+            "original_name": "Eric Hirsch",
+            "popularity": 0.4221,
+            "profile_path": "/FLKi3G1wg3m4GqKfOaDWnJLIcL.jpg",
+            "credit_id": "64b79365a80673010683d088",
+            "department": "Sound",
+            "job": "Sound Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1089142,
+            "known_for_department": "Production",
+            "name": "Christoph Fisser",
+            "original_name": "Christoph Fisser",
+            "popularity": 0.6928,
+            "profile_path": "/7URHtynBXlFSJph8a3ZxqPmrL2k.jpg",
+            "credit_id": "64b792bdd399e600ad4499c9",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4169948,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Gabriele Kent-Horspool",
+            "original_name": "Gabriele Kent-Horspool",
+            "popularity": 0.194,
+            "profile_path": null,
+            "credit_id": "64b78eb8d399e600ca906aeb",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1585884,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Anna Von Gwinner",
+            "original_name": "Anna Von Gwinner",
+            "popularity": 0.3151,
+            "profile_path": null,
+            "credit_id": "64b7926b109cd000c7b08c5b",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 92376,
+            "known_for_department": "Sound",
+            "name": "Marko Costanzo",
+            "original_name": "Marko Costanzo",
+            "popularity": 0.6941,
+            "profile_path": null,
+            "credit_id": "64b793e7d399e600eb76bfc9",
+            "department": "Sound",
+            "job": "Foley Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 92377,
+            "known_for_department": "Sound",
+            "name": "Lee Dichter",
+            "original_name": "Lee Dichter",
+            "popularity": 0.5837,
+            "profile_path": "/ddzKKjsgG2PRyyCWmt32jrXPSRy.jpg",
+            "credit_id": "64b793d4eee18600e3725870",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 92383,
+            "known_for_department": "Sound",
+            "name": "Harry Higgins",
+            "original_name": "Harry Higgins",
+            "popularity": 0.3041,
+            "profile_path": null,
+            "credit_id": "64b793805aadc400ffb7cfb5",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 54121,
+            "known_for_department": "Writing",
+            "name": "Bernhard Schlink",
+            "original_name": "Bernhard Schlink",
+            "popularity": 0.5307,
+            "profile_path": null,
+            "credit_id": "5be0a93f9251412f47002367",
+            "department": "Writing",
+            "job": "Book"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1307,
+            "known_for_department": "Production",
+            "name": "Bob Weinstein",
+            "original_name": "Bob Weinstein",
+            "popularity": 1.0255,
+            "profile_path": "/lCLIlmY3oZN9n0YgrH3i0oZygPU.jpg",
+            "credit_id": "5c64781ec3a368745eda1ae3",
+            "department": "Production",
+            "job": "Executive Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 818,
+            "name": "based on novel or book"
+        },
+        {
+            "id": 74,
+            "name": "germany"
+        },
+        {
+            "id": 1327,
+            "name": "war crimes"
+        },
+        {
+            "id": 1956,
+            "name": "world war ii"
+        },
+        {
+            "id": 5424,
+            "name": "women's prison"
+        },
+        {
+            "id": 11038,
+            "name": "trial"
+        },
+        {
+            "id": 11412,
+            "name": "female prisoner"
+        },
+        {
+            "id": 14668,
+            "name": "reading aloud"
+        },
+        {
+            "id": 14720,
+            "name": "love affair"
+        },
+        {
+            "id": 33424,
+            "name": "cynical"
+        },
+        {
+            "id": 33861,
+            "name": "law student"
+        },
+        {
+            "id": 156777,
+            "name": "teenage sexuality"
+        },
+        {
+            "id": 157799,
+            "name": "older woman younger man relationship"
+        },
+        {
+            "id": 163876,
+            "name": "reading to someone"
+        },
+        {
+            "id": 173137,
+            "name": "secret lover"
+        },
+        {
+            "id": 188720,
+            "name": "shame"
+        },
+        {
+            "id": 194180,
+            "name": "literacy"
+        },
+        {
+            "id": 208156,
+            "name": "frantic"
+        },
+        {
+            "id": 209889,
+            "name": "west germany"
+        },
+        {
+            "id": 214780,
+            "name": "courtroom drama"
+        },
+        {
+            "id": 239797,
+            "name": "complex"
+        },
+        {
+            "id": 266753,
+            "name": "cautionary"
+        },
+        {
+            "id": 323809,
+            "name": "depressing"
+        },
+        {
+            "id": 325790,
+            "name": "cruel"
+        },
+        {
+            "id": 325799,
+            "name": "disheartening"
+        },
+        {
+            "id": 325805,
+            "name": "embarrassed"
+        },
+        {
+            "id": 325854,
+            "name": "tragic"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
+            "id": 1214931,
+            "title": "Nuremberg",
+            "original_title": "Nuremberg",
+            "overview": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
+            "poster_path": "/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "popularity": 16.0595,
+            "release_date": "2025-11-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.602,
+            "vote_count": 1294
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8rdRjdlQMYNdwDX38VkTH4BXorI.jpg",
+            "id": 31962,
+            "title": "Shining Through",
+            "original_title": "Shining Through",
+            "overview": "Spirited New Yorker Linda Voss goes to work for international lawyer and secret Office of Strategic Services operative Ed Leland just before World War II. As they fall in love, the United States enters the fight against Hitler, and Linda volunteers to work for Ed spying undercover behind Nazi lines. Assigned to uncover information about a German bomb, Linda also has personal motives to fulfill: discovering the fate of her Jewish family members in Berlin.",
+            "poster_path": "/wAnvljbemUQluLjCcjgTZs0PXW1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                53,
+                10752
+            ],
+            "popularity": 3.3966,
+            "release_date": "1992-01-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.511,
+            "vote_count": 228
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nj15gARebe1AFDb6rRqqllNfNlr.jpg",
+            "id": 433502,
+            "title": "The Aftermath",
+            "original_title": "The Aftermath",
+            "overview": "In the aftermath of World War II, a British colonel and his wife are assigned to live in Hamburg during the post-war reconstruction, but tensions arise with the German widower who lives with them.",
+            "poster_path": "/ofUC6lsZ8it9yEfrJJx50ihURRu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                18,
+                10749
+            ],
+            "popularity": 5.8357,
+            "release_date": "2019-03-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.443,
+            "vote_count": 731
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iESnRGuIiXKeNo3pKMRaZStXyH6.jpg",
+            "id": 12900,
+            "title": "Conspiracy",
+            "original_title": "Conspiracy",
+            "overview": "At the Wannsee Conference on January 20, 1942, senior Nazi officials meet to determine the manner in which the so-called \"Final Solution to the Jewish Question\" can be best implemented.",
+            "poster_path": "/xKocKpTHaKcTuNRLu0rLbZWbLnH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                36,
+                18,
+                10752,
+                10770
+            ],
+            "popularity": 3.4527,
+            "release_date": "2001-05-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.288,
+            "vote_count": 489
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uRoA67sM5vvCI4cplxhl67BTPly.jpg",
+            "id": 457799,
+            "title": "Extremely Wicked, Shockingly Evil and Vile",
+            "original_title": "Extremely Wicked, Shockingly Evil and Vile",
+            "overview": "A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.",
+            "poster_path": "/a7dVwEBU3vupg3hZQMeyL6ksz0F.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "popularity": 5.9117,
+            "release_date": "2019-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.997,
+            "vote_count": 3567
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zrc9EoqrKOGy3QBDr6keuqH32wd.jpg",
+            "id": 19601,
+            "title": "Bent",
+            "original_title": "Bent",
+            "overview": "Max is a handsome young man who, after a fateful tryst with a German soldier, is forced to run for his life. Eventually Max is placed in a concentration camp where he pretends to be Jewish because in the eyes of the Nazis, gays are the lowest form of human being. But it takes a relationship with an openly gay prisoner to teach Max that without the love of another, life is not worth living.",
+            "poster_path": "/mTRIVPmRK01rgLlE6XJPGbbRdXb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "popularity": 2.3575,
+            "release_date": "1997-11-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.86,
+            "vote_count": 157
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+            "id": 1316092,
+            "title": "\"Wuthering Heights\"",
+            "original_title": "\"Wuthering Heights\"",
+            "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+            "poster_path": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 21.0843,
+            "release_date": "2026-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 1246
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+            "id": 278,
+            "title": "The Shawshank Redemption",
+            "original_title": "The Shawshank Redemption",
+            "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "popularity": 79.645,
+            "release_date": "1994-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.727,
+            "vote_count": 30949
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vr9xAWJeIkYJWAYmIov5WNHEAf6.jpg",
+            "id": 182,
+            "title": "The Good German",
+            "original_title": "The Good German",
+            "overview": "An American journalist arrives in Berlin just after the end of World War Two. He becomes involved in a murder mystery surrounding a dead GI who washes up at a lakeside mansion during the Potsdam negotiations between the Allied powers. Soon his investigation connects with his search for his married pre-war German lover.",
+            "poster_path": "/3LjHC2CWDkzoiPehf3GViujws0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                9648,
+                10749,
+                53,
+                10752
+            ],
+            "popularity": 3.7296,
+            "release_date": "2006-12-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.821,
+            "vote_count": 358
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cn1AjfcI8B2CxekvYYZWkLf5muE.jpg",
+            "id": 1259,
+            "title": "Notes on a Scandal",
+            "original_title": "Notes on a Scandal",
+            "overview": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her 15-year-old students. However, her intentions with this new \"friend\" also go well beyond platonic friendship.",
+            "poster_path": "/ieX6ZO2Kf2qjoIBXbQW5awivbhY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.3025,
+            "release_date": "2006-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.093,
+            "vote_count": 998
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b9diKSmofRcgjbUxDrSPms82yAN.jpg",
+            "id": 9769,
+            "title": "Lolita",
+            "original_title": "Lolita",
+            "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
+            "poster_path": "/9INcC14WZjCMKGE360VXmklCLdZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 20.2536,
+            "release_date": "1997-09-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.105,
+            "vote_count": 1999
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h8RQ5X0SzCLtICqIEgw2Xqcb7oY.jpg",
+            "id": 33408,
+            "title": "The Crush",
+            "original_title": "The Crush",
+            "overview": "A precocious and obsessive teenager develops a crush on a naive writer with harrowing consequences.",
+            "poster_path": "/4B0eHFjUYYZlkE1fthC29KVC4CS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 4.4342,
+            "release_date": "1993-04-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.675,
+            "vote_count": 565
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tIlhG6ZmJFF1NKEA3aMWJhXhW78.jpg",
+            "id": 24559,
+            "title": "Slaughterhouse-Five",
+            "original_title": "Slaughterhouse-Five",
+            "overview": "Billy Pilgrim, a veteran of the Second World War, finds himself mysteriously detached from time, so that he is able to travel, without being able to help it, from the days of his childhood to those of his peculiar life on a distant planet called Tralfamadore, passing through his bitter experience as a prisoner of war in the German city of Dresden, over which looms the inevitable shadow of an unspeakable tragedy.",
+            "poster_path": "/gM2q9pGW9x2zdEMPRsXLBgTDDFH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878,
+                10752
+            ],
+            "popularity": 2.5517,
+            "release_date": "1972-03-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.516,
+            "vote_count": 256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+            "id": 216015,
+            "title": "Fifty Shades of Grey",
+            "original_title": "Fifty Shades of Grey",
+            "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+            "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                53
+            ],
+            "popularity": 22.3208,
+            "release_date": "2015-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.865,
+            "vote_count": 12484
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fsobXtw2DfNvv8XRFGJUu95H9bU.jpg",
+            "id": 500860,
+            "title": "The Mustang",
+            "original_title": "The Mustang",
+            "overview": "While participating in a rehabilitation program training wild mustangs, a convict at first struggles to connect with the horses and his fellow inmates, but he learns to confront his violent past as he soothes an especially feisty horse.",
+            "poster_path": "/sXQzQcjNAYYosymYPVaXh1nYKaJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.3796,
+            "release_date": "2019-03-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.914,
+            "vote_count": 440
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+            "id": 337167,
+            "title": "Fifty Shades Freed",
+            "original_title": "Fifty Shades Freed",
+            "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+            "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 21.7635,
+            "release_date": "2018-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.67,
+            "vote_count": 8405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+            "id": 274,
+            "title": "The Silence of the Lambs",
+            "original_title": "The Silence of the Lambs",
+            "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+            "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "popularity": 7.0379,
+            "release_date": "1991-02-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 18252
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tPKmDydEzqJPj5yol2zFCrraUcM.jpg",
+            "id": 814338,
+            "title": "Lady Chatterley's Lover",
+            "original_title": "Lady Chatterley's Lover",
+            "overview": "After a crippling injury leaves her husband impotent, Lady Chatterly is torn between her love for her husband and her physical desires. With her husband's consent, she seeks out other means of fulfilling her needs.",
+            "poster_path": "/aSgl2DxPG3DuQXoaHr500KeULmT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.8828,
+            "release_date": "2022-11-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.703,
+            "vote_count": 537
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gJZEZRpWRyoalaboAR6kpIHGK4u.jpg",
+            "id": 77985,
+            "title": "Maria's Lovers",
+            "original_title": "Maria's Lovers",
+            "overview": "A World War II prisoner returns home to his childhood sweetheart. However, back home, he discovers that he has to compete to win her love.",
+            "poster_path": "/tWDuhuZaH6lsCnkBYXuWxJPJnkI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.6854,
+            "release_date": "1984-07-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.023,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg",
+            "id": 613504,
+            "title": "After We Collided",
+            "original_title": "After We Collided",
+            "overview": "Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.",
+            "poster_path": "/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 15.9995,
+            "release_date": "2020-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.151,
+            "vote_count": 5486
+        }
+    ]
+}

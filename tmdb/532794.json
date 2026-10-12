@@ -1,0 +1,614 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/58qsiLrXYXxSJl5CjeeF7fZbKZH.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 532794,
+        "imdb_id": "tt18568228",
+        "origin_country": [
+            "KR"
+        ],
+        "original_language": "ko",
+        "original_title": "성판17: 남자들의 17가지 성적 판타지",
+        "overview": "A woman who can make all of one man’s fantasies come true moves in next door .",
+        "popularity": 22.0861,
+        "poster_path": "/4MFOBDKciazhjdE12Mm3aNirk4J.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2017-11-13",
+        "revenue": 0,
+        "runtime": 121,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "status": "Released",
+        "tagline": "This isn't a dream. Fantasies come true.",
+        "title": "Sex Plate 17",
+        "video": false,
+        "vote_average": 5.786,
+        "vote_count": 14
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 118975,
+            "known_for_department": "Acting",
+            "name": "Choi Jae-hwan",
+            "original_name": "최재환",
+            "popularity": 1.1278,
+            "profile_path": "/62hWPPcUcjvI6yeAvP0xsIGtQUv.jpg",
+            "cast_id": 0,
+            "character": "Gi-ha",
+            "credit_id": "5bc3166a0e0a266e68043fb2",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2100002,
+            "known_for_department": "Acting",
+            "name": "Park Kyoung-hee",
+            "original_name": "Park Kyoung-hee",
+            "popularity": 3.0718,
+            "profile_path": "/m2lslGfZKKJBMmL96irotdV6hzg.jpg",
+            "cast_id": 1,
+            "character": "Jo-hee / Se-yeong",
+            "credit_id": "5bc3168292514179c7041c91",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2688391,
+            "known_for_department": "Acting",
+            "name": "Kim Nam-soo",
+            "original_name": "Kim Nam-soo",
+            "popularity": 0.469,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "Dong-cheol",
+            "credit_id": "5ef175c1d11e0e0036ada4fe",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2688392,
+            "known_for_department": "Acting",
+            "name": "Park Ha-on",
+            "original_name": "Park Ha-on",
+            "popularity": 0.6103,
+            "profile_path": null,
+            "cast_id": 5,
+            "character": "Yeong-eun",
+            "credit_id": "5ef175d36c84d60033adbb58",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2688393,
+            "known_for_department": "Acting",
+            "name": "Jo Ah-rang",
+            "original_name": "Jo Ah-rang",
+            "popularity": 0.3047,
+            "profile_path": null,
+            "cast_id": 6,
+            "character": "Ah-rang",
+            "credit_id": "5ef175e3af58cb0035f7cb2c",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2688394,
+            "known_for_department": "Acting",
+            "name": "Han Sang-gyoo",
+            "original_name": "Han Sang-gyoo",
+            "popularity": 0.4811,
+            "profile_path": null,
+            "cast_id": 7,
+            "character": "Jin-soo",
+            "credit_id": "5ef175ee2e2b2c003c6fe6ca",
+            "order": 5
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2687384,
+            "known_for_department": "Writing",
+            "name": "Song Eun-joo",
+            "original_name": "Song Eun-joo",
+            "popularity": 0.6127,
+            "profile_path": null,
+            "credit_id": "5ef17449d11e0e0035ada07d",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2577739,
+            "known_for_department": "Writing",
+            "name": "Lee Yoon-hyung",
+            "original_name": "Lee Yoon-hyung",
+            "popularity": 0.5252,
+            "profile_path": null,
+            "credit_id": "5ef174e32e2b2c00356e902d",
+            "department": "Writing",
+            "job": "Screenplay"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 155477,
+            "name": "softcore"
+        },
+        {
+            "id": 267122,
+            "name": "sex"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/24n13gyUjKHZXR31XGmGFef9BQM.jpg",
+            "id": 13019,
+            "title": "Young People Fucking",
+            "original_title": "Young People Fucking",
+            "overview": "On a Tuesday night, five couples have separate sexual adventures. Matt and Kris, friends for years, want to have an only-once, no-strings good time. Abby and Andrew, married, celebrate his birthday, but it's marred by angst and miscommunication. Mia and Eric are exes, making sure they are over each other. Jaime and Ken work together and this is a first date. Inez and Gord invite his roommate, Dave, to join them. By the time each couple has gone through a prelude, foreplay, sex, an interlude, orgasm, and afterglow, they've answered basic questions: can sex be anonymous, are we bored, is our marriage really finished, does anyone tell the truth, and how do we make someone happy?",
+            "poster_path": "/g5LhutkdYsKyDePtqrRw7c3OTce.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 4.5412,
+            "release_date": "2007-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.827,
+            "vote_count": 243
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hKMN6vMT3rbzXY3VaqS61hv4vjx.jpg",
+            "id": 1238379,
+            "title": "The Best You Can",
+            "original_title": "The Best You Can",
+            "overview": "Cynthia Rand is a buttoned-up New Yorker married to a brilliant professor 25 years her senior. She begins feeling the effects of her husband’s advancing age on their relationship, just as her world is turned upside down by the arrival of sharp but chronically underachieving security guard Stan Olszewski in this smart rom-com that reunites Bacon and Sedgwick on screen for the first time in 20 years.",
+            "poster_path": "/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "popularity": 2.9394,
+            "release_date": "2025-06-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.009,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/khvSmyqkTndJ39GH36phq0p8ncI.jpg",
+            "id": 276844,
+            "title": "The Little Death",
+            "original_title": "The Little Death",
+            "overview": "A comedy film that looks into the loosely connected lives of people with strange sexual fantasies.",
+            "poster_path": "/wH15YYgBT9ZX37nFkSQ0OM8qjCE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "popularity": 4.4061,
+            "release_date": "2014-06-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.71,
+            "vote_count": 543
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sub8lPQRZ28WzN8ggUtsH0R1bno.jpg",
+            "id": 14424,
+            "title": "Sex and Death 101",
+            "original_title": "Sex and Death 101",
+            "overview": "A guy's life is turned around by an email, which includes the names of everyone he's had sex with and ever will have sex with. His situation gets worse when he encounters a femme fatale who targets men guilty of sex crime.",
+            "poster_path": "/yLWdM3znzRCqEbxYWXpSJNNu3fe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "popularity": 4.2602,
+            "release_date": "2007-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.143,
+            "vote_count": 311
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xaHEopBVf5BZCrHiSdzvYgA3vdj.jpg",
+            "id": 22215,
+            "title": "Chéri",
+            "original_title": "Chéri",
+            "overview": "The son of a courtesan retreats into a fantasy world after being forced to end his relationship with the older woman who educated him in the ways of love.",
+            "poster_path": "/b35rv11ebJdqCe5chVmSUZ0RIlX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "popularity": 3.0414,
+            "release_date": "2009-04-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.082,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1XC5EcGNIW0LGPGRineTcDUGzVB.jpg",
+            "id": 39053,
+            "title": "Cyrus",
+            "original_title": "Cyrus",
+            "overview": "With John's social life at a standstill and his ex-wife about to get remarried, a down on his luck divorcée finally meets the woman of his dreams, only to discover she has another man in her life - her son. Before long, the two are locked in a battle of wits for the woman they both love-and it appears only one man can be left standing when it's over.",
+            "poster_path": "/qkJ0rB1qf62TJ6thxEVRT7Eccqn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 2.96,
+            "release_date": "2010-06-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.923,
+            "vote_count": 465
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6F3S8eNVnAkUsllkCPpIZGKXxIE.jpg",
+            "id": 20758,
+            "title": "Father of the Bride",
+            "original_title": "Father of the Bride",
+            "overview": "Proud father Stanley Banks remembers the day his daughter, Kay, got married. Starting when she announces her engagement through to the wedding itself, we learn of all the surprises and disasters along the way.",
+            "poster_path": "/sygyqqXq41SBZiYjY8nuQRAcuUv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "popularity": 3.0198,
+            "release_date": "1950-05-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.002,
+            "vote_count": 238
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vlQmFjAPrCdzGhzBxhsBTakhmiQ.jpg",
+            "id": 655355,
+            "title": "Dirty Sexy Saint",
+            "original_title": "Dirty Sexy Saint",
+            "overview": "Clay Kincaid hates the nickname 'Saint', he got for being too kind to stray animals and desperate people. Especially when it comes to women. With a rough and damaged past that has left him jaded, he doesn't do committed relationships. This is before he meets Samantha Jamieson, an heiress turned runaway in need of help. When she starts to work as a waitress at his bar, he discovers that she is someone truly special and amazing… someone that could warm his damaged heart.",
+            "poster_path": "/x96lVzJuFqGinfsG0EcwYwBmuom.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18,
+                35
+            ],
+            "popularity": 3.3101,
+            "release_date": "2019-12-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.321,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+            "id": 337167,
+            "title": "Fifty Shades Freed",
+            "original_title": "Fifty Shades Freed",
+            "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+            "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 21.7635,
+            "release_date": "2018-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.67,
+            "vote_count": 8405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jN7CC157HPiKm130DlkJ3IITjSm.jpg",
+            "id": 25128,
+            "title": "Love & Sex",
+            "original_title": "Love & Sex",
+            "overview": "When her rather explicit copy is rejected, magazine journalist Kate is asked by her editor to come up with an article on loving relationships instead, and to do so by the end of the day. This gets Kate thinking back over her own various experiences, and to wondering if she is in much of a position to write on the subject.",
+            "poster_path": "/x4pnZxarc6VbkSv19Rfoio4yNmW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 4.3944,
+            "release_date": "2000-02-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.145,
+            "vote_count": 138
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2gR4hjE2atX7rwVm3pxtHKlTSx.jpg",
+            "id": 128136,
+            "title": "My Awkward Sexual Adventure",
+            "original_title": "My Awkward Sexual Adventure",
+            "overview": "A hyper-repressed and schlubby accountant (Jonas Chernick) strikes a deal with a worldly but disorganized stripper (Emily Hampshire): he'll help her with her crushing debt if she helps him become a better lover.",
+            "poster_path": "/mLFXD0GrJhrRlvNpWbmecEiRADy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "popularity": 2.3364,
+            "release_date": "2012-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.725,
+            "vote_count": 367
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bYk4H2MSvNWckhrYhZNQHe8v90o.jpg",
+            "id": 21542,
+            "title": "Love Don't Co$t a Thing",
+            "original_title": "Love Don't Co$t a Thing",
+            "overview": "A high school outcast pays a cheerleader to pose as his girlfriend so he can be considered cool.",
+            "poster_path": "/88zspc72LIkfiuMnGpHnsWCuqEH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10751,
+                10749
+            ],
+            "popularity": 8.5456,
+            "release_date": "2003-12-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.671,
+            "vote_count": 721
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fvFrMDT1aKd1bap493IT2KqTLC7.jpg",
+            "id": 434203,
+            "title": "Newness",
+            "original_title": "Newness",
+            "overview": "In contemporary Los Angeles, two millennials navigating a social media–driven hookup culture begin a relationship that pushes both emotional and physical boundaries.",
+            "poster_path": "/vySlYPqOrI5s8Nu6bzpGKQbotVy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 7.3736,
+            "release_date": "2017-11-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.073,
+            "vote_count": 633
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Id5xQr54BCdVRDQM9i0s8P9BUw.jpg",
+            "id": 75432,
+            "title": "Sweet Sex and Love",
+            "original_title": "맛있는 섹스 그리고 사랑",
+            "overview": "Shin-ah, a free spirit, has an unexpected encounter with Dong-gi, who seeks excitement. After a passionate night, she breaks up with her boyfriend and reunites with Dong-gi when he calls. The two fall madly in love.",
+            "poster_path": "/zu002fbXHiJbtOgKMpOxhb9vJN5.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.4047,
+            "release_date": "2003-06-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vXpZb4IFvFff57O9Q3Ukd15eguJ.jpg",
+            "id": 633657,
+            "title": "The Good House",
+            "original_title": "The Good House",
+            "overview": "When wry New England realtor Hildy Good rekindles a romance with her old high-school flame, Frank Getchell, it ignites long-buried emotions and family secrets that propel Hildy toward a reckoning with the one person she's been avoiding for decades: herself. Based on the best-selling novel by Ann Leary.",
+            "poster_path": "/a0tSiNq9Ze4ucWFU6oRPd4OEGJr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18,
+                35
+            ],
+            "popularity": 2.5928,
+            "release_date": "2021-09-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.171,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nzaKfVskNDpKAAfWPUxYzd96pZm.jpg",
+            "id": 894686,
+            "title": "How to Please a Woman",
+            "original_title": "How to Please a Woman",
+            "overview": "When her all-male house-cleaning business gets out of control, a mature woman must embrace her own sexuality, if she is to make a new life for herself.",
+            "poster_path": "/feSeUyEBWUrkfbk2jO0kPVayml2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 1.8955,
+            "release_date": "2022-05-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.176,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y7aUGF0d32JcmuWW8TsgnTEZaLF.jpg",
+            "id": 16318,
+            "title": "Sex Is Zero",
+            "original_title": "색즉시공",
+            "overview": "Eun-sik tries to pass the state exam while studying in college after his military service. One day, he meets a beautiful woman Eun-hyo, and his life changes.",
+            "poster_path": "/5Z5Frv3V7vqVt0wN7aM2EmaAO43.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 6.3746,
+            "release_date": "2002-12-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.187,
+            "vote_count": 139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4XgQ3Uxu2XbZbs2dZ2TQu6Uju3s.jpg",
+            "id": 843617,
+            "title": "Players",
+            "original_title": "Players",
+            "overview": "New York sportswriter Mack has spent years devising successful hook-up \"plays\" with her friends, but when she unexpectedly falls for one of her targets, she must learn what it takes to go from simply scoring to playing for keeps.",
+            "poster_path": "/eA94hAGntLm7Lfol5FQJNxd53Hw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "popularity": 3.515,
+            "release_date": "2024-02-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.08,
+            "vote_count": 326
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aMZYX05Qgi3NqfD1h3nmOhJLdfh.jpg",
+            "id": 42383,
+            "title": "XX/XY",
+            "original_title": "XX/XY",
+            "overview": "Three friends begin a dangerous three-way relationship that spirals out of control, leading to dire consequences that haunt them ten years later.",
+            "poster_path": "/Avc51Le5NQbjbzE1PVmLFdi1nVs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "popularity": 3.0048,
+            "release_date": "2002-01-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.91,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e9ZX5bzErTNVACJ4bBRlCmmsPMJ.jpg",
+            "id": 27322,
+            "title": "Love Jones",
+            "original_title": "Love Jones",
+            "overview": "Darius Lovehall is a young black poet in Chicago who starts dating Nina Moseley, a beautiful and talented photographer. While trying to figure out if they've got a \"love thing\" or are just \"kicking it,\" they hang out with their friends, talking about love and sex. Then Nina tests the strength of Darius' feelings and sets a chain of romantic complications into motion.",
+            "poster_path": "/iuwimPkDm7kfptKm5zlK0pIzqXM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 2.6279,
+            "release_date": "1997-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.408,
+            "vote_count": 76
+        }
+    ]
+}

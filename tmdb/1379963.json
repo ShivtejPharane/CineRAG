@@ -1,0 +1,768 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://www.amazon.com/dp/B0FY3V1MWB",
+        "id": 1379963,
+        "imdb_id": "tt34434461",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Dímelo bajito",
+        "overview": "Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothers, after seven years of absence. Thiago stole her first kiss, and Taylor was her best friend, but now their return will turn Kami's world upside down. Can the three overcome the past that binds them? Or will everything explode into pieces once again?",
+        "popularity": 11.4755,
+        "poster_path": "/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
+        "production_companies": [
+            {
+                "id": 7345,
+                "logo_path": "/gB3XmmLmm3W4vpXyziCHHLtYpWN.png",
+                "name": "Vaca Films",
+                "origin_country": "ES"
+            },
+            {
+                "id": 210099,
+                "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+                "name": "Amazon MGM Studios",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2025-12-11",
+        "revenue": 0,
+        "runtime": 119,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Tell Me Softly",
+        "video": false,
+        "vote_average": 6.268,
+        "vote_count": 196
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1210310,
+            "known_for_department": "Acting",
+            "name": "Alícia Falcó",
+            "original_name": "Alícia Falcó",
+            "popularity": 2.8327,
+            "profile_path": "/pzFG0vued1eAh7QcOlyNdn8th8m.jpg",
+            "cast_id": 1,
+            "character": "Kami",
+            "credit_id": "672215a41df70f7920feca3b",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2649290,
+            "known_for_department": "Acting",
+            "name": "Fernando Lindez",
+            "original_name": "Fernando Lindez",
+            "popularity": 4.2378,
+            "profile_path": "/quHSt84xNfEqCk9v5fv3qVxlbaX.jpg",
+            "cast_id": 2,
+            "character": "Thiago",
+            "credit_id": "672215b71df70f7920feca4e",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4750022,
+            "known_for_department": "Acting",
+            "name": "Diego Vidales",
+            "original_name": "Diego Vidales",
+            "popularity": 0.9268,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "Taylor",
+            "credit_id": "672215d928bd966c9e66f3d3",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4472703,
+            "known_for_department": "Acting",
+            "name": "Jan Buxaderas",
+            "original_name": "Jan Buxaderas",
+            "popularity": 0.8765,
+            "profile_path": "/a5B8dLSg2cIMsz5ryhGsXW394I1.jpg",
+            "cast_id": 21,
+            "character": "Dani",
+            "credit_id": "6944003cbc2ef61501e6e89e",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3578019,
+            "known_for_department": "Acting",
+            "name": "Eve Ryan",
+            "original_name": "Eve Ryan",
+            "popularity": 5.1703,
+            "profile_path": "/lqNMF1KmRt2R76GBblGH1mxum8P.jpg",
+            "cast_id": 7,
+            "character": "Cata",
+            "credit_id": "6722161e991edb035c5f6979",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5031202,
+            "known_for_department": "Acting",
+            "name": "Fernando Nagore",
+            "original_name": "Fernando Nagore",
+            "popularity": 0.6056,
+            "profile_path": "/gP4Gg8weJmhDw90BGAndLwpX7VO.jpg",
+            "cast_id": 8,
+            "character": "Jules",
+            "credit_id": "67221657826fe5799cc4b118",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1243743,
+            "known_for_department": "Acting",
+            "name": "Patricia Vico",
+            "original_name": "Patricia Vico",
+            "popularity": 1.1627,
+            "profile_path": "/96lZIgbJJHlobSvRIn1VT0X2kAW.jpg",
+            "cast_id": 5,
+            "character": "Anne",
+            "credit_id": "672215fa826fe5799cc4b109",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1062026,
+            "known_for_department": "Acting",
+            "name": "Celia Freijeiro",
+            "original_name": "Celia Freijeiro",
+            "popularity": 1.0956,
+            "profile_path": "/l32Ys5nQptZLJFRtlVJXKbK704U.jpg",
+            "cast_id": 4,
+            "character": "Chiara",
+            "credit_id": "672215ead9a8a77b5da44c57",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1793815,
+            "known_for_department": "Acting",
+            "name": "Francisco Reyes",
+            "original_name": "Francisco Reyes",
+            "popularity": 0.6007,
+            "profile_path": "/bip3QXmrpvSHGEvzmX5As0qoI6Z.jpg",
+            "cast_id": 22,
+            "character": "Clab",
+            "credit_id": "694400992b766fea75dec3c6",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1121031,
+            "known_for_department": "Acting",
+            "name": "Andrés Velencoso",
+            "original_name": "Andrés Velencoso",
+            "popularity": 0.8332,
+            "profile_path": "/gzQlzEWYWDNDfAEH2pk8VR30xDe.jpg",
+            "cast_id": 6,
+            "character": "Tino",
+            "credit_id": "6722160928bd966c9e66f3e0",
+            "order": 9
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1096644,
+            "known_for_department": "Production",
+            "name": "Borja Pena",
+            "original_name": "Borja Pena",
+            "popularity": 0.3504,
+            "profile_path": "/wKxNZjZlnnGXumvIrxiMb3HxLi.jpg",
+            "credit_id": "6722175728bd966c9e66f42f",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1034171,
+            "known_for_department": "Production",
+            "name": "Emma Lustres",
+            "original_name": "Emma Lustres",
+            "popularity": 0.4622,
+            "profile_path": "/u2mR7DHcXwKwP5zaLNGbJ64A96z.jpg",
+            "credit_id": "6722176b82658aeeac923060",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4106905,
+            "known_for_department": "Writing",
+            "name": "Mercedes Ron",
+            "original_name": "Mercedes Ron",
+            "popularity": 0.8956,
+            "profile_path": null,
+            "credit_id": "6728a4e731d3a40cfdead28f",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1143785,
+            "known_for_department": "Writing",
+            "name": "Jaime Vaca",
+            "original_name": "Jaime Vaca",
+            "popularity": 0.4782,
+            "profile_path": null,
+            "credit_id": "6728a552a702fca22f0bc458",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1275321,
+            "known_for_department": "Directing",
+            "name": "Denis Rovira van Boekholt",
+            "original_name": "Denis Rovira van Boekholt",
+            "popularity": 0.468,
+            "profile_path": null,
+            "credit_id": "6728a63c008c8137852dff0e",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1459930,
+            "known_for_department": "Camera",
+            "name": "Imanol Nabea",
+            "original_name": "Imanol Nabea",
+            "popularity": 0.3209,
+            "profile_path": "/rJ24HdNTwmqO0hjkcLfdveLux1k.jpg",
+            "credit_id": "69128b78a04bfc56e49ac6b7",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3618374,
+            "known_for_department": "Editing",
+            "name": "Mario Maroto",
+            "original_name": "Mario Maroto",
+            "popularity": 0.3217,
+            "profile_path": null,
+            "credit_id": "69128c0114dc73b323d25f51",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2237788,
+            "known_for_department": "Art",
+            "name": "Alexandra Fernández",
+            "original_name": "Alexandra Fernández",
+            "popularity": 0.524,
+            "profile_path": null,
+            "credit_id": "69128c624f04bbcf4edd26ee",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2561986,
+            "known_for_department": "Production",
+            "name": "Alejandro Gil",
+            "original_name": "Alejandro Gil",
+            "popularity": 0.3312,
+            "profile_path": "/3EMzDKcZ4Kb8bg6ouhxwX2Xs8Bg.jpg",
+            "credit_id": "69128ce0380a6254f187581a",
+            "department": "Production",
+            "job": "Casting Director"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 818,
+            "name": "based on novel or book"
+        },
+        {
+            "id": 128,
+            "name": "love triangle"
+        },
+        {
+            "id": 304976,
+            "name": "romantic drama"
+        },
+        {
+            "id": 325765,
+            "name": "amused"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/xo6BiwGPV5MhGMQ7gBTQ6coC19H.jpg",
+            "id": 18538,
+            "title": "Dot the I",
+            "original_title": "Dot the I",
+            "overview": "A fiery Spanish woman is about to marry a kind British man when she meets a Brazilian actor who ignites in her a flame of lust she can't ignore.",
+            "poster_path": "/2Gq1e0OC7r6L4V5dJaLgANk09xl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18,
+                53
+            ],
+            "popularity": 3.8729,
+            "release_date": "2003-10-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hK6per38QqXr6oAtUosy1E1u1C5.jpg",
+            "id": 62191,
+            "title": "Sound of the Sea",
+            "original_title": "Son de mar",
+            "overview": "A new literature teacher, Ulises, comes to a small town near the sea and falls in love with a young woman, Martina. This woman is loved by a rich businessman named Alberto but chooses Ulises. Soon after their marriage and the birth of their son, Ulises vanishes while fishing at sea. In the meanwhile Martina marries Alberto, but all is not what it seems...",
+            "poster_path": "/6WF4p8Z1QL0UYBB9bBotHysYXTo.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.5739,
+            "release_date": "2001-06-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jtAI6OJIWLWiRItNSZoWjrsUtmi.jpg",
+            "id": 724089,
+            "title": "Gabriel's Inferno: Part II",
+            "original_title": "Gabriel's Inferno: Part II",
+            "overview": "Professor Gabriel Emerson finally learns the truth about Julia Mitchell's identity, but his realization comes a moment too late. Julia is done waiting for the well-respected Dante specialist to remember her and wants nothing more to do with him. Can Gabriel win back her heart before she finds love in another's arms?",
+            "poster_path": "/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.6408,
+            "release_date": "2020-07-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.347,
+            "vote_count": 1558
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+            "id": 1317672,
+            "title": "Love Me Love Me",
+            "original_title": "Love Me Love Me",
+            "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+            "poster_path": "/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 14.5319,
+            "release_date": "2026-02-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 293
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9qYD7pAOEdYBoQblv5VAMMSVAC8.jpg",
+            "id": 1078600,
+            "title": "Marked Men: Rule + Shaw",
+            "original_title": "Marked Men: Rule + Shaw",
+            "overview": "Shaw Landon has loved Rule Archer from the moment she laid eyes on him. Rule, a fiery-tempered rebel tattoo artist, doesn’t have time for a good girl pre-med student like Shaw — even if she’s the only one who can see the person he truly is. She lives by other people’s rules; he makes his own. But a short skirt, too many birthday cocktails, and spilled secrets lead to a night neither can forget. Now, Shaw and Rule must figure out how a girl like her and a guy like him are supposed to be together without destroying their love…or each other.",
+            "poster_path": "/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 6.2743,
+            "release_date": "2025-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 253
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
+            "id": 1477317,
+            "title": "Your Fault: London",
+            "original_title": "Your Fault: London",
+            "overview": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
+            "poster_path": "/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 24.8152,
+            "release_date": "2026-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.514,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tMtXSrEeh2rueJQVWMom78ZBhG0.jpg",
+            "id": 364733,
+            "title": "Blind",
+            "original_title": "Blind",
+            "overview": "A novelist is blinded in a car crash that killed his wife and several years later rediscovers his passion for life and writing when he embarks on an affair with the neglected wife of an indicted businessman.",
+            "poster_path": "/cXyObe5aB63ueOndEXxXabgAvIi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.604,
+            "release_date": "2017-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.11,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/98uiDns59GUw26SQSCFmuSHTki3.jpg",
+            "id": 1595852,
+            "title": "Boulevard",
+            "original_title": "Boulevard",
+            "overview": "New city, new life, and an unexpected encounter with Luke-a boy fueled by adrenaline and haunted by demons. Despite the warnings, Hasley can't stay away. In their 'boulevard,' they find a raw, liberating love. But as his past threatens to destroy them both, Hasley faces a heartbreaking choice: can you save someone who isn't ready to be rescued?",
+            "poster_path": "/hAKOp4AHaDiVdDMlobMNCNgJVD7.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 29.3111,
+            "release_date": "2026-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.406,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+            "id": 337167,
+            "title": "Fifty Shades Freed",
+            "original_title": "Fifty Shades Freed",
+            "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+            "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 21.7635,
+            "release_date": "2018-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.67,
+            "vote_count": 8405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
+            "id": 744114,
+            "title": "My Policeman",
+            "original_title": "My Policeman",
+            "overview": "In the late 1990s, the arrival of elderly invalid Patrick into Marion and Tom’s home triggers the exploration of seismic events from 40 years previous: the passionate relationship between Tom and Patrick at a time when homosexuality was illegal.",
+            "poster_path": "/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.6251,
+            "release_date": "2022-10-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.527,
+            "vote_count": 780
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fvFrMDT1aKd1bap493IT2KqTLC7.jpg",
+            "id": 434203,
+            "title": "Newness",
+            "original_title": "Newness",
+            "overview": "In contemporary Los Angeles, two millennials navigating a social media–driven hookup culture begin a relationship that pushes both emotional and physical boundaries.",
+            "poster_path": "/vySlYPqOrI5s8Nu6bzpGKQbotVy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 7.3736,
+            "release_date": "2017-11-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.073,
+            "vote_count": 633
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+            "id": 1156593,
+            "title": "Your Fault",
+            "original_title": "Culpa tuya",
+            "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+            "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 23.8965,
+            "release_date": "2024-12-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.089,
+            "vote_count": 1609
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
+            "id": 1156594,
+            "title": "Our Fault",
+            "original_title": "Culpa nuestra",
+            "overview": "Jenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?",
+            "poster_path": "/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 30.9061,
+            "release_date": "2025-10-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.383,
+            "vote_count": 728
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wO8vg2bB4rR7lGtIlZ7mJlcfwJ7.jpg",
+            "id": 540023,
+            "title": "Wander Darkly",
+            "original_title": "Wander Darkly",
+            "overview": "New parents Adrienne and Matteo are forced to reckon with trauma amidst their troubled relationship. They must revisit the memories of their past and unravel haunting truths in order to face their uncertain future.",
+            "poster_path": "/96snLzPYifC4FyL2uOnzo4DPgCv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.4693,
+            "release_date": "2020-12-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.028,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hNYF27LeIxyvqUFZpS0fAqOEYxp.jpg",
+            "id": 479957,
+            "title": "Desire",
+            "original_title": "Desearás al hombre de tu hermana",
+            "overview": "Lucía and Ofelia, two sisters, finally meet after 7 years of cold relationships upon Lucia 's wedding. But when Juan, Lucia's husband, and Ofelia meet, they feel like a disruptive fantasy have enchanted their minds and bodies...",
+            "poster_path": "/jnTYASRVkL5QPLeM0FeojTGRbgV.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.5846,
+            "release_date": "2017-10-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.004,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3jKGCOAh5bCmAWOWG8Or0MMLQIh.jpg",
+            "id": 466708,
+            "title": "Green Butterflies",
+            "original_title": "Mariposas Verdes",
+            "overview": "Mateo is an intelligent boy who falls in love with Daniel, but when everyone reveals that relationship, Mateo is at a crossroads, and he will have to decide between fighting his adversities or giving up everything, even his life.",
+            "poster_path": "/vZXNPRT7vvRRAXxFfXbCRhoTX6W.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.7759,
+            "release_date": "2017-07-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.091,
+            "vote_count": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d9COll7H2LaS1GK4t6OnkpkycKf.jpg",
+            "id": 610781,
+            "title": "See You Soon",
+            "original_title": "See You Soon",
+            "overview": "A U.S. soccer star suffers a career-threatening injury in the run-up to the World Cup, and during his recovery, embarks on an epic romance with a Russian single mom.",
+            "poster_path": "/nKOHCFfMsTSpLAIQKMwXotdEggs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.3099,
+            "release_date": "2019-07-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.938,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg",
+            "id": 613504,
+            "title": "After We Collided",
+            "original_title": "After We Collided",
+            "overview": "Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.",
+            "poster_path": "/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 15.9995,
+            "release_date": "2020-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.151,
+            "vote_count": 5486
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2l5pGtlYQoFNip1LIdIE0qzAq9.jpg",
+            "id": 85654,
+            "title": "Fire with Fire",
+            "original_title": "Fire with Fire",
+            "overview": "A tough, street-smart kid serving a sentence in a state youth reformatory meets a beautiful, innocent girl studying at a nearby convent. When forbidden love blossoms between them, they must fight the prison authorities, their parents and the law.",
+            "poster_path": "/1lCi4gHuQmnqn5laJFYZZfaEW9F.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.7138,
+            "release_date": "1986-05-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.15,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
+            "id": 763148,
+            "title": "Time Is Up",
+            "original_title": "Time Is Up",
+            "overview": "Vivien, an accomplished student with a passion for physics, and Roy, a troubled young man, are involved in an accident that forces them to reclaim their lives one minute at the time.",
+            "poster_path": "/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.8679,
+            "release_date": "2021-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.462,
+            "vote_count": 732
+        }
+    ]
+}

@@ -1,0 +1,1167 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/37y53Jt8K6MvN6s4zJVFa61luO2.jpg",
+        "belongs_to_collection": null,
+        "budget": 119,
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 851644,
+        "imdb_id": "tt15340724",
+        "origin_country": [
+            "KR"
+        ],
+        "original_language": "ko",
+        "original_title": "20세기 소녀",
+        "overview": "In 1999, a teen girl keeps close tabs on a boy in school on behalf of her deeply smitten best friend – then she gets swept up in a love story of her own.",
+        "popularity": 13.0327,
+        "poster_path": "/od22ftNnyag0TTxcnJhlsu3aLoU.jpg",
+        "production_companies": [
+            {
+                "id": 49096,
+                "logo_path": "/dj9VQ8Tqw4OTP8h5JkSOQGpEeMR.png",
+                "name": "Yong Film",
+                "origin_country": "KR"
+            },
+            {
+                "id": 199265,
+                "logo_path": "/mv2yDqAgT1ea1eTXZMDr89zX95M.png",
+                "name": "CJ ENM Studios",
+                "origin_country": "KR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "release_date": "2022-10-06",
+        "revenue": 0,
+        "runtime": 119,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "status": "Released",
+        "tagline": "A first love pov story.",
+        "title": "20th Century Girl",
+        "video": false,
+        "vote_average": 8.172,
+        "vote_count": 842
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 140335,
+            "known_for_department": "Acting",
+            "name": "Kim You-jung",
+            "original_name": "김유정",
+            "popularity": 2.9792,
+            "profile_path": "/eFcMTDIgzSGLHZYXcsf1M42cvFt.jpg",
+            "cast_id": 1,
+            "character": "Na Bo-ra",
+            "credit_id": "60f35d35f1759c005f2dabb0",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2117890,
+            "known_for_department": "Acting",
+            "name": "Byeon Woo-seok",
+            "original_name": "변우석",
+            "popularity": 3.1801,
+            "profile_path": "/iACGQCFJZUMsy4ywEzNiPokXFB9.jpg",
+            "cast_id": 20,
+            "character": "Poong Woon-ho",
+            "credit_id": "635291a65f4b7300835c2ea8",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2377671,
+            "known_for_department": "Acting",
+            "name": "Park Jung-woo",
+            "original_name": "박정우",
+            "popularity": 1.064,
+            "profile_path": "/7euKnxnUz6HqjkAHsSLy2dsPvRg.jpg",
+            "cast_id": 4,
+            "character": "Baek Hyun-jin",
+            "credit_id": "612ec899fbe36f0065c09fde",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3218480,
+            "known_for_department": "Acting",
+            "name": "Roh Yoon-seo",
+            "original_name": "노윤서",
+            "popularity": 2.2017,
+            "profile_path": "/A67wGhTozfav5saZ1Umi5f98Ezb.jpg",
+            "cast_id": 5,
+            "character": "Kim Yeon-du",
+            "credit_id": "612ec8f7d207f3002db3eaf6",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1806235,
+            "known_for_department": "Acting",
+            "name": "Kim Sung-kyung",
+            "original_name": "김성경",
+            "popularity": 0.6911,
+            "profile_path": "/xsH2yoY7K2pWjQ5vIMetMrXenV2.jpg",
+            "cast_id": 9,
+            "character": "Bo-ra's Mother",
+            "credit_id": "633e382085b1050082eea570",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 17127,
+            "known_for_department": "Acting",
+            "name": "Jeong Seok-yong",
+            "original_name": "정석용",
+            "popularity": 1.1417,
+            "profile_path": "/tyTSdGaVKotPmJXGNtz6fXoj8Tc.jpg",
+            "cast_id": 10,
+            "character": "Bo-ra's Father",
+            "credit_id": "633e38291b7c59007f88b642",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3728650,
+            "known_for_department": "Acting",
+            "name": "Yoon Yi-reh",
+            "original_name": "윤이레",
+            "popularity": 0.5283,
+            "profile_path": "/uKrJzryFpP2UCUoaV93OgXLohRx.jpg",
+            "cast_id": 11,
+            "character": "Madam",
+            "credit_id": "633e38564f9a99007c26d335",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1998163,
+            "known_for_department": "Acting",
+            "name": "Jeon Hye-won",
+            "original_name": "전혜원",
+            "popularity": 1.2541,
+            "profile_path": "/iiLAT4wZ1DtPUPA0l8YH9MeXgQS.jpg",
+            "cast_id": 21,
+            "character": "Darn It",
+            "credit_id": "6354ca4ad8e225007a1abeb1",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3281025,
+            "known_for_department": "Acting",
+            "name": "Kim Nu-rim",
+            "original_name": "김누림",
+            "popularity": 0.8164,
+            "profile_path": "/qGJjHHCeW0DcwpFvfDoERxmBulj.jpg",
+            "cast_id": 23,
+            "character": "Dong-wook",
+            "credit_id": "6354cb6c9463180082cdc40b",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 240145,
+            "known_for_department": "Acting",
+            "name": "Han Hyo-joo",
+            "original_name": "한효주",
+            "popularity": 2.459,
+            "profile_path": "/4E7NuJsR7AnMYAefFSHkj4cftdf.jpg",
+            "cast_id": 8,
+            "character": "Adult Na Bo-ra",
+            "credit_id": "620758d3cb802800ca666bc8",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 86330,
+            "known_for_department": "Acting",
+            "name": "Lee Beom-soo",
+            "original_name": "이범수",
+            "popularity": 1.0216,
+            "profile_path": "/9CSDpnR1gjbulTQdusJMiGc59Ff.jpg",
+            "cast_id": 18,
+            "character": "School Teacher",
+            "credit_id": "63521d7956b9f7007b12f943",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 227638,
+            "known_for_department": "Acting",
+            "name": "Ryu Seung-ryong",
+            "original_name": "류승룡",
+            "popularity": 1.5779,
+            "profile_path": "/p0LjCRqVqgTyvlZScMmsVFCnTIt.jpg",
+            "cast_id": 22,
+            "character": "Poong Woon-ho's Father",
+            "credit_id": "6354ca6e255dba008ab7849f",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1292971,
+            "known_for_department": "Acting",
+            "name": "Park Hae-joon",
+            "original_name": "박해준",
+            "popularity": 1.424,
+            "profile_path": "/heNKjLHWCQXXfkDB1Hb2nhuhDCf.jpg",
+            "cast_id": 19,
+            "character": "Doctor at School Infirmary",
+            "credit_id": "63521d7ea0f1a2007cdd98f0",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1333031,
+            "known_for_department": "Acting",
+            "name": "Gong Myoung",
+            "original_name": "공명",
+            "popularity": 2.0385,
+            "profile_path": "/4c4eiMCgzw6gr4TDzOiODmmTRmG.jpg",
+            "cast_id": 6,
+            "character": "Jung Woon-ho",
+            "credit_id": "61aa74f085b105004314223e",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1988291,
+            "known_for_department": "Acting",
+            "name": "Ong Seong-wu",
+            "original_name": "옹성우",
+            "popularity": 1.4478,
+            "profile_path": "/wkEE49MqC6oCeTC3YqMfmM0FOmt.jpg",
+            "cast_id": 7,
+            "character": "Joseph / Poong Joon-ho",
+            "credit_id": "61ef76b4e4886001115eec08",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3445783,
+            "known_for_department": "Acting",
+            "name": "Kang Chae-young",
+            "original_name": "강채영",
+            "popularity": 1.3894,
+            "profile_path": "/h5A1YuYUSKYFEE0Mij24sJLwcvd.jpg",
+            "cast_id": 24,
+            "character": "Bok-soon",
+            "credit_id": "6354cb79d8e2250082243d7d",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2378215,
+            "known_for_department": "Directing",
+            "name": "Bang Woo-ri",
+            "original_name": "Bang Woo-ri",
+            "popularity": 0.6403,
+            "profile_path": "/ofaTg8VN5NniUjEyLnB9q5BWHcR.jpg",
+            "cast_id": 25,
+            "character": "Yeon-du's Mother",
+            "credit_id": "6354cb85f3b49a007a84dc42",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3728652,
+            "known_for_department": "Acting",
+            "name": "Lee Cheon-mu",
+            "original_name": "이천무",
+            "popularity": 0.5778,
+            "profile_path": "/bxA6gJJZaGTMknKYjBA80HCf6cq.jpg",
+            "cast_id": 12,
+            "character": "Bo-ra's Brother",
+            "credit_id": "633e38c84f9a99009087c9e4",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3979575,
+            "known_for_department": "Acting",
+            "name": "Jo Ji-hyeon",
+            "original_name": "조지현",
+            "popularity": 0.3538,
+            "profile_path": "/dFEu4Mj0bN3lnEkg133X9c83XJY.jpg",
+            "cast_id": 27,
+            "character": "Teacher",
+            "credit_id": "6438b77687f3f200d44a82e9",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2692450,
+            "known_for_department": "Acting",
+            "name": "Lee Woo-sung",
+            "original_name": "이우성",
+            "popularity": 0.3999,
+            "profile_path": "/dTB21fPaTRFBz6Mi8hCrL0a0BYi.jpg",
+            "cast_id": 28,
+            "character": "Min Hong-gi",
+            "credit_id": "6438b7b887f3f20096087747",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2500944,
+            "known_for_department": "Acting",
+            "name": "Choi Kyo-sik",
+            "original_name": "최교식",
+            "popularity": 0.573,
+            "profile_path": "/4UUu0A9XzfajUG8s68296XgPcJ1.jpg",
+            "cast_id": 29,
+            "character": "Mailman",
+            "credit_id": "6438b7fc81a7fc009ba588e8",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4009673,
+            "known_for_department": "Acting",
+            "name": "Jeong Min-jun",
+            "original_name": "정민준",
+            "popularity": 0.5252,
+            "profile_path": "/qI3zOCqExbHLz1ISrGHXwyGKUaV.jpg",
+            "cast_id": 30,
+            "character": "Young Joseph",
+            "credit_id": "6438b9f0c2679601268fb0ea",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2878461,
+            "known_for_department": "Acting",
+            "name": "Shin Dong-ryeok",
+            "original_name": "신동력",
+            "popularity": 0.8806,
+            "profile_path": "/2c5OEO0pSCf3msk0dMwPJ7nQpgA.jpg",
+            "cast_id": 36,
+            "character": "Mulberry Extract Vendor",
+            "credit_id": "6438bb7337b3a900949db193",
+            "order": 22
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2378215,
+            "known_for_department": "Directing",
+            "name": "Bang Woo-ri",
+            "original_name": "Bang Woo-ri",
+            "popularity": 0.6403,
+            "profile_path": "/ofaTg8VN5NniUjEyLnB9q5BWHcR.jpg",
+            "credit_id": "60f35d9bf2883800777baa5e",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4348086,
+            "known_for_department": "Visual Effects",
+            "name": "Jung Seok-jae",
+            "original_name": "Jung Seok-jae",
+            "popularity": 0.2781,
+            "profile_path": null,
+            "credit_id": "653fad58c8a5ac00c6d7d455",
+            "department": "Visual Effects",
+            "job": "VFX Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2378215,
+            "known_for_department": "Directing",
+            "name": "Bang Woo-ri",
+            "original_name": "Bang Woo-ri",
+            "popularity": 0.6403,
+            "profile_path": "/ofaTg8VN5NniUjEyLnB9q5BWHcR.jpg",
+            "credit_id": "633e39f0c15f890084cb80c6",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1162598,
+            "known_for_department": "Camera",
+            "name": "Cho Young-jik",
+            "original_name": "조영직",
+            "popularity": 0.4313,
+            "profile_path": null,
+            "credit_id": "633e3a13fe5c91007caa7a75",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2309922,
+            "known_for_department": "Art",
+            "name": "Lee Na-gyeom",
+            "original_name": "이나겸",
+            "popularity": 0.4494,
+            "profile_path": null,
+            "credit_id": "633e3a28a6e2d2007a2f5043",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4569657,
+            "known_for_department": "Production",
+            "name": "Jang Eun-young",
+            "original_name": "Jang Eun-young",
+            "popularity": 0.2336,
+            "profile_path": null,
+            "credit_id": "65e3ce2b9451e7016459a4a4",
+            "department": "Crew",
+            "job": "Post Production Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3987918,
+            "known_for_department": "Editing",
+            "name": "No Byeong-uk",
+            "original_name": "노병욱",
+            "popularity": 0.5545,
+            "profile_path": null,
+            "credit_id": "642706129cc67b05796af026",
+            "department": "Editing",
+            "job": "Digital Intermediate"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2500104,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Shin Soo-bin",
+            "original_name": "Shin Soo-bin",
+            "popularity": 0.2556,
+            "profile_path": null,
+            "credit_id": "644f7dea23a31402dd7c0655",
+            "department": "Costume & Make-Up",
+            "job": "Costumer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2500106,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Yoon Na-yeon",
+            "original_name": "윤나연",
+            "popularity": 0.3812,
+            "profile_path": null,
+            "credit_id": "644f7ec22fccee0302cdf9a8",
+            "department": "Costume & Make-Up",
+            "job": "Costumer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 10105,
+            "known_for_department": "Production",
+            "name": "Syd Lim",
+            "original_name": "임승용",
+            "popularity": 0.5,
+            "profile_path": "/vOOJLMDOQSeRrY4eaF1YTXobjb3.jpg",
+            "credit_id": "644f824fbdd568111dcbe55b",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1294393,
+            "known_for_department": "Lighting",
+            "name": "Jung Hae-ji",
+            "original_name": "정해지",
+            "popularity": 0.3462,
+            "profile_path": null,
+            "credit_id": "644f8264c0a30802e5707fe7",
+            "department": "Lighting",
+            "job": "Lighting Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1674268,
+            "known_for_department": "Editing",
+            "name": "Yang Jin-mo",
+            "original_name": "양진모",
+            "popularity": 0.8113,
+            "profile_path": "/zEkYOluedauPisYt2SasnJAX6rl.jpg",
+            "credit_id": "644f826c23a31402e57bf8c7",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1294551,
+            "known_for_department": "Costume & Make-Up",
+            "name": "An Ji-hyeon",
+            "original_name": "An Ji-hyeon",
+            "popularity": 0.3475,
+            "profile_path": null,
+            "credit_id": "644f827e124c8d02dd7e92f7",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2872346,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Park Yea-ri",
+            "original_name": "박예리",
+            "popularity": 0.8404,
+            "profile_path": null,
+            "credit_id": "644f82a2c0a30802e5708039",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3422959,
+            "known_for_department": "Sound",
+            "name": "Son Yong-ik",
+            "original_name": "손용익",
+            "popularity": 0.4652,
+            "profile_path": null,
+            "credit_id": "644f82b0124c8d02f57e449d",
+            "department": "Sound",
+            "job": "Production Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2239714,
+            "known_for_department": "Sound",
+            "name": "Lee Sung-june",
+            "original_name": "이성준",
+            "popularity": 0.4951,
+            "profile_path": null,
+            "credit_id": "644f82bb23a31402e57bf929",
+            "department": "Sound",
+            "job": "Sound Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2197563,
+            "known_for_department": "Visual Effects",
+            "name": "Hong Jang-pyo",
+            "original_name": "홍장표",
+            "popularity": 1.694,
+            "profile_path": null,
+            "credit_id": "644f82c6124c8d02e77e7622",
+            "department": "Visual Effects",
+            "job": "Special Effects Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3035593,
+            "known_for_department": "Crew",
+            "name": "Shin Young-hoon",
+            "original_name": "Shin Young-hoon",
+            "popularity": 0.3162,
+            "profile_path": null,
+            "credit_id": "644f82d2bdd568111dcbe617",
+            "department": "Crew",
+            "job": "Martial Arts Choreographer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3041086,
+            "known_for_department": "Crew",
+            "name": "Yoon Seok-jin",
+            "original_name": "윤석진",
+            "popularity": 0.3929,
+            "profile_path": null,
+            "credit_id": "644f82d82fccee0302cdfe08",
+            "department": "Crew",
+            "job": "Martial Arts Choreographer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4038042,
+            "known_for_department": "Production",
+            "name": "Kim Yong-eun",
+            "original_name": "김용언",
+            "popularity": 0.3506,
+            "profile_path": null,
+            "credit_id": "644f82f5c0a3080301700514",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4038044,
+            "known_for_department": "Visual Effects",
+            "name": "Kim Gwang-wook",
+            "original_name": "Kim Gwang-wook",
+            "popularity": 0.2661,
+            "profile_path": null,
+            "credit_id": "644f832f2fccee02e4ce40dd",
+            "department": "Visual Effects",
+            "job": "VFX Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4038055,
+            "known_for_department": "Camera",
+            "name": "Seo Ji-hyeong",
+            "original_name": "Seo Ji-hyeong",
+            "popularity": 0.2465,
+            "profile_path": null,
+            "credit_id": "644f83a035039802e7d52b04",
+            "department": "Camera",
+            "job": "Still Photographer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 69085,
+            "known_for_department": "Sound",
+            "name": "Dalpalan",
+            "original_name": "달파란",
+            "popularity": 0.8118,
+            "profile_path": "/tGH9zerISvma1JfyL1bCSthNcWD.jpg",
+            "credit_id": "66e3ce359013fe872223dfcc",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 6054,
+            "name": "friendship"
+        },
+        {
+            "id": 128,
+            "name": "love triangle"
+        },
+        {
+            "id": 4232,
+            "name": "melancholy"
+        },
+        {
+            "id": 10683,
+            "name": "coming of age"
+        },
+        {
+            "id": 10048,
+            "name": "unrequited love"
+        },
+        {
+            "id": 10809,
+            "name": "teenage girl"
+        },
+        {
+            "id": 156924,
+            "name": "tearjerker"
+        },
+        {
+            "id": 157303,
+            "name": "first love"
+        },
+        {
+            "id": 206671,
+            "name": "city life"
+        },
+        {
+            "id": 210608,
+            "name": "1990s"
+        },
+        {
+            "id": 305168,
+            "name": "depressed"
+        },
+        {
+            "id": 321464,
+            "name": "intense"
+        },
+        {
+            "id": 324429,
+            "name": "romantic"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/iL5eGI9ctHdUOV4yG6dyGKctSEX.jpg",
+            "id": 1466115,
+            "title": "Even If This Love Disappears Tonight",
+            "original_title": "오늘 밤, 세계에서 이 사랑이 사라진다 해도",
+            "overview": "A high school girl wakes up each day with no memory of yesterday. When she agrees to date a shy classmate, can their love grow with every new beginning?",
+            "poster_path": "/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 8.0236,
+            "release_date": "2025-12-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.46,
+            "vote_count": 214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ydRoUWyhAMv1FstnWlo5EiZWEbc.jpg",
+            "id": 239571,
+            "title": "The Best of Me",
+            "original_title": "The Best of Me",
+            "overview": "A pair of former high school sweethearts reunite after many years when they return to visit their small hometown.",
+            "poster_path": "/g11FuvrR8EH5ui16A8juKoavhb3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.7951,
+            "release_date": "2014-10-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.472,
+            "vote_count": 2726
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/igmyt6SSff898ApnrtOsKAY57jj.jpg",
+            "id": 554908,
+            "title": "Endings, Beginnings",
+            "original_title": "Endings, Beginnings",
+            "overview": "An artist dumps her longtime boyfriend, but her attempt to take a break from dating ends when she quickly finds herself in two passionate romances.",
+            "poster_path": "/5yfJDjTp6n8QXN0M9aGCYpqahXZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.6195,
+            "release_date": "2020-06-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.049,
+            "vote_count": 263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/545JJIh6Ow1EyraXwJtzsjBViqz.jpg",
+            "id": 54690,
+            "title": "Virgin Stripped Bare by Her Bachelors",
+            "original_title": "오! 수정",
+            "overview": "When filmmaker Young-soo introduces writer Soo-jung to his friend Jae-hoon, he unintentionally creates a love triangle. While Jae-hoon pursues Soo-jung, Young-soo clashes with his crew. Yet, just as the story appears to end, it starts all over again, this time with plenty of variations.",
+            "poster_path": "/nagbVuHU5XxUfIs5lKLEptjiIzg.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.1025,
+            "release_date": "2000-05-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.377,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg",
+            "id": 537915,
+            "title": "After",
+            "original_title": "After",
+            "overview": "Tessa Young is a dedicated student, dutiful daughter and loyal girlfriend to her high school sweetheart. Entering her first semester of college, Tessa's guarded world opens up when she meets Hardin Scott, a mysterious and brooding rebel who makes her question all she thought she knew about herself -- and what she wants out of life.",
+            "poster_path": "/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 14.9225,
+            "release_date": "2019-04-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.104,
+            "vote_count": 8548
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g27PNNr3GNo72hf86KIHjzx66H4.jpg",
+            "id": 226857,
+            "title": "Endless Love",
+            "original_title": "Endless Love",
+            "overview": "A privileged girl and a charismatic boy's instant desire sparks a love affair made only more reckless by parents trying to keep them apart.",
+            "poster_path": "/7WDqvNmy4p6IJx8JjvzOtaV2IRr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 7.1115,
+            "release_date": "2014-02-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.935,
+            "vote_count": 1779
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8yPSYhooj8nyBbmV3GVdLDwuE7e.jpg",
+            "id": 1079091,
+            "title": "It Ends with Us",
+            "original_title": "It Ends with Us",
+            "overview": "When a woman's first love suddenly reenters her life, her relationship with a charming, but abusive neurosurgeon is upended, and she realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+            "poster_path": "/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 11.3101,
+            "release_date": "2024-08-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 2012
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+            "id": 42188,
+            "title": "Never Let Me Go",
+            "original_title": "Never Let Me Go",
+            "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+            "poster_path": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                878
+            ],
+            "popularity": 6.0451,
+            "release_date": "2010-03-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 2509
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
+            "id": 1136867,
+            "title": "Materialists",
+            "original_title": "Materialists",
+            "overview": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+            "poster_path": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 14.5236,
+            "release_date": "2025-06-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.286,
+            "vote_count": 1388
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cYdHaKx6Ihj1BIvbxpCxIGXfZ02.jpg",
+            "id": 527641,
+            "title": "Five Feet Apart",
+            "original_title": "Five Feet Apart",
+            "overview": "Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control — all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness. There's an instant flirtation, though restrictions dictate that they must maintain a safe distance between them. As their connection intensifies, so does the temptation to throw the rules out the window and embrace that attraction.",
+            "poster_path": "/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 9.0904,
+            "release_date": "2019-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.215,
+            "vote_count": 5969
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u6aGN71Hx39iX8Uv4ILRRKHmAXc.jpg",
+            "id": 447362,
+            "title": "Life in a Year",
+            "original_title": "Life in a Year",
+            "overview": "A 17 year old finds out that his girlfriend is dying, so he sets out to give her an entire life, in the last year she has left.",
+            "poster_path": "/bP7u19opmHXYeTCUwGjlLldmUMc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.3967,
+            "release_date": "2020-11-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.222,
+            "vote_count": 1994
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ud5BO7gSbNo3E9oKPZeZ1McMdF1.jpg",
+            "id": 16022,
+            "title": "Nine Lives",
+            "original_title": "Nine Lives",
+            "overview": "Captives of the very relationships that define and sustain them, nine women resiliently meet the travails and disappointments of life.",
+            "poster_path": "/fq2Va94FZOImNwNvz0MII3K86Py.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.0005,
+            "release_date": "2005-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.112,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+            "id": 1100099,
+            "title": "We Live in Time",
+            "original_title": "We Live in Time",
+            "overview": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+            "poster_path": "/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 8.6287,
+            "release_date": "2024-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.226,
+            "vote_count": 1330
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fEzQMQwJQQmESQuEXYdIyz0qySm.jpg",
+            "id": 14834,
+            "title": "Not Easily Broken",
+            "original_title": "Not Easily Broken",
+            "overview": "A car accident and shifting affections test the bond between a married couple.",
+            "poster_path": "/8gmdToawg8gaSe9yWZjQ10v7noL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.3223,
+            "release_date": "2009-01-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9ItSJKC4O77Uk2yULvSYdV6F171.jpg",
+            "id": 17127,
+            "title": "The Object of My Affection",
+            "original_title": "The Object of My Affection",
+            "overview": "A pregnant New York social worker begins to develop romantic feelings for her gay best friend, and decides she'd rather raise her child with him, much to the dismay of her overbearing boyfriend.",
+            "poster_path": "/2mA6QEdzhsftNIFV11SGsQLJvJR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.9301,
+            "release_date": "1998-04-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 338
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8vn4eis4xk6cnOnAuAcyzPbqVb0.jpg",
+            "id": 745376,
+            "title": "Hello, Goodbye, and Everything in Between",
+            "original_title": "Hello, Goodbye, and Everything in Between",
+            "overview": "Clare and Aidan make a pact to break up before college — no regrets, no broken hearts. But will one epic goodbye date offer them a last chance at love?",
+            "poster_path": "/xyGsnp4Ld5PmJYYWnfuYYoENhHt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.0382,
+            "release_date": "2022-07-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.159,
+            "vote_count": 270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zQyNGzYD144sbFKrfBP8mFwqDxn.jpg",
+            "id": 6003,
+            "title": "Romeo and Juliet",
+            "original_title": "Romeo and Juliet",
+            "overview": "Romeo Montague and Juliet Capulet fall in love against the wishes of their feuding families. Driven by their passion, the young lovers defy their destiny and elope, only to suffer the ultimate tragedy.",
+            "poster_path": "/vaBQKLbSWkXGTOlsz9ARdJP4lvg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 8.5579,
+            "release_date": "1968-04-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 736
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kBZVBOB8aHpfXxvndx1UNeqmf5I.jpg",
+            "id": 547404,
+            "title": "House of Hummingbird",
+            "original_title": "벌새",
+            "overview": "14-year-old Eun-hee moves through life like a hummingbird searching for a taste of sweetness wherever she may find it. Ignored by her parents and abused by her brother, she finds her escape by roaming the neighborhood with her best friend, going on adventures, and exploring young love.",
+            "poster_path": "/ugWlKFgLnv8W6MmRmk0jnaJUSra.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.2412,
+            "release_date": "2019-08-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.542,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q0X5l5GfbqxKuof0XHEIuh94RKb.jpg",
+            "id": 397837,
+            "title": "Before I Fall",
+            "original_title": "Before I Fall",
+            "overview": "Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.",
+            "poster_path": "/eowzonDJMCuNXoJGVkP9Z7oCmiM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "popularity": 10.7612,
+            "release_date": "2017-03-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.966,
+            "vote_count": 3563
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pcBlnCcpnLZF7HF5b5poAGhCSD2.jpg",
+            "id": 22556,
+            "title": "The Yellow Handkerchief",
+            "original_title": "The Yellow Handkerchief",
+            "overview": "A road trip through Louisiana transforms three strangers who were originally brought together by their respective feelings of loneliness.",
+            "poster_path": "/nYX4UmT6sIQFjPReliYFZ2IuGCj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.1132,
+            "release_date": "2009-11-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.256,
+            "vote_count": 164
+        }
+    ]
+}

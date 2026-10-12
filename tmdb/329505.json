@@ -1,0 +1,693 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/tId87yE7JnQsQsqOpnGXjz9PoEe.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 329505,
+        "imdb_id": "tt0089790",
+        "origin_country": [
+            "IT"
+        ],
+        "original_language": "it",
+        "original_title": "Il peccato di Lola",
+        "overview": "A young man's dreams come true when the sexy new maid seduces him. But she has a secret that leads to trouble.",
+        "popularity": 67.4054,
+        "poster_path": "/qaJ4iQngrLbyz9OgaQkJLppDN6m.jpg",
+        "production_companies": [
+            {
+                "id": 131024,
+                "logo_path": null,
+                "name": "Geo Film",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "1984-05-04",
+        "revenue": 0,
+        "runtime": 88,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Lola's Secret",
+        "video": false,
+        "vote_average": 7.049,
+        "vote_count": 71
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 70962,
+            "known_for_department": "Acting",
+            "name": "Donatella Damiani",
+            "original_name": "Donatella Damiani",
+            "popularity": 6.0278,
+            "profile_path": "/c38UcLtlwAfedHgPiWJGjseIcnn.jpg",
+            "cast_id": 5,
+            "character": "Lola",
+            "credit_id": "54fc62d0925141238c002007",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 9306,
+            "known_for_department": "Acting",
+            "name": "Scott Coffey",
+            "original_name": "Scott Coffey",
+            "popularity": 0.9529,
+            "profile_path": "/86ShscBwPqnG5BuZxMkT6kc6ELv.jpg",
+            "cast_id": 6,
+            "character": "Albert",
+            "credit_id": "54fc62e6c3a36847110020cb",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 31991,
+            "known_for_department": "Acting",
+            "name": "Gabriele Tinti",
+            "original_name": "Gabriele Tinti",
+            "popularity": 1.0772,
+            "profile_path": "/f2NJidxvaqX8MQSv7MN36NDK1kY.jpg",
+            "cast_id": 7,
+            "character": "Angus",
+            "credit_id": "54fc62fdc3a36869fb00460a",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 548339,
+            "known_for_department": "Acting",
+            "name": "Peter Boom",
+            "original_name": "Peter Boom",
+            "popularity": 0.5879,
+            "profile_path": "/fUXNd4P8BuvQt37Zhpe8dzZz13P.jpg",
+            "cast_id": 10,
+            "character": "Simmons",
+            "credit_id": "54fc63389251413aa0004836",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 93126,
+            "known_for_department": "Acting",
+            "name": "Jacques Stany",
+            "original_name": "Jacques Stany",
+            "popularity": 0.6385,
+            "profile_path": "/lNPmGxFsR2Jtvovbr2AV6fAGjbl.jpg",
+            "cast_id": 11,
+            "character": "Tim",
+            "credit_id": "54fc636392514122be001f48",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 39166,
+            "known_for_department": "Acting",
+            "name": "Maurice Poli",
+            "original_name": "Maurice Poli",
+            "popularity": 0.6976,
+            "profile_path": "/zJ3Jezv8fbCXhUPbeY4PZ7El3rv.jpg",
+            "cast_id": 12,
+            "character": "Compratore della collana",
+            "credit_id": "54fc6389c3a36847110020d8",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1436748,
+            "known_for_department": "Acting",
+            "name": "Sandra Mantegna",
+            "original_name": "Sandra Mantegna",
+            "popularity": 0.4405,
+            "profile_path": "/9RKVKt7fbGmc7XoZvcuBbUu1rYM.jpg",
+            "cast_id": 13,
+            "character": "Madre di Alberto",
+            "credit_id": "54fc639cc3a3686998004509",
+            "order": 6
+        }
+    ],
+    "crew": [
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 226550,
+            "known_for_department": "Directing",
+            "name": "Bruno Gaburro",
+            "original_name": "Bruno Gaburro",
+            "popularity": 0.4846,
+            "profile_path": null,
+            "credit_id": "54fc6275c3a3681638001419",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 49894,
+            "known_for_department": "Writing",
+            "name": "Piero Regnoli",
+            "original_name": "Piero Regnoli",
+            "popularity": 0.7858,
+            "profile_path": "/z5P2Lp6qesiVys2J7J1I9gsfMdf.jpg",
+            "credit_id": "54fc62859251413aa000482c",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1202529,
+            "known_for_department": "Production",
+            "name": "Pino Buricchi",
+            "original_name": "Pino Buricchi",
+            "popularity": 0.3572,
+            "profile_path": null,
+            "credit_id": "54fc6299c3a36847110020c4",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1176841,
+            "known_for_department": "Sound",
+            "name": "Pino Pintucci",
+            "original_name": "Pino Pintucci",
+            "popularity": 0.1711,
+            "profile_path": null,
+            "credit_id": "54fc62a8c3a368479c001d65",
+            "department": "Sound",
+            "job": "Music"
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 1202528,
+            "known_for_department": "Camera",
+            "name": "Pasquale Fanetti",
+            "original_name": "Pasquale Fanetti",
+            "popularity": 0.0,
+            "profile_path": null,
+            "credit_id": "54fc62b9c3a36869fb004607",
+            "department": "Camera",
+            "job": "Director of Photography"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 10053,
+            "name": "sexploitation"
+        },
+        {
+            "id": 13097,
+            "name": "maid"
+        },
+        {
+            "id": 156688,
+            "name": "seductress"
+        },
+        {
+            "id": 180340,
+            "name": "voyeur"
+        },
+        {
+            "id": 186107,
+            "name": "sexual exploration"
+        },
+        {
+            "id": 190370,
+            "name": "erotic movie"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/1zgugDjeC24ip242hEETR9CaUar.jpg",
+            "id": 576004,
+            "title": "Porno",
+            "original_title": "Porno",
+            "overview": "When a group of naive teens working at a movie theater in a small Christian town discover a mysterious film hidden in its basement, they unleash an alluring succubus who gives them a sex education…written in blood.",
+            "poster_path": "/cnmR5lXN8xLDvvtqMviuRaKavnU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "popularity": 7.8494,
+            "release_date": "2019-06-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.984,
+            "vote_count": 428
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pYUwk30i62GN8gcKeQTuzdZGxHk.jpg",
+            "id": 527660,
+            "title": "Yes, God, Yes",
+            "original_title": "Yes, God, Yes",
+            "overview": "Alice, a young innocent Catholic girl, is tempted into masturbating after an AOL chat suddenly turns sexual, however is conflicted as the act would be considered a sin.",
+            "poster_path": "/69SYznq2mSbgKyQF3QHYwblmqAk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 6.7294,
+            "release_date": "2020-07-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 606
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9CbH2EktREWAur7XLBeFNFNr5BQ.jpg",
+            "id": 33583,
+            "title": "The Decameron",
+            "original_title": "Il Decameron",
+            "overview": "A young Sicilian is swindled twice, but ends up rich; a man poses as a deaf-mute in a convent of curious nuns; a woman must hide her lover when her husband comes home early; a scoundrel fools a priest on his deathbed; three brothers take revenge on their sister's lover; a young girl sleeps on the roof to meet her boyfriend at night; a group of painters wait for inspiration; a crafty priest attempts to seduce his friend's wife; and two friends make a pact to find out what happens after death.",
+            "poster_path": "/iL5mmuIL6fqFSWJeHE417WWrocz.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                36,
+                18,
+                35
+            ],
+            "popularity": 4.0109,
+            "release_date": "1971-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 358
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zOnb0WKYSrXI1GiIkHdC8qt4PT9.jpg",
+            "id": 5691,
+            "title": "The Canterbury Tales",
+            "original_title": "I racconti di Canterbury",
+            "overview": "Glimpses of Chaucer penning his famous work are sprinkled through this re-enactment of several of his stories.",
+            "poster_path": "/6mAUGtIc0PjvL1EhDwX6WMkUQpp.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35,
+                36,
+                18
+            ],
+            "popularity": 3.0677,
+            "release_date": "1972-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 234
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iNqjagxLOK3OMC7znXqwBlGAThV.jpg",
+            "id": 21500,
+            "title": "Class",
+            "original_title": "Class",
+            "overview": "Naive Midwestern prep student Jonathan bonds with his more worldly roommate, Skip, who takes the small-town boy under his wing. At Skip's urging, the inexperienced Jonathan is emboldened to seek out older women in the cocktail lounges of nearby Chicago, where he meets and beds the alluring Ellen, who unfortunately turns out to be Skip's mother. The division between the friends is further deepened when a cheating scandal engulfs the school.",
+            "poster_path": "/iDFeOVxNOSmAcsdmvtt4kZWB8GA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 3.4568,
+            "release_date": "1983-07-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.938,
+            "vote_count": 208
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
+            "id": 31767,
+            "title": "The Devils",
+            "original_title": "The Devils",
+            "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​",
+            "poster_path": "/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                36,
+                27
+            ],
+            "popularity": 4.4615,
+            "release_date": "1971-07-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.431,
+            "vote_count": 443
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qnx8XZfvCNhRZCWThq2UW2BV5Gb.jpg",
+            "id": 157099,
+            "title": "Better Living Through Chemistry",
+            "original_title": "Better Living Through Chemistry",
+            "overview": "A straight-laced pharmacist's uneventful life spirals out of control when he starts an affair with a trophy wife customer who takes him on a joyride involving sex, drugs and possibly murder.",
+            "poster_path": "/9PpwTNDsXnuGHcwBdpgybVSwsFN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 3.0675,
+            "release_date": "2014-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.907,
+            "vote_count": 324
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yizHZ1ynp8INr1O6QNIg5yBLGtW.jpg",
+            "id": 436459,
+            "title": "Almost Friends",
+            "original_title": "Almost Friends",
+            "overview": "A man in his mid-20s, still living at home with his mother and stepfather, puts all his eggs in one basket: the girl who works at his local coffee shop. The problem is, she has a serious boyfriend. As they become closer, the line between friendship and intimacy is blurred, and the situation forces both to examine where they are in their lives.",
+            "poster_path": "/uJMknKxZagbhAYiiMjEaFnsZzRR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 2.3742,
+            "release_date": "2017-11-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.309,
+            "vote_count": 259
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rbHjuU8zk7uTDVlxAFuxrTHEdds.jpg",
+            "id": 51996,
+            "title": "Thin Ice",
+            "original_title": "Thin Ice",
+            "overview": "A dishonest insurance salesman's life quickly disintegrates during a Wisconsin winter when he teams up with a psychopath to steal a rare violin at the home of a reclusive farmer.",
+            "poster_path": "/15KTuJlR8GclVrgX0g58oACqiqv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "popularity": 3.3618,
+            "release_date": "2012-02-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/edGEr8fTufeIisaTSJi19D3loYN.jpg",
+            "id": 39893,
+            "title": "The Nanny",
+            "original_title": "The Nanny",
+            "overview": "Nanny, a London family's live-in maid, brings morbid 10-year-old Joey back from the psychiatric ward he's been in for two years, since the death of his younger sister. Joey refuses to eat any food Nanny's prepared or take a bath with her in the room. He also demands to sleep in a room with a lock. Joey's parents -- workaholic Bill and neurotic Virgie -- are sure Joey is disturbed, but he may have good reason to be terrified of Nanny.",
+            "poster_path": "/2MjaiPWaZVLWnJi8FxiIaXcjvB5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                27
+            ],
+            "popularity": 1.8771,
+            "release_date": "1965-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 111
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AbPxK4IMO9eNUgJYeSOfOjHxfkz.jpg",
+            "id": 95755,
+            "title": "Small Apartments",
+            "original_title": "Small Apartments",
+            "overview": "When a clumsy deadbeat accidentally kills his landlord, he must do everything in his power to hide the body, only to find that the distractions of lust, the death of his beloved brother, and a crew of misfit characters force him on a journey where a fortune awaits him.",
+            "poster_path": "/z7j98OiCC6v0gOXJ9VF5t2kV169.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "popularity": 2.351,
+            "release_date": "2012-03-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aX1P75MWK5BzjqPh8fR8HQoX27s.jpg",
+            "id": 1029955,
+            "title": "Kinds of Kindness",
+            "original_title": "Kinds of Kindness",
+            "overview": "A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+            "poster_path": "/50lPmjIpDs8gKfgK7fPIeKzpllh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                27
+            ],
+            "popularity": 7.8948,
+            "release_date": "2024-05-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1320
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pBCeeGfLmpJGtfQgik62xI0Bnej.jpg",
+            "id": 21362,
+            "title": "High Spirits",
+            "original_title": "High Spirits",
+            "overview": "When a hotelier attempts to fill the chronic vacancies at his castle by launching an advertising campaign that falsely portrays the property as haunted, two actual ghosts show up and end up falling for two guests.",
+            "poster_path": "/88sqqQrltIok7ayhs21mAHoSrcK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                35,
+                27
+            ],
+            "popularity": 3.1541,
+            "release_date": "1988-11-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.823,
+            "vote_count": 248
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n0b9FqOTm58LUaDjeluVim3WBJ1.jpg",
+            "id": 2239,
+            "title": "Hallam Foe",
+            "original_title": "Hallam Foe",
+            "overview": "Hallam's talent for spying on people reveals his darkest fears-and his most peculiar desires. Driven to expose the true cause of his mother's death, he instead finds himself searching the rooftops of the city for love.",
+            "poster_path": "/2RzhxbVNu4BaPx0ETCiuNUpjJf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                53
+            ],
+            "popularity": 5.3947,
+            "release_date": "2007-08-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.679,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6C3A8UH5oEoqFDq8L3qKv332t2n.jpg",
+            "id": 36236,
+            "title": "The Witches",
+            "original_title": "Le streghe",
+            "overview": "Five short stories loosely dealing with the roles of women in society. A superstar actress travels to a mountain resort, only to evoke jealousy from women and lust from men. A woman offers to take an injured man to the hospital. A widowed father and his son seek for a new wife/mother. A man seeks revenge for a woman's honor. A bored housewife tries to explain to her husband that he's not as romantic as he used to be.",
+            "poster_path": "/7ptxCzOW7aqvXKTWV0fxwnZMH8M.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 2.452,
+            "release_date": "1967-02-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gMivgcDVJmp8DTwMZ2YLhkJV09V.jpg",
+            "id": 1215918,
+            "title": "Blackwater Lane",
+            "original_title": "Blackwater Lane",
+            "overview": "An American school teacher in England drives past an abandoned car late one night, unaware that the driver was the victim of a murder. As she comes to terms with the realization, seemingly supernatural events start to affect the gothic manor she lives in with her husband.",
+            "poster_path": "/tdUFd56CFC0o6XoAkn4WRNHwqod.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18,
+                9648,
+                27,
+                80
+            ],
+            "popularity": 5.3994,
+            "release_date": "2024-06-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.031,
+            "vote_count": 147
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dHt3xZrV3o5FgvFoGZ8g7dIObIR.jpg",
+            "id": 22543,
+            "title": "Dead Ringer",
+            "original_title": "Dead Ringer",
+            "overview": "The working class twin sister of a callous wealthy woman impulsively murders her out of revenge and assumes the identity of the dead woman. But impersonating her dead twin is more complicated and risky than she anticipated.",
+            "poster_path": "/3gFIovyx38syFIY6kAl1FcwhWMd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                27
+            ],
+            "popularity": 2.6043,
+            "release_date": "1964-01-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.878,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g16gB5MVOSGWW5k3yMbYpAvS9Qf.jpg",
+            "id": 15402,
+            "title": "The Notorious Bettie Page",
+            "original_title": "The Notorious Bettie Page",
+            "overview": "Bettie Page grew up in a conservative religious family in Tennessee and became a photo model sensation in 1950s New York. Bettie's legendary pin-up photos made her the target of a Senate investigation into pornography, and transformed her into an erotic icon who continues to enthrall fans to this day.",
+            "poster_path": "/jRzcb9O8WdGmJdz8EESEaBEuZZJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 2.8165,
+            "release_date": "2006-04-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.295,
+            "vote_count": 190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uoGTKAi4qTk4lfOlbSkVKZA72lG.jpg",
+            "id": 27834,
+            "title": "CQ",
+            "original_title": "CQ",
+            "overview": "A young filmmaker in 1960s Paris juggles directing a cheesy sci-fi debacle, directing his own personal art film, coping with his crumbling relationship with his girlfriend, and a new-found infatuation with the sci-fi film's starlet.",
+            "poster_path": "/aFAPOT77Jh7lNWYtojC6nxi4CpJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 4.3435,
+            "release_date": "2001-05-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.905,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dLJs1CprSFK2o1QtI0jgoH9yypC.jpg",
+            "id": 556867,
+            "title": "Breaking News in Yuba County",
+            "original_title": "Breaking News in Yuba County",
+            "overview": "An overlooked pencil-pusher catches her husband in bed with another woman, the shock of which causes him to die of a heart attack. So she buries his body and takes advantage of the growing celebrity status that comes from having a missing husband. But she quickly finds herself in over her head, dodging cops and criminals, all while trying to keep the truth from her sister, a local news anchor who’s desperate for a story.",
+            "poster_path": "/pMyCYtgfBmMisX3RFc5eH6zIV5Y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                80
+            ],
+            "popularity": 3.4152,
+            "release_date": "2021-01-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 232
+        }
+    ]
+}

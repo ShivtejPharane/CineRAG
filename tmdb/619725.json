@@ -1,0 +1,698 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/7gaUdupjpU24beFxQiZPuXvkoOc.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            }
+        ],
+        "homepage": "",
+        "id": 619725,
+        "imdb_id": null,
+        "origin_country": [
+            "PT"
+        ],
+        "original_language": "pt",
+        "original_title": "Gatunagem",
+        "overview": "Two experienced sneakers are planning to steal their lives, but the house may be busy.",
+        "popularity": 10.5033,
+        "poster_path": "/uA1HIxqZEKKwISs6vnThWFKOVs7.jpg",
+        "production_companies": [
+            {
+                "id": 125385,
+                "logo_path": null,
+                "name": "Ópia Filmes",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [],
+        "release_date": "2018-09-04",
+        "revenue": 0,
+        "runtime": 9,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Thievery",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2289202,
+            "known_for_department": "Acting",
+            "name": "Mariana Soeiro",
+            "original_name": "Mariana Soeiro",
+            "popularity": 0.882,
+            "profile_path": "/oboncfMcuVR5XE4VqPP5b05OFy6.jpg",
+            "cast_id": 1,
+            "character": "Filha",
+            "credit_id": "5dd05fbbb76cbb001679706f",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2459725,
+            "known_for_department": "Acting",
+            "name": "Luciano-Augusto",
+            "original_name": "Luciano-Augusto",
+            "popularity": 0.7608,
+            "profile_path": null,
+            "cast_id": 2,
+            "character": "Pai",
+            "credit_id": "5dd05fd2b76cbb001379afe9",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2459726,
+            "known_for_department": "Acting",
+            "name": "Thiago Juraski",
+            "original_name": "Thiago Juraski",
+            "popularity": 0.3115,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "Marido",
+            "credit_id": "5dd05fe9255dba000fdbb85c",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2459727,
+            "known_for_department": "Acting",
+            "name": "Vera Cardoso",
+            "original_name": "Vera Cardoso",
+            "popularity": 0.897,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "Esposa",
+            "credit_id": "5dd0600079a1c300134c551f",
+            "order": 3
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2653299,
+            "known_for_department": "Camera",
+            "name": "Michel Rautmann",
+            "original_name": "Michel Rautmann",
+            "popularity": 0.4235,
+            "profile_path": "/4XAZIsnXZAP0OlJBY6BqNdTKqMA.jpg",
+            "credit_id": "635cc3f8d96c3c007a98893a",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2459730,
+            "known_for_department": "Sound",
+            "name": "Vinicius Contiero",
+            "original_name": "Vinicius Contiero",
+            "popularity": 0.4702,
+            "profile_path": null,
+            "credit_id": "5dd0604e79a1c300104bf465",
+            "department": "Sound",
+            "job": "Sound Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2459731,
+            "known_for_department": "Camera",
+            "name": "Rafael Neri",
+            "original_name": "Rafael Neri",
+            "popularity": 0.2396,
+            "profile_path": null,
+            "credit_id": "5dd0605f57d3780018d7321e",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2375826,
+            "known_for_department": "Directing",
+            "name": "Lucas Baldasso",
+            "original_name": "Lucas Baldasso",
+            "popularity": 0.1991,
+            "profile_path": "/oEO29UQCrjInEpyN7JzpMPKuXkR.jpg",
+            "credit_id": "5dd06015255dba000fdbb89d",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2456608,
+            "known_for_department": "Directing",
+            "name": "Rayane Taguti",
+            "original_name": "Rayane Taguti",
+            "popularity": 0.3568,
+            "profile_path": null,
+            "credit_id": "5ecd14e2021cee00218b2b3e",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2619413,
+            "known_for_department": "Directing",
+            "name": "Rodrigo Rabello",
+            "original_name": "Rodrigo Rabello",
+            "popularity": 0.2125,
+            "profile_path": null,
+            "credit_id": "5ecd5c5019690c001e713cc5",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2459728,
+            "known_for_department": "Directing",
+            "name": "Lucas Mancini",
+            "original_name": "Lucas Mancini",
+            "popularity": 0.377,
+            "profile_path": "/kup7YnRa1lA36dLx1j63jmPmusf.jpg",
+            "credit_id": "5ecd5c658efe73001f158df2",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2619413,
+            "known_for_department": "Directing",
+            "name": "Rodrigo Rabello",
+            "original_name": "Rodrigo Rabello",
+            "popularity": 0.2125,
+            "profile_path": null,
+            "credit_id": "5ecd5c5b8efe73001e15bf1e",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2375826,
+            "known_for_department": "Directing",
+            "name": "Lucas Baldasso",
+            "original_name": "Lucas Baldasso",
+            "popularity": 0.1991,
+            "profile_path": "/oEO29UQCrjInEpyN7JzpMPKuXkR.jpg",
+            "credit_id": "5ecf25445c071b001e294f83",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1972182,
+            "known_for_department": "Directing",
+            "name": "Lucas Carvalho",
+            "original_name": "Lucas Carvalho",
+            "popularity": 0.2872,
+            "profile_path": null,
+            "credit_id": "5f0ba1a1efe37c0035c4adf3",
+            "department": "Production",
+            "job": "Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 642,
+            "name": "robbery"
+        },
+        {
+            "id": 10051,
+            "name": "heist"
+        },
+        {
+            "id": 256458,
+            "name": "gatunagem"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/mGG8qqSBK7EKN2cOVBlVef1Y3N4.jpg",
+            "id": 12085,
+            "title": "Mad Money",
+            "original_title": "Mad Money",
+            "overview": "Three female employees of the Federal Reserve plot to steal money that is about to be destroyed.",
+            "poster_path": "/z6b6rQ1ZFEkM4tSt84yPtdAioCO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                28,
+                80
+            ],
+            "popularity": 4.7138,
+            "release_date": "2008-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.463,
+            "vote_count": 725
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p34WRcgkN2QIHcds5FtFiSpV3PC.jpg",
+            "id": 512195,
+            "title": "Red Notice",
+            "original_title": "Red Notice",
+            "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+            "poster_path": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "popularity": 13.8216,
+            "release_date": "2021-11-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.726,
+            "vote_count": 6538
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gVgpNGHkgK8iPfKnc89jL8kmKsD.jpg",
+            "id": 24528,
+            "title": "Killer Bean Forever",
+            "original_title": "Killer Bean Forever",
+            "overview": "When things go bad in Beantown, top assassin Killer Bean is called to clean-up the mess. Detective Cromwell finds himself in the middle between Killer Bean and mob boss Cappuccino.",
+            "poster_path": "/qZTCweihd6H8IM2W1Bgk7M3HKrf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                53
+            ],
+            "popularity": 3.4348,
+            "release_date": "2008-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.156,
+            "vote_count": 192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vmDpLofmDgDx3KXTNzRc6dYROim.jpg",
+            "id": 1969,
+            "title": "Bandidas",
+            "original_title": "Bandidas",
+            "overview": "When a ruthless robber baron takes away everything they cherish, a rough-and-tumble, idealistic peasant and a sophisticated heiress embark on a quest for justice, vengeance…and a few good heists.",
+            "poster_path": "/31wgXG6OxDaXbp5IzyNoUJdVS5e.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                37,
+                80
+            ],
+            "popularity": 3.8229,
+            "release_date": "2006-01-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 1185
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vnlfU43DkOI3x4mnjrW7zVrONAy.jpg",
+            "id": 404733,
+            "title": "Overdrive",
+            "original_title": "Overdrive",
+            "overview": "Master car thieves square off against French gangsters in the South of France with money, women and lives all on the line.",
+            "poster_path": "/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                9648
+            ],
+            "popularity": 6.8557,
+            "release_date": "2017-06-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.099,
+            "vote_count": 1018
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mfAyTW6lEMWulqocDbiPyfDcMRD.jpg",
+            "id": 26180,
+            "title": "Excess Baggage",
+            "original_title": "Excess Baggage",
+            "overview": "A rich brat fakes her own kidnapping, but in the process ends up locked in the trunk of a car that gets stolen.",
+            "poster_path": "/dfKaCA32iSkEQiu37drvIAZWZFz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "popularity": 2.7597,
+            "release_date": "1997-08-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.127,
+            "vote_count": 260
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iZKF6VKwTs3m0T664NePlKr7yeM.jpg",
+            "id": 9260,
+            "title": "Welcome to Collinwood",
+            "original_title": "Welcome to Collinwood",
+            "overview": "Five hapless inner-city low-lifes attempt to burgle a pawnbroker's safe, but end up being plagued by bad luck.",
+            "poster_path": "/7XyvoOopwWwDCWOcItOQiAwm30b.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 2.8451,
+            "release_date": "2002-10-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.115,
+            "vote_count": 252
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AaModY6YpQmEFzG56ALP1PFLPUU.jpg",
+            "id": 955916,
+            "title": "Lift",
+            "original_title": "Lift",
+            "overview": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+            "poster_path": "/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "popularity": 7.9572,
+            "release_date": "2024-01-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.422,
+            "vote_count": 1481
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
+            "id": 1363123,
+            "title": "The Family Plan 2",
+            "original_title": "The Family Plan 2",
+            "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
+            "poster_path": "/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "popularity": 12.5816,
+            "release_date": "2025-11-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.535,
+            "vote_count": 621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mQngZ4DtXqdkX9fOQRsm9iym5OW.jpg",
+            "id": 626393,
+            "title": "The Sleepover",
+            "original_title": "The Sleepover",
+            "overview": "Two siblings who discover their seemingly normal mom is a former thief in witness protection. Mom is forced to pull one last job, and the kids team up to rescue her over the course of an action-packed night.",
+            "poster_path": "/9iEc34Qje2V3FZnrSXKfZsbiHjW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                28
+            ],
+            "popularity": 3.0794,
+            "release_date": "2020-08-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.378,
+            "vote_count": 448
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w5XLCxf5WzsqGC94r4O2wOlCY59.jpg",
+            "id": 1319895,
+            "title": "Hostile Takeover",
+            "original_title": "Hostile Takeover",
+            "overview": "Follows Pete, a professional hitman, as he faces a group of assassins after the boss of a crime syndicate suspects disloyalty due to his attendance at Workaholics Anonymous meetings.",
+            "poster_path": "/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "popularity": 4.5426,
+            "release_date": "2025-08-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.891,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDKuTzBVpJPqFc39H4hctrle87T.jpg",
+            "id": 11001,
+            "title": "Blue Streak",
+            "original_title": "Blue Streak",
+            "overview": "Miles Logan is a jewel thief who just hit the big time by stealing a huge diamond. However, after two years in jail, he comes to find out that he hid the diamond in a police building that was being built at the time of the robbery. In an attempt to regain his diamond, he poses as an LAPD detective.",
+            "poster_path": "/jek2osBtFhzU6Hjj7yp1egOtbqO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "popularity": 9.3142,
+            "release_date": "1999-09-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.512,
+            "vote_count": 1674
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x55HTVEkwqWB6TZ5HP6lSlpZjZg.jpg",
+            "id": 829400,
+            "title": "Psych 3: This Is Gus",
+            "original_title": "Psych 3: This Is Gus",
+            "overview": "In preparation for a shotgun wedding before the birth of Baby Guster, Shawn and Gus go rogue in an attempt to track down Selene’s estranged husband, as Lassiter grapples with the future of his career.",
+            "poster_path": "/9tJRcfdQKmq8krlxeJcQB33lvKA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80,
+                9648,
+                10770
+            ],
+            "popularity": 2.4192,
+            "release_date": "2021-11-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.867,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jxeIgOEY5pbl9aMRExGawV6xkyO.jpg",
+            "id": 119738,
+            "title": "Thunderstruck",
+            "original_title": "Thunderstruck",
+            "overview": "After NBA star Kevin Durant switches talent with 16 year old Brian, the teenager becomes the star of his high school team, but Durant starts struggling and eventually learns an important lesson.",
+            "poster_path": "/lR1ssqRzslQx9WtTOKnfgqbNB1y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "popularity": 3.0421,
+            "release_date": "2012-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.187,
+            "vote_count": 254
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bAnSOcJgNmV9aaJmFkTmkngCF3J.jpg",
+            "id": 5506,
+            "title": "The Ladykillers",
+            "original_title": "The Ladykillers",
+            "overview": "Five oddball criminals planning a bank robbery rent rooms on a cul-de-sac from an octogenarian widow under the pretext that they are classical musicians.",
+            "poster_path": "/9LJ6ZV59Q92LAJAbmb7xm9dUBGU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 3.5792,
+            "release_date": "1955-12-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.278,
+            "vote_count": 559
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uE0JxB9pdxNtxFymNg6cImZBY5Z.jpg",
+            "id": 19017,
+            "title": "Dirty Mary Crazy Larry",
+            "original_title": "Dirty Mary Crazy Larry",
+            "overview": "Down-on-their-luck racers Larry and Deke steal from a supermarket manager to buy a car that will help them advance their racing chances. Their escape does not go as planned when Larry's one-night stand, Mary, tags along for the ride.",
+            "poster_path": "/8hLvJUBEFFQHgiJIPXywRD9KZft.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                80,
+                35,
+                53
+            ],
+            "popularity": 2.4904,
+            "release_date": "1974-05-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.371,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/O50sdY6JEwpU7cQRaFtTO9eSAk.jpg",
+            "id": 1499984,
+            "title": "Gladiator Underground",
+            "original_title": "Gladiator Underground",
+            "overview": "Two brothers compete in the world's deadliest underground fighting tournament, where they must decide whether to play by the rules or to cast their honor aside and team up to bring down the dark syndicate running the tournament.",
+            "poster_path": "/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28
+            ],
+            "popularity": 5.3477,
+            "release_date": "2025-08-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.633,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xXY4lTRNJXXuIyuTzickQHPUvqi.jpg",
+            "id": 10034,
+            "title": "High Heels and Low Lifes",
+            "original_title": "High Heels and Low Lifes",
+            "overview": "Two friends are drawn into a seedy underworld of extortion and violence when they try to blackmail a gang of bank robbers.",
+            "poster_path": "/mXyhSM5xuTTKcD7vmdYkqspYWzC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                35
+            ],
+            "popularity": 2.1691,
+            "release_date": "2001-07-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eAjww5OTXdHmJJX6M7LwPnC4dRC.jpg",
+            "id": 42242,
+            "title": "Swashbuckler",
+            "original_title": "Swashbuckler",
+            "overview": "A pirate and a hot-tempered noblewoman join forces to protect Jamaica from a tyrant.",
+            "poster_path": "/yeC8gs83BJfs1NENk5sPNyXGGxm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                28,
+                35
+            ],
+            "popularity": 2.1631,
+            "release_date": "1976-07-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iG8HRE45X13dxZSzSgFcEms85O5.jpg",
+            "id": 27590,
+            "title": "Gotcha!",
+            "original_title": "Gotcha!",
+            "overview": "A student on a trip to France is tricked into smuggling secrets across the Iron Curtain by a sexy spy.",
+            "poster_path": "/8qHvL1w0NYemVeppB1UKlAd1pS0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "popularity": 2.5528,
+            "release_date": "1985-05-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.952,
+            "vote_count": 168
+        }
+    ]
+}

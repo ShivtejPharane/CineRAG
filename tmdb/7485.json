@@ -1,0 +1,1612 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/uy2trYgO8MOQfQXlvMaLhBnkUqg.jpg",
+        "belongs_to_collection": null,
+        "budget": 61000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.mim-essay.com/",
+        "id": 7485,
+        "imdb_id": "tt0822854",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Shooter",
+        "overview": "A top Marine sniper, Bob Lee Swagger, leaves the military after a mission goes horribly awry and disappears, living in seclusion. He is coaxed back into service after a high-profile government official convinces him to help thwart a plot to kill the President of the United States. Ultimately double-crossed and framed for the attempt, Swagger becomes the target of a nationwide manhunt. He goes on the run to track the real killer and find out who exactly set him up, and why, eventually seeking revenge against some of the most powerful and corrupt leaders in the free world.",
+        "popularity": 15.696,
+        "poster_path": "/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg",
+        "production_companies": [
+            {
+                "id": 4,
+                "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+                "name": "Paramount Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 435,
+                "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+                "name": "di Bonaventura Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 57421,
+                "logo_path": null,
+                "name": "Grosvenor Park Impact Productions",
+                "origin_country": "CA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2007-03-22",
+        "revenue": 95700000,
+        "runtime": 124,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Yesterday was about honor. Today is about justice.",
+        "title": "Shooter",
+        "video": false,
+        "vote_average": 7.129,
+        "vote_count": 5548
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 13240,
+            "known_for_department": "Acting",
+            "name": "Mark Wahlberg",
+            "original_name": "Mark Wahlberg",
+            "popularity": 6.492,
+            "profile_path": "/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg",
+            "cast_id": 1,
+            "character": "Bob Lee Swagger",
+            "credit_id": "52fe447fc3a36847f8099c23",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 454,
+            "known_for_department": "Acting",
+            "name": "Michael Peña",
+            "original_name": "Michael Peña",
+            "popularity": 4.6127,
+            "profile_path": "/afs4PCiwn8LR93a10drULLVeVLo.jpg",
+            "cast_id": 2,
+            "character": "Nick Memphis",
+            "credit_id": "52fe447fc3a36847f8099c27",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2047,
+            "known_for_department": "Acting",
+            "name": "Danny Glover",
+            "original_name": "Danny Glover",
+            "popularity": 3.1877,
+            "profile_path": "/2PJbpI9AyuhG4SWUIDxZwuBnuMb.jpg",
+            "cast_id": 3,
+            "character": "Colonel Isaac Johnson",
+            "credit_id": "52fe447fc3a36847f8099c2b",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 51072,
+            "known_for_department": "Acting",
+            "name": "Kate Mara",
+            "original_name": "Kate Mara",
+            "popularity": 5.782,
+            "profile_path": "/xZYD8wYHMmN9dMMPiohnKEFoTGx.jpg",
+            "cast_id": 4,
+            "character": "Sarah Fenn",
+            "credit_id": "52fe447fc3a36847f8099c2f",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 13550,
+            "known_for_department": "Acting",
+            "name": "Elias Koteas",
+            "original_name": "Elias Koteas",
+            "popularity": 3.6276,
+            "profile_path": "/luevjlGy0tYQbAbcz0mVxCYqegH.jpg",
+            "cast_id": 5,
+            "character": "Jack Payne",
+            "credit_id": "52fe447fc3a36847f8099c33",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 25702,
+            "known_for_department": "Acting",
+            "name": "Rhona Mitra",
+            "original_name": "Rhona Mitra",
+            "popularity": 5.3096,
+            "profile_path": "/1YThpok3Wk3BBy0pcUTcpuZyOBB.jpg",
+            "cast_id": 6,
+            "character": "Alourdes Galindo",
+            "credit_id": "52fe447fc3a36847f8099c37",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52702,
+            "known_for_department": "Acting",
+            "name": "Jonathan Walker",
+            "original_name": "Jonathan Walker",
+            "popularity": 0.9084,
+            "profile_path": "/wL118ymDSgRvc4b43080yz6OMi.jpg",
+            "cast_id": 7,
+            "character": "Louis Dobbler",
+            "credit_id": "52fe447fc3a36847f8099c3b",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 51036,
+            "known_for_department": "Acting",
+            "name": "Louis Ferreira",
+            "original_name": "Louis Ferreira",
+            "popularity": 1.8927,
+            "profile_path": "/7xUTd7N6XbB3uWvob12qpmGzPzA.jpg",
+            "cast_id": 8,
+            "character": "Howard Purnell",
+            "credit_id": "52fe447fc3a36847f8099c3f",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1118,
+            "known_for_department": "Acting",
+            "name": "Rade Šerbedžija",
+            "original_name": "Rade Šerbedžija",
+            "popularity": 2.6189,
+            "profile_path": "/1mJC5oD3pLH1vAS3wJ4sGNxYeqJ.jpg",
+            "cast_id": 10,
+            "character": "Michael Sandor",
+            "credit_id": "52fe447fc3a36847f8099c47",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15455,
+            "known_for_department": "Acting",
+            "name": "Tate Donovan",
+            "original_name": "Tate Donovan",
+            "popularity": 2.6302,
+            "profile_path": "/1SVx1zVO2lR5mUoduURUL64mIDH.jpg",
+            "cast_id": 9,
+            "character": "Russ Turner",
+            "credit_id": "52fe447fc3a36847f8099c43",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52703,
+            "known_for_department": "Acting",
+            "name": "A.C. Peterson",
+            "original_name": "A.C. Peterson",
+            "popularity": 1.3594,
+            "profile_path": "/hS5aFiAjJscsuJbxcxh2lmj5IF.jpg",
+            "cast_id": 11,
+            "character": "Officer Stanley Timmons",
+            "credit_id": "52fe447fc3a36847f8099c4b",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 13726,
+            "known_for_department": "Acting",
+            "name": "Ned Beatty",
+            "original_name": "Ned Beatty",
+            "popularity": 2.1467,
+            "profile_path": "/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg",
+            "cast_id": 12,
+            "character": "Senator Charles F. Meachum",
+            "credit_id": "52fe447fc3a36847f8099c4f",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52704,
+            "known_for_department": "Acting",
+            "name": "Lane Garrison",
+            "original_name": "Lane Garrison",
+            "popularity": 1.4035,
+            "profile_path": "/KhZIIPwqUzRavrWqCnZ47MHwYf.jpg",
+            "cast_id": 13,
+            "character": "Donnie Fenn",
+            "credit_id": "52fe447fc3a36847f8099c53",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52705,
+            "known_for_department": "Acting",
+            "name": "Zak Santiago",
+            "original_name": "Zak Santiago",
+            "popularity": 1.3893,
+            "profile_path": "/hzFNa8a6rAD9FtWqJoXj20F2xdq.jpg",
+            "cast_id": 14,
+            "character": "Senior Agent",
+            "credit_id": "52fe447fc3a36847f8099c57",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 52706,
+            "known_for_department": "Acting",
+            "name": "Michael-Ann Connor",
+            "original_name": "Michael-Ann Connor",
+            "popularity": 0.6332,
+            "profile_path": null,
+            "cast_id": 15,
+            "character": "Junior Agent",
+            "credit_id": "52fe447fc3a36847f8099c5b",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1346985,
+            "known_for_department": "Acting",
+            "name": "Shawn Reis",
+            "original_name": "Shawn Reis",
+            "popularity": 0.5872,
+            "profile_path": null,
+            "cast_id": 65,
+            "character": "Underling",
+            "credit_id": "694310af43ebae64cfd58fa1",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 28004,
+            "known_for_department": "Acting",
+            "name": "Brian Markinson",
+            "original_name": "Brian Markinson",
+            "popularity": 1.0446,
+            "profile_path": "/26fa857UrEU4aCMHVQbpvNOGuKv.jpg",
+            "cast_id": 39,
+            "character": "Attorney General Russert",
+            "credit_id": "64406f81e24b9302fb9f52c8",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 77039,
+            "known_for_department": "Acting",
+            "name": "Michael St. John Smith",
+            "original_name": "Michael St. John Smith",
+            "popularity": 0.8989,
+            "profile_path": "/jzTyMkE0JvBzfTjhmR5xRGUVhOC.jpg",
+            "cast_id": 40,
+            "character": "FBI Director Brandt",
+            "credit_id": "64406f9c5ad76b0358b2e30d",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21265,
+            "known_for_department": "Acting",
+            "name": "Dean Mckenzie",
+            "original_name": "Dean Mckenzie",
+            "popularity": 0.9966,
+            "profile_path": "/h5m4cIGvMCu4GYHQ6GLr72nwUFm.jpg",
+            "cast_id": 42,
+            "character": "Archbishop Desmond Mutumbo",
+            "credit_id": "64407034e2bca8035b42640a",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 85922,
+            "known_for_department": "Acting",
+            "name": "Tom Butler",
+            "original_name": "Tom Butler",
+            "popularity": 1.1478,
+            "profile_path": "/sMDuFSvna90gGV0jkOK7PDzQC8g.jpg",
+            "cast_id": 35,
+            "character": "President",
+            "credit_id": "633a4b064f33ad0082ce68cb",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1015896,
+            "known_for_department": "Acting",
+            "name": "Adrian G. Griffiths",
+            "original_name": "Adrian G. Griffiths",
+            "popularity": 0.8799,
+            "profile_path": "/poAUvX24DOwr0xDIzwIWqCH1MY8.jpg",
+            "cast_id": 66,
+            "character": "Ben Davis (as Adrian Hughes)",
+            "credit_id": "69431189d61b29e028d76290",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1426764,
+            "known_for_department": "Art",
+            "name": "Darrin Massey",
+            "original_name": "Darrin Massey",
+            "popularity": 0.3256,
+            "profile_path": null,
+            "cast_id": 43,
+            "character": "Frank Russo",
+            "credit_id": "644070521750510341a216ec",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 37698,
+            "known_for_department": "Acting",
+            "name": "Mackenzie Gray",
+            "original_name": "Mackenzie Gray",
+            "popularity": 0.9987,
+            "profile_path": "/yGU7RTVvI9fR9BpCt5TePYOpx7W.jpg",
+            "cast_id": 67,
+            "character": "Dave Simmons",
+            "credit_id": "694311b08785f9cfad04ed44",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 76136,
+            "known_for_department": "Acting",
+            "name": "Levon Helm",
+            "original_name": "Levon Helm",
+            "popularity": 1.3716,
+            "profile_path": "/zc34tb129p4lBJpNaHR657tWxVv.jpg",
+            "cast_id": 37,
+            "character": "Mr. Rate",
+            "credit_id": "6364f9d41e6489007d3581cd",
+            "order": 23
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1178114,
+            "known_for_department": "Acting",
+            "name": "Rebecca Toolan",
+            "original_name": "Rebecca Toolan",
+            "popularity": 0.6129,
+            "profile_path": "/21qQi0CvDnX2tYJEyyYxXRx1hoy.jpg",
+            "cast_id": 41,
+            "character": "Mrs. Rate",
+            "credit_id": "64406fc8b3f6f502fc9cfd60",
+            "order": 24
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1475834,
+            "known_for_department": "Acting",
+            "name": "Trish Allen",
+            "original_name": "Trish Allen",
+            "popularity": 0.8068,
+            "profile_path": "/bBXk3CAf0iiss2dbLH9DuNkjLgZ.jpg",
+            "cast_id": 46,
+            "character": "Katy",
+            "credit_id": "645e19439590e300e3a29f80",
+            "order": 25
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 27143,
+            "known_for_department": "Acting",
+            "name": "John Tench",
+            "original_name": "John Tench",
+            "popularity": 1.2011,
+            "profile_path": "/xF4Ylt8cD5HBkP8ERDmSTtSPnSN.jpg",
+            "cast_id": 44,
+            "character": "Motel Owner",
+            "credit_id": "64407063651fcf03419b9138",
+            "order": 26
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1874409,
+            "known_for_department": "Acting",
+            "name": "David Bloom",
+            "original_name": "David Bloom",
+            "popularity": 0.5973,
+            "profile_path": null,
+            "cast_id": 68,
+            "character": "Meachum's Valet",
+            "credit_id": "69431219c27b33950ad58fa4",
+            "order": 27
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 172809,
+            "known_for_department": "Acting",
+            "name": "Brad Kelly",
+            "original_name": "Brad Kelly",
+            "popularity": 0.9087,
+            "profile_path": "/iyATYHZDhTfnEEG1SPa8sIMKWBV.jpg",
+            "cast_id": 32,
+            "character": "Sorenson",
+            "credit_id": "6240fc5ff85958004900e954",
+            "order": 28
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 63562,
+            "known_for_department": "Acting",
+            "name": "David Neale",
+            "original_name": "David Neale",
+            "popularity": 0.655,
+            "profile_path": "/7fLBhu4sPPb0PXEZFdNU9ZxqEG7.jpg",
+            "cast_id": 69,
+            "character": "Spook",
+            "credit_id": "69431237e1a98da9bf04ed2e",
+            "order": 29
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1739972,
+            "known_for_department": "Acting",
+            "name": "Ukee Washington",
+            "original_name": "Ukee Washington",
+            "popularity": 0.5273,
+            "profile_path": "/6pgotvcUxf2Ib2bfLgrbasRhXCH.jpg",
+            "cast_id": 50,
+            "character": "TV News Anchor",
+            "credit_id": "649c92fa8289a000ade92688",
+            "order": 30
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1218813,
+            "known_for_department": "Acting",
+            "name": "Dagmar Midcap",
+            "original_name": "Dagmar Midcap",
+            "popularity": 0.6667,
+            "profile_path": "/gVFHRaDVbzqawilb675tfxnVdYH.jpg",
+            "cast_id": 70,
+            "character": "TV News Anchor",
+            "credit_id": "694312c8baacf113af3f3790",
+            "order": 31
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2071059,
+            "known_for_department": "Acting",
+            "name": "Darrin Maharaj",
+            "original_name": "Darrin Maharaj",
+            "popularity": 0.7092,
+            "profile_path": "/48crpq7ItchpNVI2E7tIqbRez6R.jpg",
+            "cast_id": 71,
+            "character": "TV News Anchor",
+            "credit_id": "694312e3489afe1598eef70b",
+            "order": 32
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3063889,
+            "known_for_department": "Acting",
+            "name": "Anthony McCrae",
+            "original_name": "Anthony McCrae",
+            "popularity": 0.3287,
+            "profile_path": null,
+            "cast_id": 72,
+            "character": "Jefe",
+            "credit_id": "694312f63935bc2b7b88bd5a",
+            "order": 33
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 64674,
+            "known_for_department": "Acting",
+            "name": "Mike Dopud",
+            "original_name": "Mike Dopud",
+            "popularity": 1.4093,
+            "profile_path": "/yOYOX3TnIaBrLdkAMznSK6SLY38.jpg",
+            "cast_id": 73,
+            "character": "Lead Mercenary",
+            "credit_id": "6943138d33ea386fc1970b41",
+            "order": 34
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1747248,
+            "known_for_department": "Acting",
+            "name": "Chic Gibson",
+            "original_name": "Chic Gibson",
+            "popularity": 0.3511,
+            "profile_path": null,
+            "cast_id": 74,
+            "character": "Mayor of Philadelphia",
+            "credit_id": "694313996f9f5a3aeecbb0fc",
+            "order": 35
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3880872,
+            "known_for_department": "Acting",
+            "name": "Danny Hernandez",
+            "original_name": "Danny Hernandez",
+            "popularity": 0.3248,
+            "profile_path": null,
+            "cast_id": 75,
+            "character": "K-9 Cop",
+            "credit_id": "694313ada42d120c28d66212",
+            "order": 36
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55081,
+            "known_for_department": "Crew",
+            "name": "Jonathan Eusebio",
+            "original_name": "Jonathan Eusebio",
+            "popularity": 0.7248,
+            "profile_path": "/9PLs7wy3rLSCY1QNqfkzV4LTZho.jpg",
+            "cast_id": 30,
+            "character": "K-9 Cop #2",
+            "credit_id": "60d093679a3c490045b2955a",
+            "order": 37
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1209900,
+            "known_for_department": "Acting",
+            "name": "Roberto Lombardi",
+            "original_name": "Roberto Lombardi",
+            "popularity": 0.5112,
+            "profile_path": "/bvIqGEVBYYJi7jMTXW4cFbMYTfm.jpg",
+            "cast_id": 22,
+            "character": "Assassination Witness",
+            "credit_id": "53c9946ec3a368777e00012e",
+            "order": 38
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1344726,
+            "known_for_department": "Acting",
+            "name": "Jeffrey Mowery",
+            "original_name": "Jeffrey Mowery",
+            "popularity": 0.5702,
+            "profile_path": null,
+            "cast_id": 64,
+            "character": "FBI Agent (uncredited)",
+            "credit_id": "67c77a9484da21133eaca461",
+            "order": 39
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6037,
+            "known_for_department": "Visual Effects",
+            "name": "Colin Strause",
+            "original_name": "Colin Strause",
+            "popularity": 0.7589,
+            "profile_path": "/l2kKglzUn9j2Hgio3lBzOXErHfc.jpg",
+            "credit_id": "52fe447fc3a36847f8099c73",
+            "department": "Visual Effects",
+            "job": "Visual Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 10952,
+            "known_for_department": "Production",
+            "name": "Lorenzo di Bonaventura",
+            "original_name": "Lorenzo di Bonaventura",
+            "popularity": 0.7144,
+            "profile_path": "/skMUk4eVV6e08mv31A48jdYpEPp.jpg",
+            "credit_id": "52fe447fc3a36847f8099c79",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 9989,
+            "known_for_department": "Sound",
+            "name": "Mark Mancina",
+            "original_name": "Mark Mancina",
+            "popularity": 0.525,
+            "profile_path": "/zTFHjOH3D5TTJiMxEro1MPDy7m7.jpg",
+            "credit_id": "52fe447fc3a36847f8099c7f",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 20907,
+            "known_for_department": "Directing",
+            "name": "Antoine Fuqua",
+            "original_name": "Antoine Fuqua",
+            "popularity": 1.7696,
+            "profile_path": "/h58HRBCQOtWIR8zMqOIVgkHjssU.jpg",
+            "credit_id": "52fe447fc3a36847f8099c61",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1235815,
+            "known_for_department": "Crew",
+            "name": "Owen Walstrom",
+            "original_name": "Owen Walstrom",
+            "popularity": 0.6831,
+            "profile_path": "/95b5hRbxXzQx7uDSwDmySwxBJZ8.jpg",
+            "credit_id": "650cff543d745400e123fafc",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3987,
+            "known_for_department": "Editing",
+            "name": "Conrad Buff IV",
+            "original_name": "Conrad Buff IV",
+            "popularity": 0.5231,
+            "profile_path": null,
+            "credit_id": "62e98109fc5f060059c45448",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21140,
+            "known_for_department": "Editing",
+            "name": "Eric A. Sears",
+            "original_name": "Eric A. Sears",
+            "popularity": 0.575,
+            "profile_path": null,
+            "credit_id": "62f800f9596a91009b0d3a93",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3323040,
+            "known_for_department": "Writing",
+            "name": "Stephen Hunter",
+            "original_name": "Stephen Hunter",
+            "popularity": 0.7621,
+            "profile_path": null,
+            "credit_id": "619e50fc5e12000063c3f60b",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 134859,
+            "known_for_department": "Crew",
+            "name": "Lauro David Chartrand-DelValle",
+            "original_name": "Lauro David Chartrand-DelValle",
+            "popularity": 1.9347,
+            "profile_path": "/4XqwVZCR6t7H0aB8zVT0i9gfehg.jpg",
+            "credit_id": "655947f2b5400214cf3a03c8",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 162577,
+            "known_for_department": "Crew",
+            "name": "Peter Epstein",
+            "original_name": "Peter Epstein",
+            "popularity": 1.2117,
+            "profile_path": "/qXKeOljIVFhHTqMcqWc3YG5UC8e.jpg",
+            "credit_id": "6562a040028f1400e1305c9e",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 16614,
+            "known_for_department": "Art",
+            "name": "J. Dennis Washington",
+            "original_name": "J. Dennis Washington",
+            "popularity": 0.5175,
+            "profile_path": null,
+            "credit_id": "634b8acb688cd0007c3927d0",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1007395,
+            "known_for_department": "Crew",
+            "name": "J.J. Makaro",
+            "original_name": "J.J. Makaro",
+            "popularity": 0.736,
+            "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg",
+            "credit_id": "5643528f9251410a53001f43",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1378226,
+            "known_for_department": "Sound",
+            "name": "Michael Herbick",
+            "original_name": "Michael Herbick",
+            "popularity": 0.5497,
+            "profile_path": null,
+            "credit_id": "56f82a77c3a3686a5e007dfe",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 14352,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Ha Nguyen",
+            "original_name": "Ha Nguyen",
+            "popularity": 0.4533,
+            "profile_path": null,
+            "credit_id": "65bdf5fc43999b0184c52513",
+            "department": "Costume & Make-Up",
+            "job": "Costume Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19241,
+            "known_for_department": "Writing",
+            "name": "Jonathan Lemkin",
+            "original_name": "Jonathan Lemkin",
+            "popularity": 0.6595,
+            "profile_path": null,
+            "credit_id": "65bdf6b4ea84c70184fbd1e6",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1188916,
+            "known_for_department": "Production",
+            "name": "Erik Howsam",
+            "original_name": "Erik Howsam",
+            "popularity": 0.3547,
+            "profile_path": null,
+            "credit_id": "65bdf658931ea1017c9a8544",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 49831,
+            "known_for_department": "Production",
+            "name": "Ric Kidney",
+            "original_name": "Ric Kidney",
+            "popularity": 0.5483,
+            "profile_path": null,
+            "credit_id": "65bdf686ea84c70163fb5d72",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5162,
+            "known_for_department": "Production",
+            "name": "Mark Johnson",
+            "original_name": "Mark Johnson",
+            "popularity": 0.9603,
+            "profile_path": "/gLuXkOQjqB81aHMGJ2OtYzEpHQu.jpg",
+            "credit_id": "65bdf66eba48020161691ce2",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1262,
+            "known_for_department": "Production",
+            "name": "Mali Finn",
+            "original_name": "Mali Finn",
+            "popularity": 0.7373,
+            "profile_path": null,
+            "credit_id": "65bdf5dea7e36301b753e669",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1813644,
+            "known_for_department": "Crew",
+            "name": "Karin Silvestri",
+            "original_name": "Karin Silvestri",
+            "popularity": 1.0293,
+            "profile_path": null,
+            "credit_id": "591265e29251414e8504b858",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 968942,
+            "known_for_department": "Acting",
+            "name": "Ryan Biegel",
+            "original_name": "Ryan Biegel",
+            "popularity": 0.4637,
+            "profile_path": "/sRC7HWy9PTuYBEvTBZGSRszs6qm.jpg",
+            "credit_id": "6610f1421f33190163c189b1",
+            "department": "Production",
+            "job": "Production Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2479797,
+            "known_for_department": "Crew",
+            "name": "Tina McKissick",
+            "original_name": "Tina McKissick",
+            "popularity": 0.4566,
+            "profile_path": "/ymbKInVcTTg5BfhcF00ZnFNg3aI.jpg",
+            "credit_id": "6438ce894a52f800973932bb",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21264,
+            "known_for_department": "Acting",
+            "name": "Garvin Cross",
+            "original_name": "Garvin Cross",
+            "popularity": 0.8452,
+            "profile_path": "/voCrYes5zQ4G0zMyCqAbOzwygUF.jpg",
+            "credit_id": "664d46f94a670ce31996597e",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1813644,
+            "known_for_department": "Crew",
+            "name": "Karin Silvestri",
+            "original_name": "Karin Silvestri",
+            "popularity": 1.0293,
+            "profile_path": null,
+            "credit_id": "6442a956b3f6f502fc9e06b2",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 113208,
+            "known_for_department": "Crew",
+            "name": "Melissa R. Stubbs",
+            "original_name": "Melissa R. Stubbs",
+            "popularity": 0.8006,
+            "profile_path": "/ZBRTEgjBIc03yWnQHhVL0TGZA3.jpg",
+            "credit_id": "64600474e3fa2f00e403081d",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1868930,
+            "known_for_department": "Crew",
+            "name": "Corry Glass",
+            "original_name": "Corry Glass",
+            "popularity": 0.844,
+            "profile_path": "/A9t5urEqRp1M4pix6xpCtBU1bBu.jpg",
+            "credit_id": "646e11c5a5046e00e5b868a9",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 35799,
+            "known_for_department": "Crew",
+            "name": "Marny Eng",
+            "original_name": "Marny Eng",
+            "popularity": 0.7301,
+            "profile_path": "/sRyJNvQdYD4a6AiTYPY2ruuYBMU.jpg",
+            "credit_id": "6471865c9408ec011f2b3f21",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1315700,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Donald Mowat",
+            "original_name": "Donald Mowat",
+            "popularity": 1.1775,
+            "profile_path": "/ikdaVXZvwu9wdgbtJWbeokb0fVL.jpg",
+            "credit_id": "5b795ab00e0a26473a02775d",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 17629,
+            "known_for_department": "Camera",
+            "name": "Peter Menzies Jr.",
+            "original_name": "Peter Menzies Jr.",
+            "popularity": 0.5321,
+            "profile_path": "/jp1zdpTY4A2Qjdaf7MzK34aVbrF.jpg",
+            "credit_id": "6000dadbc0348b003c3494af",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 77623,
+            "known_for_department": "Crew",
+            "name": "Ed Anders",
+            "original_name": "Ed Anders",
+            "popularity": 0.6353,
+            "profile_path": null,
+            "credit_id": "66e58eedf678eb35066d9672",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1372092,
+            "known_for_department": "Crew",
+            "name": "Roy Farfel",
+            "original_name": "Roy Farfel",
+            "popularity": 0.6131,
+            "profile_path": "/6Zal8hlLvn1mK7yCDbUwngrFvk4.jpg",
+            "credit_id": "66f36c9efc656329e20dc4ef",
+            "department": "Crew",
+            "job": "Stunts"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 276,
+            "name": "philadelphia, pennsylvania"
+        },
+        {
+            "id": 441,
+            "name": "assassination"
+        },
+        {
+            "id": 840,
+            "name": "usa president"
+        },
+        {
+            "id": 818,
+            "name": "based on novel or book"
+        },
+        {
+            "id": 4129,
+            "name": "widow"
+        },
+        {
+            "id": 1812,
+            "name": "fbi"
+        },
+        {
+            "id": 5946,
+            "name": "ethiopia"
+        },
+        {
+            "id": 10562,
+            "name": "on the run"
+        },
+        {
+            "id": 10410,
+            "name": "conspiracy"
+        },
+        {
+            "id": 15162,
+            "name": "dog"
+        },
+        {
+            "id": 34258,
+            "name": "ex-marine"
+        },
+        {
+            "id": 54324,
+            "name": "patriot"
+        },
+        {
+            "id": 158780,
+            "name": "u.s. marine"
+        },
+        {
+            "id": 171095,
+            "name": "u.s. senator"
+        },
+        {
+            "id": 180172,
+            "name": "framed for murder"
+        },
+        {
+            "id": 182058,
+            "name": "government corruption"
+        },
+        {
+            "id": 185458,
+            "name": "archbishop"
+        },
+        {
+            "id": 202371,
+            "name": "aggressive"
+        },
+        {
+            "id": 215503,
+            "name": "army colonel"
+        },
+        {
+            "id": 226499,
+            "name": "manhunt"
+        },
+        {
+            "id": 228632,
+            "name": "elite sniper"
+        },
+        {
+            "id": 255665,
+            "name": "death of friend"
+        },
+        {
+            "id": 272551,
+            "name": "fbi agent"
+        },
+        {
+            "id": 282521,
+            "name": "pipeline"
+        },
+        {
+            "id": 284568,
+            "name": "gunnery sergeant"
+        },
+        {
+            "id": 308137,
+            "name": "fugitive suspect"
+        },
+        {
+            "id": 314765,
+            "name": "marine sniper"
+        },
+        {
+            "id": 321464,
+            "name": "intense"
+        },
+        {
+            "id": 324886,
+            "name": "bitter"
+        },
+        {
+            "id": 327407,
+            "name": "spotter"
+        },
+        {
+            "id": 340413,
+            "name": "marine veteran"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/qQksZdRMIaZwttaT0pzbyJklWQz.jpg",
+            "id": 9545,
+            "title": "Sniper",
+            "original_title": "Sniper",
+            "overview": "Tough guy Thomas Beckett is a US Marine working in the Panamanian jungle. His job is to seek out rebels and remove them using his sniper skills. Beckett is notorious for losing his partners on such missions. This time he's accompanied by crack marksman Richard Miller.",
+            "poster_path": "/ayYsC7Jp2BxhCLWghOBWzZlO4FI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "popularity": 4.318,
+            "release_date": "1993-01-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.177,
+            "vote_count": 481
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cLftTzGw40BlLw8IggKSWDjKOQo.jpg",
+            "id": 66,
+            "title": "Absolute Power",
+            "original_title": "Absolute Power",
+            "overview": "A master thief coincidentally is robbing a house where a murder—in which the President of the United States is involved—occurs in front of his eyes. He is forced to run, while holding evidence that could convict the President.",
+            "poster_path": "/izvyt3cxlilhbYwybTOteDWqf99.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                28
+            ],
+            "popularity": 6.64,
+            "release_date": "1997-02-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.66,
+            "vote_count": 1267
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xpLfNYeICRtVPHPU2RN0a20c5zy.jpg",
+            "id": 17365,
+            "title": "The Parallax View",
+            "original_title": "The Parallax View",
+            "overview": "An ambitious reporter gets in trouble while investigating a senator's assassination which leads to a vast conspiracy involving a multinational corporation behind every event in the world's headlines.",
+            "poster_path": "/5ClPRox438lwK2Eze7X5xySDaYC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "popularity": 2.585,
+            "release_date": "1974-06-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 375
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/evPzxMacNWsjkUKQO4NXKe5Rl6a.jpg",
+            "id": 97630,
+            "title": "Zero Dark Thirty",
+            "original_title": "Zero Dark Thirty",
+            "overview": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L. Team 6 in May, 2011.",
+            "poster_path": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 9.4785,
+            "release_date": "2012-12-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.993,
+            "vote_count": 4947
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qFVv6qw6LqotUQofdwKSvxJfLnu.jpg",
+            "id": 254904,
+            "title": "The November Man",
+            "original_title": "The November Man",
+            "overview": "An ex-CIA operative is brought back in on a very personal mission and finds himself pitted against his former pupil in a deadly game involving high level CIA officials and the Russian president-elect.",
+            "poster_path": "/4ejNFbCgLMDAuy7jFQmc7cr6UAW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                28,
+                53
+            ],
+            "popularity": 6.2916,
+            "release_date": "2014-08-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.107,
+            "vote_count": 1624
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3YnJdVdCy7s2FvJoMpH4V2dEE3U.jpg",
+            "id": 9869,
+            "title": "Patriot Games",
+            "original_title": "Patriot Games",
+            "overview": "When CIA Analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets Jack and his family as revenge.",
+            "poster_path": "/9IT7gnszrRthduYxCLqaIkM55Un.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28,
+                53,
+                80
+            ],
+            "popularity": 9.424,
+            "release_date": "1992-06-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.682,
+            "vote_count": 1852
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sGqqnvOqJg2HDHrjtCPIlCwF4Mu.jpg",
+            "id": 423204,
+            "title": "Angel Has Fallen",
+            "original_title": "Angel Has Fallen",
+            "overview": "After a treacherous attack, Secret Service agent Mike Banning is charged with attempting to assassinate President Trumbull. Chased by his own colleagues and the FBI, Banning begins a race against the clock to clear his name.",
+            "poster_path": "/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 10.9507,
+            "release_date": "2019-08-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.606,
+            "vote_count": 3933
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg",
+            "id": 578701,
+            "title": "Those Who Wish Me Dead",
+            "original_title": "Those Who Wish Me Dead",
+            "overview": "A young boy finds himself pursued by two assassins in the Montana wilderness, with a survival expert determined to protect him, and a forest fire threatening to consume them all.",
+            "poster_path": "/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "popularity": 8.7264,
+            "release_date": "2021-05-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1883
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wb78lmqAXsUVG84xrmAOJBfgZHr.jpg",
+            "id": 415842,
+            "title": "American Assassin",
+            "original_title": "American Assassin",
+            "overview": "Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.",
+            "poster_path": "/w6vjeHx3UEaBXIyc8VFqyZYKznD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "popularity": 8.2906,
+            "release_date": "2017-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.41,
+            "vote_count": 3292
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iwvP8XVpYVmJ3xfF9xdBi5uAOWl.jpg",
+            "id": 75780,
+            "title": "Jack Reacher",
+            "original_title": "Jack Reacher",
+            "overview": "One morning in an ordinary town, five people are shot dead in a seemingly random attack. All evidence points to a single suspect: an ex-military sniper who is quickly brought into custody. The interrogation yields one written note: 'Get Jack Reacher!'. Reacher, an enigmatic ex-Army investigator, believes the authorities have the right man but agrees to help the sniper's defense attorney. However, the more Reacher delves into the case, the less clear-cut it appears. So begins an extraordinary chase for the truth, pitting Jack Reacher against an unexpected enemy, with a skill for violence and a secret to keep.",
+            "poster_path": "/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                53,
+                28
+            ],
+            "popularity": 17.7775,
+            "release_date": "2012-12-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.674,
+            "vote_count": 7758
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c70FgVZ2e34xyJqN4rEGuiAAre2.jpg",
+            "id": 18355,
+            "title": "The Assignment",
+            "original_title": "The Assignment",
+            "overview": "Jack Shaw has experienced the terror first-hand. He's a top CIA agent who's tracked international killer-for-hire Carlos \"The Jackal\" Sanchez for over twenty years and barely survived Carlos' devastating bombing of a Parisian cafe. Now, he finally gets a break when he discovers Carlos' dead ringer: American naval officer and dedicated family man Annibal Ramirez.",
+            "poster_path": "/lhuV5cvxFhUrB6F4smVZGmdSwbT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80
+            ],
+            "popularity": 3.0247,
+            "release_date": "1997-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.355,
+            "vote_count": 162
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3kdSGx028h48Zzr6PFbGZWY4fJM.jpg",
+            "id": 11074,
+            "title": "Striking Distance",
+            "original_title": "Striking Distance",
+            "overview": "Coming from a police family, Tom Hardy ends up fighting his uncle after the murder of his father. Tom believes the killer is another cop, and goes on the record with his allegations. Demoted to water-way duty Tom, along with new partner Jo Christman, navigate the three rivers looking for clues and discovering bodies. This time the victims are women Tom knows, he must find the killer to prove his innocence.",
+            "poster_path": "/1bLazrQWJQhO6u58vJZXJZ3ZFDh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                28,
+                9648,
+                53
+            ],
+            "popularity": 6.0198,
+            "release_date": "1993-09-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 962
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+            "id": 567189,
+            "title": "Tom Clancy's Without Remorse",
+            "original_title": "Tom Clancy's Without Remorse",
+            "overview": "An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.",
+            "poster_path": "/6OnlqShdRinhJwV1uGiRE70lD63.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                10752
+            ],
+            "popularity": 7.9474,
+            "release_date": "2021-04-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.936,
+            "vote_count": 2767
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Cam3PU0nCNL0eD7HPxNhnvRggH.jpg",
+            "id": 51209,
+            "title": "Kill the Irishman",
+            "original_title": "Kill the Irishman",
+            "overview": "Over the summer of 1976, thirty-six bombs detonate in the heart of Cleveland while a turf war raged between Irish mobster Danny Greene and the Italian mafia. Based on a true story, Kill the Irishman chronicles Greene's heroic rise from a tough Cleveland neighborhood to become an enforcer in the local mob.",
+            "poster_path": "/yjDvqAMyFlesBtWNUUZMgglo78y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                18
+            ],
+            "popularity": 4.2266,
+            "release_date": "2011-03-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.775,
+            "vote_count": 715
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+            "id": 458156,
+            "title": "John Wick: Chapter 3 - Parabellum",
+            "original_title": "John Wick: Chapter 3 - Parabellum",
+            "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+            "poster_path": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 16.1566,
+            "release_date": "2019-05-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.439,
+            "vote_count": 11920
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b5IB4VGjR818tTNcCLHQCIFwQmW.jpg",
+            "id": 10431,
+            "title": "War",
+            "original_title": "War",
+            "overview": "FBI agent Jack Crawford is out for revenge when his partner is killed and all clues point to the mysterious assassin Rogue. But when Rogue turns up years later to take care of some unfinished business, he triggers a violent clash of rival gangs. Will the truth come out before it's too late? And when the dust settles, who will remain standing?",
+            "poster_path": "/scFc8RD4sFxB2x0eIOaymphMnYh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 7.2205,
+            "release_date": "2007-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.409,
+            "vote_count": 2092
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ShDHEWiJ4NL6ldn4W2m3bEkIBr.jpg",
+            "id": 186,
+            "title": "Lucky Number Slevin",
+            "original_title": "Lucky Number Slevin",
+            "overview": "Slevin is mistakenly put in the middle of a personal war between the city’s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma.",
+            "poster_path": "/x21s3p5wPww534nYj1cWakTcqz4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                80,
+                9648
+            ],
+            "popularity": 7.0667,
+            "release_date": "2006-02-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.475,
+            "vote_count": 4548
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1aOPPkXASkd2By3EKIw66Ilx5qF.jpg",
+            "id": 1094974,
+            "title": "Take Cover",
+            "original_title": "Take Cover",
+            "overview": "A burned-out professional sniper finds himself trapped in an all-glass penthouse by a lethal competitor and must find a way to survive and escape with little to no cover between him and the killer.",
+            "poster_path": "/xNLiMNyFzKTL9PVIEulG55Hei8j.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 4.795,
+            "release_date": "2024-10-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.342,
+            "vote_count": 215
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aSglK0vFI50etQENUq4EIcwfoMR.jpg",
+            "id": 808023,
+            "title": "The Virtuoso",
+            "original_title": "The Virtuoso",
+            "overview": "Danger, deception and murder descend upon a sleepy town when a professional assassin accepts a new assignment from his enigmatic boss.",
+            "poster_path": "/ufFbnDMa1XNJxWYxlYv2jEPxUcD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                28
+            ],
+            "popularity": 5.4489,
+            "release_date": "2021-04-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.891,
+            "vote_count": 440
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+            "id": 1197306,
+            "title": "A Working Man",
+            "original_title": "A Working Man",
+            "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+            "poster_path": "/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 25.4756,
+            "release_date": "2025-03-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2030
+        }
+    ]
+}

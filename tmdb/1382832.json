@@ -1,0 +1,791 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/ikyzq678qnHtRY8ZiQJzK4hiOyW.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 1382832,
+        "imdb_id": "tt34494076",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Hungry",
+        "overview": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
+        "popularity": 62.9775,
+        "poster_path": "/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
+        "production_companies": [
+            {
+                "id": 114874,
+                "logo_path": "/lfk5FKLlTBaWqYHLeJs7J9atmNr.png",
+                "name": "Signature Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2026-06-03",
+        "revenue": 0,
+        "runtime": 93,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "This hippo isn't playing games.",
+        "title": "Hungry",
+        "video": false,
+        "vote_average": 7.192,
+        "vote_count": 206
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 52869,
+            "known_for_department": "Acting",
+            "name": "Madison Davenport",
+            "original_name": "Madison Davenport",
+            "popularity": 2.6152,
+            "profile_path": "/8yIHX149UVVeoJfUbi4oOC1nGcI.jpg",
+            "cast_id": 6,
+            "character": "Sistine",
+            "credit_id": "698b5e0ea4aa32e01b8efc6c",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1549537,
+            "known_for_department": "Acting",
+            "name": "Tracey Bonner",
+            "original_name": "Tracey Bonner",
+            "popularity": 1.0677,
+            "profile_path": "/1Y3dKqq9dkYIFYQZqgh7mB7Ts7g.jpg",
+            "cast_id": 8,
+            "character": "Dionne",
+            "credit_id": "698b5e1aa4aa32e01b8efc70",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 22462,
+            "known_for_department": "Acting",
+            "name": "Joaquim de Almeida",
+            "original_name": "Joaquim de Almeida",
+            "popularity": 2.2793,
+            "profile_path": "/muXJn8kTEPxJaetkgCyS8RPEzTC.jpg",
+            "cast_id": 7,
+            "character": "Walker",
+            "credit_id": "698b5e145bfb1e76c6c73298",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2242777,
+            "known_for_department": "Acting",
+            "name": "Michel Curiel",
+            "original_name": "Michel Curiel",
+            "popularity": 0.7801,
+            "profile_path": "/ml4NqwB24Vr0PpRXiKjelUAWab5.jpg",
+            "cast_id": 12,
+            "character": "Rodrigo",
+            "credit_id": "698b5e3bb30ae871974215c7",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1321622,
+            "known_for_department": "Acting",
+            "name": "Samantha Coughlan",
+            "original_name": "Samantha Coughlan",
+            "popularity": 2.1571,
+            "profile_path": "/oTcw7AFY52UYyIjPLp9ZjySwivy.jpg",
+            "cast_id": 10,
+            "character": "Sally",
+            "credit_id": "698b5e247a8886a3b58efd19",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1704853,
+            "known_for_department": "Acting",
+            "name": "Olivia Bernstone",
+            "original_name": "Olivia Bernstone",
+            "popularity": 0.9168,
+            "profile_path": "/7rQGrzEHEZ7iBIrlVzbBDIIhnvP.jpg",
+            "cast_id": 11,
+            "character": "Hannah",
+            "credit_id": "698b5e356dd2b98900d7f46c",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 30697,
+            "known_for_department": "Acting",
+            "name": "Jim Meskimen",
+            "original_name": "Jim Meskimen",
+            "popularity": 1.1607,
+            "profile_path": "/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg",
+            "cast_id": 9,
+            "character": "Tim",
+            "credit_id": "698b5e207a8886a3b58efd15",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4150510,
+            "known_for_department": "Acting",
+            "name": "River Codack",
+            "original_name": "River Codack",
+            "popularity": 0.8042,
+            "profile_path": "/linaIZJqleeWHjonIdDtISzVYrX.jpg",
+            "cast_id": 13,
+            "character": "Mikey",
+            "credit_id": "698b5e3f2db627ad6fb70e76",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1516315,
+            "known_for_department": "Acting",
+            "name": "Joe Azzopardi",
+            "original_name": "Joe Azzopardi",
+            "popularity": 1.1,
+            "profile_path": "/pImRPY1hkIXU7oLZO1znJOdoDDg.jpg",
+            "cast_id": 16,
+            "character": "Captain James",
+            "credit_id": "69fb45be3f2eb08e53cd0f66",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4700526,
+            "known_for_department": "Acting",
+            "name": "Matthew Charlery-Smith",
+            "original_name": "Matthew Charlery-Smith",
+            "popularity": 0.5388,
+            "profile_path": null,
+            "cast_id": 17,
+            "character": "Jazz Singer",
+            "credit_id": "69fb45c53b154ed61f1d2f9f",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3531064,
+            "known_for_department": "Acting",
+            "name": "Maxime Durand",
+            "original_name": "Maxime Durand",
+            "popularity": 0.4736,
+            "profile_path": "/v863xgclqAGgqnTs5dVWjjgVRtl.jpg",
+            "cast_id": 19,
+            "character": "Gator Joe's tour guide (uncredited)",
+            "credit_id": "6a3dfc54054f4a51fca6a09c",
+            "order": 10
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1088096,
+            "known_for_department": "Directing",
+            "name": "James Nunn",
+            "original_name": "James Nunn",
+            "popularity": 0.8589,
+            "profile_path": "/fa83eZedZOTM4DqkX1BrEUowkaT.jpg",
+            "credit_id": "6729589706dc88596323f808",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1088096,
+            "known_for_department": "Directing",
+            "name": "James Nunn",
+            "original_name": "James Nunn",
+            "popularity": 0.8589,
+            "profile_path": "/fa83eZedZOTM4DqkX1BrEUowkaT.jpg",
+            "credit_id": "6729599b425bdcd2ace31b74",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1400095,
+            "known_for_department": "Production",
+            "name": "Ben Jacques",
+            "original_name": "Ben Jacques",
+            "popularity": 0.3183,
+            "profile_path": null,
+            "credit_id": "672959ef06dc88596323f81c",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2066378,
+            "known_for_department": "Production",
+            "name": "Marc Goldberg",
+            "original_name": "Marc Goldberg",
+            "popularity": 0.5188,
+            "profile_path": null,
+            "credit_id": "67295a0483e62f05c6b568b6",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3412584,
+            "known_for_department": "Production",
+            "name": "Sarah Gabriel",
+            "original_name": "Sarah Gabriel",
+            "popularity": 0.41,
+            "profile_path": null,
+            "credit_id": "67295a18599da2898095121b",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 939612,
+            "known_for_department": "Sound",
+            "name": "Austin Wintory",
+            "original_name": "Austin Wintory",
+            "popularity": 0.5047,
+            "profile_path": "/vIxjXrBZuAj1mBScp2punq46O0r.jpg",
+            "credit_id": "69e803fd74d092ea9eceb9e6",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1622448,
+            "known_for_department": "Production",
+            "name": "Emma Gunnery",
+            "original_name": "Emma Gunnery",
+            "popularity": 0.5045,
+            "profile_path": "/doaX4CbI9cOEf7WbRk2I5X7I7a2.jpg",
+            "credit_id": "69fb458792ebd13dbeb9aaf7",
+            "department": "Production",
+            "job": "Casting Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2064623,
+            "known_for_department": "Camera",
+            "name": "Job Reineke",
+            "original_name": "Job Reineke",
+            "popularity": 0.1672,
+            "profile_path": null,
+            "credit_id": "6a3d50b2d09ae7f36f2acfa7",
+            "department": "Camera",
+            "job": "Director of Photography"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 2509,
+            "name": "hippopotamus"
+        },
+        {
+            "id": 3134,
+            "name": "louisiana"
+        },
+        {
+            "id": 4551,
+            "name": "swamp"
+        },
+        {
+            "id": 13031,
+            "name": "creature"
+        },
+        {
+            "id": 158126,
+            "name": "creature feature"
+        },
+        {
+            "id": 188316,
+            "name": "hippo"
+        },
+        {
+            "id": 336497,
+            "name": "survival thriller"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/48LdnfGahm8LuM2cg7LFWEmrTEd.jpg",
+            "id": 1081208,
+            "title": "The Dogs",
+            "original_title": "The Dogs",
+            "overview": "After fleeing his psychotic father, a young teen and his mom seek refuge in a remote farmhouse, only to face a pack of ferocious dogs and the sinister spirits that haunt the property.",
+            "poster_path": "/kz6oqKyKCjmR8V1JdnF9brp9DSn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 3.925,
+            "release_date": "2025-06-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.574,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hr3yzjzfsiNxWqlDgRTSHgYB7fz.jpg",
+            "id": 1232933,
+            "title": "Fear Below",
+            "original_title": "Fear Below",
+            "overview": "A rag-tag team of divers attempting to salvage a sunken car from a river are thwarted by a highly aggressive bull shark.",
+            "poster_path": "/f90xO280gGQArVP2GU4IshAClt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                28,
+                12,
+                53
+            ],
+            "popularity": 3.907,
+            "release_date": "2025-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.087,
+            "vote_count": 179
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4CYo6O6p0bANfXLIwQZJpXPxmPc.jpg",
+            "id": 19185,
+            "title": "Night of the Living Dead",
+            "original_title": "Night of the Living Dead",
+            "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+            "poster_path": "/7WkSCClUvcAq8JNEp4pM4A9hiDU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.0169,
+            "release_date": "1990-10-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 987
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg",
+            "id": 1315303,
+            "title": "Primate",
+            "original_title": "Primate",
+            "overview": "College student Lucy and her friends spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+            "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 22.9729,
+            "release_date": "2026-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.501,
+            "vote_count": 792
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dUbOGH7CWEIr2aCZBpG2n33Vhw2.jpg",
+            "id": 1141182,
+            "title": "Die Alone",
+            "original_title": "Die Alone",
+            "overview": "Lost in a world reclaimed by nature and overrun by mysterious creatures, Ethan, a young man with amnesia navigates the dangerous landscape in search of his lost love Emma.  His journey takes an unexpected turn when he encounters Mae, a hardened and eccentric survivor.  Together, Ethan and Mae face threats both human and otherwise before a fateful encounter with Kai unravels a secret that lies just beyond Ethan's fractured memory.",
+            "poster_path": "/dQdIj2OYELhLzECWONY932wGRxA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "popularity": 5.4194,
+            "release_date": "2024-09-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.308,
+            "vote_count": 172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bz66a19bR6BKsbY8gSZCM4etJiK.jpg",
+            "id": 1006462,
+            "title": "The Flood",
+            "original_title": "The Flood",
+            "overview": "A horde of giant hungry alligators is unleashed on a group of in-transit prisoners and their guards after a massive hurricane floods Louisiana.",
+            "poster_path": "/mvjqqklMpHwOxc40rn7dMhGT0Fc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                9648,
+                53,
+                27
+            ],
+            "popularity": 3.0811,
+            "release_date": "2023-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.093,
+            "vote_count": 291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
+            "id": 285923,
+            "title": "Grindhouse",
+            "original_title": "Grindhouse",
+            "overview": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
+            "poster_path": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                27
+            ],
+            "popularity": 5.1775,
+            "release_date": "2007-04-06",
+            "softcore": false,
+            "video": true,
+            "vote_average": 7.004,
+            "vote_count": 1915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/paxjgQ7I2oALdi85F5qw8PBiO2q.jpg",
+            "id": 648043,
+            "title": "The Driver",
+            "original_title": "The Driver",
+            "overview": "After a plague of the undead decimates human life on Earth, a former hit man (Mark Dacascos), his wife, and daughter live quietly in a survivalist compound. But when their base is attacked, a massive explosion summons a swarm of the undead. They escape and must seek out the Haven, a rumored sanctuary up north, while the father teaches his daughter to shoot, drive, and survive before time runs out.",
+            "poster_path": "/cCO26pPZDnZ4SRuqV2cwyuDKBfs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                28
+            ],
+            "popularity": 3.1158,
+            "release_date": "2019-11-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+            "id": 1100988,
+            "title": "28 Years Later",
+            "original_title": "28 Years Later",
+            "overview": "Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+            "poster_path": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "popularity": 27.2853,
+            "release_date": "2025-06-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.606,
+            "vote_count": 2767
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f1AwhrhefodXEBD5c5Z7zOyPnq9.jpg",
+            "id": 13022,
+            "title": "Rogue",
+            "original_title": "Rogue",
+            "overview": "When a group of tourists stumble into the remote Australian river territory of an enormous crocodile, the deadly creature traps them on a tiny mud island with the tide quickly rising and darkness descending. As the hungry predator closes in, they must fight for survival against all odds.",
+            "poster_path": "/abFDVe71e7UE5MpAqjZvUYT2U7M.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "popularity": 4.3263,
+            "release_date": "2007-11-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.306,
+            "vote_count": 782
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5PuM2lWFRVLZbyzErGVd8qHi55p.jpg",
+            "id": 1165466,
+            "title": "Wake Up",
+            "original_title": "Wake Up",
+            "overview": "A group of young activists set out to make an environmental statement by vandalizing a home superstore as it closes. But their plan goes terribly wrong when they become trapped inside and must face a deranged security guard with a gruesome passion for primitive hunting. As the night fills with violence and terror, the teenagers find themselves in a desperate fight for their lives.",
+            "poster_path": "/erEAU7ygq2XFjziI3FpAdMajJFZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                28
+            ],
+            "popularity": 3.6166,
+            "release_date": "2024-05-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.712,
+            "vote_count": 144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/evo3crueRIK9Eutb3lnDLVbD2xD.jpg",
+            "id": 514847,
+            "title": "The Hunt",
+            "original_title": "The Hunt",
+            "overview": "Twelve strangers wake up in a clearing. They don't know where they are—or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted turns the tables on her pursuers.",
+            "poster_path": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                27
+            ],
+            "popularity": 17.3477,
+            "release_date": "2020-03-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.646,
+            "vote_count": 3743
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7JI6ID1ga8uKyUPisjUXKxYCVRJ.jpg",
+            "id": 675531,
+            "title": "Dark Harvest",
+            "original_title": "Dark Harvest",
+            "overview": "In a small Midwestern town, a deadly annual ritual unfolds when the mythical nightmare, Sawtooth Jack, rises from the cornfields and challenges the town’s teenage boys in a bloody battle of survival.",
+            "poster_path": "/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                14,
+                53
+            ],
+            "popularity": 4.3598,
+            "release_date": "2023-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 321
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6OnDSJThAbF6GxXNXNmcusGjBDy.jpg",
+            "id": 532408,
+            "title": "The Boogeyman",
+            "original_title": "The Boogeyman",
+            "overview": "Still reeling from the tragic death of their mother, a teenage girl and her younger sister find themselves plagued by a sadistic presence in their house and struggle to get their grieving father to pay attention before it’s too late.",
+            "poster_path": "/pYwZdnXVnVxAr7dx4MEK7tTK9gI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 8.4575,
+            "release_date": "2023-05-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 1128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cA88pwGnHa64BBcU3R1oCcJH9Qc.jpg",
+            "id": 970450,
+            "title": "Werewolves",
+            "original_title": "Werewolves",
+            "overview": "A year after a supermoon’s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+            "poster_path": "/otXBlMPbFBRs6o2Xt6KX59Qw6dL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53,
+                878
+            ],
+            "popularity": 10.7398,
+            "release_date": "2024-12-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.805,
+            "vote_count": 513
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wwARk7hRIfHfh2n2ubN6N7lvTne.jpg",
+            "id": 710295,
+            "title": "Wolf Man",
+            "original_title": "Wolf Man",
+            "overview": "With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable.",
+            "poster_path": "/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 11.4658,
+            "release_date": "2025-01-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.155,
+            "vote_count": 1023
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oFSO37diz2Fw4E5N6dkYvg22G7q.jpg",
+            "id": 522526,
+            "title": "Mona Lisa and the Blood Moon",
+            "original_title": "Mona Lisa and the Blood Moon",
+            "overview": "A young woman with psychokinetic powers breaks out of a Louisiana asylum and makes her way to New Orleans, where she falls into the city’s netherworld of misfits and miscreants.",
+            "poster_path": "/zTYdMdMeMxkPxzLtbkP44HThIAW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                14,
+                53
+            ],
+            "popularity": 2.8116,
+            "release_date": "2022-09-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xqhTXB86dkKe4jalwUFIjiFgaYB.jpg",
+            "id": 297608,
+            "title": "The Taking of Deborah Logan",
+            "original_title": "The Taking of Deborah Logan",
+            "overview": "What starts as a poignant medical documentary about Deborah Logan's descent into Alzheimer's disease and her daughter's struggles as caregiver degenerates into a maddening portrayal of dementia at its most frightening, as hair-raising events begin to plague the family and crew and an unspeakable malevolence threatens to tear the very fabric of sanity from them all.",
+            "poster_path": "/n8gRFvfBnMzz86nanfOPu7a8ZLq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 6.2256,
+            "release_date": "2014-10-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.57,
+            "vote_count": 1513
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+            "id": 808396,
+            "title": "God Is a Bullet",
+            "original_title": "God Is a Bullet",
+            "overview": "Vice detective Bob Hightower finds his ex-wife murdered and daughter kidnapped by a cult. Frustrated by the botched official investigations, he quits the force and infiltrates the cult to hunt down the leader with the help of the cult’s only female victim escapee, Case Hardin.",
+            "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80,
+                27
+            ],
+            "popularity": 4.6942,
+            "release_date": "2023-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ldCs9t4DpbiHRPA8gOe66OzmVEy.jpg",
+            "id": 1338972,
+            "title": "Pitfall",
+            "original_title": "Pitfall",
+            "overview": "After a young man is separated from his friends in the woods, he falls into a ten-foot deep pit of spikes, impaling him through his leg and leaving him trapped. He quickly learns that his fall was not an accident.",
+            "poster_path": "/xlkd8rmU3DMFKqCGOchAH1avrfM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "popularity": 6.6479,
+            "release_date": "2025-05-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.313,
+            "vote_count": 48
+        }
+    ]
+}

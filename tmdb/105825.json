@@ -1,0 +1,701 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/gGBF7gDBsbddvSdps6fvNKQoqDh.jpg",
+        "belongs_to_collection": {
+            "id": 363066,
+            "name": "Erotic Ghost Story Collection",
+            "poster_path": "/siqC7xGPCLP4A7KXg0tKWAjWtoV.jpg",
+            "backdrop_path": "/bamxHNTsbTBAQdtNL3TWxMSwxgO.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 105825,
+        "imdb_id": "tt0104719",
+        "origin_country": [
+            "HK"
+        ],
+        "original_language": "cn",
+        "original_title": "聊齋三集之燈草和尚",
+        "overview": "A wanderer meets a monk with magical powers and becomes entranced by a mural of exquisite dancing women. He enters the painting, unaware of the conspiracy behind it, and must rescue the women who are trapped within.",
+        "popularity": 15.551,
+        "poster_path": "/2b1Y6NbZenY45DgC5CwncoLkpo.jpg",
+        "production_companies": [
+            {
+                "id": 118762,
+                "logo_path": null,
+                "name": "大路電影製作有限公司",
+                "origin_country": ""
+            },
+            {
+                "id": 2521,
+                "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+                "name": "Orange Sky Golden Harvest",
+                "origin_country": "HK"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "release_date": "1992-03-05",
+        "revenue": 1201428,
+        "runtime": 94,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Cantonese",
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Erotic Ghost Story III",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 32
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1134734,
+            "known_for_department": "Acting",
+            "name": "Pauline Chan Bo-Lin",
+            "original_name": "陳寶蓮",
+            "popularity": 2.9179,
+            "profile_path": "/aHL0W7DIHtlajWm2rWpnVYbyhpy.jpg",
+            "cast_id": 2,
+            "character": "Wan Yee-Mung",
+            "credit_id": "58cb21b49251415e2f0048cc",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 119447,
+            "known_for_department": "Acting",
+            "name": "Shing Fui-On",
+            "original_name": "成奎安",
+            "popularity": 2.1362,
+            "profile_path": "/iLGQZ8OjGdZW3imJlgiUNv9ER8y.jpg",
+            "cast_id": 4,
+            "character": "Reverend Monk",
+            "credit_id": "58cb21cc9251415e6f0047c5",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 70108,
+            "known_for_department": "Acting",
+            "name": "Kenny Wong Tak-Ban",
+            "original_name": "黃德斌",
+            "popularity": 1.2385,
+            "profile_path": "/fSSna59ChOc0OA8ju2xRf8jxOvT.jpg",
+            "cast_id": 7,
+            "character": "Chu Chung",
+            "credit_id": "58cb21ed9251415e44004874",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 544465,
+            "known_for_department": "Acting",
+            "name": "Chik King-Man",
+            "original_name": "植敬雯",
+            "popularity": 4.0128,
+            "profile_path": "/4mGXxRwfHMykP9GRuAV4xXmMHO0.jpg",
+            "cast_id": 5,
+            "character": "Liu See-See",
+            "credit_id": "58cb21d79251415e6f0047ce",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5893581,
+            "known_for_department": "Acting",
+            "name": "张京花",
+            "original_name": "张京花",
+            "popularity": 0.52,
+            "profile_path": null,
+            "cast_id": 16,
+            "character": "",
+            "credit_id": "6949e5143ac49418c4b1d102",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 994394,
+            "known_for_department": "Acting",
+            "name": "William Ho",
+            "original_name": "何家駒",
+            "popularity": 1.4076,
+            "profile_path": "/s9xrr8R0WUEpzpIJGWCafpk67Ml.jpg",
+            "cast_id": 12,
+            "character": "Chia Yuen",
+            "credit_id": "63cebc9ec6006d00d942f18f",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1590813,
+            "known_for_department": "Acting",
+            "name": "Otomo Rena",
+            "original_name": "大友梨奈",
+            "popularity": 4.6107,
+            "profile_path": "/uAZ2SIvlMuRyyWB9Iaefk2qEmnu.jpg",
+            "cast_id": 13,
+            "character": "Vixen",
+            "credit_id": "653ec78de894a600e2ce8df8",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5893584,
+            "known_for_department": "Acting",
+            "name": "丹沢亚纪",
+            "original_name": "丹沢亚纪",
+            "popularity": 0.7353,
+            "profile_path": null,
+            "cast_id": 17,
+            "character": "",
+            "credit_id": "6949e53ae5069b831d7ac55c",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 552394,
+            "known_for_department": "Acting",
+            "name": "Jack Wong",
+            "original_name": "黃偉亮",
+            "popularity": 0.9806,
+            "profile_path": "/tS4ZyTC4X6NjoGYX3L565wvcgoA.jpg",
+            "cast_id": 14,
+            "character": "Guard",
+            "credit_id": "66e0c802247d7baab01c1d57",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1180151,
+            "known_for_department": "Acting",
+            "name": "Lee Sau-Kei",
+            "original_name": "Lee Sau-Kei",
+            "popularity": 0.7803,
+            "profile_path": "/wYG0M8eT48j15bkOFHb3yfCiFYr.jpg",
+            "cast_id": 18,
+            "character": "",
+            "credit_id": "697f952042e9e9bbc3be55fc",
+            "order": 9
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1037789,
+            "known_for_department": "Directing",
+            "name": "Ivan Lai Kai-Ming",
+            "original_name": "Ivan Lai Kai-Ming",
+            "popularity": 0.8397,
+            "profile_path": "/uSv6agqw95ShLfcUOPvt0Cfcm8i.jpg",
+            "credit_id": "52fe4a57c3a36847f81c85d5",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2320096,
+            "known_for_department": "Crew",
+            "name": "Gaap Yuen-Ya",
+            "original_name": "Gaap Yuen-Ya",
+            "popularity": 0.418,
+            "profile_path": null,
+            "credit_id": "5e8f555bd35dea001173bf39",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 65962,
+            "known_for_department": "Camera",
+            "name": "Bill Wong Chung-Piu",
+            "original_name": "黃仲標",
+            "popularity": 0.6097,
+            "profile_path": "/1Mbv42Rd8cfFWRkDPmIpTZukMos.jpg",
+            "credit_id": "697f95526b45a571f51ebbf2",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 118352,
+            "known_for_department": "Acting",
+            "name": "Tats Lau Yee-Tat",
+            "original_name": "劉以達",
+            "popularity": 1.4845,
+            "profile_path": "/mhuULSAWeZO45rjZnFVltvmJfzg.jpg",
+            "credit_id": "697f9561b2fce0cf38be561b",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 155477,
+            "name": "softcore"
+        },
+        {
+            "id": 240530,
+            "name": "erotic horror"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/rhuEN18ZimDOva3guaWZA4hYgLB.jpg",
+            "id": 1309083,
+            "title": "Dolly",
+            "original_title": "Dolly",
+            "overview": "Young Macy is abducted by a deranged, monstrous figure who wants to raise her as its child.",
+            "poster_path": "/oJJquv1sg5XMTIyNHxEm0KLo696.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 19.4975,
+            "release_date": "2026-03-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.806,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/I4ofwq3XfmwXAETUs5pjubcMJ0.jpg",
+            "id": 1029281,
+            "title": "Strange Darling",
+            "original_title": "Strange Darling",
+            "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.97,
+            "release_date": "2024-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+            "id": 9003,
+            "title": "Hellraiser",
+            "original_title": "Hellraiser",
+            "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
+            "poster_path": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 9.227,
+            "release_date": "1987-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.882,
+            "vote_count": 2927
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oLA6GlYvfUAAzITiXo56NEKjVQE.jpg",
+            "id": 715123,
+            "title": "Books of Blood",
+            "original_title": "Books of Blood",
+            "overview": "A journey into uncharted and forbidden territory through three tales tangled in space and time.",
+            "poster_path": "/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 4.0728,
+            "release_date": "2020-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.256,
+            "vote_count": 527
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4lYkJp44zjCCQFSOL99tff6zoA3.jpg",
+            "id": 354251,
+            "title": "Southbound",
+            "original_title": "Southbound",
+            "overview": "The film contains five stories set on desolate stretches of a desert highway. Two men on the run from their past, a band on its way to a gig, a man struggling to get home, a brother in search of his long-lost sister and a family on vacation are forced to confront their worst fears and darkest secrets in these interwoven tales.",
+            "poster_path": "/ehXtB1jlMx8FBlsX9JLhSQkvlZp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                53,
+                27,
+                878
+            ],
+            "popularity": 4.0908,
+            "release_date": "2015-09-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.916,
+            "vote_count": 687
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/obBe7n3FVvHfwK3wP182MrsBbCk.jpg",
+            "id": 826753,
+            "title": "Candy Land",
+            "original_title": "Candy Land",
+            "overview": "Remy, a seemingly naive and devout young woman, finds herself cast out from her religious cult. With no place to turn, she immerses herself into the underground world of truck stop sex workers. Under the watchful eye of their matriarch and an enigmatic local lawman, Remy navigates between her strained belief system and the code to find her true calling in life.",
+            "poster_path": "/3upBKM4ZFZ1fEEnWrnTZMuyPrzI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.5229,
+            "release_date": "2023-01-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.236,
+            "vote_count": 178
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/boprqXZexBatujVC07gZzzxjWk.jpg",
+            "id": 1109406,
+            "title": "Compulsion",
+            "original_title": "Compulsion",
+            "overview": "Two women—Diana, a flamboyant and ruthless thief, and Evie, a seemingly innocent young woman with a troubled past—become embroiled in a series of horrific murders on the island of Malta.",
+            "poster_path": "/s3MzSdsMcmxmpVJMuH5ezNPjzs7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 3.3393,
+            "release_date": "2024-11-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.046,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+            "id": 808396,
+            "title": "God Is a Bullet",
+            "original_title": "God Is a Bullet",
+            "overview": "Vice detective Bob Hightower finds his ex-wife murdered and daughter kidnapped by a cult. Frustrated by the botched official investigations, he quits the force and infiltrates the cult to hunt down the leader with the help of the cult’s only female victim escapee, Case Hardin.",
+            "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80,
+                27
+            ],
+            "popularity": 4.6942,
+            "release_date": "2023-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2VN9umruwVZsT1Pr1NMCV71HpUu.jpg",
+            "id": 9495,
+            "title": "The Crow",
+            "original_title": "The Crow",
+            "overview": "Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+            "poster_path": "/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                28,
+                53
+            ],
+            "popularity": 11.546,
+            "release_date": "1994-05-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 4605
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hRO4TS0IlH9UJW2PGuuFBYdXZgC.jpg",
+            "id": 1356236,
+            "title": "Saint Catherine",
+            "original_title": "Saint Catherine",
+            "overview": "An orphaned girl is rescued from a satanic ritual and taken to Saint Catherine Institute for homeless youth. There she will learn new skills while facing demons that stalk her.",
+            "poster_path": "/hBJdzKPeDaC96AzlrtMWBomYSZV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.6028,
+            "release_date": "2024-09-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.464,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+            "id": 1426297,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+            "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.9648,
+            "release_date": "2025-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jEt4V0Qb3g8frTl2MOwPORZthVH.jpg",
+            "id": 1160003,
+            "title": "Night of the Hunted",
+            "original_title": "Night of the Hunted",
+            "overview": "When an unsuspecting woman stops at a remote gas station in the dead of night, she's made the plaything of a sociopath sniper with a secret vendetta. To survive, she must not only dodge his bullets and fight for her life, but also figure out who wants her dead and why.",
+            "poster_path": "/84YOsylmgr181BHrTKlmaKs8IzV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 3.6709,
+            "release_date": "2023-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.024,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/456tLLmzg7OeNyijCvCfL6X55VV.jpg",
+            "id": 1142414,
+            "title": "Cheat",
+            "original_title": "Cheat",
+            "overview": "On the surface it's believed to be another urban legend - a supernatural being from the afterlife is violently killing anyone who cheats on their significant other in the small college town of Silvercreek, Pennsylvania. But the town's unusually high suicide rate is finally convincing both locals and college students that everything is not as it seems. When Maeve - a female college student - sleeps with Charlie, the married man of the host family she is staying with, both sense the deadly curse is closing in on them. Unable to get anyone to believe them, Maeve and Charlie seek out a local history student to help find answers and figure out a way to defend themselves. It all comes undone, however, as several people are horrifically killed by the savage being - one-by-one at a rapid pace. Eventually, Maeve, Charlie and the few survivors band together in an attempt to defeat the monster once and for all.",
+            "poster_path": "/46Um9OTHNA390mMxwpSSc2m35Zp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.8601,
+            "release_date": "2023-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.014,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jskfWPRW0Vioi5GpYS9iV3daoou.jpg",
+            "id": 984105,
+            "title": "The Mummy Resurrection",
+            "original_title": "The Mummy Resurrection",
+            "overview": "When an infamous \"cursed\" Egyptian sarcophagus falls into the hands of unscrupulous huckster Everett Randolph, he becomes obsessed with resurrecting the mummified princess held within it.",
+            "poster_path": "/d0pt6KlVvmtG0uhccWjgWfIqJee.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "popularity": 1.8511,
+            "release_date": "2023-01-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.396,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3r3tZgKTw1554hcFoUfydLHE38w.jpg",
+            "id": 338947,
+            "title": "Hellraiser",
+            "original_title": "Hellraiser",
+            "overview": "A young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension.",
+            "poster_path": "/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.3419,
+            "release_date": "2022-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 1065
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gEeM0ya0UDkdn7EgP5ivabZ754v.jpg",
+            "id": 608654,
+            "title": "The Banana Splits Movie",
+            "original_title": "The Banana Splits Movie",
+            "overview": "A boy named Harley and his family attend a taping of The Banana Splits TV show, which is supposed to be a fun-filled birthday for young Harley and business as usual for Rebecca, the producer of the series. But things take an unexpected turn - and the body count quickly rises. Can Harley, his mom and their new pals safely escape?",
+            "poster_path": "/vG9FY2wHVwOOQfqNlUt2LbRzRNl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.8146,
+            "release_date": "2019-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.502,
+            "vote_count": 268
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zorQaUIJP37Lo4BJr2hPJ3xK7eC.jpg",
+            "id": 104599,
+            "title": "Bewitched",
+            "original_title": "蠱",
+            "overview": "While possessed by an evil spirit, a man murders his daughter. A police detective investigating the case also becomes possessed. A good monk helps fight the evil spirit.",
+            "poster_path": "/bUy2q8VDNnG0CZ58CHoZmb0vBYY.jpg",
+            "media_type": "movie",
+            "original_language": "cn",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 1.8367,
+            "release_date": "1981-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tNa19CK0CQZl5rxZ35QRdKAT2s0.jpg",
+            "id": 460885,
+            "title": "Mandy",
+            "original_title": "Mandy",
+            "overview": "The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; but when their pine-scented haven is savagely destroyed, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.",
+            "poster_path": "/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                28,
+                27
+            ],
+            "popularity": 6.1993,
+            "release_date": "2018-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.199,
+            "vote_count": 2198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/69kwyBRuR2S3uEttJpb6ALc0MkH.jpg",
+            "id": 257117,
+            "title": "Blood Punch",
+            "original_title": "Blood Punch",
+            "overview": "Milton, a college dropout, was only supposed to cook meth for one day. Broken out of rehab by a brash young woman and her trigger-happy (\"ex\") boyfriend and driven to a remote cabin the woods, Milton finds himself drawn into a dangerous love triangle gone haywire. The couple's deadpan half-truths spin around Milton like a song on repeat. They seem to read him like an open book, until a mysterious message opens his eyes to his cursed existence. With unlimited ammunition, any hunting tool they could desire, and an ever-growing body count, for what did Milton really sign up?",
+            "poster_path": "/qQZkm86UV5qiRPbcWQOPN6iF6HN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 1.7992,
+            "release_date": "2014-02-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.432,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ow1CdUbmZPMKqDj2bow98A2cwCT.jpg",
+            "id": 480100,
+            "title": "Nightmare Cinema",
+            "original_title": "Nightmare Cinema",
+            "overview": "A series of down-on-their-luck individuals enter the decrepit and spine-chilling Rialto theater, only to have their deepest and darkest fears brought to life on the silver screen by The Projectionist – a mysterious, ghostly figure who holds the nightmarish futures of all who attend his screenings.",
+            "poster_path": "/ftdhL4zamDnjSD4TML1ES79DueX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.8427,
+            "release_date": "2018-06-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.84,
+            "vote_count": 263
+        }
+    ]
+}

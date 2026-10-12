@@ -1,0 +1,727 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.watchborderline.com",
+        "id": 1727780,
+        "imdb_id": "tt28638842",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Borderline",
+        "overview": "Convinced they are our secret saviors, rogue U.S. operatives abduct Mexican gang members and seed them across major American cities, unleashing criminal chaos, swaying voters by playing on nativist prejudices, and forcing law enforcement into a race to expose the plot as the escalating carnage threatens democracy itself.",
+        "popularity": 130.4388,
+        "poster_path": "/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+        "production_companies": [
+            {
+                "id": 303697,
+                "logo_path": null,
+                "name": "Gen1 Entertainment, LLC",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "release_date": "2026-07-17",
+        "revenue": 0,
+        "runtime": 94,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Latin",
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Borderline",
+        "video": false,
+        "vote_average": 5.885,
+        "vote_count": 13
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6334059,
+            "known_for_department": "Production",
+            "name": "Marissa Arguijo",
+            "original_name": "Marissa Arguijo",
+            "popularity": 0.5641,
+            "profile_path": null,
+            "cast_id": 7,
+            "character": "Melina",
+            "credit_id": "6a4daaea48fbce88a77b981f",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2488033,
+            "known_for_department": "Acting",
+            "name": "Michael-Eoin Stanney",
+            "original_name": "Michael-Eoin Stanney",
+            "popularity": 0.3977,
+            "profile_path": "/ybgdmLiPWu0P9RH1lgGBR49d0Rt.jpg",
+            "cast_id": 8,
+            "character": "Shawn",
+            "credit_id": "6a4daaf924a13ed1964ce7b0",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1005130,
+            "known_for_department": "Acting",
+            "name": "Marcus Jean Pirae",
+            "original_name": "Marcus Jean Pirae",
+            "popularity": 0.5766,
+            "profile_path": "/4XD78iRQJpx0uTQRg98Dfzgyb69.jpg",
+            "cast_id": 9,
+            "character": "Brett",
+            "credit_id": "6a4dab159f4f1af26a0b6309",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6334068,
+            "known_for_department": "Acting",
+            "name": "Dominic Hernandez",
+            "original_name": "Dominic Hernandez",
+            "popularity": 0.4885,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "Diego",
+            "credit_id": "6a4dab74e6ef03d18224a365",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 172880,
+            "known_for_department": "Acting",
+            "name": "Nigel Vonas",
+            "original_name": "Nigel Vonas",
+            "popularity": 0.5864,
+            "profile_path": "/hhFFUHGXU8kSDjvJZPEVFCVsagz.jpg",
+            "cast_id": 11,
+            "character": "Detective Linquist",
+            "credit_id": "6a4daba32e1d88871b4ce867",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6334069,
+            "known_for_department": "Acting",
+            "name": "Oscar Alejandro",
+            "original_name": "Oscar Alejandro",
+            "popularity": 0.6,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "Detective Delgado",
+            "credit_id": "6a4dabdb48fbce88a77b982e",
+            "order": 5
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3608633,
+            "known_for_department": "Directing",
+            "name": "Ryan Jordan",
+            "original_name": "Ryan Jordan",
+            "popularity": 0.4215,
+            "profile_path": null,
+            "credit_id": "6a4daa04b439bb055c7b96be",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6334059,
+            "known_for_department": "Production",
+            "name": "Marissa Arguijo",
+            "original_name": "Marissa Arguijo",
+            "popularity": 0.5641,
+            "profile_path": null,
+            "credit_id": "6a4daa2f43a9b0c01fc80903",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6334060,
+            "known_for_department": "Writing",
+            "name": "Jeff Cohen",
+            "original_name": "Jeff Cohen",
+            "popularity": 0.385,
+            "profile_path": null,
+            "credit_id": "6a4daa652dfc8dfc2bc807d4",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6334062,
+            "known_for_department": "Camera",
+            "name": "Donovan Randolph",
+            "original_name": "Donovan Randolph",
+            "popularity": 0.1521,
+            "profile_path": null,
+            "credit_id": "6a4daa920a24617a7a16de63",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6334059,
+            "known_for_department": "Production",
+            "name": "Marissa Arguijo",
+            "original_name": "Marissa Arguijo",
+            "popularity": 0.5641,
+            "profile_path": null,
+            "credit_id": "6a4daaaa2929bf56c44ce7c1",
+            "department": "Production",
+            "job": "Casting Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3608633,
+            "known_for_department": "Directing",
+            "name": "Ryan Jordan",
+            "original_name": "Ryan Jordan",
+            "popularity": 0.4215,
+            "profile_path": null,
+            "credit_id": "6a4daacccc48906422f9027a",
+            "department": "Production",
+            "job": "Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 534,
+            "name": "mexico"
+        },
+        {
+            "id": 521,
+            "name": "washington dc, usa"
+        },
+        {
+            "id": 6086,
+            "name": "government"
+        },
+        {
+            "id": 1900,
+            "name": "immigration"
+        },
+        {
+            "id": 10410,
+            "name": "conspiracy"
+        },
+        {
+            "id": 160977,
+            "name": "virginia"
+        },
+        {
+            "id": 198158,
+            "name": "illegal"
+        },
+        {
+            "id": 209817,
+            "name": "political thriller"
+        },
+        {
+            "id": 281237,
+            "name": "independent film"
+        },
+        {
+            "id": 371801,
+            "name": "gang members"
+        },
+        {
+            "id": 374897,
+            "name": "indie film"
+        },
+        {
+            "id": 378542,
+            "name": "baltimore"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+            "id": 1279493,
+            "title": "The Get Out",
+            "original_title": "The Get Out",
+            "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+            "poster_path": "/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 27.119,
+            "release_date": "2026-06-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.314,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4VoHeMD5EugrxmEfeUgxXpXyzuR.jpg",
+            "id": 1480,
+            "title": "Touch of Evil",
+            "original_title": "Touch of Evil",
+            "overview": "A border-town bombing draws Mexican investigator Miguel Vargas into a corruption-ridden police investigation led by crooked captain Hank Quinlan, setting off a deadly struggle over power, justice, and truth.",
+            "poster_path": "/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "popularity": 5.7615,
+            "release_date": "1958-03-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.738,
+            "vote_count": 1620
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jztSvvmOUEP8V85xadxMRoE5e2O.jpg",
+            "id": 22021,
+            "title": "Coffy",
+            "original_title": "Coffy",
+            "overview": "After her younger sister gets involved in drugs and is severely injured by contaminated heroin, a nurse sets out on a mission of vengeance and vigilante justice, killing drug dealers, pimps, and mobsters who cross her path.",
+            "poster_path": "/sN00Cvlahl6JLC2TAUBL0jZOqD3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "popularity": 3.7255,
+            "release_date": "1973-06-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 310
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9xjUZjuYyehv2qnqMH0oR9nSTft.jpg",
+            "id": 9702,
+            "title": "Bound by Honor",
+            "original_title": "Bound by Honor",
+            "overview": "Based on the true life experiences of poet Jimmy Santiago Baca, the film focuses on half-brothers Paco and Cruz, and their bi-racial cousin Miklo. It opens in 1972, as the three are members of an East L.A. gang known as the \"Vatos Locos\", and the story focuses on how a violent crime and the influence of narcotics alter their lives. Miklo is incarcerated and sent to San Quentin, where he makes a \"home\" for himself. Cruz becomes an exceptional artist, but a heroin addiction overcomes him with tragic results. Paco becomes a cop and an enemy to his \"carnal\", Miklo.",
+            "poster_path": "/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "popularity": 12.7452,
+            "release_date": "1993-02-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.197,
+            "vote_count": 1585
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
+            "id": 400535,
+            "title": "Sicario: Day of the Soldado",
+            "original_title": "Sicario: Day of the Soldado",
+            "overview": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
+            "poster_path": "/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 13.8478,
+            "release_date": "2018-06-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.948,
+            "vote_count": 4126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uFdLjtlgCbEtkQfBiZQPLfVryr5.jpg",
+            "id": 20762,
+            "title": "The Substitute",
+            "original_title": "The Substitute",
+            "overview": "When an inner-city Miami schoolteacher gets her knee broken after standing up to the school's gang leader, her mercenary combat specialist boyfriend goes undercover as a substitute teacher to take down the punk. Soon he discovers a conspiracy of criminals at work, and must reassemble his team from his last jungle raid to stop them.",
+            "poster_path": "/7vfzvhPMNauUXrVxVOPEfpOsful.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "popularity": 4.4617,
+            "release_date": "1996-04-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.001,
+            "vote_count": 587
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n9SyYytuvTXXZY6yx9Yu4iPobN2.jpg",
+            "id": 9455,
+            "title": "The Corruptor",
+            "original_title": "The Corruptor",
+            "overview": "Danny is a young cop partnered with Nick, a seasoned but ethically tainted veteran. As the two try to stop a gang war in Chinatown, Danny relies on Nick but grows increasingly uncomfortable with the way Nick gets things done.",
+            "poster_path": "/1Eg34AuZG1jtAvdM8xGHW5jiwCF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                18
+            ],
+            "popularity": 4.1692,
+            "release_date": "1999-03-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.057,
+            "vote_count": 315
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hYVAvYJXE4taTIh2y6F5mGJWfPm.jpg",
+            "id": 245916,
+            "title": "Kill the Messenger",
+            "original_title": "Kill the Messenger",
+            "overview": "A reporter becomes the target of a vicious smear campaign that drives him to the point of suicide after he exposes the CIA's role in arming Contra rebels in Nicaragua and importing cocaine into California. Based on the true story of journalist Gary Webb.",
+            "poster_path": "/8gaNZiKZHvKCqMDByY00dUIV0YC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                53,
+                36
+            ],
+            "popularity": 3.2046,
+            "release_date": "2014-10-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.621,
+            "vote_count": 933
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
+            "id": 6977,
+            "title": "No Country for Old Men",
+            "original_title": "No Country for Old Men",
+            "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+            "poster_path": "/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53,
+                37
+            ],
+            "popularity": 20.538,
+            "release_date": "2007-11-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.948,
+            "vote_count": 13563
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+            "id": 1054867,
+            "title": "One Battle After Another",
+            "original_title": "One Battle After Another",
+            "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+            "poster_path": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                35
+            ],
+            "popularity": 31.7378,
+            "release_date": "2025-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.347,
+            "vote_count": 4005
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tRdorrIjlybrGsebXOzgF7vRyYy.jpg",
+            "id": 1469354,
+            "title": "Border Hunters",
+            "original_title": "Border Hunters",
+            "overview": "After his police officer brother is killed by a drug dealer who flees to the protection of his cartel-connected uncle in Mexico, an American man with a diverse law enforcement/military background goes south of the border to get revenge",
+            "poster_path": "/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 6.3891,
+            "release_date": "2025-10-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.207,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iwZPgwUE7dJZwAo2T7xv9WAjWVL.jpg",
+            "id": 2453,
+            "title": "Harley Davidson and the Marlboro Man",
+            "original_title": "Harley Davidson and the Marlboro Man",
+            "overview": "It's the lawless future, and renegade biker Harley Davidson and his surly cowboy buddy, Marlboro, learn that a corrupt bank is about to foreclose on their friend's bar to further an expanding empire. Harley and Marlboro decide to help by robbing the crooked bank. But when they accidentally filch a drug shipment, they find themselves on the run from criminal financiers and the mob in this rugged action adventure.",
+            "poster_path": "/4WRdrjHyLuHRwep2UJWBoIn6KTW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 4.27,
+            "release_date": "1991-08-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.312,
+            "vote_count": 495
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/93ZSd7uYaJAGqQGutR3v3eynMbl.jpg",
+            "id": 325173,
+            "title": "Close Range",
+            "original_title": "Close Range",
+            "overview": "A rogue soldier turned outlaw is thrust into a relentless fight with a corrupt sheriff, his obedient deputies, and a dangerous drug cartel in order to protect his sister and her young daughter.",
+            "poster_path": "/1mB2uLg9qDzLX6BpJReAFAPyAtv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 2.2736,
+            "release_date": "2015-11-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.485,
+            "vote_count": 337
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c2B8gl2ZLbelWxS0ZODPKGJxdWX.jpg",
+            "id": 9882,
+            "title": "The Siege",
+            "original_title": "The Siege",
+            "overview": "The secret US abduction of a suspected terrorist from his Middle East homeland leads to a wave of terrorist attacks in New York.  An FBI senior agent and his team attempt to locate and decommission the enemy cells, but must also deal with an Army General gone rogue and a female CIA agent of uncertain loyalties.",
+            "poster_path": "/gbeeWu8rYaIYMyq9ayN1AepjNxP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28,
+                53,
+                80
+            ],
+            "popularity": 7.0398,
+            "release_date": "1998-11-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.295,
+            "vote_count": 1523
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/srEsK6LPJSMd0LndDIzxtBEiKNS.jpg",
+            "id": 538207,
+            "title": "We Die Young",
+            "original_title": "We Die Young",
+            "overview": "Lucas, a 14-year-old boy inducted into the gang life in Washington D.C., is determined that his 10-year-old brother won't follow the same path. When an Afghanistan war veteran comes into the neighborhood, an opportunity arises.",
+            "poster_path": "/dB0Dl2nDRmvplaJLeHSfkppJXHs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28,
+                80,
+                53
+            ],
+            "popularity": 3.532,
+            "release_date": "2019-05-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.777,
+            "vote_count": 357
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3a3Ch56Y7n8ouiAXPdFDmVLnvWz.jpg",
+            "id": 19384,
+            "title": "Dark Angel",
+            "original_title": "Dark Angel",
+            "overview": "Jack Caine is a Houston vice cop who's forgotten the rule book. His self-appointed mission is to stop the drugs trade and the number one supplier Victor Manning. While involved in an undercover operation to entrap Victor Manning, his partner is killed, and a sinister newcomer enters the scene...",
+            "poster_path": "/zwsesgAluQKDmdAA2nhlEc4FhFd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "popularity": 7.5571,
+            "release_date": "1990-01-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.112,
+            "vote_count": 387
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oAFd9y3myakKyTAwcv0YIpxt08Z.jpg",
+            "id": 1511556,
+            "title": "Under Fire",
+            "original_title": "Under Fire",
+            "overview": "Story unfolds in the scorching heat of the Mexico border, where rival drug dealers Griff and Abbott arrive at a remote drop point for a routine drug deal. But when the exchange goes down, both reveal undercover badges — Griff is FBI, Abbott is DEA — and neither knew they were working the same case.",
+            "poster_path": "/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                53,
+                18
+            ],
+            "popularity": 2.4988,
+            "release_date": "2025-08-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yky6Dsxbv5ItMepk8GGu23K6Mvs.jpg",
+            "id": 1093995,
+            "title": "Chief of Station",
+            "original_title": "Chief of Station",
+            "overview": "After learning that the death of his wife was not an accident, a former CIA Station Chief is forced back into the espionage underworld, teaming up with an adversary to unravel a conspiracy that challenges everything he thought he knew.",
+            "poster_path": "/yndlj5aNPWAZ5ayJ4a2S37o98lq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 8.2756,
+            "release_date": "2024-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 253
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cdd4S09XxLLvp6IRN4PQamPAXL6.jpg",
+            "id": 82682,
+            "title": "Gangster Squad",
+            "original_title": "Gangster Squad",
+            "overview": "Los Angeles, 1949. Ruthless, Brooklyn-born mob king Mickey Cohen runs the show in this town, reaping the ill-gotten gains from the drugs, the guns, the prostitutes and — if he has his way — every wire bet placed west of Chicago. And he does it all with the protection of not only his own paid goons, but also the police and the politicians who are under his control. It’s enough to intimidate even the bravest, street-hardened cop… except, perhaps, for the small, secret crew of LAPD outsiders led by Sgt. John O’Mara and Jerry Wooters who come together to try to tear Cohen’s world apart.",
+            "poster_path": "/wAuQNTBFBu2yXZsX6yLhUPiwTlW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                28,
+                53
+            ],
+            "popularity": 7.0643,
+            "release_date": "2013-01-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.38,
+            "vote_count": 4289
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h51DdjaDD2aPu1fLHsmpJaaJinS.jpg",
+            "id": 504172,
+            "title": "The Mule",
+            "original_title": "The Mule",
+            "overview": "Earl Stone, a man in his eighties, is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he's just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard-charging DEA agent Colin Bates.",
+            "poster_path": "/vkOfx5meJvFb4qmAJU7j6v8IIpZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "popularity": 10.464,
+            "release_date": "2018-12-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.869,
+            "vote_count": 5418
+        }
+    ]
+}

@@ -1,0 +1,561 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": {
+            "id": 1074148,
+            "name": "Mirror, Flowers and Moonlight",
+            "poster_path": null,
+            "backdrop_path": null
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 687259,
+        "imdb_id": null,
+        "origin_country": [
+            "TW"
+        ],
+        "original_language": "zh",
+        "original_title": "镜花风月三之螺女挑情",
+        "overview": "",
+        "popularity": 34.1912,
+        "poster_path": "/m4ALMhsuqOOUkkABvgQWfrgoL8y.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "release_date": "1982-01-01",
+        "revenue": 0,
+        "runtime": 80,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Mandarin",
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Ghost Stories",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 2
+    },
+    "cast": [
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 4565989,
+            "known_for_department": "Acting",
+            "name": "Jiang Ling-Ling",
+            "original_name": "蒋玲玲",
+            "popularity": 0.0,
+            "profile_path": null,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "66eb020bb2917eb1800bc191",
+            "order": 0
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 4203790,
+            "known_for_department": "Acting",
+            "name": "Ai Ting",
+            "original_name": "爱婷",
+            "popularity": 0.0,
+            "profile_path": null,
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "66eb025082ff873f7d1f6801",
+            "order": 1
+        },
+        {
+            "adult": true,
+            "gender": 0,
+            "id": 4203789,
+            "known_for_department": "Acting",
+            "name": "Chu Hui-Te",
+            "original_name": "Chu Hui-Te",
+            "popularity": 0.0,
+            "profile_path": "/rSL1j0oFI3PqLX7GLoPtMNP8vu8.jpg",
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "66eb04361beca8ce07d398a1",
+            "order": 2
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 4481090,
+            "known_for_department": "Acting",
+            "name": "Kao Wen-Song",
+            "original_name": "高文松",
+            "popularity": 0.0,
+            "profile_path": "/sbFl6OzvjiSysrzUxE7DRqJmrrp.jpg",
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "66eb0470b2917eb1800bc3c3",
+            "order": 3
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 4565991,
+            "known_for_department": "Acting",
+            "name": "Chia-bao Lan",
+            "original_name": "蓝家宝",
+            "popularity": 0.0,
+            "profile_path": "/1s7nySl9T5sKtETqKA2tRwlWDRf.jpg",
+            "cast_id": 9,
+            "character": "",
+            "credit_id": "66eb074e5c0519a234d380e5",
+            "order": 4
+        }
+    ],
+    "crew": [
+        {
+            "adult": true,
+            "gender": 0,
+            "id": 3183530,
+            "known_for_department": "Directing",
+            "name": "Hsin Yen",
+            "original_name": "辛仁",
+            "popularity": 0.0,
+            "profile_path": null,
+            "credit_id": "695461d3b112fd556de41ec2",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/rhuEN18ZimDOva3guaWZA4hYgLB.jpg",
+            "id": 1309083,
+            "title": "Dolly",
+            "original_title": "Dolly",
+            "overview": "Young Macy is abducted by a deranged, monstrous figure who wants to raise her as its child.",
+            "poster_path": "/oJJquv1sg5XMTIyNHxEm0KLo696.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 19.4975,
+            "release_date": "2026-03-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.806,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hRO4TS0IlH9UJW2PGuuFBYdXZgC.jpg",
+            "id": 1356236,
+            "title": "Saint Catherine",
+            "original_title": "Saint Catherine",
+            "overview": "An orphaned girl is rescued from a satanic ritual and taken to Saint Catherine Institute for homeless youth. There she will learn new skills while facing demons that stalk her.",
+            "poster_path": "/hBJdzKPeDaC96AzlrtMWBomYSZV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.6028,
+            "release_date": "2024-09-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.464,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xHd6rARprd4woZinkziIntiTSZD.jpg",
+            "id": 854188,
+            "title": "The Kindred",
+            "original_title": "The Kindred",
+            "overview": "After her father’s suicide, a young mother investigates what led to his death. But when she is haunted by spirits and unearths an unsolved mystery from 30 years ago, she discovers a dark family history that could prove deadly for her child.",
+            "poster_path": "/jDXAaMLk7NNXdXZkeTMtr4xo6f5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.0399,
+            "release_date": "2021-12-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.406,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oLA6GlYvfUAAzITiXo56NEKjVQE.jpg",
+            "id": 715123,
+            "title": "Books of Blood",
+            "original_title": "Books of Blood",
+            "overview": "A journey into uncharted and forbidden territory through three tales tangled in space and time.",
+            "poster_path": "/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 4.0728,
+            "release_date": "2020-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.256,
+            "vote_count": 527
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+            "id": 1426297,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+            "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.9648,
+            "release_date": "2025-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fHNFZ3aEmNWzDNADqoDA7TSg7DW.jpg",
+            "id": 482325,
+            "title": "Bunnyman Vengeance",
+            "original_title": "Bunnyman Vengeance",
+            "overview": "The man known as Bunnyman returns home to find his family running a haunted house attraction. The family welcomes him home, but soon realizes you cannot domesticate a wild animal. Death and mayhem ensue as the family turn on one another to fulfill their bloodlust.",
+            "poster_path": "/rVQgv1nvuq3TqVuxzQRSn9w3t6e.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 1.6427,
+            "release_date": "2017-10-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 62
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/boprqXZexBatujVC07gZzzxjWk.jpg",
+            "id": 1109406,
+            "title": "Compulsion",
+            "original_title": "Compulsion",
+            "overview": "Two women—Diana, a flamboyant and ruthless thief, and Evie, a seemingly innocent young woman with a troubled past—become embroiled in a series of horrific murders on the island of Malta.",
+            "poster_path": "/s3MzSdsMcmxmpVJMuH5ezNPjzs7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 3.3393,
+            "release_date": "2024-11-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.046,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/456tLLmzg7OeNyijCvCfL6X55VV.jpg",
+            "id": 1142414,
+            "title": "Cheat",
+            "original_title": "Cheat",
+            "overview": "On the surface it's believed to be another urban legend - a supernatural being from the afterlife is violently killing anyone who cheats on their significant other in the small college town of Silvercreek, Pennsylvania. But the town's unusually high suicide rate is finally convincing both locals and college students that everything is not as it seems. When Maeve - a female college student - sleeps with Charlie, the married man of the host family she is staying with, both sense the deadly curse is closing in on them. Unable to get anyone to believe them, Maeve and Charlie seek out a local history student to help find answers and figure out a way to defend themselves. It all comes undone, however, as several people are horrifically killed by the savage being - one-by-one at a rapid pace. Eventually, Maeve, Charlie and the few survivors band together in an attempt to defeat the monster once and for all.",
+            "poster_path": "/46Um9OTHNA390mMxwpSSc2m35Zp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.8601,
+            "release_date": "2023-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.014,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ow1CdUbmZPMKqDj2bow98A2cwCT.jpg",
+            "id": 480100,
+            "title": "Nightmare Cinema",
+            "original_title": "Nightmare Cinema",
+            "overview": "A series of down-on-their-luck individuals enter the decrepit and spine-chilling Rialto theater, only to have their deepest and darkest fears brought to life on the silver screen by The Projectionist – a mysterious, ghostly figure who holds the nightmarish futures of all who attend his screenings.",
+            "poster_path": "/ftdhL4zamDnjSD4TML1ES79DueX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.8427,
+            "release_date": "2018-06-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.84,
+            "vote_count": 263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/obBe7n3FVvHfwK3wP182MrsBbCk.jpg",
+            "id": 826753,
+            "title": "Candy Land",
+            "original_title": "Candy Land",
+            "overview": "Remy, a seemingly naive and devout young woman, finds herself cast out from her religious cult. With no place to turn, she immerses herself into the underground world of truck stop sex workers. Under the watchful eye of their matriarch and an enigmatic local lawman, Remy navigates between her strained belief system and the code to find her true calling in life.",
+            "poster_path": "/3upBKM4ZFZ1fEEnWrnTZMuyPrzI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.5229,
+            "release_date": "2023-01-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.236,
+            "vote_count": 178
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+            "id": 808396,
+            "title": "God Is a Bullet",
+            "original_title": "God Is a Bullet",
+            "overview": "Vice detective Bob Hightower finds his ex-wife murdered and daughter kidnapped by a cult. Frustrated by the botched official investigations, he quits the force and infiltrates the cult to hunt down the leader with the help of the cult’s only female victim escapee, Case Hardin.",
+            "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80,
+                27
+            ],
+            "popularity": 4.6942,
+            "release_date": "2023-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jEt4V0Qb3g8frTl2MOwPORZthVH.jpg",
+            "id": 1160003,
+            "title": "Night of the Hunted",
+            "original_title": "Night of the Hunted",
+            "overview": "When an unsuspecting woman stops at a remote gas station in the dead of night, she's made the plaything of a sociopath sniper with a secret vendetta. To survive, she must not only dodge his bullets and fight for her life, but also figure out who wants her dead and why.",
+            "poster_path": "/84YOsylmgr181BHrTKlmaKs8IzV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 3.6709,
+            "release_date": "2023-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.024,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4CYo6O6p0bANfXLIwQZJpXPxmPc.jpg",
+            "id": 19185,
+            "title": "Night of the Living Dead",
+            "original_title": "Night of the Living Dead",
+            "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+            "poster_path": "/7WkSCClUvcAq8JNEp4pM4A9hiDU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.0169,
+            "release_date": "1990-10-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 987
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/I4ofwq3XfmwXAETUs5pjubcMJ0.jpg",
+            "id": 1029281,
+            "title": "Strange Darling",
+            "original_title": "Strange Darling",
+            "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.97,
+            "release_date": "2024-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hldPY45usHEt6Zv73oxe1yKyUa0.jpg",
+            "id": 628707,
+            "title": "Trick",
+            "original_title": "Trick",
+            "overview": "A detective tries to track down a masked killer who reappears every Halloween to wreak bloody havoc.",
+            "poster_path": "/vxo4qqrhz61SnAUtlHIbYPzZoBU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.5025,
+            "release_date": "2019-10-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.81,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sFtBsQVPZdR13MQh36Npfx9m9Lw.jpg",
+            "id": 38541,
+            "title": "The Divide",
+            "original_title": "The Divide",
+            "overview": "Survivors of a nuclear attack are grouped together for days in the basement of their apartment building, where fear and dwindling supplies wear away at their dynamic.",
+            "poster_path": "/hnwX5cUuzBDM0OWJB2UtnjkrHDm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "popularity": 4.6158,
+            "release_date": "2012-01-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.858,
+            "vote_count": 763
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/glB4P9UmydAoktMOKHbDCa0XMxb.jpg",
+            "id": 30885,
+            "title": "Vampyres",
+            "original_title": "Vampyres",
+            "overview": "A duo of bisexual female vampires prey on passing motorists, whom they seduce and murder in the English countryside.",
+            "poster_path": "/xPA3n6HGiZccrkygDPq6tzeEDbU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.5829,
+            "release_date": "1974-07-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.957,
+            "vote_count": 162
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
+            "id": 285923,
+            "title": "Grindhouse",
+            "original_title": "Grindhouse",
+            "overview": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
+            "poster_path": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                27
+            ],
+            "popularity": 5.1775,
+            "release_date": "2007-04-06",
+            "softcore": false,
+            "video": true,
+            "vote_average": 7.004,
+            "vote_count": 1915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dmXsktpfHgTNeLFeo5nVItiXuBr.jpg",
+            "id": 517116,
+            "title": "Haunt",
+            "original_title": "Haunt",
+            "overview": "On Halloween, a group of friends encounter an extreme haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realisation that some nightmares are real.",
+            "poster_path": "/haQSrjFlq30I60UVN1VsB6uRwKM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.4273,
+            "release_date": "2019-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.669,
+            "vote_count": 1393
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gCIB84HvfkJAT2TadUnk58W1XQx.jpg",
+            "id": 543917,
+            "title": "Bloodline",
+            "original_title": "Bloodline",
+            "overview": "Evan values family above all else, and anyone who gets between him, his wife, and newborn son learns that the hard way. But when it comes to violent tendencies, it seems the apple doesn’t fall far from the tree.",
+            "poster_path": "/u9UfbDVilnhT3fa82aTFs3O0TsA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 1.8247,
+            "release_date": "2019-09-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 284
+        }
+    ]
+}

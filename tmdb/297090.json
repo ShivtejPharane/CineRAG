@@ -1,0 +1,923 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/bYXYrMZeS792zS87xD9ySUALVgK.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 297090,
+        "imdb_id": "tt3617996",
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_title": "ちょっとかわいいアイアンメイデン",
+        "overview": "The \"Torture Club\" is an official after-school activity at the private school Saint Honesty Gakuen. Yuzuki has no idea about the club when she enrolls, and gets abducted by the club members and hauled off the club-room. There, she finds out that upper-class student Aoi, her secret idol, is in the club, and decides to join, but…",
+        "popularity": 11.0923,
+        "poster_path": "/hkK8JqGZa48jk9iaQBIyefGcqUo.jpg",
+        "production_companies": [
+            {
+                "id": 2073,
+                "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+                "name": "KADOKAWA",
+                "origin_country": "JP"
+            },
+            {
+                "id": 84462,
+                "logo_path": null,
+                "name": "Shaiker",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2014-07-19",
+        "revenue": 0,
+        "runtime": 97,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Torture Club",
+        "video": false,
+        "vote_average": 5.235,
+        "vote_count": 51
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 553173,
+            "known_for_department": "Acting",
+            "name": "Noriko Kohara",
+            "original_name": "小原徳子",
+            "popularity": 1.785,
+            "profile_path": "/hEvoP27BwLYVvrTUKHJeZVb5d1g.jpg",
+            "cast_id": 0,
+            "character": "Yuzuki Muto",
+            "credit_id": "54398d4ec3a368199c0009cb",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1373041,
+            "known_for_department": "Acting",
+            "name": "Haruna Yoshizumi",
+            "original_name": "吉住はるな",
+            "popularity": 0.8531,
+            "profile_path": "/sjVAdCOiFYgZloTO4n9yzkBB4Hq.jpg",
+            "cast_id": 1,
+            "character": "Aoi Funaki",
+            "credit_id": "54398d830e0a2649ab000a67",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1266271,
+            "known_for_department": "Acting",
+            "name": "Yuki Mamiya",
+            "original_name": "桝田幸希",
+            "popularity": 3.2342,
+            "profile_path": "/xhCsLxrOz2YxCDAcTaMCBY4ftXP.jpg",
+            "cast_id": 2,
+            "character": "Yuri Kobashi",
+            "credit_id": "54398db5c3a36819a1000ac1",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1453353,
+            "known_for_department": "Acting",
+            "name": "Mika Yano",
+            "original_name": "矢野未夏",
+            "popularity": 1.0793,
+            "profile_path": "/3zqDaX5Ws7QE28HdLv3tU8KMbGp.jpg",
+            "cast_id": 9,
+            "character": "Maika Shinzaki",
+            "credit_id": "5ba345420e0a265e5301310c",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2041432,
+            "known_for_department": "Acting",
+            "name": "Nami Motoyama",
+            "original_name": "本山なみ",
+            "popularity": 1.1418,
+            "profile_path": "/5csG46OjjS0nbKBMAsAcbPxeC5I.jpg",
+            "cast_id": 13,
+            "character": "",
+            "credit_id": "5ebc1bb14ca676001fd7552b",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2092979,
+            "known_for_department": "Acting",
+            "name": "Kanako Mochida",
+            "original_name": "Kanako Mochida",
+            "popularity": 0.4686,
+            "profile_path": "/4UeOUSIT0N0htICRX8Dne8t3f7k.jpg",
+            "cast_id": 8,
+            "character": "Secretary",
+            "credit_id": "5ba34530c3a3683396012e39",
+            "order": 5
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 1453351,
+            "known_for_department": "Acting",
+            "name": "Reiko Hayama",
+            "original_name": "葉山レイコ",
+            "popularity": 0.0,
+            "profile_path": "/dgzlH7ofnGDZNhat0psAjXfvGnP.jpg",
+            "cast_id": 7,
+            "character": "Rin Hokuto",
+            "credit_id": "5ba34513c3a368339f012ae8",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 35643,
+            "known_for_department": "Acting",
+            "name": "Shungicu Uchida",
+            "original_name": "内田春菊",
+            "popularity": 0.7228,
+            "profile_path": "/yULFUme9KfJPscwe9KJf5nrNRHS.jpg",
+            "cast_id": 14,
+            "character": "",
+            "credit_id": "5ebc1d98c3514c001e5f2700",
+            "order": 7
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 2041193,
+            "known_for_department": "Acting",
+            "name": "Rei Mizuna",
+            "original_name": "みづなれい",
+            "popularity": 0.0,
+            "profile_path": "/zMqX1IVEf3pkcpxXIO9RFXUrR3U.jpg",
+            "cast_id": 16,
+            "character": "Hokuto's henchwoman",
+            "credit_id": "5ebc1e6fa294f000220c20c2",
+            "order": 8
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1034266,
+            "known_for_department": "Production",
+            "name": "Yuichi Shibahara",
+            "original_name": "柴原祐一",
+            "popularity": 0.487,
+            "profile_path": null,
+            "credit_id": "54399ae30e0a2649b6000c58",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1161666,
+            "known_for_department": "Production",
+            "name": "Ujikatsu Omori",
+            "original_name": "大森氏勝",
+            "popularity": 0.2962,
+            "profile_path": null,
+            "credit_id": "54399a6e0e0a2649b6000c3f",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1373046,
+            "known_for_department": "Production",
+            "name": "Hidehisa Chiwata",
+            "original_name": "千綿英久",
+            "popularity": 0.5401,
+            "profile_path": null,
+            "credit_id": "54399aca0e0a2649ab000bd7",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1206861,
+            "known_for_department": "Directing",
+            "name": "Kōta Yoshida",
+            "original_name": "吉田浩太",
+            "popularity": 0.8265,
+            "profile_path": "/t7iqeN906IFIjwkQv5T2SRD005I.jpg",
+            "credit_id": "54398f18c3a3681998000a15",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1130943,
+            "known_for_department": "Sound",
+            "name": "Akira Matsumoto",
+            "original_name": "松本章",
+            "popularity": 0.363,
+            "profile_path": null,
+            "credit_id": "6451cc931056110173ea4eb4",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1265976,
+            "known_for_department": "Sound",
+            "name": "Mikisuke Shimazu",
+            "original_name": "島津未来介",
+            "popularity": 0.4255,
+            "profile_path": null,
+            "credit_id": "647dd834cf4b8b01031f519c",
+            "department": "Sound",
+            "job": "Sound Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2602784,
+            "known_for_department": "Writing",
+            "name": "Alpha AlfLayla",
+            "original_name": "Alpha AlfLayla",
+            "popularity": 0.2837,
+            "profile_path": null,
+            "credit_id": "5e97645b9defda001aba6741",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1206861,
+            "known_for_department": "Directing",
+            "name": "Kōta Yoshida",
+            "original_name": "吉田浩太",
+            "popularity": 0.8265,
+            "profile_path": "/t7iqeN906IFIjwkQv5T2SRD005I.jpg",
+            "credit_id": "5e97643919ab590014462b74",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1403483,
+            "known_for_department": "Writing",
+            "name": "Makoto Fukami",
+            "original_name": "深見真",
+            "popularity": 0.6559,
+            "profile_path": "/j37RmTE2nmSaiZQ4q44KpP5Lfn7.jpg",
+            "credit_id": "5e97644d19ab590014462b80",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1720856,
+            "known_for_department": "Production",
+            "name": "Akio Motojima",
+            "original_name": "本島章雄",
+            "popularity": 0.4526,
+            "profile_path": null,
+            "credit_id": "5ebc1ea3a294f000200bfb6c",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1161664,
+            "known_for_department": "Production",
+            "name": "Shinichirou Inoue",
+            "original_name": "井上伸一郎",
+            "popularity": 0.5546,
+            "profile_path": "/qxdvBbkO8QBIdPETF8SJ87R5u4H.jpg",
+            "credit_id": "5ebc1dcd614c6d001c8ed863",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1750848,
+            "known_for_department": "Art",
+            "name": "Kôsuke Nishibuchi",
+            "original_name": "西渕浩祐",
+            "popularity": 0.3736,
+            "profile_path": null,
+            "credit_id": "5ebc1f64614c6d001d8ffc45",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1608496,
+            "known_for_department": "Sound",
+            "name": "Yoshio Nakamura",
+            "original_name": "中村佳央",
+            "popularity": 0.392,
+            "profile_path": null,
+            "credit_id": "5ebc1fd6c3514c001e5f290b",
+            "department": "Sound",
+            "job": "Sound Effects"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1792427,
+            "known_for_department": "Directing",
+            "name": "Naoyoshi Kawamatsu",
+            "original_name": "川松尚良",
+            "popularity": 0.3652,
+            "profile_path": null,
+            "credit_id": "5ebc206cc3514c001e5f2a16",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2637094,
+            "known_for_department": "Editing",
+            "name": "Masayuki Narumi",
+            "original_name": "Masayuki Narumi",
+            "popularity": 0.2691,
+            "profile_path": null,
+            "credit_id": "5ebc20080cb335001fceae58",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1650711,
+            "known_for_department": "Crew",
+            "name": "Masafumi Seki",
+            "original_name": "Masafumi Seki",
+            "popularity": 0.2,
+            "profile_path": null,
+            "credit_id": "5ebc1ed0a294f000200bfc6d",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 553067,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Masae Miyamoto",
+            "original_name": "宮本まさ江",
+            "popularity": 0.896,
+            "profile_path": null,
+            "credit_id": "5ebc1f94aad9c20021237863",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2637096,
+            "known_for_department": "Production",
+            "name": "Yuya Kusuma",
+            "original_name": "Yuya Kusuma",
+            "popularity": 0.23,
+            "profile_path": null,
+            "credit_id": "5ebc203caad9c2002024c341",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2637093,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Naomi Oikawa",
+            "original_name": "及川奈緒美",
+            "popularity": 0.3067,
+            "profile_path": null,
+            "credit_id": "5ebc1f81a294f000210c5014",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1190575,
+            "known_for_department": "Art",
+            "name": "Shuji Yamashita",
+            "original_name": "山下修侍",
+            "popularity": 0.5579,
+            "profile_path": null,
+            "credit_id": "5ebc1f32c3514c001f5bd3f7",
+            "department": "Art",
+            "job": "Production Design"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 910,
+            "name": "bondage"
+        },
+        {
+            "id": 9833,
+            "name": "lesbian relationship"
+        },
+        {
+            "id": 13006,
+            "name": "torture"
+        },
+        {
+            "id": 13141,
+            "name": "based on manga"
+        },
+        {
+            "id": 156777,
+            "name": "teenage sexuality"
+        },
+        {
+            "id": 158713,
+            "name": "bdsm"
+        },
+        {
+            "id": 264386,
+            "name": "lesbian"
+        },
+        {
+            "id": 280003,
+            "name": "girls' love (gl)"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/5n417Ff5GXOGCOKj3ZLMRAxEP0o.jpg",
+            "id": 249397,
+            "title": "Nymphomaniac: Vol. II",
+            "original_title": "Nymphomaniac: Vol. II",
+            "overview": "The continuation of Joe's sexually dictated life delves into the darker aspects of her adult life and what led to her being in Seligman's care.",
+            "poster_path": "/iLUNqgNKuWn667kXCKztSxYbT3k.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "popularity": 12.9739,
+            "release_date": "2013-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.713,
+            "vote_count": 3233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gtYmm8HeM6CneomZ98flixAGsBe.jpg",
+            "id": 3176,
+            "title": "Battle Royale",
+            "original_title": "バトル・ロワイアル",
+            "overview": "In the future, the Japanese government captures a class of ninth-grade students and forces them to kill each other under the revolutionary \"Battle Royale\" act.",
+            "poster_path": "/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                18,
+                53,
+                28
+            ],
+            "popularity": 8.9389,
+            "release_date": "2000-12-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.266,
+            "vote_count": 3896
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gpttyaLQTVfHDYxAuJjzJdFLbbT.jpg",
+            "id": 39872,
+            "title": "Female Prisoner Scorpion: Jailhouse 41",
+            "original_title": "女囚さそり 第41雑居房",
+            "overview": "After being used and betrayed by the detective she had fallen in love with, young Matsu is sent to a female prison full of sadistic guards and disobedient prisoners.",
+            "poster_path": "/q2PYJshLAXKxd2tsXqgifhbkfAp.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "popularity": 2.3399,
+            "release_date": "1972-12-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.095,
+            "vote_count": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5wHcVeMuUNlgQ2JvN0bVQ4sSDeM.jpg",
+            "id": 28339,
+            "title": "Hard to Die",
+            "original_title": "Hard to Die",
+            "overview": "While doing the inventory for a lingerie outlet in a high rise office building, five attractive women are terrorized by a series of bizarre killings. They suspect that the strange janitor, who witnessed another series of killings six months previously, is at the bottom of the whole thing. Little do they know the real horror that they face in the end.",
+            "poster_path": "/sQPdz28o3LmEaknwwnKB8zqqIYF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "popularity": 7.986,
+            "release_date": "1990-10-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.058,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5pLaYZGbweHYULiNiRehPxYuUnn.jpg",
+            "id": 2640,
+            "title": "Heathers",
+            "original_title": "Heathers",
+            "overview": "A girl who halfheartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics: by killing the popular kids.",
+            "poster_path": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 5.7408,
+            "release_date": "1989-03-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 1907
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5aJSslamieLswuGN6HZuVLEEslt.jpg",
+            "id": 51429,
+            "title": "Female Yakuza Tale",
+            "original_title": "やさぐれ姐御伝　総括リンチ",
+            "overview": "Ocho is accidentally captured by a drug trafficking cartel who use Chinese women to smuggle drugs into Japan by hiding it in their vaginas. She is tortured, and manages to escape, fighting both the male yakuzas and a gang of female thieves.",
+            "poster_path": "/hLJRw2yL0esLjQ5CgzMedZMkIth.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "popularity": 4.3711,
+            "release_date": "1973-06-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h8RQ5X0SzCLtICqIEgw2Xqcb7oY.jpg",
+            "id": 33408,
+            "title": "The Crush",
+            "original_title": "The Crush",
+            "overview": "A precocious and obsessive teenager develops a crush on a naive writer with harrowing consequences.",
+            "poster_path": "/4B0eHFjUYYZlkE1fthC29KVC4CS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 4.4342,
+            "release_date": "1993-04-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.675,
+            "vote_count": 565
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mMjRFMOuFxsL2elALlm5v8CA7ud.jpg",
+            "id": 172631,
+            "title": "Family Weekend",
+            "original_title": "Family Weekend",
+            "overview": "A 16-year-old girl takes her parents hostage after they miss her big jump-roping competition.",
+            "poster_path": "/RiUNV96HPP14OfB7ILEOe2Vj26.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 3.0363,
+            "release_date": "2013-03-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.328,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1yhQqbi1rZg9EJiOI22i8Xg7vW.jpg",
+            "id": 814776,
+            "title": "Bottoms",
+            "original_title": "Bottoms",
+            "overview": "Unpopular best friends PJ and Josie start a high school self-defense club to meet girls and lose their virginity. They soon find themselves in over their heads when the most popular students start beating each other up in the name of self-defense.",
+            "poster_path": "/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 7.6838,
+            "release_date": "2023-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.754,
+            "vote_count": 888
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9g8UsxDTkzlVyjBJBRJT3zDceTC.jpg",
+            "id": 376660,
+            "title": "The Edge of Seventeen",
+            "original_title": "The Edge of Seventeen",
+            "overview": "Two high school girls are best friends until one dates the other's older brother, who is totally his sister's nemesis.",
+            "poster_path": "/15FykQKiM0aYpC1MuybR43xl8eF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 6.6577,
+            "release_date": "2016-11-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.153,
+            "vote_count": 4298
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o0cm4EExs6uEbCUlFZoJ74BkFPt.jpg",
+            "id": 204342,
+            "title": "HK: Forbidden Super Hero",
+            "original_title": "HK/変態仮面",
+            "overview": "High school student Kyosuke Shikijo is the most talented member of the school's martial arts of the fist club. His late father was detective and Kyosuke share his father's strong sense of justice. Kyosuke also has a secret. Kyosuke likes to wear female underwear and transforms himself into the alter ego \"Hentai Kamen,\" wearing female underwear and gaining superhuman powers. This unusual interest also comes from his parents, with his father a masochist and his mother a sadist. By chance, Kyosuke gets the underwear of female high school student Aiko Himeno. With her underwear, he gains various pervert techniques and attempts to protect Aiko from a dirty and heinous teacher.",
+            "poster_path": "/o5ENtNf4uNACilr90RNTIhd2CtU.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "popularity": 2.2927,
+            "release_date": "2013-04-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.21,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
+            "id": 18415,
+            "title": "Gummo",
+            "original_title": "Gummo",
+            "overview": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
+            "poster_path": "/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 2.8128,
+            "release_date": "1997-10-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.599,
+            "vote_count": 724
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yetPav6Lpo30pl8RE5jaXFCgsIa.jpg",
+            "id": 15802,
+            "title": "Tokyo Decadence",
+            "original_title": "トパーズ",
+            "overview": "A submissive hooker goes about her trade, suffering abuse at the hands of Japanese salarymen and Yakuza types. She's unhappy about her work, and is apparently trying to find some sort of appeasement for the fact that her lover has married.",
+            "poster_path": "/ya3HsnwavmtQYMxnGS5T5RV6do0.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 8.8268,
+            "release_date": "1992-01-06",
+            "softcore": true,
+            "video": false,
+            "vote_average": 5.969,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wyDNiOVWwviCFzWITuxs9CnjmAW.jpg",
+            "id": 396263,
+            "title": "GANTZ:O",
+            "original_title": "GANTZ:O",
+            "overview": "After being brutally murdered in a subway station, a teen boy awakens to find himself resurrected by a strange computer named Gantz, and forced to fight a large force of invading aliens in Osaka.",
+            "poster_path": "/9yTuw6ddf28lItHwgeqFSNtXsaG.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                878,
+                28,
+                18
+            ],
+            "popularity": 5.6399,
+            "release_date": "2016-10-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 858
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wJYYlHZ2GHgcWo9BX9RtmzhZpC8.jpg",
+            "id": 487358,
+            "title": "River's Edge",
+            "original_title": "リバーズ・エッジ",
+            "overview": "High schooler Haruna befriends loner Yamada, then is drawn into the tangled relationship between him, a model and the girl who loves him unreasonably.",
+            "poster_path": "/bRDRZkZsw3GUspQgjDaTBkFAokl.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "popularity": 1.5389,
+            "release_date": "2018-02-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.077,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s75xYQOo4Hy2fy229CEfj5jgC2B.jpg",
+            "id": 73108,
+            "title": "Teen Spirit",
+            "original_title": "Teen Spirit",
+            "overview": "Amber, a mean popular girl who gets electrocuted and dies, is not allowed to enter into heaven unless she helps the least popular girl in school become Prom Queen within a week, but things do not go as planned.",
+            "poster_path": "/8mmxoEBzTMX4ziYgveeEx35ltNY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                14,
+                35,
+                10770
+            ],
+            "popularity": 3.4732,
+            "release_date": "2011-08-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.93,
+            "vote_count": 302
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q0PBB2RCrOAZrZjqJKhL3ibTV8b.jpg",
+            "id": 75629,
+            "title": "Evangelion: 3.0 You Can (Not) Redo",
+            "original_title": "ヱヴァンゲリヲン新劇場版:Q",
+            "overview": "Fourteen years after Third Impact, Shinji Ikari awakens to a world he does not remember. He hasn't aged. Much of Earth is laid in ruins, NERV has been dismantled, and people who he once protected have turned against him. Befriending the enigmatic Kaworu Nagisa, Shinji continues the fight against the angels and realizes the fighting is far from over, even when it could be against his former allies. The characters' struggles continue amidst the battles against the angels and each other, spiraling down to what could inevitably be the end of the world.",
+            "poster_path": "/d0s1xvykzl0kz7fP5S2ROYqphdz.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                878,
+                28,
+                18
+            ],
+            "popularity": 4.9052,
+            "release_date": "2012-11-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.203,
+            "vote_count": 948
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/48z4fEXAVwYXUnp8SVuQ94ohsRl.jpg",
+            "id": 20617,
+            "title": "Taboo",
+            "original_title": "御法度",
+            "overview": "Set during Japan's Shogun era, this film looks at life in a samurai compound where young warriors are trained in swordfighting. A number of interpersonal conflicts are brewing in the training room, all centering on a handsome young samurai named Sozaburo Kano. The school's stern master can choose to intervene, or to let Kano decide his own path.",
+            "poster_path": "/jJxYFrbWhgK2FCjUDWZAkqlXX8.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                18,
+                36,
+                53
+            ],
+            "popularity": 2.3191,
+            "release_date": "1999-12-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+            "id": 1292415,
+            "title": "Beast",
+            "original_title": "Beast",
+            "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+            "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 24.9366,
+            "release_date": "2026-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i2WrfAiK3o5NjqdM7XZKTrwil6m.jpg",
+            "id": 18555,
+            "title": "Foxfire",
+            "original_title": "Foxfire",
+            "overview": "The story of five teenage girls who form an unlikely bond after beating up a teacher who has sexually harassed them. They build a solid friendship but their wild ways begin to get out of control.",
+            "poster_path": "/ywrSScJT43HerqWPlMu8nigLFzg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "popularity": 2.4953,
+            "release_date": "1996-08-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.016,
+            "vote_count": 156
+        }
+    ]
+}

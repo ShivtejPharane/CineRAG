@@ -1,0 +1,689 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/3ZUbUzHFaDYGmTERt8xw1TjFlYD.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 404009,
+        "imdb_id": "tt0147550",
+        "origin_country": [
+            "IT"
+        ],
+        "original_language": "it",
+        "original_title": "Una storia ambigua",
+        "overview": "Countess Anna Guerrieri, a rich and provocative noblewoman, marries Romano, an important fascist who is very loyal to the party. Sadly his sexual performance is found very lacking by the Countess, and so frustrated, she decides to look elsewhere for satisfaction and ends up setting her sights on Stefano, a naive and inexperienced young nephew undergraduate who has recently arrived from the provinces.",
+        "popularity": 10.9431,
+        "poster_path": "/xYlgfHR6QwaPvtIa3hyA69MN5Rd.jpg",
+        "production_companies": [
+            {
+                "id": 78609,
+                "logo_path": null,
+                "name": "Cineglobo",
+                "origin_country": "IT"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "1986-05-15",
+        "revenue": 0,
+        "runtime": 90,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Una storia ambigua",
+        "video": false,
+        "vote_average": 4.375,
+        "vote_count": 8
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1327544,
+            "known_for_department": "Acting",
+            "name": "Minnie Minoprio",
+            "original_name": "Minnie Minoprio",
+            "popularity": 0.4305,
+            "profile_path": null,
+            "cast_id": 8,
+            "character": "Contessa Anna Guerrieri",
+            "credit_id": "5771a33ec3a368578b000b0d",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 103161,
+            "known_for_department": "Acting",
+            "name": "Gabriele Gori",
+            "original_name": "Gabriele Gori",
+            "popularity": 0.4693,
+            "profile_path": null,
+            "cast_id": 9,
+            "character": "Stefano",
+            "credit_id": "5771a34d9251416218000c66",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1642195,
+            "known_for_department": "Acting",
+            "name": "Beba Balteano",
+            "original_name": "Beba Balteano",
+            "popularity": 0.4054,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "Marisa",
+            "credit_id": "5771a3599251416215000c45",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1139895,
+            "known_for_department": "Acting",
+            "name": "Piero Gerlini",
+            "original_name": "Piero Gerlini",
+            "popularity": 0.5703,
+            "profile_path": "/sHMLyOGqR9d41o1GP4jQZBPex1o.jpg",
+            "cast_id": 11,
+            "character": "Romano",
+            "credit_id": "5771a364c3a36857a0000dd2",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1582402,
+            "known_for_department": "Acting",
+            "name": "Paolo Merosi",
+            "original_name": "Paolo Merosi",
+            "popularity": 0.3409,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "Spacciatore",
+            "credit_id": "5771a371c3a3685797000c7d",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1642196,
+            "known_for_department": "Acting",
+            "name": "Manola D'Amato",
+            "original_name": "Manola D'Amato",
+            "popularity": 0.2773,
+            "profile_path": null,
+            "cast_id": 13,
+            "character": "",
+            "credit_id": "5771a3799251416224000c2d",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1642197,
+            "known_for_department": "Acting",
+            "name": "Marco Manni",
+            "original_name": "Marco Manni",
+            "popularity": 0.2187,
+            "profile_path": null,
+            "cast_id": 14,
+            "character": "",
+            "credit_id": "5771a381c3a3685795000bfd",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1642198,
+            "known_for_department": "Acting",
+            "name": "Serena Bisio",
+            "original_name": "Serena Bisio",
+            "popularity": 0.1862,
+            "profile_path": null,
+            "cast_id": 15,
+            "character": "",
+            "credit_id": "5771a388c3a3685787000e4f",
+            "order": 7
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1642193,
+            "known_for_department": "Sound",
+            "name": "Carlo Mezzano",
+            "original_name": "Carlo Mezzano",
+            "popularity": 0.1454,
+            "profile_path": null,
+            "credit_id": "5771a305c3a3685791000d0d",
+            "department": "Sound",
+            "job": "Music"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1642194,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Paola Nazzaro",
+            "original_name": "Paola Nazzaro",
+            "popularity": 0.2591,
+            "profile_path": "/cljvvkbn9HUi5NLfwR6Jb6AYFnS.jpg",
+            "credit_id": "5771a32cc3a368578e000c5d",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 563336,
+            "known_for_department": "Editing",
+            "name": "Cesare Bianchini",
+            "original_name": "Cesare Bianchini",
+            "popularity": 0.2578,
+            "profile_path": null,
+            "credit_id": "5771a31f925141621e000c92",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 100416,
+            "known_for_department": "Production",
+            "name": "Armando Novelli",
+            "original_name": "Armando Novelli",
+            "popularity": 0.5321,
+            "profile_path": null,
+            "credit_id": "5771a2f8925141621b000c48",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 103156,
+            "known_for_department": "Directing",
+            "name": "Mario Bianchi",
+            "original_name": "Mario Bianchi",
+            "popularity": 0.0,
+            "profile_path": "/4KCSa5bPIJ7abRGqPKqDyuNcJoA.jpg",
+            "credit_id": "5771a2d09251416215000c14",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 1202528,
+            "known_for_department": "Camera",
+            "name": "Pasquale Fanetti",
+            "original_name": "Pasquale Fanetti",
+            "popularity": 0.0,
+            "profile_path": null,
+            "credit_id": "5771a3119251416221000c49",
+            "department": "Crew",
+            "job": "Cinematography"
+        },
+        {
+            "adult": true,
+            "gender": 0,
+            "id": 1630409,
+            "known_for_department": "Production",
+            "name": "Paolo Di Tosto",
+            "original_name": "Paolo Di Tosto",
+            "popularity": 0.0,
+            "profile_path": null,
+            "credit_id": "5771a2eec3a3685791000d00",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 49894,
+            "known_for_department": "Writing",
+            "name": "Piero Regnoli",
+            "original_name": "Piero Regnoli",
+            "popularity": 0.7858,
+            "profile_path": "/z5P2Lp6qesiVys2J7J1I9gsfMdf.jpg",
+            "credit_id": "5771a2d7c3a3685787000e15",
+            "department": "Writing",
+            "job": "Screenplay"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 1326,
+            "name": "infidelity"
+        },
+        {
+            "id": 197871,
+            "name": "illicit affair"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/gi15b6N5cI0NqdWO6KpxqFasw02.jpg",
+            "id": 55580,
+            "title": "P.O. Box Tinto Brass",
+            "original_title": "Fermo posta Tinto Brass",
+            "overview": "A successful erotic film producer from Rome regularly receives letters from female fans seeking his advice on how to spice up their sex lives. Thanks to his years of experience in both the film business and the sex industry, he has all sorts of tips at the ready and, in an emergency, is happy to make a house call himself to demonstrate his qualities in person.",
+            "poster_path": "/oGC1ByDVsAjPo8W3G078EYpvBWi.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 3.3846,
+            "release_date": "1995-08-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6lT0EzrrXCHKksl8vBzhWw6bjcC.jpg",
+            "id": 521844,
+            "title": "The Wedding Year",
+            "original_title": "The Wedding Year",
+            "overview": "A commitment-phobic 27-year old’s relationship is put to the test when she and her boyfriend attend 7 weddings in the same year.",
+            "poster_path": "/pUeMpXt2iJIevr8qWq81tpacL2R.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.8308,
+            "release_date": "2019-09-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.921,
+            "vote_count": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bB8OQAE9KumhiaQfdUYsq8otHdN.jpg",
+            "id": 3520,
+            "title": "Casanova '70",
+            "original_title": "Casanova '70",
+            "overview": "The amorous adventures of Andrea Rossi-Colombotti, an army officer who finds pleasure with beautiful women in life-threatening situations.",
+            "poster_path": "/x93gr9oIiAviLCOCIcr7eKLDF6T.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 1.8941,
+            "release_date": "1965-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.351,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mjeXzLiOUSDJOUKUhm5EUoHJWB6.jpg",
+            "id": 58191,
+            "title": "He's Worse than Me",
+            "original_title": "Lui è peggio di me",
+            "overview": "Two reckless friends Leonardo (Adriano Celentano) and Luciano (Renato Potstsetto) are just doing whatever they want and getting into endless alterations. When one of them decides to marry, their friendship is in a crisis ...",
+            "poster_path": "/uF1o872Shzi4JdxzgkSLJ1lNwOf.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 3.6537,
+            "release_date": "1985-02-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.298,
+            "vote_count": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gNaNjtxbk2E3k82SzmWNutNpEND.jpg",
+            "id": 24161,
+            "title": "My Friends Act III",
+            "original_title": "Amici miei - Atto III°",
+            "overview": "This time the \"amici\" (friends) are just four: Necchi, Meandri, Mascetti and Sassaroli. Nevertheless they are older they still love to spend their time mainly organizing irresistible jokes to everyone in every kind of situation. Mascetti is hospitalized in a geriatric clinic. Of course the place become immediately the main stage for all their jokes. After some jokes they decided to place an ultimate incredible and farcical joke to the clinic guests.",
+            "poster_path": "/zefd273r73rKAap75OGhMIMP3Cs.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 3.628,
+            "release_date": "1985-06-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.392,
+            "vote_count": 217
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pZoMNbZPxFVyFIFXAShxlUZpbPG.jpg",
+            "id": 26798,
+            "title": "Switching Channels",
+            "original_title": "Switching Channels",
+            "overview": "A television news chief courts his anchorwoman ex-wife with an eleventh-hour story.",
+            "poster_path": "/p6Il30LOnvD5rVx4lEp7LEfMl09.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.2596,
+            "release_date": "1988-03-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9AQqtUA7SbSoA4mpNd9I4SwTF4j.jpg",
+            "id": 57998,
+            "title": "Totòtruffa '62",
+            "original_title": "Totòtruffa '62",
+            "overview": "Antonio, a former variety actor, keeps his daughter in an excellent boarding school by organizing small scams with his friend and colleague Felice. Commissioner Malvasia good-naturedly persecuted him. When their respective unsuspecting children fall in love, the two fathers make peace.",
+            "poster_path": "/kVmynlDhwKDgpzIwnk1C8RGE5Mm.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.2984,
+            "release_date": "1961-08-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.643,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u2nPH7STKcz8ddpvxo8Ler1SvPc.jpg",
+            "id": 20271,
+            "title": "Divorce Italian Style",
+            "original_title": "Divorzio all'italiana",
+            "overview": "Ferdinando Cefalù is desperate to marry his cousin, Angela, but he is married to Rosalia and divorce is illegal in Italy. To get around the law, he tries to trick his wife into having an affair so he can catch her and murder her, as he knows he would be given a light sentence for killing an adulterous woman. He persuades a painter to lure his wife into an affair, but Rosalia proves to be more faithful than he expected.",
+            "poster_path": "/vZbdSpUFyFiDBBTY0AiSrN9f303.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 1.881,
+            "release_date": "1961-12-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.883,
+            "vote_count": 537
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lSOsWk2A66ACgvhxuzORtouMm9R.jpg",
+            "id": 82114,
+            "title": "Goodnight, Ladies and Gentlemen",
+            "original_title": "Signore e signori, buonanotte",
+            "overview": "An episodic satire of the political and social status of Italy in the seventies, through the shows of one day of a television channel.",
+            "poster_path": "/4LMtB7ogDvx2ywRbzjZARLHQ6V1.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.4863,
+            "release_date": "1976-10-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.683,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yFAewxspQeCYeY8rp9YdvBmMRwn.jpg",
+            "id": 91739,
+            "title": "Much Ado About Nothing",
+            "original_title": "Much Ado About Nothing",
+            "overview": "A modern retelling of Shakespeare's classic comedy about two pairs of lovers with different takes on romance and a way with words.",
+            "poster_path": "/kDUEegV4P8odhUTjHE2e2kWMZo3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.2961,
+            "release_date": "2013-05-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.795,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zNVKhT0js1UF7ZT9Lb4ioaa8jk6.jpg",
+            "id": 661747,
+            "title": "Seriously Single",
+            "original_title": "Seriously Single",
+            "overview": "While her free-living bestie urges her to embrace singlehood, a commitment-craving social media expert can't stop following the life of a former love.",
+            "poster_path": "/qptLj4WxATqp3MZq97JmhYjtc9B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.2684,
+            "release_date": "2020-07-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 138
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gwHVYWTYZIW6MM8EgFEiQEMWAAR.jpg",
+            "id": 61930,
+            "title": "Bagnomaria",
+            "original_title": "Bagnomaria",
+            "overview": "In Pietrasanta all are excited for the annual party of summer end. Here we find four characters: Merigo, a naive guy passionate of bike; Pierre, son of the mayor; Simone, a pestiferous kid; Mario, lifeguard of \"Bagnomaria\".",
+            "poster_path": "/7yxgsYHa1RCUYdnSyc73uazjgpT.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 15.3828,
+            "release_date": "1999-02-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cIBAsszLhD1tvE6GQ6FYLAPOS1s.jpg",
+            "id": 17974,
+            "title": "The Birds, the Bees and the Italians",
+            "original_title": "Signore e signori",
+            "overview": "An anthology presents three storylines, all set in the Italian town of Treviso: A husband pretends to be impotent as a cover for having an affair; a bank clerk abandons his wife for his mistress, but the rest of the town's husbands become jealous and unite to conspire against them; and local men all seduce a promiscuous young woman, but when her father eventually reveals that she is underage, they all face prosecution for statutory rape.",
+            "poster_path": "/9q3b1tVa4LO2Xx3JUcjThdV3b12.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 1.5417,
+            "release_date": "1966-02-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.096,
+            "vote_count": 78
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mdyeJRmLW3IPCo0e1oEmR8WBklm.jpg",
+            "id": 37768,
+            "title": "Talcum Powder",
+            "original_title": "Borotalco",
+            "overview": "Sergio Benvenuti is a shy seller of contracts for a Roman company of music, but because of his character he cannot find even a customer, so he asks for help from a fellow named Nadia.",
+            "poster_path": "/2IMlCia3G1EoI2fetNZkCVEkAzq.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 3.5228,
+            "release_date": "1982-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 488
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3q6XHCXII7qRZOx5EqU5NfYkVx8.jpg",
+            "id": 20914,
+            "title": "My Friends",
+            "original_title": "Amici miei",
+            "overview": "Four inseparable friends try to face their midlife crisis with daytrips and pranks at the expense of their families and the people around them.",
+            "poster_path": "/efQiC7hEXa6Vbn05FwNQoB8yGqX.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 3.9785,
+            "release_date": "1975-10-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.112,
+            "vote_count": 752
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oUGE7v7gpkKdrgeGaWffZRvysKK.jpg",
+            "id": 6393,
+            "title": "Taking Care of Business",
+            "original_title": "Taking Care of Business",
+            "overview": "An uptight advertising exec has his entire life in a filofax organizer which mistakenly ends up in the hands of a friendly convict who poses as him.",
+            "poster_path": "/q3yEyOqJ5e3vAjK70qTnBMnmgYy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.3842,
+            "release_date": "1990-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.319,
+            "vote_count": 188
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6maVNqV3az1oEOuwNfZnwIybJ5h.jpg",
+            "id": 1472636,
+            "title": "A Beautiful Day",
+            "original_title": "Un bel giorno",
+            "overview": "Tommaso, a single father of four, has shut himself off from the world. When his daughters push him to start over, he meets Lara — a brilliant, captivating woman. But both carry secrets that could change everything.",
+            "poster_path": "/yhUWRael6f2dprS0OCbFSMp53tE.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.65,
+            "release_date": "2026-03-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.957,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pmUHC8IsRJsCEyggnNdbGnqeu6V.jpg",
+            "id": 14166,
+            "title": "Pretty Persuasion",
+            "original_title": "Pretty Persuasion",
+            "overview": "A 15-year-old girl incites chaos among her friends and a media frenzy when she accuses her drama teacher of sexual harassment.",
+            "poster_path": "/oTbmRS9OBqACIlgRkTqHIc1n6lO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 4.545,
+            "release_date": "2005-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.832,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2tZVYiosztNM1DAYUF59VPsNp9L.jpg",
+            "id": 11635,
+            "title": "Old School",
+            "original_title": "Old School",
+            "overview": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.",
+            "poster_path": "/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 12.9801,
+            "release_date": "2003-02-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.625,
+            "vote_count": 2157
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4iG3wITd46l9zzePSrQgD42G2dY.jpg",
+            "id": 45093,
+            "title": "Sua Eccellenza si fermò a mangiare",
+            "original_title": "Sua Eccellenza si fermò a mangiare",
+            "overview": "A petty thief pretends he is Mussolini's personal physician, wins the confidence of a family, and succeeds in stealing their gold cutlery.",
+            "poster_path": "/zX5AuAh5wbysH9SrQI7rzLb2t5W.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 1.9539,
+            "release_date": "1961-03-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.72,
+            "vote_count": 41
+        }
+    ]
+}

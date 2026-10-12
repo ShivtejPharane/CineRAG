@@ -1,0 +1,825 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/r0DpUree1AyCaBcRpf8CuH4Hlev.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 432279,
+        "imdb_id": "tt0079543",
+        "origin_country": [
+            "FR"
+        ],
+        "original_language": "fr",
+        "original_title": "Melancoly Baby",
+        "overview": "Olga is married to Laurent, who is devoted to his career and often leaves Olga at home alone when he travels away for work.  Whilst she is rich and wants for nothing, she is terribly bored with life.  When Laurent is working away she meets up with his colleague Pierre and through him meets Claude, who is unemployed and fed up of his situation.  Can Olga and Claude help each other to get their lives back on track?",
+        "popularity": 9.1285,
+        "poster_path": "/uArNywm0DsF9pts3v8QXS9iZ5Yy.jpg",
+        "production_companies": [
+            {
+                "id": 1612,
+                "logo_path": null,
+                "name": "Ciné Vog Films",
+                "origin_country": "BE"
+            },
+            {
+                "id": 61786,
+                "logo_path": null,
+                "name": "Dimage",
+                "origin_country": ""
+            },
+            {
+                "id": 77452,
+                "logo_path": "/hAXJjzb56JC26g5o1t0GnYlz2t6.png",
+                "name": "Luna Films",
+                "origin_country": "CH"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            }
+        ],
+        "release_date": "1979-08-29",
+        "revenue": 0,
+        "runtime": 96,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Melancoly Baby",
+        "video": false,
+        "vote_average": 6.333,
+        "vote_count": 3
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 15200,
+            "known_for_department": "Acting",
+            "name": "Jane Birkin",
+            "original_name": "Jane Birkin",
+            "popularity": 1.6575,
+            "profile_path": "/nkg4tcwseZMHtDmdpFfZqK2mP6a.jpg",
+            "cast_id": 4,
+            "character": "Olga",
+            "credit_id": "586600a8c3a36852c9028aab",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1352,
+            "known_for_department": "Acting",
+            "name": "Jean-Louis Trintignant",
+            "original_name": "Jean-Louis Trintignant",
+            "popularity": 1.2494,
+            "profile_path": "/wn6owr4wvkeaEvlsPtwXSldFGEW.jpg",
+            "cast_id": 5,
+            "character": "Pierre",
+            "credit_id": "586600b4c3a36852c9028ab4",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 38898,
+            "known_for_department": "Acting",
+            "name": "Jean-Luc Bideau",
+            "original_name": "Jean-Luc Bideau",
+            "popularity": 1.1257,
+            "profile_path": "/AvGFSbGn5xlI67M0G7m5OG2g6PY.jpg",
+            "cast_id": 6,
+            "character": "Claude",
+            "credit_id": "586600dfc3a3680ab6024823",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 76286,
+            "known_for_department": "Acting",
+            "name": "François Beukelaers",
+            "original_name": "François Beukelaers",
+            "popularity": 0.5724,
+            "profile_path": "/smGFYHYptR9OhdQZNTYLMxg22nd.jpg",
+            "cast_id": 7,
+            "character": "Laurent",
+            "credit_id": "586600eb9251412b84029c80",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 225235,
+            "known_for_department": "Acting",
+            "name": "Florence Giorgetti",
+            "original_name": "Florence Giorgetti",
+            "popularity": 0.6134,
+            "profile_path": "/ypgDDf0lz2mfnniJvYlXXAVPHqA.jpg",
+            "cast_id": 8,
+            "character": "Claire, l'amie d'Olga",
+            "credit_id": "586600fb9251412b7b02b04c",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2126026,
+            "known_for_department": "Acting",
+            "name": "Tom Gres",
+            "original_name": "Tom Gres",
+            "popularity": 0.2603,
+            "profile_path": null,
+            "cast_id": 9,
+            "character": "Antoine, le garçon de café",
+            "credit_id": "6498e62cbbd0b001252b6394",
+            "order": 5
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1729896,
+            "known_for_department": "Writing",
+            "name": "Clarisse Gabus",
+            "original_name": "Clarisse Gabus",
+            "popularity": 0.3659,
+            "profile_path": null,
+            "credit_id": "58660078c3a36852cc027336",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1729897,
+            "known_for_department": "Writing",
+            "name": "André Puig",
+            "original_name": "André Puig",
+            "popularity": 0.224,
+            "profile_path": null,
+            "credit_id": "58660098c3a36852e002b61b",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1729896,
+            "known_for_department": "Writing",
+            "name": "Clarisse Gabus",
+            "original_name": "Clarisse Gabus",
+            "popularity": 0.3659,
+            "profile_path": null,
+            "credit_id": "5866007f9251412b7b02aff6",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 118195,
+            "known_for_department": "Writing",
+            "name": "Daniel Jouanisson",
+            "original_name": "Daniel Jouanisson",
+            "popularity": 0.2209,
+            "profile_path": null,
+            "credit_id": "5866008cc3a36852c002dd09",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1809886,
+            "known_for_department": "Editing",
+            "name": "Geneviève Letellier",
+            "original_name": "Geneviève Letellier",
+            "popularity": 0.3849,
+            "profile_path": null,
+            "credit_id": "6498e6bf62f3350146294599",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 34263,
+            "known_for_department": "Acting",
+            "name": "Serge Gainsbourg",
+            "original_name": "Serge Gainsbourg",
+            "popularity": 0.948,
+            "profile_path": "/6dWY7cho8Dy3f1Ec9A4omnbEqv8.jpg",
+            "credit_id": "6498e688955c6500c7af21ed",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1329043,
+            "known_for_department": "Editing",
+            "name": "Catherine Brasier-Snopko",
+            "original_name": "Catherine Brasier-Snopko",
+            "popularity": 0.4841,
+            "profile_path": null,
+            "credit_id": "6498e70cb34409013984e146",
+            "department": "Sound",
+            "job": "Sound Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1706193,
+            "known_for_department": "Directing",
+            "name": "Jean-Pierre Letellier",
+            "original_name": "Jean-Pierre Letellier",
+            "popularity": 0.3168,
+            "profile_path": null,
+            "credit_id": "6498e67a6f43ec00e27e48c5",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 46285,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Jackie Budin",
+            "original_name": "Jackie Budin",
+            "popularity": 0.394,
+            "profile_path": null,
+            "credit_id": "6498e6e5955c6501444e2c2a",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2644590,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Ava Monneret",
+            "original_name": "Ava Monneret",
+            "popularity": 0.3202,
+            "profile_path": null,
+            "credit_id": "6498e6f9bbd0b000c8a38d44",
+            "department": "Costume & Make-Up",
+            "job": "Key Hair Stylist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1615431,
+            "known_for_department": "Art",
+            "name": "Denis-Martin Sisteron",
+            "original_name": "Denis-Martin Sisteron",
+            "popularity": 0.1794,
+            "profile_path": null,
+            "credit_id": "6498e6d8955c65012428bf88",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1581689,
+            "known_for_department": "Sound",
+            "name": "Henri Humbert",
+            "original_name": "Henri Humbert",
+            "popularity": 0.2307,
+            "profile_path": null,
+            "credit_id": "6498e72e6f43ec00ac3ba550",
+            "department": "Sound",
+            "job": "Foley Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 592641,
+            "known_for_department": "Camera",
+            "name": "Charles Van Damme",
+            "original_name": "Charles Van Damme",
+            "popularity": 0.4515,
+            "profile_path": null,
+            "credit_id": "6498e6996f43ec00ffa30f6e",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1329043,
+            "known_for_department": "Editing",
+            "name": "Catherine Brasier-Snopko",
+            "original_name": "Catherine Brasier-Snopko",
+            "popularity": 0.4841,
+            "profile_path": null,
+            "credit_id": "6498e6b4eb79c2011c52977f",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2174852,
+            "known_for_department": "Editing",
+            "name": "Luciano Berini",
+            "original_name": "Luciano Berini",
+            "popularity": 0.2175,
+            "profile_path": null,
+            "credit_id": "6498e6aabbd0b000c8a38cfa",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1615430,
+            "known_for_department": "Production",
+            "name": "Michèle Dimitri",
+            "original_name": "Michèle Dimitri",
+            "popularity": 0.1744,
+            "profile_path": null,
+            "credit_id": "6498e66deb79c200c56e2d91",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1451461,
+            "known_for_department": "Sound",
+            "name": "Alex Pront",
+            "original_name": "Alex Pront",
+            "popularity": 0.5346,
+            "profile_path": null,
+            "credit_id": "6498e73a6f43ec011c62d3cc",
+            "department": "Sound",
+            "job": "Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3906850,
+            "known_for_department": "Sound",
+            "name": "Auguste Galli",
+            "original_name": "Auguste Galli",
+            "popularity": 0.2279,
+            "profile_path": null,
+            "credit_id": "6498e71beb79c200ad721c6e",
+            "department": "Sound",
+            "job": "Sound"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/1s8Catsbd9n6KrfxQagF3a3jh5I.jpg",
+            "id": 811211,
+            "title": "The Young Lovers",
+            "original_title": "Les Jeunes Amants",
+            "overview": "Elegant, retired architect Shauna (70) crosses paths with Pierre, a happily married doctor in his 40s, who first made an impression on her in a brief meeting 15 years previously. Both are quite troubled to meet again and begin an affair. While Pierre’s family life is soon turned upside down, Shauna struggles with feelings she thought belonged to the past.",
+            "poster_path": "/tE0vxFfdhO4d67uYpaesVHZrajs.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.627,
+            "release_date": "2022-02-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.425,
+            "vote_count": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8vn4eis4xk6cnOnAuAcyzPbqVb0.jpg",
+            "id": 745376,
+            "title": "Hello, Goodbye, and Everything in Between",
+            "original_title": "Hello, Goodbye, and Everything in Between",
+            "overview": "Clare and Aidan make a pact to break up before college — no regrets, no broken hearts. But will one epic goodbye date offer them a last chance at love?",
+            "poster_path": "/xyGsnp4Ld5PmJYYWnfuYYoENhHt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.0382,
+            "release_date": "2022-07-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.159,
+            "vote_count": 270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tMtXSrEeh2rueJQVWMom78ZBhG0.jpg",
+            "id": 364733,
+            "title": "Blind",
+            "original_title": "Blind",
+            "overview": "A novelist is blinded in a car crash that killed his wife and several years later rediscovers his passion for life and writing when he embarks on an affair with the neglected wife of an indicted businessman.",
+            "poster_path": "/cXyObe5aB63ueOndEXxXabgAvIi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.604,
+            "release_date": "2017-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.11,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rLG8riIso3WQAZFoi2VgmdFROHC.jpg",
+            "id": 3426,
+            "title": "Cesar and Rosalie",
+            "original_title": "César et Rosalie",
+            "overview": "A young woman becomes entangled with a successful businessman, but her ex tries to win her back, provoking intense jealousy that leads her to reconsider her choice. Ultimately, one man's actions force a resolution to her dilemma.",
+            "poster_path": "/nsFqp6nL4WreueDVK1EQraepWwR.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.3971,
+            "release_date": "1972-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/53f29bdN46K7UT17OCYQ0sBZBdm.jpg",
+            "id": 31005,
+            "title": "Moonlight Mile",
+            "original_title": "Moonlight Mile",
+            "overview": "As he copes with the death of his fiancee along with her parents, a young man must figure out what he wants out of life.",
+            "poster_path": "/jKDnCPUkL4QsgeqKCtyNMPL2XUU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.4891,
+            "release_date": "2002-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.31,
+            "vote_count": 245
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d9COll7H2LaS1GK4t6OnkpkycKf.jpg",
+            "id": 610781,
+            "title": "See You Soon",
+            "original_title": "See You Soon",
+            "overview": "A U.S. soccer star suffers a career-threatening injury in the run-up to the World Cup, and during his recovery, embarks on an epic romance with a Russian single mom.",
+            "poster_path": "/nKOHCFfMsTSpLAIQKMwXotdEggs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.3099,
+            "release_date": "2019-07-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.938,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
+            "id": 763148,
+            "title": "Time Is Up",
+            "original_title": "Time Is Up",
+            "overview": "Vivien, an accomplished student with a passion for physics, and Roy, a troubled young man, are involved in an accident that forces them to reclaim their lives one minute at the time.",
+            "poster_path": "/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.8679,
+            "release_date": "2021-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.462,
+            "vote_count": 732
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sHX7rZQu2QJ6CzDzQ32IFqN6CJZ.jpg",
+            "id": 46991,
+            "title": "An Affair of Love",
+            "original_title": "Une liaison pornographique",
+            "overview": "A man and a woman meet to fulfill her sexual fantasy.",
+            "poster_path": "/6VcPf4jOrlKcB4CDNZUHc36loSm.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.4332,
+            "release_date": "1999-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u6aGN71Hx39iX8Uv4ILRRKHmAXc.jpg",
+            "id": 447362,
+            "title": "Life in a Year",
+            "original_title": "Life in a Year",
+            "overview": "A 17 year old finds out that his girlfriend is dying, so he sets out to give her an entire life, in the last year she has left.",
+            "poster_path": "/bP7u19opmHXYeTCUwGjlLldmUMc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.3967,
+            "release_date": "2020-11-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.222,
+            "vote_count": 1994
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
+            "id": 968739,
+            "title": "Dangerous Liaisons",
+            "original_title": "Les liaisons dangereuses",
+            "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
+            "poster_path": "/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.119,
+            "release_date": "2022-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 323
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gJZEZRpWRyoalaboAR6kpIHGK4u.jpg",
+            "id": 77985,
+            "title": "Maria's Lovers",
+            "original_title": "Maria's Lovers",
+            "overview": "A World War II prisoner returns home to his childhood sweetheart. However, back home, he discovers that he has to compete to win her love.",
+            "poster_path": "/tWDuhuZaH6lsCnkBYXuWxJPJnkI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.6854,
+            "release_date": "1984-07-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.023,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wO8vg2bB4rR7lGtIlZ7mJlcfwJ7.jpg",
+            "id": 540023,
+            "title": "Wander Darkly",
+            "original_title": "Wander Darkly",
+            "overview": "New parents Adrienne and Matteo are forced to reckon with trauma amidst their troubled relationship. They must revisit the memories of their past and unravel haunting truths in order to face their uncertain future.",
+            "poster_path": "/96snLzPYifC4FyL2uOnzo4DPgCv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.4693,
+            "release_date": "2020-12-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.028,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cY9X3gHcu4zK9vAy3s77xyorm0d.jpg",
+            "id": 761053,
+            "title": "Gabriel's Inferno: Part III",
+            "original_title": "Gabriel's Inferno: Part III",
+            "overview": "The final part of the film adaption of the erotic romance novel Gabriel's Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.",
+            "poster_path": "/fYtHxTxlhzD4QWfEbrC1rypysSD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 6.8106,
+            "release_date": "2020-11-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.339,
+            "vote_count": 1093
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q5LAvX97FVgzd8YwAGss6waQwJH.jpg",
+            "id": 584288,
+            "title": "Sylvie's Love",
+            "original_title": "Sylvie's Love",
+            "overview": "When a young woman meets an aspiring saxophonist in her father’s record shop in 1950s Harlem, their love ignites a sweeping romance that transcends changing times, geography, and professional success.",
+            "poster_path": "/48P3lTdsg19OfmrD5av0VJYcjLM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.3719,
+            "release_date": "2020-01-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.228,
+            "vote_count": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rYhfAah0o7ZNklrTsKW3lStKUaW.jpg",
+            "id": 843093,
+            "title": "More Than Ever",
+            "original_title": "Plus que jamais",
+            "overview": "Hélène, a 33-year-old woman from Bordeaux, France, lives happily as a couple with Mathieu, her husband of many years. Her life turns upside down the day she learns she has a rare lung disease. Thanks to a blog, she discovers Norway and decides to follow her instinct. Despite all the love she has for her life partner Mathieu, who is very supportive through her illness, she leaves him behind in France and will cross all Europe to Norway alone in search of a new path and to meet a blogger named Mister that she found on the internet.",
+            "poster_path": "/d900vS2Xz9XOhYCTE50jwLFZDlo.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.0067,
+            "release_date": "2022-11-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jtAI6OJIWLWiRItNSZoWjrsUtmi.jpg",
+            "id": 724089,
+            "title": "Gabriel's Inferno: Part II",
+            "original_title": "Gabriel's Inferno: Part II",
+            "overview": "Professor Gabriel Emerson finally learns the truth about Julia Mitchell's identity, but his realization comes a moment too late. Julia is done waiting for the well-respected Dante specialist to remember her and wants nothing more to do with him. Can Gabriel win back her heart before she finds love in another's arms?",
+            "poster_path": "/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.6408,
+            "release_date": "2020-07-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.347,
+            "vote_count": 1558
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h8jhI6FiMcCCKpSxl1ehCkhtPaX.jpg",
+            "id": 37533,
+            "title": "White Wedding",
+            "original_title": "Noce blanche",
+            "overview": "A philosophy professor has an illicit affair with one of his students, a bright yet troubled girl who lives alone.",
+            "poster_path": "/AoR69wN0JDzq7DWW9a5rhiMSNZq.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 4.6323,
+            "release_date": "1989-11-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.628,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4E5iitr7WbHdK7P6pMVT4iNMIp4.jpg",
+            "id": 15720,
+            "title": "The Man from Elysian Fields",
+            "original_title": "The Man from Elysian Fields",
+            "overview": "A failed novelist's inability to pay the bills strains relations with his wife and leads him to work at an escort service, where he becomes entwined with a wealthy woman whose husband is a successful writer.",
+            "poster_path": "/mCUzyYDMHNdihZVTVH1g3KvTo8p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 4.2276,
+            "release_date": "2001-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ud5BO7gSbNo3E9oKPZeZ1McMdF1.jpg",
+            "id": 16022,
+            "title": "Nine Lives",
+            "original_title": "Nine Lives",
+            "overview": "Captives of the very relationships that define and sustain them, nine women resiliently meet the travails and disappointments of life.",
+            "poster_path": "/fq2Va94FZOImNwNvz0MII3K86Py.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.0005,
+            "release_date": "2005-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.112,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8KN3dO60kxzcLHEbAUghlKZKF2k.jpg",
+            "id": 52726,
+            "title": "Gervaise",
+            "original_title": "Gervaise",
+            "overview": "Gervaise Macquart is a beautiful Parisian laundress and mother whose lover, Lantier, walks out on her. She eventually marries Henri Coupeau, a roofer who has an unfortunate accident. As her now crippled husband descends into alcoholism, Gervaise tries to make ends meet on her own. Life becomes even more complicated when Lantier returns and befriends Henri. Meanwhile, the man she really loves is sent to prison.",
+            "poster_path": "/njux1vvBuiwR4UJ6FCpYoar9buO.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 1.8323,
+            "release_date": "1956-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.75,
+            "vote_count": 58
+        }
+    ]
+}

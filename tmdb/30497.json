@@ -1,0 +1,1099 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
+        "belongs_to_collection": {
+            "id": 111751,
+            "name": "Texas Chainsaw Massacre Collection",
+            "poster_path": "/hCyN9E7Vxe6LOZhYwiqJTb0u4No.jpg",
+            "backdrop_path": "/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg"
+        },
+        "budget": 140000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 30497,
+        "imdb_id": "tt0072271",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Texas Chain Saw Massacre",
+        "overview": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way, they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
+        "popularity": 12.1295,
+        "poster_path": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+        "production_companies": [
+            {
+                "id": 1197,
+                "logo_path": null,
+                "name": "Vortex",
+                "origin_country": "US"
+            },
+            {
+                "id": 212462,
+                "logo_path": null,
+                "name": "Henkel Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 199793,
+                "logo_path": null,
+                "name": "Hooper Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 81081,
+                "logo_path": null,
+                "name": "Bryanston Pictures",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1974-10-11",
+        "revenue": 30926225,
+        "runtime": 83,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Who will survive and what will be left of them?",
+        "title": "The Texas Chain Saw Massacre",
+        "video": false,
+        "vote_average": 7.292,
+        "vote_count": 3890
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 27798,
+            "known_for_department": "Acting",
+            "name": "Marilyn Burns",
+            "original_name": "Marilyn Burns",
+            "popularity": 1.3201,
+            "profile_path": "/eTgbAuZkD7Qa2GxtqlveHE95bV0.jpg",
+            "cast_id": 10,
+            "character": "Sally",
+            "credit_id": "52fe44209251416c91005c6f",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 122454,
+            "known_for_department": "Acting",
+            "name": "Allen Danziger",
+            "original_name": "Allen Danziger",
+            "popularity": 0.6202,
+            "profile_path": "/wONEJ5KiiupyE0An7On0MPZXw8j.jpg",
+            "cast_id": 3,
+            "character": "Jerry",
+            "credit_id": "52fe44209251416c91005c53",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 122455,
+            "known_for_department": "Acting",
+            "name": "Paul A. Partain",
+            "original_name": "Paul A. Partain",
+            "popularity": 0.8586,
+            "profile_path": "/laJJQ2N032xzJKF1qyZXwEFmGZL.jpg",
+            "cast_id": 4,
+            "character": "Franklin",
+            "credit_id": "52fe44209251416c91005c57",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 122456,
+            "known_for_department": "Art",
+            "name": "William Vail",
+            "original_name": "William Vail",
+            "popularity": 0.8986,
+            "profile_path": "/tsd0rxR9oNuLthctCHfzLPsexuG.jpg",
+            "cast_id": 5,
+            "character": "Kirk",
+            "credit_id": "52fe44209251416c91005c5b",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 122457,
+            "known_for_department": "Acting",
+            "name": "Teri McMinn",
+            "original_name": "Teri McMinn",
+            "popularity": 0.4979,
+            "profile_path": "/4XUT1qyy0jif14Mtn9Egx3nBFiT.jpg",
+            "cast_id": 6,
+            "character": "Pam",
+            "credit_id": "52fe44209251416c91005c5f",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 27803,
+            "known_for_department": "Acting",
+            "name": "Edwin Neal",
+            "original_name": "Edwin Neal",
+            "popularity": 0.6473,
+            "profile_path": "/ltosUj8qUhPS82mhDxP9avpHjCC.jpg",
+            "cast_id": 7,
+            "character": "Hitchhiker",
+            "credit_id": "52fe44209251416c91005c63",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 104014,
+            "known_for_department": "Acting",
+            "name": "Jim Siedow",
+            "original_name": "Jim Siedow",
+            "popularity": 0.5799,
+            "profile_path": "/SOE9uBZsCHJuvsGaUDRyTFW0C2.jpg",
+            "cast_id": 8,
+            "character": "Old Man",
+            "credit_id": "52fe44209251416c91005c67",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 27804,
+            "known_for_department": "Acting",
+            "name": "Gunnar Hansen",
+            "original_name": "Gunnar Hansen",
+            "popularity": 0.77,
+            "profile_path": "/p3LvCnLn1SVkCYYuEJsjnMVTsUb.jpg",
+            "cast_id": 9,
+            "character": "Leatherface",
+            "credit_id": "52fe44209251416c91005c6b",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 104892,
+            "known_for_department": "Acting",
+            "name": "John Dugan",
+            "original_name": "John Dugan",
+            "popularity": 0.6252,
+            "profile_path": "/1tnzwJZeR94uQTwO3QKxIvw5d6J.jpg",
+            "cast_id": 22,
+            "character": "Grandfather",
+            "credit_id": "552bd386c3a3681f5c006f90",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1453740,
+            "known_for_department": "Acting",
+            "name": "Robert Courtin",
+            "original_name": "Robert Courtin",
+            "popularity": 0.2062,
+            "profile_path": null,
+            "cast_id": 23,
+            "character": "Window Washer",
+            "credit_id": "552bd43c92514121d6003bbb",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 565191,
+            "known_for_department": "Acting",
+            "name": "William Creamer",
+            "original_name": "William Creamer",
+            "popularity": 0.2759,
+            "profile_path": null,
+            "cast_id": 24,
+            "character": "Bearded Man",
+            "credit_id": "552beae5925141265f004c9b",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1372356,
+            "known_for_department": "Acting",
+            "name": "John Henry Faulk",
+            "original_name": "John Henry Faulk",
+            "popularity": 0.5013,
+            "profile_path": null,
+            "cast_id": 25,
+            "character": "Storyteller",
+            "credit_id": "552bf19d925141288b002d63",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1453812,
+            "known_for_department": "Acting",
+            "name": "Jerry Green",
+            "original_name": "Jerry Green",
+            "popularity": 0.1903,
+            "profile_path": null,
+            "cast_id": 26,
+            "character": "Cowboy",
+            "credit_id": "552bf32ac3a36843cd000f16",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1453813,
+            "known_for_department": "Acting",
+            "name": "Ed Guinn",
+            "original_name": "Ed Guinn",
+            "popularity": 0.3046,
+            "profile_path": null,
+            "cast_id": 27,
+            "character": "Cattle Truck Driver",
+            "credit_id": "552bf3de925141265f004e93",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1453814,
+            "known_for_department": "Acting",
+            "name": "Joe Bill Hogan",
+            "original_name": "Joe Bill Hogan",
+            "popularity": 0.2298,
+            "profile_path": null,
+            "cast_id": 28,
+            "character": "Drunk",
+            "credit_id": "552bf445c3a36858d6006927",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1453815,
+            "known_for_department": "Acting",
+            "name": "Perry Lorenz",
+            "original_name": "Perry Lorenz",
+            "popularity": 0.2185,
+            "profile_path": null,
+            "cast_id": 29,
+            "character": "Pick Up Driver",
+            "credit_id": "552bf4a9c3a3681f56008225",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 14101,
+            "known_for_department": "Acting",
+            "name": "John Larroquette",
+            "original_name": "John Larroquette",
+            "popularity": 2.0248,
+            "profile_path": "/rWXMelYm34YIBOzJJaQrBI50NEp.jpg",
+            "cast_id": 30,
+            "character": "Narrator (voice)",
+            "credit_id": "552bf56d9251412845002daa",
+            "order": 16
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 27797,
+            "known_for_department": "Writing",
+            "name": "Kim Henkel",
+            "original_name": "Kim Henkel",
+            "popularity": 0.9128,
+            "profile_path": "/pDiPLvVsa5eFgEYxpJuI8ydsbu8.jpg",
+            "credit_id": "62148cf00bb076006b74006e",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 10051,
+            "known_for_department": "Directing",
+            "name": "Tobe Hooper",
+            "original_name": "Tobe Hooper",
+            "popularity": 1.3594,
+            "profile_path": "/rE5TqnAvgaKjWwWZ9AsoU9KcUGU.jpg",
+            "credit_id": "52fe44209251416c91005c4f",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 27797,
+            "known_for_department": "Writing",
+            "name": "Kim Henkel",
+            "original_name": "Kim Henkel",
+            "popularity": 0.9128,
+            "profile_path": "/pDiPLvVsa5eFgEYxpJuI8ydsbu8.jpg",
+            "credit_id": "52fe44209251416c91005c75",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 10051,
+            "known_for_department": "Directing",
+            "name": "Tobe Hooper",
+            "original_name": "Tobe Hooper",
+            "popularity": 1.3594,
+            "profile_path": "/rE5TqnAvgaKjWwWZ9AsoU9KcUGU.jpg",
+            "credit_id": "52fe44209251416c91005c81",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 74681,
+            "known_for_department": "Writing",
+            "name": "J. Larry Carroll",
+            "original_name": "J. Larry Carroll",
+            "popularity": 0.5702,
+            "profile_path": null,
+            "credit_id": "537b2ad30e0a267fea00134d",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 27805,
+            "known_for_department": "Art",
+            "name": "Robert A. Burns",
+            "original_name": "Robert A. Burns",
+            "popularity": 0.3784,
+            "profile_path": "/i7jACuKGoGZKsIwSV0OoET2cKjH.jpg",
+            "credit_id": "537b2b470e0a267ff4001522",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 10051,
+            "known_for_department": "Directing",
+            "name": "Tobe Hooper",
+            "original_name": "Tobe Hooper",
+            "popularity": 1.3594,
+            "profile_path": "/rE5TqnAvgaKjWwWZ9AsoU9KcUGU.jpg",
+            "credit_id": "537b2a7e0e0a267fea001347",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1321618,
+            "known_for_department": "Editing",
+            "name": "Sallye Richardson",
+            "original_name": "Sallye Richardson",
+            "popularity": 0.266,
+            "profile_path": null,
+            "credit_id": "537b2b270e0a267fed001441",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6042,
+            "known_for_department": "Camera",
+            "name": "Daniel Pearl",
+            "original_name": "Daniel Pearl",
+            "popularity": 0.7932,
+            "profile_path": "/vagPGNGMKvUJVVEGIXwr5s6drFg.jpg",
+            "credit_id": "5402d0d70e0a2658f10069fd",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 75406,
+            "known_for_department": "Sound",
+            "name": "Wayne Bell",
+            "original_name": "Wayne Bell",
+            "popularity": 0.5005,
+            "profile_path": null,
+            "credit_id": "598b18ff9251414bac03256a",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 10066,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Dorothy J. Pearl",
+            "original_name": "Dorothy J. Pearl",
+            "popularity": 0.5228,
+            "profile_path": null,
+            "credit_id": "5ddaa7a23faba00015fe71f6",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2871458,
+            "known_for_department": "Costume & Make-Up",
+            "name": "W.E. Barnes",
+            "original_name": "W.E. Barnes",
+            "popularity": 0.226,
+            "profile_path": null,
+            "credit_id": "5fc039b04c1d9a00418540a4",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2871459,
+            "known_for_department": "Production",
+            "name": "Jay Parsley",
+            "original_name": "Jay Parsley",
+            "popularity": 0.2,
+            "profile_path": null,
+            "credit_id": "5fc039d09d2b630040f171b4",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2871460,
+            "known_for_department": "Production",
+            "name": "Richard Saenz",
+            "original_name": "Richard Saenz",
+            "popularity": 0.1941,
+            "profile_path": null,
+            "credit_id": "5fc039d9f9475b003ec777f7",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 16296,
+            "known_for_department": "Production",
+            "name": "Ron Bozman",
+            "original_name": "Ron Bozman",
+            "popularity": 0.463,
+            "profile_path": null,
+            "credit_id": "5fc039a59c97bd003ca220ee",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 143897,
+            "known_for_department": "Crew",
+            "name": "Dean W. Miller",
+            "original_name": "Dean W. Miller",
+            "popularity": 0.2504,
+            "profile_path": null,
+            "credit_id": "5fc03a17c613ce003f7e128e",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 27797,
+            "known_for_department": "Writing",
+            "name": "Kim Henkel",
+            "original_name": "Kim Henkel",
+            "popularity": 0.9128,
+            "profile_path": "/pDiPLvVsa5eFgEYxpJuI8ydsbu8.jpg",
+            "credit_id": "5fc039e19c97bd003fa37069",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1321618,
+            "known_for_department": "Editing",
+            "name": "Sallye Richardson",
+            "original_name": "Sallye Richardson",
+            "popularity": 0.266,
+            "profile_path": null,
+            "credit_id": "5fc039ed489d000041cd659f",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 10051,
+            "known_for_department": "Directing",
+            "name": "Tobe Hooper",
+            "original_name": "Tobe Hooper",
+            "popularity": 1.3594,
+            "profile_path": "/rE5TqnAvgaKjWwWZ9AsoU9KcUGU.jpg",
+            "credit_id": "6a4bd32b3c25301bb8b269b8",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 75406,
+            "known_for_department": "Sound",
+            "name": "Wayne Bell",
+            "original_name": "Wayne Bell",
+            "popularity": 0.5005,
+            "profile_path": null,
+            "credit_id": "6a4bd33833cf5213c1dc97b4",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 4580,
+            "name": "van"
+        },
+        {
+            "id": 1420,
+            "name": "gas station"
+        },
+        {
+            "id": 625,
+            "name": "sadistic"
+        },
+        {
+            "id": 1556,
+            "name": "texas"
+        },
+        {
+            "id": 11545,
+            "name": "leatherface"
+        },
+        {
+            "id": 11546,
+            "name": "hitchhiker"
+        },
+        {
+            "id": 11547,
+            "name": "slaughterhouse"
+        },
+        {
+            "id": 12339,
+            "name": "slasher"
+        },
+        {
+            "id": 12394,
+            "name": "chainsaw"
+        },
+        {
+            "id": 14895,
+            "name": "cannibal"
+        },
+        {
+            "id": 18035,
+            "name": "family"
+        },
+        {
+            "id": 33874,
+            "name": "polaroid"
+        },
+        {
+            "id": 41207,
+            "name": "grave robber"
+        },
+        {
+            "id": 199524,
+            "name": "disturbed"
+        },
+        {
+            "id": 278235,
+            "name": "cannibalism"
+        },
+        {
+            "id": 295907,
+            "name": "psychological horror"
+        },
+        {
+            "id": 314730,
+            "name": "suspenseful"
+        },
+        {
+            "id": 325743,
+            "name": "vacation gone wrong"
+        },
+        {
+            "id": 325766,
+            "name": "antagonistic"
+        },
+        {
+            "id": 325818,
+            "name": "frightened"
+        },
+        {
+            "id": 326381,
+            "name": "one day"
+        },
+        {
+            "id": 342626,
+            "name": "b-horror"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/xnShZK7y4lupUmXghz75HRSooW9.jpg",
+            "id": 9373,
+            "title": "The Texas Chainsaw Massacre",
+            "original_title": "The Texas Chainsaw Massacre",
+            "overview": "After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a chainsaw-wielding killer and his family of equally psychopathic killers.",
+            "poster_path": "/781px1eOtfVt1RdIsL4Dt1s3x7R.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 9.3925,
+            "release_date": "2003-05-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.307,
+            "vote_count": 2979
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vrFI0I3M8ROZduj9XbFDoQKZyao.jpg",
+            "id": 9792,
+            "title": "The Hills Have Eyes",
+            "original_title": "The Hills Have Eyes",
+            "overview": "Based on Wes Craven's 1977 suspenseful cult classic, The Hills Have Eyes is the story of a family road trip that goes terrifyingly awry when the travelers become stranded in a government atomic zone. Miles from nowhere, the Carter family soon realizes the seemingly uninhabited wasteland is actually the breeding ground of a blood-thirsty mutant family...and they are the prey.",
+            "poster_path": "/2eJL1Ccr1FN3dm9OSDwyd8uaX1b.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 11.168,
+            "release_date": "2006-03-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.482,
+            "vote_count": 3418
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bkuCWDEVAp97j7XHftziO9ROYDu.jpg",
+            "id": 10781,
+            "title": "The Texas Chainsaw Massacre: The Beginning",
+            "original_title": "The Texas Chainsaw Massacre: The Beginning",
+            "overview": "Chrissie and her friends set out on a road trip for a final fling before one is shipped off to Vietnam. Along the way, bikers harass the foursome and cause an accident that throws Chrissie from the vehicle. The lawman who arrives on the scene kills one of the bikers and brings Chrissie's friends to the Hewitt homestead, where young Leatherface is learning the tools of terror.",
+            "poster_path": "/hTBueN0Ru3R7brwtONenDyEMNYe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.869,
+            "release_date": "2006-10-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.166,
+            "vote_count": 1998
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9OOVmP6FAJGffcK12GSrGSaXBs6.jpg",
+            "id": 9542,
+            "title": "The Hitcher",
+            "original_title": "The Hitcher",
+            "overview": "On a stormy night, young Jim, who transports a luxury car from Chicago to California to deliver it to its owner, feeling tired and sleepy, picks up a mysterious hitchhiker, who has appeared out of nowhere, thinking that a good conversation will help him not to fall asleep. He will have enough time to deeply regret such an unmeditated decision.",
+            "poster_path": "/89giuiFssSVCUxkCP386v66cry8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                28,
+                53
+            ],
+            "popularity": 7.2077,
+            "release_date": "1986-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1082
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+            "id": 10299,
+            "title": "Hush... Hush, Sweet Charlotte",
+            "original_title": "Hush... Hush, Sweet Charlotte",
+            "overview": "An aging, reclusive Southern belle plagued by a horrifying family secret descends into madness after the arrival of a lost relative.",
+            "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 3.2454,
+            "release_date": "1964-12-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.302,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xrt2SCSXmKiAuzCuYQVGkssvWS.jpg",
+            "id": 101669,
+            "title": "Mother's Day",
+            "original_title": "Mother's Day",
+            "overview": "Crazed members of a sadistic family return to their childhood home to terrorize the new owners.",
+            "poster_path": "/wjKmtce2WFoOyoiYGVx0nUSzGxT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "popularity": 3.1609,
+            "release_date": "2010-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.485,
+            "vote_count": 474
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2w0uvzOXKyda8fW0IvkdGFFnJCq.jpg",
+            "id": 8398,
+            "title": "The Hitcher",
+            "original_title": "The Hitcher",
+            "overview": "While driving through the New Mexico Desert during a rainy night, college students Jim Halsey and his girlfriend Grace Andrews give a ride to a hitchhiker. While in their car, the stranger proves to be a psychopath threatening the young couple with a knife, but Jim successfully throws him out of the car. This sets off a chain of events that will change all of their lives forever.",
+            "poster_path": "/uc2lUHNB1bnoT5ejVCEYv6Vm9fS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "popularity": 5.3886,
+            "release_date": "2007-01-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.896,
+            "vote_count": 1011
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
+            "id": 285923,
+            "title": "Grindhouse",
+            "original_title": "Grindhouse",
+            "overview": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
+            "poster_path": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                27
+            ],
+            "popularity": 5.1775,
+            "release_date": "2007-04-06",
+            "softcore": false,
+            "video": true,
+            "vote_average": 7.004,
+            "vote_count": 1915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qI2uKFZ9xWzLl5EPZXLctIYQrZA.jpg",
+            "id": 123109,
+            "title": "No One Lives",
+            "original_title": "No One Lives",
+            "overview": "A gang of ruthless highway killers kidnap a wealthy couple traveling cross country only to shockingly discover that things are not what they seem.",
+            "poster_path": "/d9wDmRcQngl9Jo7Go3EU7f2W15m.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.4484,
+            "release_date": "2013-03-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 701
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+            "id": 1330421,
+            "title": "Bone Lake",
+            "original_title": "Bone Lake",
+            "overview": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+            "poster_path": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 10.9358,
+            "release_date": "2025-10-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.891,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4CYo6O6p0bANfXLIwQZJpXPxmPc.jpg",
+            "id": 19185,
+            "title": "Night of the Living Dead",
+            "original_title": "Night of the Living Dead",
+            "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+            "poster_path": "/7WkSCClUvcAq8JNEp4pM4A9hiDU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.0169,
+            "release_date": "1990-10-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 987
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qXTSZkk8mQHnZjuRjW9fc2Ax5vj.jpg",
+            "id": 41439,
+            "title": "Saw 3D",
+            "original_title": "Saw 3D",
+            "overview": "As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+            "poster_path": "/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                80
+            ],
+            "popularity": 12.4556,
+            "release_date": "2010-10-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.977,
+            "vote_count": 3352
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o2SeAw8ARPB1D8oudCRJcxW3w60.jpg",
+            "id": 13186,
+            "title": "Wrong Turn 2: Dead End",
+            "original_title": "Wrong Turn 2: Dead End",
+            "overview": "Retired military commander Colonel Dale Murphy hosts the simulated post-apocalyptic reality show where participants are challenged to survive a remote West Virginia wasteland. But the show turns into a nightmarish showdown when each realizes they are being hunted by an inbred family of cannibals determined to make them all dinner!",
+            "poster_path": "/ow3IMhTVLryZuCEoQznVTTmFYuu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 10.5968,
+            "release_date": "2007-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.174,
+            "vote_count": 1586
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zE4I9YvrrMUfwDZ3zLiN10eRZxG.jpg",
+            "id": 11357,
+            "title": "Halloween 4: The Return of Michael Myers",
+            "original_title": "Halloween 4: The Return of Michael Myers",
+            "overview": "Ten years after his original massacre, the invalid Michael Myers awakens on Halloween Eve and returns to Haddonfield to kill his seven-year-old niece.",
+            "poster_path": "/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.5941,
+            "release_date": "1988-10-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.174,
+            "vote_count": 2085
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/28QWARI48SUXShKXGaLatZkeCO7.jpg",
+            "id": 103620,
+            "title": "Maniac",
+            "original_title": "Maniac",
+            "overview": "As he helps a young artist with her upcoming exhibition, the owner of a mannequin shop's deadly, suppressed desires come to the surface.",
+            "poster_path": "/nbDkRvhmbYnHDXkoq0sF0PLeo8j.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.6046,
+            "release_date": "2012-12-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.043,
+            "vote_count": 1039
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
+            "id": 8461,
+            "title": "Funny Games",
+            "original_title": "Funny Games",
+            "overview": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+            "poster_path": "/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 7.6041,
+            "release_date": "2008-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.548,
+            "vote_count": 2306
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hCAOQTMRop2fHjsl8n7yNwpkMJn.jpg",
+            "id": 6466,
+            "title": "Freddy vs. Jason",
+            "original_title": "Freddy vs. Jason",
+            "overview": "Freddy Krueger and Jason Voorhees return to terrorize the teenagers of Elm Street. Only this time, they're out to get each other, too.",
+            "poster_path": "/f9ZASRUfl8Jlco7rgRx3ujPR0P7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 8.501,
+            "release_date": "2003-08-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.098,
+            "vote_count": 2881
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jEt4V0Qb3g8frTl2MOwPORZthVH.jpg",
+            "id": 1160003,
+            "title": "Night of the Hunted",
+            "original_title": "Night of the Hunted",
+            "overview": "When an unsuspecting woman stops at a remote gas station in the dead of night, she's made the plaything of a sociopath sniper with a secret vendetta. To survive, she must not only dodge his bullets and fight for her life, but also figure out who wants her dead and why.",
+            "poster_path": "/84YOsylmgr181BHrTKlmaKs8IzV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 3.6709,
+            "release_date": "2023-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.024,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iZBUOcku0xv9MMfiEMXiDqErPXl.jpg",
+            "id": 1992,
+            "title": "Planet Terror",
+            "original_title": "Planet Terror",
+            "overview": "Two doctors find their graveyard shift inundated with townspeople ravaged by sores. Among the wounded is Cherry Darling, a dancer whose leg was ripped from her body. As the invalids quickly become enraged aggressors, Cherry and her ex-boyfriend El Wray lead a team of accidental warriors into the night.",
+            "poster_path": "/3705GxG0RN9XDV5y9IiXKYHw1fK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                28,
+                53
+            ],
+            "popularity": 8.78,
+            "release_date": "2007-04-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.692,
+            "vote_count": 3908
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/okjEw4GrEqn4seWkvUHIUXogQZD.jpg",
+            "id": 83899,
+            "title": "You're Next",
+            "original_title": "You're Next",
+            "overview": "When the Davison family comes under attack during their wedding anniversary getaway, the gang of mysterious killers soon learns that one of their victims harbors a secret talent for fighting back.",
+            "poster_path": "/l163jakfKvchUTVTtBi0KA7ZhIc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 7.2892,
+            "release_date": "2013-08-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 2721
+        }
+    ]
+}

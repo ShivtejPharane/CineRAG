@@ -1,0 +1,1278 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
+        "belongs_to_collection": null,
+        "budget": 3700000,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "https://flowthemovie.com/",
+        "id": 823219,
+        "imdb_id": "tt4772188",
+        "origin_country": [
+            "LV"
+        ],
+        "original_language": "lv",
+        "original_title": "Straume",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "popularity": 24.2867,
+        "poster_path": "/z2sG41PxfL1hnL1mHbxzSREUtOf.jpg",
+        "production_companies": [
+            {
+                "id": 153335,
+                "logo_path": "/bEsO7l12cRGAY25Uqt1a66Ife1U.png",
+                "name": "Dream Well Studio",
+                "origin_country": "LV"
+            },
+            {
+                "id": 12433,
+                "logo_path": "/sKu7Gr83ie8w6waDwYNHMBEaSah.png",
+                "name": "Sacrebleu Productions",
+                "origin_country": "FR"
+            },
+            {
+                "id": 101516,
+                "logo_path": "/q7ynwvgbkht96N8qPFexUW3QFeR.png",
+                "name": "Take Five",
+                "origin_country": "BE"
+            },
+            {
+                "id": 94,
+                "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+                "name": "ARTE France Cinéma",
+                "origin_country": "FR"
+            },
+            {
+                "id": 792,
+                "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+                "name": "RTBF",
+                "origin_country": "BE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "LV",
+                "name": "Latvia"
+            },
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "release_date": "2024-08-29",
+        "revenue": 17660107,
+        "runtime": 85,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "No Language",
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Disaster tore their world apart. Friendship will bring them together.",
+        "title": "Flow",
+        "video": false,
+        "vote_average": 8.077,
+        "vote_count": 2961
+    },
+    "cast": [],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1328012,
+            "known_for_department": "Directing",
+            "name": "Gints Zilbalodis",
+            "original_name": "Gints Zilbalodis",
+            "popularity": 0.7191,
+            "profile_path": "/fP44KcwJLGK3or7T7bImWBSDKo8.jpg",
+            "credit_id": "60877f68532acb0028368416",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1130169,
+            "known_for_department": "Production",
+            "name": "Ron Dyens",
+            "original_name": "Ron Dyens",
+            "popularity": 0.5846,
+            "profile_path": "/w7cTqN7hZw6x0n2JyhunjyvG1O0.jpg",
+            "credit_id": "608784eb2c6b7b0041fa578f",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1105426,
+            "known_for_department": "Production",
+            "name": "Matīss Kaža",
+            "original_name": "Matīss Kaža",
+            "popularity": 0.5586,
+            "profile_path": "/gOKxbIW0cJJyIiZrnT7iOxXWtX5.jpg",
+            "credit_id": "6087852d532acb005888fa0e",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1328012,
+            "known_for_department": "Directing",
+            "name": "Gints Zilbalodis",
+            "original_name": "Gints Zilbalodis",
+            "popularity": 0.7191,
+            "profile_path": "/fP44KcwJLGK3or7T7bImWBSDKo8.jpg",
+            "credit_id": "608785a4532acb005888fa80",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1328012,
+            "known_for_department": "Directing",
+            "name": "Gints Zilbalodis",
+            "original_name": "Gints Zilbalodis",
+            "popularity": 0.7191,
+            "profile_path": "/fP44KcwJLGK3or7T7bImWBSDKo8.jpg",
+            "credit_id": "608786038d22fc0058c1f7c2",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1957819,
+            "known_for_department": "Production",
+            "name": "Gregory Zalcman",
+            "original_name": "Gregory Zalcman",
+            "popularity": 0.5453,
+            "profile_path": "/rwXKlSnhkCZbyKONvAEIIRjaxTW.jpg",
+            "credit_id": "6639c21194d8a8012b341108",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2553500,
+            "known_for_department": "Sound",
+            "name": "Rihards Zaļupe",
+            "original_name": "Rihards Zaļupe",
+            "popularity": 0.2343,
+            "profile_path": "/j9UIeJuP37VFRQxVWpdAnbZNPLn.jpg",
+            "credit_id": "6639c24c2faf4d012ac6e7d4",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1328012,
+            "known_for_department": "Directing",
+            "name": "Gints Zilbalodis",
+            "original_name": "Gints Zilbalodis",
+            "popularity": 0.7191,
+            "profile_path": "/fP44KcwJLGK3or7T7bImWBSDKo8.jpg",
+            "credit_id": "6652eee615649dc0cb34dd5d",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1630957,
+            "known_for_department": "Sound",
+            "name": "Gurwal Coïc-Gallas",
+            "original_name": "Gurwal Coïc-Gallas",
+            "popularity": 0.3532,
+            "profile_path": "/qbaPkHaNQjGXyIWubOWOlY7OGUG.jpg",
+            "credit_id": "6652ef43fe20a6182471aadb",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3746002,
+            "known_for_department": "Visual Effects",
+            "name": "Léo Silly-Pélissier",
+            "original_name": "Léo Silly-Pélissier",
+            "popularity": 0.2268,
+            "profile_path": null,
+            "credit_id": "6652efd0819a4e2884b3e85c",
+            "department": "Visual Effects",
+            "job": "Animation Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1292607,
+            "known_for_department": "Sound",
+            "name": "Philippe Charbonnel",
+            "original_name": "Philippe Charbonnel",
+            "popularity": 0.474,
+            "profile_path": null,
+            "credit_id": "66fc6c3fe7811ef6cba695e3",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1328012,
+            "known_for_department": "Directing",
+            "name": "Gints Zilbalodis",
+            "original_name": "Gints Zilbalodis",
+            "popularity": 0.7191,
+            "profile_path": "/fP44KcwJLGK3or7T7bImWBSDKo8.jpg",
+            "credit_id": "66fc6c47061afe114bf19859",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1105426,
+            "known_for_department": "Production",
+            "name": "Matīss Kaža",
+            "original_name": "Matīss Kaža",
+            "popularity": 0.5586,
+            "profile_path": "/gOKxbIW0cJJyIiZrnT7iOxXWtX5.jpg",
+            "credit_id": "6760aae53e055e34ce191efa",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1328012,
+            "known_for_department": "Directing",
+            "name": "Gints Zilbalodis",
+            "original_name": "Gints Zilbalodis",
+            "popularity": 0.7191,
+            "profile_path": "/fP44KcwJLGK3or7T7bImWBSDKo8.jpg",
+            "credit_id": "6760aaecb1ab10c010baf71d",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1328012,
+            "known_for_department": "Directing",
+            "name": "Gints Zilbalodis",
+            "original_name": "Gints Zilbalodis",
+            "popularity": 0.7191,
+            "profile_path": "/fP44KcwJLGK3or7T7bImWBSDKo8.jpg",
+            "credit_id": "6788c44d45f296f6011d3c00",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1130169,
+            "known_for_department": "Production",
+            "name": "Ron Dyens",
+            "original_name": "Ron Dyens",
+            "popularity": 0.5846,
+            "profile_path": "/w7cTqN7hZw6x0n2JyhunjyvG1O0.jpg",
+            "credit_id": "6788c4631403701c991d3ecf",
+            "department": "Writing",
+            "job": "Adaptation"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4369154,
+            "known_for_department": "Production",
+            "name": "Claire Maillard",
+            "original_name": "Claire Maillard",
+            "popularity": 0.3414,
+            "profile_path": null,
+            "credit_id": "67a69515dcf75afbe2f0f77d",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3746002,
+            "known_for_department": "Visual Effects",
+            "name": "Léo Silly-Pélissier",
+            "original_name": "Léo Silly-Pélissier",
+            "popularity": 0.2268,
+            "profile_path": null,
+            "credit_id": "67a6954789f05e1619f0f584",
+            "department": "Visual Effects",
+            "job": "Animation Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4395879,
+            "known_for_department": "Visual Effects",
+            "name": "Maxime Leclerc",
+            "original_name": "Maxime Leclerc",
+            "popularity": 0.1422,
+            "profile_path": null,
+            "credit_id": "67a6954c31001bec13c898ed",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2892841,
+            "known_for_department": "Visual Effects",
+            "name": "Florian Durand",
+            "original_name": "Florian Durand",
+            "popularity": 0.2159,
+            "profile_path": null,
+            "credit_id": "67a6955189f05e1619f0f589",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4146246,
+            "known_for_department": "Production",
+            "name": "Virginie Guilminot",
+            "original_name": "Virginie Guilminot",
+            "popularity": 0.1063,
+            "profile_path": null,
+            "credit_id": "67a69558269f0bc4f5f0f898",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5232568,
+            "known_for_department": "Art",
+            "name": "Victor Anceaume",
+            "original_name": "Victor Anceaume",
+            "popularity": 0.1712,
+            "profile_path": null,
+            "credit_id": "67a69597f5aaa6afa9e04e85",
+            "department": "Art",
+            "job": "Concept Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5232569,
+            "known_for_department": "Art",
+            "name": "Florent Desailly",
+            "original_name": "Florent Desailly",
+            "popularity": 0.0739,
+            "profile_path": null,
+            "credit_id": "67a695a0269f0bc4f5f0f8b7",
+            "department": "Art",
+            "job": "Concept Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1957818,
+            "known_for_department": "Production",
+            "name": "Alon Knoll",
+            "original_name": "Alon Knoll",
+            "popularity": 0.4791,
+            "profile_path": null,
+            "credit_id": "67a695b5269f0bc4f5f0f8c4",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1621040,
+            "known_for_department": "Sound",
+            "name": "Bertrand Boudaud",
+            "original_name": "Bertrand Boudaud",
+            "popularity": 0.3717,
+            "profile_path": null,
+            "credit_id": "67a695e889f05e1619f0f660",
+            "department": "Sound",
+            "job": "Foley Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2781655,
+            "known_for_department": "Sound",
+            "name": "David Davister",
+            "original_name": "David Davister",
+            "popularity": 0.7027,
+            "profile_path": null,
+            "credit_id": "67a6960ca32057b6fdc89420",
+            "department": "Sound",
+            "job": "Foley Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1662692,
+            "known_for_department": "Sound",
+            "name": "David Gérain",
+            "original_name": "David Gérain",
+            "popularity": 0.3591,
+            "profile_path": null,
+            "credit_id": "67a6961489f05e1619f0f681",
+            "department": "Sound",
+            "job": "Foley Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5134170,
+            "known_for_department": "Sound",
+            "name": "Nicolas Auert",
+            "original_name": "Nicolas Auert",
+            "popularity": 0.5953,
+            "profile_path": "/gUZslYv4Tw143kXxsHDRNIdL1wV.jpg",
+            "credit_id": "67a69634269f0bc4f5f0f972",
+            "department": "Sound",
+            "job": "Foley Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1662695,
+            "known_for_department": "Sound",
+            "name": "David Vranken",
+            "original_name": "David Vranken",
+            "popularity": 0.3563,
+            "profile_path": null,
+            "credit_id": "67a6963f269f0bc4f5f0f975",
+            "department": "Sound",
+            "job": "Sound Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1617562,
+            "known_for_department": "Production",
+            "name": "Alexandre Cornu",
+            "original_name": "Alexandre Cornu",
+            "popularity": 0.4668,
+            "profile_path": null,
+            "credit_id": "67a6964c269f0bc4f5f0f980",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2553500,
+            "known_for_department": "Sound",
+            "name": "Rihards Zaļupe",
+            "original_name": "Rihards Zaļupe",
+            "popularity": 0.2343,
+            "profile_path": "/j9UIeJuP37VFRQxVWpdAnbZNPLn.jpg",
+            "credit_id": "67a6966f1c0f3abf87e05197",
+            "department": "Sound",
+            "job": "Orchestrator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2553500,
+            "known_for_department": "Sound",
+            "name": "Rihards Zaļupe",
+            "original_name": "Rihards Zaļupe",
+            "popularity": 0.2343,
+            "profile_path": "/j9UIeJuP37VFRQxVWpdAnbZNPLn.jpg",
+            "credit_id": "67a696851c0f3abf87e051af",
+            "department": "Sound",
+            "job": "Conductor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4925619,
+            "known_for_department": "Crew",
+            "name": "Elīna Reinholde",
+            "original_name": "Elīna Reinholde",
+            "popularity": 0.2117,
+            "profile_path": null,
+            "credit_id": "67a696a2df55e8f213f0f6f1",
+            "department": "Crew",
+            "job": "Post Production Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3946401,
+            "known_for_department": "Editing",
+            "name": "Raimonds Lužinskis",
+            "original_name": "Raimonds Lužinskis",
+            "popularity": 0.2392,
+            "profile_path": null,
+            "credit_id": "67a696cddf55e8f213f0f714",
+            "department": "Editing",
+            "job": "Online Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5232577,
+            "known_for_department": "Sound",
+            "name": "Normunds Šnē",
+            "original_name": "Normunds Šnē",
+            "popularity": 0.1363,
+            "profile_path": null,
+            "credit_id": "67a696e81729ffa1cae04f0b",
+            "department": "Sound",
+            "job": "Sound Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5232580,
+            "known_for_department": "Production",
+            "name": "Marc Janssen",
+            "original_name": "Marc Janssen",
+            "popularity": 0.1164,
+            "profile_path": null,
+            "credit_id": "67a6973b1c0f3abf87e0520d",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5232581,
+            "known_for_department": "Production",
+            "name": "Paola Acosta",
+            "original_name": "Paola Acosta",
+            "popularity": 0.1673,
+            "profile_path": null,
+            "credit_id": "67a697591c0f3abf87e05223",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5232581,
+            "known_for_department": "Production",
+            "name": "Paola Acosta",
+            "original_name": "Paola Acosta",
+            "popularity": 0.1673,
+            "profile_path": null,
+            "credit_id": "67a697d331001bec13c899a4",
+            "department": "Crew",
+            "job": "Thanks"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1105426,
+            "known_for_department": "Production",
+            "name": "Matīss Kaža",
+            "original_name": "Matīss Kaža",
+            "popularity": 0.5586,
+            "profile_path": "/gOKxbIW0cJJyIiZrnT7iOxXWtX5.jpg",
+            "credit_id": "68097319f913e66a3aee2229",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3105142,
+            "known_for_department": "Production",
+            "name": "Théophile Robert",
+            "original_name": "Théophile Robert",
+            "popularity": 0.3165,
+            "profile_path": null,
+            "credit_id": "68097363f913e66a3aee2248",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5392099,
+            "known_for_department": "Production",
+            "name": "Manon Troussier",
+            "original_name": "Manon Troussier",
+            "popularity": 0.1592,
+            "profile_path": null,
+            "credit_id": "6809737b8bcea66a86aa777e",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1451497,
+            "known_for_department": "Production",
+            "name": "Olivier Père",
+            "original_name": "Olivier Père",
+            "popularity": 0.5724,
+            "profile_path": "/w3e88Dn1Usb6fNKNElkVfJBybla.jpg",
+            "credit_id": "680973ce271ecb3ae08a0881",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 32463,
+            "known_for_department": "Production",
+            "name": "Rémi Burah",
+            "original_name": "Rémi Burah",
+            "popularity": 0.6456,
+            "profile_path": null,
+            "credit_id": "680973df8bcea66a86aa7791",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5392101,
+            "known_for_department": "Production",
+            "name": "Mathilde Hersant",
+            "original_name": "Mathilde Hersant",
+            "popularity": 0.1587,
+            "profile_path": null,
+            "credit_id": "680973ff276bf64e41ab7a9e",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5392282,
+            "known_for_department": "Production",
+            "name": "Julie Savary",
+            "original_name": "Julie Savary",
+            "popularity": 0.1988,
+            "profile_path": null,
+            "credit_id": "6809909f8bcea66a86aa7bfa",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5392285,
+            "known_for_department": "Production",
+            "name": "Malo Jacquemin",
+            "original_name": "Malo Jacquemin",
+            "popularity": 0.1897,
+            "profile_path": null,
+            "credit_id": "680990b2e79045c1eeee1030",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5392288,
+            "known_for_department": "Production",
+            "name": "Laetitia Sabourin",
+            "original_name": "Laetitia Sabourin",
+            "popularity": 0.1436,
+            "profile_path": null,
+            "credit_id": "680990d0b2b722aedf8a3280",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1181843,
+            "known_for_department": "Writing",
+            "name": "Caroline Jung",
+            "original_name": "Caroline Jung",
+            "popularity": 0.3619,
+            "profile_path": null,
+            "credit_id": "680990dfc96e0dcc05ee6ecd",
+            "department": "Production",
+            "job": "Co-Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 270,
+            "name": "ocean"
+        },
+        {
+            "id": 977,
+            "name": "cat"
+        },
+        {
+            "id": 1422,
+            "name": "boat"
+        },
+        {
+            "id": 4565,
+            "name": "dystopia"
+        },
+        {
+            "id": 10349,
+            "name": "survival"
+        },
+        {
+            "id": 15162,
+            "name": "dog"
+        },
+        {
+            "id": 162715,
+            "name": "ruins"
+        },
+        {
+            "id": 173272,
+            "name": "flood"
+        },
+        {
+            "id": 181033,
+            "name": "lemur"
+        },
+        {
+            "id": 208349,
+            "name": "kids"
+        },
+        {
+            "id": 211659,
+            "name": "somber"
+        },
+        {
+            "id": 277462,
+            "name": "bird"
+        },
+        {
+            "id": 278823,
+            "name": "3d animation"
+        },
+        {
+            "id": 285070,
+            "name": "no dialogue"
+        },
+        {
+            "id": 285485,
+            "name": "teamwork"
+        },
+        {
+            "id": 293198,
+            "name": "fantasy"
+        },
+        {
+            "id": 309974,
+            "name": "absurd"
+        },
+        {
+            "id": 318270,
+            "name": "capybara"
+        },
+        {
+            "id": 322942,
+            "name": "adventure"
+        },
+        {
+            "id": 325761,
+            "name": "admiring"
+        },
+        {
+            "id": 325787,
+            "name": "complicated"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg",
+            "id": 560057,
+            "title": "The Sea Beast",
+            "original_title": "The Sea Beast",
+            "overview": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+            "poster_path": "/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                28,
+                10751,
+                14
+            ],
+            "popularity": 9.6508,
+            "release_date": "2022-06-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.329,
+            "vote_count": 1741
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gJESrIalQkXe7bh9ckyQvgCSlhq.jpg",
+            "id": 560052,
+            "title": "My Father's Dragon",
+            "original_title": "My Father's Dragon",
+            "overview": "Struggling to cope after a move to the city with his mother, Elmer runs away in search of Wild Island and a young dragon who waits to be rescued. Elmer’s adventures introduce him to ferocious beasts, a mysterious island and the friendship of a lifetime.",
+            "poster_path": "/6hgEe1w0An5fKi3ZqIUBwOyIN2y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14,
+                35
+            ],
+            "popularity": 3.811,
+            "release_date": "2022-11-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.025,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xEPQxkqAVIXrZKQIQCKqyRHzc1t.jpg",
+            "id": 567811,
+            "title": "10 Lives",
+            "original_title": "10 Lives",
+            "overview": "A pampered cat takes for granted the lucky hand he has been dealt after he is rescued and loved by Rose, a kind-hearted and passionate student. When he loses his ninth life, fate steps in to set him on a transformative journey.",
+            "poster_path": "/r2D7MkNocsqKOqGnnGEQThU26JS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "popularity": 6.3526,
+            "release_date": "2024-04-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.656,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ackk6QMSECnqWC2H73lKXs8J5iY.jpg",
+            "id": 309809,
+            "title": "The Little Prince",
+            "original_title": "The Little Prince",
+            "overview": "Based on the best-seller book 'The Little Prince', the movie tells the story of a little girl that lives with resignation in a world where efficiency and work are the only dogmas. Everything will change when accidentally she discovers her neighbor that will tell her about the story of the Little Prince that he once met.",
+            "poster_path": "/je5Z7gbFTzrs3FPHINo9yGiHoVo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                16,
+                14,
+                10751
+            ],
+            "popularity": 8.2721,
+            "release_date": "2015-07-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.617,
+            "vote_count": 3007
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/laeEtakR2pLKu3CeRwB2lU5Y53X.jpg",
+            "id": 10567,
+            "title": "Dinosaur",
+            "original_title": "Dinosaur",
+            "overview": "An orphaned dinosaur raised by lemurs joins an arduous trek to a sancturary after a meteorite shower destroys his family home.",
+            "poster_path": "/rSje3FS7ycJSglowlngjsvDt7vO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                16,
+                18,
+                10751
+            ],
+            "popularity": 8.7537,
+            "release_date": "2000-05-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.58,
+            "vote_count": 2783
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
+            "id": 277834,
+            "title": "Moana",
+            "original_title": "Moana",
+            "overview": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
+            "poster_path": "/m5MDZOIFEFlxGiLuAzWzFSsWcye.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                35,
+                10751,
+                16
+            ],
+            "popularity": 7.1323,
+            "release_date": "2016-10-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.565,
+            "vote_count": 13896
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4nBxazVPqf88v4omVqGJSUoX0lE.jpg",
+            "id": 1280282,
+            "title": "Gabby's Dollhouse: The Movie",
+            "original_title": "Gabby's Dollhouse: The Movie",
+            "overview": "Gabby heads out on a road trip with her Grandma Gigi to the urban wonderland of Cat Francisco. But when Gabby's dollhouse, her most prized possession, ends up in the hands of an eccentric cat lady named Vera, Gabby sets off on an adventure through the real world to get the Gabby Cats back together and save the dollhouse before it's too late.",
+            "poster_path": "/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751,
+                14
+            ],
+            "popularity": 9.4946,
+            "release_date": "2025-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tleIOY1MS8DIe6v7x6gg7lRCOfA.jpg",
+            "id": 774825,
+            "title": "The Ice Age Adventures of Buck Wild",
+            "original_title": "The Ice Age Adventures of Buck Wild",
+            "overview": "The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash & Eddie as they head off on a new adventure into Buck's home: The Dinosaur World.",
+            "poster_path": "/9ginbMWmt9y7PIHW1c9hnbIVWPm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                12
+            ],
+            "popularity": 9.1118,
+            "release_date": "2022-01-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.566,
+            "vote_count": 1852
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yd2xws5wVT2Ss6f0Q0oTkdYtiQE.jpg",
+            "id": 664236,
+            "title": "Extinct",
+            "original_title": "Extinct",
+            "overview": "Op and Ed, two adorable donut-shaped animals - flummels - accidentally time-travel from 1835 to modern-day Shanghai.  There they discover traffic, trans fats, and worst of all, that flummels are now extinct. It's up to this bumbling pair to save themselves and their species...and, just maybe, change the course of history.",
+            "poster_path": "/9cnHvJPXNNxhnxHdDWHIEmxoilF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                12
+            ],
+            "popularity": 5.7457,
+            "release_date": "2021-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.222,
+            "vote_count": 189
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/201mKrWi37SE1YkdqRP7rE3QamK.jpg",
+            "id": 416153,
+            "title": "Arctic Dogs",
+            "original_title": "Arctic Dogs",
+            "overview": "Animals band together to save the day when the evil Otto Von Walrus hatches a sinister scheme to accelerate global warming and melt the Arctic Circle.",
+            "poster_path": "/5YHjyjd2N0ZXcnGuB8G1nIa6h9t.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                35
+            ],
+            "popularity": 6.3104,
+            "release_date": "2019-11-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.983,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
+            "id": 597316,
+            "title": "My Little Pony: A New Generation",
+            "original_title": "My Little Pony: A New Generation",
+            "overview": "Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.",
+            "poster_path": "/uvbj8puRj37Pc8FS4rIfVeReYFF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                35,
+                12
+            ],
+            "popularity": 5.3158,
+            "release_date": "2021-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.651,
+            "vote_count": 347
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
+            "id": 953,
+            "title": "Madagascar",
+            "original_title": "Madagascar",
+            "overview": "Four animal friends get a taste of the wild life when they break out of captivity at the Central Park Zoo and wash ashore on the island of Madagascar.",
+            "poster_path": "/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751
+            ],
+            "popularity": 20.6293,
+            "release_date": "2005-05-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.928,
+            "vote_count": 11875
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/59sQOjOP5ktav9DtxgnXBF2oaja.jpg",
+            "id": 609271,
+            "title": "Under the Boardwalk",
+            "original_title": "Under the Boardwalk",
+            "overview": "Two crabs embark on an epic journey to get home after a storm sweeps them away. Their courage soon unites their families, paving the way for great summers to come.",
+            "poster_path": "/pJzk88QM8USoEY6VWAEQFoubkFd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751,
+                10749
+            ],
+            "popularity": 3.7947,
+            "release_date": "2023-10-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 130
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a17F3zXnmuwqxfiDa46mtlosjrv.jpg",
+            "id": 675445,
+            "title": "PAW Patrol: The Movie",
+            "original_title": "PAW Patrol: The Movie",
+            "overview": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+            "poster_path": "/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                35,
+                10751
+            ],
+            "popularity": 14.0283,
+            "release_date": "2021-08-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.319,
+            "vote_count": 1280
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bftdQMCkQa3KXHWXwAaW0g1p6ZH.jpg",
+            "id": 638134,
+            "title": "Pets United",
+            "original_title": "Pets United",
+            "overview": "When Roger (a Robin Hood-esque, stray dog) and Belle (an elegant yet spoilt pet cat) are thrown together amidst the chaos of a robot take-over of their home city, they must push all their preconceptions aside in order to survive, as they embark on a high-stakes, action-packed adventure.",
+            "poster_path": "/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                35
+            ],
+            "popularity": 4.9648,
+            "release_date": "2019-11-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.877,
+            "vote_count": 228
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zABJBMFSc19yLR0bzK6AvFxreVb.jpg",
+            "id": 326215,
+            "title": "Ooops! Noah Is Gone...",
+            "original_title": "Ooops! Noah Is Gone...",
+            "overview": "It's the end of the world. A flood is coming. Luckily for Dave and his son Finny, a couple of clumsy Nestrians, an Ark has been built to save all animals. But as it turns out, Nestrians aren't allowed. Sneaking on board with the involuntary help of Hazel and her daughter Leah, two Grymps, they think they're safe. Until the curious kids fall off the Ark. Now Finny and Leah struggle to survive the flood and hungry predators and attempt to reach the top of a mountain, while Dave and Hazel must put aside their differences, turn the Ark around and save their kids. It's definitely not going to be smooth sailing.",
+            "poster_path": "/gEJXHgpiKh89Vwjc4XUY5CIgUdB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751
+            ],
+            "popularity": 4.7155,
+            "release_date": "2015-03-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.399,
+            "vote_count": 348
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v4NDRjYO3HYj8nt321BEZB65tWl.jpg",
+            "id": 588921,
+            "title": "Ainbo: Spirit of the Amazon",
+            "original_title": "Ainbo: Spirit of the Amazon",
+            "overview": "An epic journey of a young hero and her Spirit Guides, 'Dillo' a cute and humorous armadillo and \"Vaca\" a goofy oversized tapir, who embark on a quest to save their home in the spectacular Amazon Rainforest.",
+            "poster_path": "/l8HyObVj8fPrzacAPtGWWLDhcfh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                16,
+                10751,
+                14
+            ],
+            "popularity": 4.6534,
+            "release_date": "2021-02-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.034,
+            "vote_count": 477
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/leobhCk6L86BEBnx1t6URQcIdQW.jpg",
+            "id": 756397,
+            "title": "Hitpig!",
+            "original_title": "Hitpig!",
+            "overview": "A porcine bounty hunter accepts his next hit: Pickles, a naive, ebullient elephant. Though he initially sets out to capture the perky pachyderm, the unlikely pair find themselves crisscrossing the globe on an adventure that brings out the best in both of them.",
+            "poster_path": "/bYa20LYAZ3Q7lKXtLYybo0yWWTN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                12,
+                10751
+            ],
+            "popularity": 6.6266,
+            "release_date": "2024-11-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.609,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c9yWoqYOB0dA10CpsdEr5i9vK3R.jpg",
+            "id": 25913,
+            "title": "Balto: Wolf Quest",
+            "original_title": "Balto: Wolf Quest",
+            "overview": "Balto and his daughter Aleu embark on a journey of adventure and self discovery.",
+            "poster_path": "/dZ958HnW3JO2pEZeedjmoZCV8Rn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                12
+            ],
+            "popularity": 2.9393,
+            "release_date": "2002-04-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.361,
+            "vote_count": 574
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4rFvJSvzX9dSOYeGzl59Udzdym9.jpg",
+            "id": 34942,
+            "title": "Balto III: Wings of Change",
+            "original_title": "Balto III: Wings of Change",
+            "overview": "Balto and the other sled dogs are feeling dejected because the mail that used to be delivered by dogsled is now being delivered by airplanes. But when a mail plane crashes in the mountains, the dogs come to the rescue.",
+            "poster_path": "/3tKVHAMFTajrSLfU6gUgdubiXBG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                12,
+                16
+            ],
+            "popularity": 2.884,
+            "release_date": "2004-04-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.649,
+            "vote_count": 363
+        }
+    ]
+}

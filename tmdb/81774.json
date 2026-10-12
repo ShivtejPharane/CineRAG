@@ -1,0 +1,1061 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/4cd9YihTHx1j8oRdlwEa1emKiAl.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 81774,
+        "imdb_id": "tt0092995",
+        "origin_country": [
+            "FR"
+        ],
+        "original_language": "fr",
+        "original_title": "Les Exploits d'un jeune Don Juan",
+        "overview": "In 1914, sixteen year old Roger returned home from boarding school during vacation to find his puberty hit hard in a house filled with beautiful women. These women have previous engagements with other men who are away, and during this time, Roger impregnates them all, including his aunt and sister, then devises plans to cuckold the men.",
+        "popularity": 19.7567,
+        "poster_path": "/xvtRgQIRegLjsjaIkKQbh0hk3Qy.jpg",
+        "production_companies": [
+            {
+                "id": 51304,
+                "logo_path": null,
+                "name": "Séléna Audiovisuel",
+                "origin_country": "FR"
+            },
+            {
+                "id": 28391,
+                "logo_path": null,
+                "name": "Antea Cinematografica",
+                "origin_country": ""
+            },
+            {
+                "id": 51305,
+                "logo_path": null,
+                "name": "Lagonda Films",
+                "origin_country": ""
+            },
+            {
+                "id": 7110,
+                "logo_path": null,
+                "name": "Les Films Ariane",
+                "origin_country": "FR"
+            },
+            {
+                "id": 26899,
+                "logo_path": null,
+                "name": "Orphée Arts",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "1986-11-04",
+        "revenue": 1300000,
+        "runtime": 100,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Exploits of a Young Don Juan",
+        "video": false,
+        "vote_average": 6.128,
+        "vote_count": 327
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 41163,
+            "known_for_department": "Acting",
+            "name": "Serena Grandi",
+            "original_name": "Serena Grandi",
+            "popularity": 4.5032,
+            "profile_path": "/tEj8FyPTgmiNKtcs8Xz4ma6gn9w.jpg",
+            "cast_id": 4,
+            "character": "Ursule",
+            "credit_id": "52fe482a9251416c91082a0b",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 9919,
+            "known_for_department": "Acting",
+            "name": "Claudine Auger",
+            "original_name": "Claudine Auger",
+            "popularity": 1.8891,
+            "profile_path": "/vwsc6RUADD2ErL8KK6gj0JbjxQR.jpg",
+            "cast_id": 5,
+            "character": "La mère",
+            "credit_id": "52fe482a9251416c91082a0f",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 14813,
+            "known_for_department": "Acting",
+            "name": "Marina Vlady",
+            "original_name": "Marina Vlady",
+            "popularity": 1.7382,
+            "profile_path": "/zb6pWsjtLsr5BHRlkKAVpu28ShW.jpg",
+            "cast_id": 3,
+            "character": "Mme Muller",
+            "credit_id": "52fe482a9251416c91082a07",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 592458,
+            "known_for_department": "Acting",
+            "name": "Fabrice Josso",
+            "original_name": "Fabrice Josso",
+            "popularity": 1.1711,
+            "profile_path": "/wZ4tnhUH8Io1dcGcKajWvCYThfv.jpg",
+            "cast_id": 2,
+            "character": "Roger",
+            "credit_id": "52fe482a9251416c91082a03",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 32043,
+            "known_for_department": "Acting",
+            "name": "François Perrot",
+            "original_name": "François Perrot",
+            "popularity": 0.8111,
+            "profile_path": "/z7apRA3QHT28HH9UOe9UXFlZCsd.jpg",
+            "cast_id": 6,
+            "character": "Le père",
+            "credit_id": "52fe482b9251416c91082a13",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15482,
+            "known_for_department": "Acting",
+            "name": "Aurélien Recoing",
+            "original_name": "Aurélien Recoing",
+            "popularity": 0.9404,
+            "profile_path": "/slDvlNa3l9eadFF2sANRk7jcjCl.jpg",
+            "cast_id": 9,
+            "character": "Adolphe",
+            "credit_id": "553d58029251413f5a008468",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 29513,
+            "known_for_department": "Acting",
+            "name": "Rosette",
+            "original_name": "Rosette",
+            "popularity": 0.7743,
+            "profile_path": "/8p94hYFOqPwT0sD9Q3ZlWefMlqO.jpg",
+            "cast_id": 10,
+            "character": "Hélène",
+            "credit_id": "553d58299251411435001eec",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 115686,
+            "known_for_department": "Acting",
+            "name": "Laurent Spielvogel",
+            "original_name": "Laurent Spielvogel",
+            "popularity": 0.8335,
+            "profile_path": "/u8Lxm7eCaqYfXddwfmA9Wjylzqv.jpg",
+            "cast_id": 11,
+            "character": "M. Frank",
+            "credit_id": "553d58429251413f5a008475",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 53425,
+            "known_for_department": "Acting",
+            "name": "Alexandra Vandernoot",
+            "original_name": "Alexandra Vandernoot",
+            "popularity": 2.0996,
+            "profile_path": "/qfIFGsamsqi8yDsdBY6VNuG6QPG.jpg",
+            "cast_id": 12,
+            "character": "Elisa",
+            "credit_id": "553d585cc3a368066d001d6d",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1459483,
+            "known_for_department": "Acting",
+            "name": "Marion Peterson",
+            "original_name": "Marion Peterson",
+            "popularity": 1.3208,
+            "profile_path": "/6NxswBzNsPiIdEHHIF16oRMsR1H.jpg",
+            "cast_id": 13,
+            "character": "Kate",
+            "credit_id": "553d5877c3a368784500d199",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 133144,
+            "known_for_department": "Acting",
+            "name": "Yves Lambrecht",
+            "original_name": "Yves Lambrecht",
+            "popularity": 0.4916,
+            "profile_path": "/nIaOR3c7AKHgpqGBnMwwqxkhFf1.jpg",
+            "cast_id": 17,
+            "character": "Roland",
+            "credit_id": "553d58dc92514137f9001c63",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 19163,
+            "known_for_department": "Acting",
+            "name": "Virginie Ledoyen",
+            "original_name": "Virginie Ledoyen",
+            "popularity": 2.1909,
+            "profile_path": "/sIx8EAaGqEaveQtUrCzQOqmoY2J.jpg",
+            "cast_id": 14,
+            "character": "Berthe",
+            "credit_id": "553d5892c3a368066d001d71",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2407,
+            "known_for_department": "Acting",
+            "name": "Rufus",
+            "original_name": "Rufus",
+            "popularity": 0.9045,
+            "profile_path": "/aC6rEJrBgCNjeG6vetJPBdgj5h3.jpg",
+            "cast_id": 15,
+            "character": "Le moine",
+            "credit_id": "553d58adc3a3687db1001b52",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 122420,
+            "known_for_department": "Acting",
+            "name": "Bérangère Bonvoisin",
+            "original_name": "Bérangère Bonvoisin",
+            "popularity": 0.5582,
+            "profile_path": "/548Mwz1n6OxKAFkEyTDddFeRoH7.jpg",
+            "cast_id": 16,
+            "character": "Tante Marguerite",
+            "credit_id": "553d58c5c3a368066d001d77",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 584986,
+            "known_for_department": "Acting",
+            "name": "Daniel Langlet",
+            "original_name": "Daniel Langlet",
+            "popularity": 0.5425,
+            "profile_path": "/h5HhLC9RAKnaiC7qFG9qQCWSiUu.jpg",
+            "cast_id": 18,
+            "character": "M. Muller (uncredited)",
+            "credit_id": "553d58f2c3a3683e55006468",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 290220,
+            "known_for_department": "Acting",
+            "name": "Jean-Claude Frissung",
+            "original_name": "Jean-Claude Frissung",
+            "popularity": 0.5213,
+            "profile_path": "/lsJcKDcJuhsUVVyklooFMgSfusw.jpg",
+            "cast_id": 19,
+            "character": "Valentin (uncredited)",
+            "credit_id": "59cb75079251412bed00d48a",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4627720,
+            "known_for_department": "Acting",
+            "name": "Josy Rosier",
+            "original_name": "Josy Rosier",
+            "popularity": 0.2404,
+            "profile_path": null,
+            "cast_id": 27,
+            "character": "La cuisinière (uncredited)",
+            "credit_id": "660ae172e039f1017ce52960",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4627721,
+            "known_for_department": "Acting",
+            "name": "Patrick Houpert",
+            "original_name": "Patrick Houpert",
+            "popularity": 0.1676,
+            "profile_path": null,
+            "cast_id": 28,
+            "character": "Paysan (uncredited)",
+            "credit_id": "660ae18b15dea0017c3384c9",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1777416,
+            "known_for_department": "Acting",
+            "name": "Eric Kailey",
+            "original_name": "Eric Kailey",
+            "popularity": 0.3374,
+            "profile_path": "/cyMRibIfe3cE8rPiL7MY6qIC1HM.jpg",
+            "cast_id": 29,
+            "character": "Paysan (uncredited)",
+            "credit_id": "660ae1a15aadc40149626a79",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4627725,
+            "known_for_department": "Acting",
+            "name": "Caroline Finnaert",
+            "original_name": "Caroline Finnaert",
+            "popularity": 0.1988,
+            "profile_path": null,
+            "cast_id": 30,
+            "character": "Paysan (uncredited)",
+            "credit_id": "660ae1c3a0be28017d724623",
+            "order": 19
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 239341,
+            "known_for_department": "Directing",
+            "name": "Gianfranco Mingozzi",
+            "original_name": "Gianfranco Mingozzi",
+            "popularity": 0.5892,
+            "profile_path": "/rE5SN0Xz3AyxmMwtNeGPgFjdAke.jpg",
+            "credit_id": "52fe482a9251416c910829ff",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1152709,
+            "known_for_department": "Acting",
+            "name": "Guillaume Apollinaire",
+            "original_name": "Guillaume Apollinaire",
+            "popularity": 0.6204,
+            "profile_path": "/ybHHfSL0eb65HgtHWrI6JpCH6lP.jpg",
+            "credit_id": "52fe482b9251416c91082a19",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 9747,
+            "known_for_department": "Writing",
+            "name": "Jean-Claude Carrière",
+            "original_name": "Jean-Claude Carrière",
+            "popularity": 1.2623,
+            "profile_path": "/aBHANidKViiyTFj5JeMyrvp3l8x.jpg",
+            "credit_id": "52fe482b9251416c91082a1f",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1180678,
+            "known_for_department": "Camera",
+            "name": "Luigi Verga",
+            "original_name": "Luigi Verga",
+            "popularity": 0.2912,
+            "profile_path": null,
+            "credit_id": "653ba542bc2cb300aca2cad7",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 37313,
+            "known_for_department": "Directing",
+            "name": "Peter Fleischmann",
+            "original_name": "Peter Fleischmann",
+            "popularity": 0.6622,
+            "profile_path": "/to8mMdKw2guNZu4rjUxVZKVOyNW.jpg",
+            "credit_id": "6451d5add48cee0170251da8",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 239341,
+            "known_for_department": "Directing",
+            "name": "Gianfranco Mingozzi",
+            "original_name": "Gianfranco Mingozzi",
+            "popularity": 0.5892,
+            "profile_path": "/rE5SN0Xz3AyxmMwtNeGPgFjdAke.jpg",
+            "credit_id": "6451d5b7091e6200e4cca844",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 94909,
+            "known_for_department": "Production",
+            "name": "Nicolas Duval Adassovsky",
+            "original_name": "Nicolas Duval Adassovsky",
+            "popularity": 0.5628,
+            "profile_path": "/xtkq69lpihBu20o6kBBATE11LNx.jpg",
+            "credit_id": "6451d5c5d8f44e011ae151d7",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 307308,
+            "known_for_department": "Production",
+            "name": "Enzo Porcelli",
+            "original_name": "Enzo Porcelli",
+            "popularity": 0.2864,
+            "profile_path": null,
+            "credit_id": "6451d5e0c0442900e2f08c26",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1180679,
+            "known_for_department": "Editing",
+            "name": "Alfredo Muschietti",
+            "original_name": "Alfredo Muschietti",
+            "popularity": 0.3335,
+            "profile_path": null,
+            "credit_id": "6451d5f187a27a00e38e9e76",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 24297,
+            "known_for_department": "Art",
+            "name": "Jacques Saulnier",
+            "original_name": "Jacques Saulnier",
+            "popularity": 0.3855,
+            "profile_path": "/jMIcmE4WPirjtXLW0USNdKkJ2ef.jpg",
+            "credit_id": "679079d7ba46990f54dfe8bc",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 406471,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Yvonne Sassinot de Nesle",
+            "original_name": "Yvonne Sassinot de Nesle",
+            "popularity": 0.3427,
+            "profile_path": null,
+            "credit_id": "679079ea3479c48ccb28acf4",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5195663,
+            "known_for_department": "Production",
+            "name": "Chantal Bergamo",
+            "original_name": "Chantal Bergamo",
+            "popularity": 0.1935,
+            "profile_path": null,
+            "credit_id": "67907a153479c48ccb28ad04",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 9245,
+            "known_for_department": "Sound",
+            "name": "Nicola Piovani",
+            "original_name": "Nicola Piovani",
+            "popularity": 0.6348,
+            "profile_path": "/56tRfEIn4RBPhjJ7JOGCOtTZApU.jpg",
+            "credit_id": "67907a26fc2519b43f774683",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2007059,
+            "known_for_department": "Sound",
+            "name": "Jean-Pierre Delorme",
+            "original_name": "Jean-Pierre Delorme",
+            "popularity": 0.2182,
+            "profile_path": null,
+            "credit_id": "67907a3fa3c7d79472dfebd2",
+            "department": "Sound",
+            "job": "Sound"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 2389,
+            "name": "virgin"
+        },
+        {
+            "id": 818,
+            "name": "based on novel or book"
+        },
+        {
+            "id": 10683,
+            "name": "coming of age"
+        },
+        {
+            "id": 9888,
+            "name": "spanking"
+        },
+        {
+            "id": 13097,
+            "name": "maid"
+        },
+        {
+            "id": 18068,
+            "name": "teenage boy"
+        },
+        {
+            "id": 33451,
+            "name": "masturbation"
+        },
+        {
+            "id": 33841,
+            "name": "incest"
+        },
+        {
+            "id": 155477,
+            "name": "softcore"
+        },
+        {
+            "id": 158199,
+            "name": "aunt nephew relationship"
+        },
+        {
+            "id": 183686,
+            "name": "war context"
+        },
+        {
+            "id": 210184,
+            "name": "1910s"
+        },
+        {
+            "id": 232938,
+            "name": "brother sister sex"
+        },
+        {
+            "id": 285398,
+            "name": "20th century"
+        },
+        {
+            "id": 302868,
+            "name": "erotic comedy"
+        },
+        {
+            "id": 343479,
+            "name": "seductive maid"
+        },
+        {
+            "id": 350360,
+            "name": "brother sister incest"
+        },
+        {
+            "id": 350707,
+            "name": "aunt nephew sex"
+        },
+        {
+            "id": 350708,
+            "name": "aunt nephew incest"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/yPmLNEl9tC9RBO5c95L2R67uxGR.jpg",
+            "id": 2657,
+            "title": "Pleasantville",
+            "original_title": "Pleasantville",
+            "overview": "Geeky teenager David and his popular twin sister, Jennifer, get sucked into the black-and-white world of a 1950s TV sitcom called \"Pleasantville,\" and find a world where everything is peachy keen all the time. But when Jennifer's modern attitude disrupts Pleasantville's peaceful but boring routine, she literally brings color into its life.",
+            "poster_path": "/sjnRihb0OdmtD5GBe5lfdfBjSxo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                35,
+                18
+            ],
+            "popularity": 6.1144,
+            "release_date": "1998-09-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.274,
+            "vote_count": 1928
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/47HERRutkIUYreAyIYXqNv9H4kC.jpg",
+            "id": 3934,
+            "title": "Ménage",
+            "original_title": "Tenue de soirée",
+            "overview": "A bisexual petty criminal named Bob encounters a married couple arguing in a bar. Bob breaks up the fight and proceeds to seduce first the wife and then the husband. Then Bob teaches the couple how to be burglars and they join him in his criminal exploits.",
+            "poster_path": "/3BYCKoekoV93YnkLB1of4D8gVTN.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "popularity": 5.4147,
+            "release_date": "1986-04-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.617,
+            "vote_count": 252
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/peQaGE36oX0ClMj1xOPPzQxF1MM.jpg",
+            "id": 7288,
+            "title": "Duplex",
+            "original_title": "Duplex",
+            "overview": "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+            "poster_path": "/mCQ4oO9djqcthBRD3ftTnR8qSP7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 5.3166,
+            "release_date": "2003-09-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.111,
+            "vote_count": 1827
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1wX0Xgs316QapQXjmqrAY9UixgN.jpg",
+            "id": 227156,
+            "title": "The Giver",
+            "original_title": "The Giver",
+            "overview": "In a seemingly perfect community, without war, pain, suffering, differences or choice, a young boy is chosen to learn from an elderly man about the true pain and pleasure of the \"real\" world.",
+            "poster_path": "/dul62Av4pgi5x8LP7ELHzNyka9Z.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "popularity": 9.253,
+            "release_date": "2014-08-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.557,
+            "vote_count": 4675
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/69RMqVigjzzvUJAbFgRjKqYFo17.jpg",
+            "id": 36719,
+            "title": "The Children of the Marshland",
+            "original_title": "Les Enfants du marais",
+            "overview": "The film is set in Marais, a quiet region along the banks of Loire river in 1918. Riton is afflicted with a bad-tempered wife and three unruly children. Garris lives alone with his recollections of World War I trenches. Their daily life consists of seasonal work and visits from their two pals: Tane, the local train conductor and Amédée, a dreamer and voracious reader of classics.",
+            "poster_path": "/9tEvO0H3Eg43MJQm4t1ChukCu8d.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 2.3349,
+            "release_date": "1999-03-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 186
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yTDwyUEYHZTK35z7Iyp4QHxvVj9.jpg",
+            "id": 13685,
+            "title": "Bottle Rocket",
+            "original_title": "Bottle Rocket",
+            "overview": "Upon his release from a mental hospital following a nervous breakdown, the directionless Anthony joins his friend Dignan, who seems far less sane than the former. Dignan has hatched a harebrained scheme for an as-yet-unspecified crime spree that somehow involves his former boss, the (supposedly) legendary Mr. Henry.",
+            "poster_path": "/6E7mJ5wpzTFbYFbJvTzzZ8Til9C.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "popularity": 3.5614,
+            "release_date": "1996-02-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 1213
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/43vbVQDJlY7VoY3VPo8MipicxXk.jpg",
+            "id": 1325678,
+            "title": "Sarah's Oil",
+            "original_title": "Sarah's Oil",
+            "overview": "Sarah Rector, a Black girl born in early 20th-century Oklahoma Indian Territory, believes there is oil beneath the barren land she’s allotted, and her faith proves right. As greedy oil sharks close in, Sarah turns to family, friends, and some Texas wildcatters to maintain control of her oil-rich land, eventually becoming among the nation's first Black female millionaires—at eleven years old.",
+            "poster_path": "/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 5.5025,
+            "release_date": "2025-11-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2iMiJaNF0azeIvS1vxNA4uIyKbP.jpg",
+            "id": 38843,
+            "title": "Ramona and Beezus",
+            "original_title": "Ramona and Beezus",
+            "overview": "Ramona is a little girl with a very big imagination and a nose for mischief. Her playful antics keep everyone in her loving family on their toes, including her older sister Beezus, who's just trying to survive her first year of high school. Through all the ups and downs of childhood, Ramona and Beezus learn that anything's possible when you believe in yourself and rely on each other.",
+            "poster_path": "/bW1YWFyocIY8DDgwOUroZG2FYNe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "popularity": 4.0786,
+            "release_date": "2010-07-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.592,
+            "vote_count": 801
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sZhTfYouKM1iV3rVbgIVEQFQogA.jpg",
+            "id": 2758,
+            "title": "Addams Family Values",
+            "original_title": "Addams Family Values",
+            "overview": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
+            "poster_path": "/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751,
+                14
+            ],
+            "popularity": 10.2631,
+            "release_date": "1993-11-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.977,
+            "vote_count": 3359
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2KoLLmYiVTBlTv0GYIJYOjYZ9s5.jpg",
+            "id": 8272,
+            "title": "The Savages",
+            "original_title": "The Savages",
+            "overview": "A sister and brother face the realities of familial responsibility as they begin to care for their ailing father.",
+            "poster_path": "/nY54gSmTOmSXlQpWDB7DWp4u8a7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 4.1652,
+            "release_date": "2007-11-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.913,
+            "vote_count": 445
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/16idNRmOLHtNymKpsn0TnxltbQr.jpg",
+            "id": 65015,
+            "title": "Sweetie",
+            "original_title": "Sweetie",
+            "overview": "The buttoned-down, superstitious Kay is attempting to lead a normal existence with her new boyfriend Louis. That’s until Sweetie, her rampaging, devil-may-care sister, returns home after an absence, exposing the rotten roots of their family and placing a strain on Kay and Louis’ relationship.",
+            "poster_path": "/25lpQtxNWXzOimnXmbwF0Y0GYej.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 2.4371,
+            "release_date": "1989-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 117
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Ai3fiCnWzHl3bL4CZQQ1pt2uiOU.jpg",
+            "id": 5558,
+            "title": "The Phantom of Liberty",
+            "original_title": "Le Fantôme de la liberté",
+            "overview": "This Surrealist film, with a title referencing the Communist Manifesto, strings together short incidents based on the life of director Luis Buñuel. Presented as chance encounters, these loosely related, intersecting situations, all without a consistent protagonist, reach from the 19th century to the 1970s. Touching briefly on subjects such as execution, pedophilia, incest, and sex, the film features an array of characters, including a sick father and incompetent police officers.",
+            "poster_path": "/f6cON5ebistPm6AS1XcZZMmKpIi.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.3334,
+            "release_date": "1974-09-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 332
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vpPdmaGYQUiM9Rb2znWpNyzE3Km.jpg",
+            "id": 36245,
+            "title": "Diary of a Chambermaid",
+            "original_title": "Le Journal d'une femme de chambre",
+            "overview": "Celestine has a new job as a chambermaid for the quirky M. Monteil, his wife and her father. When the father dies, Celestine decides to quit her job and leave, but when a young girl is raped and murdered, Celestine believes that the Monteils' groundskeeper, Joseph, is guilty, and stays on in order to prove it. She uses her sexuality and the promise of marriage to get Joseph to confess -- but things do not go as planned.",
+            "poster_path": "/epCJe5dzAn21mQ9L1fQ2FjIF13T.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 2.7891,
+            "release_date": "1964-03-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 236
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/44IiC7r6iyN6iTZTw6XDUnTNTro.jpg",
+            "id": 336199,
+            "title": "Macadam Stories",
+            "original_title": "Asphalte",
+            "overview": "Improbable encounters bring tenderness, laughter and compassion to a world of urban alienation.",
+            "poster_path": "/dZAC0ziklqOoL9MC0dfuy4JxbMU.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 2.1111,
+            "release_date": "2015-05-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.828,
+            "vote_count": 195
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aDfGKWdtNHzDmnHkdDyXz7zoDuy.jpg",
+            "id": 4442,
+            "title": "The Brothers Grimm",
+            "original_title": "The Brothers Grimm",
+            "overview": "Folklore collectors and con artists, Jake and Will Grimm, travel from village to village pretending to protect townsfolk from enchanted creatures and performing exorcisms. However, they are put to the test when they encounter a real magical curse in a haunted forest with real magical beings, requiring genuine courage.",
+            "poster_path": "/iPrey2UYrA5Fqa8L3KnxqMqfmSq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                14,
+                28,
+                35,
+                53
+            ],
+            "popularity": 7.4449,
+            "release_date": "2005-08-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.865,
+            "vote_count": 3005
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u7i1XtbOubq0xwRy2Zbgmox6g9W.jpg",
+            "id": 220,
+            "title": "East of Eden",
+            "original_title": "East of Eden",
+            "overview": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
+            "poster_path": "/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 5.248,
+            "release_date": "1955-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.526,
+            "vote_count": 822
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a9jZrU7LJk6mAUjmkbEmTiC52l0.jpg",
+            "id": 425001,
+            "title": "The War with Grandpa",
+            "original_title": "The War with Grandpa",
+            "overview": "Peter is thrilled that his Grandpa is coming to live with his family. That is, until Grandpa moves into Peter's room, forcing him upstairs into the creepy attic. And though he loves his Grandpa, he wants his room back - so he has no choice but to declare war.",
+            "poster_path": "/ltyARDw2EFXZ2H2ERnlEctXPioP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "popularity": 5.514,
+            "release_date": "2020-08-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.435,
+            "vote_count": 1074
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gF46j4Lv1FaKHfhuSAMY5OSyO3o.jpg",
+            "id": 1079311,
+            "title": "The Kingdom",
+            "original_title": "Le Royaume",
+            "overview": "Lesia, a teenager, is taken by a man to a villa where her fugitive father and his men are hiding. A war erupts, leading to death and a chase where father and daughter bond.",
+            "poster_path": "/6sR2P5P5SE8wZwMsfsLCO7J7Drp.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "popularity": 3.7952,
+            "release_date": "2024-11-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.074,
+            "vote_count": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3C7jcMtTpBmzzTbUWPKhMJyvDJO.jpg",
+            "id": 560044,
+            "title": "The Willoughbys",
+            "original_title": "The Willoughbys",
+            "overview": "When the four Willoughby children are abandoned by their selfish parents, they must learn how to adapt their Old-Fashioned values to the contemporary world in order to create something new: The Modern Family.",
+            "poster_path": "/9WrMmjdZvpxLQh1tCQ9tOd1asOb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751,
+                14
+            ],
+            "popularity": 3.5265,
+            "release_date": "2020-04-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.04,
+            "vote_count": 989
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+            "id": 702,
+            "title": "A Streetcar Named Desire",
+            "original_title": "A Streetcar Named Desire",
+            "overview": "A disturbed, aging Southern belle moves in with her sister for solace — but being face-to-face with her brutish brother-in-law accelerates her downward spiral.",
+            "poster_path": "/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "popularity": 5.9372,
+            "release_date": "1951-09-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.611,
+            "vote_count": 1495
+        }
+    ]
+}

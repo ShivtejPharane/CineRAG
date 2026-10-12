@@ -1,0 +1,1082 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg",
+        "belongs_to_collection": null,
+        "budget": 70000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "https://www.goodboyfilm.com",
+        "id": 1422096,
+        "imdb_id": "tt35521922",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Good Boy",
+        "overview": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+        "popularity": 13.0624,
+        "poster_path": "/daInKxjoRNLFWIus64fHAy91V0k.jpg",
+        "production_companies": [
+            {
+                "id": 256132,
+                "logo_path": null,
+                "name": "What’s Wrong with Your Dog?",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2025-10-01",
+        "revenue": 8844724,
+        "runtime": 73,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Trust his instincts.",
+        "title": "Good Boy",
+        "video": false,
+        "vote_average": 6.628,
+        "vote_count": 682
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3739081,
+            "known_for_department": "Acting",
+            "name": "Shane Jensen",
+            "original_name": "Shane Jensen",
+            "popularity": 0.5452,
+            "profile_path": "/8BNJL3MwvYEUTg187SmhQACVq3Z.jpg",
+            "cast_id": 3,
+            "character": "Todd",
+            "credit_id": "679647fa3f7fcf67d08f2261",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4747687,
+            "known_for_department": "Production",
+            "name": "Arielle Friedman",
+            "original_name": "Arielle Friedman",
+            "popularity": 0.4136,
+            "profile_path": null,
+            "cast_id": 5,
+            "character": "Vera",
+            "credit_id": "6796483a3f7fcf67d08f226b",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 31268,
+            "known_for_department": "Acting",
+            "name": "Larry Fessenden",
+            "original_name": "Larry Fessenden",
+            "popularity": 1.3696,
+            "profile_path": "/imQGskBT7IjqHLVJDQFLR1h1UPH.jpg",
+            "cast_id": 4,
+            "character": "Grandpa",
+            "credit_id": "6796480d64431257a38f2106",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 94435,
+            "known_for_department": "Acting",
+            "name": "Stuart Rudin",
+            "original_name": "Stuart Rudin",
+            "popularity": 0.8861,
+            "profile_path": "/2jhEJ2zLnRL0iuG5i3fYw4FObgl.jpg",
+            "cast_id": 2,
+            "character": "Richard",
+            "credit_id": "679647d50e1e0486d62b03a0",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3238178,
+            "known_for_department": "Acting",
+            "name": "Anya Krawcheck",
+            "original_name": "Anya Krawcheck",
+            "popularity": 0.4863,
+            "profile_path": "/ffP9mfsovkmgqnsUYKwbVejtG5q.jpg",
+            "cast_id": 6,
+            "character": "Doctor",
+            "credit_id": "6796486cd4ba1725f12afd3c",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5725666,
+            "known_for_department": "Acting",
+            "name": "Hunter Goetz",
+            "original_name": "Hunter Goetz",
+            "popularity": 0.423,
+            "profile_path": null,
+            "cast_id": 27,
+            "character": "Weatherman / Narrator",
+            "credit_id": "68df29e68d44d92251129a08",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6083950,
+            "known_for_department": "Acting",
+            "name": "Bandit",
+            "original_name": "Bandit",
+            "popularity": 0.335,
+            "profile_path": null,
+            "cast_id": 35,
+            "character": "Max",
+            "credit_id": "69bcc7bc351f20783c8c1d42",
+            "order": 6
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2831618,
+            "known_for_department": "Directing",
+            "name": "Ben Leonberg",
+            "original_name": "Ben Leonberg",
+            "popularity": 0.4632,
+            "profile_path": "/3HhM2nZCajd4Je6GPvnObkYYdlK.jpg",
+            "credit_id": "67919776a5176ed97e46f180",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5300372,
+            "known_for_department": "Production",
+            "name": "Kari Fischer",
+            "original_name": "Kari Fischer",
+            "popularity": 0.2311,
+            "profile_path": null,
+            "credit_id": "67d1e268434c98c8ec818857",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2831618,
+            "known_for_department": "Directing",
+            "name": "Ben Leonberg",
+            "original_name": "Ben Leonberg",
+            "popularity": 0.4632,
+            "profile_path": "/3HhM2nZCajd4Je6GPvnObkYYdlK.jpg",
+            "credit_id": "67d1e2de27c3960c2d1e33a7",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5300376,
+            "known_for_department": "Sound",
+            "name": "Sam Boase-Miller",
+            "original_name": "Sam Boase-Miller",
+            "popularity": 0.1882,
+            "profile_path": null,
+            "credit_id": "67d1e32c434c98c8ec8188c3",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1968703,
+            "known_for_department": "Writing",
+            "name": "Alex Cannon",
+            "original_name": "Alex Cannon",
+            "popularity": 0.6508,
+            "profile_path": null,
+            "credit_id": "67d1e391d4f741373260aaa4",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2831618,
+            "known_for_department": "Directing",
+            "name": "Ben Leonberg",
+            "original_name": "Ben Leonberg",
+            "popularity": 0.4632,
+            "profile_path": "/3HhM2nZCajd4Je6GPvnObkYYdlK.jpg",
+            "credit_id": "67d1e3a7325e62b3d16071df",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5300378,
+            "known_for_department": "Crew",
+            "name": "Wade Grebnoel",
+            "original_name": "Wade Grebnoel",
+            "popularity": 0.2141,
+            "profile_path": null,
+            "credit_id": "67e26a66d4052f4793dc67a3",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1483095,
+            "known_for_department": "Sound",
+            "name": "Brian Goodheart",
+            "original_name": "Brian Goodheart",
+            "popularity": 0.252,
+            "profile_path": null,
+            "credit_id": "67e26bb9440f311ace75df19",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1483095,
+            "known_for_department": "Sound",
+            "name": "Brian Goodheart",
+            "original_name": "Brian Goodheart",
+            "popularity": 0.252,
+            "profile_path": null,
+            "credit_id": "67e26bdd4c52746665dc810c",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4718766,
+            "known_for_department": "Sound",
+            "name": "Kelly Oostman",
+            "original_name": "Kelly Oostman",
+            "popularity": 0.1947,
+            "profile_path": null,
+            "credit_id": "67e26bee7b7313b5aef05325",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4100126,
+            "known_for_department": "Crew",
+            "name": "Michael J. Cacioppo",
+            "original_name": "Michael J. Cacioppo",
+            "popularity": 0.1649,
+            "profile_path": null,
+            "credit_id": "67e26c317b7313b5aef0533e",
+            "department": "Crew",
+            "job": "Post Production Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5326806,
+            "known_for_department": "Sound",
+            "name": "Erik Saras",
+            "original_name": "Erik Saras",
+            "popularity": 0.1701,
+            "profile_path": null,
+            "credit_id": "67e26c477b7313b5aef0534d",
+            "department": "Sound",
+            "job": "Music Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5326808,
+            "known_for_department": "Editing",
+            "name": "Curtis Roberts",
+            "original_name": "Curtis Roberts",
+            "popularity": 0.2343,
+            "profile_path": null,
+            "credit_id": "67e26c7ad70c61590375d84e",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3123508,
+            "known_for_department": "Art",
+            "name": "Alison Diviney",
+            "original_name": "Alison Diviney",
+            "popularity": 0.2282,
+            "profile_path": null,
+            "credit_id": "67e26c91e28af41cfc75efae",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5638602,
+            "known_for_department": "Sound",
+            "name": "Ege Gunes",
+            "original_name": "Ege Gunes",
+            "popularity": 0.2663,
+            "profile_path": null,
+            "credit_id": "68a63852c9cb5d9094834d6e",
+            "department": "Sound",
+            "job": "Orchestrator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2831619,
+            "known_for_department": "Production",
+            "name": "Scott Riehs",
+            "original_name": "Scott Riehs",
+            "popularity": 0.4031,
+            "profile_path": "/2YLZHeBwAUTxINZE5bN4zDrvOaQ.jpg",
+            "credit_id": "68df2a72f99c229cfaee4d2d",
+            "department": "Directing",
+            "job": "Second Unit Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2331964,
+            "known_for_department": "Sound",
+            "name": "Brian Neris",
+            "original_name": "Brian Neris",
+            "popularity": 0.3794,
+            "profile_path": null,
+            "credit_id": "68df2ac2088d477d942a4480",
+            "department": "Sound",
+            "job": "Sound Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4409142,
+            "known_for_department": "Camera",
+            "name": "Jan Klier",
+            "original_name": "Jan Klier",
+            "popularity": 0.1354,
+            "profile_path": null,
+            "credit_id": "68df2b03ac05c0d4d1ee4ce6",
+            "department": "Visual Effects",
+            "job": "Visual Effects"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4764896,
+            "known_for_department": "Camera",
+            "name": "BJ Downs",
+            "original_name": "BJ Downs",
+            "popularity": 0.2042,
+            "profile_path": null,
+            "credit_id": "68df2b20088d477d942a4484",
+            "department": "Camera",
+            "job": "Additional Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2518032,
+            "known_for_department": "Editing",
+            "name": "Jeff Sousa",
+            "original_name": "Jeff Sousa",
+            "popularity": 0.2018,
+            "profile_path": null,
+            "credit_id": "68df2b48412a3adf639727ce",
+            "department": "Editing",
+            "job": "Colorist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6083954,
+            "known_for_department": "Production",
+            "name": "Brittany Aguilar",
+            "original_name": "Brittany Aguilar",
+            "popularity": 0.1721,
+            "profile_path": null,
+            "credit_id": "69bcc876a0684880da9dec87",
+            "department": "Production",
+            "job": "Production Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6083955,
+            "known_for_department": "Production",
+            "name": "Kerry Liu",
+            "original_name": "Kerry Liu",
+            "popularity": 0.1354,
+            "profile_path": null,
+            "credit_id": "69bcc898910546070e7c1e71",
+            "department": "Production",
+            "job": "Production Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4829973,
+            "known_for_department": "Camera",
+            "name": "José G. Rivera",
+            "original_name": "José G. Rivera",
+            "popularity": 0.2009,
+            "profile_path": null,
+            "credit_id": "69bcc8b5363b9fc7b6ee3021",
+            "department": "Production",
+            "job": "Production Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6083959,
+            "known_for_department": "Crew",
+            "name": "Peter Vaughan",
+            "original_name": "Peter Vaughan",
+            "popularity": 0.2049,
+            "profile_path": null,
+            "credit_id": "69bcc98443d3077ac46e559e",
+            "department": "Crew",
+            "job": "Post Production Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6083960,
+            "known_for_department": "Visual Effects",
+            "name": "Luis Villanueva",
+            "original_name": "Luis Villanueva",
+            "popularity": 0.2526,
+            "profile_path": null,
+            "credit_id": "69bcca1b2a2ec7cb4b5fb39f",
+            "department": "Visual Effects",
+            "job": "VFX Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6083961,
+            "known_for_department": "Visual Effects",
+            "name": "Andy Sanda",
+            "original_name": "Andy Sanda",
+            "popularity": 0.1938,
+            "profile_path": null,
+            "credit_id": "69bcca2e61fa5be4545fb3ca",
+            "department": "Visual Effects",
+            "job": "VFX Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4100126,
+            "known_for_department": "Crew",
+            "name": "Michael J. Cacioppo",
+            "original_name": "Michael J. Cacioppo",
+            "popularity": 0.1649,
+            "profile_path": null,
+            "credit_id": "69bcca44551befd83c06e60e",
+            "department": "Visual Effects",
+            "job": "VFX Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6083959,
+            "known_for_department": "Crew",
+            "name": "Peter Vaughan",
+            "original_name": "Peter Vaughan",
+            "popularity": 0.2049,
+            "profile_path": null,
+            "credit_id": "69bcca5d65b6efcb999debf6",
+            "department": "Visual Effects",
+            "job": "VFX Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2935402,
+            "known_for_department": "Visual Effects",
+            "name": "Matt Esolda",
+            "original_name": "Matt Esolda",
+            "popularity": 0.2113,
+            "profile_path": null,
+            "credit_id": "69bcca8da4afc84052ea3708",
+            "department": "Art",
+            "job": "Title Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6083964,
+            "known_for_department": "Sound",
+            "name": "Jeanmarie Riccobono",
+            "original_name": "Jeanmarie Riccobono",
+            "popularity": 0.1948,
+            "profile_path": null,
+            "credit_id": "69bccb04551befd83c06e618",
+            "department": "Sound",
+            "job": "Music"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4869437,
+            "known_for_department": "Crew",
+            "name": "Rosalind Lichter",
+            "original_name": "Rosalind Lichter",
+            "popularity": 0.1579,
+            "profile_path": null,
+            "credit_id": "69bccb39c7cc9b4e7b06e4b6",
+            "department": "Crew",
+            "job": "Legal Services"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6083965,
+            "known_for_department": "Production",
+            "name": "Paul Koufos",
+            "original_name": "Paul Koufos",
+            "popularity": 0.2085,
+            "profile_path": null,
+            "credit_id": "69bccb4ea0684880da9dec9b",
+            "department": "Production",
+            "job": "Production Accountant"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 6152,
+            "name": "supernatural"
+        },
+        {
+            "id": 2526,
+            "name": "human animal relationship"
+        },
+        {
+            "id": 3358,
+            "name": "haunted house"
+        },
+        {
+            "id": 6564,
+            "name": "terminal illness"
+        },
+        {
+            "id": 9720,
+            "name": "woods"
+        },
+        {
+            "id": 10114,
+            "name": "evil spirit"
+        },
+        {
+            "id": 10541,
+            "name": "curse"
+        },
+        {
+            "id": 15162,
+            "name": "dog"
+        },
+        {
+            "id": 34079,
+            "name": "death"
+        },
+        {
+            "id": 162846,
+            "name": "ghost"
+        },
+        {
+            "id": 163053,
+            "name": "found footage"
+        },
+        {
+            "id": 190821,
+            "name": "family curse"
+        },
+        {
+            "id": 207082,
+            "name": "pov (point of view)"
+        },
+        {
+            "id": 254114,
+            "name": "dog owner"
+        },
+        {
+            "id": 256183,
+            "name": "supernatural horror"
+        },
+        {
+            "id": 268054,
+            "name": "night"
+        },
+        {
+            "id": 269765,
+            "name": "animal protagonist"
+        },
+        {
+            "id": 281237,
+            "name": "independent film"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/rLm66DbLwxHeRB34oJ1mhsu0urc.jpg",
+            "id": 11167,
+            "title": "Peeping Tom",
+            "original_title": "Peeping Tom",
+            "overview": "Loner Mark Lewis works at a film studio during the day and, at night, takes racy photographs of women. Also he's making a documentary on fear, which involves recording the reactions of victims as he murders them. He befriends Helen, the daughter of the family living in the apartment below his, and he tells her vaguely about the movie he is making.",
+            "poster_path": "/u36rFrXW7XethWpiEWbRjzfgOc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "popularity": 4.5672,
+            "release_date": "1960-04-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.457,
+            "vote_count": 917
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rH60D4bS64CYGBIXps9OgSDl3RT.jpg",
+            "id": 1419229,
+            "title": "Silent Zone",
+            "original_title": "Silent Zone",
+            "overview": "In a zombie-ravaged world, a resourceful teen and her protector fight for survival, facing relentless dangers and testing the limits of hope and loyalty.",
+            "poster_path": "/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.2536,
+            "release_date": "2025-03-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.047,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m4E4HqHUjr6GXYyeWPVhAOcce2X.jpg",
+            "id": 758724,
+            "title": "The Cellar",
+            "original_title": "The Cellar",
+            "overview": "When Keira Woods' daughter mysteriously vanishes in the cellar of their new house in the country, she soon discovers there is an ancient and powerful entity controlling their home that she will have to face or risk losing her family's souls forever.",
+            "poster_path": "/2DFkiExCtXcmpepQiLgkSQhxZu8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 4.345,
+            "release_date": "2022-03-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.456,
+            "vote_count": 511
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sve315CAjMhSZBKBthDHJI77gmb.jpg",
+            "id": 13549,
+            "title": "Burnt Offerings",
+            "original_title": "Burnt Offerings",
+            "overview": "A family moves into a large old mansion in the countryside which seems to have a mysterious and sinister power over its new residents.",
+            "poster_path": "/2ipG69lXOjGMX7F7qxJQzUoiUsd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 2.3413,
+            "release_date": "1976-10-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.484,
+            "vote_count": 279
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j4F0911ZXLm1ONjVUjzgwA7c3MI.jpg",
+            "id": 739901,
+            "title": "The Possessed",
+            "original_title": "The Possessed",
+            "overview": "A man with the ability to exorcise demons fights to protect his loved ones after a sudden surge in demonic possessions. After discovering his nephew's girlfriend has the same supernatural gift, they join forces for the ultimate confrontation. Inspired by actual events.",
+            "poster_path": "/tDmWqD80zzxQZhgSzDEOW2llS0L.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.0642,
+            "release_date": "2021-10-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.285,
+            "vote_count": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ulaj7IhW72EK0cGSnMpP0UixTTC.jpg",
+            "id": 993867,
+            "title": "Eradication",
+            "original_title": "Eradication",
+            "overview": "When an unknown disease wipes out most of the world’s population, a man with unique blood is isolated for study. Fearing for his wife’s safety, he breaks his quarantine – into a world overrun by monstrous Infected and a shadowy agency hunting them down.",
+            "poster_path": "/6XZYA9VtCcidCU8Hus0J0V9wFhY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.8218,
+            "release_date": "2022-07-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.076,
+            "vote_count": 190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9CVUzIPyBMnHsDDighQNgkDYsP9.jpg",
+            "id": 11772,
+            "title": "The Haunting",
+            "original_title": "The Haunting",
+            "overview": "Dr. John Markway recruits three strangers for a sleep-disorder study at the eerie and isolated Hill House. It soon becomes clear his real interest lies in the mansion itself and its sinister history, as they are forced to confront the nature of its horror…",
+            "poster_path": "/fmpTnUKTcrpuxLSY23gQMUf9qu7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 4.1434,
+            "release_date": "1963-03-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 727
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/37O5VkS3AHJpbMh4dzovjGUWXzl.jpg",
+            "id": 18979,
+            "title": "Captain Kronos: Vampire Hunter",
+            "original_title": "Captain Kronos: Vampire Hunter",
+            "overview": "When several young girls are found dead, left hideously aged and void of blood, Dr. Marcus suspects vampirism. He enlists the help of the Vampire Hunter. Mysterious and powerful, Kronos has dedicated his life to destroying the evil pestilence. Once a victim of its diabolical depravity, he knows the vampire's strengths and weaknesses as well as the extreme dangers attached to confronting the potent forces of darkness.",
+            "poster_path": "/4i6vRcVl9sE3W7ouQ8KC2B5NiJD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                27
+            ],
+            "popularity": 2.6828,
+            "release_date": "1973-04-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.155,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y2WqsZYVI0yVdC0hgDmYvzfJzqr.jpg",
+            "id": 551994,
+            "title": "The Shed",
+            "original_title": "The Shed",
+            "overview": "The story of Stan, an orphaned teenager stuck living with his abusive grandfather and tasked with routinely protecting his best friend from high school bullies. When Stan discovers a murderous creature has taken refuge inside the tool shed in his backyard, he tries to secretly battle the demon alone until his bullied friend discovers the creature and has a far more sinister plan in mind.",
+            "poster_path": "/aV9n5MyLZQsoXNfbZG5OOf16IkP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.2339,
+            "release_date": "2019-10-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.892,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4wmT2KQrxA6pT6R4mN6kx8cqdFI.jpg",
+            "id": 24655,
+            "title": "The Car",
+            "original_title": "The Car",
+            "overview": "The Utah community of Santa Ynez is being terrorized by a mysterious black coupe that appears out of nowhere and begins running people down. After the car kills off the town sheriff, Captain Wade Parent is determined to stop the murderous driver.",
+            "poster_path": "/gFM9yMrO4fQMiG440Lx6bazB517.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                28,
+                53,
+                9648,
+                14
+            ],
+            "popularity": 3.5988,
+            "release_date": "1977-05-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rXILUagNP3zoLcY0iGcRk43dMBH.jpg",
+            "id": 27118,
+            "title": "The Hound of the Baskervilles",
+            "original_title": "The Hound of the Baskervilles",
+            "overview": "When a nobleman is threatened by a family curse on his newly inherited estate, detective Sherlock Holmes is hired to investigate.",
+            "poster_path": "/61XD1LxA3kXLRrBXat3jN84MtPR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                80,
+                27,
+                53
+            ],
+            "popularity": 2.2273,
+            "release_date": "1939-03-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.142,
+            "vote_count": 233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vzw5733T4PSielVOeq268GdSzhS.jpg",
+            "id": 15856,
+            "title": "House on Haunted Hill",
+            "original_title": "House on Haunted Hill",
+            "overview": "Frederick Loren invites five strangers to the party of a lifetime and offers each of them $10,000 if they can stay the night in the reportedly haunted house. Armed with a gun for protection, each guest arrives in a hearse and will either leave in it much richer…Or dead.",
+            "poster_path": "/g5kdFt3piV3w1pG65W9sSToJ7HB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 6.0732,
+            "release_date": "1959-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dRKPz3iZiuYpgdfbBQ3Af6Wo63R.jpg",
+            "id": 17898,
+            "title": "Silver Bullet",
+            "original_title": "Silver Bullet",
+            "overview": "The small city of Tarker's Mills is startled by a series of sadistic murders. The population fears the work of a maniac, but sightings of a mysterious, hairy creature soon spread. People lock themselves up at night, but there's one boy who's still outside…",
+            "poster_path": "/52CvWYuJyWcMTPvsfcmsxaVHi7f.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.0164,
+            "release_date": "1985-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 713
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uVH4JeqPyVHWVwsYce1z8CxVG36.jpg",
+            "id": 448194,
+            "title": "Pyewacket",
+            "original_title": "Pyewacket",
+            "overview": "A frustrated, angry teenage girl awakens something in the woods when she naively performs an occult ritual to invoke a witch to kill her mother.",
+            "poster_path": "/3ET9MWmIx2ny2KP5mqY9ceb0WxF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.2575,
+            "release_date": "2017-12-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.933,
+            "vote_count": 349
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qseiYNSkexOGoRJsfohA1NEojK2.jpg",
+            "id": 32051,
+            "title": "Race with the Devil",
+            "original_title": "Race with the Devil",
+            "overview": "Two couples vacationing together in an R.V. from Texas to Colorado are terrorized after they witness a murder during a Satanic ritual.",
+            "poster_path": "/4ezD93ytLd8707j3Qvg53Mpz5ff.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "popularity": 1.8974,
+            "release_date": "1975-06-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.414,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vCfb8gjTgcl9oGXQYsK4Danrl3q.jpg",
+            "id": 40387,
+            "title": "Night Watch",
+            "original_title": "Night Watch",
+            "overview": "A woman recovering from a nervous breakdown tries to convince her husband and and the local London police that she has witnessed a murder in the abandoned house next door.",
+            "poster_path": "/uuWf1nMHYkKegwJB0iOzbPuiKkO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                53,
+                27
+            ],
+            "popularity": 1.826,
+            "release_date": "1973-11-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xVcffNU61CclEGgtiWP7KLIE2dm.jpg",
+            "id": 1058537,
+            "title": "Angels Fallen: Warriors of Peace",
+            "original_title": "Angels Fallen: Warriors of Peace",
+            "overview": "When an Iraq War veteran receives a calling from a higher power, he embarks on a mission to stop a fallen angel from raising an army of the dead to take over the world.",
+            "poster_path": "/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                27
+            ],
+            "popularity": 3.7488,
+            "release_date": "2024-07-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.075,
+            "vote_count": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2idkeA6HJ9F7IxeP6zbU4xBU35y.jpg",
+            "id": 408220,
+            "title": "Justice League Dark",
+            "original_title": "Justice League Dark",
+            "overview": "When innocent civilians begin committing unthinkable crimes across Metropolis, Gotham City and beyond, Batman must call upon mystical counterparts to eradicate this demonic threat to the planet; enter Justice League Dark. This team of Dark Arts specialists must unravel the mystery of Earth's supernatural plague and contend with the rising, powerful villainous forces behind the siege—before it's too late for all of mankind.",
+            "poster_path": "/gWcTaDFXDrOAPfVzfBFz0Aya5BE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14,
+                878,
+                27
+            ],
+            "popularity": 3.8698,
+            "release_date": "2017-01-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.304,
+            "vote_count": 1149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ve3RLbCSuUKA02OZJ5F0fMmXVMn.jpg",
+            "id": 829410,
+            "title": "Sick",
+            "original_title": "Sick",
+            "overview": "While quarantining at her family's lake house during the pandemic, Parker and her best friend are threatened by an unexpected visitor.",
+            "poster_path": "/bshCGAHZRldAfdxXDX3637PW9cR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 2.6701,
+            "release_date": "2022-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ijbBzlKSKwWNRpebLUGfmXhBrvg.jpg",
+            "id": 11868,
+            "title": "Dracula",
+            "original_title": "Dracula",
+            "overview": "After Jonathan Harker attacks Dracula at his castle, the vampire travels to a nearby city, where he preys on the family of Harker's fiancée. The only one who may be able to protect them is Dr. van Helsing, Harker's friend and fellow-student of vampires, who is determined to destroy Dracula, whatever the cost.",
+            "poster_path": "/9UHOATvzXQWbElSGygOY1ar3vpp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 3.9538,
+            "release_date": "1958-04-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.258,
+            "vote_count": 718
+        }
+    ]
+}

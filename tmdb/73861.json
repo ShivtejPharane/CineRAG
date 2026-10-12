@@ -1,0 +1,1744 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/wa0UGYppc6uWOdVow4Ko2CG4jk9.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "http://www.serbianfilmmovie.com",
+        "id": 73861,
+        "imdb_id": "tt1273235",
+        "origin_country": [
+            "RS"
+        ],
+        "original_language": "sr",
+        "original_title": "Srpski film",
+        "overview": "Retired porn star Milos leads a normal family life trying to make ends meet. Presented with the opportunity of a lifetime to financially support his family for the rest of their lives, Milos must participate in one last mysterious film. From then on, Milos is drawn into a maelstrom of unbelievable cruelty and mayhem.",
+        "popularity": 20.6303,
+        "poster_path": "/yIQqiw3Az5QYNHLCUoCTtxXH24G.jpg",
+        "production_companies": [
+            {
+                "id": 9999,
+                "logo_path": null,
+                "name": "Contra Film",
+                "origin_country": "RS"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RS",
+                "name": "Serbia"
+            }
+        ],
+        "release_date": "2010-01-06",
+        "revenue": 0,
+        "runtime": 104,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Serbian",
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Not all films have a happy ending.",
+        "title": "A Serbian Film",
+        "video": false,
+        "vote_average": 5.452,
+        "vote_count": 2243
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15265,
+            "known_for_department": "Acting",
+            "name": "Srđan 'Žika' Todorović",
+            "original_name": "Srđan 'Žika' Todorović",
+            "popularity": 1.7752,
+            "profile_path": "/drsYd3lcoq60vWSeteU3bKtpSOP.jpg",
+            "cast_id": 2,
+            "character": "Miloš",
+            "credit_id": "52fe48aec3a368484e10568b",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 66027,
+            "known_for_department": "Acting",
+            "name": "Sergej Trifunović",
+            "original_name": "Sergej Trifunović",
+            "popularity": 1.0838,
+            "profile_path": "/xs2HFKqh19XljwCZtH6ID7Vy9Eg.jpg",
+            "cast_id": 89,
+            "character": "Vukmir",
+            "credit_id": "69778fab4f6b154198695268",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 574658,
+            "known_for_department": "Acting",
+            "name": "Jelena Gavrilović",
+            "original_name": "Jelena Gavrilović",
+            "popularity": 1.3975,
+            "profile_path": "/jsg6n5qSCQ30KfrZd4H3WExIyiV.jpg",
+            "cast_id": 4,
+            "character": "Marija",
+            "credit_id": "52fe48aec3a368484e105693",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1049995,
+            "known_for_department": "Acting",
+            "name": "Slobodan Beštić",
+            "original_name": "Слободан Бештић",
+            "popularity": 1.2861,
+            "profile_path": "/4BeR1uh2fso4JAYyWepbPLOJpuK.jpg",
+            "cast_id": 9,
+            "character": "Marko",
+            "credit_id": "52fe48aec3a368484e1056a3",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 111065,
+            "known_for_department": "Acting",
+            "name": "Katarina Žutić",
+            "original_name": "Katarina Žutić",
+            "popularity": 0.8923,
+            "profile_path": "/gNR0u2UkQmG5LWKfJDSRhALCGUJ.jpg",
+            "cast_id": 10,
+            "character": "Lejla",
+            "credit_id": "52fe48aec3a368484e1056a7",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1049997,
+            "known_for_department": "Acting",
+            "name": "Anđela Nenadović",
+            "original_name": "Анђела Ненадовић",
+            "popularity": 0.52,
+            "profile_path": null,
+            "cast_id": 11,
+            "character": "Jeca",
+            "credit_id": "52fe48aec3a368484e1056ab",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1051260,
+            "known_for_department": "Acting",
+            "name": "Ana Sakić",
+            "original_name": "Ана Сакић",
+            "popularity": 0.9507,
+            "profile_path": "/h7sU5hVV40ghD4cWb0aNBkyoahZ.jpg",
+            "cast_id": 14,
+            "character": "Jecina majka",
+            "credit_id": "52fe48aec3a368484e1056bb",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1051261,
+            "known_for_department": "Acting",
+            "name": "Lidija Pletl",
+            "original_name": "Lidija Pletl",
+            "popularity": 0.5693,
+            "profile_path": null,
+            "cast_id": 15,
+            "character": "Jecina baka",
+            "credit_id": "52fe48aec3a368484e1056bf",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1050828,
+            "known_for_department": "Acting",
+            "name": "Lena Bogdanović",
+            "original_name": "Лена Богдановић",
+            "popularity": 0.637,
+            "profile_path": null,
+            "cast_id": 16,
+            "character": "Doktorka",
+            "credit_id": "52fe48aec3a368484e1056c3",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1051262,
+            "known_for_department": "Acting",
+            "name": "Luka Mijatović",
+            "original_name": "Luka Mijatović",
+            "popularity": 0.3836,
+            "profile_path": null,
+            "cast_id": 17,
+            "character": "Stefan",
+            "credit_id": "52fe48aec3a368484e1056c7",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1051267,
+            "known_for_department": "Acting",
+            "name": "Miodrag Krčmarik",
+            "original_name": "Miodrag Krčmarik",
+            "popularity": 0.3595,
+            "profile_path": null,
+            "cast_id": 20,
+            "character": "Raša",
+            "credit_id": "52fe48aec3a368484e1056d3",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1050849,
+            "known_for_department": "Acting",
+            "name": "Nenad Heraković",
+            "original_name": "Nenad Heraković",
+            "popularity": 0.5911,
+            "profile_path": "/fAwM9pDqY90ixiB3iPwKOglwxVv.jpg",
+            "cast_id": 18,
+            "character": "Čuvar 1",
+            "credit_id": "52fe48aec3a368484e1056cb",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1051263,
+            "known_for_department": "Acting",
+            "name": "Čarni Đerić",
+            "original_name": "Čarni Đerić",
+            "popularity": 0.2931,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "Čuvar 2",
+            "credit_id": "52fe48aec3a368484e1056cf",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1051268,
+            "known_for_department": "Acting",
+            "name": "Tanja Divnić",
+            "original_name": "Tanja Divnić",
+            "popularity": 0.2769,
+            "profile_path": null,
+            "cast_id": 21,
+            "character": "Vaspitačica",
+            "credit_id": "52fe48aec3a368484e1056d7",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1051269,
+            "known_for_department": "Acting",
+            "name": "Marina Savić",
+            "original_name": "Marina Savić",
+            "popularity": 0.2705,
+            "profile_path": null,
+            "cast_id": 22,
+            "character": "Prostitutka",
+            "credit_id": "52fe48aec3a368484e1056db",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1051270,
+            "known_for_department": "Acting",
+            "name": "Nataša Miljuš",
+            "original_name": "Nataša Miljuš",
+            "popularity": 0.4484,
+            "profile_path": null,
+            "cast_id": 23,
+            "character": "Porodilja",
+            "credit_id": "52fe48aec3a368484e1056df",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3672904,
+            "known_for_department": "Acting",
+            "name": "Marijeta Goc",
+            "original_name": "Marijeta Goc",
+            "popularity": 0.1982,
+            "profile_path": null,
+            "cast_id": 47,
+            "character": "Devojka u porno radionici 1",
+            "credit_id": "630363fd839d93007e4cdec7",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3672906,
+            "known_for_department": "Acting",
+            "name": "Jelena Mihić",
+            "original_name": "Jelena Mihić",
+            "popularity": 0.2261,
+            "profile_path": null,
+            "cast_id": 49,
+            "character": "Devojka u porno radionici 3",
+            "credit_id": "6303642c839d93007e4cdedd",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3672905,
+            "known_for_department": "Acting",
+            "name": "Biljana Žurnić",
+            "original_name": "Biljana Žurnić",
+            "popularity": 0.2477,
+            "profile_path": null,
+            "cast_id": 48,
+            "character": "Devojka u porno radionici 2",
+            "credit_id": "6303641bdfe31d007b82f395",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1522011,
+            "known_for_department": "Acting",
+            "name": "Dragana Jovanović",
+            "original_name": "Dragana Jovanović",
+            "popularity": 0.4128,
+            "profile_path": null,
+            "cast_id": 56,
+            "character": "Mesarka",
+            "credit_id": "646df2ba9661fc0174a3f1fc",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3672907,
+            "known_for_department": "Acting",
+            "name": "Irena Korać",
+            "original_name": "Irena Korać",
+            "popularity": 0.1932,
+            "profile_path": null,
+            "cast_id": 51,
+            "character": "Kasirka",
+            "credit_id": "6303646b097c49007aa2c60a",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3672908,
+            "known_for_department": "Acting",
+            "name": "Aleksandar Banjac",
+            "original_name": "Aleksandar Banjac",
+            "popularity": 0.2015,
+            "profile_path": null,
+            "cast_id": 52,
+            "character": "Oženjen momak",
+            "credit_id": "6303647f5f4b7300826860b8",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3672909,
+            "known_for_department": "Acting",
+            "name": "Sanja Spasojević",
+            "original_name": "Sanja Spasojević",
+            "popularity": 0.2359,
+            "profile_path": null,
+            "cast_id": 53,
+            "character": "Udata devojka",
+            "credit_id": "6303648b4fd141007fc544e0",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2384959,
+            "known_for_department": "Acting",
+            "name": "Goran Macura",
+            "original_name": "Goran Macura",
+            "popularity": 0.2542,
+            "profile_path": null,
+            "cast_id": 54,
+            "character": "Mangup",
+            "credit_id": "6303649a21118f007d32ce16",
+            "order": 23
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3672910,
+            "known_for_department": "Acting",
+            "name": "Mila Milošević",
+            "original_name": "Mila Milošević",
+            "popularity": 0.2271,
+            "profile_path": null,
+            "cast_id": 55,
+            "character": "Devojka u bazenu",
+            "credit_id": "630364b0097c49007aa2c624",
+            "order": 24
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 574660,
+            "known_for_department": "Writing",
+            "name": "Srđan Spasojević",
+            "original_name": "Srđan Spasojević",
+            "popularity": 0.7762,
+            "profile_path": "/hjD18tfXNlZlgHSUqhAc5c602ej.jpg",
+            "credit_id": "52fe48aec3a368484e105687",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 574660,
+            "known_for_department": "Writing",
+            "name": "Srđan Spasojević",
+            "original_name": "Srđan Spasojević",
+            "popularity": 0.7762,
+            "profile_path": "/hjD18tfXNlZlgHSUqhAc5c602ej.jpg",
+            "credit_id": "52fe48aec3a368484e10569f",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 80522,
+            "known_for_department": "Writing",
+            "name": "Aleksandar Radivojević",
+            "original_name": "Aleksandar Radivojević",
+            "popularity": 0.5955,
+            "profile_path": null,
+            "credit_id": "6149bec522df2e0046dd37d5",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 574660,
+            "known_for_department": "Writing",
+            "name": "Srđan Spasojević",
+            "original_name": "Srđan Spasojević",
+            "popularity": 0.7762,
+            "profile_path": "/hjD18tfXNlZlgHSUqhAc5c602ej.jpg",
+            "credit_id": "6149becf2b531d00293f83e6",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2394705,
+            "known_for_department": "Sound",
+            "name": "Miloš Drobnjaković",
+            "original_name": "Miloš Drobnjaković",
+            "popularity": 0.2855,
+            "profile_path": null,
+            "credit_id": "6533db0ba0be2800accdf656",
+            "department": "Sound",
+            "job": "Sound Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1506418,
+            "known_for_department": "Production",
+            "name": "Nikola Pantelić",
+            "original_name": "Nikola Pantelić",
+            "popularity": 0.2253,
+            "profile_path": null,
+            "credit_id": "55edbb769251413e320151e1",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1049334,
+            "known_for_department": "Acting",
+            "name": "Dragoljub Vojnov",
+            "original_name": "Dragoljub Vojnov",
+            "popularity": 0.5421,
+            "profile_path": "/4nJXznQqoWtZCNcgMCOp0Js5tpG.jpg",
+            "credit_id": "55edbb839251413e3e015c5e",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1506420,
+            "known_for_department": "Sound",
+            "name": "Sky Wikluh",
+            "original_name": "Sky Wikluh",
+            "popularity": 0.3002,
+            "profile_path": null,
+            "credit_id": "55edbb909251413e2f014c58",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1056307,
+            "known_for_department": "Acting",
+            "name": "Nemanja Jovanović",
+            "original_name": "Nemanja Jovanović",
+            "popularity": 0.3257,
+            "profile_path": null,
+            "credit_id": "55edbb9c9251413e3a0151fd",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1506421,
+            "known_for_department": "Editing",
+            "name": "Darko Simić",
+            "original_name": "Darko Simić",
+            "popularity": 0.2023,
+            "profile_path": null,
+            "credit_id": "55edbba69251413e3e015c79",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1054798,
+            "known_for_department": "Art",
+            "name": "Nemanja Petrović",
+            "original_name": "Nemanja Petrović",
+            "popularity": 0.2779,
+            "profile_path": null,
+            "credit_id": "55edbbb1c3a368090c005625",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1424691,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Jasmina Sanader",
+            "original_name": "Jasmina Sanader",
+            "popularity": 0.3498,
+            "profile_path": null,
+            "credit_id": "55edbbbc9251413e320151ef",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1317077,
+            "known_for_department": "Crew",
+            "name": "Miroslav Lakobrija",
+            "original_name": "Miroslav Lakobrija",
+            "popularity": 0.4169,
+            "profile_path": null,
+            "credit_id": "55edbbcac3a3682c6b0144fa",
+            "department": "Crew",
+            "job": "Makeup Effects"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1348598,
+            "known_for_department": "Directing",
+            "name": "Marija Stanošević",
+            "original_name": "Marija Stanošević",
+            "popularity": 0.2764,
+            "profile_path": null,
+            "credit_id": "56e575769251411fef0028f1",
+            "department": "Directing",
+            "job": "Script Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1590435,
+            "known_for_department": "Camera",
+            "name": "Pablo Ferro Živanović",
+            "original_name": "Pablo Ferro Živanović",
+            "popularity": 0.2067,
+            "profile_path": null,
+            "credit_id": "56e57589925141326900442b",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1590436,
+            "known_for_department": "Camera",
+            "name": "Bojan Brbora",
+            "original_name": "Bojan Brbora",
+            "popularity": 0.2687,
+            "profile_path": null,
+            "credit_id": "56e575999251416d46006b90",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1590437,
+            "known_for_department": "Camera",
+            "name": "Draško Pejanović",
+            "original_name": "Draško Pejanović",
+            "popularity": 0.3207,
+            "profile_path": null,
+            "credit_id": "56e575b3c3a3685aa00070c6",
+            "department": "Camera",
+            "job": "First Assistant Camera"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1495871,
+            "known_for_department": "Camera",
+            "name": "Miloš Kodemo",
+            "original_name": "Miloš Kodemo",
+            "popularity": 0.329,
+            "profile_path": null,
+            "credit_id": "56e5771cc3a3685a960075b8",
+            "department": "Camera",
+            "job": "Steadicam Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1590444,
+            "known_for_department": "Lighting",
+            "name": "Dragan Tenjović",
+            "original_name": "Dragan Tenjović",
+            "popularity": 0.225,
+            "profile_path": null,
+            "credit_id": "56e578e692514132690044a2",
+            "department": "Lighting",
+            "job": "Gaffer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1317077,
+            "known_for_department": "Crew",
+            "name": "Miroslav Lakobrija",
+            "original_name": "Miroslav Lakobrija",
+            "popularity": 0.4169,
+            "profile_path": null,
+            "credit_id": "56e57911c3a3685a900077fa",
+            "department": "Visual Effects",
+            "job": "Special Effects Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1590445,
+            "known_for_department": "Sound",
+            "name": "Nenad Jovanović",
+            "original_name": "Nenad Jovanović",
+            "popularity": 0.3546,
+            "profile_path": null,
+            "credit_id": "56e57934c3a3685aa4006c7c",
+            "department": "Sound",
+            "job": "Boom Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1590447,
+            "known_for_department": "Sound",
+            "name": "Aleksandar Protić",
+            "original_name": "Aleksandar Protić",
+            "popularity": 0.3667,
+            "profile_path": null,
+            "credit_id": "56e5795b9251416525002bc5",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1590448,
+            "known_for_department": "Sound",
+            "name": "Nikola Živković",
+            "original_name": "Nikola Živković",
+            "popularity": 0.1796,
+            "profile_path": null,
+            "credit_id": "56e57971c3a36807b200037d",
+            "department": "Sound",
+            "job": "Sound Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1590449,
+            "known_for_department": "Sound",
+            "name": "Aleksandar Perišić",
+            "original_name": "Aleksandar Perišić",
+            "popularity": 0.4331,
+            "profile_path": null,
+            "credit_id": "56e57986c3a3685aa4006c86",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1590450,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Dubravka Bušatlija",
+            "original_name": "Dubravka Bušatlija",
+            "popularity": 0.2191,
+            "profile_path": null,
+            "credit_id": "56e5799b92514132690044b7",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1317077,
+            "known_for_department": "Crew",
+            "name": "Miroslav Lakobrija",
+            "original_name": "Miroslav Lakobrija",
+            "popularity": 0.4169,
+            "profile_path": null,
+            "credit_id": "66cbbd4931ea1508c4d8486c",
+            "department": "Costume & Make-Up",
+            "job": "Special Effects Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4904489,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Almira Duraković",
+            "original_name": "Almira Durakovic",
+            "popularity": 0.1621,
+            "profile_path": null,
+            "credit_id": "66cbbd554947801fb32d6611",
+            "department": "Costume & Make-Up",
+            "job": "Assistant Costume Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2371122,
+            "known_for_department": "Acting",
+            "name": "Nemanja Jovanov",
+            "original_name": "Nemanja Jovanov",
+            "popularity": 0.2733,
+            "profile_path": null,
+            "credit_id": "66cbbd7a92433e5ff818848c",
+            "department": "Editing",
+            "job": "Colorist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2628202,
+            "known_for_department": "Crew",
+            "name": "Stefan Orlandić",
+            "original_name": "Stefan Orlandić",
+            "popularity": 0.2357,
+            "profile_path": null,
+            "credit_id": "66cbbd87479148ccd748b58d",
+            "department": "Crew",
+            "job": "Post Production Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2558927,
+            "known_for_department": "Directing",
+            "name": "Jelena Tvrdišić",
+            "original_name": "Jelena Tvrdisic",
+            "popularity": 0.3054,
+            "profile_path": null,
+            "credit_id": "66cbbd90f5c6fbe1743d17c0",
+            "department": "Crew",
+            "job": "Post Production Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4904491,
+            "known_for_department": "Crew",
+            "name": "Jovan Čekić",
+            "original_name": "Jovan Cekic",
+            "popularity": 0.1969,
+            "profile_path": null,
+            "credit_id": "66cbbda525f310c3efcadda2",
+            "department": "Crew",
+            "job": "Transportation Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1910919,
+            "known_for_department": "Production",
+            "name": "Nataša Milojević",
+            "original_name": "Nataša Milojević",
+            "popularity": 0.2865,
+            "profile_path": null,
+            "credit_id": "66cbbdb5b04b443e842058c4",
+            "department": "Production",
+            "job": "Production Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1455004,
+            "known_for_department": "Crew",
+            "name": "Milkica Božić",
+            "original_name": "Milkica Božić",
+            "popularity": 0.2783,
+            "profile_path": null,
+            "credit_id": "66cbbdc43063cc85350d47b8",
+            "department": "Crew",
+            "job": "Stunt Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3298089,
+            "known_for_department": "Acting",
+            "name": "Zoran Nastić",
+            "original_name": "Zoran Nastić",
+            "popularity": 0.1673,
+            "profile_path": null,
+            "credit_id": "66cbbdd001e75e2366328b59",
+            "department": "Crew",
+            "job": "Stunt Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2389100,
+            "known_for_department": "Acting",
+            "name": "Vladan Banović",
+            "original_name": "Vladan Banović",
+            "popularity": 0.1789,
+            "profile_path": null,
+            "credit_id": "66cbbdeb983dc77b96d3efaf",
+            "department": "Camera",
+            "job": "Focus Puller"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4904492,
+            "known_for_department": "Camera",
+            "name": "Staša Dodočić",
+            "original_name": "Stasa Dodocic",
+            "popularity": 0.1747,
+            "profile_path": null,
+            "credit_id": "66cbbdff77b01ea61b205a80",
+            "department": "Camera",
+            "job": "Focus Puller"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4904493,
+            "known_for_department": "Camera",
+            "name": "Đura Kokotović",
+            "original_name": "Djura Kokotovic",
+            "popularity": 0.1742,
+            "profile_path": null,
+            "credit_id": "66cbbe126fe9e8eb0c38a065",
+            "department": "Camera",
+            "job": "Dolly Grip"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4904494,
+            "known_for_department": "Camera",
+            "name": "Marko Stanojković",
+            "original_name": "Marko Stanojkovic",
+            "popularity": 0.2051,
+            "profile_path": null,
+            "credit_id": "66cbbe2d503135ed14167dbc",
+            "department": "Camera",
+            "job": "Assistant Camera"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2486185,
+            "known_for_department": "Camera",
+            "name": "Branislav Stojanović",
+            "original_name": "Branislav Stojanović",
+            "popularity": 0.2784,
+            "profile_path": null,
+            "credit_id": "66cbbe3f6287514bd52d6709",
+            "department": "Camera",
+            "job": "Assistant Camera"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2114882,
+            "known_for_department": "Camera",
+            "name": "Ivana Vladić",
+            "original_name": "Ivana Vladić",
+            "popularity": 0.3397,
+            "profile_path": null,
+            "credit_id": "66cbbe52cee866a9488f4836",
+            "department": "Camera",
+            "job": "Focus Puller"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1679725,
+            "known_for_department": "Production",
+            "name": "Luka Dejanović",
+            "original_name": "Luka Dejanović",
+            "popularity": 0.2519,
+            "profile_path": null,
+            "credit_id": "66cbbe64731aded63bb335b6",
+            "department": "Production",
+            "job": "Unit Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1668538,
+            "known_for_department": "Production",
+            "name": "Jasna Nikolić",
+            "original_name": "Jasna Nikolić",
+            "popularity": 0.2288,
+            "profile_path": null,
+            "credit_id": "66cbbe6d613112fd5bb33789",
+            "department": "Production",
+            "job": "Unit Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4904496,
+            "known_for_department": "Production",
+            "name": "Miljana Nikolić",
+            "original_name": "Miljana Nikolic",
+            "popularity": 0.293,
+            "profile_path": null,
+            "credit_id": "66cbbe842e76dab3ef0eb700",
+            "department": "Production",
+            "job": "Assistant Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1506418,
+            "known_for_department": "Production",
+            "name": "Nikola Pantelić",
+            "original_name": "Nikola Pantelić",
+            "popularity": 0.2253,
+            "profile_path": null,
+            "credit_id": "66cbbe8e725d1d8491205bfc",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2258899,
+            "known_for_department": "Directing",
+            "name": "Boriša Simović",
+            "original_name": "Boriša Simović",
+            "popularity": 0.2714,
+            "profile_path": null,
+            "credit_id": "66cbbe9af15be37204103bbc",
+            "department": "Directing",
+            "job": "Second Unit Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2217032,
+            "known_for_department": "Directing",
+            "name": "Miroslav Stamatov",
+            "original_name": "Miroslav Stamatov",
+            "popularity": 0.1454,
+            "profile_path": null,
+            "credit_id": "66cbbea41dca3f114a1885f2",
+            "department": "Directing",
+            "job": "First Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1601708,
+            "known_for_department": "Crew",
+            "name": "Milorad Kalanj",
+            "original_name": "Milorad Kalanj",
+            "popularity": 0.3064,
+            "profile_path": null,
+            "credit_id": "66cbbeb072ec07b8042d6737",
+            "department": "Art",
+            "job": "Property Buyer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4904498,
+            "known_for_department": "Art",
+            "name": "Nicole Keating",
+            "original_name": "Nicole Keating",
+            "popularity": 0.1671,
+            "profile_path": null,
+            "credit_id": "66cbbebb5ecd259ce1cadea4",
+            "department": "Art",
+            "job": "Construction Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3845464,
+            "known_for_department": "Crew",
+            "name": "Aleksandar Putić",
+            "original_name": "Aleksandar Putić",
+            "popularity": 0.2227,
+            "profile_path": null,
+            "credit_id": "66cbbec5b7465492a30eb6cc",
+            "department": "Art",
+            "job": "Property Master"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4904499,
+            "known_for_department": "Crew",
+            "name": "Samir Bastoni",
+            "original_name": "Samir Bastoni",
+            "popularity": 0.1631,
+            "profile_path": null,
+            "credit_id": "66cbbede22ad73fbe5103c08",
+            "department": "Crew",
+            "job": "Special Effects Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1453117,
+            "known_for_department": "Crew",
+            "name": "Danilo Dudić",
+            "original_name": "Danilo Dudić",
+            "popularity": 0.2763,
+            "profile_path": null,
+            "credit_id": "66cbbeec237fc2de85328909",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1827063,
+            "known_for_department": "Crew",
+            "name": "Nenad Gajić",
+            "original_name": "Nenad Gajić",
+            "popularity": 0.2195,
+            "profile_path": null,
+            "credit_id": "66cbbef799c57e9209749b47",
+            "department": "Crew",
+            "job": "Special Effects Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2192779,
+            "known_for_department": "Crew",
+            "name": "Petar Živković",
+            "original_name": "Petar Živković",
+            "popularity": 0.321,
+            "profile_path": null,
+            "credit_id": "66cbbf0fbac98c192b6e9f60",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2902662,
+            "known_for_department": "Sound",
+            "name": "Đorđe Đurović",
+            "original_name": "Đorđe Đurović",
+            "popularity": 0.3329,
+            "profile_path": null,
+            "credit_id": "66cbbf2f26f78284791884b2",
+            "department": "Sound",
+            "job": "Sound"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1590449,
+            "known_for_department": "Sound",
+            "name": "Aleksandar Perišić",
+            "original_name": "Aleksandar Perišić",
+            "popularity": 0.4331,
+            "profile_path": null,
+            "credit_id": "66cbbf52f5c6fbe1743d17cb",
+            "department": "Sound",
+            "job": "Recording Supervision"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2258900,
+            "known_for_department": "Directing",
+            "name": "Kosta Rakićević",
+            "original_name": "Kosta Rakićević",
+            "popularity": 0.2258,
+            "profile_path": null,
+            "credit_id": "66cbbf9e366688c8483d18ca",
+            "department": "Art",
+            "job": "Art Direction"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 2546,
+            "name": "mask"
+        },
+        {
+            "id": 2337,
+            "name": "pedophilia"
+        },
+        {
+            "id": 236,
+            "name": "suicide"
+        },
+        {
+            "id": 445,
+            "name": "pornography"
+        },
+        {
+            "id": 570,
+            "name": "rape"
+        },
+        {
+            "id": 739,
+            "name": "sexual abuse"
+        },
+        {
+            "id": 4426,
+            "name": "sadism"
+        },
+        {
+            "id": 5919,
+            "name": "necrophilia"
+        },
+        {
+            "id": 6255,
+            "name": "insanity"
+        },
+        {
+            "id": 2376,
+            "name": "perversity"
+        },
+        {
+            "id": 3260,
+            "name": "masochism"
+        },
+        {
+            "id": 9701,
+            "name": "controversy"
+        },
+        {
+            "id": 3880,
+            "name": "snuff"
+        },
+        {
+            "id": 10292,
+            "name": "gore"
+        },
+        {
+            "id": 6373,
+            "name": "sadomasochism"
+        },
+        {
+            "id": 7344,
+            "name": "porn star"
+        },
+        {
+            "id": 7492,
+            "name": "serbia"
+        },
+        {
+            "id": 11534,
+            "name": "sexual violence"
+        },
+        {
+            "id": 9826,
+            "name": "murder"
+        },
+        {
+            "id": 11262,
+            "name": "statutory rape"
+        },
+        {
+            "id": 13006,
+            "name": "torture"
+        },
+        {
+            "id": 13073,
+            "name": "fear"
+        },
+        {
+            "id": 13083,
+            "name": "rape and murder"
+        },
+        {
+            "id": 14707,
+            "name": "brutality"
+        },
+        {
+            "id": 33439,
+            "name": "sexual sadism"
+        },
+        {
+            "id": 33841,
+            "name": "incest"
+        },
+        {
+            "id": 156075,
+            "name": "evil"
+        },
+        {
+            "id": 159595,
+            "name": "sexual torture"
+        },
+        {
+            "id": 201028,
+            "name": "depravity"
+        },
+        {
+            "id": 208018,
+            "name": "infanticide"
+        },
+        {
+            "id": 217994,
+            "name": "murder by gunshot"
+        },
+        {
+            "id": 264551,
+            "name": "child sexual abuse"
+        },
+        {
+            "id": 281822,
+            "name": "shocksploitation"
+        },
+        {
+            "id": 285961,
+            "name": "low budget"
+        },
+        {
+            "id": 310003,
+            "name": "banned film"
+        },
+        {
+            "id": 315583,
+            "name": "male rape"
+        },
+        {
+            "id": 318581,
+            "name": "child homicide"
+        },
+        {
+            "id": 325546,
+            "name": "sadistic horror"
+        },
+        {
+            "id": 357263,
+            "name": "sexual brutality"
+        },
+        {
+            "id": 357264,
+            "name": "sexual cruelty"
+        },
+        {
+            "id": 361070,
+            "name": "disturbing"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/I4ofwq3XfmwXAETUs5pjubcMJ0.jpg",
+            "id": 1029281,
+            "title": "Strange Darling",
+            "original_title": "Strange Darling",
+            "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.97,
+            "release_date": "2024-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aoidrQ7c0Z170EvyoDSMDeq1mUV.jpg",
+            "id": 312791,
+            "title": "GirlHouse",
+            "original_title": "GirlHouse",
+            "overview": "In an attempt to make some extra cash while away at College, Kylie moves into a house that streams content to an X-rated website. After a deranged fan hacks in to determine the house's location, she finds herself in a terrifying fight for her life.",
+            "poster_path": "/4zR3QYWoeY2mTwVWnVxUQQptqdM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 5.1332,
+            "release_date": "2014-10-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.959,
+            "vote_count": 327
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
+            "id": 285923,
+            "title": "Grindhouse",
+            "original_title": "Grindhouse",
+            "overview": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
+            "poster_path": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                27
+            ],
+            "popularity": 5.1775,
+            "release_date": "2007-04-06",
+            "softcore": false,
+            "video": true,
+            "vote_average": 7.004,
+            "vote_count": 1915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+            "id": 9003,
+            "title": "Hellraiser",
+            "original_title": "Hellraiser",
+            "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
+            "poster_path": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 9.227,
+            "release_date": "1987-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.882,
+            "vote_count": 2927
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xrt2SCSXmKiAuzCuYQVGkssvWS.jpg",
+            "id": 101669,
+            "title": "Mother's Day",
+            "original_title": "Mother's Day",
+            "overview": "Crazed members of a sadistic family return to their childhood home to terrorize the new owners.",
+            "poster_path": "/wjKmtce2WFoOyoiYGVx0nUSzGxT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "popularity": 3.1609,
+            "release_date": "2010-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.485,
+            "vote_count": 474
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qf6Y1lDrlkJhJ04NCw0SEJ6NCNN.jpg",
+            "id": 22048,
+            "title": "Foxy Brown",
+            "original_title": "Foxy Brown",
+            "overview": "A voluptuous black woman takes a job as a high-class prostitute in order to get revenge on the mobsters who murdered her boyfriend.",
+            "poster_path": "/lAeEDcBgEqnxl9l7n7i4936ERi8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 4.2008,
+            "release_date": "1974-04-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.273,
+            "vote_count": 267
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/28QWARI48SUXShKXGaLatZkeCO7.jpg",
+            "id": 103620,
+            "title": "Maniac",
+            "original_title": "Maniac",
+            "overview": "As he helps a young artist with her upcoming exhibition, the owner of a mannequin shop's deadly, suppressed desires come to the surface.",
+            "poster_path": "/nbDkRvhmbYnHDXkoq0sF0PLeo8j.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.6046,
+            "release_date": "2012-12-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.043,
+            "vote_count": 1039
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+            "id": 1330421,
+            "title": "Bone Lake",
+            "original_title": "Bone Lake",
+            "overview": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+            "poster_path": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 10.9358,
+            "release_date": "2025-10-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.891,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+            "id": 176,
+            "title": "Saw",
+            "original_title": "Saw",
+            "overview": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
+            "poster_path": "/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                80
+            ],
+            "popularity": 15.4703,
+            "release_date": "2004-10-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.425,
+            "vote_count": 10212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+            "id": 913290,
+            "title": "Barbarian",
+            "original_title": "Barbarian",
+            "overview": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "poster_path": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 12.6579,
+            "release_date": "2022-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.874,
+            "vote_count": 3384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rHnANzYUmV3WZw3n0yWOLiR3pen.jpg",
+            "id": 976912,
+            "title": "Graphic Desires",
+            "original_title": "Graphic Desires",
+            "overview": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
+            "poster_path": "/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "popularity": 45.2137,
+            "release_date": "2023-08-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sSBLA1G4A6ZEFWhFrrox9fIV8Mt.jpg",
+            "id": 34583,
+            "title": "The Final",
+            "original_title": "The Final",
+            "overview": "A group of high school outcasts get revenge on the students that torment them.",
+            "poster_path": "/ff7UI8q51sOArKafaaAOQnnfpne.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.323,
+            "release_date": "2010-01-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 309
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qXTSZkk8mQHnZjuRjW9fc2Ax5vj.jpg",
+            "id": 41439,
+            "title": "Saw 3D",
+            "original_title": "Saw 3D",
+            "overview": "As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+            "poster_path": "/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                80
+            ],
+            "popularity": 12.4556,
+            "release_date": "2010-10-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.977,
+            "vote_count": 3352
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pl5OzUABUK5AgAsMlQg2VyybRHL.jpg",
+            "id": 9064,
+            "title": "Hellbound: Hellraiser II",
+            "original_title": "Hellbound: Hellraiser II",
+            "overview": "Now confined to a mental hospital, young Kirsty insists her supposedly dead father is actually stuck in Hell following his wife’s betrayal. Few believe the young woman’s lurid stories aside from the thrill-seeking Dr. Channard. Kirsty is undeterred and, with the help of a fellow patient, heads to Hell for a rescue.",
+            "poster_path": "/auPOq1wgZuYSaADejOskBKG6fuV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.9456,
+            "release_date": "1988-12-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.414,
+            "vote_count": 1270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gCIB84HvfkJAT2TadUnk58W1XQx.jpg",
+            "id": 543917,
+            "title": "Bloodline",
+            "original_title": "Bloodline",
+            "overview": "Evan values family above all else, and anyone who gets between him, his wife, and newborn son learns that the hard way. But when it comes to violent tendencies, it seems the apple doesn’t fall far from the tree.",
+            "poster_path": "/u9UfbDVilnhT3fa82aTFs3O0TsA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 1.8247,
+            "release_date": "2019-09-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 284
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+            "id": 808396,
+            "title": "God Is a Bullet",
+            "original_title": "God Is a Bullet",
+            "overview": "Vice detective Bob Hightower finds his ex-wife murdered and daughter kidnapped by a cult. Frustrated by the botched official investigations, he quits the force and infiltrates the cult to hunt down the leader with the help of the cult’s only female victim escapee, Case Hardin.",
+            "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80,
+                27
+            ],
+            "popularity": 4.6942,
+            "release_date": "2023-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vRf517K6cVc9XbN0qlt2owTVMmb.jpg",
+            "id": 38780,
+            "title": "Rampage",
+            "original_title": "Rampage",
+            "overview": "The boredom of small town life is eating Bill Williamson alive. Feeling constrained and claustrophobic in the meaningless drudgery of everyday life and helpless against overwhelming global dissolution, Bill begins a descent into madness. His shockingly violent plan will shake the very foundations of society by painting the streets red with blood.",
+            "poster_path": "/xZZlA5obgTrQMyAF16yqCiVxHlO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 3.3637,
+            "release_date": "2009-09-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 487
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
+            "id": 8461,
+            "title": "Funny Games",
+            "original_title": "Funny Games",
+            "overview": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+            "poster_path": "/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 7.6041,
+            "release_date": "2008-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.548,
+            "vote_count": 2306
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dmXsktpfHgTNeLFeo5nVItiXuBr.jpg",
+            "id": 517116,
+            "title": "Haunt",
+            "original_title": "Haunt",
+            "overview": "On Halloween, a group of friends encounter an extreme haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realisation that some nightmares are real.",
+            "poster_path": "/haQSrjFlq30I60UVN1VsB6uRwKM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.4273,
+            "release_date": "2019-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.669,
+            "vote_count": 1393
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jmE8wxLSS90K1K01mCBaS4rQq23.jpg",
+            "id": 601844,
+            "title": "Becky",
+            "original_title": "Becky",
+            "overview": "A teenager's weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.",
+            "poster_path": "/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27,
+                28
+            ],
+            "popularity": 4.7516,
+            "release_date": "2020-07-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.317,
+            "vote_count": 737
+        }
+    ]
+}

@@ -1,0 +1,713 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10770,
+                "name": "TV Movie"
+            }
+        ],
+        "homepage": "",
+        "id": 108258,
+        "imdb_id": "tt0113215",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Great Mom Swap",
+        "overview": "When two girls think the other has it better, they swap places to see who's right!",
+        "popularity": 12.5751,
+        "poster_path": "/uxflHpF2gKFMXxi2uxEWha7tS2d.jpg",
+        "production_companies": [
+            {
+                "id": 5531,
+                "logo_path": null,
+                "name": "Signboard Hill Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1995-09-23",
+        "revenue": 0,
+        "runtime": 120,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Great Mom Swap",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 5
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 83433,
+            "known_for_department": "Acting",
+            "name": "Shelley Fabares",
+            "original_name": "Shelley Fabares",
+            "popularity": 1.5544,
+            "profile_path": "/nuZ0DyCd90fnAolznVBr8h2uALT.jpg",
+            "cast_id": 1,
+            "character": "Millie Ridgeway",
+            "credit_id": "52fe4a94c3a36847f81d6219",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 82341,
+            "known_for_department": "Acting",
+            "name": "Hillary Tuck",
+            "original_name": "Hillary Tuck",
+            "popularity": 1.085,
+            "profile_path": "/xxgiGLKElqNxx6udiv4sEK8fCFA.jpg",
+            "cast_id": 2,
+            "character": "Karen Ridgeway",
+            "credit_id": "52fe4a94c3a36847f81d621d",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 83170,
+            "known_for_department": "Acting",
+            "name": "Valerie Harper",
+            "original_name": "Valerie Harper",
+            "popularity": 1.4239,
+            "profile_path": "/el6TS0gsoHNesv96zRscA1y94f3.jpg",
+            "cast_id": 3,
+            "character": "Grace",
+            "credit_id": "52fe4a94c3a36847f81d6221",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 8184,
+            "known_for_department": "Acting",
+            "name": "Mary Kate Schellhardt",
+            "original_name": "Mary Kate Schellhardt",
+            "popularity": 2.4332,
+            "profile_path": "/soMV16v3JVmkjd7S7S6ohgEGl6b.jpg",
+            "cast_id": 4,
+            "character": "Terry Venessi",
+            "credit_id": "52fe4a94c3a36847f81d6225",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8902,
+            "known_for_department": "Acting",
+            "name": "Sid Caesar",
+            "original_name": "Sid Caesar",
+            "popularity": 1.0804,
+            "profile_path": "/mMSjieicMCMBK7YsQREkX7BRcB2.jpg",
+            "cast_id": 5,
+            "character": "Papa Tognetti",
+            "credit_id": "52fe4a94c3a36847f81d6229",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2256,
+            "known_for_department": "Acting",
+            "name": "Robert Clohessy",
+            "original_name": "Robert Clohessy",
+            "popularity": 1.575,
+            "profile_path": "/lhNUk6PF0mNhgbvTDxXfIy4uhRe.jpg",
+            "cast_id": 6,
+            "character": "Frank Balfour",
+            "credit_id": "52fe4a94c3a36847f81d622d",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1221137,
+            "known_for_department": "Acting",
+            "name": "Andrew Kavovit",
+            "original_name": "Andrew Kavovit",
+            "popularity": 0.7895,
+            "profile_path": "/4k86FoQhM2kEnoe0bzqRauHZgG7.jpg",
+            "cast_id": 16,
+            "character": "David Ridgeway",
+            "credit_id": "655a9d5453866e00abada382",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 169635,
+            "known_for_department": "Acting",
+            "name": "Vasili Bogazianos",
+            "original_name": "Vasili Bogazianos",
+            "popularity": 0.6537,
+            "profile_path": null,
+            "cast_id": 7,
+            "character": "Jack Ridgeway",
+            "credit_id": "52fe4a94c3a36847f81d6231",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1834736,
+            "known_for_department": "Acting",
+            "name": "Hunter Garner",
+            "original_name": "Hunter Garner",
+            "popularity": 1.5818,
+            "profile_path": "/ua5793g1r086nvAlpSwf0drGLIM.jpg",
+            "cast_id": 17,
+            "character": "Chad",
+            "credit_id": "655a9d80b5400214d118154d",
+            "order": 8
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 82346,
+            "known_for_department": "Writing",
+            "name": "Jonathan Prince",
+            "original_name": "Jonathan Prince",
+            "popularity": 1.2091,
+            "profile_path": "/1uN89BlnIHwiRUsvsIVomaXG1kb.jpg",
+            "credit_id": "52fe4a94c3a36847f81d6237",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2577574,
+            "known_for_department": "Directing",
+            "name": "Ruth A. Redfern",
+            "original_name": "Ruth A. Redfern",
+            "popularity": 0.3736,
+            "profile_path": null,
+            "credit_id": "6505eb005aadc400c7dd863d",
+            "department": "Directing",
+            "job": "Second Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 43890,
+            "known_for_department": "Production",
+            "name": "Brent Shields",
+            "original_name": "Brent Shields",
+            "popularity": 0.6292,
+            "profile_path": null,
+            "credit_id": "54adf9c092514169e0000c86",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1410491,
+            "known_for_department": "Writing",
+            "name": "Beth Haynes",
+            "original_name": "Beth Haynes",
+            "popularity": 0.2285,
+            "profile_path": null,
+            "credit_id": "54adf9e292514169e0000c8b",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 176272,
+            "known_for_department": "Acting",
+            "name": "Maryedith Burrell",
+            "original_name": "Maryedith Burrell",
+            "popularity": 0.7514,
+            "profile_path": "/lXqugmExBee7n5oi4toQQpFChTX.jpg",
+            "credit_id": "57a4cb5e9251412e72004668",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 176272,
+            "known_for_department": "Acting",
+            "name": "Maryedith Burrell",
+            "original_name": "Maryedith Burrell",
+            "popularity": 0.7514,
+            "profile_path": "/lXqugmExBee7n5oi4toQQpFChTX.jpg",
+            "credit_id": "57a4cb65c3a36861d700479e",
+            "department": "Writing",
+            "job": "Teleplay"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/imDgNfzjdoCpi5dZWwqxuPehCYf.jpg",
+            "id": 133790,
+            "title": "Clear History",
+            "original_title": "Clear History",
+            "overview": "Nathan Flomm, in order to avoid the humiliation of having missed out on a hugely successful business, assumes a new identity on Martha's Vineyard. He plots revenge when his former business partner moves to the same town.",
+            "poster_path": "/AtzfH2YCWVjyk3XjQqzLtUuZXEG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10770
+            ],
+            "popularity": 2.719,
+            "release_date": "2013-08-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 366
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fhajBJchq74U0KmVV1uSH6mMjxw.jpg",
+            "id": 457840,
+            "title": "Psych: The Movie",
+            "original_title": "Psych: The Movie",
+            "overview": "The ambitious friends come together during the holidays after a mystery assailant targets one of their own. A comedic thrill-ride follows, as the wild and unpredictable Psych team pursues the bad guys, justice … and, of course, food!",
+            "poster_path": "/82Z6LEnkewH40pv6fa2Ci1CkSnd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80,
+                9648,
+                10770
+            ],
+            "popularity": 3.1276,
+            "release_date": "2017-12-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 254
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pm5YOQhaNaJILOLfcEVxRBNxGVX.jpg",
+            "id": 45523,
+            "title": "Louis C.K.: Hilarious",
+            "original_title": "Louis C.K.: Hilarious",
+            "overview": "In this unique and dynamic live concert experience, Louis C.K.'s exploration of life after 40 destroys politically correct images of modern life with thoughts we have all had...but would rarely admit to.",
+            "poster_path": "/8mJMrrT4tkfZLMFvKQ0Hq6jlXbp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10770
+            ],
+            "popularity": 2.5104,
+            "release_date": "2010-01-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.794,
+            "vote_count": 309
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s7tRhQ8oDJSdsy3YvDp04KtK9nC.jpg",
+            "id": 278774,
+            "title": "Zapped",
+            "original_title": "Zapped",
+            "overview": "Zoey is a talented dancer whose organized life is rudely disrupted when she moves in with her new step-dad and three step-brothers, until she discovers a dog-training app that can get boys to obey her every command. But she soon learns that it isn't the cure-all she had hoped for.",
+            "poster_path": "/u33QFfbvChD5LNcuZD0LsSVnoa1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10770,
+                35,
+                10751
+            ],
+            "popularity": 3.6731,
+            "release_date": "2014-06-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 644
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5BShmjcYdkuTbSIWufRzNpZFUNK.jpg",
+            "id": 14008,
+            "title": "Cadet Kelly",
+            "original_title": "Cadet Kelly",
+            "overview": "Hyperactive teenager Kelly is enrolled into a military school when her new stepfather becomes the Commandant. At first she has problems fitting in and taking orders until she tries out for the drill team.",
+            "poster_path": "/eKtznndgJoVG9S9UENc7kHqmhgM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                35,
+                10770
+            ],
+            "popularity": 4.1151,
+            "release_date": "2002-03-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jxeIgOEY5pbl9aMRExGawV6xkyO.jpg",
+            "id": 119738,
+            "title": "Thunderstruck",
+            "original_title": "Thunderstruck",
+            "overview": "After NBA star Kevin Durant switches talent with 16 year old Brian, the teenager becomes the star of his high school team, but Durant starts struggling and eventually learns an important lesson.",
+            "poster_path": "/lR1ssqRzslQx9WtTOKnfgqbNB1y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "popularity": 3.0421,
+            "release_date": "2012-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.187,
+            "vote_count": 254
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x55HTVEkwqWB6TZ5HP6lSlpZjZg.jpg",
+            "id": 829400,
+            "title": "Psych 3: This Is Gus",
+            "original_title": "Psych 3: This Is Gus",
+            "overview": "In preparation for a shotgun wedding before the birth of Baby Guster, Shawn and Gus go rogue in an attempt to track down Selene’s estranged husband, as Lassiter grapples with the future of his career.",
+            "poster_path": "/9tJRcfdQKmq8krlxeJcQB33lvKA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80,
+                9648,
+                10770
+            ],
+            "popularity": 2.4192,
+            "release_date": "2021-11-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.867,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eWCeRLTavVwPt3uOGUF1ewzwH6e.jpg",
+            "id": 360606,
+            "title": "Adventures in Babysitting",
+            "original_title": "Adventures in Babysitting",
+            "overview": "Two teen rival babysitters, Jenny and Lola, team up to hunt down one of their kids who accidentally ran away into the big city without any supervision.",
+            "poster_path": "/t12bYhmv7LIcHT4TGGpW6WaMV2W.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751,
+                12,
+                10770
+            ],
+            "popularity": 3.8931,
+            "release_date": "2016-06-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 444
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vTPgBrqEhIIqeZOCqrdNjyXzK4c.jpg",
+            "id": 1219926,
+            "title": "South Park (Not Suitable for Children)",
+            "original_title": "South Park (Not Suitable for Children)",
+            "overview": "After it's discovered that a teacher at South Park Elementary has an OnlyFans page, Randy is compelled to take a closer look at the seedy underbelly of the world of online influencers.",
+            "poster_path": "/kN5H9EhUqDWBAsbnbt2XNhS7BFe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10770
+            ],
+            "popularity": 3.347,
+            "release_date": "2023-12-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.46,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/peQaGE36oX0ClMj1xOPPzQxF1MM.jpg",
+            "id": 7288,
+            "title": "Duplex",
+            "original_title": "Duplex",
+            "overview": "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+            "poster_path": "/mCQ4oO9djqcthBRD3ftTnR8qSP7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 5.3166,
+            "release_date": "2003-09-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.111,
+            "vote_count": 1827
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cayWJjzy4YlSvZcSkGnkLfCuEJ7.jpg",
+            "id": 417028,
+            "title": "The Swap",
+            "original_title": "The Swap",
+            "overview": "Based on the book by Megan Shull, The Swap follows the adventures of a rhythmic gymnast named Ellie with a make-it-or-break-it competition, and the younger brother named Jack in a hockey family who's vying for a varsity spot on his school team. But when a simple text causes the two to swap bodies, their paths take an unexpected cross.",
+            "poster_path": "/4GvjFcWaSnVrbHjFof1Sy8tZK1r.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10770
+            ],
+            "popularity": 2.6767,
+            "release_date": "2016-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 207
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w7PdQXBv1GLt4K87GMqTuvCQkb.jpg",
+            "id": 627394,
+            "title": "iParty with Victorious",
+            "original_title": "iParty with Victorious",
+            "overview": "Scorned girlfriends Carly and Tori hatch a plot against the boy that they are both dating.",
+            "poster_path": "/au5IiL3OUjir4CJYsg2lyJb61C6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751,
+                10402,
+                10770
+            ],
+            "popularity": 2.5157,
+            "release_date": "2011-06-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eDHOYmzdV2AdXXIz0XjQbNJiTSw.jpg",
+            "id": 36736,
+            "title": "The Drawn Together Movie: The Movie!",
+            "original_title": "The Drawn Together Movie: The Movie!",
+            "overview": "When the mystery-solving musician Foxxy Love notices she and her fellow housemates can curse without being bleeped—something they've never been able to do before—she realizes their show has been canceled. Determined to get back on the air, the gang travels to Make-A-Point-Land in order to get a point (and get back on the air).",
+            "poster_path": "/vNrQpBgnwytWZwDhBQEMJLy13N1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                9648
+            ],
+            "popularity": 2.1177,
+            "release_date": "2010-03-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.383,
+            "vote_count": 222
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xy4kRFTxMbPeWBKcQkijJ8i1DFx.jpg",
+            "id": 360605,
+            "title": "Invisible Sister",
+            "original_title": "Invisible Sister",
+            "overview": "Teenager Cleo's school science project goes quite awry, causing her popular older sister Molly to go invisible.",
+            "poster_path": "/seWQvVIzb5xBjHW0Y1h4jvokxZN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                12,
+                35,
+                10770
+            ],
+            "popularity": 4.409,
+            "release_date": "2015-12-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 312
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6iEel19duDJBH2DMCnywJ19LW8X.jpg",
+            "id": 50468,
+            "title": "Dr. Strange",
+            "original_title": "Dr. Strange",
+            "overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
+            "poster_path": "/hEyHVgBE28Jl13h2Qpbr3LH77sP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10770,
+                28,
+                12,
+                14,
+                878
+            ],
+            "popularity": 2.0175,
+            "release_date": "1978-09-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.07,
+            "vote_count": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ycqMcQ1t1RPxR4aN46SM2Z1P7qd.jpg",
+            "id": 763873,
+            "title": "Under Wraps",
+            "original_title": "Under Wraps",
+            "overview": "Three friends try to save their mummified friend, Harold, from greedy criminals by returning him to his resting place before midnight on Halloween.",
+            "poster_path": "/7RbSSHD0MqQ4SmopPQBRBO0xuix.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                35,
+                14,
+                10770
+            ],
+            "popularity": 4.1705,
+            "release_date": "2021-10-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.82,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1f0G7KtLFHwDMFVsvx48WfPVoA9.jpg",
+            "id": 33871,
+            "title": "Merry Christmas, Drake & Josh",
+            "original_title": "Merry Christmas, Drake & Josh",
+            "overview": "Step brothers Drake and Josh must give a foster family the best Christmas ever or face years in jail for a Christmas party gone wrong.",
+            "poster_path": "/59GoXODSKpd3yMXgM4xXlNmf7jq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751,
+                10770
+            ],
+            "popularity": 2.5658,
+            "release_date": "2008-12-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ekNXqMP50X7w7zAPWuikxdjWlwC.jpg",
+            "id": 54540,
+            "title": "Beverly Hills Chihuahua 2",
+            "original_title": "Beverly Hills Chihuahua 2",
+            "overview": "Puppy mayhem turns the lives of newlywed Chihuahua parents Papi and Chloe upside down when their rambunctious, mischievous puppies present one challenge after another. But when their human owners end up in trouble, the tiny pups will stop at nothing to save them - because in good times and hard times, the family always sticks together. So Papi, Chloe and the puppies embark on a heroic adventure, proving once again that big heroes come in small packages.",
+            "poster_path": "/k3IHj3utp8m0X1KpNHyfOIsypE1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "popularity": 3.821,
+            "release_date": "2011-02-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.916,
+            "vote_count": 419
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4bW2662ZiJhJmK4IseCReVzgZ3C.jpg",
+            "id": 1716513,
+            "title": "Extreme Makeover: Homer Edition",
+            "original_title": "Extreme Makeover: Homer Edition",
+            "overview": "Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer.",
+            "poster_path": "/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "popularity": 30.4159,
+            "release_date": "2026-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.25,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uttOGgMYQJqwxL6OohWHFk6rpW7.jpg",
+            "id": 39345,
+            "title": "Casper Meets Wendy",
+            "original_title": "Casper Meets Wendy",
+            "overview": "When a warlock threatens Wendy the Good Little Witch, she and her aunts hide out at a resort where Casper the Ghost is vacationing with his uncles. Although Casper and Wendy are told ghosts and witches don't get along, the two are kindred spirits! This spooky family-friendly adventure finds Casper and Wendy bridging the ghost-witch divide to battle the warlock who is intent on destroying Wendy.",
+            "poster_path": "/zYJWQvee9CN6nc9En2KUWewHGHr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                14,
+                35,
+                10770
+            ],
+            "popularity": 3.2637,
+            "release_date": "1998-09-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.929,
+            "vote_count": 418
+        }
+    ]
+}

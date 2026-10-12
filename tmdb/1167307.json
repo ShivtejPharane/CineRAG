@@ -1,0 +1,1249 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/mZ6J2g6HCV2gj3iuCdSxcyBXq9c.jpg",
+        "belongs_to_collection": null,
+        "budget": 60900000,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 36,
+                "name": "History"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "homepage": "https://www.thedavidmovie.com/",
+        "id": 1167307,
+        "imdb_id": "tt15678738",
+        "origin_country": [
+            "ZA",
+            "US",
+            "GB"
+        ],
+        "original_language": "en",
+        "original_title": "David",
+        "overview": "From the songs of his mother’s heart to the whispers of a faithful God, David’s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage—culminating in a battle not just for a crown, but for the soul of a kingdom.",
+        "popularity": 18.2475,
+        "poster_path": "/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+        "production_companies": [
+            {
+                "id": 30216,
+                "logo_path": "/AwgLu0qw2UifWdDYExBNlZXWwx.png",
+                "name": "Sunrise Productions",
+                "origin_country": "ZA"
+            },
+            {
+                "id": 206626,
+                "logo_path": null,
+                "name": "Slingshot USA",
+                "origin_country": ""
+            },
+            {
+                "id": 165435,
+                "logo_path": "/pDh2WDdOajWST9jlkFo6TOvETnB.png",
+                "name": "Angel Studios",
+                "origin_country": "US"
+            },
+            {
+                "id": 223271,
+                "logo_path": "/2Rc6Dvg3tpIfDzgQE6ycWxNj0kT.png",
+                "name": "2521 Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "ZA",
+                "name": "South Africa"
+            }
+        ],
+        "release_date": "2025-12-14",
+        "revenue": 85865995,
+        "runtime": 109,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "A giant musical event.",
+        "title": "David",
+        "video": false,
+        "vote_average": 7.951,
+        "vote_count": 174
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2507851,
+            "known_for_department": "Acting",
+            "name": "Brandon Engman",
+            "original_name": "Brandon Engman",
+            "popularity": 1.1933,
+            "profile_path": "/9PhXVdDPb5NTEvD5dbFfTJnssQw.jpg",
+            "cast_id": 7,
+            "character": "Young David (voice)",
+            "credit_id": "659cfd1d55c1f400ee4f7332",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1822256,
+            "known_for_department": "Acting",
+            "name": "Brian Stivale",
+            "original_name": "Brian Stivale",
+            "popularity": 0.6048,
+            "profile_path": "/ggNQronrHaUZnFZeolK0SGfW38V.jpg",
+            "cast_id": 16,
+            "character": "Samuel (voice)",
+            "credit_id": "68ee17fe4696ca4a02282921",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2805492,
+            "known_for_department": "Acting",
+            "name": "Shahar Taboch",
+            "original_name": "Shahar Taboch",
+            "popularity": 0.5638,
+            "profile_path": "/hpuiheYJrOU4HYczWgCJNeBPWlZ.jpg",
+            "cast_id": 17,
+            "character": "Ozem (voice)",
+            "credit_id": "68ee18166319a4d76cf121a8",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1677363,
+            "known_for_department": "Acting",
+            "name": "Aaron Tavaler",
+            "original_name": "Aaron Tavaler",
+            "popularity": 0.5813,
+            "profile_path": null,
+            "cast_id": 22,
+            "character": "Nethanel (voice)",
+            "credit_id": "69811999abf39b2e2281beb8",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5981973,
+            "known_for_department": "Acting",
+            "name": "Hector",
+            "original_name": "Hector",
+            "popularity": 0.5645,
+            "profile_path": null,
+            "cast_id": 23,
+            "character": "Jesse (voice)",
+            "credit_id": "698119fc3c8349e841e061e1",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1259893,
+            "known_for_department": "Acting",
+            "name": "Miri Mesika",
+            "original_name": "Miri Mesika",
+            "popularity": 0.914,
+            "profile_path": "/v9tqyqIfG6V9Ezix0Bienpco9B5.jpg",
+            "cast_id": 18,
+            "character": "Nitzevet (voice)",
+            "credit_id": "68ee182634cc5c70dd785526",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4271307,
+            "known_for_department": "Acting",
+            "name": "Jack Wagman",
+            "original_name": "Jack Wagman",
+            "popularity": 0.5524,
+            "profile_path": null,
+            "cast_id": 24,
+            "character": "Abinadab (voice)",
+            "credit_id": "69811a38a199978754e9180c",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5981987,
+            "known_for_department": "Acting",
+            "name": "Jonathan Shaboo",
+            "original_name": "Jonathan Shaboo",
+            "popularity": 0.4066,
+            "profile_path": null,
+            "cast_id": 25,
+            "character": "Eliab (voice)",
+            "credit_id": "69811b12ef2df91598313fc1",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5705674,
+            "known_for_department": "Acting",
+            "name": "Sloan Lucas Muldown",
+            "original_name": "Sloan Lucas Muldown",
+            "popularity": 0.4812,
+            "profile_path": "/4eQoD8TdgDB1UbCRwiyLw2nyYYg.jpg",
+            "cast_id": 13,
+            "character": "Young Zeruiah (voice)",
+            "credit_id": "68ee17c49c850800172829a2",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3732705,
+            "known_for_department": "Acting",
+            "name": "Mike Ciporkin",
+            "original_name": "Mike Ciporkin",
+            "popularity": 0.157,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "Scout (voice)",
+            "credit_id": "68ee1848458355352b0d8253",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4770237,
+            "known_for_department": "Acting",
+            "name": "Katie Bernstein",
+            "original_name": "Katie Bernstein",
+            "popularity": 0.3297,
+            "profile_path": "/6DZcmWWmD6vjpu8TPAqpCa2Pvon.jpg",
+            "cast_id": 27,
+            "character": "Ahinoam (voice)",
+            "credit_id": "69811ca7261e749eca6ccdf1",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2384065,
+            "known_for_department": "Acting",
+            "name": "Lauren Daigle",
+            "original_name": "Lauren Daigle",
+            "popularity": 0.487,
+            "profile_path": "/56btNdIze3EGyV9tKOF0I13I1Yo.jpg",
+            "cast_id": 15,
+            "character": "Rebecca (voice)",
+            "credit_id": "68ee17ee51e604d7772829a2",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4364574,
+            "known_for_department": "Acting",
+            "name": "Mark Jacobson",
+            "original_name": "Mark Jacobson",
+            "popularity": 0.2808,
+            "profile_path": null,
+            "cast_id": 28,
+            "character": "Jonathan (voice)",
+            "credit_id": "69811d2893ad53870e313fbd",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4249465,
+            "known_for_department": "Acting",
+            "name": "Nitzan Sitzer",
+            "original_name": "Nitzan Sitzer",
+            "popularity": 0.3032,
+            "profile_path": null,
+            "cast_id": 29,
+            "character": "Short Scribe",
+            "credit_id": "69811d5dad110a105d382c8e",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 104477,
+            "known_for_department": "Acting",
+            "name": "Adam Meir",
+            "original_name": "Adam Meir",
+            "popularity": 0.3637,
+            "profile_path": "/jfZLKCKC341VNcp9GvKhrw7qOat.jpg",
+            "cast_id": 30,
+            "character": "Tall Scribe",
+            "credit_id": "69811d80a5a32d3df381be38",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1963275,
+            "known_for_department": "Acting",
+            "name": "Adam Michael Gold",
+            "original_name": "Adam Michael Gold",
+            "popularity": 0.4686,
+            "profile_path": "/8MNqU2IeoSojqrgVHPqLPf6LSxS.jpg",
+            "cast_id": 36,
+            "character": "Saul (voice)",
+            "credit_id": "69a308c4090cfc1edecccd5a",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1502438,
+            "known_for_department": "Acting",
+            "name": "Asim Chaudhry",
+            "original_name": "Asim Chaudhry",
+            "popularity": 1.1227,
+            "profile_path": "/1F0DwOpxUAEpw5iovMHZ5Y1C8n6.jpg",
+            "cast_id": 8,
+            "character": "King Achish (voice)",
+            "credit_id": "68ee172b07406d29705eed06",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3336156,
+            "known_for_department": "Acting",
+            "name": "Kamran Nikhad",
+            "original_name": "Kamran Nikhad",
+            "popularity": 0.3418,
+            "profile_path": null,
+            "cast_id": 26,
+            "character": "Goliath (voice)",
+            "credit_id": "69811bbfabc84e52e481be0a",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3328683,
+            "known_for_department": "Acting",
+            "name": "Phil Wickham",
+            "original_name": "Phil Wickham",
+            "popularity": 0.3419,
+            "profile_path": "/6IHWUHlkejPlTIvTec5Y7kcbnbK.jpg",
+            "cast_id": 11,
+            "character": "Adult David (voice)",
+            "credit_id": "68ee178cff818a3bbf2829ae",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3192875,
+            "known_for_department": "Production",
+            "name": "David Rosenberg",
+            "original_name": "David Rosenberg",
+            "popularity": 0.3384,
+            "profile_path": null,
+            "cast_id": 33,
+            "character": "Doeg (voice)",
+            "credit_id": "69811ed64a40174b2881be5e",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 86655,
+            "known_for_department": "Acting",
+            "name": "Ashley Boettcher",
+            "original_name": "Ashley Boettcher",
+            "popularity": 0.768,
+            "profile_path": "/h4bdCoXgQH4s6KR1ejNuOFEyr4h.jpg",
+            "cast_id": 12,
+            "character": "Teen Zeruiah (voice)",
+            "credit_id": "68ee17b10af7ab01f9282a20",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 971877,
+            "known_for_department": "Acting",
+            "name": "Mick Wingert",
+            "original_name": "Mick Wingert",
+            "popularity": 1.1251,
+            "profile_path": "/2Apga68BihekhCSPHNk5pXqC5Gq.jpg",
+            "cast_id": 9,
+            "character": "Zaydel (voice)",
+            "credit_id": "68ee175f422811bc9c7854d9",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1657897,
+            "known_for_department": "Acting",
+            "name": "Mark Whitten",
+            "original_name": "Mark Whitten",
+            "popularity": 0.5762,
+            "profile_path": "/zcD76XCZ6zQ41C9j1lsttLbxbLE.jpg",
+            "cast_id": 10,
+            "character": "Abishal (voice)",
+            "credit_id": "68ee177b422811bc9c7854dd",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4525197,
+            "known_for_department": "Acting",
+            "name": "Doron Rechlis",
+            "original_name": "Doron Rechlis",
+            "popularity": 0.3899,
+            "profile_path": null,
+            "cast_id": 34,
+            "character": "Elhanan (voice)",
+            "credit_id": "69811f03f042705958e0611c",
+            "order": 23
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4077894,
+            "known_for_department": "Acting",
+            "name": "Will De Renzy-Martin",
+            "original_name": "Will De Renzy-Martin",
+            "popularity": 0.787,
+            "profile_path": "/74AfkMoDTvZZ2TX8FX7mjNjlhFA.jpg",
+            "cast_id": 14,
+            "character": "Viazatha (voice)",
+            "credit_id": "68ee17dbfe6d394d16a21add",
+            "order": 24
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2838796,
+            "known_for_department": "Production",
+            "name": "Phil Cunningham",
+            "original_name": "Phil Cunningham",
+            "popularity": 0.6375,
+            "profile_path": null,
+            "credit_id": "64e1b3b34a52f800c7a35297",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2508883,
+            "known_for_department": "Directing",
+            "name": "Brent Dawes",
+            "original_name": "Brent Dawes",
+            "popularity": 0.6061,
+            "profile_path": null,
+            "credit_id": "64e1b3beaaec7103f9986075",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2838798,
+            "known_for_department": "Production",
+            "name": "Jacqui Cunningham",
+            "original_name": "Jacqui Cunningham",
+            "popularity": 0.475,
+            "profile_path": null,
+            "credit_id": "64e1b3e95ab81a011c2f745a",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2838796,
+            "known_for_department": "Production",
+            "name": "Phil Cunningham",
+            "original_name": "Phil Cunningham",
+            "popularity": 0.6375,
+            "profile_path": null,
+            "credit_id": "64e1b3f7a3b5e601da49166a",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 79065,
+            "known_for_department": "Acting",
+            "name": "Tim Tebow",
+            "original_name": "Tim Tebow",
+            "popularity": 0.5639,
+            "profile_path": "/dVtk9rgfmPmSa7jKQybbde3mmVT.jpg",
+            "credit_id": "64e1b4085ab81a00ad2172ae",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1098740,
+            "known_for_department": "Sound",
+            "name": "Joseph Trapanese",
+            "original_name": "Joseph Trapanese",
+            "popularity": 0.6092,
+            "profile_path": "/3jh3094X5Usrsvd0QGMLP7EqwfI.jpg",
+            "credit_id": "68fc1b25f57d1caf913bf198",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5889556,
+            "known_for_department": "Editing",
+            "name": "Tom Scott",
+            "original_name": "Tom Scott",
+            "popularity": 0.2066,
+            "profile_path": null,
+            "credit_id": "694706aaee183a60c88cde7b",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2508883,
+            "known_for_department": "Directing",
+            "name": "Brent Dawes",
+            "original_name": "Brent Dawes",
+            "popularity": 0.6061,
+            "profile_path": null,
+            "credit_id": "6983ae310012c6ccec912945",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2012835,
+            "known_for_department": "Visual Effects",
+            "name": "Scott Farrell",
+            "original_name": "Scott Farrell",
+            "popularity": 0.3846,
+            "profile_path": null,
+            "credit_id": "69cb5f75cd322274b542a384",
+            "department": "Lighting",
+            "job": "Lighting Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2004366,
+            "known_for_department": "Visual Effects",
+            "name": "Dan Barker",
+            "original_name": "Dan Barker",
+            "popularity": 0.2373,
+            "profile_path": null,
+            "credit_id": "6a2672d623cea1456c24839e",
+            "department": "Visual Effects",
+            "job": "Animation Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3848176,
+            "known_for_department": "Writing",
+            "name": "Sam Wilson",
+            "original_name": "Sam Wilson",
+            "popularity": 0.2601,
+            "profile_path": null,
+            "credit_id": "6a26733eef9e25aed5e6aef0",
+            "department": "Writing",
+            "job": "Head of Story"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1763090,
+            "known_for_department": "Visual Effects",
+            "name": "Cinzia Angelini",
+            "original_name": "Cinzia Angelini",
+            "popularity": 0.5843,
+            "profile_path": null,
+            "credit_id": "6a26735837877e1addc76cbc",
+            "department": "Writing",
+            "job": "Story Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2199290,
+            "known_for_department": "Writing",
+            "name": "Eva Bruschi",
+            "original_name": "Eva Bruschi",
+            "popularity": 0.2759,
+            "profile_path": null,
+            "credit_id": "6a267371fdd2ac8f13e6aeb6",
+            "department": "Writing",
+            "job": "Story Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1083425,
+            "known_for_department": "Writing",
+            "name": "Kevin Harkey",
+            "original_name": "Kevin Harkey",
+            "popularity": 0.9323,
+            "profile_path": null,
+            "credit_id": "6a26737aef9e25aed5e6aef4",
+            "department": "Writing",
+            "job": "Story Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1447317,
+            "known_for_department": "Art",
+            "name": "Angelo Libutti",
+            "original_name": "Angelo Libutti",
+            "popularity": 0.4295,
+            "profile_path": null,
+            "credit_id": "6a267386adc98884bbc76c5e",
+            "department": "Writing",
+            "job": "Story Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3845176,
+            "known_for_department": "Directing",
+            "name": "Douglas Lovelace",
+            "original_name": "Douglas Lovelace",
+            "popularity": 0.2008,
+            "profile_path": null,
+            "credit_id": "6a26739337877e1addc76cc4",
+            "department": "Writing",
+            "job": "Story Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3590284,
+            "known_for_department": "Art",
+            "name": "Nicola Sammarco",
+            "original_name": "Nicola Sammarco",
+            "popularity": 0.4205,
+            "profile_path": null,
+            "credit_id": "6a2673a166e25e966f24841a",
+            "department": "Writing",
+            "job": "Story Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1635364,
+            "known_for_department": "Directing",
+            "name": "Daniel Snaddon",
+            "original_name": "Daniel Snaddon",
+            "popularity": 0.5032,
+            "profile_path": null,
+            "credit_id": "6a2673abed6e3490f0748d12",
+            "department": "Writing",
+            "job": "Story Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6271359,
+            "known_for_department": "Writing",
+            "name": "Pedro Minho",
+            "original_name": "Pedro Minho",
+            "popularity": 0.2033,
+            "profile_path": null,
+            "credit_id": "6a2673cc770d3a1cb85ae7c2",
+            "department": "Writing",
+            "job": "Story Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1989584,
+            "known_for_department": "Visual Effects",
+            "name": "Borja Montoro",
+            "original_name": "Borja Montoro",
+            "popularity": 0.4782,
+            "profile_path": null,
+            "credit_id": "6a2673dae08268faf15ae558",
+            "department": "Writing",
+            "job": "Story Artist"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 2879,
+            "name": "aggression"
+        },
+        {
+            "id": 3036,
+            "name": "bible"
+        },
+        {
+            "id": 4344,
+            "name": "musical"
+        },
+        {
+            "id": 11001,
+            "name": "religion"
+        },
+        {
+            "id": 11222,
+            "name": "prophet"
+        },
+        {
+            "id": 161678,
+            "name": "giant man"
+        },
+        {
+            "id": 178107,
+            "name": "david vs. goliath"
+        },
+        {
+            "id": 186756,
+            "name": "old testament"
+        },
+        {
+            "id": 247589,
+            "name": "ancient regime"
+        },
+        {
+            "id": 255868,
+            "name": "primitive civilization"
+        },
+        {
+            "id": 276977,
+            "name": "shepherd boy"
+        },
+        {
+            "id": 278823,
+            "name": "3d animation"
+        },
+        {
+            "id": 281237,
+            "name": "independent film"
+        },
+        {
+            "id": 302678,
+            "name": "philistine"
+        },
+        {
+            "id": 309288,
+            "name": "bible prophecy"
+        },
+        {
+            "id": 321416,
+            "name": "battles"
+        },
+        {
+            "id": 348322,
+            "name": "biblical epic"
+        },
+        {
+            "id": 365430,
+            "name": "songs"
+        },
+        {
+            "id": 371404,
+            "name": "faith in god"
+        },
+        {
+            "id": 371405,
+            "name": "winners vs. losers"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/wdPMV9AieVr38ox3l0rAGDIJFUW.jpg",
+            "id": 16366,
+            "title": "Joseph: King of Dreams",
+            "original_title": "Joseph: King of Dreams",
+            "overview": "In this animated retelling of the story from the Bible's Book of Genesis, Joseph's gift of dream interpretation and his brilliantly colored coat inspires jealousy in his brothers.",
+            "poster_path": "/sUKImRHScrjrvaG2FwxCRY5ldtx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                18
+            ],
+            "popularity": 6.2696,
+            "release_date": "2000-11-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1082
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xeIkV4e4joAmlRJhqJu2N8jR6zC.jpg",
+            "id": 1374686,
+            "title": "Light of the World",
+            "original_title": "Light of the World",
+            "overview": "It's 30 AD and everyone is expectantly awaiting the coming Messiah. While Jesus isn't exactly what they imagined, there is something special about this man. Soon, John, James, Andrew, Peter, and others begin to follow Jesus on an unexpected adventure. This beautifully animated story of Jesus is told through the eyes of his beloved young friend, the Apostle John.",
+            "poster_path": "/3vUqo90FCIHXPiXnQJEeqzg5EDV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                18,
+                10751
+            ],
+            "popularity": 4.6989,
+            "release_date": "2025-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/565DYYXgdRYMiETLi2EDx4p7s92.jpg",
+            "id": 9837,
+            "title": "The Prince of Egypt",
+            "original_title": "The Prince of Egypt",
+            "overview": "The strong bond between two Royal Egyptian brothers is challenged when their chosen responsibilities set them at odds, with extraordinary consequences.",
+            "poster_path": "/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                16,
+                18,
+                10751
+            ],
+            "popularity": 12.8689,
+            "release_date": "1998-12-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.317,
+            "vote_count": 4369
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tBY8hN4inRzOwUwfvhBUHo00pIQ.jpg",
+            "id": 332718,
+            "title": "Bilal: A New Breed of Hero",
+            "original_title": "Bilal: A New Breed of Hero",
+            "overview": "A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise his voice and make a change. Inspired by true events, this is a story of a real hero who earned his remembrance in time and history.",
+            "poster_path": "/ncWuEzxnXqssxRfHghZuUAIezCo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                36
+            ],
+            "popularity": 2.7156,
+            "release_date": "2016-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.806,
+            "vote_count": 169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j8isWEPL3PmmVh8ap3jm75qVF4p.jpg",
+            "id": 14411,
+            "title": "Sinbad: Legend of the Seven Seas",
+            "original_title": "Sinbad: Legend of the Seven Seas",
+            "overview": "The sailor of legend is framed by the goddess Eris for the theft of the Book of Peace, and must travel to her realm at the end of the world to retrieve it and save the life of his childhood friend Prince Proteus.",
+            "poster_path": "/yiW2L1fDiBT7AeWXrykhTNtPrr8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                10751,
+                14
+            ],
+            "popularity": 9.1573,
+            "release_date": "2003-07-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.055,
+            "vote_count": 2263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d1i6oB5xdo2a7sOmjprCcElqlrD.jpg",
+            "id": 730840,
+            "title": "Trollhunters: Rise of the Titans",
+            "original_title": "Trollhunters: Rise of the Titans",
+            "overview": "The Guardians of Arcadia reunite to battle the nefarious Arcane Order, who've reawakened the primordial Titans.",
+            "poster_path": "/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                14,
+                10751,
+                28,
+                12
+            ],
+            "popularity": 5.1337,
+            "release_date": "2021-07-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.547,
+            "vote_count": 365
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+            "id": 420818,
+            "title": "The Lion King",
+            "original_title": "The Lion King",
+            "overview": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
+            "poster_path": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                18,
+                10751,
+                16
+            ],
+            "popularity": 20.6785,
+            "release_date": "2019-07-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.095,
+            "vote_count": 10834
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s1aCCFPCRl4Zw2EBHLGK1dAHs1L.jpg",
+            "id": 41216,
+            "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+            "original_title": "Legend of the Guardians: The Owls of Ga'Hoole",
+            "overview": "When a young owl is abducted by an evil Owl army, he must escape with new-found friends and seek the legendary Guardians to stop the menace.",
+            "poster_path": "/qweKCtPdnIP2uGp1PgWZyCV7gzj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "popularity": 8.194,
+            "release_date": "2010-07-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.835,
+            "vote_count": 2526
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rUIRJsgOFhWMcHIfjAmYSsfZUzk.jpg",
+            "id": 2712,
+            "title": "Jacob",
+            "original_title": "Jacob",
+            "overview": "Isaac's son Jacob deprives his brother Esau of his birthright and has to flee for his life. He finds shelter with his uncle Laban, but is himself deceived. Finally, Jacob has to face both his uncle and brother.",
+            "poster_path": "/bmwFf3fMgBKqtiST5sQ7wapeLFB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                18,
+                10770
+            ],
+            "popularity": 2.1952,
+            "release_date": "1994-12-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.733,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+            "id": 8587,
+            "title": "The Lion King",
+            "original_title": "The Lion King",
+            "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+            "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                18
+            ],
+            "popularity": 37.9453,
+            "release_date": "1994-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.253,
+            "vote_count": 19935
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gLkP3ozL8B0VNTDj1wctrWQqy9b.jpg",
+            "id": 2331,
+            "title": "Jesus",
+            "original_title": "Jesus",
+            "overview": "Jesus, a carpenter living a simple life, discovers his destiny as the biblical Messiah.",
+            "poster_path": "/aMP6I5YTj3DWdb3n6yENzidIfmF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                18,
+                10770
+            ],
+            "popularity": 3.6798,
+            "release_date": "1999-12-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.786,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mr2LvZydvor6CDZhrpJLRYMCcBc.jpg",
+            "id": 1181107,
+            "title": "The King of Kings",
+            "original_title": "The King of Kings",
+            "overview": "Charles Dickens tells his young son Walter the greatest story ever told, and what begins as a bedtime tale becomes a life-changing journey. Through vivid imagination, the boy walks alongside Jesus, witnessing His miracles, facing His trials, and understanding His ultimate sacrifice.",
+            "poster_path": "/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                16,
+                10751,
+                14
+            ],
+            "popularity": 5.3664,
+            "release_date": "2025-04-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 205
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j4zVW7xqw3OdhjcqEyKgtDpiKJf.jpg",
+            "id": 84092,
+            "title": "Ramayana : The Legend of Prince Rama",
+            "original_title": "Ramayana : The Legend of Prince Rama",
+            "overview": "In Ayodhya, the royal palace of Kosala Kingdom in Ancient India, four princes were born to three queens, each of whom grew to great stature. Banished for 14 years due to court intrigue, Prince Rama retreated to the forest with his beautiful wife Sita. When Rama vanquishes the demons of the forest, he invites the wrath of the demon king Ravana, who kidnaps Sita. Based on the Indian epic the Ramayana.",
+            "poster_path": "/jnwUw88Zq5tS0BFNvDwhISQ7p8Y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14
+            ],
+            "popularity": 4.8659,
+            "release_date": "1993-01-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.193,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3UPdg8QO6CF5UqmOIJoLKhRM6e.jpg",
+            "id": 59981,
+            "title": "Legends of Oz: Dorothy's Return",
+            "original_title": "Legends of Oz: Dorothy's Return",
+            "overview": "Dorothy wakes in post-tornado Kansas, only to be whisked back to Oz to try to save her old friends, the Scarecrow, the Lion, the Tin Man, and Glinda, from a devious new villain, the Jester. New comrades Wiser the Owl, Marshal Mallow, China Princess, and Tugg the Tugboat join Dorothy on her latest magical journey through the colorful landscape of Oz to restore order and happiness to Emerald City.",
+            "poster_path": "/5XiNCjFudNX0Wj5LanPuIb8E9pU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "popularity": 3.8004,
+            "release_date": "2014-05-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.268,
+            "vote_count": 379
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zRHVwKp1rwevnf9HRP2UVhXgdNp.jpg",
+            "id": 16873,
+            "title": "Battle for Terra",
+            "original_title": "Battle for Terra",
+            "overview": "A peaceful alien planet faces annihilation, as the homeless remainder of the human race sets its eyes on Terra. Mala, a rebellious Terrian teenager, will do everything she can to stop it.",
+            "poster_path": "/iAcPYIsYwFqAyY7KctWkkdkJGhI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878
+            ],
+            "popularity": 3.3512,
+            "release_date": "2007-09-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.122,
+            "vote_count": 311
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qKiozNdotJKrfP7KZ6D0lRl3TMG.jpg",
+            "id": 2734,
+            "title": "David",
+            "original_title": "David",
+            "overview": "A distinguished military leader whose reign was touched by great scandal, shocking betrayals and rousing victories. A simple shepherd boy chosen to be king, under the watchful eyes of prophet Samuel.",
+            "poster_path": "/2g0M8OAAOevrCAPKfBVUBR9Woxx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                18,
+                10770
+            ],
+            "popularity": 2.9214,
+            "release_date": "1997-03-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.568,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/re3ZvlKJg04iLpLRf1xTKHS2wLU.jpg",
+            "id": 537061,
+            "title": "Steven Universe: The Movie",
+            "original_title": "Steven Universe: The Movie",
+            "overview": "Two years after bringing peace to the galaxy, Steven Universe sees his past come back to haunt him in the form of a deranged Gem who wants to destroy the Earth.",
+            "poster_path": "/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10770,
+                16,
+                10751,
+                12,
+                14
+            ],
+            "popularity": 7.746,
+            "release_date": "2019-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 870
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg",
+            "id": 877269,
+            "title": "Strange World",
+            "original_title": "Strange World",
+            "overview": "A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades—a family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.",
+            "poster_path": "/a9x70QUXs6uEwtin1SGNKoFXoia.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                14,
+                878
+            ],
+            "popularity": 10.8902,
+            "release_date": "2022-11-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.224,
+            "vote_count": 1443
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q8Cv8NcUDoa4H3JTsmZPei4oz9I.jpg",
+            "id": 33201,
+            "title": "Jeremiah",
+            "original_title": "Jeremiah",
+            "overview": "The young Jeremiah grows up in a priest's family in the village of Anathoth, near Jerusalem. God appears to Jeremiah in different human guises on several occasions, and makes it clear that he has been selected to announce God's message to the people of Jerusalem.",
+            "poster_path": "/3QeItnMubKWCs7geoxbqQConXXM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                18,
+                10770
+            ],
+            "popularity": 2.2646,
+            "release_date": "1998-12-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.872,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6xBqZoj40gIAyLSuemwI38c6OID.jpg",
+            "id": 2525,
+            "title": "The Bible: In the Beginning...",
+            "original_title": "The Bible: In the Beginning...",
+            "overview": "Covering only the first 22 chapters of the Book of Genesis, vignettes include: Adam and Eve frolicking in the Garden of Eden until their indulgence in the forbidden fruit sees them driven out; Cain murdering his brother Abel; Noah building an ark to preserve the animals of the world from the coming flood; and Abraham making a covenant with God.",
+            "poster_path": "/2BtesvzFQJYFS2sPVVbUdet0TTC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                36,
+                18
+            ],
+            "popularity": 4.2902,
+            "release_date": "1966-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.319,
+            "vote_count": 293
+        }
+    ]
+}

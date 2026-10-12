@@ -1,0 +1,724 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/1ug5vAtWFZdak94BnzZ1m2mb7h5.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 313534,
+        "imdb_id": "tt4096762",
+        "origin_country": [
+            "BR"
+        ],
+        "original_language": "pt",
+        "original_title": "Nova Dubai",
+        "overview": "In a middle-class neighbourhood in a city in the countryside of Brazil, the real estate speculation is a menace to the affective memory of a group of friends. Their answer to this imminent transformation is to fuck in the construction sites. And what about love? Is love just a construction?",
+        "popularity": 12.5668,
+        "poster_path": "/6muPGyLRhu7tiGnLt5msDqBVknR.jpg",
+        "production_companies": [
+            {
+                "id": 37100,
+                "logo_path": null,
+                "name": "Avoa Filmes",
+                "origin_country": "BR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "release_date": "2014-10-23",
+        "revenue": 0,
+        "runtime": 50,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "New Dubai",
+        "video": false,
+        "vote_average": 6.167,
+        "vote_count": 12
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1380641,
+            "known_for_department": "Directing",
+            "name": "Gustavo Vinagre",
+            "original_name": "Gustavo Vinagre",
+            "popularity": 0.5301,
+            "profile_path": "/oO1lBDUpnexKM05Q1jJtfTAfGuo.jpg",
+            "cast_id": 1,
+            "character": "Gustavo",
+            "credit_id": "5cebef809251414398bb8393",
+            "order": 0
+        },
+        {
+            "adult": true,
+            "gender": 0,
+            "id": 2069600,
+            "known_for_department": "Acting",
+            "name": "Bruno D'Ugo",
+            "original_name": "Bruno D'Ugo",
+            "popularity": 0.0,
+            "profile_path": null,
+            "cast_id": 2,
+            "character": "Bruno",
+            "credit_id": "5cebef8e925141522bbd84e6",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2322713,
+            "known_for_department": "Acting",
+            "name": "Hugo Guimarães",
+            "original_name": "Hugo Guimarães",
+            "popularity": 0.6454,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "Hugo",
+            "credit_id": "5cebefacc3a3685a161f0548",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2322714,
+            "known_for_department": "Acting",
+            "name": "Fernando Maia",
+            "original_name": "Fernando Maia",
+            "popularity": 0.4229,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "Fernando",
+            "credit_id": "5cebefbdc3a36858da1f0656",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1173153,
+            "known_for_department": "Writing",
+            "name": "Caetano Gotardo",
+            "original_name": "Caetano Gotardo",
+            "popularity": 0.4801,
+            "profile_path": "/30av2J9kXuGoVBxVFFDLirTBa1u.jpg",
+            "cast_id": 5,
+            "character": "Estate agent",
+            "credit_id": "5cebefce0e0a261bf2cd9e36",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2322715,
+            "known_for_department": "Acting",
+            "name": "Daniel Prates",
+            "original_name": "Daniel Prates",
+            "popularity": 0.6187,
+            "profile_path": null,
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "5cebefda0e0a266683cf631a",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1989897,
+            "known_for_department": "Directing",
+            "name": "Herman Barck",
+            "original_name": "Herman Barck",
+            "popularity": 0.4897,
+            "profile_path": null,
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "5cebefe80e0a264fd1cac9a8",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2322716,
+            "known_for_department": "Acting",
+            "name": "Marta Vinagre",
+            "original_name": "Marta Vinagre",
+            "popularity": 0.4768,
+            "profile_path": null,
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "5cebeff492514175e8bd87f2",
+            "order": 7
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1400577,
+            "known_for_department": "Camera",
+            "name": "Matheus da Rocha Pereira",
+            "original_name": "Matheus da Rocha Pereira",
+            "popularity": 0.6147,
+            "profile_path": null,
+            "credit_id": "6173c711a217c0006251f346",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1380641,
+            "known_for_department": "Directing",
+            "name": "Gustavo Vinagre",
+            "original_name": "Gustavo Vinagre",
+            "popularity": 0.5301,
+            "profile_path": "/oO1lBDUpnexKM05Q1jJtfTAfGuo.jpg",
+            "credit_id": "54b6a661c3a3686c6b000146",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1511716,
+            "known_for_department": "Editing",
+            "name": "Rodrigo Carneiro",
+            "original_name": "Rodrigo Carneiro",
+            "popularity": 0.2601,
+            "profile_path": "/whCKgNsQ16pjTED855sgMZWDUaP.jpg",
+            "credit_id": "5cebf06bc3a368547f23eeef",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1356089,
+            "known_for_department": "Art",
+            "name": "Fernando Zuccolotto",
+            "original_name": "Fernando Zuccolotto",
+            "popularity": 0.2687,
+            "profile_path": null,
+            "credit_id": "5cebf0830e0a265cded77493",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1380641,
+            "known_for_department": "Directing",
+            "name": "Gustavo Vinagre",
+            "original_name": "Gustavo Vinagre",
+            "popularity": 0.5301,
+            "profile_path": "/oO1lBDUpnexKM05Q1jJtfTAfGuo.jpg",
+            "credit_id": "5cebf01f925141522bbd857f",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1356084,
+            "known_for_department": "Production",
+            "name": "Max Eluard",
+            "original_name": "Max Eluard",
+            "popularity": 0.5954,
+            "profile_path": null,
+            "credit_id": "5cebf0360e0a261bbbcf7377",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1277862,
+            "known_for_department": "Sound",
+            "name": "Jonathan Macías",
+            "original_name": "Jonathan Macías",
+            "popularity": 0.3216,
+            "profile_path": null,
+            "credit_id": "5cebf0980e0a261bbbcf7473",
+            "department": "Sound",
+            "job": "Sound Editor"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 6054,
+            "name": "friendship"
+        },
+        {
+            "id": 236,
+            "name": "suicide"
+        },
+        {
+            "id": 6078,
+            "name": "politics"
+        },
+        {
+            "id": 18314,
+            "name": "internet porn"
+        },
+        {
+            "id": 158718,
+            "name": "lgbt"
+        },
+        {
+            "id": 179867,
+            "name": "real estate"
+        },
+        {
+            "id": 238059,
+            "name": "gay erotica"
+        },
+        {
+            "id": 250606,
+            "name": "queer"
+        },
+        {
+            "id": 258533,
+            "name": "gay theme"
+        },
+        {
+            "id": 323678,
+            "name": "gay  hardcore"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/2ndw55F40IkALzWyjCCza3M6nqM.jpg",
+            "id": 14,
+            "title": "American Beauty",
+            "original_title": "American Beauty",
+            "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+            "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 17.4616,
+            "release_date": "1999-09-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.998,
+            "vote_count": 13204
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/81Rf7XnNEP4ttNbAl2zQRWOt9eY.jpg",
+            "id": 33245,
+            "title": "It's My Party",
+            "original_title": "It's My Party",
+            "overview": "Nick, a gay, HIV-positive architect, begins to display severe symptoms of AIDS and makes preparations to kill himself before he is unable to function normally. He arranges a party to reconnect and say goodbye to his closest friends and his confused parents. But when his ex-partner, Brandon, a television director who left Nick when he was diagnosed with HIV, shows up, what was supposed to be a celebratory event becomes much more difficult for everyone.",
+            "poster_path": "/ltrjg99gc3bA3P5E6WaIbGMxWHS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.7867,
+            "release_date": "1996-03-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.239,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zrms2WPltCxTPoiNFNPtTih6NMf.jpg",
+            "id": 940139,
+            "title": "Here",
+            "original_title": "Here",
+            "overview": "An odyssey through time and memory, centered on a place in New Jersey where—from wilderness, and then, later, from a home—love, loss, struggle, hope and legacy play out between couples and families over generations.",
+            "poster_path": "/79euHUJJtfgeGU63ef38KtNjXEn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.0816,
+            "release_date": "2024-10-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 698
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e47cvCgbZogOyKXSenT9aqCDhe8.jpg",
+            "id": 127517,
+            "title": "Disconnect",
+            "original_title": "Disconnect",
+            "overview": "A hard-working lawyer, attached to his cell phone, can't find the time to communicate with his family. An estranged couple uses the internet as a means to escape from their lifeless marriage. A widowed ex-cop struggles to raise a mischievous son who cyber-bullies a classmate. An ambitious journalist sees a career-making story in a teen that performs on an adult-only site. They are strangers, neighbors and colleagues and their stories collide as ordinary people struggling to connect in today's wired world.",
+            "poster_path": "/mAStXq4ncbLBnujd3LG4KDd7Z3a.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "popularity": 3.624,
+            "release_date": "2013-04-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.069,
+            "vote_count": 1235
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aiM9lOmC9W3QY3NfjKAm77RgmNT.jpg",
+            "id": 439976,
+            "title": "Pretty Boy",
+            "original_title": "Pretty Boy",
+            "overview": "Sean is taken to a motel and is given a prostitute for his 18th birthday by his father. He must sleep with her to \"fix\" his questionable homosexuality.  \"Pretty Boy\" is a coming of age story of a young bullied teen, Sean, struggling with his sexuality and the hardships of high school. After his father finds some questionable magazines in his room, this devout Christian will go to any lengths to get his son to find the light and \"perform\" the way a man should. Sean is introduced to Katie, a prostitute that understands the stigmas of modern society and helps him see the true light that is within him.",
+            "poster_path": "/asliDGk3CBBWkVDJYkFERGrxyz3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.9489,
+            "release_date": "2015-03-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.587,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3RqArFlgVq2LV7kz2OKl3tQijSq.jpg",
+            "id": 552269,
+            "title": "Joe Bell",
+            "original_title": "Joe Bell",
+            "overview": "The true story of a small town, working class father who embarks on a solo walk across the U.S. to crusade against bullying after his son is tormented in high school for being gay.",
+            "poster_path": "/9HfQD60w6f6PPkfdiI6ipJSw0bD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.9628,
+            "release_date": "2020-09-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.489,
+            "vote_count": 267
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+            "id": 376867,
+            "title": "Moonlight",
+            "original_title": "Moonlight",
+            "overview": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.",
+            "poster_path": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 11.3592,
+            "release_date": "2016-10-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.355,
+            "vote_count": 7614
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hrchlLkjT0ejyp7tWIprCZxRHm.jpg",
+            "id": 390584,
+            "title": "King Cobra",
+            "original_title": "King Cobra",
+            "overview": "It’s 2006, YouTube is in its infancy, and internet porn is still behind a paywall. Taking the stage name Brent Corrigan, a fresh-faced, wannabe adult video performer is molded into a star by Stephen, a closeted gay porn mogul who runs the skin flick empire Cobra Video from his seemingly ordinary suburban home.",
+            "poster_path": "/sEun5y2q3aIrmpIAAhtS9G2JwH0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "popularity": 3.4817,
+            "release_date": "2016-10-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.857,
+            "vote_count": 488
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9ZlQnt9YwoWRUlYOlDfQNMfGWA2.jpg",
+            "id": 26630,
+            "title": "Shank",
+            "original_title": "Shank",
+            "overview": "Teenage gang member Cal, hides his sexuality from his fellow gang members despite their often violent dislike of anyone that isn't the same as them, be they unsuspecting shoppers, foreign students, gays, etc. When his world collides with Olivier, a student he rescues from a pointless beating, he encounters a lifestyle that presents as many new experiences as it does obstacles.",
+            "poster_path": "/c9xtOtEGHcANKEByorTLxcKNE8y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28
+            ],
+            "popularity": 3.5034,
+            "release_date": "2009-04-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.971,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9BrhCgffilZPr3VOnDAKP9vBrU1.jpg",
+            "id": 21634,
+            "title": "Prayers for Bobby",
+            "original_title": "Prayers for Bobby",
+            "overview": "Bobby Griffith was his mother's favorite son, the perfect all-American boy growing up under deeply religious influences in Walnut Creek, California. Bobby was also gay. Struggling with a conflict no one knew of, much less understood, Bobby finally came out to his family.",
+            "poster_path": "/1viFwXluAettogGDsTrSUUg29lZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                36,
+                10770
+            ],
+            "popularity": 3.211,
+            "release_date": "2009-01-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.077,
+            "vote_count": 643
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rKOzBCXwtRtkLpDQOyCcNvDS0qo.jpg",
+            "id": 35796,
+            "title": "Lawn Dogs",
+            "original_title": "Lawn Dogs",
+            "overview": "In the affluent, gated community of Camelot Gardens, bored wives indiscriminately sleep around while their unwitting husbands try desperately to climb the social ladder. Trent, a 21-year-old outsider who mows the neighborhood lawns, quietly observes the infidelities and hypocrisies of this overly privileged society. When Devon, a 10-year-old daughter from one family, forges a friendship with Trent, things suddenly get very complicated.",
+            "poster_path": "/hNi2M5Z7GUEaSCPjt66yavLlsqV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 7.2883,
+            "release_date": "1997-11-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.115,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mlBmnjDJfsAhvqRVc2aFOjsfh8M.jpg",
+            "id": 458220,
+            "title": "Palmer",
+            "original_title": "Palmer",
+            "overview": "After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together—and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie's past threatens to ruin his new life and family.",
+            "poster_path": "/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 7.7263,
+            "release_date": "2021-01-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.121,
+            "vote_count": 1945
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kyx15eUlLQy7HHm8HRuvi9QagO8.jpg",
+            "id": 317744,
+            "title": "Careful What You Wish For",
+            "original_title": "Careful What You Wish For",
+            "overview": "A guy gets more than he bargained for after entering into an affair with the wife of an investment banker. Soon, a suspicious death and substantial life insurance policy embroil him in a scandal.",
+            "poster_path": "/alRvln4lzGjdSExC37vr1spSTF7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "popularity": 4.0093,
+            "release_date": "2015-05-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.126,
+            "vote_count": 440
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xq41fcgtkJgorfMPNseNY9lZ25i.jpg",
+            "id": 300153,
+            "title": "Life",
+            "original_title": "Life",
+            "overview": "In 1955, young photographer Dennis Stock develops a close bond with actor James Dean while shooting pictures of the rising Hollywood star.",
+            "poster_path": "/aT6joQI1aOHDFvQst7gFJkIhN6N.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4185,
+            "release_date": "2015-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.979,
+            "vote_count": 376
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/diF927vBIYi1uQxVpdx7W7wUuIr.jpg",
+            "id": 159389,
+            "title": "TalhotBlond",
+            "original_title": "TalhotBlond",
+            "overview": "Thomas Montgomery, a married father of two young daughters, gets seduced by the world of online gambling and chat rooms where a virtual romance and sexual obsession ultimately leads to the murder of an innocent man.",
+            "poster_path": "/3FF9YFuVvh5t393NxfME47wxqrZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "popularity": 3.003,
+            "release_date": "2012-06-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bMKGU5HFHPvg67ybbNXnBvpFEp0.jpg",
+            "id": 500840,
+            "title": "I'm Thinking of Ending Things",
+            "original_title": "I'm Thinking of Ending Things",
+            "overview": "Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.",
+            "poster_path": "/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                53,
+                18
+            ],
+            "popularity": 5.1021,
+            "release_date": "2020-08-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.533,
+            "vote_count": 2239
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jDgaKZG5KfEMKYmxt6G3mpKBfo6.jpg",
+            "id": 42497,
+            "title": "Pink Narcissus",
+            "original_title": "Pink Narcissus",
+            "overview": "An outrageous erotic poem focusing on the daydreams of a beautiful boy prostitute who, from the seclusion of his ultra-kitsch apartment, conceives a series of interlinked narcissistic fantasies populated by matadors, dancing boys, slaves, and leather-clad bikers.",
+            "poster_path": "/kaZiiGE6820KyFF9XkzPB9Rx9qn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                18
+            ],
+            "popularity": 2.3918,
+            "release_date": "1971-05-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.226,
+            "vote_count": 62
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+            "id": 1292415,
+            "title": "Beast",
+            "original_title": "Beast",
+            "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+            "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 24.9366,
+            "release_date": "2026-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cqRtRIiG7CeUOZioclZzxnMBzPX.jpg",
+            "id": 12221,
+            "title": "Two Drifters",
+            "original_title": "Odete",
+            "overview": "After breaking up with her boyfriend, a woman named Odete descends into madness and claims to be pregnant with the child of her neighbour Pedro, who died in a car crash and is mourned by his boyfriend Rui.",
+            "poster_path": "/1JiLP1UuluW12k10asgdWeO6uyV.jpg",
+            "media_type": "movie",
+            "original_language": "pt",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4576,
+            "release_date": "2005-05-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.179,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1wX0Xgs316QapQXjmqrAY9UixgN.jpg",
+            "id": 227156,
+            "title": "The Giver",
+            "original_title": "The Giver",
+            "overview": "In a seemingly perfect community, without war, pain, suffering, differences or choice, a young boy is chosen to learn from an elderly man about the true pain and pleasure of the \"real\" world.",
+            "poster_path": "/dul62Av4pgi5x8LP7ELHzNyka9Z.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "popularity": 9.253,
+            "release_date": "2014-08-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.557,
+            "vote_count": 4675
+        }
+    ]
+}

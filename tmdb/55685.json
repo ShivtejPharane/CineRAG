@@ -1,0 +1,976 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/A7FKjE6jZyCnQRd4bOo7Yo0czLh.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 55685,
+        "imdb_id": "tt0077191",
+        "origin_country": [
+            "IT"
+        ],
+        "original_language": "it",
+        "original_title": "Avere vent'anni",
+        "overview": "Lia and Tina are two beautiful girls who meet and realize that they have a lot in common. They are both young, beautiful and pissed off, so they decide to hitchhike their way to Rome to find Nazariota's commune, a place to stay for free and have all the sex they want... or so they think. Things don't go as they have planned though, and soon they become involved in prostitution, the police and an aggressive gang.",
+        "popularity": 11.3111,
+        "poster_path": "/6QXcWnq8Ln0uypX9y1e3r1wEpF.jpg",
+        "production_companies": [
+            {
+                "id": 73556,
+                "logo_path": null,
+                "name": "International Daunia Film",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "1978-07-14",
+        "revenue": 0,
+        "runtime": 94,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "To Be Twenty",
+        "video": false,
+        "vote_average": 5.815,
+        "vote_count": 92
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 227317,
+            "known_for_department": "Acting",
+            "name": "Gloria Guida",
+            "original_name": "Gloria Guida",
+            "popularity": 3.1467,
+            "profile_path": "/3h6Qwrp1OOhtUWTka4MhclTOvTa.jpg",
+            "cast_id": 3,
+            "character": "Lia",
+            "credit_id": "52fe48dbc3a36847f817d031",
+            "order": 0
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 132571,
+            "known_for_department": "Acting",
+            "name": "Lilli Carati",
+            "original_name": "Lilli Carati",
+            "popularity": 0.0,
+            "profile_path": "/otzEL3PTZn7MAzmqMGbtjEiaafo.jpg",
+            "cast_id": 4,
+            "character": "Tina",
+            "credit_id": "52fe48dbc3a36847f817d035",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 105337,
+            "known_for_department": "Acting",
+            "name": "Ray Lovelock",
+            "original_name": "Ray Lovelock",
+            "popularity": 0.7347,
+            "profile_path": "/uZQa8foSrVLnTaBc3oQflriMawl.jpg",
+            "cast_id": 5,
+            "character": "Rico",
+            "credit_id": "52fe48dbc3a36847f817d039",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 129065,
+            "known_for_department": "Acting",
+            "name": "Vincenzo Crocitti",
+            "original_name": "Vincenzo Crocitti",
+            "popularity": 0.8219,
+            "profile_path": "/lCm3NVqO3I70y4IybUqhc3ONSAi.jpg",
+            "cast_id": 6,
+            "character": "Riccetto",
+            "credit_id": "52fe48dbc3a36847f817d03d",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 41161,
+            "known_for_department": "Acting",
+            "name": "Giorgio Bracardi",
+            "original_name": "Giorgio Bracardi",
+            "popularity": 0.4399,
+            "profile_path": "/gbcklNBKDoRmALRGoHns4SJuHez.jpg",
+            "cast_id": 7,
+            "character": "Commissario Maresciallo Zambo",
+            "credit_id": "52fe48dbc3a36847f817d041",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 128142,
+            "known_for_department": "Acting",
+            "name": "Leopoldo Mastelloni",
+            "original_name": "Leopoldo Mastelloni",
+            "popularity": 0.4732,
+            "profile_path": "/fZ9Ze7yKUboHroesvC1HGrxWDcz.jpg",
+            "cast_id": 8,
+            "character": "Arguinas",
+            "credit_id": "52fe48dbc3a36847f817d045",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 240911,
+            "known_for_department": "Camera",
+            "name": "Roberto Reale",
+            "original_name": "Roberto Reale",
+            "popularity": 0.3129,
+            "profile_path": null,
+            "cast_id": 9,
+            "character": "Leader of Delinquents",
+            "credit_id": "5782e975c3a36862ae002f41",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1144300,
+            "known_for_department": "Acting",
+            "name": "Serena Bennato",
+            "original_name": "Serena Bennato",
+            "popularity": 0.8682,
+            "profile_path": "/A6vRb2J2heXDsWp5x2WMpIBNRBT.jpg",
+            "cast_id": 10,
+            "character": "Lesbian car driver",
+            "credit_id": "5782e989c3a368611f003150",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 39020,
+            "known_for_department": "Acting",
+            "name": "Daniele Vargas",
+            "original_name": "Daniele Vargas",
+            "popularity": 1.0545,
+            "profile_path": "/fb5Qgqt8I4i0tNjAEcEsGemiMwl.jpg",
+            "cast_id": 11,
+            "character": "Affatati",
+            "credit_id": "5782e996c3a3680d30000494",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11223,
+            "known_for_department": "Acting",
+            "name": "Vittorio Caprioli",
+            "original_name": "Vittorio Caprioli",
+            "popularity": 0.8417,
+            "profile_path": "/9N1v5ihkkOcuH9gBIEtfItpXjHK.jpg",
+            "cast_id": 12,
+            "character": "Nazariota",
+            "credit_id": "5782e9a6c3a3680dd4000410",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 127816,
+            "known_for_department": "Acting",
+            "name": "Licinia Lentini",
+            "original_name": "Licinia Lentini",
+            "popularity": 0.5825,
+            "profile_path": "/5hovebsWxE1ptKks5MwxDR6vQHV.jpg",
+            "cast_id": 13,
+            "character": "Lesbian Woman",
+            "credit_id": "5782e9ef92514171a2003037",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 101333,
+            "known_for_department": "Acting",
+            "name": "Daniela Doria",
+            "original_name": "Daniela Doria",
+            "popularity": 0.6881,
+            "profile_path": "/ja9Ly4HRhYCntYGeykW9cRm1lAJ.jpg",
+            "cast_id": 14,
+            "character": "Patrizia",
+            "credit_id": "5782ea02c3a36861df0030a5",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 240915,
+            "known_for_department": "Acting",
+            "name": "Raul Lovecchio",
+            "original_name": "Raul Lovecchio",
+            "popularity": 0.5602,
+            "profile_path": null,
+            "cast_id": 15,
+            "character": "Vice-commissioner",
+            "credit_id": "5782ea0f925141739700044f",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 123911,
+            "known_for_department": "Acting",
+            "name": "Fernando Cerulli",
+            "original_name": "Fernando Cerulli",
+            "popularity": 0.3962,
+            "profile_path": "/1ndcO8hGmFDiS1gazT69TyzmJQv.jpg",
+            "cast_id": 16,
+            "character": "Retired Civil Servant",
+            "credit_id": "5782ea1f925141720d0030a2",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1648433,
+            "known_for_department": "Acting",
+            "name": "Camillo Chiara",
+            "original_name": "Camillo Chiara",
+            "popularity": 0.1686,
+            "profile_path": null,
+            "cast_id": 17,
+            "character": "",
+            "credit_id": "5782ea3bc3a3680d300004e0",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1203321,
+            "known_for_department": "Acting",
+            "name": "Flora Carosello",
+            "original_name": "Flora Carosello",
+            "popularity": 0.4894,
+            "profile_path": "/1PmBBcMZBKLO8kSHdqOIoG6kz9t.jpg",
+            "cast_id": 18,
+            "character": "Maid of Professor Affatati",
+            "credit_id": "5782ea56c3a3680dac00053c",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 49892,
+            "known_for_department": "Directing",
+            "name": "Fernando Di Leo",
+            "original_name": "Fernando Di Leo",
+            "popularity": 1.0092,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "Man Giving Directions",
+            "credit_id": "5782ea70c3a3685c84002cc9",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 101607,
+            "known_for_department": "Acting",
+            "name": "Cindy Leadbetter",
+            "original_name": "Cindy Leadbetter",
+            "popularity": 0.4338,
+            "profile_path": null,
+            "cast_id": 34,
+            "character": "Blonde Lesbian in Car (uncredited)",
+            "credit_id": "64e96af190ea4b013b830513",
+            "order": 17
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 49892,
+            "known_for_department": "Directing",
+            "name": "Fernando Di Leo",
+            "original_name": "Fernando Di Leo",
+            "popularity": 1.0092,
+            "profile_path": null,
+            "credit_id": "52fe48dbc3a36847f817d027",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 49892,
+            "known_for_department": "Directing",
+            "name": "Fernando Di Leo",
+            "original_name": "Fernando Di Leo",
+            "popularity": 1.0092,
+            "profile_path": null,
+            "credit_id": "52fe48dbc3a36847f817d02d",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1632426,
+            "known_for_department": "Sound",
+            "name": "Roberto Alberghini",
+            "original_name": "Roberto Alberghini",
+            "popularity": 0.3199,
+            "profile_path": null,
+            "credit_id": "6119b6494a0b19005c17f299",
+            "department": "Sound",
+            "job": "Sound"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 49892,
+            "known_for_department": "Directing",
+            "name": "Fernando Di Leo",
+            "original_name": "Fernando Di Leo",
+            "popularity": 1.0092,
+            "profile_path": null,
+            "credit_id": "597487bcc3a3685dba012101",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 33812,
+            "known_for_department": "Production",
+            "name": "Lamberto Palmieri",
+            "original_name": "Lamberto Palmieri",
+            "popularity": 0.3722,
+            "profile_path": null,
+            "credit_id": "5974885692514106a800c362",
+            "department": "Production",
+            "job": "Production Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1024748,
+            "known_for_department": "Art",
+            "name": "Francesco Cuppini",
+            "original_name": "Francesco Cuppini",
+            "popularity": 0.266,
+            "profile_path": null,
+            "credit_id": "5974881192514106a800c30e",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1856587,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Silvana Petri",
+            "original_name": "Silvana Petri",
+            "popularity": 0.2669,
+            "profile_path": null,
+            "credit_id": "5974883b92514158430147cd",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 240923,
+            "known_for_department": "Editing",
+            "name": "Amedeo Giomini",
+            "original_name": "Amedeo Giomini",
+            "popularity": 0.3818,
+            "profile_path": null,
+            "credit_id": "597487ed92514157f7014af4",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1639049,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Lamberto Marini",
+            "original_name": "Lamberto Marini",
+            "popularity": 0.3656,
+            "profile_path": null,
+            "credit_id": "5974881ec3a3685dba012162",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1014912,
+            "known_for_department": "Production",
+            "name": "Vittorio Squillante",
+            "original_name": "Vittorio Squillante",
+            "popularity": 0.4422,
+            "profile_path": null,
+            "credit_id": "597487cbc3a36842c200c848",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1024748,
+            "known_for_department": "Art",
+            "name": "Francesco Cuppini",
+            "original_name": "Francesco Cuppini",
+            "popularity": 0.266,
+            "profile_path": null,
+            "credit_id": "597487f9c3a3685ded0143e2",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1792629,
+            "known_for_department": "Art",
+            "name": "Angeluccio Maccarinelli",
+            "original_name": "Angeluccio Maccarinelli",
+            "popularity": 0.1987,
+            "profile_path": null,
+            "credit_id": "5974880592514157ec0148d3",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1632135,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Corrado Cristofori",
+            "original_name": "Corrado Cristofori",
+            "popularity": 0.3545,
+            "profile_path": null,
+            "credit_id": "5974882ac3a3685da401410e",
+            "department": "Costume & Make-Up",
+            "job": "Hairstylist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1571354,
+            "known_for_department": "Production",
+            "name": "Renato Fiè",
+            "original_name": "Renato Fiè",
+            "popularity": 0.336,
+            "profile_path": null,
+            "credit_id": "5974884992514157fb0145e4",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 21540,
+            "known_for_department": "Sound",
+            "name": "Franco Campanino",
+            "original_name": "Franco Campanino",
+            "popularity": 0.2731,
+            "profile_path": null,
+            "credit_id": "597487d79251415836014788",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21233,
+            "known_for_department": "Camera",
+            "name": "Roberto Gerardi",
+            "original_name": "Roberto Gerardi",
+            "popularity": 0.4382,
+            "profile_path": null,
+            "credit_id": "597487e292514157fb014584",
+            "department": "Camera",
+            "job": "Director of Photography"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 570,
+            "name": "rape"
+        },
+        {
+            "id": 131,
+            "name": "italy"
+        },
+        {
+            "id": 2412,
+            "name": "commune"
+        },
+        {
+            "id": 2804,
+            "name": "exploitation"
+        },
+        {
+            "id": 11534,
+            "name": "sexual violence"
+        },
+        {
+            "id": 10726,
+            "name": "gang"
+        },
+        {
+            "id": 13059,
+            "name": "prostitution"
+        },
+        {
+            "id": 15055,
+            "name": "kissing"
+        },
+        {
+            "id": 170827,
+            "name": "sex comedy"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/gi15b6N5cI0NqdWO6KpxqFasw02.jpg",
+            "id": 55580,
+            "title": "P.O. Box Tinto Brass",
+            "original_title": "Fermo posta Tinto Brass",
+            "overview": "A successful erotic film producer from Rome regularly receives letters from female fans seeking his advice on how to spice up their sex lives. Thanks to his years of experience in both the film business and the sex industry, he has all sorts of tips at the ready and, in an emergency, is happy to make a house call himself to demonstrate his qualities in person.",
+            "poster_path": "/oGC1ByDVsAjPo8W3G078EYpvBWi.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 3.3846,
+            "release_date": "1995-08-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3q6XHCXII7qRZOx5EqU5NfYkVx8.jpg",
+            "id": 20914,
+            "title": "My Friends",
+            "original_title": "Amici miei",
+            "overview": "Four inseparable friends try to face their midlife crisis with daytrips and pranks at the expense of their families and the people around them.",
+            "poster_path": "/efQiC7hEXa6Vbn05FwNQoB8yGqX.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 3.9785,
+            "release_date": "1975-10-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.112,
+            "vote_count": 752
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gjTun1nZni1KkA24ewyTKInLpTf.jpg",
+            "id": 27088,
+            "title": "The Last American Virgin",
+            "original_title": "The Last American Virgin",
+            "overview": "The friendship of a group of young friends struggling with teen sex, drugs, and work is jeopardized by a romantic interest which may turn pals into bitter rivals.",
+            "poster_path": "/ttGdSGgYDUGnPpJNyG2qGs4cd3C.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 4.1499,
+            "release_date": "1982-06-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.611,
+            "vote_count": 256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yJsgsM2f6HmfR9I1vTpqjmgD836.jpg",
+            "id": 11624,
+            "title": "Everything You Always Wanted to Know About Sex *But Were Afraid to Ask",
+            "original_title": "Everything You Always Wanted to Know About Sex *But Were Afraid to Ask",
+            "overview": "A collection of seven vignettes, which each address a question concerning human sexuality. From aphrodisiacs to sexual perversion to the mystery of the male orgasm, characters like a court jester, a doctor, a queen and a journalist adventure through lab experiments and game shows, all seeking answers to common questions that many would never ask.",
+            "poster_path": "/A1ZNhNd8FV8kCW39OeDelokT0tv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 3.6275,
+            "release_date": "1972-08-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.523,
+            "vote_count": 1007
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uh1zf6Q0UcHaqWQXZXu1qOOSCRg.jpg",
+            "id": 692,
+            "title": "Pink Flamingos",
+            "original_title": "Pink Flamingos",
+            "overview": "Notorious Baltimore criminal and underground figure Divine goes up against Connie & Raymond Marble, a sleazy married couple who make a passionate attempt to humiliate her and seize her tabloid-given title as \"The Filthiest Person Alive\".",
+            "poster_path": "/10N8SvTQwUqyWgocPam1P18Jgr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 6.4501,
+            "release_date": "1972-03-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.124,
+            "vote_count": 573
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pmUHC8IsRJsCEyggnNdbGnqeu6V.jpg",
+            "id": 14166,
+            "title": "Pretty Persuasion",
+            "original_title": "Pretty Persuasion",
+            "overview": "A 15-year-old girl incites chaos among her friends and a media frenzy when she accuses her drama teacher of sexual harassment.",
+            "poster_path": "/oTbmRS9OBqACIlgRkTqHIc1n6lO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 4.545,
+            "release_date": "2005-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.832,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z3tAdLDRWqoMgtl349aStimMtIs.jpg",
+            "id": 17006,
+            "title": "I'm Gonna Git You Sucka",
+            "original_title": "I'm Gonna Git You Sucka",
+            "overview": "Jack Spade returns from the army in his old ghetto neighbourhood when his brother, June Bug, dies. Jack declares war on Mr. Big, powerful local crimelord. His army is led by John Slade, his childhood idol who used to fight bad guys in the 70s.",
+            "poster_path": "/s92HcoJmUHGvZ6o5RvIQjemzMap.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                28,
+                80
+            ],
+            "popularity": 3.5016,
+            "release_date": "1988-11-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 219
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t25z4ggC2Uvs3EhI66lxVO2jDp5.jpg",
+            "id": 1280672,
+            "title": "One of Them Days",
+            "original_title": "One of Them Days",
+            "overview": "Best friends and roommates Dreux and Alyssa are about to have One of Them Days. When they discover Alyssa’s boyfriend has blown their rent money, the duo finds themselves going to extremes in a comical race against the clock to avoid eviction and keep their friendship intact.",
+            "poster_path": "/ccn6bFUA5DECjA3Lo0CuJqGNQCv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 4.6865,
+            "release_date": "2025-01-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.687,
+            "vote_count": 302
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5wHcVeMuUNlgQ2JvN0bVQ4sSDeM.jpg",
+            "id": 28339,
+            "title": "Hard to Die",
+            "original_title": "Hard to Die",
+            "overview": "While doing the inventory for a lingerie outlet in a high rise office building, five attractive women are terrorized by a series of bizarre killings. They suspect that the strange janitor, who witnessed another series of killings six months previously, is at the bottom of the whole thing. Little do they know the real horror that they face in the end.",
+            "poster_path": "/sQPdz28o3LmEaknwwnKB8zqqIYF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "popularity": 7.986,
+            "release_date": "1990-10-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.058,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v3OBPtCS4iHOGKNBwiO22QFfMQ1.jpg",
+            "id": 11936,
+            "title": "City of Women",
+            "original_title": "La città delle donne",
+            "overview": "The charismatic Snaporaz encounters an alluring woman on a train and pursues her through a forest. He ends up at a hotel populated by women gathered for a feminist conference, where he is an unwanted presence. Snaporaz soon discovers he’s entered a phantasmagoric world where women have taken power.",
+            "poster_path": "/hSX2YnpQebGlw5ljNlr1jnNSt5q.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "popularity": 2.6236,
+            "release_date": "1980-03-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.949,
+            "vote_count": 296
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pPzl3ae97wcU72yDE9PDl4qq446.jpg",
+            "id": 14262,
+            "title": "Desperate Living",
+            "original_title": "Desperate Living",
+            "overview": "After killing her husband, Peggy Gravel and her murderous maid Grizelda wind up in the crazy town of Mortville, where Queen Carlotta presides over a sleazy collection of misfits.",
+            "poster_path": "/kqEZ1CbxtrXtpAT1jeYfo52um3s.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 4.9553,
+            "release_date": "1977-05-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.347,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lroojUACXVHdnjVYQXgts5IhqGr.jpg",
+            "id": 71552,
+            "title": "American Reunion",
+            "original_title": "American Reunion",
+            "overview": "The characters we met a little more than a decade ago return to East Great Falls for their high school reunion. In one long-overdue weekend, they will discover what has changed, who hasn’t, and that time and distance can’t break the bonds of friendship.",
+            "poster_path": "/de5QBIdVR4dnkBZ4a0zjkS4lTg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 9.4218,
+            "release_date": "2012-04-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.313,
+            "vote_count": 4760
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sCKmDHLISohzL4EDfApRVDttsEB.jpg",
+            "id": 999582,
+            "title": "Babes",
+            "original_title": "Babes",
+            "overview": "After getting pregnant from a one-night stand, a single woman leans on her married best friend and mother of two to guide her through gestation and beyond.",
+            "poster_path": "/1Cg4G1iQpisGXmWqns5uo4I6fPk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 4.6264,
+            "release_date": "2024-03-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eGqZyH83bQ1x5MKD5SggEfarPa.jpg",
+            "id": 44741,
+            "title": "Malicious",
+            "original_title": "Malizia",
+            "overview": "A widower and two of his sons become infatuated by their beautiful housekeeper, and all three set out to seduce her using their own unique methods.",
+            "poster_path": "/sQ5SHelVqiHeZstf30O0cTdflwv.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 7.8016,
+            "release_date": "1973-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.331,
+            "vote_count": 367
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xdKzEzW6yWBd7RS69e9xzOgFnpI.jpg",
+            "id": 14269,
+            "title": "Polyester",
+            "original_title": "Polyester",
+            "overview": "Blessed with a keen sense of smell and cursed with a philandering pornographer husband, a parasitic mother, and a pair of delinquent children, the long-suffering Francine Fishpaw turns to the bottle as her life falls apart -- until deliverance appears in the form of a hunk named Todd Tomorrow. Originally screened with \"Odorama\" scratch and sniff cards so the audience could (at their own risk) smell along with the film.",
+            "poster_path": "/14RfMqOe8eF17bUajPsy4HtRsVC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 5.6365,
+            "release_date": "1981-05-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.023,
+            "vote_count": 195
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8cAtMxn5unNCpuVQ318d4Uf4jUl.jpg",
+            "id": 308024,
+            "title": "The Overnight",
+            "original_title": "The Overnight",
+            "overview": "Alex, Emily, and their son, RJ, are new to Los Angeles. A chance meeting at the park introduces them to the mysterious Kurt, Charlotte, and Max. A family “playdate” becomes increasingly interesting as the night goes on.",
+            "poster_path": "/8DDEGc6vifxxYdkym3G99AMlITG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                35
+            ],
+            "popularity": 3.7036,
+            "release_date": "2015-06-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.946,
+            "vote_count": 364
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/utsFSjBd6Ai56BwFB8s80S1a9bC.jpg",
+            "id": 14267,
+            "title": "Female Trouble",
+            "original_title": "Female Trouble",
+            "overview": "Teenage delinquent Dawn Davenport, incensed after her parents do not give her the cha-cha heels she wanted for Christmas, runs away from home. After an illegitimate child and hairstylist husband bring her more misery, she's enticed into a life of crime when the owners of her husband's salon promise her fame and fortune.",
+            "poster_path": "/cqhIufhoORDMuFKEinV1IIYUBxD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 2.3343,
+            "release_date": "1976-02-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 234
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5FFpcmPzD5mhLom7bymZq7Py8eT.jpg",
+            "id": 862551,
+            "title": "Me Time",
+            "original_title": "Me Time",
+            "overview": "With his family away, a devoted stay-at-home dad enjoys his first me time in years by joining his hard-partying old friend on a wild birthday adventure.",
+            "poster_path": "/bkjPoisqAavXUvtoirxTEcLLQyI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 6.5792,
+            "release_date": "2022-08-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.846,
+            "vote_count": 1044
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5XeSSkjxmXaLmnLWTyeuihDWx14.jpg",
+            "id": 13532,
+            "title": "Fanboys",
+            "original_title": "Fanboys",
+            "overview": "In 1999, Star Wars fanatics take a cross-country trip to George Lucas' Skywalker Ranch so their dying friend can see a screening of The Phantom Menace before its release.",
+            "poster_path": "/fitksX4J3xfBjT38YgDUXOlBkHk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                35,
+                80
+            ],
+            "popularity": 4.4433,
+            "release_date": "2009-02-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.148,
+            "vote_count": 910
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b4zuUZ1VJVb6wljjUEGJEwSYz1k.jpg",
+            "id": 455236,
+            "title": "Accident Man",
+            "original_title": "Accident Man",
+            "overview": "Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.",
+            "poster_path": "/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                12,
+                35
+            ],
+            "popularity": 5.4111,
+            "release_date": "2018-02-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 605
+        }
+    ]
+}

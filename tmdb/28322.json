@@ -1,0 +1,720 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "https://cataz.my/",
+        "id": 28322,
+        "imdb_id": "tt0080075",
+        "origin_country": [
+            "IT"
+        ],
+        "original_language": "it",
+        "original_title": "Vacanze per un massacro",
+        "overview": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
+        "popularity": 13.9669,
+        "poster_path": "/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
+        "production_companies": [
+            {
+                "id": 4786,
+                "logo_path": null,
+                "name": "Midia Cinematografica",
+                "origin_country": "IT"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "1980-03-20",
+        "revenue": 0,
+        "runtime": 89,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Madness",
+        "video": false,
+        "vote_average": 5.265,
+        "vote_count": 34
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 29915,
+            "known_for_department": "Acting",
+            "name": "Joe Dallesandro",
+            "original_name": "Joe Dallesandro",
+            "popularity": 1.1219,
+            "profile_path": "/dtLU66GGm6Lis5ZMrseT0qei2Ii.jpg",
+            "cast_id": 6,
+            "character": "Joe Brezzi",
+            "credit_id": "52fe458bc3a368484e0617dd",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 100420,
+            "known_for_department": "Acting",
+            "name": "Patrizia Behn",
+            "original_name": "Patrizia Behn",
+            "popularity": 0.4945,
+            "profile_path": null,
+            "cast_id": 7,
+            "character": "Liliana",
+            "credit_id": "52fe458bc3a368484e0617e1",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 38762,
+            "known_for_department": "Acting",
+            "name": "Gianni Macchia",
+            "original_name": "Gianni Macchia",
+            "popularity": 0.6004,
+            "profile_path": "/ysecXVh8vo4USlM1ExfkE0XlA7W.jpg",
+            "cast_id": 8,
+            "character": "Sergio",
+            "credit_id": "52fe458bc3a368484e0617e5",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 101577,
+            "known_for_department": "Acting",
+            "name": "Lorraine De Selle",
+            "original_name": "Lorraine De Selle",
+            "popularity": 1.3558,
+            "profile_path": "/jVmkHcu5DjKuPDhqqWBmZSw4A8g.jpg",
+            "cast_id": 9,
+            "character": "Paola",
+            "credit_id": "52fe458bc3a368484e0617e9",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 119370,
+            "known_for_department": "Acting",
+            "name": "Omero Capanna",
+            "original_name": "Omero Capanna",
+            "popularity": 0.5596,
+            "profile_path": "/kM9AC6ZSU1q2RIdgDJWKFvuAAbd.jpg",
+            "cast_id": 14,
+            "character": "Killed Cardriver",
+            "credit_id": "584f06b59251410700001bc7",
+            "order": 4
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 49892,
+            "known_for_department": "Directing",
+            "name": "Fernando Di Leo",
+            "original_name": "Fernando Di Leo",
+            "popularity": 1.0092,
+            "profile_path": null,
+            "credit_id": "52fe458bc3a368484e0617c1",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 49892,
+            "known_for_department": "Directing",
+            "name": "Fernando Di Leo",
+            "original_name": "Fernando Di Leo",
+            "popularity": 1.0092,
+            "profile_path": null,
+            "credit_id": "52fe458bc3a368484e0617c7",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 100416,
+            "known_for_department": "Production",
+            "name": "Armando Novelli",
+            "original_name": "Armando Novelli",
+            "popularity": 0.5321,
+            "profile_path": null,
+            "credit_id": "52fe458bc3a368484e0617cd",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 100417,
+            "known_for_department": "Camera",
+            "name": "Enrico Lucidi",
+            "original_name": "Enrico Lucidi",
+            "popularity": 0.403,
+            "profile_path": null,
+            "credit_id": "52fe458bc3a368484e0617d3",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 66675,
+            "known_for_department": "Sound",
+            "name": "Luis Bacalov",
+            "original_name": "Luis Bacalov",
+            "popularity": 0.5559,
+            "profile_path": "/d9hYl7eX4KxIz4wZ9psdKjxmaSF.jpg",
+            "credit_id": "52fe458bc3a368484e0617d9",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 240923,
+            "known_for_department": "Editing",
+            "name": "Amedeo Giomini",
+            "original_name": "Amedeo Giomini",
+            "popularity": 0.3818,
+            "profile_path": null,
+            "credit_id": "584f06619251410702001b0c",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1024748,
+            "known_for_department": "Art",
+            "name": "Francesco Cuppini",
+            "original_name": "Francesco Cuppini",
+            "popularity": 0.266,
+            "profile_path": null,
+            "credit_id": "584f066f9251410700001b91",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1721957,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Carolina Ferrara",
+            "original_name": "Carolina Ferrara",
+            "popularity": 0.2718,
+            "profile_path": null,
+            "credit_id": "584f067b9251412e36000a1b",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1721958,
+            "known_for_department": "Directing",
+            "name": "Patrizia Zulini",
+            "original_name": "Patrizia Zulini",
+            "popularity": 0.3045,
+            "profile_path": null,
+            "credit_id": "584f06919251410711001bb8",
+            "department": "Directing",
+            "job": "Script Supervisor"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 570,
+            "name": "rape"
+        },
+        {
+            "id": 7118,
+            "name": "escaped convict"
+        },
+        {
+            "id": 9826,
+            "name": "murder"
+        },
+        {
+            "id": 14903,
+            "name": "home invasion"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/aEitmeLoFACS2hUEJSo1cDyWosn.jpg",
+            "id": 497814,
+            "title": "Breaking In",
+            "original_title": "Breaking In",
+            "overview": "Shaun Russell takes her son and daughter on a weekend getaway to her late father's secluded, high-tech vacation home in the countryside. The family soon gets an unwelcome surprise when four men break into the house to find hidden money. After managing to escape, Shaun must now figure out a way to turn the tables on the desperate thieves and save her captive children.",
+            "poster_path": "/nuCxJwcQOEKYoiHTgcf4em8TxWv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 9.1284,
+            "release_date": "2018-05-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.934,
+            "vote_count": 711
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+            "id": 808396,
+            "title": "God Is a Bullet",
+            "original_title": "God Is a Bullet",
+            "overview": "Vice detective Bob Hightower finds his ex-wife murdered and daughter kidnapped by a cult. Frustrated by the botched official investigations, he quits the force and infiltrates the cult to hunt down the leader with the help of the cult’s only female victim escapee, Case Hardin.",
+            "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80,
+                27
+            ],
+            "popularity": 4.6942,
+            "release_date": "2023-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6DSXmqDufJj30TDUkw6WngZffd.jpg",
+            "id": 216580,
+            "title": "Savaged",
+            "original_title": "Savaged",
+            "overview": "After thugs brutalize a deaf-mute woman, the spirit of an Apache warrior takes over her lifeless body and sets out on a bloodthirsty quest for revenge.",
+            "poster_path": "/bsPV6pXVDTAGbl4Tg4xWkm3Kkl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                27,
+                53
+            ],
+            "popularity": 3.3807,
+            "release_date": "2014-08-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.653,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jmE8wxLSS90K1K01mCBaS4rQq23.jpg",
+            "id": 601844,
+            "title": "Becky",
+            "original_title": "Becky",
+            "overview": "A teenager's weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.",
+            "poster_path": "/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27,
+                28
+            ],
+            "popularity": 4.7516,
+            "release_date": "2020-07-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.317,
+            "vote_count": 737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/89uw4vqgccd7UoojRJKMETtjk4x.jpg",
+            "id": 1079346,
+            "title": "5lbs of Pressure",
+            "original_title": "5lbs of Pressure",
+            "overview": "Fresh out of prison after serving time for murder, Adam returns to his old stomping grounds to seek out a son who doesn't know him. Eli, the brother of the man he killed is looking for revenge. Mike, is trying to escape a life of crime living under the thumb of his gangster Uncle.",
+            "poster_path": "/toEJOPYvM7Na0XwM8exg8aHq553.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                10749,
+                10770
+            ],
+            "popularity": 6.673,
+            "release_date": "2024-03-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.869,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jiW3TaZtpMQgMfVnMn5Nmciqhdv.jpg",
+            "id": 1530875,
+            "title": "All the Devils Are Here",
+            "original_title": "All the Devils Are Here",
+            "overview": "After a heist, four criminals lay low in a remote safehouse, waiting for orders. As paranoia builds, one thing becomes clear — the real threat may not be outside, but among them.",
+            "poster_path": "/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                9648
+            ],
+            "popularity": 4.2503,
+            "release_date": "2025-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.179,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zt6wgtlV6hXDr9tvi3uDJLoHrja.jpg",
+            "id": 136835,
+            "title": "No Good Deed",
+            "original_title": "No Good Deed",
+            "overview": "Terri is a devoted wife and mother of two, living an ideal suburban life in Atlanta when Colin, a charming but dangerous escaped convict, shows up at her door claiming car trouble. Terri offers her phone to help him but soon learns that no good deed goes unpunished as she finds herself fighting for survival when he invades her home and terrorizes her family.",
+            "poster_path": "/wcDLqCS70LsPcovieuQrb311Qr1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "popularity": 6.0734,
+            "release_date": "2014-09-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.944,
+            "vote_count": 693
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3mIVOqDbYeucnw09TpjgHvSjXfu.jpg",
+            "id": 300669,
+            "title": "Don't Breathe",
+            "original_title": "Don't Breathe",
+            "overview": "A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong.",
+            "poster_path": "/dSxHyPZ2nipSfvdft4IhQKjk5eZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "popularity": 10.6662,
+            "release_date": "2016-06-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.013,
+            "vote_count": 8066
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7al64Hp3RPaMNB5AWTdFH7RggnG.jpg",
+            "id": 13250,
+            "title": "Butterfly on a Wheel",
+            "original_title": "Butterfly on a Wheel",
+            "overview": "A sociopathic kidnapper methodically pushes a desperate pair of parents to their absolute breaking point.",
+            "poster_path": "/qcjjYcMaaSKD2C8xn0hy6o6yj2L.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "popularity": 3.5583,
+            "release_date": "2007-07-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.418,
+            "vote_count": 577
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
+            "id": 1598,
+            "title": "Cape Fear",
+            "original_title": "Cape Fear",
+            "overview": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
+            "poster_path": "/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "popularity": 14.2981,
+            "release_date": "1991-11-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.263,
+            "vote_count": 3957
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/43ZU7sKMdh7WFXgfuHntpPUh4Nf.jpg",
+            "id": 127521,
+            "title": "6 Bullets",
+            "original_title": "6 Bullets",
+            "overview": "An ex-mercenary known for finding missing children is hired by a mixed martial arts fighter whose daughter has been kidnapped.",
+            "poster_path": "/7yEbEUrOsAS0d5DW1OqtvSpmRQv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80
+            ],
+            "popularity": 3.6722,
+            "release_date": "2012-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.282,
+            "vote_count": 412
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5PuM2lWFRVLZbyzErGVd8qHi55p.jpg",
+            "id": 1165466,
+            "title": "Wake Up",
+            "original_title": "Wake Up",
+            "overview": "A group of young activists set out to make an environmental statement by vandalizing a home superstore as it closes. But their plan goes terribly wrong when they become trapped inside and must face a deranged security guard with a gruesome passion for primitive hunting. As the night fills with violence and terror, the teenagers find themselves in a desperate fight for their lives.",
+            "poster_path": "/erEAU7ygq2XFjziI3FpAdMajJFZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                28
+            ],
+            "popularity": 3.6166,
+            "release_date": "2024-05-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.712,
+            "vote_count": 144
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/PFJ2wNS3m5A85CFNPszc3bbDsc.jpg",
+            "id": 1075519,
+            "title": "The Locksmith",
+            "original_title": "The Locksmith",
+            "overview": "A thief fresh out of prison, tries to work his way back into the life of his daughter and ex-fiancé. Determined, he is forced to use the skills he has as a gifted locksmith. Things take a tumultuous turn after an unexpected disappearance.",
+            "poster_path": "/kNQ9Z3TQ5vU5fvwuHqZvLooFcCI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                9648,
+                28,
+                80,
+                18
+            ],
+            "popularity": 2.8876,
+            "release_date": "2023-02-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/114yPZmKgsQVTSt0BDx5WagBOvW.jpg",
+            "id": 18405,
+            "title": "The Last House on the Left",
+            "original_title": "The Last House on the Left",
+            "overview": "When athletic teen Mari Collingwood opts to hang out with her friend Paige in town rather than spend an evening in with her parents vacationing at the family's remote lake house, it marks the beginning of a night no one is going to forget.",
+            "poster_path": "/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53,
+                27,
+                18
+            ],
+            "popularity": 9.952,
+            "release_date": "2009-03-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.495,
+            "vote_count": 1984
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sRM4tKNCWekgwM4Dk9EvfSZ0iXB.jpg",
+            "id": 1128377,
+            "title": "In Cold Light",
+            "original_title": "In Cold Light",
+            "overview": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute.",
+            "poster_path": "/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "popularity": 4.1344,
+            "release_date": "2026-01-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.888,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aSglK0vFI50etQENUq4EIcwfoMR.jpg",
+            "id": 808023,
+            "title": "The Virtuoso",
+            "original_title": "The Virtuoso",
+            "overview": "Danger, deception and murder descend upon a sleepy town when a professional assassin accepts a new assignment from his enigmatic boss.",
+            "poster_path": "/ufFbnDMa1XNJxWYxlYv2jEPxUcD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                28
+            ],
+            "popularity": 5.4489,
+            "release_date": "2021-04-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.891,
+            "vote_count": 440
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a24i4Qw6qFTtkFLQsncv8WPwevj.jpg",
+            "id": 345887,
+            "title": "The Equalizer 2",
+            "original_title": "The Equalizer 2",
+            "overview": "Robert McCall, who serves an unflinching justice for the exploited and oppressed, embarks on a relentless, globe-trotting quest for vengeance when his former partner is murdered.",
+            "poster_path": "/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 13.8939,
+            "release_date": "2018-07-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.796,
+            "vote_count": 6076
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qKwDUtGsvzemb1JtOGXmj6L7vTs.jpg",
+            "id": 102362,
+            "title": "Dead Man Down",
+            "original_title": "Dead Man Down",
+            "overview": "In New York City, a crime lord's right-hand man is seduced by a woman seeking retribution.",
+            "poster_path": "/8xWo2WE36JdBwlCmwvXM4bb5rBg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80,
+                18
+            ],
+            "popularity": 6.1282,
+            "release_date": "2013-03-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.161,
+            "vote_count": 1577
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yZtnGzfZER0QU7ZG4r4RaZAaXJH.jpg",
+            "id": 1519168,
+            "title": "The Jester 2",
+            "original_title": "The Jester 2",
+            "overview": "When teen magician Max crosses paths with the sinister Jester on Halloween night, she must outsmart a supernatural killer whose magic is all too real and whose tricks always end up in blood.",
+            "poster_path": "/47dsw1jSOV0Be5zmy7CtLhYpqU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "popularity": 4.1593,
+            "release_date": "2025-09-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zDtVa8r0qbZIIyqSzvk2NvJUZyX.jpg",
+            "id": 33055,
+            "title": "Murphy's Law",
+            "original_title": "Murphy's Law",
+            "overview": "A tough police detective escapes from custody after being framed and arrested for the murder of his ex-wife, and must now find the real killer and prove his innocence.",
+            "poster_path": "/YqnhhLlv3ISBeIvN0zVO8cUWZe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 3.1769,
+            "release_date": "1986-04-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.113,
+            "vote_count": 177
+        }
+    ]
+}

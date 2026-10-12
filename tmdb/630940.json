@@ -1,0 +1,639 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/i0v24GyNcM1iWrexW13vCGZ0yz3.jpg",
+        "belongs_to_collection": {
+            "id": 1137660,
+            "name": "Female Teacher's Diary Collection",
+            "poster_path": "/uY4e89zrjp8TPJUfrOUeHzle2q5.jpg",
+            "backdrop_path": "/4fujdkEPgmRVEEYeUfcwytgmnkL.jpg"
+        },
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 630940,
+        "imdb_id": null,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_title": "女教師日記２　暴かれた性",
+        "overview": "Mari is a high school teacher who is earnest and somewhat cold. Tired of her monotonous days, she discovered a secret game: wandering around Roppongi at night and seducing men. She enjoys the pleasure of lewd acts with strangers and finds temporary peace. Her student Toshihiko, who happens to witness her nighttime appearance, is captivated by Mari's seductive figure before he knows it...",
+        "popularity": 12.4047,
+        "poster_path": "/rQSVn2kGbp15nQcbir2yLts0xqQ.jpg",
+        "production_companies": [
+            {
+                "id": 9221,
+                "logo_path": "/7hEAueutGnsQUyUGnp5zQ1YmCrO.png",
+                "name": "Toei Video Company",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "1996-06-13",
+        "revenue": 0,
+        "runtime": 82,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Jokyoshi Nikki 2 Abakareta Sei",
+        "video": false,
+        "vote_average": 9.3,
+        "vote_count": 6
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1792382,
+            "known_for_department": "Acting",
+            "name": "Rinko Mayumi",
+            "original_name": "真弓倫子",
+            "popularity": 1.7611,
+            "profile_path": "/jfGZO19LGXMkkMcKTYssEc1KDvB.jpg",
+            "cast_id": 2,
+            "character": "",
+            "credit_id": "5fbf350e6bdec3003b24c91b",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1814367,
+            "known_for_department": "Acting",
+            "name": "Ikki Ōsawa",
+            "original_name": "Ikki Ōsawa",
+            "popularity": 0.3261,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "5fbf352f6bdec3003d253f4c",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1407433,
+            "known_for_department": "Acting",
+            "name": "Ichiho Matsuda",
+            "original_name": "松田いちほ",
+            "popularity": 0.7122,
+            "profile_path": "/2ZYyGOpgQyiFEymMbtyznCpQCr4.jpg",
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "5fbf356d9f51af003fe6d333",
+            "order": 2
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2663517,
+            "known_for_department": "Directing",
+            "name": "Hiroaki Ito",
+            "original_name": "伊藤裕彰",
+            "popularity": 1.1448,
+            "profile_path": null,
+            "credit_id": "5fbf34b135c30a003e5839c7",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1736631,
+            "known_for_department": "Writing",
+            "name": "Yoshirō Oka",
+            "original_name": "岡芳郎",
+            "popularity": 0.9566,
+            "profile_path": null,
+            "credit_id": "5fd08450325a51003b71c810",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1599421,
+            "known_for_department": "Lighting",
+            "name": "Yukio Inoue",
+            "original_name": "井上幸男",
+            "popularity": 0.2262,
+            "profile_path": null,
+            "credit_id": "5fd08464325a51003d71c838",
+            "department": "Lighting",
+            "job": "Lighting Technician"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1695712,
+            "known_for_department": "Sound",
+            "name": "Tsutomu Honda",
+            "original_name": "本田孜",
+            "popularity": 0.3715,
+            "profile_path": null,
+            "credit_id": "5fd084a2f90b19003c8c2180",
+            "department": "Sound",
+            "job": "Sound Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 58445,
+            "known_for_department": "Editing",
+            "name": "Nobuyuki Takahashi",
+            "original_name": "高橋信之",
+            "popularity": 0.9947,
+            "profile_path": null,
+            "credit_id": "5fd084acd7cd06003d7ceddc",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 35633,
+            "known_for_department": "Sound",
+            "name": "Koji Endo",
+            "original_name": "遠藤浩二",
+            "popularity": 0.6891,
+            "profile_path": "/fAWne2KyTyCdQ8hruwsFJ7h25Qc.jpg",
+            "credit_id": "5fd084b2770700003f0a67e8",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1599755,
+            "known_for_department": "Sound",
+            "name": "Tadao Takakuwa",
+            "original_name": "高桑忠男",
+            "popularity": 0.6184,
+            "profile_path": null,
+            "credit_id": "5fd084d4e9c0dc003d373968",
+            "department": "Sound",
+            "job": "Music Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3733060,
+            "known_for_department": "Camera",
+            "name": "Yōichi Ogawa",
+            "original_name": "Yōichi Ogawa",
+            "popularity": 0.23,
+            "profile_path": null,
+            "credit_id": "68851d0c1600dcfb762463e2",
+            "department": "Camera",
+            "job": "Director of Photography"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 155477,
+            "name": "softcore"
+        },
+        {
+            "id": 230350,
+            "name": "female teacher"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/c0EGdtTBeYt6qAMQF49icl8l6fx.jpg",
+            "id": 345922,
+            "title": "Fist Fight",
+            "original_title": "Fist Fight",
+            "overview": "When one school teacher gets the other fired, he is challenged to an after-school fight.",
+            "poster_path": "/huRhv4IZDk2ds0DIDkI6uxdmb6J.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 11.1843,
+            "release_date": "2017-02-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.035,
+            "vote_count": 1327
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AkhWGmBaEAFMCALYT3Zr1FQhYnj.jpg",
+            "id": 414770,
+            "title": "Antiporno",
+            "original_title": "アンチポルノ",
+            "overview": "Kyôko, a traumatized young Japanese girl, finds herself struggling with her self-confidence in her adult life. Growing up in a family without her mother and her sister, she constantly questions the rationale of sex and the notion of liberty in modern Japanese society.",
+            "poster_path": "/cSvswZ64qtYsrwXyvkce2LJv4fZ.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "popularity": 3.669,
+            "release_date": "2017-01-28",
+            "softcore": true,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 446
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aw9laVPbAjucTAI9IxiZCnUBAXO.jpg",
+            "id": 106754,
+            "title": "Angel Guts: Red Classroom",
+            "original_title": "天使のはらわた 赤い教室",
+            "overview": "A porn magazine editor stumbles upon an amateur gang rape film and, struck by the girl's acting, decides to find her.",
+            "poster_path": "/jdyu91l3MGOXQaAbHBFVunU0gMM.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 5.9623,
+            "release_date": "1979-01-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.391,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g3L6tOvJIRWSkxnhmoEW1SKEvW3.jpg",
+            "id": 5879,
+            "title": "In the Realm of the Senses",
+            "original_title": "愛のコリーダ",
+            "overview": "A passionate telling of the story of Sada Abe, a woman whose affair with her master led to an obsessive and ultimately destructive sexual relationship.",
+            "poster_path": "/AiFQbgjgSXWPfbi9iIYT39iXWMW.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 12.1789,
+            "release_date": "1976-09-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.596,
+            "vote_count": 744
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yetPav6Lpo30pl8RE5jaXFCgsIa.jpg",
+            "id": 15802,
+            "title": "Tokyo Decadence",
+            "original_title": "トパーズ",
+            "overview": "A submissive hooker goes about her trade, suffering abuse at the hands of Japanese salarymen and Yakuza types. She's unhappy about her work, and is apparently trying to find some sort of appeasement for the fact that her lover has married.",
+            "poster_path": "/ya3HsnwavmtQYMxnGS5T5RV6do0.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 8.8268,
+            "release_date": "1992-01-06",
+            "softcore": true,
+            "video": false,
+            "vote_average": 5.969,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2gR4hjE2atX7rwVm3pxtHKlTSx.jpg",
+            "id": 128136,
+            "title": "My Awkward Sexual Adventure",
+            "original_title": "My Awkward Sexual Adventure",
+            "overview": "A hyper-repressed and schlubby accountant (Jonas Chernick) strikes a deal with a worldly but disorganized stripper (Emily Hampshire): he'll help her with her crushing debt if she helps him become a better lover.",
+            "poster_path": "/mLFXD0GrJhrRlvNpWbmecEiRADy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "popularity": 2.3364,
+            "release_date": "2012-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.725,
+            "vote_count": 367
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g16gB5MVOSGWW5k3yMbYpAvS9Qf.jpg",
+            "id": 15402,
+            "title": "The Notorious Bettie Page",
+            "original_title": "The Notorious Bettie Page",
+            "overview": "Bettie Page grew up in a conservative religious family in Tennessee and became a photo model sensation in 1950s New York. Bettie's legendary pin-up photos made her the target of a Senate investigation into pornography, and transformed her into an erotic icon who continues to enthrall fans to this day.",
+            "poster_path": "/jRzcb9O8WdGmJdz8EESEaBEuZZJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 2.8165,
+            "release_date": "2006-04-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.295,
+            "vote_count": 190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ePplQTFby7PCg0A7VBVM6DEYWq2.jpg",
+            "id": 53765,
+            "title": "Mr. Jealousy",
+            "original_title": "Mr. Jealousy",
+            "overview": "After his first date at age 15 ended with the girl making out with another man at a party, aspiring writer Lester Grimm has treated all his girlfriends with jealousy and suspicion. While dating Ramona Ray, paranoia gets the best of him when he discovers that her most recent ex is successful novelist Dashiell Frank. Lester begins attending the same group therapy sessions as Dashiell to learn about Ramona's past with him.",
+            "poster_path": "/eHKAQTwZOIzUvqz4pZ3Tj6JX3K1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 2.4857,
+            "release_date": "1998-06-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.865,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u4huTFYxr1hgrtmRq1Jj7wDicgi.jpg",
+            "id": 548066,
+            "title": "Level 16",
+            "original_title": "Level 16",
+            "overview": "The teenage girls of Vestalis Academy are meticulously trained in the art of being “clean girls,” practicing the virtues of perfect femininity. But what exactly are they being trained for? Vivien intends to find out.",
+            "poster_path": "/glVIjhLmzmgtppLWb3lvnoPljGW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "popularity": 4.657,
+            "release_date": "2018-02-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.74,
+            "vote_count": 745
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3oAmqJxMqOgmnEhoOP3swpOUwzC.jpg",
+            "id": 758330,
+            "title": "Good Luck to You, Leo Grande",
+            "original_title": "Good Luck to You, Leo Grande",
+            "overview": "Nancy Stokes, a retired schoolteacher, is pretty sure she has never had good sex. Now that her husband has died, she is determined to take a tour of sexual vistas that until now she has only imagined. She even has a plan; it involves an anonymous hotel room, and a sex worker who calls himself Leo Grande.",
+            "poster_path": "/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 18.7658,
+            "release_date": "2022-06-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.99,
+            "vote_count": 700
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/plbid03OmJkBd6UoOulKPexRq0I.jpg",
+            "id": 175168,
+            "title": "Rape Zombie: Lust of the Dead",
+            "original_title": "レイプゾンビ LUST OF THE DEAD",
+            "overview": "After a nuclear attack in Tokyo, the female population is attacked by infected males who have become sex-crazed zombies, hungry for human flesh. Officeworker Momoko and nurse Nozomi seek shelter in a Shinto Shrine, where they meet housewife Kanae and school girl Tamae. With no choices left to them, the group of girls decides to take a stand and arm themselves with assault rifles and explosives to fight off hordes of horny zombies. What is the secret to killing the zombies for good?",
+            "poster_path": "/fyiGTyzQV3vcuwEAoOFRmoT2L1m.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                35,
+                27
+            ],
+            "popularity": 4.8312,
+            "release_date": "2012-07-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.405,
+            "vote_count": 259
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f7H0215XAgJqgdn6MyGOx6tMnB9.jpg",
+            "id": 159667,
+            "title": "Molly Maxwell",
+            "original_title": "Molly Maxwell",
+            "overview": "At Phoenix Progressive School, students take notes lying on parlor couches and are encouraged to explore their gifts through electives like break-dancing and graphic-novel writing. In the midst of all this liberal pedagogy and budding talent, Molly Maxwell feels unexceptional, until she falls for her attractive English teacher, Ben.",
+            "poster_path": "/x0sIALqTCCN4cUT44H1vUwK2T6p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 1.3979,
+            "release_date": "2013-01-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fRpJYkNkd6gKguUVVM8JpN6khbQ.jpg",
+            "id": 77805,
+            "title": "Lovelace",
+            "original_title": "Lovelace",
+            "overview": "Story of Linda Lovelace, who is used and abused by the porn industry at the behest of her coercive husband, before taking control of her life.",
+            "poster_path": "/ibt7chnBsaDbE6ZVwyneuZwYfsC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 8.9547,
+            "release_date": "2013-08-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.015,
+            "vote_count": 776
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/khvSmyqkTndJ39GH36phq0p8ncI.jpg",
+            "id": 276844,
+            "title": "The Little Death",
+            "original_title": "The Little Death",
+            "overview": "A comedy film that looks into the loosely connected lives of people with strange sexual fantasies.",
+            "poster_path": "/wH15YYgBT9ZX37nFkSQ0OM8qjCE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "popularity": 4.4061,
+            "release_date": "2014-06-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.71,
+            "vote_count": 543
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w8j0HVX7xasNVGAva2T3W4ncoN4.jpg",
+            "id": 1338799,
+            "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie",
+            "original_title": "劇場版総集編 呪術廻戦 懐玉・玉折",
+            "overview": "Pursued by a religious cult and other curse users, former friends Satoru Gojo and Suguru Geto are the only sorcerers capable of carrying the difficult task of protecting Riko Amanai, a student who has been designated to be sacrificed as the Star Plasma Vessel, until she can fulfill her duty.",
+            "poster_path": "/kZkyr1sRzarENrxjtltPvmHRrTk.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "popularity": 4.6282,
+            "release_date": "2025-05-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.622,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hH7p7r2yn6AhckdEW7Z5MNMsWFP.jpg",
+            "id": 85398,
+            "title": "A Thousand and One Nights",
+            "original_title": "千夜一夜物語",
+            "overview": "Aldin, a vagabond water vendor, embarks of a series of fantastical and tragic misadventures through the Middle East in search of love, fortune, and power.",
+            "poster_path": "/tjBg2W3UCxZIr5SnXyfgs9rTUqd.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                18,
+                14,
+                27
+            ],
+            "popularity": 3.8141,
+            "release_date": "1969-06-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/syUZZtXNsmOnApAGCyjKF3aKfn0.jpg",
+            "id": 403310,
+            "title": "HK: Hentai Kamen 2 - Abnormal Crisis",
+            "original_title": "HK 変態仮面　アブノーマル・クライシス",
+            "overview": "News about the disappearance of panties is still being covered every day. Kyosuke still wears Aiko Completo's panties to battle evil. Meanwhile, Aiko has mixed emotions and decides to get her panties back. Kyosuke suffers from the loss of Aiko's panties and disappears, but his biggest enemy yet is about to materialise.",
+            "poster_path": "/mvLYHpJCFK0gur7mlrLMA8z2a9F.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "popularity": 3.1452,
+            "release_date": "2016-05-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.234,
+            "vote_count": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pYUwk30i62GN8gcKeQTuzdZGxHk.jpg",
+            "id": 527660,
+            "title": "Yes, God, Yes",
+            "original_title": "Yes, God, Yes",
+            "overview": "Alice, a young innocent Catholic girl, is tempted into masturbating after an AOL chat suddenly turns sexual, however is conflicted as the act would be considered a sin.",
+            "poster_path": "/69SYznq2mSbgKyQF3QHYwblmqAk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "popularity": 6.7294,
+            "release_date": "2020-07-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 606
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+            "id": 337167,
+            "title": "Fifty Shades Freed",
+            "original_title": "Fifty Shades Freed",
+            "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+            "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 21.7635,
+            "release_date": "2018-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.67,
+            "vote_count": 8405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sub8lPQRZ28WzN8ggUtsH0R1bno.jpg",
+            "id": 14424,
+            "title": "Sex and Death 101",
+            "original_title": "Sex and Death 101",
+            "overview": "A guy's life is turned around by an email, which includes the names of everyone he's had sex with and ever will have sex with. His situation gets worse when he encounters a femme fatale who targets men guilty of sex crime.",
+            "poster_path": "/yLWdM3znzRCqEbxYWXpSJNNu3fe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "popularity": 4.2602,
+            "release_date": "2007-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.143,
+            "vote_count": 311
+        }
+    ]
+}

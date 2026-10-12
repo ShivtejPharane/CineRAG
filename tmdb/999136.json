@@ -1,0 +1,943 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/8zyQbsmMlXfLkcctjNz5YZZwpkw.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 999136,
+        "imdb_id": "tt3515878",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Do Not Enter",
+        "overview": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a legendary hidden treasure.",
+        "popularity": 16.9619,
+        "poster_path": "/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg",
+        "production_companies": [
+            {
+                "id": 22876,
+                "logo_path": null,
+                "name": "Suretone Pictures",
+                "origin_country": ""
+            },
+            {
+                "id": 1632,
+                "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                "name": "Lionsgate",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2026-03-19",
+        "revenue": 0,
+        "runtime": 91,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Getting in is hard, getting out is hell.",
+        "title": "Do Not Enter",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 291
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1688664,
+            "known_for_department": "Acting",
+            "name": "Francesca Reale",
+            "original_name": "Francesca Reale",
+            "popularity": 1.6963,
+            "profile_path": "/9qqCNZUR1rYzwP81NzXOw3ecGeV.jpg",
+            "cast_id": 5,
+            "character": "Cora",
+            "credit_id": "62f012f2cee2f60082954998",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1504947,
+            "known_for_department": "Acting",
+            "name": "Nicholas Hamilton",
+            "original_name": "Nicholas Hamilton",
+            "popularity": 1.1309,
+            "profile_path": "/6XB730yU5XKJfEhV5W2zV8B9Fmh.jpg",
+            "cast_id": 7,
+            "character": "Tod",
+            "credit_id": "62f0132377e1f600824c7b79",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2168270,
+            "known_for_department": "Acting",
+            "name": "Adeline Rudolph",
+            "original_name": "Adeline Rudolph",
+            "popularity": 3.3054,
+            "profile_path": "/sWjjm53MeVrpQH2dxtFD3gfEt3v.jpg",
+            "cast_id": 4,
+            "character": "Diane",
+            "credit_id": "62f012e6813cb600923a529a",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1300650,
+            "known_for_department": "Acting",
+            "name": "Jake Manley",
+            "original_name": "Jake Manley",
+            "popularity": 1.5901,
+            "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+            "cast_id": 3,
+            "character": "Rick",
+            "credit_id": "62f012c4cee2f6007a8d7a94",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1684130,
+            "known_for_department": "Acting",
+            "name": "Shane Paul McGhie",
+            "original_name": "Shane Paul McGhie",
+            "popularity": 0.9904,
+            "profile_path": "/xrW5ioE8lihmmuu1ov1wWBpOWYp.jpg",
+            "cast_id": 18,
+            "character": "Vernon",
+            "credit_id": "6984edf977378b5fa16e78c2",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 111090,
+            "known_for_department": "Acting",
+            "name": "Javier Botet",
+            "original_name": "Javier Botet",
+            "popularity": 1.384,
+            "profile_path": "/nuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg",
+            "cast_id": 8,
+            "character": "Pale Creature",
+            "credit_id": "62f01331cee2f600829549ab",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1699967,
+            "known_for_department": "Acting",
+            "name": "Laurence O'Fuarain",
+            "original_name": "Laurence O'Fuarain",
+            "popularity": 0.9228,
+            "profile_path": "/5r4Lp5xvDN0icYD1h85fAmMakG9.jpg",
+            "cast_id": 6,
+            "character": "Balenger",
+            "credit_id": "62f0131485b105007df0a147",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1590221,
+            "known_for_department": "Acting",
+            "name": "Brennan Keel Cook",
+            "original_name": "Brennan Keel Cook",
+            "popularity": 0.8682,
+            "profile_path": "/b0NxheUvSB4zoll1Glj3uMhvB3N.jpg",
+            "cast_id": 15,
+            "character": "Mack",
+            "credit_id": "62f01575f1b57100820d3b80",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 79498,
+            "known_for_department": "Acting",
+            "name": "Kai Caster",
+            "original_name": "Kai Caster",
+            "popularity": 0.7893,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "JD",
+            "credit_id": "62f0135ea1074b007e184922",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5988918,
+            "known_for_department": "Acting",
+            "name": "Cat Shank",
+            "original_name": "Cat Shank",
+            "popularity": 0.1828,
+            "profile_path": null,
+            "cast_id": 21,
+            "character": "Beth",
+            "credit_id": "6984efb4c43a59b9a94f6ad2",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6085780,
+            "known_for_department": "Acting",
+            "name": "Svilena Nikolova",
+            "original_name": "Svilena Nikolova",
+            "popularity": 0.1907,
+            "profile_path": null,
+            "cast_id": 32,
+            "character": "Amanda",
+            "credit_id": "69be07fbac77a2e80ba3db02",
+            "order": 10
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 45928,
+            "known_for_department": "Directing",
+            "name": "Marc Klasfeld",
+            "original_name": "Marc Klasfeld",
+            "popularity": 0.6955,
+            "profile_path": "/rh5MTdjDgmxhnvVKrYwjmgbT18R.jpg",
+            "credit_id": "62cd765b4c1bb0004df23018",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 16545,
+            "known_for_department": "Writing",
+            "name": "David Morrell",
+            "original_name": "David Morrell",
+            "popularity": 0.0,
+            "profile_path": "/7qROomgiNAvmm0EWzb8y7fJ6fXy.jpg",
+            "credit_id": "62cd7649fd4a960f4da643b5",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3343718,
+            "known_for_department": "Production",
+            "name": "Richard Brickell",
+            "original_name": "Richard Brickell",
+            "popularity": 0.2532,
+            "profile_path": null,
+            "credit_id": "62f014fba1074b007e184962",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5914,
+            "known_for_department": "Production",
+            "name": "Mary Vernieu",
+            "original_name": "Mary Vernieu",
+            "popularity": 1.4229,
+            "profile_path": "/z37Cmn0MJdWCSC8ydkyoseiYUYk.jpg",
+            "credit_id": "62f015357d5504007e4b7dcb",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 954932,
+            "known_for_department": "Production",
+            "name": "Jordan Schur",
+            "original_name": "Jordan Schur",
+            "popularity": 0.4546,
+            "profile_path": null,
+            "credit_id": "62f01452813cb6007b33c0e8",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1084879,
+            "known_for_department": "Camera",
+            "name": "Yon Thomas",
+            "original_name": "Yon Thomas",
+            "popularity": 0.2754,
+            "profile_path": null,
+            "credit_id": "6544fab21ac29200abd81db3",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 20355,
+            "known_for_department": "Writing",
+            "name": "Stephen Susco",
+            "original_name": "Stephen Susco",
+            "popularity": 0.7663,
+            "profile_path": "/9D7iZlnWKEUMH2bh26pKVCh01rr.jpg",
+            "credit_id": "66a172434ee7f9f0eddd7bbd",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4639736,
+            "known_for_department": "Writing",
+            "name": "Spencer Mandel",
+            "original_name": "Spencer Mandel",
+            "popularity": 0.3677,
+            "profile_path": null,
+            "credit_id": "6984ef619efb497a05999757",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2797206,
+            "known_for_department": "Directing",
+            "name": "Dikega Hadnot",
+            "original_name": "Dikega Hadnot",
+            "popularity": 0.3002,
+            "profile_path": null,
+            "credit_id": "6984ef6ba387e4e0a76e7988",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3343719,
+            "known_for_department": "Production",
+            "name": "JoJo Chehebar",
+            "original_name": "JoJo Chehebar",
+            "popularity": 0.2281,
+            "profile_path": null,
+            "credit_id": "6984f03bcfadc40d9e1a29ee",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1350260,
+            "known_for_department": "Production",
+            "name": "Denitza Daverova",
+            "original_name": "Denitza Daverova",
+            "popularity": 0.3421,
+            "profile_path": null,
+            "credit_id": "6984f04600f6b0ad109d1bb5",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5988920,
+            "known_for_department": "Production",
+            "name": "Viet Do",
+            "original_name": "Viet Do",
+            "popularity": 0.2229,
+            "profile_path": null,
+            "credit_id": "6984f06606ce432a831a2882",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 65816,
+            "known_for_department": "Production",
+            "name": "David Hillary",
+            "original_name": "David Hillary",
+            "popularity": 0.5214,
+            "profile_path": null,
+            "credit_id": "6984f08a5999bbe9fb9997bb",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3343730,
+            "known_for_department": "Production",
+            "name": "Vikram Singh Lamba",
+            "original_name": "Vikram Singh Lamba",
+            "popularity": 0.2556,
+            "profile_path": null,
+            "credit_id": "6984f0966ee70d59644f6af0",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2139921,
+            "known_for_department": "Production",
+            "name": "Gaurav Misra",
+            "original_name": "Gaurav Misra",
+            "popularity": 0.3126,
+            "profile_path": null,
+            "credit_id": "6984f0a302150913b491318e",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4482250,
+            "known_for_department": "Sound",
+            "name": "Blitz//Berlin",
+            "original_name": "Blitz//Berlin",
+            "popularity": 0.4509,
+            "profile_path": null,
+            "credit_id": "6984f0ad73afc2dcd71a2a0a",
+            "department": "Crew",
+            "job": "Compositor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1084879,
+            "known_for_department": "Camera",
+            "name": "Yon Thomas",
+            "original_name": "Yon Thomas",
+            "popularity": 0.2754,
+            "profile_path": null,
+            "credit_id": "6984f0b815f42c3cc16eed76",
+            "department": "Crew",
+            "job": "Cinematography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1548888,
+            "known_for_department": "Editing",
+            "name": "Patrick J. Smith",
+            "original_name": "Patrick J. Smith",
+            "popularity": 0.3468,
+            "profile_path": null,
+            "credit_id": "6984f0c24d30157f2736387b",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4482250,
+            "known_for_department": "Sound",
+            "name": "Blitz//Berlin",
+            "original_name": "Blitz//Berlin",
+            "popularity": 0.4509,
+            "profile_path": null,
+            "credit_id": "69be07e3ba6f9c8ce7a5df5b",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 612,
+            "name": "hotel"
+        },
+        {
+            "id": 586,
+            "name": "new jersey"
+        },
+        {
+            "id": 818,
+            "name": "based on novel or book"
+        },
+        {
+            "id": 68646,
+            "name": "supernatural creature"
+        },
+        {
+            "id": 195482,
+            "name": "million in cash"
+        },
+        {
+            "id": 237260,
+            "name": "urban exploration"
+        },
+        {
+            "id": 240377,
+            "name": "abandoned building"
+        },
+        {
+            "id": 249578,
+            "name": "urban explorers"
+        },
+        {
+            "id": 256183,
+            "name": "supernatural horror"
+        },
+        {
+            "id": 332046,
+            "name": "abandoned hotel"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/ap6Zc5NDOfbZaMhkRDyghbGeLf0.jpg",
+            "id": 501170,
+            "title": "Doctor Sleep",
+            "original_title": "Doctor Sleep",
+            "overview": "Still scarred by the trauma he endured as a child at the Overlook Hotel, Dan Torrance faces the ghosts of the past when he meets Abra, a courageous teen who desperately needs his help -- and who possesses a powerful extrasensory ability called the \"shine\".",
+            "poster_path": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "popularity": 10.664,
+            "release_date": "2019-10-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.146,
+            "vote_count": 4976
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a4ZupLMg23auAw8e1j1K39PCO6z.jpg",
+            "id": 3021,
+            "title": "1408",
+            "original_title": "1408",
+            "overview": "A man who specializes in debunking paranormal occurrences checks into the fabled room 1408 in the Dolphin Hotel. Soon after settling in, he confronts genuine terror.",
+            "poster_path": "/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 9.4678,
+            "release_date": "2007-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.693,
+            "vote_count": 4983
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
+            "id": 72190,
+            "title": "World War Z",
+            "original_title": "World War Z",
+            "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+            "poster_path": "/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                878
+            ],
+            "popularity": 27.4485,
+            "release_date": "2013-06-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.848,
+            "vote_count": 16838
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q9p7v4KRuwDOzR6TRedXGMADBn0.jpg",
+            "id": 416234,
+            "title": "Winchester",
+            "original_title": "Winchester",
+            "overview": "San Jose, California, 1906. Isolated in her labyrinthine mansion, eccentric firearm heiress Sarah Winchester believes that she is being haunted by the souls of those killed by the guns manufactured by her company.",
+            "poster_path": "/4D9Bby0pNtRUYeI5mNJ3F0mSmXG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.0988,
+            "release_date": "2018-02-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.886,
+            "vote_count": 1837
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qY7zVZ7liULhfRoXg4c9Xl83LcR.jpg",
+            "id": 1430077,
+            "title": "Hokum",
+            "original_title": "Hokum",
+            "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+            "poster_path": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 30.7787,
+            "release_date": "2026-04-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.952,
+            "vote_count": 664
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hKhsgLfJlIQVa88dZWR7kIEwgbI.jpg",
+            "id": 27429,
+            "title": "Shivers",
+            "original_title": "Shivers",
+            "overview": "The residents of a suburban high-rise apartment building are infected by parasites that turn them into mindless nymphomaniac fiends.",
+            "poster_path": "/wcgfPA5FicDgQXaw67kjtUxuxdb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 3.4582,
+            "release_date": "1975-05-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.363,
+            "vote_count": 725
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r4clWIxKeWoqrHspQP0XunuUmB7.jpg",
+            "id": 442249,
+            "title": "The First Purge",
+            "original_title": "The First Purge",
+            "overview": "To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America test a sociological theory that vents aggression for one night in one isolated community. But when the violence of oppressors meets the rage of the others, the contagion will explode from the trial-city borders and spread across the nation.",
+            "poster_path": "/litjsBoiydO6JlO70uOX4N3WnNL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "popularity": 7.8236,
+            "release_date": "2018-07-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.997,
+            "vote_count": 4269
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bgTgA6ZckxKMy0oQyEFenxmxdGK.jpg",
+            "id": 12611,
+            "title": "The Fury",
+            "original_title": "The Fury",
+            "overview": "When a devious plot separates CIA agent Peter Sandza from his son, Robin, the distraught father manages to see through the ruse. Taken because of his psychic abilities, Robin is being held by Ben Childress, who is studying people with supernatural powers in hopes of developing their talents as weapons. Soon Peter pairs up with Gillian, a teen who has telekinesis, to find and rescue Robin.",
+            "poster_path": "/uez7cenZAh9JORKyPq1AblMbe26.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "popularity": 3.8662,
+            "release_date": "1978-03-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.291,
+            "vote_count": 414
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rrAMFTuTFHYI6INtyPnOYyoGTO2.jpg",
+            "id": 375366,
+            "title": "The Girl with All the Gifts",
+            "original_title": "The Girl with All the Gifts",
+            "overview": "In the future, a strange fungus has changed nearly everyone into thoughtless, flesh-eating monsters. When a scientist and a teacher find a girl who seems to be immune to the fungus, they all begin a journey to save humanity.",
+            "poster_path": "/vdCD8z55a4RNmHQDPIpuMFqoY2B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                878
+            ],
+            "popularity": 6.5455,
+            "release_date": "2016-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 2196
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7JI6ID1ga8uKyUPisjUXKxYCVRJ.jpg",
+            "id": 675531,
+            "title": "Dark Harvest",
+            "original_title": "Dark Harvest",
+            "overview": "In a small Midwestern town, a deadly annual ritual unfolds when the mythical nightmare, Sawtooth Jack, rises from the cornfields and challenges the town’s teenage boys in a bloody battle of survival.",
+            "poster_path": "/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                14,
+                53
+            ],
+            "popularity": 4.3598,
+            "release_date": "2023-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 321
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg",
+            "id": 1086747,
+            "title": "The Watchers",
+            "original_title": "The Watchers",
+            "overview": "A young artist gets stranded in an extensive, immaculate forest in western Ireland, where, after finding shelter, she becomes trapped alongside three strangers, stalked by mysterious creatures each night.",
+            "poster_path": "/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                27,
+                9648
+            ],
+            "popularity": 10.0703,
+            "release_date": "2024-06-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.352,
+            "vote_count": 1669
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yO2LFaO62SoM1ZuOq26hWLF1TQ4.jpg",
+            "id": 740925,
+            "title": "No One Gets Out Alive",
+            "original_title": "No One Gets Out Alive",
+            "overview": "An immigrant in search of the American dream is forced to take a room in a boarding house and soon finds herself in a nightmare from which she can't escape.",
+            "poster_path": "/bZUostLcCZYgcuBuAjmuSkBggiQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 4.0729,
+            "release_date": "2021-09-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.844,
+            "vote_count": 755
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/EEASOZj5Mm2u6G3K4HS4pKIlfC.jpg",
+            "id": 1035982,
+            "title": "Hell House LLC Origins: The Carmichael Manor",
+            "original_title": "Hell House LLC Origins: The Carmichael Manor",
+            "overview": "A group of cold case investigators stay at the Carmichael Manor, site of the grisly and unsolved murders of the Carmichael family back in the eighties. After four nights, the group was never heard from again. What is discovered on their footage is even more disturbing than anything found on the Hell House tapes.",
+            "poster_path": "/bsd1ovBNOhYpQElhlZAqpMo51q6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 2.9601,
+            "release_date": "2023-10-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.588,
+            "vote_count": 233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hwpbTeZEaKKUfiUjc2FJZpv7uAI.jpg",
+            "id": 516632,
+            "title": "The Empty Man",
+            "original_title": "The Empty Man",
+            "overview": "On the trail of a missing girl, an ex-cop comes across a secretive group attempting to summon a terrifying supernatural entity.",
+            "poster_path": "/8apzu9JFTUMtOpYkHk6LNPOs3pY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 7.1206,
+            "release_date": "2020-10-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.145,
+            "vote_count": 1060
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+            "id": 913290,
+            "title": "Barbarian",
+            "original_title": "Barbarian",
+            "overview": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "poster_path": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 12.6579,
+            "release_date": "2022-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.874,
+            "vote_count": 3384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ohrif9kyiLP13JjraX4MhJgMK0A.jpg",
+            "id": 13006,
+            "title": "Split Second",
+            "original_title": "Split Second",
+            "overview": "In a flooded future London, Detective Harley Stone hunts a serial killer who murdered his partner and has haunted him ever since — but he soon discovers what he is hunting might not be human.",
+            "poster_path": "/c111nTTNsArsUqJx662hPrFymyz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                80,
+                53,
+                27
+            ],
+            "popularity": 4.0159,
+            "release_date": "1992-05-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 371
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e1eKNn0VLQ1vETpOTLrlps5KZ1L.jpg",
+            "id": 608195,
+            "title": "Ghosts of War",
+            "original_title": "Ghosts of War",
+            "overview": "A group of World War II American soldiers encounter a supernatural enemy as they occupy a French castle previously under Nazi control.",
+            "poster_path": "/jR2SSICqmyaVV4lcR3PfNldJBPc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                10752,
+                878
+            ],
+            "popularity": 3.3868,
+            "release_date": "2020-07-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.236,
+            "vote_count": 590
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/de51GG0AQZj8dUm00aQUi4wisBr.jpg",
+            "id": 463843,
+            "title": "Sweetheart",
+            "original_title": "Sweetheart",
+            "overview": "Jenn has washed ashore a small tropical island and it doesn’t take her long to realize she’s completely alone. She must spend her days not only surviving the elements, but must also fend off the malevolent force that comes out each night.",
+            "poster_path": "/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 3.8514,
+            "release_date": "2019-01-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.401,
+            "vote_count": 421
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wJgVvjUOo8NCPoH6oDQ17mL1RhN.jpg",
+            "id": 46261,
+            "title": "Don't Be Afraid of the Dark",
+            "original_title": "Don't Be Afraid of the Dark",
+            "overview": "A young girl sent to live with her father and his new girlfriend discovers creatures in her new home who want to claim her as one of their own.",
+            "poster_path": "/jMBMm1jwqvILV8p1K44brBnmwLK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                27,
+                53
+            ],
+            "popularity": 4.6643,
+            "release_date": "2010-11-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.835,
+            "vote_count": 1155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg",
+            "id": 565,
+            "title": "The Ring",
+            "original_title": "The Ring",
+            "overview": "Journalist Rachel Keller investigates a strange videotape that may be behind the untimely deaths of four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring in order to save herself and her son.",
+            "poster_path": "/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 12.8662,
+            "release_date": "2002-10-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.709,
+            "vote_count": 6788
+        }
+    ]
+}

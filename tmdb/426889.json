@@ -1,0 +1,552 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/aLhtnH4pKHnD02ZfBGm2djwlNBH.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 99,
+                "name": "Documentary"
+            }
+        ],
+        "homepage": "https://lorimalepart-clitoris.tumblr.com/",
+        "id": 426889,
+        "imdb_id": "tt7103560",
+        "origin_country": [
+            "CA"
+        ],
+        "original_language": "fr",
+        "original_title": "Le Clitoris",
+        "overview": "Women are lucky, they get to have the only organ in the human body dedicated exclusively for pleasure: the clitoris! In this humorous and instructive animated documentary, find out its unrecognized anatomy and its unknown herstory.",
+        "popularity": 9.8153,
+        "poster_path": "/osBGGlyIwsnSDIJ3vy83JpH1OUY.jpg",
+        "production_companies": [
+            {
+                "id": 106988,
+                "logo_path": "/tmwI8DFvXsmersr7pVzxOabAuSH.png",
+                "name": "Mel Hoppenheim School of Cinema",
+                "origin_country": "CA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "release_date": "2017-08-24",
+        "revenue": 0,
+        "runtime": 4,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Le Clitoris",
+        "video": false,
+        "vote_average": 6.761,
+        "vote_count": 44
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1711359,
+            "known_for_department": "Directing",
+            "name": "Lori Malépart-Traversy",
+            "original_name": "Lori Malépart-Traversy",
+            "popularity": 0.7679,
+            "profile_path": "/5e1eyZDw9CUHdonxBqFtBJFJcUO.jpg",
+            "cast_id": 1,
+            "character": "Narrator (voice)",
+            "credit_id": "645569f3ccb15f00fc6c0068",
+            "order": 0
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1711359,
+            "known_for_department": "Directing",
+            "name": "Lori Malépart-Traversy",
+            "original_name": "Lori Malépart-Traversy",
+            "popularity": 0.7679,
+            "profile_path": "/5e1eyZDw9CUHdonxBqFtBJFJcUO.jpg",
+            "credit_id": "58317630c3a3685bad01ffaa",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1711359,
+            "known_for_department": "Directing",
+            "name": "Lori Malépart-Traversy",
+            "original_name": "Lori Malépart-Traversy",
+            "popularity": 0.7679,
+            "profile_path": "/5e1eyZDw9CUHdonxBqFtBJFJcUO.jpg",
+            "credit_id": "64556a075b370d01225e57a0",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4046730,
+            "known_for_department": "Sound",
+            "name": "Marcelo Suarez",
+            "original_name": "Marcelo Suarez",
+            "popularity": 0.1138,
+            "profile_path": null,
+            "credit_id": "64556a3add731b01550455b1",
+            "department": "Sound",
+            "job": "Sound"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4046728,
+            "known_for_department": "Sound",
+            "name": "Eliazer Kramer",
+            "original_name": "Eliazer Kramer",
+            "popularity": 0.2636,
+            "profile_path": null,
+            "credit_id": "64556a2671083a00e3f70729",
+            "department": "Sound",
+            "job": "Music"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 7066,
+            "name": "sex education"
+        },
+        {
+            "id": 197758,
+            "name": "female sexuality"
+        },
+        {
+            "id": 263548,
+            "name": "short film"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/hq2SYjBwzIFFZqiR2iQPQtEqVsW.jpg",
+            "id": 186365,
+            "title": "Women Reply",
+            "original_title": "Réponse de femmes : Notre corps, notre sexe",
+            "overview": "What does being a woman really mean? How do women live the status society reserves for them? A group of women, beautiful or not, young or not, gifted with motherly instinct or not, answer before Agnès Varda's camera.",
+            "poster_path": "/wKvmXHLTh2RBb1ck3QY76C2Xlc5.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.0607,
+            "release_date": "1975-02-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.316,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3CQ4coB7LbAraB0upz6YWmY8rKR.jpg",
+            "id": 836919,
+            "title": "Who Are You, Charlie Brown?",
+            "original_title": "Who Are You, Charlie Brown?",
+            "overview": "Lupita Nyong'o narrates a documentary about Peanuts and its creator, Charles M. Schulz. Famous fans—including Drew Barrymore, Kevin Smith, and Al Roker—share its influence on them, and a new animated story finds Charlie Brown on a quest.",
+            "poster_path": "/kqQfs98qAEwirmuZM48JH6ydQjb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                16
+            ],
+            "popularity": 4.3778,
+            "release_date": "2021-06-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d00ChtBndVkVg6OxV7jzS8OMRKg.jpg",
+            "id": 441965,
+            "title": "The Tickle King",
+            "original_title": "The Tickle King",
+            "overview": "Featuring new, previously unseen footage documenting the bizarre and unsettling things that happened to filmmakers David Farrier and Dylan Reeve as Tickled premiered at film festivals and theaters in 2016. Lawsuits, private investigators, disrupted screenings and surprise appearances are just part of what they encounter along the way. Amidst new threats, the duo begins to answer questions that remained once the credits rolled on Tickled, including whether the disturbing behavior they uncovered will ever come to an end.",
+            "poster_path": "/qDphC4FhgRKVIQ0hxKeKzjcdmhW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 3.8517,
+            "release_date": "2017-02-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3gw6ZMxVbfOQcQahGsmwdvFJPOa.jpg",
+            "id": 324558,
+            "title": "X-Rated: The Greatest Adult Movies of All Time",
+            "original_title": "X-Rated: The Greatest Adult Movies of All Time",
+            "overview": "The evolution of adult cinema through the most influential films in history, a journey that begins in the 1970s and ends nowadays. An in-depth analysis of the success of the most prestigious erotic films, their impact on industry and society, and their influence on cinema and contemporary culture.",
+            "poster_path": "/uYzHkzZPp84B7nHOKaJZWjyGFUL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 7.3983,
+            "release_date": "2015-02-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 197
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "id": 195647,
+            "title": "Le village de Namo - Panorama pris d'une chaise à porteurs",
+            "original_title": "Le village de Namo - Panorama pris d'une chaise à porteurs",
+            "overview": "The film is a panorama shot-scene lasting just under a minute. The panorama film, as coined by Lumière, is a moving-camera shot--usually accomplished by placing the camera on a moving transport, such as a boat or train.",
+            "poster_path": "/vRduQJsUlPBuQAgndDz3cmj7wyJ.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.1322,
+            "release_date": "1900-01-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.075,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Bcm0qBnS6yjwTFad8eI6thzRub.jpg",
+            "id": 869250,
+            "title": "Being James Bond",
+            "original_title": "Being James Bond",
+            "overview": "Daniel Craig candidly reflects on his 15 year adventure as James Bond. Including never-before-seen archival footage from Casino Royale to the upcoming 25th film No Time To Die, Craig shares his personal memories in conversation with 007 producers, Michael G Wilson and Barbara Broccoli.",
+            "poster_path": "/kKG9gieki5wgEcVXLfnX1lbOcrO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.399,
+            "release_date": "2021-08-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.766,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hl7b32TWdR5rIfhN9rACdwyscIk.jpg",
+            "id": 393443,
+            "title": "Extremis",
+            "original_title": "Extremis",
+            "overview": "A purely observational non-fiction film that takes viewers into the ethically murky world of end-of-life decision making in a public hospital.",
+            "poster_path": "/1vDbsnL2601o6fyrNlXHu0wWP1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.935,
+            "release_date": "2016-04-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.954,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg",
+            "id": 1236419,
+            "title": "Piece by Piece",
+            "original_title": "Piece by Piece",
+            "overview": "A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams. Told through the lens of LEGO® animation, turn up the volume on your imagination and witness the evolution of one of music's most innovative minds.",
+            "poster_path": "/fmOPcP8WRvm8cok4Hz3REwD7rlJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10402,
+                99
+            ],
+            "popularity": 3.9548,
+            "release_date": "2024-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3D46AXBZXQOqYttNolmuDwKpFhf.jpg",
+            "id": 618260,
+            "title": "Woman",
+            "original_title": "Woman",
+            "overview": "The film is based on interviews with 2,000 women from 50 countries, and covers the status of women all over the world. The topics covered include forced marriages, sexual assault, female genital mutilation, acid attacks, motherhood, sexuality, menstruation, education and the professional success of women.",
+            "poster_path": "/kgETjYe2VDWkHrDMoVpCOM16S5d.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.8271,
+            "release_date": "2020-03-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wJrdH78UG2sWja2cl1cFD8iKKmy.jpg",
+            "id": 16463,
+            "title": "Roundhay Garden Scene",
+            "original_title": "Roundhay Garden Scene",
+            "overview": "The earliest surviving motion-picture film, and believed to be one of the very first moving images ever created, was shot by Louis Aimé Augustin Le Prince using the LPCCP Type-1 MkII single-lens camera. It was taken on paper-based photographic film in the garden of Oakwood Grange, the Whitley family house in Roundhay, Leeds, West Riding of Yorkshire (UK), on 14 October 1888. The film shows Adolphe Le Prince (Le Prince’s son), Mrs. Sarah Whitley (Le Prince’s mother-in-law), Joseph Whitley, and Miss Harriet Hartley walking around in circles, laughing to themselves, and staying within the area framed by the camera. Roundhay Garden Scene is often associated with a recording speed of around 12 frames per second and runs for about 2 to 3 seconds.",
+            "poster_path": "/qI9eTP3NpJlxTk3oMBvfz8Awwkw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.6171,
+            "release_date": "1888-10-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 249
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e0IYoMXz6kErwYOemIO4akyFxLN.jpg",
+            "id": 957258,
+            "title": "What Is a Woman?",
+            "original_title": "What Is a Woman?",
+            "overview": "Matt Walsh's controversial doc challenges radical gender ideology through provocative interviews and humor.",
+            "poster_path": "/iiP8Sq7yWoYsKx9EVfyRPno8Un9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.4457,
+            "release_date": "2022-06-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.88,
+            "vote_count": 270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f1i4ecVuDo3AQSvqzRtijnD4hzN.jpg",
+            "id": 645488,
+            "title": "Aquaman: Heroines of Atlantis",
+            "original_title": "Aquaman: Heroines of Atlantis",
+            "overview": "Amber Heard and Nicole Kidman discuss their characters Mera and Atlanna.",
+            "poster_path": "/pa7m8nqDrEi7hAGB5vTnCkGLPC2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.8401,
+            "release_date": "2019-03-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.161,
+            "vote_count": 59
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s0Dy3QFvEqM3yz7fzM9nfqqqCrL.jpg",
+            "id": 427719,
+            "title": "X-Rated 2: The Greatest Adult Stars of All-Time",
+            "original_title": "X-Rated 2: The Greatest Adult Stars of All-Time",
+            "overview": "Documentary sequel that offers a close-up look into the personal lives of the legendary porn stars who've survived the test of time and influenced popular culture. Blends rare interviews with erotic clips and additional appearances by Whoopi Goldberg, Steven Soderbergh and a host of adult stars, directors and trendsetters.",
+            "poster_path": "/n22dgC0qBbYVeDGRLOuQSoihWAD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 5.1335,
+            "release_date": "2016-10-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p04OwhvsoxgmdHQqflnDW8h3QBb.jpg",
+            "id": 417198,
+            "title": "Voyage of Time: The IMAX Experience",
+            "original_title": "Voyage of Time: The IMAX Experience",
+            "overview": "A celebration of the universe, displaying the whole of time, from its start to its final collapse. This film examines all that occurred to prepare the world that stands before us now: science and spirit, birth and death, the grand cosmos and the minute life systems of our planet.",
+            "poster_path": "/2ScetO35rdhBIdYPXvhPJdXPUVm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.2707,
+            "release_date": "2016-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bV7eAcBrYb57PwjpQ2ODT6VyFPd.jpg",
+            "id": 318256,
+            "title": "Hot Girls Wanted",
+            "original_title": "Hot Girls Wanted",
+            "overview": "A first-ever look at the realities of the professional “amateur” porn world and the steady stream of 18-to-19-year old girls entering into it.",
+            "poster_path": "/75ot83QOkc02vujyzmIbumQCU6Y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.7766,
+            "release_date": "2015-01-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.13,
+            "vote_count": 736
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "id": 301959,
+            "title": "Interstellar: Nolan's Odyssey",
+            "original_title": "Interstellar: Nolan's Odyssey",
+            "overview": "A look behind the lens of Christopher Nolan's space epic.",
+            "poster_path": "/i4PpBcuLvdcJwIf3hkcV9QDR1iH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 2.1957,
+            "release_date": "2014-11-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.775,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1gXxCGYUDuFlVu31tAtYXXza9It.jpg",
+            "id": 940075,
+            "title": "Embrace the Panda: Making Turning Red",
+            "original_title": "Embrace the Panda: Making Turning Red",
+            "overview": "A feature length documentary about the all-women team at the helm of Pixar's original feature, Turning Red. With unprecedented behind-the-scenes access to Director Domee Shi and her core leadership crew, this story shines a light on the powerful professional and personal journeys that brought this incredibly comical, utterly relatable, and deeply heartfelt story to the screen.",
+            "poster_path": "/ociUlULY2vZkenQqwTnwK4aq2Y1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.7477,
+            "release_date": "2022-03-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mBJ995JUssgh2hhm4JxNj8hyVVM.jpg",
+            "id": 979163,
+            "title": "Beyond Infinity: Buzz and the Journey to Lightyear",
+            "original_title": "Beyond Infinity: Buzz and the Journey to Lightyear",
+            "overview": "Explore the evolution of Buzz Lightyear from toy to human in the making of Pixar’s Lightyear. Dive into the origin and cultural impact of everyone’s favorite Space Ranger, the art of designing a new “human Buzz,” and the challenges faced by the Lightyear crew along the way.",
+            "poster_path": "/mnp0INIjyWt4AziWmTHgPk9IFoE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.3346,
+            "release_date": "2022-06-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.031,
+            "vote_count": 241
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hezNIUVmRb1johZaouRqeIKWeMJ.jpg",
+            "id": 169760,
+            "title": "Maidentrip",
+            "original_title": "Maidentrip",
+            "overview": "14-year-old Laura Dekker sets out on a two-year voyage in pursuit of her dream to become the youngest person ever to sail around the world alone.",
+            "poster_path": "/l8avFTtVCGcX9Akca7BdUAqyG60.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                99
+            ],
+            "popularity": 2.3555,
+            "release_date": "2014-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.087,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/spgZcy2k1SSjnvBGONXKMxQWXhC.jpg",
+            "id": 193645,
+            "title": "Seduced and Abandoned",
+            "original_title": "Seduced and Abandoned",
+            "overview": "SEDUCED AND ABANDONED combines acting legend Alec Baldwin with director James Toback as they lead us on a troublesome and often hilarious journey of raising financing for their next feature film. Moving from director to financier to star actor, the two players provide us with a unique look behind the curtain at the world's biggest and most glamourous film festival, shining a light on the bitter-sweet relationship filmmakers have with Cannes and the film business. Featuring insights from directors Martin Scorsese, 'Bernando Bertolucci' and Roman Polanski; actors Ryan Gosling and Jessica Chastain and a host of film distribution luminaries.",
+            "poster_path": "/gaXPdoGRurNLgfyRrUDKsa95fYa.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.3875,
+            "release_date": "2013-05-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.206,
+            "vote_count": 50
+        }
+    ]
+}

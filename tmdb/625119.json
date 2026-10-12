@@ -1,0 +1,713 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 625119,
+        "imdb_id": "tt2732686",
+        "origin_country": [
+            "TW"
+        ],
+        "original_language": "zh",
+        "original_title": "竹籬笆外的春天",
+        "overview": "The rebellious and free-spirited Li Lin and the introverted Wu Ai-hua are best friends who grow up together in the military dependents' village. However, they both fall in love with pilot He Kang, their mutual childhood friend. After He Kang is killed in a crash, the village only reminds the heartbroken girls of the tragedy. They escape to Taipei and work as hostess and accountant, earning a living from American soldiers on leave from Vietnam. The girls reunite with Michael, an American flight instructor, at the club. Michael ardently pursues Li Lin, but struggling to forget He Kang, Li Lin rejects Michael' s proposal. Having taken different paths, the two girls eventually return to their childhood village, reminiscing about the bonds of the past.",
+        "popularity": 13.2376,
+        "poster_path": "/dVTCpfSTBiPZKYRIit9QEW4YBpW.jpg",
+        "production_companies": [
+            {
+                "id": 42874,
+                "logo_path": null,
+                "name": "Tomson (Hong Kong) Films Co., Ltd.",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "release_date": "1985-08-10",
+        "revenue": 0,
+        "runtime": 112,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Mandarin",
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Spring Outside the Fence",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1469675,
+            "known_for_department": "Acting",
+            "name": "Su Ming-ming",
+            "original_name": "蘇明明",
+            "popularity": 0.775,
+            "profile_path": "/zVJYRr44f42yIGgcMIwetq24Kau.jpg",
+            "cast_id": 2,
+            "character": "",
+            "credit_id": "5d5db12fa3d0277fe50aa66c",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 102880,
+            "known_for_department": "Acting",
+            "name": "Cherie Chung Cho-Hung",
+            "original_name": "鍾楚紅",
+            "popularity": 2.4166,
+            "profile_path": "/8aYIxAhFKUzExYzsdYHy48tifNz.jpg",
+            "cast_id": 1,
+            "character": "",
+            "credit_id": "5d5db10dc4904800167e02b5",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1133067,
+            "known_for_department": "Acting",
+            "name": "Kris Phillips",
+            "original_name": "Kris Phillips",
+            "popularity": 0.6944,
+            "profile_path": "/gh6dlF5SkVKfNrRaHVseBwiTbUA.jpg",
+            "cast_id": 13,
+            "character": "",
+            "credit_id": "65d9e0c0e78e2d018680ec07",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1641895,
+            "known_for_department": "Acting",
+            "name": "Lin Ruiyang",
+            "original_name": "Lin Ruiyang",
+            "popularity": 0.5695,
+            "profile_path": "/idByLmbpfkMiQKC5RbZ3wnILFu2.jpg",
+            "cast_id": 12,
+            "character": "",
+            "credit_id": "65d9e0ade78e2d018680ebef",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1334,
+            "known_for_department": "Acting",
+            "name": "Li Feng",
+            "original_name": "Li Feng",
+            "popularity": 0.6575,
+            "profile_path": "/pgW6yxA3VU1qcdV8Pl3lpKe2t2b.jpg",
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "5d5db1b6c4904800167e039a",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 581786,
+            "known_for_department": "Acting",
+            "name": "Hsiao Hou Tao",
+            "original_name": "小戽斗",
+            "popularity": 0.671,
+            "profile_path": "/eZACg55cvaTic8m6hYIzUckKHvZ.jpg",
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "5d5db19da3d02700140c3434",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 70946,
+            "known_for_department": "Acting",
+            "name": "Chen Hui-Lou",
+            "original_name": "Chen Hui-Lou",
+            "popularity": 0.9135,
+            "profile_path": "/vdy77PVi3yVCZUBqiCjHP2oKOH6.jpg",
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "5d5db1a9c4904800157dfb90",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 137916,
+            "known_for_department": "Acting",
+            "name": "Hsueh Han",
+            "original_name": "薛漢",
+            "popularity": 0.8593,
+            "profile_path": "/3X5p97GlMF5dyXMAOU90m4qtqyV.jpg",
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "5d5db17aa3d02700160c2a4b",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1591117,
+            "known_for_department": "Acting",
+            "name": "Lin Hsiu-Ling",
+            "original_name": "林秀玲",
+            "popularity": 0.6325,
+            "profile_path": "/8F73DeUOoKTZIXnSGfZ4yhMxm29.jpg",
+            "cast_id": 16,
+            "character": "",
+            "credit_id": "662572c62e2b2c018767a88f",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4000143,
+            "known_for_department": "Acting",
+            "name": "Eric Berman",
+            "original_name": "Eric Berman",
+            "popularity": 0.2669,
+            "profile_path": "/6AxXGp4t2lkE8SA60YmjwVN0HqB.jpg",
+            "cast_id": 17,
+            "character": "",
+            "credit_id": "66257393221ba6017c14aa46",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1574969,
+            "known_for_department": "Acting",
+            "name": "Wu Yen",
+            "original_name": "吳燕",
+            "popularity": 0.6873,
+            "profile_path": "/j2QJLsfnJNFKZcwtNWvRgCYUvSy.jpg",
+            "cast_id": 18,
+            "character": "",
+            "credit_id": "66257471b2681f017c72f3af",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1792447,
+            "known_for_department": "Acting",
+            "name": "Wu Sung",
+            "original_name": "Wu Sung",
+            "popularity": 0.2076,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "",
+            "credit_id": "6625751e7a97ab017d8e0f30",
+            "order": 11
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1469672,
+            "known_for_department": "Directing",
+            "name": "Li Youning",
+            "original_name": "Li Youning",
+            "popularity": 0.4477,
+            "profile_path": null,
+            "credit_id": "626369e4e61e6d00500769cd",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1469672,
+            "known_for_department": "Directing",
+            "name": "Li Youning",
+            "original_name": "Li Youning",
+            "popularity": 0.4477,
+            "profile_path": null,
+            "credit_id": "65d9e0669d89390185db62a8",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3206711,
+            "known_for_department": "Production",
+            "name": "Pin Hsu",
+            "original_name": "Pin Hsu",
+            "popularity": 0.1686,
+            "profile_path": null,
+            "credit_id": "65d9e083f8aee8017c41458d",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 939330,
+            "known_for_department": "Directing",
+            "name": "Kevin Chu",
+            "original_name": "朱延平",
+            "popularity": 1.1128,
+            "profile_path": "/iHT9LOBnlWhTJ9RpIpAoCRODrIN.jpg",
+            "credit_id": "65d9e079fcb8cc0162cb092b",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 70335,
+            "known_for_department": "Camera",
+            "name": "Chris Chen Ching-Chu",
+            "original_name": "陳清渠",
+            "popularity": 0.5813,
+            "profile_path": "/3RFd6sjfkieN26tyJm2QeOFuqeN.jpg",
+            "credit_id": "66256f30cb6db50163ae43e8",
+            "department": "Crew",
+            "job": "Cinematography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1388367,
+            "known_for_department": "Editing",
+            "name": "Chiang Huang-Hsiung",
+            "original_name": "Chiang Huang-Hsiung",
+            "popularity": 0.3723,
+            "profile_path": null,
+            "credit_id": "662570dfb9a0bd0161d51acc",
+            "department": "Editing",
+            "job": "Editor"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/k9umWAxbyVZQkd1zTKoo9HeOab2.jpg",
+            "id": 105703,
+            "title": "The Boys from Fengkuei",
+            "original_title": "風櫃來的人",
+            "overview": "Ah-Ching and his friends have just finished school in their island fishing village, and now spend most of their time drinking and fighting. Three of them decide to go to the port city of Kaohsiung to look for work. They find an apartment through relatives, and Ah-Ching is attracted to the girlfriend of a neighbor. There they face the harsh realities of the big city.",
+            "poster_path": "/r6evRAtqfodrY9eytNt7Oc7gg0a.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.7214,
+            "release_date": "1983-07-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.231,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bBK5j3FUk2qy5KtHXMJDLdKH7Ba.jpg",
+            "id": 35030,
+            "title": "The Young One",
+            "original_title": "La joven",
+            "overview": "A jazz musician seeks refuge from a lynch mob on a remote island, where he meets a hostile game warden and the young object of his attentions.",
+            "poster_path": "/vgqmNCe9PKibdGpdWuhA6Ozuso.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.0625,
+            "release_date": "1960-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3ZM1GAHQzQIUUJrDSaF0QkndAv4.jpg",
+            "id": 741780,
+            "title": "Taipei Suicide Story",
+            "original_title": "安眠旅舍",
+            "overview": "A receptionist at a suicide hotel in Taipei forms a fleeting friendship over the course of one night with a guest who can’t decide if she wants to live or die.",
+            "poster_path": "/wkvrRLxq3wRZcjEaKzBoMnNRAqb.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.9537,
+            "release_date": "2020-10-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.452,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4FbTBvNO3VTFbFFghipK7Jqz7I6.jpg",
+            "id": 552532,
+            "title": "Charm City Kings",
+            "original_title": "Charm City Kings",
+            "overview": "Mouse desperately wants to join The Midnight Clique, the infamous Baltimore dirt bike riders who rule the summertime streets. When Midnight’s leader, Blax, takes 14-year-old Mouse under his wing, Mouse soon finds himself torn between the straight-and-narrow and a road filled with fast money and violence.",
+            "poster_path": "/j732HPX0HSPcYvKURAIIS5Ppvk1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.1501,
+            "release_date": "2020-01-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.839,
+            "vote_count": 504
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zMNDdSvLxkVjOD5iGacsRsdgjKW.jpg",
+            "id": 106380,
+            "title": "Taipei Story",
+            "original_title": "青梅竹馬",
+            "overview": "A young woman urgently seeks to navigate the maze of contemporary Taipei and find a future. She hopes that her boyfriend Lung is the key to the future, but Lung is stuck in a past that combines baseball and traditional loyalty that leads him to squander his nest egg bailing her father out of financial trouble.",
+            "poster_path": "/veJ93QUnTBX4WXk5qSl1s42Uosj.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.9861,
+            "release_date": "1985-05-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 138
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AsDanXphy2uvK227rIZP1BiUWEr.jpg",
+            "id": 596881,
+            "title": "Dwelling in the Fuchun Mountains",
+            "original_title": "春江水暖",
+            "overview": "In the Chinese town of Fuyang, four brothers go about their day-to-day lives, their destinies shaped by love and challenges.",
+            "poster_path": "/4ZMUOVHqIuXlHHnbQ0gg0jPLIi0.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.2178,
+            "release_date": "2020-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6XCGLN8Nb7Oa0AF41UtS0nUFN7l.jpg",
+            "id": 33194,
+            "title": "Xiu Xiu: The Sent-Down Girl",
+            "original_title": "Xiu Xiu: The Sent-Down Girl",
+            "overview": "Young teen girl Xiu Xiu is sent away to a remote corner of the Sichuan steppes for manual labor in 1975 (sending young people to there was a part of Cultural Revolution in China). A year later, she agrees to go to even more remote spot with a Tibetan saddle tramp Lao Jin to learn horse herding.",
+            "poster_path": "/f60ZzxvcNjQG1aXomXuKWEzS2pP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 7.6612,
+            "release_date": "1998-02-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.24,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aLaSFLO6B8fggXQX7gqCA9C8TxC.jpg",
+            "id": 90283,
+            "title": "Mr. Tree",
+            "original_title": "Hello！树先生",
+            "overview": "Teased by hallucinations, Shu, a slacker living in a rural village, struggles with an ever-loosening grip on reality. Yet when one of his visions manifests as real, his fellow villagers come to regard him as a clairvoyant. Can Shu genuinely see into the future? Is he actually just a basket case? Or is he perhaps more lucid than he seems, and pulling a fast one on everyone?",
+            "poster_path": "/q6Xfa8pTTJpJY8DSk7IfwwhiaiK.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.7044,
+            "release_date": "2011-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.176,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fDlAsdhGkDMOqwo2KuJIa5LvAoi.jpg",
+            "id": 196325,
+            "title": "American Dreams in China",
+            "original_title": "中国合伙人",
+            "overview": "Three Chinese friends build a successful English language school to help Chinese teenagers fulfil their dreams.",
+            "poster_path": "/n0kzXrad3qqNcz6L0G2DP6M7NVX.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.35,
+            "release_date": "2013-05-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.843,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nOQLS9mSiRboWVqBcFfXBQB1fg4.jpg",
+            "id": 575089,
+            "title": "One Second",
+            "original_title": "一秒钟",
+            "overview": "A movie fan escapes from a labour camp during the Chinese Cultural Revolution and strikes up a relationship with a homeless female vagabond.",
+            "poster_path": "/u7fYH6UwKU1jFXSYHYccXCHeXUg.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.2792,
+            "release_date": "2020-11-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.313,
+            "vote_count": 126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ntTGtJCT9SbfZ2TjRDZTICr0Yv.jpg",
+            "id": 29989,
+            "title": "Skin",
+            "original_title": "Skin",
+            "overview": "Based on the true story of a black girl who was born to two white Afrikaner parents in South Africa during the apartheid era.",
+            "poster_path": "/lRKQ0CXJF1cIO1kc2XqdWptbaAX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.7843,
+            "release_date": "2009-07-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yGNBtSLAD49Rtzev5jpzAgQZTso.jpg",
+            "id": 51885,
+            "title": "The Sun Also Rises",
+            "original_title": "太阳照常升起",
+            "overview": "A polyptych of interconnected stories in different time-zones, shifting between a Yunnan village, a campus, and the Gobi Desert.",
+            "poster_path": "/hdaNnfexnCqQswV1q2gVo8BYtff.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                14,
+                18
+            ],
+            "popularity": 3.2957,
+            "release_date": "2007-09-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.423,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uTtsYLaC9b8joDKy4YGsMxfo3cp.jpg",
+            "id": 547590,
+            "title": "El Chicano",
+            "original_title": "El Chicano",
+            "overview": "A pair of twin brothers from East L.A. choose to live their lives differently and end up on opposite sides of the law.",
+            "poster_path": "/6LSJL2KHUAxSjDTWA5V5Cr7sNNd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4814,
+            "release_date": "2019-05-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.621,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jmHM6qTdb9WuKkwywDhPdXeQdav.jpg",
+            "id": 6341,
+            "title": "Blue Thunder",
+            "original_title": "Blue Thunder",
+            "overview": "Los Angeles, California. Officer Murphy, a veteran Metropolitan Police helicopter pilot suffering from severe trauma due to his harsh experiences during the Vietnam War, and Lymangood, his resourceful new partner, are tasked with testing an advanced and heavily armed experimental chopper known as Blue Thunder.",
+            "poster_path": "/tYoCkgVHGUAd5BgvRMWrAScY549.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28,
+                53
+            ],
+            "popularity": 5.9917,
+            "release_date": "1983-02-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.226,
+            "vote_count": 565
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wNYUv8u5Z0AI4dkyxGyet7eLEWm.jpg",
+            "id": 945675,
+            "title": "One Week Friends",
+            "original_title": "一周的朋友",
+            "overview": "A high school student suffers from a strange amnesia, causing her memories to only last a week. After she befriends a new student, his kindness and persistence make her gradually open up.",
+            "poster_path": "/9Adt7lE79voOqRzYhe4mNnHqUoo.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.4056,
+            "release_date": "2022-06-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.044,
+            "vote_count": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/XZociOva4LhCObUNEgqFfFPPHr.jpg",
+            "id": 22477,
+            "title": "September",
+            "original_title": "September",
+            "overview": "After a suicide attempt, Lane has moved into her country house to recuperate. Her best friend, Stephanie, has come to join her for the summer. Lane's mother, Diane, has recently arrived with her husband Lloyd, Lane's stepfather. Lane is close to two neighbors: Peter, and Howard. Howard is in love with Lane, Lane is in love with Peter, and Peter is in love with Stephanie.",
+            "poster_path": "/gTsFkvUt9wrGOZh6JNDSFd2LIBT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.2274,
+            "release_date": "1987-12-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.203,
+            "vote_count": 212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6lDdjAJ5uuHmYAv9eT7dUyGVvS.jpg",
+            "id": 413337,
+            "title": "Girl in the Box",
+            "original_title": "Girl in the Box",
+            "overview": "The true story of 20-year-old Colleen Stan, a hitchhiking woman abducted by a young couple and held captive for seven years, during which time she's tortured and forced to live as a slave to her captors.",
+            "poster_path": "/uLH92vwvTlOjnSCG5JqJtH1fT9p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "popularity": 5.8562,
+            "release_date": "2016-09-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.709,
+            "vote_count": 163
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4KlIXNsXQfealpVIefjvF4X46Yr.jpg",
+            "id": 63064,
+            "title": "Buddha Mountain",
+            "original_title": "观音山",
+            "overview": "In Chengdu, China, a retired female opera singer named Master Chang takes in a trio of young tenants into her boarding home. The tenants include a rock singer and a college student who has run away from home.",
+            "poster_path": "/A2CcakhYdSTyZSHV8IcxjSeQEuP.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.1177,
+            "release_date": "2011-03-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y6jpd3c1UFoouBmIVWZMCGVyQmS.jpg",
+            "id": 374461,
+            "title": "Mr. Church",
+            "original_title": "Mr. Church",
+            "overview": "A unique friendship develops when a little girl and her dying mother inherit a cook - Mr. Church. What begins as an arrangement that should only last six months, instead spans fifteen years.",
+            "poster_path": "/5fCfZEQwcbuqVPyMu7pN5XNpK5V.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.699,
+            "release_date": "2016-09-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.41,
+            "vote_count": 536
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dzJfEnNwgBRuKcpnWQe5euDLIdN.jpg",
+            "id": 272875,
+            "title": "The Continent",
+            "original_title": "后会无期",
+            "overview": "Three men living in the Eastern most island of China go on a road trip to the Western most end of the country, and facing crises of love, friendship, and faith on their journey to the West.",
+            "poster_path": "/uDAQEq5uLeTJoY2ID4MUZeeVGIC.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.8463,
+            "release_date": "2014-07-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 96
+        }
+    ]
+}

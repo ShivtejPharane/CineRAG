@@ -1,0 +1,1211 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg",
+        "belongs_to_collection": {
+            "id": 1960,
+            "name": "Evil Dead Collection",
+            "poster_path": "/eWFADubShlTEUiNsPcN6BMOKakr.jpg",
+            "backdrop_path": "/377E9KSoUGxKWuvyR1Zu9aXcU4I.jpg"
+        },
+        "budget": 350000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 764,
+        "imdb_id": "tt0083907",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Evil Dead",
+        "overview": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
+        "popularity": 19.0348,
+        "poster_path": "/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+        "production_companies": [
+            {
+                "id": 12,
+                "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+                "name": "New Line Cinema",
+                "origin_country": "US"
+            },
+            {
+                "id": 467,
+                "logo_path": null,
+                "name": "Renaissance Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1982-05-25",
+        "revenue": 29400000,
+        "runtime": 85,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The ultimate experience in gruelling terror.",
+        "title": "The Evil Dead",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 4599
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11357,
+            "known_for_department": "Acting",
+            "name": "Bruce Campbell",
+            "original_name": "Bruce Campbell",
+            "popularity": 3.2207,
+            "profile_path": "/p9335ljr7luOWsfwZSOlsIzFJKE.jpg",
+            "cast_id": 1,
+            "character": "Ash",
+            "credit_id": "661864c92b2108017db998aa",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 11462,
+            "known_for_department": "Acting",
+            "name": "Ellen Sandweiss",
+            "original_name": "Ellen Sandweiss",
+            "popularity": 0.7189,
+            "profile_path": "/m0IWMfRtY7djjvXWsn9tK7Gh1dQ.jpg",
+            "cast_id": 2,
+            "character": "Cheryl",
+            "credit_id": "661864f43acd20017c45ec71",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11463,
+            "known_for_department": "Acting",
+            "name": "Richard DeManincor",
+            "original_name": "Richard DeManincor",
+            "popularity": 1.4382,
+            "profile_path": "/wUU9Axate8lhMYTxxE4OUwbTR2E.jpg",
+            "cast_id": 3,
+            "character": "Scott",
+            "credit_id": "661865159a9f9a017dd13e00",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 11464,
+            "known_for_department": "Acting",
+            "name": "Betsy Baker",
+            "original_name": "Betsy Baker",
+            "popularity": 1.0453,
+            "profile_path": "/gzNmo9G6Q1TMwlqwshFBR1B6Qbt.jpg",
+            "cast_id": 4,
+            "character": "Linda",
+            "credit_id": "66186578af3da6017c17fe81",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 11465,
+            "known_for_department": "Acting",
+            "name": "Theresa Tilly",
+            "original_name": "Theresa Tilly",
+            "popularity": 0.9007,
+            "profile_path": "/dArbS5OBk1pyBOu74HlzkIuCSss.jpg",
+            "cast_id": 5,
+            "character": "Shelly",
+            "credit_id": "66186586af3da6016317fa73",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1116941,
+            "known_for_department": "Acting",
+            "name": "Philip A. Gillis",
+            "original_name": "Philip A. Gillis",
+            "popularity": 0.5923,
+            "profile_path": "/2kSl61cd9mWXlCVl8EGU5DxWsLf.jpg",
+            "cast_id": 6,
+            "character": "Fake Shemp",
+            "credit_id": "66186624ea84c7017d55f36f",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1116942,
+            "known_for_department": "Acting",
+            "name": "Dorothy Tapert",
+            "original_name": "Dorothy Tapert",
+            "popularity": 0.4194,
+            "profile_path": null,
+            "cast_id": 7,
+            "character": "Fake Shemp",
+            "credit_id": "66186654e10f460163b4c157",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1116943,
+            "known_for_department": "Acting",
+            "name": "Cheryl Klam",
+            "original_name": "Cheryl Klam",
+            "popularity": 0.5975,
+            "profile_path": "/lH1Wru6HHHUkKn3oMxmZAwE0Yae.jpg",
+            "cast_id": 8,
+            "character": "Fake Shemp",
+            "credit_id": "66186661e0ec51016349d730",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1116944,
+            "known_for_department": "Acting",
+            "name": "Barbara Carey",
+            "original_name": "Barbara Carey",
+            "popularity": 0.2597,
+            "profile_path": null,
+            "cast_id": 9,
+            "character": "Fake Shemp",
+            "credit_id": "66186671bbcae0017c949b82",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2809509,
+            "known_for_department": "Acting",
+            "name": "David Horton",
+            "original_name": "David Horton",
+            "popularity": 0.327,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "Fake Shemp",
+            "credit_id": "66186693e0ec51016349d738",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2809510,
+            "known_for_department": "Acting",
+            "name": "Wendall Thomas",
+            "original_name": "Wendall Thomas",
+            "popularity": 0.2651,
+            "profile_path": null,
+            "cast_id": 11,
+            "character": "Fake Shemp",
+            "credit_id": "661866b166e469017ebbdec7",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2809511,
+            "known_for_department": "Acting",
+            "name": "Don Long",
+            "original_name": "Don Long",
+            "popularity": 0.2673,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "Fake Shemp",
+            "credit_id": "66186bb3dd731b01650a2838",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2809512,
+            "known_for_department": "Acting",
+            "name": "Stu Smith",
+            "original_name": "Stu Smith",
+            "popularity": 0.234,
+            "profile_path": null,
+            "cast_id": 13,
+            "character": "Fake Shemp",
+            "credit_id": "66186bc00f0da50163deaa3b",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2417365,
+            "known_for_department": "Camera",
+            "name": "Kurt Rauf",
+            "original_name": "Kurt Rauf",
+            "popularity": 0.3865,
+            "profile_path": null,
+            "cast_id": 14,
+            "character": "Fake Shemp",
+            "credit_id": "66186bcde4c9eb014929ff37",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11769,
+            "known_for_department": "Acting",
+            "name": "Ted Raimi",
+            "original_name": "Ted Raimi",
+            "popularity": 1.7208,
+            "profile_path": "/juhz6ajCjjHlLPzYBxPtDxwX6em.jpg",
+            "cast_id": 15,
+            "character": "Fake Shemp",
+            "credit_id": "66186bd84da3d4017c915b57",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7629,
+            "known_for_department": "Writing",
+            "name": "Ivan Raimi",
+            "original_name": "Ivan Raimi",
+            "popularity": 0.8788,
+            "profile_path": "/zM7aGM5d9mFOz1GDU4bbuW3Wds7.jpg",
+            "cast_id": 16,
+            "character": "Fake Shemp",
+            "credit_id": "66186be3af3da6016317fc12",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1083386,
+            "known_for_department": "Acting",
+            "name": "Bill Vincent",
+            "original_name": "Bill Vincent",
+            "popularity": 0.4508,
+            "profile_path": "/4BWyiXrDPx3apkYn8qxeQ9K7U5r.jpg",
+            "cast_id": 17,
+            "character": "Fake Shemp",
+            "credit_id": "66186bf4ea84c7017d55f5c1",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2809513,
+            "known_for_department": "Acting",
+            "name": "Mary Beth Tapert",
+            "original_name": "Mary Beth Tapert",
+            "popularity": 0.3099,
+            "profile_path": null,
+            "cast_id": 18,
+            "character": "Fake Shemp",
+            "credit_id": "66186c022b2108017db99b09",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11641,
+            "known_for_department": "Acting",
+            "name": "Scott Spiegel",
+            "original_name": "Scott Spiegel",
+            "popularity": 0.9332,
+            "profile_path": "/4biZFDzG3gXfGk7YZYJQNRPGIbd.jpg",
+            "cast_id": 19,
+            "character": "Fake Shemp",
+            "credit_id": "66186c10bbcae0017c949df6",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1482,
+            "known_for_department": "Production",
+            "name": "John Cameron",
+            "original_name": "John Cameron",
+            "popularity": 1.4497,
+            "profile_path": "/uv1fsKsOxRGC8n1YL7fBGn4mkRP.jpg",
+            "cast_id": 20,
+            "character": "Fake Shemp",
+            "credit_id": "66186c260f0da5017cdeae72",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2809515,
+            "known_for_department": "Acting",
+            "name": "Joanne Kruse",
+            "original_name": "Joanne Kruse",
+            "popularity": 0.2414,
+            "profile_path": null,
+            "cast_id": 21,
+            "character": "Fake Shemp",
+            "credit_id": "66186c304da3d4017c915b84",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2809516,
+            "known_for_department": "Acting",
+            "name": "Gwen Cochanski",
+            "original_name": "Gwen Cochanski",
+            "popularity": 0.2571,
+            "profile_path": null,
+            "cast_id": 22,
+            "character": "Fake Shemp",
+            "credit_id": "66186c3d90cf51017ca19135",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2809517,
+            "known_for_department": "Acting",
+            "name": "Debie Jarczewski",
+            "original_name": "Debie Jarczewski",
+            "popularity": 0.2484,
+            "profile_path": null,
+            "cast_id": 23,
+            "character": "Fake Shemp",
+            "credit_id": "66186c490f0da5017cdeae7f",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 28032,
+            "known_for_department": "Acting",
+            "name": "Bob Dorian",
+            "original_name": "Bob Dorian",
+            "popularity": 0.4076,
+            "profile_path": "/uh2q4ELjMOvdFbTLsArhiCuqtZb.jpg",
+            "cast_id": 26,
+            "character": "Person on Recorder (voice) (uncredited)",
+            "credit_id": "66186ca3e0ec51017d49db52",
+            "order": 23
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7623,
+            "known_for_department": "Directing",
+            "name": "Sam Raimi",
+            "original_name": "Sam Raimi",
+            "popularity": 5.2442,
+            "profile_path": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+            "cast_id": 25,
+            "character": "Hitchhiking Fisherman / Evil Force (uncredited)",
+            "credit_id": "66186c7daf3da6017c180148",
+            "order": 24
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11471,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Tom Sullivan",
+            "original_name": "Tom Sullivan",
+            "popularity": 0.363,
+            "profile_path": "/wcENb3FljxbTs0fiXl33tvqCM7f.jpg",
+            "cast_id": 28,
+            "character": "Demon Hands (uncredited)",
+            "credit_id": "66186ceb2b2108017db99b41",
+            "order": 25
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11359,
+            "known_for_department": "Production",
+            "name": "Robert Tapert",
+            "original_name": "Robert Tapert",
+            "popularity": 1.018,
+            "profile_path": "/tAtStnFgeJaTm9QmhajADZGiQi9.jpg",
+            "cast_id": 24,
+            "character": "Local Yokel (uncredited)",
+            "credit_id": "66186c69bbcae001629498e4",
+            "order": 26
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11469,
+            "known_for_department": "Camera",
+            "name": "Tim Philo",
+            "original_name": "Tim Philo",
+            "popularity": 0.4541,
+            "profile_path": null,
+            "credit_id": "66203e42ecaef50163f9b77b",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7623,
+            "known_for_department": "Directing",
+            "name": "Sam Raimi",
+            "original_name": "Sam Raimi",
+            "popularity": 5.2442,
+            "profile_path": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+            "credit_id": "66203df5a6fdaa017d6c82a4",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7623,
+            "known_for_department": "Directing",
+            "name": "Sam Raimi",
+            "original_name": "Sam Raimi",
+            "popularity": 5.2442,
+            "profile_path": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+            "credit_id": "66374542c39266012b6f66d4",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11471,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Tom Sullivan",
+            "original_name": "Tom Sullivan",
+            "popularity": 0.363,
+            "profile_path": "/wcENb3FljxbTs0fiXl33tvqCM7f.jpg",
+            "credit_id": "66a9451c748ca24fb35c4abc",
+            "department": "Costume & Make-Up",
+            "job": "Special Effects Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 11470,
+            "known_for_department": "Editing",
+            "name": "Edna Ruth Paul",
+            "original_name": "Edna Ruth Paul",
+            "popularity": 0.286,
+            "profile_path": null,
+            "credit_id": "66a944a8c55f267a2319306c",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1223,
+            "known_for_department": "Directing",
+            "name": "Joel Coen",
+            "original_name": "Joel Coen",
+            "popularity": 2.4227,
+            "profile_path": "/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg",
+            "credit_id": "66cd525dddce055f2b7ee898",
+            "department": "Editing",
+            "job": "Assistant Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11359,
+            "known_for_department": "Production",
+            "name": "Robert Tapert",
+            "original_name": "Robert Tapert",
+            "popularity": 1.018,
+            "profile_path": "/tAtStnFgeJaTm9QmhajADZGiQi9.jpg",
+            "credit_id": "67187b225be9e8759da6a0c2",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 939453,
+            "known_for_department": "Acting",
+            "name": "Bart Pierce",
+            "original_name": "Bart Pierce",
+            "popularity": 0.2624,
+            "profile_path": null,
+            "credit_id": "67187b6e9ff681d9e0a389d3",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11468,
+            "known_for_department": "Sound",
+            "name": "Joseph LoDuca",
+            "original_name": "Joseph LoDuca",
+            "popularity": 0.6192,
+            "profile_path": "/wtSopiCJFjs30sITI6fuvjEsKnL.jpg",
+            "credit_id": "67187b7de833d92ef05fa52b",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": true,
+            "gender": 0,
+            "id": 1184795,
+            "known_for_department": "Writing",
+            "name": "Joe Masefield",
+            "original_name": "Joe Masefield",
+            "popularity": 0.0,
+            "profile_path": null,
+            "credit_id": "67187bba27bd57d91f62145f",
+            "department": "Sound",
+            "job": "Supervising Sound Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 77625,
+            "known_for_department": "Directing",
+            "name": "Josh Becker",
+            "original_name": "Josh Becker",
+            "popularity": 0.6227,
+            "profile_path": "/2oLce1KhaZeEd17SDnHCxT8KAZI.jpg",
+            "credit_id": "67187be8a4ac8a432c5bc5ea",
+            "department": "Sound",
+            "job": "Sound"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1767075,
+            "known_for_department": "Camera",
+            "name": "Mike Ditz",
+            "original_name": "Mike Ditz",
+            "popularity": 0.2452,
+            "profile_path": null,
+            "credit_id": "67187c092685cb6563c0665c",
+            "department": "Camera",
+            "job": "Still Photographer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5016700,
+            "known_for_department": "Sound",
+            "name": "John Mason",
+            "original_name": "John Mason",
+            "popularity": 0.251,
+            "profile_path": null,
+            "credit_id": "67187c2a9ff681d9e0a38a76",
+            "department": "Sound",
+            "job": "Location Sound Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5016703,
+            "known_for_department": "Sound",
+            "name": "Jerry Frederick",
+            "original_name": "Jerry Frederick",
+            "popularity": 0.0322,
+            "profile_path": null,
+            "credit_id": "67187c3f5be9e8759da6a118",
+            "department": "Sound",
+            "job": "ADR Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1437860,
+            "known_for_department": "Sound",
+            "name": "Mel Zelniker",
+            "original_name": "Mel Zelniker",
+            "popularity": 0.3527,
+            "profile_path": null,
+            "credit_id": "67187c4927bd57d91f621488",
+            "department": "Sound",
+            "job": "Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1699153,
+            "known_for_department": "Sound",
+            "name": "Lou Kleinman",
+            "original_name": "Lou Kleinman",
+            "popularity": 0.505,
+            "profile_path": null,
+            "credit_id": "67187c7227bd57d91f6214c0",
+            "department": "Sound",
+            "job": "Dialogue Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5016709,
+            "known_for_department": "Sound",
+            "name": "Dolores Elliott",
+            "original_name": "Dolores Elliott",
+            "popularity": 0.2565,
+            "profile_path": null,
+            "credit_id": "67187c8727bd57d91f6214e2",
+            "department": "Sound",
+            "job": "Assistant Sound Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11359,
+            "known_for_department": "Production",
+            "name": "Robert Tapert",
+            "original_name": "Robert Tapert",
+            "popularity": 1.018,
+            "profile_path": "/tAtStnFgeJaTm9QmhajADZGiQi9.jpg",
+            "credit_id": "67187caa6e4210780f787fe6",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11357,
+            "known_for_department": "Acting",
+            "name": "Bruce Campbell",
+            "original_name": "Bruce Campbell",
+            "popularity": 3.2207,
+            "profile_path": "/p9335ljr7luOWsfwZSOlsIzFJKE.jpg",
+            "credit_id": "67187cb39ff681d9e0a38ab4",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7623,
+            "known_for_department": "Directing",
+            "name": "Sam Raimi",
+            "original_name": "Sam Raimi",
+            "popularity": 5.2442,
+            "profile_path": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+            "credit_id": "67187cbcc7802cc503599a3d",
+            "department": "Production",
+            "job": "Executive Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 769,
+            "name": "falsely accused"
+        },
+        {
+            "id": 2380,
+            "name": "audio tape"
+        },
+        {
+            "id": 2879,
+            "name": "aggression"
+        },
+        {
+            "id": 4010,
+            "name": "log cabin"
+        },
+        {
+            "id": 9713,
+            "name": "friends"
+        },
+        {
+            "id": 3623,
+            "name": "cabin"
+        },
+        {
+            "id": 12377,
+            "name": "zombie"
+        },
+        {
+            "id": 156174,
+            "name": "occult"
+        },
+        {
+            "id": 157458,
+            "name": "book of the dead"
+        },
+        {
+            "id": 157459,
+            "name": "evil dead"
+        },
+        {
+            "id": 157466,
+            "name": "necronomicon"
+        },
+        {
+            "id": 161261,
+            "name": "demonic possession"
+        },
+        {
+            "id": 162810,
+            "name": "macabre"
+        },
+        {
+            "id": 199524,
+            "name": "disturbed"
+        },
+        {
+            "id": 202371,
+            "name": "aggressive"
+        },
+        {
+            "id": 208327,
+            "name": "zealous"
+        },
+        {
+            "id": 268132,
+            "name": "based on short film"
+        },
+        {
+            "id": 287274,
+            "name": "lovecraftian"
+        },
+        {
+            "id": 325766,
+            "name": "antagonistic"
+        },
+        {
+            "id": 325798,
+            "name": "disgusted"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/6RDgtEBzjuF7W25DVziXRABchpX.jpg",
+            "id": 109428,
+            "title": "Evil Dead",
+            "original_title": "Evil Dead",
+            "overview": "Mia, a drug addict, is determined to kick the habit. To that end, she asks her brother, David, his girlfriend, Natalie and their friends Olivia and Eric to accompany her to their family's remote forest cabin to help her through withdrawal. Eric finds a mysterious Book of the Dead at the cabin and reads aloud from it, awakening an ancient demon. All hell breaks loose when the malevolent entity possesses Mia.",
+            "poster_path": "/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 23.873,
+            "release_date": "2013-04-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.635,
+            "vote_count": 5204
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4CYo6O6p0bANfXLIwQZJpXPxmPc.jpg",
+            "id": 19185,
+            "title": "Night of the Living Dead",
+            "original_title": "Night of the Living Dead",
+            "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+            "poster_path": "/7WkSCClUvcAq8JNEp4pM4A9hiDU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.0169,
+            "release_date": "1990-10-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 987
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aELgHEHFGDCcGslMoyg9KGiDV4v.jpg",
+            "id": 159117,
+            "title": "V/H/S/2",
+            "original_title": "V/H/S/2",
+            "overview": "Inside a darkened house looms a column of TVs littered with VHS tapes, a pagan shrine to forgotten analog gods. The screens crackle and pop endlessly with monochrome vistas of static white noise permeating the brain and fogging concentration. But you must fight the urge to relax: this is no mere movie night. Those obsolete spools contain more than just magnetic tape. They are imprinted with the very soul of evil.",
+            "poster_path": "/o4hcWsHaHaNQ9BBReOxLvYJNRhA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.4169,
+            "release_date": "2013-06-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.201,
+            "vote_count": 1205
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tNa19CK0CQZl5rxZ35QRdKAT2s0.jpg",
+            "id": 460885,
+            "title": "Mandy",
+            "original_title": "Mandy",
+            "overview": "The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; but when their pine-scented haven is savagely destroyed, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.",
+            "poster_path": "/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                28,
+                27
+            ],
+            "popularity": 6.1993,
+            "release_date": "2018-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.199,
+            "vote_count": 2198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
+            "id": 30497,
+            "title": "The Texas Chain Saw Massacre",
+            "original_title": "The Texas Chain Saw Massacre",
+            "overview": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way, they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
+            "poster_path": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 12.1295,
+            "release_date": "1974-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.292,
+            "vote_count": 3890
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+            "id": 913290,
+            "title": "Barbarian",
+            "original_title": "Barbarian",
+            "overview": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "poster_path": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 12.6579,
+            "release_date": "2022-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.874,
+            "vote_count": 3384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9T5D5RGuCsC6CeqYZJTv4rT4RPy.jpg",
+            "id": 9392,
+            "title": "The Descent",
+            "original_title": "The Descent",
+            "overview": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
+            "poster_path": "/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                27
+            ],
+            "popularity": 11.7137,
+            "release_date": "2005-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.986,
+            "vote_count": 4498
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
+            "id": 285923,
+            "title": "Grindhouse",
+            "original_title": "Grindhouse",
+            "overview": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
+            "poster_path": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                27
+            ],
+            "popularity": 5.1775,
+            "release_date": "2007-04-06",
+            "softcore": false,
+            "video": true,
+            "vote_average": 7.004,
+            "vote_count": 1915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m1GLbZXi5pmLE3nvKbnB7GGl5jo.jpg",
+            "id": 1089123,
+            "title": "Daddy's Head",
+            "original_title": "Daddy's Head",
+            "overview": "A boy and his stepmother fear for their safety after an eerie creature resembling the boy's recently deceased father visits them.",
+            "poster_path": "/nEWbEBs8BalwasA4Un8rll3kauT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 4.571,
+            "release_date": "2024-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.937,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+            "id": 1426297,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+            "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.9648,
+            "release_date": "2025-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ApB0mF2d5Oqioi3yxjuogiotSLI.jpg",
+            "id": 985,
+            "title": "Eraserhead",
+            "original_title": "Eraserhead",
+            "overview": "First-time father Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
+            "poster_path": "/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 8.6009,
+            "release_date": "1977-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.336,
+            "vote_count": 2785
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xAC9kXLxUHpdCkISgYcLzYrxIQR.jpg",
+            "id": 84348,
+            "title": "V/H/S",
+            "original_title": "V/H/S",
+            "overview": "When a group of misfits is hired by an unknown third party to burglarize a desolate house and acquire one rare VHS tape, they discover more found footage than they had bargained for.",
+            "poster_path": "/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 5.1103,
+            "release_date": "2012-07-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.103,
+            "vote_count": 1737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rspbS1E9wJtslrb8amfJgtMBUVh.jpg",
+            "id": 924,
+            "title": "Dawn of the Dead",
+            "original_title": "Dawn of the Dead",
+            "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+            "poster_path": "/ttquyxStEEctzghtA2f4PUGprDr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                28
+            ],
+            "popularity": 12.2186,
+            "release_date": "2004-03-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.082,
+            "vote_count": 4609
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aFnF8gvNedNWHoCNTjZWphebecd.jpg",
+            "id": 13190,
+            "title": "Dead Space: Downfall",
+            "original_title": "Dead Space: Downfall",
+            "overview": "On a deep space mining mission to a remote planet, an ancient religious relic - thought to be proof of the existence of God - is unearthed and brought aboard. When the unholy artifact unleashes a long-dormant alien race, its glimpse of Heaven transforms the ship into a living Hell. A prequel to the events of the 2008 video game Dead Space.",
+            "poster_path": "/w8KNXRQF9UzplokFlDrNMt0FkW7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                27,
+                878,
+                53
+            ],
+            "popularity": 4.2309,
+            "release_date": "2008-10-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.688,
+            "vote_count": 449
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2W8iYJBSA25ENrM25GbVO4EiWAO.jpg",
+            "id": 25239,
+            "title": "Day of the Woman",
+            "original_title": "Day of the Woman",
+            "overview": "A young, beautiful career woman rents a backwoods cabin to write her first novel. Attacked by a group of local lowlifes and left for dead, she devises a horrific plan to inflict revenge.",
+            "poster_path": "/nMCkOo26GtISoxJmpkTAJyMqBO8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.1059,
+            "release_date": "1978-11-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.019,
+            "vote_count": 728
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c0zsDJV9Xhb4rhzWWzgFEh1S3mO.jpg",
+            "id": 42455,
+            "title": "And Now the Screaming Starts!",
+            "original_title": "And Now the Screaming Starts!",
+            "overview": "In the late 18th century, two newlyweds move into the stately mansion of the Fengriffen family. The young bride is victim of terrifying visions and apparitions, threatening her very sanity. A London psychiatrist comes to her help and uncovers the terrible secret that haunts the estate.",
+            "poster_path": "/t7qtRYAL9K1g0FAv3QHEvZ12ork.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.1133,
+            "release_date": "1973-04-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.937,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/M4flX60WzUuKFruXTp3OhLxhnv.jpg",
+            "id": 13515,
+            "title": "Mirrors",
+            "original_title": "Mirrors",
+            "overview": "An ex-cop and his family are the target of an evil force that is using mirrors as a gateway into their home.",
+            "poster_path": "/bt5a4ThyLpLTsia2e2ZTLzQjXO0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 6.5047,
+            "release_date": "2008-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.302,
+            "vote_count": 2089
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ow1CdUbmZPMKqDj2bow98A2cwCT.jpg",
+            "id": 480100,
+            "title": "Nightmare Cinema",
+            "original_title": "Nightmare Cinema",
+            "overview": "A series of down-on-their-luck individuals enter the decrepit and spine-chilling Rialto theater, only to have their deepest and darkest fears brought to life on the silver screen by The Projectionist – a mysterious, ghostly figure who holds the nightmarish futures of all who attend his screenings.",
+            "poster_path": "/ftdhL4zamDnjSD4TML1ES79DueX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.8427,
+            "release_date": "2018-06-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.84,
+            "vote_count": 263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5KtmBSqFtHY3I9t8lgH27Mc0bqY.jpg",
+            "id": 10331,
+            "title": "Night of the Living Dead",
+            "original_title": "Night of the Living Dead",
+            "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+            "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "popularity": 7.9103,
+            "release_date": "1968-10-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.607,
+            "vote_count": 2783
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1iBMzeqVOudzAQDEy0NuLg4NRTh.jpg",
+            "id": 32998,
+            "title": "Necronomicon",
+            "original_title": "Necronomicon",
+            "overview": "H.P. Lovecraft anthology is divided into four segments: \"The Library\" which is the wraparound segment involving Lovecraft's research into the Book of The Dead and his unwitting release of a monster and his writing of the following horror segments \"The Drowned\", \"The Cold\", and \"Whispers\".",
+            "poster_path": "/ryV8xeOHvRiPBVsSwb8jqwGZeuC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.3273,
+            "release_date": "1993-11-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.954,
+            "vote_count": 197
+        }
+    ]
+}

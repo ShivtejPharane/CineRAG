@@ -1,0 +1,1019 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/96VJyrJjHu1ERk9VhHw5kJK5ZsD.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 45933,
+        "imdb_id": "tt0076735",
+        "origin_country": [
+            "IT"
+        ],
+        "original_language": "it",
+        "original_title": "La soldatessa alla visita militare",
+        "overview": "Army Doctor Eva Marini wants to join a regiment to secure equal rights for women. So her commanding officer sends her off to a boot camp led by Renzo Montagnani, where only the most unruly soldiers end up.",
+        "popularity": 10.1474,
+        "poster_path": "/zvLqUjxh9RId7YzK8Xchu8fQaHk.jpg",
+        "production_companies": [
+            {
+                "id": 1701,
+                "logo_path": null,
+                "name": "Dania Film",
+                "origin_country": "IT"
+            },
+            {
+                "id": 15868,
+                "logo_path": null,
+                "name": "Medusa Distribuzione",
+                "origin_country": "IT"
+            },
+            {
+                "id": 32208,
+                "logo_path": null,
+                "name": "Imp.Ex.Ci.",
+                "origin_country": "FR"
+            },
+            {
+                "id": 1639,
+                "logo_path": null,
+                "name": "Les Films Jacques Leitienne",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "1977-09-02",
+        "revenue": 0,
+        "runtime": 84,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Nurse on a Military Tour",
+        "video": false,
+        "vote_average": 5.012,
+        "vote_count": 43
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 44434,
+            "known_for_department": "Acting",
+            "name": "Edwige Fenech",
+            "original_name": "Edwige Fenech",
+            "popularity": 2.6161,
+            "profile_path": "/AplCfkkWGoPdh6FgOI1sKvlg9IY.jpg",
+            "cast_id": 4,
+            "character": "Eva Marini",
+            "credit_id": "52fe46dac3a36847f8115d37",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11190,
+            "known_for_department": "Acting",
+            "name": "Renzo Montagnani",
+            "original_name": "Renzo Montagnani",
+            "popularity": 0.8282,
+            "profile_path": "/fg11GzaogxIDZvBF9VoHPodSHxo.jpg",
+            "cast_id": 5,
+            "character": "Colonnello Narciso Fiaschetta",
+            "credit_id": "52fe46dac3a36847f8115d3b",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 134213,
+            "known_for_department": "Acting",
+            "name": "Fiorenzo Fiorentini",
+            "original_name": "Fiorenzo Fiorentini",
+            "popularity": 0.6894,
+            "profile_path": "/n3U2gyx9nvzfNvdbW4vXfJyRksq.jpg",
+            "cast_id": 6,
+            "character": "Warrant Officer at the depot",
+            "credit_id": "52fe46dac3a36847f8115d3f",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 38593,
+            "known_for_department": "Acting",
+            "name": "Alvaro Vitali",
+            "original_name": "Alvaro Vitali",
+            "popularity": 1.0313,
+            "profile_path": "/6Lel88DA599JZfxYGSBn1s1sOnM.jpg",
+            "cast_id": 7,
+            "character": "Alvaro Quattromani",
+            "credit_id": "52fe46dac3a36847f8115d43",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 119992,
+            "known_for_department": "Acting",
+            "name": "Leo Gullotta",
+            "original_name": "Leo Gullotta",
+            "popularity": 0.9941,
+            "profile_path": "/wn9LQjKRZxrXm6a5zyfrLs71ChM.jpg",
+            "cast_id": 9,
+            "character": "Captain Lopez - doctor",
+            "credit_id": "52fe46dac3a36847f8115d4b",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 134214,
+            "known_for_department": "Acting",
+            "name": "Michele Gammino",
+            "original_name": "Michele Gammino",
+            "popularity": 0.5011,
+            "profile_path": null,
+            "cast_id": 8,
+            "character": "Gavino Piras",
+            "credit_id": "52fe46dac3a36847f8115d47",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 91545,
+            "known_for_department": "Acting",
+            "name": "Tiberio Murgia",
+            "original_name": "Tiberio Murgia",
+            "popularity": 0.6097,
+            "profile_path": "/uwtYy6bZLOkFMeVR4fgnoDncuNp.jpg",
+            "cast_id": 19,
+            "character": "Generale Patterson",
+            "credit_id": "5982431cc3a3680d3201d033",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 120637,
+            "known_for_department": "Acting",
+            "name": "Mario Carotenuto",
+            "original_name": "Mario Carotenuto",
+            "popularity": 0.9123,
+            "profile_path": "/xr7zoHY4fnmvn3ZwUoybvbSpdRG.jpg",
+            "cast_id": 21,
+            "character": "Colonnello Farina",
+            "credit_id": "5982433992514151e701c27c",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 38598,
+            "known_for_department": "Acting",
+            "name": "Lucio Montanaro",
+            "original_name": "Lucio Montanaro",
+            "popularity": 0.5125,
+            "profile_path": "/zCJclgTAafgTgml3a2W04xgs9sG.jpg",
+            "cast_id": 22,
+            "character": "Soldato Montanaro",
+            "credit_id": "59824343c3a3680cfb01b1bd",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150915,
+            "known_for_department": "Acting",
+            "name": "Enrico Beruschi",
+            "original_name": "Enrico Beruschi",
+            "popularity": 0.5647,
+            "profile_path": "/2sHYJr1VTTMk4apM7cEmBYH4bvh.jpg",
+            "cast_id": 23,
+            "character": "il prete",
+            "credit_id": "5982434c92514151c501b275",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 93126,
+            "known_for_department": "Acting",
+            "name": "Jacques Stany",
+            "original_name": "Jacques Stany",
+            "popularity": 0.6385,
+            "profile_path": "/lNPmGxFsR2Jtvovbr2AV6fAGjbl.jpg",
+            "cast_id": 10,
+            "character": "Musumeci, il poliziotto",
+            "credit_id": "52fe46dac3a36847f8115d4f",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 134215,
+            "known_for_department": "Acting",
+            "name": "Nino Terzo",
+            "original_name": "Nino Terzo",
+            "popularity": 0.6738,
+            "profile_path": "/7ZYo88mFpPYJ1TO9HdonMb0PAQG.jpg",
+            "cast_id": 11,
+            "character": "Caporale al deposito",
+            "credit_id": "52fe46dac3a36847f8115d53",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 144617,
+            "known_for_department": "Acting",
+            "name": "Renzo Ozzano",
+            "original_name": "Renzo Ozzano",
+            "popularity": 0.5898,
+            "profile_path": "/oYvPrWOoHFd1dGYbd509zm3Wp2b.jpg",
+            "cast_id": 24,
+            "character": "Sergente",
+            "credit_id": "5982437392514151d401c4b2",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1008489,
+            "known_for_department": "Acting",
+            "name": "Dante Cleri",
+            "original_name": "Dante Cleri",
+            "popularity": 0.5867,
+            "profile_path": "/cQM8nfs0k4bdqHZmqiji4cp8jUw.jpg",
+            "cast_id": 25,
+            "character": "Commendator Guarducci",
+            "credit_id": "5982437dc3a3680cdc01a743",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1033012,
+            "known_for_department": "Acting",
+            "name": "Graziella Polesinanti",
+            "original_name": "Graziella Polesinanti",
+            "popularity": 0.5099,
+            "profile_path": "/yf0aL8XhrEAFuGZVwbrEQJZiEk7.jpg",
+            "cast_id": 26,
+            "character": "Graziella, moglie del Commendator Guarducci",
+            "credit_id": "5982438e92514151e001cad6",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 130617,
+            "known_for_department": "Acting",
+            "name": "Dino Emanuelli",
+            "original_name": "Dino Emanuelli",
+            "popularity": 0.4047,
+            "profile_path": "/fAyiZi0kBGDnL9h1qYSFqZWd9IR.jpg",
+            "cast_id": 27,
+            "character": "un ufficiale",
+            "credit_id": "5982439992514151ed01b732",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 101196,
+            "known_for_department": "Acting",
+            "name": "Franco Caracciolo",
+            "original_name": "Franco Caracciolo",
+            "popularity": 0.4783,
+            "profile_path": "/krozhumz57kaox4DjInHKswS3QZ.jpg",
+            "cast_id": 28,
+            "character": "Travestito",
+            "credit_id": "598243a292514151ed01b741",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 585914,
+            "known_for_department": "Acting",
+            "name": "Cesare Di Vito",
+            "original_name": "Cesare Di Vito",
+            "popularity": 0.5237,
+            "profile_path": "/kIgezJQxWoJozuVa2diRrY6WEfj.jpg",
+            "cast_id": 30,
+            "character": "soldato",
+            "credit_id": "5c2207059251416805c2d6cb",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2201420,
+            "known_for_department": "Acting",
+            "name": "Marcello Pascucci",
+            "original_name": "Marcello Pascucci",
+            "popularity": 0.1727,
+            "profile_path": null,
+            "cast_id": 31,
+            "character": "soldato",
+            "credit_id": "5c2207130e0a264dd8ef3c3b",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1702927,
+            "known_for_department": "Acting",
+            "name": "Enrico Abate",
+            "original_name": "Enrico Abate",
+            "popularity": 0.203,
+            "profile_path": null,
+            "cast_id": 32,
+            "character": "soldato",
+            "credit_id": "5c22071d0e0a264ddeef221c",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5022331,
+            "known_for_department": "Acting",
+            "name": "Tony Morgan",
+            "original_name": "Tony Morgan",
+            "popularity": 0.3211,
+            "profile_path": null,
+            "cast_id": 33,
+            "character": "soldato",
+            "credit_id": "671c17e2a4ac8a432c5c5237",
+            "order": 20
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 33924,
+            "known_for_department": "Directing",
+            "name": "Nando Cicero",
+            "original_name": "Nando Cicero",
+            "popularity": 0.7536,
+            "profile_path": "/oHMGWfObsyFAX4zpwMfa0CekEHK.jpg",
+            "credit_id": "52fe46dac3a36847f8115d27",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 134212,
+            "known_for_department": "Writing",
+            "name": "Francesco Milizia",
+            "original_name": "Francesco Milizia",
+            "popularity": 0.7079,
+            "profile_path": null,
+            "credit_id": "52fe46dac3a36847f8115d2d",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 33924,
+            "known_for_department": "Directing",
+            "name": "Nando Cicero",
+            "original_name": "Nando Cicero",
+            "popularity": 0.7536,
+            "profile_path": "/oHMGWfObsyFAX4zpwMfa0CekEHK.jpg",
+            "credit_id": "52fe46dac3a36847f8115d33",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21230,
+            "known_for_department": "Production",
+            "name": "Luciano Martino",
+            "original_name": "Luciano Martino",
+            "popularity": 0.7759,
+            "profile_path": "/hbfPn5q6LRXCudSqfoOMLatzz2.jpg",
+            "credit_id": "57f160f592514141ee01251c",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 91546,
+            "known_for_department": "Sound",
+            "name": "Piero Umiliani",
+            "original_name": "Piero Umiliani",
+            "popularity": 1.2011,
+            "profile_path": "/fvUySwSc1IzL1OmO6biTUWDSzi0.jpg",
+            "credit_id": "57f160fdc3a3685913003c0c",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21232,
+            "known_for_department": "Camera",
+            "name": "Giancarlo Ferrando",
+            "original_name": "Giancarlo Ferrando",
+            "popularity": 0.4641,
+            "profile_path": "/mgWf676SJjtPCwqSSgcVb4F43FB.jpg",
+            "credit_id": "57f16104c3a368684b001679",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 59367,
+            "known_for_department": "Editing",
+            "name": "Daniele Alabiso",
+            "original_name": "Daniele Alabiso",
+            "popularity": 0.46,
+            "profile_path": null,
+            "credit_id": "57f1610a9251415c72003c31",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 33813,
+            "known_for_department": "Art",
+            "name": "Giacomo Caló Carducci",
+            "original_name": "Giacomo Caló Carducci",
+            "popularity": 0.4926,
+            "profile_path": null,
+            "credit_id": "57f1611192514141ee01252a",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 33861,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Silvio Laurenzi",
+            "original_name": "Silvio Laurenzi",
+            "popularity": 0.3293,
+            "profile_path": "/A92IgQjbtsnPDQ6VM90lGh2nndz.jpg",
+            "credit_id": "57f161199251414af80017c2",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1176071,
+            "known_for_department": "Writing",
+            "name": "Annie Albert",
+            "original_name": "Annie Albert",
+            "popularity": 0.392,
+            "profile_path": null,
+            "credit_id": "57f16129c3a36868c200187e",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2003129,
+            "known_for_department": "Production",
+            "name": "Evi Farinelli",
+            "original_name": "Evi Farinelli",
+            "popularity": 0.3938,
+            "profile_path": "/AiPeiTtgBKiF3uR5hPu2bShQEUG.jpg",
+            "credit_id": "5b85ceac9251414a0f00162a",
+            "department": "Production",
+            "job": "Production Manager"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 6092,
+            "name": "army"
+        },
+        {
+            "id": 966,
+            "name": "beach"
+        },
+        {
+            "id": 428,
+            "name": "nurse"
+        },
+        {
+            "id": 1422,
+            "name": "boat"
+        },
+        {
+            "id": 6350,
+            "name": "head injury"
+        },
+        {
+            "id": 10093,
+            "name": "priest"
+        },
+        {
+            "id": 10031,
+            "name": "nudism"
+        },
+        {
+            "id": 13005,
+            "name": "doctor"
+        },
+        {
+            "id": 13065,
+            "name": "soldier"
+        },
+        {
+            "id": 15321,
+            "name": "police station"
+        },
+        {
+            "id": 33699,
+            "name": "policeman"
+        },
+        {
+            "id": 155477,
+            "name": "softcore"
+        },
+        {
+            "id": 162365,
+            "name": "military"
+        },
+        {
+            "id": 170431,
+            "name": "blow up doll"
+        },
+        {
+            "id": 170827,
+            "name": "sex comedy"
+        },
+        {
+            "id": 193724,
+            "name": "nude beach"
+        },
+        {
+            "id": 211677,
+            "name": "sunbathing"
+        },
+        {
+            "id": 252079,
+            "name": "naturism"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/4lNbhZcnrjG079TUkG1mIi2wen0.jpg",
+            "id": 11008,
+            "title": "Major Payne",
+            "original_title": "Major Payne",
+            "overview": "Major Benson Winifred Payne is being discharged from the Marines. Payne is a killin' machine, but the wars of the world are no longer fought on the battlefield. A career Marine, he has no idea what to do as a civilian, so his commander finds him a job - commanding officer of a local school's JROTC program, a bunch of ragtag losers with no hope.",
+            "poster_path": "/kWHx5eq7PELkF3If7LrrhuBskRG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                35,
+                10751
+            ],
+            "popularity": 5.863,
+            "release_date": "1995-03-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.488,
+            "vote_count": 915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yI0xd7X8UktQ6cb8TdWKNTOWxhm.jpg",
+            "id": 8764,
+            "title": "Top Secret!",
+            "original_title": "Top Secret!",
+            "overview": "Popular and dashing American singer Nick Rivers travels to East Germany to perform in a music festival. When he loses his heart to the gorgeous Hillary Flammond, he finds himself caught up in an underground resistance movement. Rivers joins forces with Agent Cedric and Flammond to attempt the rescue of her father, Dr. Paul, from the Germans, who have captured the scientist in hopes of coercing him into building a new naval mine.",
+            "poster_path": "/hRTbfR27xghnVMs3ZJ3EhK3zzud.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 6.0449,
+            "release_date": "1984-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.098,
+            "vote_count": 1439
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a7m4NkcKcN6ancZdIs3jBCvNIBU.jpg",
+            "id": 11144,
+            "title": "They Called Him Bulldozer",
+            "original_title": "Lo chiamavano Bulldozer",
+            "overview": "The \"Bulldozer\", a former football star, is now working as a fisherman. As a group of street-people arranges a football match against the local Armybase, he is asked to be their trainer. His boat was damaged by a submarine and he currently has no work, so he agrees.",
+            "poster_path": "/qVaw72xh9ViQ5GHoegAbzcmBQb.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "popularity": 2.5836,
+            "release_date": "1978-09-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lKoEEg7Nf1FUPSzRR0oMtPIqiyX.jpg",
+            "id": 9255,
+            "title": "Hot Shots! Part Deux",
+            "original_title": "Hot Shots! Part Deux",
+            "overview": "Topper Harley is found to be working as an odd-job-man in a monastery. The CIA want him to lead a rescue mission into Iraq, to rescue the last rescue team, who went in to rescue the last rescue team—who went in to rescue hostages left behind after Desert Storm.",
+            "poster_path": "/zh9EGK970GHo10ETclWBOjZVUOK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                10752
+            ],
+            "popularity": 7.5355,
+            "release_date": "1993-05-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.545,
+            "vote_count": 2104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gwHVYWTYZIW6MM8EgFEiQEMWAAR.jpg",
+            "id": 61930,
+            "title": "Bagnomaria",
+            "original_title": "Bagnomaria",
+            "overview": "In Pietrasanta all are excited for the annual party of summer end. Here we find four characters: Merigo, a naive guy passionate of bike; Pierre, son of the mayor; Simone, a pestiferous kid; Mario, lifeguard of \"Bagnomaria\".",
+            "poster_path": "/7yxgsYHa1RCUYdnSyc73uazjgpT.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 15.3828,
+            "release_date": "1999-02-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c68Nl00QKNFyAoVX0VgGToGXhDX.jpg",
+            "id": 36283,
+            "title": "What Did You Do in the War, Daddy?",
+            "original_title": "What Did You Do in the War, Daddy?",
+            "overview": "A by-the-book Captain is ordered to capture a strategic village in Italy. The Italian soldiers are willing to surrender, if they can have a festival first. The lieutenant convinces the Captain this is the only way. Because of aerial reconnaissance, they must look like they are fighting. To sort this out an intelligence officer is sent in. Meanwhile the festival gets complicated with the Mayors daughter.",
+            "poster_path": "/dgJL21bZBUF22jJHt66be84mcpc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "popularity": 2.1154,
+            "release_date": "1966-08-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.862,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4RriqSJFCQkYpRhxFnQGh3sxZYY.jpg",
+            "id": 9595,
+            "title": "Hot Shots!",
+            "original_title": "Hot Shots!",
+            "overview": "The gang that created Airplane! and The Naked Gun sets its sights on Top Gun in this spoof. Topper Harley is a talented but unstable fighter pilot with an axe to grind: clearing the family name. His mission is to avenge his father and save a mission sabotaged by greedy weapons manufacturers. He also gets involved in a relationship with Ramada Thompson, a woman with an unusually talented stomach. Hot Shots! makes fun of a variety of other films, from Dances with Wolves to The Fabulous Baker Boys.",
+            "poster_path": "/koLIB5263emHxewmwgBBK26vjeS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                10752
+            ],
+            "popularity": 10.5527,
+            "release_date": "1991-07-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.584,
+            "vote_count": 2497
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/avVrtjS17rkmRxNYLxsUONEVqBk.jpg",
+            "id": 14035,
+            "title": "Meatballs",
+            "original_title": "Meatballs",
+            "overview": "Tripper is the head counselor at a budget summer camp called Camp Northstar. In truth, he's young at heart and only marginally more mature than the campers themselves. Tripper befriends Rudy, a loner camper who has trouble fitting in. As Tripper inspires his young charges to defeat rival Camp Mohawk in the annual Olympiad competition, Rudy plays matchmaker between Tripper and Roxanne, a female counselor at Northstar.",
+            "poster_path": "/9YA2erSNcca9NWd0xePC9ArFWnx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 5.8475,
+            "release_date": "1979-06-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.832,
+            "vote_count": 365
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lSOsWk2A66ACgvhxuzORtouMm9R.jpg",
+            "id": 82114,
+            "title": "Goodnight, Ladies and Gentlemen",
+            "original_title": "Signore e signori, buonanotte",
+            "overview": "An episodic satire of the political and social status of Italy in the seventies, through the shows of one day of a television channel.",
+            "poster_path": "/4LMtB7ogDvx2ywRbzjZARLHQ6V1.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.4863,
+            "release_date": "1976-10-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.683,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i24FmWwXtOIKMNHWb0HC8AAEeoB.jpg",
+            "id": 429801,
+            "title": "Gabriel Iglesias: I'm Sorry for What I Said When I Was Hungry",
+            "original_title": "Gabriel Iglesias: I'm Sorry for What I Said When I Was Hungry",
+            "overview": "Hawaiian-shirt enthusiast Gabriel \"Fluffy\" Iglesias finds the laughs in racist gift baskets, Prius-driving cops and all-female taco trucks.",
+            "poster_path": "/eOgTfgiIbrqVB9Ll0T5PtOD8RGb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 2.2988,
+            "release_date": "2016-12-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.006,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mjeXzLiOUSDJOUKUhm5EUoHJWB6.jpg",
+            "id": 58191,
+            "title": "He's Worse than Me",
+            "original_title": "Lui è peggio di me",
+            "overview": "Two reckless friends Leonardo (Adriano Celentano) and Luciano (Renato Potstsetto) are just doing whatever they want and getting into endless alterations. When one of them decides to marry, their friendship is in a crisis ...",
+            "poster_path": "/uF1o872Shzi4JdxzgkSLJ1lNwOf.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 3.6537,
+            "release_date": "1985-02-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.298,
+            "vote_count": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5BShmjcYdkuTbSIWufRzNpZFUNK.jpg",
+            "id": 14008,
+            "title": "Cadet Kelly",
+            "original_title": "Cadet Kelly",
+            "overview": "Hyperactive teenager Kelly is enrolled into a military school when her new stepfather becomes the Commandant. At first she has problems fitting in and taking orders until she tries out for the drill team.",
+            "poster_path": "/eKtznndgJoVG9S9UENc7kHqmhgM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                35,
+                10770
+            ],
+            "popularity": 4.1151,
+            "release_date": "2002-03-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9FrpAtF87VKblKkDEiIZzYgO40K.jpg",
+            "id": 2109,
+            "title": "Rush Hour",
+            "original_title": "Rush Hour",
+            "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
+            "poster_path": "/nwPhAsfnb7f46bZkWLG7IRP5HXr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "popularity": 18.7986,
+            "release_date": "1998-09-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.083,
+            "vote_count": 5791
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w5XLCxf5WzsqGC94r4O2wOlCY59.jpg",
+            "id": 1319895,
+            "title": "Hostile Takeover",
+            "original_title": "Hostile Takeover",
+            "overview": "Follows Pete, a professional hitman, as he faces a group of assassins after the boss of a crime syndicate suspects disloyalty due to his attendance at Workaholics Anonymous meetings.",
+            "poster_path": "/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "popularity": 4.5426,
+            "release_date": "2025-08-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.891,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9mprVUhXPjdpSaiSon44uG9Dnv2.jpg",
+            "id": 838197,
+            "title": "...Watch Out, We're Mad",
+            "original_title": "...altrimenti ci arrabbiamo!",
+            "overview": "Estranged, quarreling brothers Carezza and Sorriso have to put aside their differences to reclaim their father's beloved dune buggy from predatory real estate developer Torsillo, with the help of beautiful circus performer Miriam, whose family business is threatened by Torsillo's enforcers.",
+            "poster_path": "/ohiRHcLgqtpg82Keglufvlp8xuu.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                35,
+                28
+            ],
+            "popularity": 1.9133,
+            "release_date": "2022-03-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.081,
+            "vote_count": 215
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xG1rDofqghJBN9N0Pbko1q1WOxY.jpg",
+            "id": 462883,
+            "title": "Woody Woodpecker",
+            "original_title": "Woody Woodpecker",
+            "overview": "Woody Woodpecker enters a turf war with a big city lawyer wanting to tear down his home in an effort to build a house to flip.",
+            "poster_path": "/cSo4vsBdzTNJG24VYgAkGgeYkAs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751,
+                16
+            ],
+            "popularity": 3.8588,
+            "release_date": "2017-10-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 775
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2bCcm0ENZYvInREBoEYGFxg96Kb.jpg",
+            "id": 6399,
+            "title": "Who Finds a Friend Finds a Treasure",
+            "original_title": "Chi trova un amico trova un tesoro",
+            "overview": "Alan gets a map to some war treasure which the Japanese army left behind on a small Pacific island at the end of World War II. But some gangsters try to steal the map from him and so he hides on Charlie's boat which just leaves the harbor. He manipulates the ship's compass so that Charlie is not aware that he is sailing to the treasure island. But when they step on the island, they discover that it is not as abandoned as they believed: there are some natives - and a Japanese soldier still defending the treasure",
+            "poster_path": "/8fl6sXVv5fWMpDxFDab54qc71tv.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "popularity": 3.548,
+            "release_date": "1981-12-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 691
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ekNXqMP50X7w7zAPWuikxdjWlwC.jpg",
+            "id": 54540,
+            "title": "Beverly Hills Chihuahua 2",
+            "original_title": "Beverly Hills Chihuahua 2",
+            "overview": "Puppy mayhem turns the lives of newlywed Chihuahua parents Papi and Chloe upside down when their rambunctious, mischievous puppies present one challenge after another. But when their human owners end up in trouble, the tiny pups will stop at nothing to save them - because in good times and hard times, the family always sticks together. So Papi, Chloe and the puppies embark on a heroic adventure, proving once again that big heroes come in small packages.",
+            "poster_path": "/k3IHj3utp8m0X1KpNHyfOIsypE1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "popularity": 3.821,
+            "release_date": "2011-02-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.916,
+            "vote_count": 419
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cJwkku3SPprS0Splfgh8VFRd0xn.jpg",
+            "id": 638597,
+            "title": "YES DAY",
+            "original_title": "YES DAY",
+            "overview": "A mom and dad who usually say no decide to say yes to their kids' wildest requests — with a few ground rules — on a whirlwind day of fun and adventure.",
+            "poster_path": "/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "popularity": 6.5401,
+            "release_date": "2021-03-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.673,
+            "vote_count": 1311
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lprN6r3ufTAeCtRf1K1uD9eIska.jpg",
+            "id": 11333,
+            "title": "Super Fuzz",
+            "original_title": "Poliziotto superpiù",
+            "overview": "While delivering a parking ticket to a small village in the Florida everglades, Officer Dave Speed finds himself in the middle of a radiation experiment conducted by the American government and NASA, where a detonated nuclear missile gives him a multitude of superpowers.",
+            "poster_path": "/8kSgFV7nvzLVJhmVkq8n4k2VoC0.jpg",
+            "media_type": "movie",
+            "original_language": "it",
+            "genre_ids": [
+                14,
+                28,
+                35,
+                878
+            ],
+            "popularity": 3.2821,
+            "release_date": "1980-09-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.463,
+            "vote_count": 365
+        }
+    ]
+}

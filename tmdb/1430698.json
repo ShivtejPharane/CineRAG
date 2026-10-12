@@ -1,0 +1,921 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/qaMQOtAZ6K4RneNDa1yDlJv1V6J.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 1430698,
+        "imdb_id": "tt30217600",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Bay",
+        "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
+        "popularity": 67.8307,
+        "poster_path": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+        "production_companies": [
+            {
+                "id": 205365,
+                "logo_path": "/9kOY6nol0rS6c9qqnRZAWDwGOer.png",
+                "name": "Roundtable Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 232155,
+                "logo_path": "/q0yHpDzRXM4cigSlh390uTbX9AJ.png",
+                "name": "Laguna Six",
+                "origin_country": "US"
+            },
+            {
+                "id": 89989,
+                "logo_path": null,
+                "name": "Del Rey Films",
+                "origin_country": ""
+            },
+            {
+                "id": 101293,
+                "logo_path": null,
+                "name": "Peak Distribution Partners",
+                "origin_country": ""
+            },
+            {
+                "id": 86250,
+                "logo_path": "/sLcBDJaYGZdra3Fy4tXDhKCWrNR.png",
+                "name": "WeBros Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 302754,
+                "logo_path": null,
+                "name": "Cosmic Distribution",
+                "origin_country": "US"
+            },
+            {
+                "id": 200154,
+                "logo_path": "/Aa2JyFIiaLLbhliCpZtZ323aevH.png",
+                "name": "Architect",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2026-07-02",
+        "revenue": 0,
+        "runtime": 87,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Welcome to paradise.",
+        "title": "The Bay",
+        "video": false,
+        "vote_average": 5.975,
+        "vote_count": 20
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1274513,
+            "known_for_department": "Acting",
+            "name": "Francesca Eastwood",
+            "original_name": "Francesca Eastwood",
+            "popularity": 1.6318,
+            "profile_path": "/stVF1cGuXJliykckGShBCscgaFq.jpg",
+            "cast_id": 1,
+            "character": "Emma",
+            "credit_id": "67a6313c77b8ced4566714c4",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2924721,
+            "known_for_department": "Acting",
+            "name": "Dani Oliveros",
+            "original_name": "Dani Oliveros",
+            "popularity": 0.8281,
+            "profile_path": "/7wsCSTDrfSoQiRjkHsjC3nWq7KA.jpg",
+            "cast_id": 2,
+            "character": "Lani",
+            "credit_id": "67a631504dc052ba5585f598",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 118753,
+            "known_for_department": "Acting",
+            "name": "Alexander Wraith",
+            "original_name": "Alexander Wraith",
+            "popularity": 1.2416,
+            "profile_path": "/yZ4j5eEebjJkrowhUvAK7UEtsFq.jpg",
+            "cast_id": 3,
+            "character": "Mandal",
+            "credit_id": "67a6315d5088b94597300459",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3233784,
+            "known_for_department": "Acting",
+            "name": "Ta'imua",
+            "original_name": "Ta'imua",
+            "popularity": 0.5753,
+            "profile_path": "/dfgPorHiCISPFxIF2JUNsrV4Xp7.jpg",
+            "cast_id": 4,
+            "character": "Ruhan",
+            "credit_id": "67a6316fdf336f38ab85f3b2",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4853260,
+            "known_for_department": "Production",
+            "name": "Calan Scherer",
+            "original_name": "Calan Scherer",
+            "popularity": 0.251,
+            "profile_path": null,
+            "cast_id": 23,
+            "character": "Kai",
+            "credit_id": "6a3cb8f84add0ef63abe8ada",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6307420,
+            "known_for_department": "Acting",
+            "name": "Destiny Benner",
+            "original_name": "Destiny Benner",
+            "popularity": 0.3557,
+            "profile_path": null,
+            "cast_id": 24,
+            "character": "Christy",
+            "credit_id": "6a3cb900ff71499df10cd9be",
+            "order": 5
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1115305,
+            "known_for_department": "Directing",
+            "name": "Phil Volken",
+            "original_name": "Phil Volken",
+            "popularity": 0.606,
+            "profile_path": null,
+            "credit_id": "67a6317d5088b94597300460",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1115305,
+            "known_for_department": "Directing",
+            "name": "Phil Volken",
+            "original_name": "Phil Volken",
+            "popularity": 0.606,
+            "profile_path": null,
+            "credit_id": "67a631865088b94597300463",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1787787,
+            "known_for_department": "Production",
+            "name": "Dominic Vicari",
+            "original_name": "Dominic Vicari",
+            "popularity": 0.2586,
+            "profile_path": null,
+            "credit_id": "67a631a15088b94597300473",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1661026,
+            "known_for_department": "Production",
+            "name": "Alina Shraybman",
+            "original_name": "Alina Shraybman",
+            "popularity": 0.3129,
+            "profile_path": null,
+            "credit_id": "67a631b0df336f38ab85f3e0",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1777110,
+            "known_for_department": "Production",
+            "name": "Michael Weiss",
+            "original_name": "Michael Weiss",
+            "popularity": 0.7274,
+            "profile_path": "/sldWZZMkKRKXlVYx9SGy8JXDKJV.jpg",
+            "credit_id": "67a631bfdf336f38ab85f3e7",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 215661,
+            "known_for_department": "Acting",
+            "name": "Max Pirkis",
+            "original_name": "Max Pirkis",
+            "popularity": 1.0775,
+            "profile_path": "/eZn9hZvzzQOyrDT6oOq7bK4VLiZ.jpg",
+            "credit_id": "67a631cd1f6b3834ff2fdb91",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4853262,
+            "known_for_department": "Production",
+            "name": "David Scherer",
+            "original_name": "David Scherer",
+            "popularity": 0.2898,
+            "profile_path": null,
+            "credit_id": "67a631de43781b4bfa3004be",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1863260,
+            "known_for_department": "Production",
+            "name": "Dan Reardon",
+            "original_name": "Dan Reardon",
+            "popularity": 0.3251,
+            "profile_path": null,
+            "credit_id": "67a631ed4dc052ba5585f5f0",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5231744,
+            "known_for_department": "Production",
+            "name": "Austin Mansur",
+            "original_name": "Austin Mansur",
+            "popularity": 0.2508,
+            "profile_path": null,
+            "credit_id": "67a631fd77b8ced45667153d",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2574130,
+            "known_for_department": "Crew",
+            "name": "Derek Korogodsky",
+            "original_name": "Derek Korogodsky",
+            "popularity": 0.1821,
+            "profile_path": null,
+            "credit_id": "67a63213df336f38ab85f3ee",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 964875,
+            "known_for_department": "Production",
+            "name": "Simon Fawcett",
+            "original_name": "Simon Fawcett",
+            "popularity": 0.4596,
+            "profile_path": null,
+            "credit_id": "67a632204dc052ba5585f610",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5141934,
+            "known_for_department": "Production",
+            "name": "Calum Gray",
+            "original_name": "Calum Gray",
+            "popularity": 0.2055,
+            "profile_path": null,
+            "credit_id": "67a632304dc052ba5585f619",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 966617,
+            "known_for_department": "Production",
+            "name": "Dominic Ianno",
+            "original_name": "Dominic Ianno",
+            "popularity": 0.369,
+            "profile_path": null,
+            "credit_id": "67a63252470bb75ff26711ca",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2216365,
+            "known_for_department": "Writing",
+            "name": "Greg Ansin",
+            "original_name": "Greg Ansin",
+            "popularity": 0.4809,
+            "profile_path": null,
+            "credit_id": "67a6326043781b4bfa3004d4",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 49826,
+            "known_for_department": "Production",
+            "name": "John Baldecchi",
+            "original_name": "John Baldecchi",
+            "popularity": 0.4262,
+            "profile_path": "/AkK2rxeuw8W30938hHMUxPfUEE0.jpg",
+            "credit_id": "67a632704dc052ba5585f61e",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3797858,
+            "known_for_department": "Production",
+            "name": "Sarah Donnelly",
+            "original_name": "Sarah Donnelly",
+            "popularity": 0.3745,
+            "profile_path": null,
+            "credit_id": "67a6327f4dc052ba5585f62a",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2234753,
+            "known_for_department": "Camera",
+            "name": "Helge Gerull",
+            "original_name": "Helge Gerull",
+            "popularity": 0.2856,
+            "profile_path": null,
+            "credit_id": "67a632a54dc052ba5585f63b",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1922708,
+            "known_for_department": "Sound",
+            "name": "Gad Emile Zeitune",
+            "original_name": "Gad Emile Zeitune",
+            "popularity": 0.2373,
+            "profile_path": null,
+            "credit_id": "6a6ae4eaa59233b9e34af757",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 95640,
+            "known_for_department": "Camera",
+            "name": "Nicholas Davidoff",
+            "original_name": "Nicholas Davidoff",
+            "popularity": 0.6846,
+            "profile_path": null,
+            "credit_id": "6a6e5197640159206966b8f3",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3679834,
+            "known_for_department": "Visual Effects",
+            "name": "Mahesh Ganguly S",
+            "original_name": "Mahesh Ganguly S",
+            "popularity": 0.2337,
+            "profile_path": null,
+            "credit_id": "6a6e527480325a5a9422122f",
+            "department": "Visual Effects",
+            "job": "Visual Effects"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6384134,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Akbota Jumagulova Aisaju",
+            "original_name": "Akbota Jumagulova Aisaju",
+            "popularity": 0.0714,
+            "profile_path": null,
+            "credit_id": "6a6e532a8d496537c154416b",
+            "department": "Costume & Make-Up",
+            "job": "Costume Designer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 3434,
+            "name": "thailand"
+        },
+        {
+            "id": 5248,
+            "name": "female friendship"
+        },
+        {
+            "id": 171842,
+            "name": "sinking boat"
+        },
+        {
+            "id": 211539,
+            "name": "tiger shark"
+        },
+        {
+            "id": 295959,
+            "name": "best friends"
+        },
+        {
+            "id": 309422,
+            "name": "destination wedding"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/9T5D5RGuCsC6CeqYZJTv4rT4RPy.jpg",
+            "id": 9392,
+            "title": "The Descent",
+            "original_title": "The Descent",
+            "overview": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
+            "poster_path": "/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                27
+            ],
+            "popularity": 11.7137,
+            "release_date": "2005-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.986,
+            "vote_count": 4498
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+            "id": 808396,
+            "title": "God Is a Bullet",
+            "original_title": "God Is a Bullet",
+            "overview": "Vice detective Bob Hightower finds his ex-wife murdered and daughter kidnapped by a cult. Frustrated by the botched official investigations, he quits the force and infiltrates the cult to hunt down the leader with the help of the cult’s only female victim escapee, Case Hardin.",
+            "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80,
+                27
+            ],
+            "popularity": 4.6942,
+            "release_date": "2023-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/68t9YraLbv4BHikPmjcw7SOPJi3.jpg",
+            "id": 916605,
+            "title": "The Infernal Machine",
+            "original_title": "The Infernal Machine",
+            "overview": "Reclusive and controversial author Bruce Cogburn is drawn out of hiding by an obsessive fan, forcing the novelist to confront a past that he thought he could escape, and to account for events set in motion by his bestseller decades earlier. Cogburn's search for who is behind the manipulation and mental torment he encounters leads to an emotional roller-coaster ride full of fear and danger, where things are not always as clear as they seem to be, and where past deeds can have dire consequences.",
+            "poster_path": "/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "popularity": 3.3517,
+            "release_date": "2022-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.245,
+            "vote_count": 308
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
+            "id": 8461,
+            "title": "Funny Games",
+            "original_title": "Funny Games",
+            "overview": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+            "poster_path": "/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 7.6041,
+            "release_date": "2008-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.548,
+            "vote_count": 2306
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r4yVwsLF2pJr4C50pWizn9fYNbF.jpg",
+            "id": 9645,
+            "title": "Ghost Ship",
+            "original_title": "Ghost Ship",
+            "overview": "After discovering a passenger ship missing since 1962 floating adrift on the Bering Sea, salvagers claim the vessel as their own. Once they begin towing the ghost ship towards harbor, a series of bizarre occurrences happen and the group becomes trapped inside the ship, which they soon learn is inhabited by a demonic creature.",
+            "poster_path": "/qT9jhRnf67dmMNpX2FmNPMeuW57.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 10.5036,
+            "release_date": "2002-10-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.005,
+            "vote_count": 2717
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dMy6C8tcvXNFuOdL6pdppmvAgia.jpg",
+            "id": 431185,
+            "title": "He's Out There",
+            "original_title": "He's Out There",
+            "overview": "On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.",
+            "poster_path": "/pi9Zo4uIATSe8cQ96cCOWJ1qdGw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.0172,
+            "release_date": "2018-10-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.872,
+            "vote_count": 343
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4lYkJp44zjCCQFSOL99tff6zoA3.jpg",
+            "id": 354251,
+            "title": "Southbound",
+            "original_title": "Southbound",
+            "overview": "The film contains five stories set on desolate stretches of a desert highway. Two men on the run from their past, a band on its way to a gig, a man struggling to get home, a brother in search of his long-lost sister and a family on vacation are forced to confront their worst fears and darkest secrets in these interwoven tales.",
+            "poster_path": "/ehXtB1jlMx8FBlsX9JLhSQkvlZp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                53,
+                27,
+                878
+            ],
+            "popularity": 4.0908,
+            "release_date": "2015-09-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.916,
+            "vote_count": 687
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/boprqXZexBatujVC07gZzzxjWk.jpg",
+            "id": 1109406,
+            "title": "Compulsion",
+            "original_title": "Compulsion",
+            "overview": "Two women—Diana, a flamboyant and ruthless thief, and Evie, a seemingly innocent young woman with a troubled past—become embroiled in a series of horrific murders on the island of Malta.",
+            "poster_path": "/s3MzSdsMcmxmpVJMuH5ezNPjzs7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 3.3393,
+            "release_date": "2024-11-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.046,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ptZypdOBofmADX9JCtgi5E38cnC.jpg",
+            "id": 74725,
+            "title": "Kill List",
+            "original_title": "Kill List",
+            "overview": "Nearly a year after a botched job, a hitman takes a new assignment with the promise of a big payoff for three killings. What starts off as an easy task soon unravels, sending the killer into the heart of darkness.",
+            "poster_path": "/qwT2I3ons0oD58jIppKmd4qLtvB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "popularity": 4.1172,
+            "release_date": "2011-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.196,
+            "vote_count": 890
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yDmrli2yAPHa9ZLd7iM4T1EKLDL.jpg",
+            "id": 30694,
+            "title": "The Resurrected",
+            "original_title": "The Resurrected",
+            "overview": "Charles Dexter Ward, a wealthy scientist, uses an ancient diary and human remains to begin a terrifying and bloody pursuit for immortality.",
+            "poster_path": "/nhQwgcIDD5XcKWLMLyrgqY4bFZd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "popularity": 2.3859,
+            "release_date": "1991-10-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.163,
+            "vote_count": 135
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/34fIB4TBdYHerdbcXoMVPZiX7q0.jpg",
+            "id": 13510,
+            "title": "Eden Lake",
+            "original_title": "Eden Lake",
+            "overview": "When a young couple goes to a remote wooded lake for a romantic getaway, their quiet weekend is shattered by an aggressive group of local kids. Rowdiness quickly turns to rage as the teens terrorize the couple in unimaginable ways, and a weekend outing becomes a bloody battle for survival.",
+            "poster_path": "/tOg6ElTe1mJwaCFN0172U4oso22.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 10.022,
+            "release_date": "2008-09-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.827,
+            "vote_count": 2137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nO8lpaJLo1UVIXL7eM5ewwudvtY.jpg",
+            "id": 10836,
+            "title": "Dagon",
+            "original_title": "Dagon",
+            "overview": "A boating accident off the coast of Spain sends Paul and his girlfriend Barbara to the decrepit fishing village of Imboca. As night falls, people start to disappear and things not quite human start to appear. Paul is pursued by the entire town. Running for his life, he uncovers Imboca's secret..they worship Dagon, a monstrous god of the sea...and Dagon's unholy offspring are on the loose...",
+            "poster_path": "/8S648eMKObi8ERFS7cSYDocxSaZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                27,
+                53
+            ],
+            "popularity": 3.741,
+            "release_date": "2001-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 486
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg",
+            "id": 7555,
+            "title": "Rambo",
+            "original_title": "Rambo",
+            "overview": "In Thailand, ex-Green Beret John James Rambo joins a group of mercenaries to venture into war-torn neighboring Myanmar to rescue a group of Christian aid workers who have been kidnapped by a ruthless local infantry unit.",
+            "poster_path": "/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                10752
+            ],
+            "popularity": 12.0359,
+            "release_date": "2008-01-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.699,
+            "vote_count": 4339
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1xhcEecvRJXQ2OAVO7l9btlrN6D.jpg",
+            "id": 667216,
+            "title": "Infinity Pool",
+            "original_title": "Infinity Pool",
+            "overview": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.",
+            "poster_path": "/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "popularity": 6.6665,
+            "release_date": "2023-01-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.047,
+            "vote_count": 1082
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/I4ofwq3XfmwXAETUs5pjubcMJ0.jpg",
+            "id": 1029281,
+            "title": "Strange Darling",
+            "original_title": "Strange Darling",
+            "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.97,
+            "release_date": "2024-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tvGTSdLjKJgFHTcF4x9HSxoTIgW.jpg",
+            "id": 424121,
+            "title": "Apostle",
+            "original_title": "Apostle",
+            "overview": "In 1905, a man travels to a remote island in search of his missing sister who has been kidnapped by a mysterious religious cult.",
+            "poster_path": "/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 5.0284,
+            "release_date": "2018-09-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1614
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/456tLLmzg7OeNyijCvCfL6X55VV.jpg",
+            "id": 1142414,
+            "title": "Cheat",
+            "original_title": "Cheat",
+            "overview": "On the surface it's believed to be another urban legend - a supernatural being from the afterlife is violently killing anyone who cheats on their significant other in the small college town of Silvercreek, Pennsylvania. But the town's unusually high suicide rate is finally convincing both locals and college students that everything is not as it seems. When Maeve - a female college student - sleeps with Charlie, the married man of the host family she is staying with, both sense the deadly curse is closing in on them. Unable to get anyone to believe them, Maeve and Charlie seek out a local history student to help find answers and figure out a way to defend themselves. It all comes undone, however, as several people are horrifically killed by the savage being - one-by-one at a rapid pace. Eventually, Maeve, Charlie and the few survivors band together in an attempt to defeat the monster once and for all.",
+            "poster_path": "/46Um9OTHNA390mMxwpSSc2m35Zp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.8601,
+            "release_date": "2023-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.014,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oLA6GlYvfUAAzITiXo56NEKjVQE.jpg",
+            "id": 715123,
+            "title": "Books of Blood",
+            "original_title": "Books of Blood",
+            "overview": "A journey into uncharted and forbidden territory through three tales tangled in space and time.",
+            "poster_path": "/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 4.0728,
+            "release_date": "2020-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.256,
+            "vote_count": 527
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2w0uvzOXKyda8fW0IvkdGFFnJCq.jpg",
+            "id": 8398,
+            "title": "The Hitcher",
+            "original_title": "The Hitcher",
+            "overview": "While driving through the New Mexico Desert during a rainy night, college students Jim Halsey and his girlfriend Grace Andrews give a ride to a hitchhiker. While in their car, the stranger proves to be a psychopath threatening the young couple with a knife, but Jim successfully throws him out of the car. This sets off a chain of events that will change all of their lives forever.",
+            "poster_path": "/uc2lUHNB1bnoT5ejVCEYv6Vm9fS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "popularity": 5.3886,
+            "release_date": "2007-01-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.896,
+            "vote_count": 1011
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r4clWIxKeWoqrHspQP0XunuUmB7.jpg",
+            "id": 442249,
+            "title": "The First Purge",
+            "original_title": "The First Purge",
+            "overview": "To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America test a sociological theory that vents aggression for one night in one isolated community. But when the violence of oppressors meets the rage of the others, the contagion will explode from the trial-city borders and spread across the nation.",
+            "poster_path": "/litjsBoiydO6JlO70uOX4N3WnNL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "popularity": 7.8236,
+            "release_date": "2018-07-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.997,
+            "vote_count": 4269
+        }
+    ]
+}

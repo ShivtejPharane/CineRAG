@@ -1,0 +1,659 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/3TwUt1vUmbPaUMJSm7luCbDABTB.jpg",
+        "belongs_to_collection": {
+            "id": 117354,
+            "name": "Crayon Shin-chan Collection",
+            "poster_path": "/l0xXzzMz0xzR1J9nwB5fVz3ywNZ.jpg",
+            "backdrop_path": "/2IxX864lSyaC3Yn748Bw3ulhoeT.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 1598766,
+        "imdb_id": "tt41293342",
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_title": "クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+        "overview": "Shin-chan and his family visit his father's home town of Akita in order to view the Omagari Fireworks Festival. When a strange incident to causes the residents of “Yokai Land” to begin running wild throughout Akita and the rest of Japan, Shin-chan and company are lured to “Yokai Land” for an unusual adventure.",
+        "popularity": 25.2397,
+        "poster_path": "/15iwqqJVgFfeFh4Y1f8gg9yi2Fw.jpg",
+        "production_companies": [
+            {
+                "id": 882,
+                "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+                "name": "TOHO",
+                "origin_country": "JP"
+            },
+            {
+                "id": 5141,
+                "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+                "name": "Shin-Ei Animation",
+                "origin_country": "JP"
+            },
+            {
+                "id": 62866,
+                "logo_path": "/uYawQ0Lb8smRXNNCoq8gTHG92Pz.png",
+                "name": "Futabasha",
+                "origin_country": "JP"
+            },
+            {
+                "id": 9300,
+                "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+                "name": "TV Asahi",
+                "origin_country": "JP"
+            },
+            {
+                "id": 173235,
+                "logo_path": "/nkfGU0YSf1O1tTVBwyaDkE7yBCv.png",
+                "name": "ADK Emotions",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2026-07-31",
+        "revenue": 0,
+        "runtime": 0,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Crayon Shin-chan the Movie: Very Bizarre! My Yokai Vacation",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 126485,
+            "known_for_department": "Acting",
+            "name": "Yumiko Kobayashi",
+            "original_name": "小林由美子",
+            "popularity": 1.4631,
+            "profile_path": "/83IuLRuKivjifdFwfsKhmhTJKzd.jpg",
+            "cast_id": 4,
+            "character": "Shinnosuke Nohara (voice)",
+            "credit_id": "69521e06a41d97424f74e427",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 937252,
+            "known_for_department": "Acting",
+            "name": "Miki Narahashi",
+            "original_name": "ならはしみき",
+            "popularity": 1.2603,
+            "profile_path": "/wxiSwjEDMjgRH41PUiGzLplTBqA.jpg",
+            "cast_id": 5,
+            "character": "Misae Nohara (voice)",
+            "credit_id": "69521e83a41d97424f74e42a",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 9706,
+            "known_for_department": "Acting",
+            "name": "Toshiyuki Morikawa",
+            "original_name": "森川智之",
+            "popularity": 2.3237,
+            "profile_path": "/hrzGBe4nokgkBNFekNo5hlXB2Bv.jpg",
+            "cast_id": 6,
+            "character": "Hiroshi Nohara (voice)",
+            "credit_id": "69521f0bbf538b7f4fd79920",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 217924,
+            "known_for_department": "Acting",
+            "name": "Satomi Korogi",
+            "original_name": "こおろぎさとみ",
+            "popularity": 1.6625,
+            "profile_path": "/zNJyGVOJQULuyO0isN8sTVwPaX0.jpg",
+            "cast_id": 7,
+            "character": "Himawari Nohara (voice)",
+            "credit_id": "69521f21aee9f647a474e4d9",
+            "order": 3
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 572015,
+            "known_for_department": "Writing",
+            "name": "Yoshito Usui",
+            "original_name": "臼井儀人",
+            "popularity": 0.9187,
+            "profile_path": "/qcEEldymbXLXz7qDLRIlDKbGeUt.jpg",
+            "credit_id": "6940428493a02378a8548610",
+            "department": "Writing",
+            "job": "Original Story"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3033843,
+            "known_for_department": "Directing",
+            "name": "Masaki Watanabe",
+            "original_name": "渡辺正樹",
+            "popularity": 0.5346,
+            "profile_path": "/c3w2RNa5A6YbnSJwxzNmmRdUNwl.jpg",
+            "credit_id": "69521be0ab1bc5d69acbd46d",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3242144,
+            "known_for_department": "Writing",
+            "name": "Yoshiko Nakamura",
+            "original_name": "中村能子",
+            "popularity": 0.7476,
+            "profile_path": null,
+            "credit_id": "6955f78bb460c4b4eed7a9ac",
+            "department": "Writing",
+            "job": "Screenplay"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 13141,
+            "name": "based on manga"
+        },
+        {
+            "id": 162846,
+            "name": "ghost"
+        },
+        {
+            "id": 195668,
+            "name": "seinen"
+        },
+        {
+            "id": 210024,
+            "name": "anime"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/iKK6KVtXrg3XxEDnt8qxtkrdrWO.jpg",
+            "id": 37021,
+            "title": "Ranma 1/2 the Movie 2: Nihao My Concubine",
+            "original_title": "らんま1/2 劇場版 決戦桃幻郷!花嫁を奪りもどせ!!",
+            "overview": "With the Tendos, the Saotomes, Ryoga, Shampoo and Ukyo misinterpreting Tatewake Kuno's invitation to his two loves, Akane and 'The Pig Tailed Girl', to try his new yacht, a whole new episode of chaos begins in the already unstable lives of the Saotome/Tendo clan. A mysterious shadow kidnaps first Akane's sister Kasumi, then continues on until all the girls disappear. All except everyone's favorite hydrotranssexual.",
+            "poster_path": "/jG1fVO88kaitXP4thiQcEZebL7t.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                35,
+                16,
+                12
+            ],
+            "popularity": 3.9049,
+            "release_date": "1992-08-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.967,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mBASjOb6DecQGZGPvnPlhOgnAUj.jpg",
+            "id": 371236,
+            "title": "Crayon Shin-chan: My Moving Story! Cactus Large Attack!",
+            "original_title": "クレヨンしんちゃん オラの引越し物語 サボテン大襲撃",
+            "overview": "The Noharas must survive a hoard of man-eating killer cacti after Shin-chan's father relocates the family to Mexico for work.",
+            "poster_path": "/rdIhlmuqFZ8gQtBbGQcCkLJ7jmB.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                12,
+                16,
+                35
+            ],
+            "popularity": 2.7887,
+            "release_date": "2015-04-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.926,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gU6PGO7u5BWYrsaZQ6UuTNG4xuj.jpg",
+            "id": 109526,
+            "title": "Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom",
+            "original_title": "クレヨンしんちゃん ブリブリ王国の秘宝",
+            "overview": "The Noharas win a vacation to the Kingdom of Buri Buri -- but the whole thing was just a clever ploy by an evil organization to kidnap Shin-chan!",
+            "poster_path": "/d57Vbnh07ZDON9T1AeqdALHwjg.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                35,
+                16,
+                12
+            ],
+            "popularity": 3.9582,
+            "release_date": "1994-04-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xGJBLsiY0quc2pOcCH1MdnF5P8.jpg",
+            "id": 44729,
+            "title": "One Piece: Baron Omatsuri and the Secret Island",
+            "original_title": "ワンピース the movie オマツリ男爵と秘密の島",
+            "overview": "The Straw Hats visit a recreational island, run by Baron Omatsuri, who asks them to complete a series of ordeals if they wish to stay on the island. Luffy accepts and the Straw Hats work together to complete them, but as the island's mysteries unfold, their lives and friendships are put to the test. It's up to Luffy to stop the Baron's plot and keep his crew together.",
+            "poster_path": "/ueIR4LM4k8eKhSB8gGT9NMhCwGW.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                16,
+                35,
+                12,
+                14
+            ],
+            "popularity": 5.8611,
+            "release_date": "2005-03-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.201,
+            "vote_count": 251
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zU79dkIicO6nipT5Ypr1RmWbZN2.jpg",
+            "id": 1171462,
+            "title": "Golden Kamuy",
+            "original_title": "ゴールデンカムイ",
+            "overview": "On the Hokkaido frontier, a war veteran and Ainu girl race against misfits and military renegades to find treasure mapped out on tattooed outlaws.",
+            "poster_path": "/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "popularity": 5.0089,
+            "release_date": "2024-01-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.065,
+            "vote_count": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qgaVJE4SK2qRtggVyRlISKQ1zBE.jpg",
+            "id": 23446,
+            "title": "One Piece: Clockwork Island Adventure",
+            "original_title": "ワンピース ねじまき島の冒険",
+            "overview": "Relaxing on a cozy beach, the Straw Hat Pirates are taking a rest from their quest. Right until Luffy noticed the Going Merry has been hijacked and sailed off from the beach. This leads them to search the ship and find the thief who took it from them. They ran into a duo named the Theif Brothers, who informed them that their ship was stolen by a group of pirates called the Trump Kyoudai. When they encountered the Trump Pirates, Nami ended up getting kidnapped as well as Luffy's hat. They tracked down the pirates to their base on Clockwork Island. Now Luffy, Zoro, Sanji, Usopp, and the Theif Brothers must reclaim the Going Merry, Save Nami, and get back Shank's straw hat.",
+            "poster_path": "/phrVSY5cpUkybc0gU41crWi2XIP.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                16,
+                12
+            ],
+            "popularity": 3.8148,
+            "release_date": "2001-03-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.874,
+            "vote_count": 302
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lgtg04cn0AZ89ua4S2CbQbajZRg.jpg",
+            "id": 44728,
+            "title": "One Piece: Curse of the Sacred Sword",
+            "original_title": "ONE PIECE 呪われた聖剣",
+            "overview": "The Straw Hat Pirates landed at Asuka Island, home of the most valuable sword in the world: The Seven Star Sword. Which was said to curse anyone who takes it in possession. When they got back to the Going Merry, they discovered that Zoro is missing from his guard duty. Before they could plan out a search party to relocate him. Luffy and friends escape from the port as Marines were on their tail. They found a new place to dock, which is near a village. Whose job is to keep the Seven Star Sword sealed. Soon it was attacked by the Marines, and among them is Zoro. Luffy and the others don't know why he's helping out the Marines. But it all comes to conclusion when Luffy encounters Saga: Zoro's childhood friend from Swordsman training.",
+            "poster_path": "/fSqxVnjHE7zGAdWkhnQNYLJ2FUj.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                12,
+                28
+            ],
+            "popularity": 3.4238,
+            "release_date": "2004-03-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.861,
+            "vote_count": 249
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m5q3V69Tlt4ol7EMSxFuYHAz14P.jpg",
+            "id": 545742,
+            "title": "One Piece: Episode of Skypiea",
+            "original_title": "ONE PIECE エピソードオブ空島",
+            "overview": "The Straw Hats embark on a dangerous trip to the sky where their destination comes straight out of a fairytale. The island of Skypiea and its grand city of gold await among the clouds, but a clash of winged clans and a man who calls himself God won’t make things easy! Only Luffy can resist this God’s mighty power and light the mysteries of the past.",
+            "poster_path": "/whvgyEpPqvKXP0vZE4PMkoUmRqb.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                16
+            ],
+            "popularity": 4.7213,
+            "release_date": "2018-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A9Yy4ZRJgTXlKa1KOV92YLTCppn.jpg",
+            "id": 44725,
+            "title": "One Piece: Chopper's Kingdom on the Island of Strange Animals",
+            "original_title": "ワンピース 珍獣島のチョッパー王国",
+            "overview": "As the Straw Hat Pirates sail through the Grand Line, a sudden eruption of geysers beneath the Going Merry sends the crew flying over a nearby island. In the chaos, Chopper falls overboard and becomes separated from his friends. While Luffy and the others land on the far side of the island, Chopper finds himself hailed as the new king by the local animals. However, danger looms as a group of human “horn hunters” arrives. Their leader, Count Butler, is a violin-playing man who consumes horns to gain strength, and he seeks to devour the island’s greatest treasure to inherit immense power. Can Luffy and the crew stop Count Butler’s scheme and save the island? And will they be able to show Momambi that not all pirates are the villains he believes them to be?",
+            "poster_path": "/9YFUMvTV4zOkpUsPAiPgjaMKWYd.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                16,
+                12
+            ],
+            "popularity": 2.8285,
+            "release_date": "2002-03-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.726,
+            "vote_count": 232
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9YRUkJkGAsxPhwtVdWpnwDeYbMF.jpg",
+            "id": 211755,
+            "title": "Hunter x Hunter: Phantom Rouge",
+            "original_title": "劇場版 HUNTER×HUNTER 緋色の幻影",
+            "overview": "One day, Kurapika spots a child who looks very similar to his childhood friend, Pyro. However, when he catches up to him, the boy steals Kurapika's eyes with some kind of magical power. Gon, Leorio, and Killua promise to help find who took his eyes and get them back, but Killua is having his own problems when he is forced to face his past and whether he really is worthy to have Gon as a friend.",
+            "poster_path": "/tBbr1LJn5rrP08Y16jJAKwLEECf.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                12,
+                14,
+                28
+            ],
+            "popularity": 4.2651,
+            "release_date": "2013-01-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.053,
+            "vote_count": 228
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tmj4cc8LKfAwxnF32M6fQk67tkK.jpg",
+            "id": 117087,
+            "title": "Crayon Shin-chan: Jungle That Invites Storm",
+            "original_title": "クレヨンしんちゃん 嵐を呼ぶジャングル",
+            "overview": "The Noharas go on an Action Mask-themed cruise, where all the grown-ups get kidnapped by a gang of monkeys. It's up to the kids to rescue them!",
+            "poster_path": "/rv5BVa21vCut8rlYKY1Ozo4cPRD.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                35,
+                12
+            ],
+            "popularity": 3.0353,
+            "release_date": "2000-04-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bW0Hr19Xo7LDnMmywXuH5YoTMY5.jpg",
+            "id": 16907,
+            "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+            "original_title": "劇場版 NARUTO 大活劇! 雪姫忍法帖だってばよ!!",
+            "overview": "Naruto is thrilled when he is sent on a mission to protect his favorite actress, Yukie Fujikaze, on the set of her new movie, The Adventures of Princess Gale. But when the crew ventures out to film in the icy, foreboding Land of Snow, Yukie mysteriously flees! Naruto and his squad set off to find her... unaware that three Snow Ninja lie in wait, with a sinister purpose that will force Yukie to face her hidden past!",
+            "poster_path": "/eUNRUeSNzm8LktH4HRaYiAReB6R.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                35,
+                28,
+                16,
+                12
+            ],
+            "popularity": 6.5844,
+            "release_date": "2004-08-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.288,
+            "vote_count": 622
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9EfmaA6S9p33rqt3RybcLRfOUMr.jpg",
+            "id": 374205,
+            "title": "One Piece Film: GOLD",
+            "original_title": "ONE PIECE FILM GOLD",
+            "overview": "The glittering Gran Tesoro, a city of entertainment beyond the laws of the government, is a sanctuary for the world’s most infamous pirates, Marines, and filthy rich millionaires. Drawn by dreams of hitting the jackpot, Captain Luffy and his crew sail straight for the gold. But behind the gilded curtains lies a powerful king whose deep pockets and deeper ambitions spell disaster for the Straw Hats and the New World alike.",
+            "poster_path": "/9PgiOFTLZXP7emlwcIt0yRasJ9h.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                16,
+                12,
+                35
+            ],
+            "popularity": 5.2997,
+            "release_date": "2016-07-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.221,
+            "vote_count": 542
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j2oX7UeZJJD6tUczrVECcJCdLaG.jpg",
+            "id": 18861,
+            "title": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+            "original_title": "劇場版 NARUTO -ナルト- 大興奮!みかづき島のアニマル騒動だってばよ",
+            "overview": "Naruto Uzumaki, Kakashi Hatake, Sakura Haruno, and Rock Lee are assigned to protect the prince of the Land of the Moon, Michiru, during his world trip; other escorts had been hired, but quit due to being treated poorly. The Land of the Moon is a very wealthy nation, so Michiru tends to buy whatever he wants, and has a very materialistic worldview. His Hikaru, also acts in much the same manner.",
+            "poster_path": "/mmKiJ93x6uhTwJlrxCoY38R4qo6.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                12,
+                16,
+                28
+            ],
+            "popularity": 5.7032,
+            "release_date": "2006-08-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.095,
+            "vote_count": 491
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h5RPSswlgc2KvvkvfW7pipBtPLo.jpg",
+            "id": 39206,
+            "title": "Detective Conan: Jolly Roger in the Deep Azure",
+            "original_title": "名探偵コナン 紺碧の棺 （ジョリー・ロジャー）",
+            "overview": "The Isle of Koumi, a beautiful island in the Pacific Ocean. On the island, people pass an old legend down from generation to generation that there was the Seabed Palace, an ancient ruin at the bottom of the sea, where the treasure of female pirates Anne Bonny and Mary Reed was left. When Conan and his friends visit Koumi while on vacation, they meet some suspicious treasure hunters.",
+            "poster_path": "/3qiBRbIsfpw6O32TfD1FZ81MiKw.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                12
+            ],
+            "popularity": 4.8688,
+            "release_date": "2007-04-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.52,
+            "vote_count": 152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pfmmfFu2bLEwcbWuXNPainWPOkO.jpg",
+            "id": 50723,
+            "title": "Naruto Shippuden the Movie: The Lost Tower",
+            "original_title": "劇場版 NARUTO -ナルト- 疾風伝 ザ・ロストタワー",
+            "overview": "Assigned on a mission to capture Mukade, a missing-nin, Naruto Uzumaki sets out for the once glorious historic ruins of \"Ouran\", where he pursues and corners the rouge ninja. Mukade's goal is revealed to be a dormant leyline within the ruins; he unleashes the power of the leyline, causing a light to envelop Naruto, sending him into the past, 20 years before the series began. When Naruto awakens, he comes into contact with the Fourth Hokage, Minato Namikaze.",
+            "poster_path": "/6e2YvN1tQK4xQHlmy7GJTuXOt2u.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                12,
+                28,
+                16
+            ],
+            "popularity": 5.4553,
+            "release_date": "2010-07-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.159,
+            "vote_count": 516
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ldwWnaWoW8ziEFflimoraZouyvB.jpg",
+            "id": 16910,
+            "title": "Naruto the Movie: Legend of the Stone of Gelel",
+            "original_title": "劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ",
+            "overview": "Naruto, Shikamaru, and Sakura are executing their mission of delivering a lost pet to a certain village. However, right in the midst of things, troops led by the mysterious knight, Temujin, attack them. In the violent battle, the three become separated. Temujin challenges Naruto to a fight and at the end of the fierce battle, both fall together from a high cliff...",
+            "poster_path": "/itKMldwL6uhUZYO3X78NOFU4zzO.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                12,
+                14
+            ],
+            "popularity": 5.4529,
+            "release_date": "2005-08-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.79,
+            "vote_count": 443
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8XuyqEV6d2W2DakBT816tR0ET2V.jpg",
+            "id": 596302,
+            "title": "Crayon Shin-chan: Honeymoon Hurricane ~The Lost Hiroshi~",
+            "original_title": "クレヨンしんちゃん 新婚旅行ハリケーン～失われたひろし～",
+            "overview": "Hiroshi and Misae have never been to a honeymoon trip to a foreign country. One day, Misae discovered an inexpensive and family-friendly holiday package to Australia and the Nohara family decided to make it their first honeymoon vacation.  Hiroshi gets kidnapped upon arrival to Australia, leaving Shinnosuke, Misae and others on a dangerous journey. It turns out that Hiroshi is the key to a secret treasure. The remaining members of the Nohara Family must rescue Hiroshi, while a mysterious masked man and treasure hunters from all over the world are after him. The struggle is among three different groups in this action-filled treasure hunting adventure.",
+            "poster_path": "/lX4GqaRoOdnQB34mQjDzwnscvj6.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                12,
+                10751
+            ],
+            "popularity": 2.7955,
+            "release_date": "2019-04-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vjnS4iu0SdwXm2LLqZGNCfpId9t.jpg",
+            "id": 483455,
+            "title": "Bungo Stray Dogs: Dead Apple",
+            "original_title": "文豪ストレイドッグス DEAD APPLE",
+            "overview": "A large scale catastrophe is occurring across the planet. Ability users are discovered after the appearance of a mysterious fog, apparently having committed suicide, so the Armed Detective Agency sets out to investigate these mysterious deaths. The case seems to involve an unknown ability user referred to as \"Collector,\" a man who could be the mastermind behind the incident.\r Trust and courage are put to the test in order to save the city of Yokohama and ability users across the world from the grip of Collector where the Armed Detective Agency forms an unlikely partnership with the dangerous Port Mafia.",
+            "poster_path": "/gCfN6xWPyxphtgtLuDxT5s0eSoq.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                28,
+                35,
+                9648
+            ],
+            "popularity": 3.6695,
+            "release_date": "2018-03-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.133,
+            "vote_count": 196
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/41e5H3UhT7D8VYBh4rdGy5fB0lv.jpg",
+            "id": 44727,
+            "title": "One Piece: Dead End Adventure",
+            "original_title": "ワンピース デッドエンドの冒険",
+            "overview": "Desperate for cash, the Straw Hat Pirates enter a secret race between pirate crews known as the Dead End Competition. There, they must battle against powerful people, including the bounty hunter who wants to kill Gasparde and a climatic battle with Marine-turned-pirate Captain Gasparde.",
+            "poster_path": "/tEJBIHzaW1IoOVHtgblXy76kj4G.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                16,
+                12
+            ],
+            "popularity": 2.9899,
+            "release_date": "2003-03-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.002,
+            "vote_count": 219
+        }
+    ]
+}

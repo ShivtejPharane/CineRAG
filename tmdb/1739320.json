@@ -1,0 +1,37 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 1739320,
+        "imdb_id": "tt42000821",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Racing Heart",
+        "overview": "",
+        "popularity": 16.4193,
+        "poster_path": "/cyZN7c5ZIryBE7fqBYXVnHBnmNC.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2026-07-28",
+        "revenue": 0,
+        "runtime": 0,
+        "softcore": false,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Racing Heart",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [],
+    "crew": [],
+    "keywords": [],
+    "recommendations": []
+}

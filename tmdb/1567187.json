@@ -1,0 +1,770 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/v2SOWxOgifIhnZFLgIEvzr7ZbJ2.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 1567187,
+        "imdb_id": "tt33052885",
+        "origin_country": [
+            "AR"
+        ],
+        "original_language": "es",
+        "original_title": "Memoria de una madre",
+        "overview": "A married couple welcomes young Genaro into their home through adoption. Upon his arrival, he meets his new siblings, Nuria and Samuel. But it doesn't take long for Genaro to sense that something is deeply wrong within the household. The family seems trapped under a suffocating veil of fear and despair, haunted by an unseen force. As Nuria, a troubled teenager, begins to uncover the terrifying secrets hidden within her family, she forms a powerful bond with Genaro. Together, they must face an evil presence that grows stronger each day, unleashing a chain of sinister and unsettling events.",
+        "popularity": 36.0522,
+        "poster_path": "/vhfrAIIe9jHiuD9qjOhLwnEgLdb.jpg",
+        "production_companies": [
+            {
+                "id": 34073,
+                "logo_path": "/rzSwJOPR2bbZAlmNZtIu0owecqD.png",
+                "name": "Doménica Films",
+                "origin_country": "AR"
+            },
+            {
+                "id": 193219,
+                "logo_path": "/8ZLyCJivzYAFjSXzmAKOrmdIP74.png",
+                "name": "Reina de Pike",
+                "origin_country": "AR"
+            },
+            {
+                "id": 278401,
+                "logo_path": null,
+                "name": "Inspiria",
+                "origin_country": "AR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "release_date": "2025-10-21",
+        "revenue": 0,
+        "runtime": 84,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "A Mother's Recall",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5773810,
+            "known_for_department": "Acting",
+            "name": "Santino Resta",
+            "original_name": "Santino Resta",
+            "popularity": 0.2263,
+            "profile_path": null,
+            "cast_id": 2,
+            "character": "",
+            "credit_id": "68fdb6a5e4dee033299fac74",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5773811,
+            "known_for_department": "Acting",
+            "name": "Julieta Palermo",
+            "original_name": "Julieta Palermo",
+            "popularity": 0.2842,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "68fdb6b2eef9a1ffc3eaacd9",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4244263,
+            "known_for_department": "Acting",
+            "name": "Vilma Echeverría",
+            "original_name": "Vilma Echeverría",
+            "popularity": 0.6052,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "68fdb6beb3cd0c6651a30b11",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5773813,
+            "known_for_department": "Acting",
+            "name": "Edgardo Mollinelli",
+            "original_name": "Edgardo Mollinelli",
+            "popularity": 0.2322,
+            "profile_path": null,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "68fdb6c9cb68b77ea3bbf12d",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3021721,
+            "known_for_department": "Acting",
+            "name": "Virginia Garófalo",
+            "original_name": "Virginia Garófalo",
+            "popularity": 0.5625,
+            "profile_path": "/6nMiFdETne2r01SePJecF0mTQlS.jpg",
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "68fdb6d9f1e8924a339fad26",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5773815,
+            "known_for_department": "Acting",
+            "name": "Mayra Sánchez",
+            "original_name": "Mayra Sánchez",
+            "popularity": 0.2643,
+            "profile_path": null,
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "68fdb6e51c72bb22af938c84",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 556854,
+            "known_for_department": "Acting",
+            "name": "Lorenzo Crespi",
+            "original_name": "Lorenzo Crespi",
+            "popularity": 0.4983,
+            "profile_path": "/iEzw5CfYAOajJWbPYN54yu9pAi4.jpg",
+            "cast_id": 9,
+            "character": "",
+            "credit_id": "68fdb70173241d9944d9fd4d",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5773816,
+            "known_for_department": "Acting",
+            "name": "Guadalupe Aldaz",
+            "original_name": "Guadalupe Aldaz",
+            "popularity": 0.1434,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "",
+            "credit_id": "68fdb70d3b8126e622275cb0",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5773817,
+            "known_for_department": "Acting",
+            "name": "Miguel Ángel Bosco",
+            "original_name": "Miguel Ángel Bosco",
+            "popularity": 0.2301,
+            "profile_path": null,
+            "cast_id": 11,
+            "character": "",
+            "credit_id": "68fdb71a88566afd95275d3c",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5776519,
+            "known_for_department": "Acting",
+            "name": "Mateo Berti",
+            "original_name": "Mateo Berti",
+            "popularity": 0.1071,
+            "profile_path": null,
+            "cast_id": 21,
+            "character": "",
+            "credit_id": "68ff42bbc4c7e60fe42aae63",
+            "order": 9
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2673515,
+            "known_for_department": "Directing",
+            "name": "Mauro Iván Ojeda",
+            "original_name": "Mauro Iván Ojeda",
+            "popularity": 0.5183,
+            "profile_path": null,
+            "credit_id": "68fdb690e68bf5b5aed9fe06",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2114688,
+            "known_for_department": "Editing",
+            "name": "Lionel Cornistein",
+            "original_name": "Lionel Cornistein",
+            "popularity": 0.3241,
+            "profile_path": null,
+            "credit_id": "68fdb7321c72bb22af938c88",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5773819,
+            "known_for_department": "Camera",
+            "name": "Mariano Suárez",
+            "original_name": "Mariano Suárez",
+            "popularity": 0.1071,
+            "profile_path": null,
+            "credit_id": "68fdb74bcd4a8ddb15fb6e06",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5773821,
+            "known_for_department": "Sound",
+            "name": "Fernando Romero",
+            "original_name": "Fernando Romero",
+            "popularity": 0.1644,
+            "profile_path": null,
+            "credit_id": "68fdb76b6096e11fceeaaab6",
+            "department": "Sound",
+            "job": "Sound"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5773824,
+            "known_for_department": "Production",
+            "name": "José Salvia",
+            "original_name": "José Salvia",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "credit_id": "68fdb78f5daf6de04beaac96",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5773825,
+            "known_for_department": "Production",
+            "name": "Nicolás Capola",
+            "original_name": "Nicolás Capola",
+            "popularity": 0.1496,
+            "profile_path": null,
+            "credit_id": "68fdb7a40d848a9c549fad7d",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2673515,
+            "known_for_department": "Directing",
+            "name": "Mauro Iván Ojeda",
+            "original_name": "Mauro Iván Ojeda",
+            "popularity": 0.5183,
+            "profile_path": null,
+            "credit_id": "68fdb7b3e7c12ea6349fad74",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2297741,
+            "known_for_department": "Art",
+            "name": "Martín Conti",
+            "original_name": "Martín Conti",
+            "popularity": 0.3783,
+            "profile_path": null,
+            "credit_id": "68fdc04cac8e9c4026fb6d2d",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2457366,
+            "known_for_department": "Sound",
+            "name": "Fuu Pablo",
+            "original_name": "Fuu Pablo",
+            "popularity": 0.2284,
+            "profile_path": "/uwZ41DNy7MTRdSt5KpJ9eJLpoP9.jpg",
+            "credit_id": "699e27c65aaba86ceb19afa5",
+            "department": "Sound",
+            "job": "Music"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3536977,
+            "known_for_department": "Art",
+            "name": "Ornella Abadia",
+            "original_name": "Ornella Abadia",
+            "popularity": 0.3141,
+            "profile_path": null,
+            "credit_id": "69d525a36f4863c932ca8361",
+            "department": "Sound",
+            "job": "Sound Assistant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3672576,
+            "known_for_department": "Camera",
+            "name": "Lucas Perez",
+            "original_name": "Lucas Perez",
+            "popularity": 0.1857,
+            "profile_path": null,
+            "credit_id": "69d525ce47b7d84d39f6601c",
+            "department": "Lighting",
+            "job": "Gaffer"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/rhuEN18ZimDOva3guaWZA4hYgLB.jpg",
+            "id": 1309083,
+            "title": "Dolly",
+            "original_title": "Dolly",
+            "overview": "Young Macy is abducted by a deranged, monstrous figure who wants to raise her as its child.",
+            "poster_path": "/oJJquv1sg5XMTIyNHxEm0KLo696.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 19.4975,
+            "release_date": "2026-03-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.806,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hRO4TS0IlH9UJW2PGuuFBYdXZgC.jpg",
+            "id": 1356236,
+            "title": "Saint Catherine",
+            "original_title": "Saint Catherine",
+            "overview": "An orphaned girl is rescued from a satanic ritual and taken to Saint Catherine Institute for homeless youth. There she will learn new skills while facing demons that stalk her.",
+            "poster_path": "/hBJdzKPeDaC96AzlrtMWBomYSZV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.6028,
+            "release_date": "2024-09-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.464,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xHd6rARprd4woZinkziIntiTSZD.jpg",
+            "id": 854188,
+            "title": "The Kindred",
+            "original_title": "The Kindred",
+            "overview": "After her father’s suicide, a young mother investigates what led to his death. But when she is haunted by spirits and unearths an unsolved mystery from 30 years ago, she discovers a dark family history that could prove deadly for her child.",
+            "poster_path": "/jDXAaMLk7NNXdXZkeTMtr4xo6f5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.0399,
+            "release_date": "2021-12-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.406,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+            "id": 1426297,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+            "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.9648,
+            "release_date": "2025-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
+            "id": 1151031,
+            "title": "Bring Her Back",
+            "original_title": "Bring Her Back",
+            "overview": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
+            "poster_path": "/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 18.8291,
+            "release_date": "2025-05-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.335,
+            "vote_count": 1826
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/88VtVz4jnwdvPIuWOmVNXyVR3d1.jpg",
+            "id": 48393,
+            "title": "Kidnapped",
+            "original_title": "Secuestrados",
+            "overview": "Three hooded Eastern-European criminals burst into a home in a Madrid gated community, holding the family hostage in its own home, and forcing the father to empty his credit cards. But the family fights back - brutally.",
+            "poster_path": "/26H9sh943M4ZYbyvTRfKdm7mzNr.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.6045,
+            "release_date": "2010-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.136,
+            "vote_count": 268
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oLA6GlYvfUAAzITiXo56NEKjVQE.jpg",
+            "id": 715123,
+            "title": "Books of Blood",
+            "original_title": "Books of Blood",
+            "overview": "A journey into uncharted and forbidden territory through three tales tangled in space and time.",
+            "poster_path": "/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 4.0728,
+            "release_date": "2020-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.256,
+            "vote_count": 527
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/I4ofwq3XfmwXAETUs5pjubcMJ0.jpg",
+            "id": 1029281,
+            "title": "Strange Darling",
+            "original_title": "Strange Darling",
+            "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.97,
+            "release_date": "2024-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zm2kMjiz0u6qdn2XKbEbQkDiltN.jpg",
+            "id": 675024,
+            "title": "The Exorcism of Carmen Farias",
+            "original_title": "El Exorcismo de Carmen Farías",
+            "overview": "Carmen, a brave journalist, discovers soon after her mother's death that she has inherited her grandma's house. She decides to move there without knowing it hides dark secrets.",
+            "poster_path": "/uoTPjx07dxTrC1g3dYeaS2WNVGL.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 1.9118,
+            "release_date": "2021-05-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.024,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/456tLLmzg7OeNyijCvCfL6X55VV.jpg",
+            "id": 1142414,
+            "title": "Cheat",
+            "original_title": "Cheat",
+            "overview": "On the surface it's believed to be another urban legend - a supernatural being from the afterlife is violently killing anyone who cheats on their significant other in the small college town of Silvercreek, Pennsylvania. But the town's unusually high suicide rate is finally convincing both locals and college students that everything is not as it seems. When Maeve - a female college student - sleeps with Charlie, the married man of the host family she is staying with, both sense the deadly curse is closing in on them. Unable to get anyone to believe them, Maeve and Charlie seek out a local history student to help find answers and figure out a way to defend themselves. It all comes undone, however, as several people are horrifically killed by the savage being - one-by-one at a rapid pace. Eventually, Maeve, Charlie and the few survivors band together in an attempt to defeat the monster once and for all.",
+            "poster_path": "/46Um9OTHNA390mMxwpSSc2m35Zp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.8601,
+            "release_date": "2023-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.014,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fHNFZ3aEmNWzDNADqoDA7TSg7DW.jpg",
+            "id": 482325,
+            "title": "Bunnyman Vengeance",
+            "original_title": "Bunnyman Vengeance",
+            "overview": "The man known as Bunnyman returns home to find his family running a haunted house attraction. The family welcomes him home, but soon realizes you cannot domesticate a wild animal. Death and mayhem ensue as the family turn on one another to fulfill their bloodlust.",
+            "poster_path": "/rVQgv1nvuq3TqVuxzQRSn9w3t6e.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 1.6427,
+            "release_date": "2017-10-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 62
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/obBe7n3FVvHfwK3wP182MrsBbCk.jpg",
+            "id": 826753,
+            "title": "Candy Land",
+            "original_title": "Candy Land",
+            "overview": "Remy, a seemingly naive and devout young woman, finds herself cast out from her religious cult. With no place to turn, she immerses herself into the underground world of truck stop sex workers. Under the watchful eye of their matriarch and an enigmatic local lawman, Remy navigates between her strained belief system and the code to find her true calling in life.",
+            "poster_path": "/3upBKM4ZFZ1fEEnWrnTZMuyPrzI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.5229,
+            "release_date": "2023-01-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.236,
+            "vote_count": 178
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m1GLbZXi5pmLE3nvKbnB7GGl5jo.jpg",
+            "id": 1089123,
+            "title": "Daddy's Head",
+            "original_title": "Daddy's Head",
+            "overview": "A boy and his stepmother fear for their safety after an eerie creature resembling the boy's recently deceased father visits them.",
+            "poster_path": "/nEWbEBs8BalwasA4Un8rll3kauT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 4.571,
+            "release_date": "2024-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.937,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+            "id": 9003,
+            "title": "Hellraiser",
+            "original_title": "Hellraiser",
+            "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
+            "poster_path": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 9.227,
+            "release_date": "1987-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.882,
+            "vote_count": 2927
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+            "id": 1330421,
+            "title": "Bone Lake",
+            "original_title": "Bone Lake",
+            "overview": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+            "poster_path": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 10.9358,
+            "release_date": "2025-10-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.891,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3r3tZgKTw1554hcFoUfydLHE38w.jpg",
+            "id": 338947,
+            "title": "Hellraiser",
+            "original_title": "Hellraiser",
+            "overview": "A young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension.",
+            "poster_path": "/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.3419,
+            "release_date": "2022-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 1065
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+            "id": 9552,
+            "title": "The Exorcist",
+            "original_title": "The Exorcist",
+            "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+            "poster_path": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 18.7047,
+            "release_date": "1973-12-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.744,
+            "vote_count": 8768
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hHlFspcHTLGFo8BwOSCsX9eHtbY.jpg",
+            "id": 21208,
+            "title": "Orphan",
+            "original_title": "Orphan",
+            "overview": "After losing their baby, a married couple adopt 9-year old Esther, who may not be as innocent as she seems.",
+            "poster_path": "/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 10.5333,
+            "release_date": "2009-07-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.991,
+            "vote_count": 5713
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
+            "id": 8461,
+            "title": "Funny Games",
+            "original_title": "Funny Games",
+            "overview": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+            "poster_path": "/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 7.6041,
+            "release_date": "2008-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.548,
+            "vote_count": 2306
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/boprqXZexBatujVC07gZzzxjWk.jpg",
+            "id": 1109406,
+            "title": "Compulsion",
+            "original_title": "Compulsion",
+            "overview": "Two women—Diana, a flamboyant and ruthless thief, and Evie, a seemingly innocent young woman with a troubled past—become embroiled in a series of horrific murders on the island of Malta.",
+            "poster_path": "/s3MzSdsMcmxmpVJMuH5ezNPjzs7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 3.3393,
+            "release_date": "2024-11-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.046,
+            "vote_count": 54
+        }
+    ]
+}

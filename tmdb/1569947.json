@@ -1,0 +1,671 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/1ldfkNbf3joNG8mA6idXoEL1fZV.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "https://www.creativ-studios.com/",
+        "id": 1569947,
+        "imdb_id": "tt37594278",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Priest: Thanksgiving Massacre",
+        "overview": "A family gather to spend Thanksgiving at an isolated cabin, unaware that the site has a horrific history of murder and cannibalism and that the Priest responsible did not rest in peace. Now they are on the menu for Thanksgiving dinner.",
+        "popularity": 99.5419,
+        "poster_path": "/AiRySv62247N91mfCCAryACGNuv.jpg",
+        "production_companies": [
+            {
+                "id": 81562,
+                "logo_path": null,
+                "name": "Creativ Studios",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2025-08-08",
+        "revenue": 0,
+        "runtime": 83,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The Thanksgiving offering.",
+        "title": "The Priest: Thanksgiving Massacre",
+        "video": false,
+        "vote_average": 3.341,
+        "vote_count": 41
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4501573,
+            "known_for_department": "Acting",
+            "name": "Jo Krayer",
+            "original_name": "Jo Krayer",
+            "popularity": 0.4115,
+            "profile_path": null,
+            "cast_id": 2,
+            "character": "Tom",
+            "credit_id": "68ffcb3def417f1ec1eab736",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5777732,
+            "known_for_department": "Acting",
+            "name": "Liz Soutar",
+            "original_name": "Liz Soutar",
+            "popularity": 0.2737,
+            "profile_path": "/y6OEUcY8kD3850zovdU3hf7Vsz5.jpg",
+            "cast_id": 4,
+            "character": "Cyndy",
+            "credit_id": "68ffcbd459ac38228127641e",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5777729,
+            "known_for_department": "Acting",
+            "name": "Holly Higbee",
+            "original_name": "Holly Higbee",
+            "popularity": 0.2878,
+            "profile_path": "/7GLADq5eNcGvZWGHaUkmzCO1TWX.jpg",
+            "cast_id": 1,
+            "character": "Andi",
+            "credit_id": "68ffcaaae95d2ea41aeab406",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6389028,
+            "known_for_department": "Acting",
+            "name": "Brooklyn Ross",
+            "original_name": "Brooklyn Ross",
+            "popularity": 0.1754,
+            "profile_path": null,
+            "cast_id": 11,
+            "character": "Noah",
+            "credit_id": "6a7169c95698c1c26dbd6d47",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1358946,
+            "known_for_department": "Acting",
+            "name": "Dani Thompson",
+            "original_name": "Dani Thompson",
+            "popularity": 0.7107,
+            "profile_path": "/jEVoILMILvAzqpDFWFkW7J92X6c.jpg",
+            "cast_id": 3,
+            "character": "Sara",
+            "credit_id": "68ffcba13a61d287ebbbf97a",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2560622,
+            "known_for_department": "Acting",
+            "name": "Mark Topping",
+            "original_name": "Mark Topping",
+            "popularity": 0.4788,
+            "profile_path": "/p6Ifeoyfou4B56ofbTdqWCBU2UN.jpg",
+            "cast_id": 5,
+            "character": "Reverend Fuller",
+            "credit_id": "68ffcc5907b661f6262765f4",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3595681,
+            "known_for_department": "Acting",
+            "name": "Melody Smith",
+            "original_name": "Melody Smith",
+            "popularity": 0.2371,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "Abigail Fuller",
+            "credit_id": "6a7169e868420906de358642",
+            "order": 6
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2114488,
+            "known_for_department": "Directing",
+            "name": "Steve Lawson",
+            "original_name": "Steve Lawson",
+            "popularity": 0.9073,
+            "profile_path": null,
+            "credit_id": "68ffcc782aecd0bc7d3bff3e",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2114488,
+            "known_for_department": "Directing",
+            "name": "Steve Lawson",
+            "original_name": "Steve Lawson",
+            "popularity": 0.9073,
+            "profile_path": null,
+            "credit_id": "68ffcc882821befd76eab5df",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2009323,
+            "known_for_department": "Camera",
+            "name": "Jon O'Neill",
+            "original_name": "Jon O'Neill",
+            "popularity": 0.2672,
+            "profile_path": null,
+            "credit_id": "68ffccc3996a5f72f3eab592",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2599888,
+            "known_for_department": "Production",
+            "name": "May Monteiro",
+            "original_name": "May Monteiro",
+            "popularity": 0.3046,
+            "profile_path": null,
+            "credit_id": "68ffccec8405df65b74e8f3f",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2599892,
+            "known_for_department": "Production",
+            "name": "Jeremy Rothwell",
+            "original_name": "Jeremy Rothwell",
+            "popularity": 0.3754,
+            "profile_path": null,
+            "credit_id": "68ffcd05c6f47d6cff9fb676",
+            "department": "Production",
+            "job": "Executive Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 4543,
+            "name": "thanksgiving"
+        },
+        {
+            "id": 278235,
+            "name": "cannibalism"
+        },
+        {
+            "id": 316940,
+            "name": "pilgrims"
+        },
+        {
+            "id": 361034,
+            "name": "killer priest"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/nwIodFwJl1LjgrhrEUKDbDcap8N.jpg",
+            "id": 643866,
+            "title": "Pilgrim",
+            "original_title": "Pilgrim",
+            "overview": "In an attempt to remind her family of their privilege and help them bond, Ms. Anna Barker invites Pilgrim reenactors to stay with them over Thanksgiving. When the “actors” refuse to break character, the Barker family learns that there is such a thing as too much gratitude.",
+            "poster_path": "/uswFh1UtkV2hkvkTfczQXNodjFz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                10770
+            ],
+            "popularity": 2.0109,
+            "release_date": "2019-11-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.901,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+            "id": 1426297,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+            "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.9648,
+            "release_date": "2025-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9AbL76J8pCKNhyNzdEg8e2SQ4LJ.jpg",
+            "id": 1272890,
+            "title": "Lowlifes",
+            "original_title": "Lowlifes",
+            "overview": "The survival instincts of a road-tripping family are put to the test when they have no other choice but to stay the night at a remote homestead.",
+            "poster_path": "/vxTyYoIRgutvzMpB97XAC8FhJiH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.6049,
+            "release_date": "2024-04-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.353,
+            "vote_count": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/np58LPJkwC3THsKBkBscDKSlQPz.jpg",
+            "id": 1029235,
+            "title": "Azrael",
+            "original_title": "Azrael",
+            "overview": "In a world where no one speaks, a devout female hunts down a young woman who has escaped her imprisonment. Recaptured by its ruthless leaders, Azrael is due to be sacrificed to pacify an ancient evil deep within the surrounding wilderness.",
+            "poster_path": "/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "popularity": 5.55,
+            "release_date": "2024-09-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.853,
+            "vote_count": 463
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gMC4KIdHsj37w3kPI7mRUJLC57Q.jpg",
+            "id": 1107166,
+            "title": "Psycho Killer",
+            "original_title": "Psycho Killer",
+            "overview": "Following the brutal murder of her husband, a Kansas highway patrol officer sets out on a journey to track down the perpetrator. As the hunt progresses, she comes to realize the man responsible is a sadistic serial killer, and the depth of his mental depravity and his sinister agenda is more twisted than anyone could have imagined.",
+            "poster_path": "/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                9648
+            ],
+            "popularity": 11.0181,
+            "release_date": "2026-02-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.554,
+            "vote_count": 175
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zCSLLLe8o0CJarDKk2IJQsLXqkl.jpg",
+            "id": 1222064,
+            "title": "River of Blood",
+            "original_title": "River of Blood",
+            "overview": "Four kayakers take the wrong river into a jungle inhabited by a tribe of merciless cannibals.",
+            "poster_path": "/kgCfN7zuC2k9VaqeDdquUwroC8u.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.9166,
+            "release_date": "2024-12-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.974,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tcV7eCdGFN3RzB2ByWRrH5Xf7cU.jpg",
+            "id": 10185,
+            "title": "The Midnight Meat Train",
+            "original_title": "The Midnight Meat Train",
+            "overview": "A photographer's obsessive pursuit of dark subject matter leads him into the path of a serial killer who stalks late night commuters, ultimately butchering them in the most gruesome ways.",
+            "poster_path": "/x5YbfyUA8huK0shr008xwzNVJ5Y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                14
+            ],
+            "popularity": 4.8996,
+            "release_date": "2008-08-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.182,
+            "vote_count": 1286
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7JI6ID1ga8uKyUPisjUXKxYCVRJ.jpg",
+            "id": 675531,
+            "title": "Dark Harvest",
+            "original_title": "Dark Harvest",
+            "overview": "In a small Midwestern town, a deadly annual ritual unfolds when the mythical nightmare, Sawtooth Jack, rises from the cornfields and challenges the town’s teenage boys in a bloody battle of survival.",
+            "poster_path": "/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                14,
+                53
+            ],
+            "popularity": 4.3598,
+            "release_date": "2023-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 321
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yZtnGzfZER0QU7ZG4r4RaZAaXJH.jpg",
+            "id": 1519168,
+            "title": "The Jester 2",
+            "original_title": "The Jester 2",
+            "overview": "When teen magician Max crosses paths with the sinister Jester on Halloween night, she must outsmart a supernatural killer whose magic is all too real and whose tricks always end up in blood.",
+            "poster_path": "/47dsw1jSOV0Be5zmy7CtLhYpqU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "popularity": 4.1593,
+            "release_date": "2025-09-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2vgmjG6yPh6dT6U4057KqsWXKh.jpg",
+            "id": 27414,
+            "title": "Silent Night, Deadly Night",
+            "original_title": "Silent Night, Deadly Night",
+            "overview": "After a man dressed as Santa Claus brutally murders Billy Chapman's parents, little Billy then endures the cruelty of a sadistic nun at his orphanage. Years later, when adult Billy has to fill in for an absent in-store Santa, his childhood trauma brings him to the breaking point.",
+            "poster_path": "/ypj2JwAN4vWcc4zSqFCTgUwMbJV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.6346,
+            "release_date": "1984-11-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.93,
+            "vote_count": 450
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ptZypdOBofmADX9JCtgi5E38cnC.jpg",
+            "id": 74725,
+            "title": "Kill List",
+            "original_title": "Kill List",
+            "overview": "Nearly a year after a botched job, a hitman takes a new assignment with the promise of a big payoff for three killings. What starts off as an easy task soon unravels, sending the killer into the heart of darkness.",
+            "poster_path": "/qwT2I3ons0oD58jIppKmd4qLtvB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "popularity": 4.1172,
+            "release_date": "2011-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.196,
+            "vote_count": 890
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7uEioqlOZrjmUQSX9jYVM00E7hk.jpg",
+            "id": 680593,
+            "title": "The Dark and the Wicked",
+            "original_title": "The Dark and the Wicked",
+            "overview": "On a secluded farm in a nondescript rural town, a man is slowly dying. His family gathers to mourn, and soon a darkness grows, marked by waking nightmares and a growing sense that something evil is taking over the family.",
+            "poster_path": "/4DB9VFVTp0IQEWFEIf9f3f2z3t5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 4.0308,
+            "release_date": "2020-04-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.139,
+            "vote_count": 552
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lQzSMhkAl90iXPirjnLbRHkxApC.jpg",
+            "id": 917007,
+            "title": "Bed Rest",
+            "original_title": "Bed Rest",
+            "overview": "After struggling to start a family, Julie Rivers becomes pregnant and moves into a new home with her husband. She's ordered to mandatory bed rest, and begins seeing ghostly happenings throughout the house.",
+            "poster_path": "/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 4.2934,
+            "release_date": "2023-02-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2hV2clTCW55dwTLCZcOvvidjjrV.jpg",
+            "id": 474764,
+            "title": "The Lodge",
+            "original_title": "The Lodge",
+            "overview": "When a father is forced to abruptly depart for work, he leaves his children, Aidan and Mia, at their holiday home in the care of his new girlfriend, Grace. Isolated and alone, a blizzard traps them inside the lodge as terrifying events summon specters from Grace's dark past.",
+            "poster_path": "/yake2myhbW7c6dKbmwYDy1i40bm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 6.2282,
+            "release_date": "2020-01-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.081,
+            "vote_count": 1441
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/en7GPLCPwTRA0KxiR5BxjlSCqaG.jpg",
+            "id": 621151,
+            "title": "Spell",
+            "original_title": "Spell",
+            "overview": "A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.",
+            "poster_path": "/9clw9UBQXmi3EFgjgIPGJSluQr7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27,
+                14
+            ],
+            "popularity": 3.0277,
+            "release_date": "2020-10-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.374,
+            "vote_count": 466
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jmE8wxLSS90K1K01mCBaS4rQq23.jpg",
+            "id": 601844,
+            "title": "Becky",
+            "original_title": "Becky",
+            "overview": "A teenager's weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.",
+            "poster_path": "/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27,
+                28
+            ],
+            "popularity": 4.7516,
+            "release_date": "2020-07-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.317,
+            "vote_count": 737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xrt2SCSXmKiAuzCuYQVGkssvWS.jpg",
+            "id": 101669,
+            "title": "Mother's Day",
+            "original_title": "Mother's Day",
+            "overview": "Crazed members of a sadistic family return to their childhood home to terrorize the new owners.",
+            "poster_path": "/wjKmtce2WFoOyoiYGVx0nUSzGxT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "popularity": 3.1609,
+            "release_date": "2010-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.485,
+            "vote_count": 474
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/phiRQhfwZZeMMn3osvQUmGYmJbp.jpg",
+            "id": 755,
+            "title": "From Dusk Till Dawn",
+            "original_title": "From Dusk Till Dawn",
+            "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+            "poster_path": "/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                28,
+                80
+            ],
+            "popularity": 12.4395,
+            "release_date": "1996-01-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.047,
+            "vote_count": 6595
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fAF3VGFBpItWNROmiGob60n0y5.jpg",
+            "id": 1242937,
+            "title": "The Dreadful",
+            "original_title": "The Dreadful",
+            "overview": "In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past returns from war, a curse begins to take shape through a mysterious knight and threatens to destroy them all.",
+            "poster_path": "/nhhJkYau8nQMFgauvOudDjwj9vA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 4.9637,
+            "release_date": "2026-02-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5KtmBSqFtHY3I9t8lgH27Mc0bqY.jpg",
+            "id": 10331,
+            "title": "Night of the Living Dead",
+            "original_title": "Night of the Living Dead",
+            "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+            "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "popularity": 7.9103,
+            "release_date": "1968-10-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.607,
+            "vote_count": 2783
+        }
+    ]
+}

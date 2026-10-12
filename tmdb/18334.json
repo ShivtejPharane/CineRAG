@@ -1,0 +1,563 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/rtD11mLsqwMAoBj3y9Kaze5Cfjs.jpg",
+        "belongs_to_collection": {
+            "id": 476063,
+            "name": "Guinea Pig Collection",
+            "poster_path": "/rNypp21VEXQR9UDaUgLwxPVySRH.jpg",
+            "backdrop_path": "/avcPNMbXi3seIae82uXvsH63FIq.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 18334,
+        "imdb_id": "tt0161634",
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_title": "ギニーピッグ 悪魔の実験",
+        "overview": "Masked thugs torture an innocent woman in increasingly brutal ways.",
+        "popularity": 10.9802,
+        "poster_path": "/gyloAdASwFB0Ksm9Ky9xHLYsgZk.jpg",
+        "production_companies": [
+            {
+                "id": 3481,
+                "logo_path": null,
+                "name": "Sai Enterprise",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "1985-09-04",
+        "revenue": 0,
+        "runtime": 43,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "status": "Released",
+        "tagline": "An experiment on the breaking point of bearable pain.",
+        "title": "Guinea Pig: Devil's Experiment",
+        "video": false,
+        "vote_average": 4.813,
+        "vote_count": 163
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6023840,
+            "known_for_department": "Acting",
+            "name": "Shigeru Saiki",
+            "original_name": "Shigeru Saiki",
+            "popularity": 0.3011,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "torturer",
+            "credit_id": "699a8c19d3e1c24ee1e8f20f",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1089924,
+            "known_for_department": "Acting",
+            "name": "Mari Somei",
+            "original_name": "染井真理",
+            "popularity": 1.3601,
+            "profile_path": "/p7AwkpXnj0Vyi56ewwKqMYkPoRF.jpg",
+            "cast_id": 5,
+            "character": "Yegg",
+            "credit_id": "699a8d307f7b6c85a059095c",
+            "order": 1
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 102187,
+            "known_for_department": "Production",
+            "name": "Satoru Ogura",
+            "original_name": "小椋悟",
+            "popularity": 0.6361,
+            "profile_path": null,
+            "credit_id": "52fe47749251416c75099fcd",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 102187,
+            "known_for_department": "Production",
+            "name": "Satoru Ogura",
+            "original_name": "小椋悟",
+            "popularity": 0.6361,
+            "profile_path": null,
+            "credit_id": "52fe47749251416c75099fd3",
+            "department": "Writing",
+            "job": "Writer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 3880,
+            "name": "snuff"
+        },
+        {
+            "id": 10292,
+            "name": "gore"
+        },
+        {
+            "id": 13006,
+            "name": "torture"
+        },
+        {
+            "id": 263548,
+            "name": "short film"
+        },
+        {
+            "id": 325763,
+            "name": "ambiguous"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+            "id": 1426297,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+            "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.9648,
+            "release_date": "2025-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rhuEN18ZimDOva3guaWZA4hYgLB.jpg",
+            "id": 1309083,
+            "title": "Dolly",
+            "original_title": "Dolly",
+            "overview": "Young Macy is abducted by a deranged, monstrous figure who wants to raise her as its child.",
+            "poster_path": "/oJJquv1sg5XMTIyNHxEm0KLo696.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 19.4975,
+            "release_date": "2026-03-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.806,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
+            "id": 420634,
+            "title": "Terrifier",
+            "original_title": "Terrifier",
+            "overview": "A maniacal clown named Art terrorizes three young women on Halloween night and everyone else who stands in his way.",
+            "poster_path": "/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 17.5422,
+            "release_date": "2018-01-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.311,
+            "vote_count": 3026
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/I4ofwq3XfmwXAETUs5pjubcMJ0.jpg",
+            "id": 1029281,
+            "title": "Strange Darling",
+            "original_title": "Strange Darling",
+            "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.97,
+            "release_date": "2024-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ow1CdUbmZPMKqDj2bow98A2cwCT.jpg",
+            "id": 480100,
+            "title": "Nightmare Cinema",
+            "original_title": "Nightmare Cinema",
+            "overview": "A series of down-on-their-luck individuals enter the decrepit and spine-chilling Rialto theater, only to have their deepest and darkest fears brought to life on the silver screen by The Projectionist – a mysterious, ghostly figure who holds the nightmarish futures of all who attend his screenings.",
+            "poster_path": "/ftdhL4zamDnjSD4TML1ES79DueX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.8427,
+            "release_date": "2018-06-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.84,
+            "vote_count": 263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sSBLA1G4A6ZEFWhFrrox9fIV8Mt.jpg",
+            "id": 34583,
+            "title": "The Final",
+            "original_title": "The Final",
+            "overview": "A group of high school outcasts get revenge on the students that torment them.",
+            "poster_path": "/ff7UI8q51sOArKafaaAOQnnfpne.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.323,
+            "release_date": "2010-01-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 309
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7mblMC2YIPNSM6xaO4OtUuT7vbO.jpg",
+            "id": 319314,
+            "title": "Imprint",
+            "original_title": "インプリント〜ぼっけえ、きょうてえ〜",
+            "overview": "An American journalist travels through 19th-century Japan to find the prostitute he fell in love with but instead learns of the physical and existential horror that befell her after he left.",
+            "poster_path": "/7XZRCJkc5MFz1FM4wbNFfJBom9d.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                27,
+                10770
+            ],
+            "popularity": 3.186,
+            "release_date": "2006-02-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.882,
+            "vote_count": 191
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xrt2SCSXmKiAuzCuYQVGkssvWS.jpg",
+            "id": 101669,
+            "title": "Mother's Day",
+            "original_title": "Mother's Day",
+            "overview": "Crazed members of a sadistic family return to their childhood home to terrorize the new owners.",
+            "poster_path": "/wjKmtce2WFoOyoiYGVx0nUSzGxT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "popularity": 3.1609,
+            "release_date": "2010-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.485,
+            "vote_count": 474
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+            "id": 176,
+            "title": "Saw",
+            "original_title": "Saw",
+            "overview": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
+            "poster_path": "/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                80
+            ],
+            "popularity": 15.4703,
+            "release_date": "2004-10-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.425,
+            "vote_count": 10212
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vrFI0I3M8ROZduj9XbFDoQKZyao.jpg",
+            "id": 9792,
+            "title": "The Hills Have Eyes",
+            "original_title": "The Hills Have Eyes",
+            "overview": "Based on Wes Craven's 1977 suspenseful cult classic, The Hills Have Eyes is the story of a family road trip that goes terrifyingly awry when the travelers become stranded in a government atomic zone. Miles from nowhere, the Carter family soon realizes the seemingly uninhabited wasteland is actually the breeding ground of a blood-thirsty mutant family...and they are the prey.",
+            "poster_path": "/2eJL1Ccr1FN3dm9OSDwyd8uaX1b.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 11.168,
+            "release_date": "2006-03-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.482,
+            "vote_count": 3418
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7MorkyWQXVOi2XKYci6pIGbjb2x.jpg",
+            "id": 1691,
+            "title": "Hostel: Part II",
+            "original_title": "Hostel: Part II",
+            "overview": "Three American college students studying abroad are lured to a Slovakian hostel, and discover the grim reality behind it.",
+            "poster_path": "/qB20aiY8Ah3pQikkBxm3j7jQVc8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 6.7592,
+            "release_date": "2007-06-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.858,
+            "vote_count": 2248
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gEeM0ya0UDkdn7EgP5ivabZ754v.jpg",
+            "id": 608654,
+            "title": "The Banana Splits Movie",
+            "original_title": "The Banana Splits Movie",
+            "overview": "A boy named Harley and his family attend a taping of The Banana Splits TV show, which is supposed to be a fun-filled birthday for young Harley and business as usual for Rebecca, the producer of the series. But things take an unexpected turn - and the body count quickly rises. Can Harley, his mom and their new pals safely escape?",
+            "poster_path": "/vG9FY2wHVwOOQfqNlUt2LbRzRNl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.8146,
+            "release_date": "2019-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.502,
+            "vote_count": 268
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qXTSZkk8mQHnZjuRjW9fc2Ax5vj.jpg",
+            "id": 41439,
+            "title": "Saw 3D",
+            "original_title": "Saw 3D",
+            "overview": "As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+            "poster_path": "/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                80
+            ],
+            "popularity": 12.4556,
+            "release_date": "2010-10-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.977,
+            "vote_count": 3352
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aELgHEHFGDCcGslMoyg9KGiDV4v.jpg",
+            "id": 159117,
+            "title": "V/H/S/2",
+            "original_title": "V/H/S/2",
+            "overview": "Inside a darkened house looms a column of TVs littered with VHS tapes, a pagan shrine to forgotten analog gods. The screens crackle and pop endlessly with monochrome vistas of static white noise permeating the brain and fogging concentration. But you must fight the urge to relax: this is no mere movie night. Those obsolete spools contain more than just magnetic tape. They are imprinted with the very soul of evil.",
+            "poster_path": "/o4hcWsHaHaNQ9BBReOxLvYJNRhA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.4169,
+            "release_date": "2013-06-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.201,
+            "vote_count": 1205
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
+            "id": 285923,
+            "title": "Grindhouse",
+            "original_title": "Grindhouse",
+            "overview": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
+            "poster_path": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                27
+            ],
+            "popularity": 5.1775,
+            "release_date": "2007-04-06",
+            "softcore": false,
+            "video": true,
+            "vote_average": 7.004,
+            "vote_count": 1915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ApB0mF2d5Oqioi3yxjuogiotSLI.jpg",
+            "id": 985,
+            "title": "Eraserhead",
+            "original_title": "Eraserhead",
+            "overview": "First-time father Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
+            "poster_path": "/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 8.6009,
+            "release_date": "1977-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.336,
+            "vote_count": 2785
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jEt4V0Qb3g8frTl2MOwPORZthVH.jpg",
+            "id": 1160003,
+            "title": "Night of the Hunted",
+            "original_title": "Night of the Hunted",
+            "overview": "When an unsuspecting woman stops at a remote gas station in the dead of night, she's made the plaything of a sociopath sniper with a secret vendetta. To survive, she must not only dodge his bullets and fight for her life, but also figure out who wants her dead and why.",
+            "poster_path": "/84YOsylmgr181BHrTKlmaKs8IzV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 3.6709,
+            "release_date": "2023-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.024,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ykIWktRVYmZGM2hqYPPGckOyK44.jpg",
+            "id": 126277,
+            "title": "American Mary",
+            "original_title": "American Mary",
+            "overview": "A young medical student struggling to pay tuition is drawn into the shady world of underground body-modification.",
+            "poster_path": "/oHwyNKHm41Y6WPRCHL0zOzytGvL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.27,
+            "release_date": "2013-01-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.279,
+            "vote_count": 606
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uWbP41poWgP0f7sgAQTf6UeRtwg.jpg",
+            "id": 753453,
+            "title": "V/H/S/94",
+            "original_title": "V/H/S/94",
+            "overview": "After the discovery of a mysterious VHS tape, a brutish police SWAT team launches a high-intensity raid on a remote warehouse, only to discover a sinister cult compound whose collection of pre-recorded material uncovers a nightmarish conspiracy.",
+            "poster_path": "/9fSogEkqDfJQTuGHsTFloQz3Tw8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.5733,
+            "release_date": "2021-09-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 568
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j3P5wkyiigZW8aeogoZoiNIZySL.jpg",
+            "id": 9696,
+            "title": "Ichi the Killer",
+            "original_title": "殺し屋1",
+            "overview": "As sadomasochistic yakuza enforcer Kakihara searches for his missing boss he comes across Ichi, a repressed and psychotic killer who may be able to inflict levels of pain that Kakihara has only dreamed of.",
+            "poster_path": "/k8j4YLZlda98dqp9ErymKzjYowG.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                80,
+                27
+            ],
+            "popularity": 5.4393,
+            "release_date": "2001-12-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.995,
+            "vote_count": 1124
+        }
+    ]
+}

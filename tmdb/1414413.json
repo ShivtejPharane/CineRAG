@@ -1,0 +1,844 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1414413,
+        "imdb_id": "tt32394984",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Brothers Under Fire",
+        "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+        "popularity": 12.6456,
+        "poster_path": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+        "production_companies": [
+            {
+                "id": 76991,
+                "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+                "name": "Highland Film Group",
+                "origin_country": "US"
+            },
+            {
+                "id": 144803,
+                "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
+                "name": "Align",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2026-04-15",
+        "revenue": 0,
+        "runtime": 99,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "He never planned to fight. But he refuses to fall.",
+        "title": "Brothers Under Fire",
+        "video": false,
+        "vote_average": 5.763,
+        "vote_count": 38
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2628,
+            "known_for_department": "Acting",
+            "name": "Kiefer Sutherland",
+            "original_name": "Kiefer Sutherland",
+            "popularity": 3.3917,
+            "profile_path": "/tK5zjdvao2NELns3bqT7PPqPeJI.jpg",
+            "cast_id": 1,
+            "character": "Capt. Jordan Wright",
+            "credit_id": "677eda93044b6ca6764e7521",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2088733,
+            "known_for_department": "Acting",
+            "name": "Tommy Martinez",
+            "original_name": "Tommy Martinez",
+            "popularity": 1.8347,
+            "profile_path": "/hPPWLxCSoehYnDaOrC6O0HxXPjT.jpg",
+            "cast_id": 2,
+            "character": "Alberto",
+            "credit_id": "677eda9de0d56493e4bb12e7",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1152019,
+            "known_for_department": "Acting",
+            "name": "Ashton Sanders",
+            "original_name": "Ashton Sanders",
+            "popularity": 1.2766,
+            "profile_path": "/2hMKOd6TLQWwLAS6ztUcZj8IZAC.jpg",
+            "cast_id": 3,
+            "character": "Carson",
+            "credit_id": "677edaace0d56493e4bb1309",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3060978,
+            "known_for_department": "Acting",
+            "name": "Solly McLeod",
+            "original_name": "Solly McLeod",
+            "popularity": 1.1157,
+            "profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+            "cast_id": 4,
+            "character": "Danny",
+            "credit_id": "677edabee0d56493e4bb131f",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1652056,
+            "known_for_department": "Acting",
+            "name": "Laura Osma",
+            "original_name": "Laura Osma",
+            "popularity": 1.3341,
+            "profile_path": "/8Be6lQzj5dJIdSExDGBXfP7e8DQ.jpg",
+            "cast_id": 5,
+            "character": "Isabella",
+            "credit_id": "677edacb7732209e17bb1ac2",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1134885,
+            "known_for_department": "Acting",
+            "name": "Omar Chaparro",
+            "original_name": "Omar Chaparro",
+            "popularity": 1.8165,
+            "profile_path": "/fAIDrbtyHBcDDbRdRZ3bvNesKU7.jpg",
+            "cast_id": 6,
+            "character": "Baker",
+            "credit_id": "677edad361a873952c7b1a12",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3976722,
+            "known_for_department": "Acting",
+            "name": "Orlando Pineda",
+            "original_name": "Orlando Pineda",
+            "popularity": 0.6494,
+            "profile_path": "/9L2IEPO4tzsVigqv31EAFHae7hB.jpg",
+            "cast_id": 7,
+            "character": "Miguel",
+            "credit_id": "677edadd7732209e17bb1ae2",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3835727,
+            "known_for_department": "Acting",
+            "name": "Laird Akeo",
+            "original_name": "Laird Akeo",
+            "popularity": 0.784,
+            "profile_path": "/h8CgwGsD6fXJMtRFen32DrMK2NW.jpg",
+            "cast_id": 8,
+            "character": "Marco",
+            "credit_id": "677edaef2037ff04c94e739a",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 66913,
+            "known_for_department": "Acting",
+            "name": "Flora Martínez",
+            "original_name": "Flora Martínez",
+            "popularity": 1.0842,
+            "profile_path": "/r2A4acUJEYit2Lh4ehT72a0RuNB.jpg",
+            "cast_id": 9,
+            "character": "Angelica",
+            "credit_id": "677edb0012667968854e7c77",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3638028,
+            "known_for_department": "Acting",
+            "name": "Gabriel Camero",
+            "original_name": "Gabriel Camero",
+            "popularity": 0.473,
+            "profile_path": "/z9atYwTCgrExh2hJM7PfpRQOG2J.jpg",
+            "cast_id": 10,
+            "character": "Stevie",
+            "credit_id": "677edb0fe0d56493e4bb1355",
+            "order": 9
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 71570,
+            "known_for_department": "Directing",
+            "name": "Justin Chadwick",
+            "original_name": "Justin Chadwick",
+            "popularity": 0.8567,
+            "profile_path": "/zrKoTfiSU7yhCmIKVWbkfLgnLWy.jpg",
+            "credit_id": "677edb2c61a873952c7b1a83",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5167383,
+            "known_for_department": "Writing",
+            "name": "Delbert Hancock",
+            "original_name": "Delbert Hancock",
+            "popularity": 0.4718,
+            "profile_path": null,
+            "credit_id": "677edb44f2c621807dbb256b",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 574090,
+            "known_for_department": "Writing",
+            "name": "Ian Mackenzie Jeffers",
+            "original_name": "Ian Mackenzie Jeffers",
+            "popularity": 0.4998,
+            "profile_path": "/gXJJrlaTCKDCw58KSNE6027ZSmz.jpg",
+            "credit_id": "677edb5561a873952c7b1aa0",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 76021,
+            "known_for_department": "Acting",
+            "name": "Griff Furst",
+            "original_name": "Griff Furst",
+            "popularity": 1.2702,
+            "profile_path": "/kC7MQMSMockWSHpIkAFJp4LwPI8.jpg",
+            "credit_id": "677edb6a12667968854e7cc5",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 408,
+            "known_for_department": "Acting",
+            "name": "James Keach",
+            "original_name": "James Keach",
+            "popularity": 1.4953,
+            "profile_path": "/7m1q8jK2fJCYCP8i9ks6e2pQJ6q.jpg",
+            "credit_id": "677edb7812667968854e7cd3",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1410752,
+            "known_for_department": "Production",
+            "name": "Nik Bower",
+            "original_name": "Nik Bower",
+            "popularity": 0.451,
+            "profile_path": null,
+            "credit_id": "677edb882037ff04c94e73d3",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3847768,
+            "known_for_department": "Crew",
+            "name": "Toby Elwes",
+            "original_name": "Toby Elwes",
+            "popularity": 0.4276,
+            "profile_path": null,
+            "credit_id": "677edb9512667968854e7ce7",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1525,
+            "known_for_department": "Production",
+            "name": "Trevor Albert",
+            "original_name": "Trevor Albert",
+            "popularity": 0.3435,
+            "profile_path": null,
+            "credit_id": "677edba3044b6ca6764e755b",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 134451,
+            "known_for_department": "Production",
+            "name": "Arianne Fraser",
+            "original_name": "Arianne Fraser",
+            "popularity": 0.4939,
+            "profile_path": "/eJPvHgWatmQgho5KBNPVAE1uKH1.jpg",
+            "credit_id": "677edbb144d649ffae7b1a8e",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2054139,
+            "known_for_department": "Production",
+            "name": "Delphine Perrier",
+            "original_name": "Delphine Perrier",
+            "popularity": 0.6269,
+            "profile_path": "/thZwyKYn0WBMyg6WwO1eOXKjzCN.jpg",
+            "credit_id": "677edbc07732209e17bb1b18",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1160628,
+            "known_for_department": "Production",
+            "name": "Robert Stein",
+            "original_name": "Robert Stein",
+            "popularity": 0.3489,
+            "profile_path": null,
+            "credit_id": "677edbcc044b6ca6764e7562",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 22047,
+            "known_for_department": "Sound",
+            "name": "Alex Heffes",
+            "original_name": "Alex Heffes",
+            "popularity": 0.5217,
+            "profile_path": "/oeSZwaw4s2a6tSi2GG7SXFHAt9v.jpg",
+            "credit_id": "69e551dba1560d7d8d80296f",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 534,
+            "name": "mexico"
+        },
+        {
+            "id": 10349,
+            "name": "survival"
+        },
+        {
+            "id": 162365,
+            "name": "military"
+        },
+        {
+            "id": 206594,
+            "name": "cartel"
+        },
+        {
+            "id": 322496,
+            "name": "action"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/vnlfU43DkOI3x4mnjrW7zVrONAy.jpg",
+            "id": 404733,
+            "title": "Overdrive",
+            "original_title": "Overdrive",
+            "overview": "Master car thieves square off against French gangsters in the South of France with money, women and lives all on the line.",
+            "poster_path": "/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                9648
+            ],
+            "popularity": 6.8557,
+            "release_date": "2017-06-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1018
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sousyLLi3l14qho6gATKYX7pEyR.jpg",
+            "id": 26039,
+            "title": "Point Blank",
+            "original_title": "Point Blank",
+            "overview": "After being double-crossed and left for dead, a mysterious man named Walker single-mindedly tries to retrieve the rather inconsequential sum of money that was stolen from him.",
+            "poster_path": "/xvZc8EvB7tNPHM9VdmNA19EiwqU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "popularity": 4.5681,
+            "release_date": "1967-08-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.037,
+            "vote_count": 438
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fZIOrSUxZ6f1tODktqdICN3Ky1o.jpg",
+            "id": 17585,
+            "title": "Surviving the Game",
+            "original_title": "Surviving the Game",
+            "overview": "A homeless man is hired as a survival guide for a group of wealthy businessmen on a hunting trip in the mountains, unaware that they are killers who hunt humans for sport, and that he is their new prey.",
+            "poster_path": "/wRtpJFGney5gqHmMb3JjT5WN3FH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                12,
+                80,
+                18
+            ],
+            "popularity": 2.9182,
+            "release_date": "1994-04-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.138,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3iPyg1mXyMDczVsPNpeLirjoh3T.jpg",
+            "id": 56427,
+            "title": "Baywatch: Hawaiian Wedding",
+            "original_title": "Baywatch: Hawaiian Wedding",
+            "overview": "Mitch Buchannon, believed to have died in a boating accident survived and only has amnesia, he has been recovering in a Los Angeles hospital.  His new fiancée, Allison Ford, resembles his old lover, Lt. Stephanie Holden who died years ago.",
+            "poster_path": "/nMUGYIvqZdwye3spOAHDP0Fyw7A.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                12,
+                10770
+            ],
+            "popularity": 3.9004,
+            "release_date": "2003-02-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.956,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4dNv1W1KMSLdYGz0tCEaynF0E4Q.jpg",
+            "id": 854467,
+            "title": "Indemnity",
+            "original_title": "Indemnity",
+            "overview": "An ex-fireman with PTSD goes on the run when accused of a crime he doesn't even remember committing, leading him down a rabbit hole of conspiracy to the highest degree.",
+            "poster_path": "/8y1rfKHot8DF0cQhGvKXtYsMjNx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 2.1283,
+            "release_date": "2022-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.608,
+            "vote_count": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bam6RudCnYDj8YIZt2vi3bUTxSp.jpg",
+            "id": 31623,
+            "title": "Battleground",
+            "original_title": "Battleground",
+            "overview": "Members of the U.S. Army's 101st Airborne Division are fighting for their country amidst the rugged terrain of Bastogne, Belgium, in December 1944. Holley and his American compatriots have already seen one of their own, Roderigues, perish under enemy fire. The men try to rebuff another series of Nazi attacks, but what they really need is a change in the weather. Without clear skies, they'll never get the air support they need.",
+            "poster_path": "/qSrcs7zmF61aRtzmOVPxeBBowap.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                10752
+            ],
+            "popularity": 2.1908,
+            "release_date": "1949-11-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.702,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p0eKQhjfDwJx2IDRQVZ23mIZSFz.jpg",
+            "id": 32080,
+            "title": "The Seven-Ups",
+            "original_title": "The Seven-Ups",
+            "overview": "A tough detective who is part of an elite New York City unit is trying to find out who killed his partner, but uncovers a plot to kidnap mobsters for money.",
+            "poster_path": "/xmpzuTWUEiVPsRz7kKXijNISUNq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                9648
+            ],
+            "popularity": 2.7209,
+            "release_date": "1973-12-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.357,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y7FMwxLAouENpX05f2YSgZozrlR.jpg",
+            "id": 14755,
+            "title": "The Deadly Affair",
+            "original_title": "The Deadly Affair",
+            "overview": "Charles Dobbs is a British secret agent investigating the apparent suicide of Foreign Office official Samuel Fennan. Dobbs suspects that Fennan's wife, Elsa, a survivor of a Nazi Germany extermination camp, might have some clues, but other officials want Dobbs to drop the case. So Dobbs hires a retiring inspector, Mendel, to quietly make inquiries. Dobbs isn't at all sure as there are a number of anomalies that simply can't be explained away. Dobbs is also having trouble at home with his errant wife, whom he very much loves, having frequent affairs. He's also pleased to see an old friend, Dieter Frey, who he recruited after the war. With the assistance of a colleague and a retired policeman, Dobbs tries to piece together just who is the spy and who in fact assassinated Fennan.",
+            "poster_path": "/Av6mrgiizvdSC1Tl9cEvazjS9S.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                9648,
+                18
+            ],
+            "popularity": 2.0053,
+            "release_date": "1967-01-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.279,
+            "vote_count": 95
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/to5uhJxIin8Pi9WmREFLSUuS33L.jpg",
+            "id": 1123,
+            "title": "Catch a Fire",
+            "original_title": "Catch a Fire",
+            "overview": "The true story of anti-apartheid activists in South Africa, and particularly the life of Patrick Chamusso, a timid foreman at Secunda CTL, the largest synthetic fuel plant in the world. Patrick is wrongly accused, imprisoned and tortured for an attempt to bomb the plant, with the injustice transforming the apolitical worker into a radicalised insurgent, who then carries out his own successful sabotage mission.",
+            "poster_path": "/2sgujWX2yWH7REnDI35ZZXsqPiV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "popularity": 2.8274,
+            "release_date": "2006-10-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.265,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ufUAOM5aVizNf8d5YLoutqrrlhq.jpg",
+            "id": 336843,
+            "title": "Maze Runner: The Death Cure",
+            "original_title": "Maze Runner: The Death Cure",
+            "overview": "Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
+            "poster_path": "/s8K0US4tUEoOrQ1LDh0eppuwGDx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53
+            ],
+            "popularity": 13.8545,
+            "release_date": "2018-01-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.079,
+            "vote_count": 8506
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3HJpbh02zCrnjH9TnhKRB7pCHme.jpg",
+            "id": 302528,
+            "title": "Remember",
+            "original_title": "Remember",
+            "overview": "With the aid of a fellow Auschwitz survivor and a hand-written letter, an elderly man with dementia goes in search of the person responsible for the death of his family.",
+            "poster_path": "/x496Ip0weJYfsEX23eNyzG4MjXV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                9648
+            ],
+            "popularity": 3.2603,
+            "release_date": "2015-10-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.353,
+            "vote_count": 764
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg",
+            "id": 823625,
+            "title": "Blacklight",
+            "original_title": "Blacklight",
+            "overview": "Travis Block is a shadowy Government agent who specializes in removing operatives whose covers have been exposed. He then has to uncover a deadly conspiracy within his own ranks that reaches the highest echelons of power.",
+            "poster_path": "/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                12
+            ],
+            "popularity": 6.3316,
+            "release_date": "2022-02-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.133,
+            "vote_count": 1285
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gVgpNGHkgK8iPfKnc89jL8kmKsD.jpg",
+            "id": 24528,
+            "title": "Killer Bean Forever",
+            "original_title": "Killer Bean Forever",
+            "overview": "When things go bad in Beantown, top assassin Killer Bean is called to clean-up the mess. Detective Cromwell finds himself in the middle between Killer Bean and mob boss Cappuccino.",
+            "poster_path": "/qZTCweihd6H8IM2W1Bgk7M3HKrf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                53
+            ],
+            "popularity": 3.4348,
+            "release_date": "2008-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.156,
+            "vote_count": 192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gLXibzLQ4qegvjdqDC0f8yTij2P.jpg",
+            "id": 1310568,
+            "title": "Murder at the Embassy",
+            "original_title": "Murder at the Embassy",
+            "overview": "1934. Private detective Miranda Green investigates a murder perpetrated in the British Embassy in Cairo, where a top secret document was stolen, risking to jeopardize both Buckingham Palace and the peace of the world. All those present in this closed place are suspected: the American photographer, the English student, the American actress, the Egyptian security guard, the ambassador interpreter, the Egyptian gardener and - why not? — the Ambassador himself. But who would have expected that a small group of Nazis would be behind a plot, risking to jeopardize both Buckingham Palace and the peace of the world?",
+            "poster_path": "/3DBmBItPdy0A2ol59jgHhS54Lua.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                53,
+                28
+            ],
+            "popularity": 6.0186,
+            "release_date": "2025-11-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.009,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/twq14rFTS6a2SoJsk8LSajR7Hym.jpg",
+            "id": 423087,
+            "title": "6 Below: Miracle on the Mountain",
+            "original_title": "6 Below: Miracle on the Mountain",
+            "overview": "An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras where he is pushed to the limits of human endurance and forced to battle his own personal demons as he fights for survival....",
+            "poster_path": "/wgHFllRwPp5CUVbWNmQGX6lRBWt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 3.5416,
+            "release_date": "2017-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 399
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg",
+            "id": 10911,
+            "title": "The Guns of Navarone",
+            "original_title": "The Guns of Navarone",
+            "overview": "A team of allied saboteurs are assigned an impossible mission: infiltrate an impregnable Nazi-held island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.",
+            "poster_path": "/j6VSFnm20GlkUi8yb7hM5Qfc1fA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                10752
+            ],
+            "popularity": 8.9551,
+            "release_date": "1961-04-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.294,
+            "vote_count": 885
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/snUdoOV9oQCLYFBKk99POiYpWvj.jpg",
+            "id": 2207,
+            "title": "16 Blocks",
+            "original_title": "16 Blocks",
+            "overview": "An aging cop is assigned the ordinary task of escorting a fast-talking witness from police custody to a courthouse, but they find themselves running the gauntlet as other forces try to prevent them from getting there.",
+            "poster_path": "/cBLqMVfTZpuKmMQKDLKusb93dbR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                80,
+                53
+            ],
+            "popularity": 6.5824,
+            "release_date": "2006-03-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.457,
+            "vote_count": 2141
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lh2nbC8qRBJxyH0iqkPmXlNqhcK.jpg",
+            "id": 900409,
+            "title": "On Fire",
+            "original_title": "On Fire",
+            "overview": "Inspired by true and harrowing events, an ordinary man finds his world suddenly torn apart as devastating wildfires rip through the surrounding countryside. With precious moments ticking by, he must flee with his son and pregnant wife if they have any hope of surviving the rapid forces of mother nature.",
+            "poster_path": "/1ms0zRAMtbVq5XoIfrlcSj84g6G.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                28,
+                12
+            ],
+            "popularity": 2.7169,
+            "release_date": "2023-09-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.176,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/be8kbUlVP90TbjTWfDzNpqfKwlH.jpg",
+            "id": 480823,
+            "title": "Dirt",
+            "original_title": "Dirt",
+            "overview": "In search of a lifeline for his struggling off road racing team, a man takes on a young car thief looking for a second chance, but as their worlds collide, they must struggle to forge a successful alliance.",
+            "poster_path": "/vaZgso4P0wW9IsXTzpOtfU0UxbD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28
+            ],
+            "popularity": 2.0243,
+            "release_date": "2018-03-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.078,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xgzMiezZQ3NEVXxlb2nlBTPKYg4.jpg",
+            "id": 17761,
+            "title": "The High and the Mighty",
+            "original_title": "The High and the Mighty",
+            "overview": "Dan Roman is a veteran pilot haunted by a tragic past. Now relegated to second-in-command cockpit assignments he finds himself on a routine Honolulu-to-San Francisco flight - one that takes a terrifying suspense-building turn when disaster strikes high above the Pacific Ocean at the point of no return.",
+            "poster_path": "/il7ZUf1ys5ElbafW2VAEnX5NWD7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                18,
+                53
+            ],
+            "popularity": 2.9373,
+            "release_date": "1954-07-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.929,
+            "vote_count": 84
+        }
+    ]
+}

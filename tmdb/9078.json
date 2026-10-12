@@ -1,0 +1,1118 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/uMe6McFXAPEhkasGVlaLTOuhfnl.jpg",
+        "belongs_to_collection": null,
+        "budget": 3000000,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "",
+        "id": 9078,
+        "imdb_id": "tt0057546",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Sword in the Stone",
+        "overview": "Wart is a young boy who aspires to be a knight's squire. On a hunting trip he falls in on Merlin, a powerful but amnesiac wizard who has plans for him beyond mere squiredom. He starts by trying to give him an education, believing that once one has an education, one can go anywhere. Needless to say, it doesn't quite work out that way.",
+        "popularity": 9.9165,
+        "poster_path": "/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg",
+        "production_companies": [
+            {
+                "id": 3166,
+                "logo_path": "/jmPS1qPfKnISciDF7RnUbh48jvK.png",
+                "name": "Walt Disney Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1963-12-25",
+        "revenue": 22200000,
+        "runtime": 79,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Tired of living in a Medieval mess... Merlin uses all his magic powers to change a scrawny little boy into a legendary hero!",
+        "title": "The Sword in the Stone",
+        "video": false,
+        "vote_average": 7.228,
+        "vote_count": 4144
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 21877,
+            "known_for_department": "Acting",
+            "name": "Sebastian Cabot",
+            "original_name": "Sebastian Cabot",
+            "popularity": 1.0752,
+            "profile_path": "/uAgoTmwvabGX00LnYyDfyL7TPUP.jpg",
+            "cast_id": 1,
+            "character": "The Narrator/Sir Ector (voice)",
+            "credit_id": "52fe44d9c3a36847f80adaed",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 12158,
+            "known_for_department": "Acting",
+            "name": "Karl Swenson",
+            "original_name": "Karl Swenson",
+            "popularity": 1.4429,
+            "profile_path": "/36uUxu4K8WQi8oZJMsciKzu15kS.jpg",
+            "cast_id": 2,
+            "character": "Merlin (voice)",
+            "credit_id": "52fe44d9c3a36847f80adaf1",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 57313,
+            "known_for_department": "Acting",
+            "name": "Junius Matthews",
+            "original_name": "Junius Matthews",
+            "popularity": 0.8906,
+            "profile_path": "/wfMbR7I6xjzO8n1y0wv0rRop4Fc.jpg",
+            "cast_id": 3,
+            "character": "Archimedes the Owl (voice)",
+            "credit_id": "52fe44d9c3a36847f80adaf5",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 71780,
+            "known_for_department": "Acting",
+            "name": "Martha Wentworth",
+            "original_name": "Martha Wentworth",
+            "popularity": 1.3973,
+            "profile_path": "/81Et3nBlWFANlWsP4D8BAFXwI0b.jpg",
+            "cast_id": 11,
+            "character": "Madam Mim / Old Lady Squirrel (voice)",
+            "credit_id": "52fe44d9c3a36847f80adb1d",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7139,
+            "known_for_department": "Acting",
+            "name": "Norman Alden",
+            "original_name": "Norman Alden",
+            "popularity": 1.0866,
+            "profile_path": "/zfClMw6EEImQtxArqunRcjbjvMg.jpg",
+            "cast_id": 4,
+            "character": "Kay (voice)",
+            "credit_id": "52fe44d9c3a36847f80adaf9",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 159552,
+            "known_for_department": "Acting",
+            "name": "Rickie Sorensen",
+            "original_name": "Rickie Sorensen",
+            "popularity": 0.9571,
+            "profile_path": "/aE1D8ksXvPNdfYcZ2leqjtJavuL.jpg",
+            "cast_id": 9,
+            "character": "Wart (voice)",
+            "credit_id": "52fe44d9c3a36847f80adb15",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 955923,
+            "known_for_department": "Acting",
+            "name": "Ginny Tyler",
+            "original_name": "Ginny Tyler",
+            "popularity": 0.6483,
+            "profile_path": "/suST6Ql6kGHsfA1eWNfEvSSm1mj.jpg",
+            "cast_id": 10,
+            "character": "Little Girl Squirrel (voice)",
+            "credit_id": "52fe44d9c3a36847f80adb19",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6933,
+            "known_for_department": "Acting",
+            "name": "Alan Napier",
+            "original_name": "Alan Napier",
+            "popularity": 1.715,
+            "profile_path": "/90TwBLqH94JqWeVBXqkkYR2wsp2.jpg",
+            "cast_id": 12,
+            "character": "Sir Pellinore (voice)",
+            "credit_id": "52fe44d9c3a36847f80adb21",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1287645,
+            "known_for_department": "Acting",
+            "name": "Richard Reitherman",
+            "original_name": "Richard Reitherman",
+            "popularity": 0.3985,
+            "profile_path": null,
+            "cast_id": 13,
+            "character": "Wart (voice)",
+            "credit_id": "52fe44d9c3a36847f80adb25",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1287646,
+            "known_for_department": "Acting",
+            "name": "Robert Reitherman",
+            "original_name": "Robert Reitherman",
+            "popularity": 0.2432,
+            "profile_path": null,
+            "cast_id": 14,
+            "character": "Wart (voice)",
+            "credit_id": "52fe44d9c3a36847f80adb29",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 103448,
+            "known_for_department": "Acting",
+            "name": "Barbara Jo Allen",
+            "original_name": "Barbara Jo Allen",
+            "popularity": 0.6735,
+            "profile_path": "/b7px76Cylc7quiIGfwamo3JvMBN.jpg",
+            "cast_id": 26,
+            "character": "Scullery Maid (voice) (uncredited)",
+            "credit_id": "5aeaa04392514167c1000574",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 137461,
+            "known_for_department": "Acting",
+            "name": "James MacDonald",
+            "original_name": "James MacDonald",
+            "popularity": 0.9682,
+            "profile_path": "/qf3IMvOrc39jKz6Bddtv4Ur2ski.jpg",
+            "cast_id": 28,
+            "character": "The Wolf / Pike / Tiger Mim (voice) (uncredited)",
+            "credit_id": "5aeaa09cc3a3682ddd000846",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 106101,
+            "known_for_department": "Acting",
+            "name": "Tudor Owen",
+            "original_name": "Tudor Owen",
+            "popularity": 0.7737,
+            "profile_path": "/m6PjK1IMLDe11xDR6FBgqM8ElPI.jpg",
+            "cast_id": 29,
+            "character": "Knight in Crowd (voice) (uncredited)",
+            "credit_id": "5aeaa0b90e0a262b270006b1",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150739,
+            "known_for_department": "Acting",
+            "name": "Thurl Ravenscroft",
+            "original_name": "Thurl Ravenscroft",
+            "popularity": 1.0211,
+            "profile_path": "/bG8r0mdyU0lvhllYAAjRAJupWqq.jpg",
+            "cast_id": 30,
+            "character": "Black Bart (voice) (uncredited)",
+            "credit_id": "5aeaa0ca0e0a262b380005d7",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3461,
+            "known_for_department": "Acting",
+            "name": "Jack Albertson",
+            "original_name": "Jack Albertson",
+            "popularity": 1.8325,
+            "profile_path": "/6Ed6n1sfOlOvr0F7sEDiHvQnp96.jpg",
+            "cast_id": 34,
+            "character": "Knight in Crowd #1 (uncredited)",
+            "credit_id": "66ac25d9afdf5c3f97d2d557",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4621918,
+            "known_for_department": "Sound",
+            "name": "Fred Darian",
+            "original_name": "Fred Darian",
+            "popularity": 0.1753,
+            "profile_path": null,
+            "cast_id": 35,
+            "character": "The Minstrel in opening sequence (voice) (uncredited)",
+            "credit_id": "66ac260b477c56c78dd2d3d1",
+            "order": 15
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2106,
+            "known_for_department": "Production",
+            "name": "Walt Disney",
+            "original_name": "Walt Disney",
+            "popularity": 1.743,
+            "profile_path": "/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg",
+            "credit_id": "52fe44d9c3a36847f80adaff",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 57314,
+            "known_for_department": "Visual Effects",
+            "name": "Wolfgang Reitherman",
+            "original_name": "Wolfgang Reitherman",
+            "popularity": 0.8342,
+            "profile_path": "/biIAk3hrc7Ed2ZnjadMiMS1EswM.jpg",
+            "credit_id": "52fe44d9c3a36847f80adb05",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 57315,
+            "known_for_department": "Writing",
+            "name": "T.H. White",
+            "original_name": "T.H. White",
+            "popularity": 0.3555,
+            "profile_path": null,
+            "credit_id": "52fe44d9c3a36847f80adb0b",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 57316,
+            "known_for_department": "Writing",
+            "name": "Bill Peet",
+            "original_name": "Bill Peet",
+            "popularity": 0.7552,
+            "profile_path": null,
+            "credit_id": "52fe44d9c3a36847f80adb11",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 22066,
+            "known_for_department": "Visual Effects",
+            "name": "Eric Larson",
+            "original_name": "Eric Larson",
+            "popularity": 0.252,
+            "profile_path": "/gNrUDEgF3qgspHxLNGR01byJZGx.jpg",
+            "credit_id": "565a07d592514161ae000a9e",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 138170,
+            "known_for_department": "Visual Effects",
+            "name": "Milt Kahl",
+            "original_name": "Milt Kahl",
+            "popularity": 0.6951,
+            "profile_path": "/3Kh10dBqHTNDbXmsEoD7GAISelz.jpg",
+            "credit_id": "565a192c92514161b4000d13",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 63646,
+            "known_for_department": "Visual Effects",
+            "name": "Frank Thomas",
+            "original_name": "Frank Thomas",
+            "popularity": 0.6648,
+            "profile_path": "/ex3jyUogtwMt2zQgzmh3cwEz8ds.jpg",
+            "credit_id": "565a1c8092514161ae000d8d",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 143786,
+            "known_for_department": "Visual Effects",
+            "name": "Ollie Johnston",
+            "original_name": "Ollie Johnston",
+            "popularity": 0.6479,
+            "profile_path": "/7LShcoYbJg7vfXV2lSjzTlGAGb.jpg",
+            "credit_id": "565a247692514161c1000ef1",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 69003,
+            "known_for_department": "Visual Effects",
+            "name": "John Lounsbery",
+            "original_name": "John Lounsbery",
+            "popularity": 0.4572,
+            "profile_path": "/sHvTdMA98zyOEn3Mfffz1zApBaL.jpg",
+            "credit_id": "565a2a8c92514161ae000f3d",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 64869,
+            "known_for_department": "Editing",
+            "name": "Donald Halliday",
+            "original_name": "Donald Halliday",
+            "popularity": 0.3272,
+            "profile_path": null,
+            "credit_id": "59d3ef0a9251414b70004e5f",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2117,
+            "known_for_department": "Sound",
+            "name": "Robert O. Cook",
+            "original_name": "Robert O. Cook",
+            "popularity": 0.6522,
+            "profile_path": null,
+            "credit_id": "59d3f0349251414ba500523c",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 57334,
+            "known_for_department": "Writing",
+            "name": "Ken Anderson",
+            "original_name": "Ken Anderson",
+            "popularity": 0.7316,
+            "profile_path": "/h0Jpwz1YkwC9sZr6swtkWrPEHMn.jpg",
+            "credit_id": "5aea9f8b0e0a262b1e0004da",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5838,
+            "known_for_department": "Sound",
+            "name": "Richard M. Sherman",
+            "original_name": "Richard M. Sherman",
+            "popularity": 0.638,
+            "profile_path": "/1uI7VEKd4RquqxEVaykX04fbqSs.jpg",
+            "credit_id": "5f2a2630869e75003868babb",
+            "department": "Sound",
+            "job": "Songs"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5839,
+            "known_for_department": "Sound",
+            "name": "Robert B. Sherman",
+            "original_name": "Robert B. Sherman",
+            "popularity": 0.5003,
+            "profile_path": "/hPcoQvIiP8DYfnA5NVyO8BgoSPb.jpg",
+            "credit_id": "5f2a2639a35c8e003550b1c8",
+            "department": "Sound",
+            "job": "Songs"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 40345,
+            "known_for_department": "Directing",
+            "name": "Don Bluth",
+            "original_name": "Don Bluth",
+            "popularity": 1.0864,
+            "profile_path": "/vzeIEidWO7v2Dfw7iMv3Xjnmfwd.jpg",
+            "credit_id": "6031822c5c3247003edcdb79",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 57316,
+            "known_for_department": "Writing",
+            "name": "Bill Peet",
+            "original_name": "Bill Peet",
+            "popularity": 0.7552,
+            "profile_path": null,
+            "credit_id": "67645199f410f6c0881f631a",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1653448,
+            "known_for_department": "Directing",
+            "name": "Sylvia Roemer",
+            "original_name": "Sylvia Roemer",
+            "popularity": 0.4502,
+            "profile_path": null,
+            "credit_id": "676b54777ba3c45440a9d905",
+            "department": "Directing",
+            "job": "Layout"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 57337,
+            "known_for_department": "Sound",
+            "name": "George Bruns",
+            "original_name": "George Bruns",
+            "popularity": 0.487,
+            "profile_path": "/h7TkHWHbQvjZxgUFqwMtnMV3lWF.jpg",
+            "credit_id": "68af7eba979253a4c2624d80",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 143787,
+            "known_for_department": "Visual Effects",
+            "name": "Hal King",
+            "original_name": "Hal King",
+            "popularity": 0.4908,
+            "profile_path": null,
+            "credit_id": "692f037eed3a7414b2512741",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 63647,
+            "known_for_department": "Visual Effects",
+            "name": "Eric Cleworth",
+            "original_name": "Eric Cleworth",
+            "popularity": 0.4249,
+            "profile_path": null,
+            "credit_id": "692f039f63cff73df6286d11",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 149976,
+            "known_for_department": "Visual Effects",
+            "name": "John Sibley",
+            "original_name": "John Sibley",
+            "popularity": 0.554,
+            "profile_path": null,
+            "credit_id": "692f03ae6c463f17d0dc3772",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 148810,
+            "known_for_department": "Visual Effects",
+            "name": "Cliff Nordberg",
+            "original_name": "Cliff Nordberg",
+            "popularity": 0.5382,
+            "profile_path": null,
+            "credit_id": "692f03bdf3cb46ee893ea9d1",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150110,
+            "known_for_department": "Visual Effects",
+            "name": "Hal Ambro",
+            "original_name": "Hal Ambro",
+            "popularity": 0.4309,
+            "profile_path": null,
+            "credit_id": "692f03ccf3cb46ee893ea9d5",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 222649,
+            "known_for_department": "Visual Effects",
+            "name": "Dick N. Lucas",
+            "original_name": "Dick N. Lucas",
+            "popularity": 0.336,
+            "profile_path": null,
+            "credit_id": "692f03de702c3777096e2fa9",
+            "department": "Visual Effects",
+            "job": "Animation"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 616,
+            "name": "witch"
+        },
+        {
+            "id": 818,
+            "name": "based on novel or book"
+        },
+        {
+            "id": 2343,
+            "name": "magic"
+        },
+        {
+            "id": 4375,
+            "name": "transformation"
+        },
+        {
+            "id": 6513,
+            "name": "cartoon"
+        },
+        {
+            "id": 3289,
+            "name": "villain"
+        },
+        {
+            "id": 10466,
+            "name": "knight"
+        },
+        {
+            "id": 10982,
+            "name": "king arthur"
+        },
+        {
+            "id": 41538,
+            "name": "turns into animal"
+        },
+        {
+            "id": 166726,
+            "name": "female villain"
+        },
+        {
+            "id": 177128,
+            "name": "excalibur"
+        },
+        {
+            "id": 177912,
+            "name": "wizard"
+        },
+        {
+            "id": 244144,
+            "name": "wart"
+        },
+        {
+            "id": 324713,
+            "name": "whimsical"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/tyj0QztA0PkYo6XauifWjkx7UVi.jpg",
+            "id": 12092,
+            "title": "Alice in Wonderland",
+            "original_title": "Alice in Wonderland",
+            "overview": "On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.",
+            "poster_path": "/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                12
+            ],
+            "popularity": 14.4575,
+            "release_date": "1951-08-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 6334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i93UV4ECaLUWaLRRjcTf77x5rbr.jpg",
+            "id": 543583,
+            "title": "Cinderella and the Secret Prince",
+            "original_title": "Cinderella and the Secret Prince",
+            "overview": "Cinderella discovers a secret that could shake their world: an evil witch turned the prince into a mouse and replaced him with a look-alike. Cinderella and her friends must save the real prince and help him defeat the evil witch.",
+            "poster_path": "/4oIIM7i4sFPyGFWP0GYZo3pNAH7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "popularity": 3.1491,
+            "release_date": "2018-09-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4idEU92m0oR1BWa1iwb5pZ9bWCu.jpg",
+            "id": 10957,
+            "title": "The Black Cauldron",
+            "original_title": "The Black Cauldron",
+            "overview": "Taran is an assistant pigkeeper with boyish dreams of becoming a great warrior. However, he has to put the daydreaming aside when his charge, an oracular pig named Hen Wen, is kidnapped by an evil lord known as the Horned King. The villain hopes Hen will show him the way to The Black Cauldron, which has the power to create a giant army of unstoppable soldiers.",
+            "poster_path": "/h64i9e6oJs2jrDZ4QzspXMqZhPF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "popularity": 7.2504,
+            "release_date": "1985-07-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 1459
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+            "id": 10882,
+            "title": "Sleeping Beauty",
+            "original_title": "Sleeping Beauty",
+            "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+            "poster_path": "/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                16,
+                10749,
+                10751
+            ],
+            "popularity": 16.5718,
+            "release_date": "1959-02-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.946,
+            "vote_count": 5531
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+            "id": 321612,
+            "title": "Beauty and the Beast",
+            "original_title": "Beauty and the Beast",
+            "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+            "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                14,
+                10749
+            ],
+            "popularity": 20.0562,
+            "release_date": "2017-03-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.967,
+            "vote_count": 16101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xXY4XV7hhOH7QDVLb7yGU9n0YiE.jpg",
+            "id": 199753,
+            "title": "Tom and Jerry's Giant Adventure",
+            "original_title": "Tom and Jerry's Giant Adventure",
+            "overview": "Tom And Jerry are among the last animals living in Storybook Town, a fairy tale-inspired theme park \"where dreams come true, if you believe.\"",
+            "poster_path": "/pwMfAavFAysc9cQELGerQErmQhE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "popularity": 3.6157,
+            "release_date": "2013-08-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Y2hqJteEvE5DD0j99QTXqF9MZ8.jpg",
+            "id": 287233,
+            "title": "Tom and Jerry: The Lost Dragon",
+            "original_title": "Tom and Jerry: The Lost Dragon",
+            "overview": "Tom and Jerry find a dragon egg, and help the baby dragon find its mother.",
+            "poster_path": "/s2Tegfa5IOUkFx988FgTFZth189.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "popularity": 3.0873,
+            "release_date": "2014-07-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+            "id": 532639,
+            "title": "Pinocchio",
+            "original_title": "Pinocchio",
+            "overview": "A wooden puppet embarks on a thrilling adventure to become a real boy.",
+            "poster_path": "/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                12,
+                10751
+            ],
+            "popularity": 7.3976,
+            "release_date": "2022-09-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 1757
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+            "id": 927254,
+            "title": "The Twits",
+            "original_title": "The Twits",
+            "overview": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down.",
+            "poster_path": "/zNP1nMRFqa9qAkpCkLeHa1V7kDR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "popularity": 9.4905,
+            "release_date": "2025-10-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.864,
+            "vote_count": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zylJOaiIp0M4xeE6ox3giDjBTFx.jpg",
+            "id": 12335,
+            "title": "Bedknobs and Broomsticks",
+            "original_title": "Bedknobs and Broomsticks",
+            "overview": "Three children evacuated from London during World War II are forced to stay with an eccentric spinster. The children's initial fears disappear when they find out she is in fact a trainee witch.",
+            "poster_path": "/1BBzsThIZ06UmjZ3rChYGZhJtFQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                14
+            ],
+            "popularity": 4.2845,
+            "release_date": "1971-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.044,
+            "vote_count": 1039
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg",
+            "id": 9325,
+            "title": "The Jungle Book",
+            "original_title": "The Jungle Book",
+            "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+            "poster_path": "/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                12
+            ],
+            "popularity": 14.1917,
+            "release_date": "1967-10-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.289,
+            "vote_count": 6729
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uDdt2h4Q1jZikmYphHRerKtjMgF.jpg",
+            "id": 22582,
+            "title": "Tom and Jerry: The Movie",
+            "original_title": "Tom and Jerry: The Movie",
+            "overview": "The popular cartoon cat and mouse are thrown into a feature film. The story has the twosome trying to help an orphan girl who is being berated and exploited by a greedy guardian.",
+            "poster_path": "/k68ZB5trRKcEJSQdPiY6jtxVq14.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "popularity": 5.8961,
+            "release_date": "1992-10-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.348,
+            "vote_count": 632
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8oYykF1Qhrb8fC2qZqD71EzRywg.jpg",
+            "id": 278927,
+            "title": "The Jungle Book",
+            "original_title": "The Jungle Book",
+            "overview": "After a threat from the tiger Shere Khan, Mowgli, a man-cub fostered by wolves, is forced to flee the jungle, and he embarks on a journey of self-discovery with the help of the panther, Bagheera, and the free-spirited bear, Baloo.",
+            "poster_path": "/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                10751,
+                14
+            ],
+            "popularity": 12.8149,
+            "release_date": "2016-04-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.877,
+            "vote_count": 8574
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sidvlo7V8VMyskNKGwua0Tarbol.jpg",
+            "id": 961323,
+            "title": "Nimona",
+            "original_title": "Nimona",
+            "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
+            "poster_path": "/2NQljeavtfl22207D1kxLpa4LS3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                12,
+                878,
+                28
+            ],
+            "popularity": 6.294,
+            "release_date": "2023-06-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.855,
+            "vote_count": 1454
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/70aVSo3fuZ94jyQ3rT64afEf8lV.jpg",
+            "id": 676710,
+            "title": "The Amazing Maurice",
+            "original_title": "The Amazing Maurice",
+            "overview": "Maurice is a streetwise ginger cat who comes up with a money-making scam by befriending a group of self-taught talking rats. When Maurice and the rodents meet a bookworm called Malicia, their little con soon goes down the drain.",
+            "poster_path": "/ydhZeUjbzVEFclUpMhLfDZSavUY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751,
+                14
+            ],
+            "popularity": 5.0872,
+            "release_date": "2022-12-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.644,
+            "vote_count": 195
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b3RGeMU6IdVFvKitGtXtUh2iuZN.jpg",
+            "id": 1358305,
+            "title": "A Tooth Fairy Tale",
+            "original_title": "A Tooth Fairy Tale",
+            "overview": "Van, the brave son of a tooth fairy leader, meets the goblins girl Gemma on his first mission. Despite the myths about ancient disputes between fairies and goblins, they share common values. When the greedy Spider Queen threatens both tribes, they must work together.",
+            "poster_path": "/wZDLyFkI9YtBg1lSL4G9RUtCYIg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                14,
+                10751
+            ],
+            "popularity": 3.0804,
+            "release_date": "2025-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.557,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fwxOQkzYtRVKs3kzcyukdbsyIuh.jpg",
+            "id": 10150,
+            "title": "The Last Unicorn",
+            "original_title": "The Last Unicorn",
+            "overview": "A unicorn learns from a riddle-speaking butterfly that she is supposedly the last of her kind, all the others having been herded away by the monstrous Red Bull. The unicorn sets out to discover the truth behind the butterfly's words. She is eventually joined on her quest by Schmendrick, a second-rate magician, and Molly Grue, a middle-aged woman who dreamed all her life of seeing a unicorn. Their journey leads them far from home, all the way to the castle of King Haggard.",
+            "poster_path": "/MRHFtXTjxC74MGCzHACcuqvHiw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                16,
+                10751,
+                12
+            ],
+            "popularity": 3.6117,
+            "release_date": "1982-11-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.283,
+            "vote_count": 605
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
+            "id": 756,
+            "title": "Fantasia",
+            "original_title": "Fantasia",
+            "overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+            "poster_path": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "popularity": 8.5419,
+            "release_date": "1940-11-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3359
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tKjS4qUrtJw5Hg4kFpZaVEPrQOT.jpg",
+            "id": 13465,
+            "title": "The Adventures of Ichabod and Mr. Toad",
+            "original_title": "The Adventures of Ichabod and Mr. Toad",
+            "overview": "The Wind in the Willows: Concise version of Kenneth Grahame's story of the same name. J. Thaddeus Toad, owner of Toad Hall, is prone to fads, such as the newfangled motor car. This desire for the very latest lands him in much trouble with the wrong crowd, and it is up to his friends, Mole, Rat and Badger to save him from himself. - The Legend of Sleepy Hollow: Retelling of Washington Irving's story set in a tiny New England town. Ichabod Crane, the new schoolmaster, falls for the town beauty, Katrina Van Tassel, and the town Bully Brom Bones decides that he is a little too successful and needs \"convincing\" that Katrina is not for him.",
+            "poster_path": "/o6GfVkgPaaHJnXNywDLpHJII2tW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                14,
+                16,
+                10751
+            ],
+            "popularity": 5.2913,
+            "release_date": "1949-10-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.506,
+            "vote_count": 702
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8iwjFgudDelX4o3XdczcB2ij1L7.jpg",
+            "id": 15485,
+            "title": "Disney Princess Enchanted Tales: Follow Your Dreams",
+            "original_title": "Disney Princess Enchanted Tales: Follow Your Dreams",
+            "overview": "Princess Aurora and Princess Jasmine learn valuable life lessons in two short stories.",
+            "poster_path": "/8HTCBnWvdkS5kcff61tcQtDqFUq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "popularity": 2.4863,
+            "release_date": "2007-09-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.48,
+            "vote_count": 99
+        }
+    ]
+}

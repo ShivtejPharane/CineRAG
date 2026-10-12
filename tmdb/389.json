@@ -1,0 +1,1037 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+        "belongs_to_collection": null,
+        "budget": 397751,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 389,
+        "imdb_id": "tt0050083",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "12 Angry Men",
+        "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+        "popularity": 29.9921,
+        "poster_path": "/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+        "production_companies": [
+            {
+                "id": 10212,
+                "logo_path": null,
+                "name": "Orion-Nova Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1957-04-10",
+        "revenue": 4360000,
+        "runtime": 97,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "It explodes like 12 sticks of dynamite!",
+        "title": "12 Angry Men",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 10196
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1936,
+            "known_for_department": "Acting",
+            "name": "Martin Balsam",
+            "original_name": "Martin Balsam",
+            "popularity": 2.361,
+            "profile_path": "/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg",
+            "cast_id": 57,
+            "character": "Juror 1",
+            "credit_id": "5e93b065cedac40016ebbd44",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5247,
+            "known_for_department": "Acting",
+            "name": "John Fiedler",
+            "original_name": "John Fiedler",
+            "popularity": 1.7179,
+            "profile_path": "/27sXisLWQJQ49PD40j89miNhL73.jpg",
+            "cast_id": 58,
+            "character": "Juror 2",
+            "credit_id": "5e93b09a8e87020013cd34eb",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5248,
+            "known_for_department": "Acting",
+            "name": "Lee J. Cobb",
+            "original_name": "Lee J. Cobb",
+            "popularity": 1.9016,
+            "profile_path": "/yxMxBvM0PZwu7YXQamG0kFwt9DZ.jpg",
+            "cast_id": 59,
+            "character": "Juror 3",
+            "credit_id": "5e93b0a584448e0014910883",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5249,
+            "known_for_department": "Acting",
+            "name": "E.G. Marshall",
+            "original_name": "E.G. Marshall",
+            "popularity": 1.8033,
+            "profile_path": "/psimeVoRk64DV7UNm4cLQylRFy2.jpg",
+            "cast_id": 60,
+            "character": "Juror 4",
+            "credit_id": "5e93b0ae7a97ab00120dd261",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5250,
+            "known_for_department": "Acting",
+            "name": "Jack Klugman",
+            "original_name": "Jack Klugman",
+            "popularity": 1.3874,
+            "profile_path": "/oJxveOxlunD8C9OczqKeryU0k6D.jpg",
+            "cast_id": 61,
+            "character": "Juror 5",
+            "credit_id": "5e93b0bd84448e001291147f",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2651,
+            "known_for_department": "Acting",
+            "name": "Edward Binns",
+            "original_name": "Edward Binns",
+            "popularity": 1.5529,
+            "profile_path": "/s3fk0d0fwuj6bDVP9AcPUXFsGmK.jpg",
+            "cast_id": 62,
+            "character": "Juror 6",
+            "credit_id": "5e93b0c8ccb15f00136fd2a4",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5251,
+            "known_for_department": "Acting",
+            "name": "Jack Warden",
+            "original_name": "Jack Warden",
+            "popularity": 1.9638,
+            "profile_path": "/hSShXiYMfRpMByaB5euZ59qCKN.jpg",
+            "cast_id": 63,
+            "character": "Juror 7",
+            "credit_id": "5e93b0d3875d1a001444ade1",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4958,
+            "known_for_department": "Acting",
+            "name": "Henry Fonda",
+            "original_name": "Henry Fonda",
+            "popularity": 2.2275,
+            "profile_path": "/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg",
+            "cast_id": 64,
+            "character": "Juror 8",
+            "credit_id": "5e93b0e254508d001a177bde",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5252,
+            "known_for_department": "Acting",
+            "name": "Joseph Sweeney",
+            "original_name": "Joseph Sweeney",
+            "popularity": 1.0124,
+            "profile_path": "/yUDYdj0yk9dvDAR4dKHvK9zRpDv.jpg",
+            "cast_id": 65,
+            "character": "Juror 9",
+            "credit_id": "5e93b0ec54508d0015176f37",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 39816,
+            "known_for_department": "Acting",
+            "name": "Ed Begley",
+            "original_name": "Ed Begley",
+            "popularity": 1.3513,
+            "profile_path": "/AuPwjGgPphtfQOShb8pTtp5W7Ft.jpg",
+            "cast_id": 66,
+            "character": "Juror 10",
+            "credit_id": "5e93b0f7ca4f6700148145ab",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5254,
+            "known_for_department": "Acting",
+            "name": "George Voskovec",
+            "original_name": "Jiří Voskovec",
+            "popularity": 1.2,
+            "profile_path": "/nxW7pLtG8xLo4J3QHXzLxt8fd8P.jpg",
+            "cast_id": 67,
+            "character": "Juror 11",
+            "credit_id": "5e93b10684448e0012911546",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5255,
+            "known_for_department": "Acting",
+            "name": "Robert Webber",
+            "original_name": "Robert Webber",
+            "popularity": 1.1634,
+            "profile_path": "/1RlhCcfCkaSz0cWRSowsj5FiKXg.jpg",
+            "cast_id": 68,
+            "character": "Juror 12",
+            "credit_id": "5e93b11184448e001a90eb37",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3143,
+            "known_for_department": "Acting",
+            "name": "Rudy Bond",
+            "original_name": "Rudy Bond",
+            "popularity": 0.937,
+            "profile_path": "/bd3YONpGsvQrpz6MkhsqsiPSaOD.jpg",
+            "cast_id": 70,
+            "character": "Judge (uncredited)",
+            "credit_id": "5e93b13bccb15f00136fd3b1",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2498394,
+            "known_for_department": "Acting",
+            "name": "Tom Gorman",
+            "original_name": "Tom Gorman",
+            "popularity": 0.5532,
+            "profile_path": null,
+            "cast_id": 71,
+            "character": "Stenographer (uncredited)",
+            "credit_id": "5e93b147cedac40014ebb229",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1437464,
+            "known_for_department": "Acting",
+            "name": "James Kelly",
+            "original_name": "James Kelly",
+            "popularity": 0.3038,
+            "profile_path": null,
+            "cast_id": 72,
+            "character": "Guard (uncredited)",
+            "credit_id": "5e93b16584448e001291160b",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5257,
+            "known_for_department": "Acting",
+            "name": "Billy Nelson",
+            "original_name": "Billy Nelson",
+            "popularity": 0.4908,
+            "profile_path": null,
+            "cast_id": 73,
+            "character": "Court Clerk (uncredited)",
+            "credit_id": "5e93b181875d1a001944ed80",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 153394,
+            "known_for_department": "Acting",
+            "name": "Walter Stocker",
+            "original_name": "Walter Stocker",
+            "popularity": 0.6505,
+            "profile_path": null,
+            "cast_id": 69,
+            "character": "Man Waiting for Elevator (uncredited)",
+            "credit_id": "5e93b122d55e4d001a19f805",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5892050,
+            "known_for_department": "Acting",
+            "name": "John Savoca",
+            "original_name": "John Savoca",
+            "popularity": 0.3081,
+            "profile_path": null,
+            "cast_id": 78,
+            "character": "Defendant (uncredited)",
+            "credit_id": "6948dd2924937a5336155682",
+            "order": 17
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4958,
+            "known_for_department": "Acting",
+            "name": "Henry Fonda",
+            "original_name": "Henry Fonda",
+            "popularity": 2.2275,
+            "profile_path": "/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg",
+            "credit_id": "52fe423dc3a36847f800ec55",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5263,
+            "known_for_department": "Art",
+            "name": "Robert Markel",
+            "original_name": "Robert Markel",
+            "popularity": 0.305,
+            "profile_path": null,
+            "credit_id": "52fe423dc3a36847f800ec79",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5260,
+            "known_for_department": "Sound",
+            "name": "Kenyon Hopkins",
+            "original_name": "Kenyon Hopkins",
+            "popularity": 0.4935,
+            "profile_path": null,
+            "credit_id": "52fe423dc3a36847f800ec67",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5246,
+            "known_for_department": "Writing",
+            "name": "Reginald Rose",
+            "original_name": "Reginald Rose",
+            "popularity": 0.7798,
+            "profile_path": null,
+            "credit_id": "52fe423dc3a36847f800ec4f",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5262,
+            "known_for_department": "Editing",
+            "name": "Carl Lerner",
+            "original_name": "Carl Lerner",
+            "popularity": 0.6143,
+            "profile_path": null,
+            "credit_id": "52fe423dc3a36847f800ec73",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5246,
+            "known_for_department": "Writing",
+            "name": "Reginald Rose",
+            "original_name": "Reginald Rose",
+            "popularity": 0.7798,
+            "profile_path": null,
+            "credit_id": "52fe423dc3a36847f800ec61",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5264,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Herman Buchman",
+            "original_name": "Herman Buchman",
+            "popularity": 0.2856,
+            "profile_path": null,
+            "credit_id": "52fe423dc3a36847f800ec7f",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5261,
+            "known_for_department": "Camera",
+            "name": "Boris Kaufman",
+            "original_name": "Boris Kaufman",
+            "popularity": 0.6097,
+            "profile_path": null,
+            "credit_id": "52fe423dc3a36847f800ec6d",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5246,
+            "known_for_department": "Writing",
+            "name": "Reginald Rose",
+            "original_name": "Reginald Rose",
+            "popularity": 0.7798,
+            "profile_path": null,
+            "credit_id": "5439c1c90e0a2649a8000ff1",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5259,
+            "known_for_department": "Production",
+            "name": "George Justin",
+            "original_name": "George Justin",
+            "popularity": 0.3541,
+            "profile_path": null,
+            "credit_id": "54fe6df8c3a368150c000859",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 30994,
+            "known_for_department": "Camera",
+            "name": "Saul Midwall",
+            "original_name": "Saul Midwall",
+            "popularity": 0.404,
+            "profile_path": null,
+            "credit_id": "57463b5bc3a36808af000267",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1043428,
+            "known_for_department": "Sound",
+            "name": "Al Gramaglia",
+            "original_name": "Al Gramaglia",
+            "popularity": 0.3784,
+            "profile_path": null,
+            "credit_id": "6655b88ad092532206e4bc5a",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5265,
+            "known_for_department": "Sound",
+            "name": "James A. Gleason",
+            "original_name": "James A. Gleason",
+            "popularity": 0.1686,
+            "profile_path": null,
+            "credit_id": "5e93b014cedac40016ebbcb3",
+            "department": "Sound",
+            "job": "Sound"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1437471,
+            "known_for_department": "Directing",
+            "name": "Don Kranze",
+            "original_name": "Don Kranze",
+            "popularity": 0.2924,
+            "profile_path": null,
+            "credit_id": "5e8e3c9ccadb6b001b7f3a09",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1076666,
+            "known_for_department": "Directing",
+            "name": "Faith Hubley",
+            "original_name": "Faith Hubley",
+            "popularity": 0.4286,
+            "profile_path": "/kexhBysoVPdJFI7cWBs7XD8xbZH.jpg",
+            "credit_id": "5e8e3c78a14e1000124e5482",
+            "department": "Directing",
+            "job": "Script Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 39996,
+            "known_for_department": "Directing",
+            "name": "Sidney Lumet",
+            "original_name": "Sidney Lumet",
+            "popularity": 2.0314,
+            "profile_path": "/hjj3V2DkPJ46zo5uz9bsZQzAk6R.jpg",
+            "credit_id": "5e8e3c2f62e86f00159ba2f3",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 2122,
+            "name": "death penalty"
+        },
+        {
+            "id": 2142,
+            "name": "anonymity"
+        },
+        {
+            "id": 3012,
+            "name": "court case"
+        },
+        {
+            "id": 934,
+            "name": "judge"
+        },
+        {
+            "id": 1417,
+            "name": "jurors"
+        },
+        {
+            "id": 6139,
+            "name": "innocence"
+        },
+        {
+            "id": 3581,
+            "name": "witness"
+        },
+        {
+            "id": 4728,
+            "name": "knife"
+        },
+        {
+            "id": 5144,
+            "name": "matter of life and death"
+        },
+        {
+            "id": 10181,
+            "name": "based on play or musical"
+        },
+        {
+            "id": 11038,
+            "name": "trial"
+        },
+        {
+            "id": 9826,
+            "name": "murder"
+        },
+        {
+            "id": 11141,
+            "name": "debate"
+        },
+        {
+            "id": 11523,
+            "name": "capital punishment"
+        },
+        {
+            "id": 12999,
+            "name": "black and white"
+        },
+        {
+            "id": 33519,
+            "name": "courtroom"
+        },
+        {
+            "id": 200918,
+            "name": "angry"
+        },
+        {
+            "id": 214780,
+            "name": "courtroom drama"
+        },
+        {
+            "id": 290670,
+            "name": "huis clos"
+        },
+        {
+            "id": 325776,
+            "name": "baffled"
+        },
+        {
+            "id": 325793,
+            "name": "derisive"
+        },
+        {
+            "id": 325817,
+            "name": "foreboding"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/9Qq8InnodUYs8zdam8Zj967i6RO.jpg",
+            "id": 1106739,
+            "title": "Juror #2",
+            "original_title": "Juror #2",
+            "overview": "While serving as a juror in a high profile murder trial, family man Justin Kemp finds himself struggling with a serious moral dilemma…one he could use to sway the jury verdict and potentially convict—or free—the accused killer.",
+            "poster_path": "/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "popularity": 14.6603,
+            "release_date": "2024-10-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.893,
+            "vote_count": 2550
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wfabrzHzfYTdCj3iSCY7OEQbND0.jpg",
+            "id": 522212,
+            "title": "Just Mercy",
+            "original_title": "Just Mercy",
+            "overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+            "poster_path": "/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                80,
+                36
+            ],
+            "popularity": 10.0113,
+            "release_date": "2019-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.845,
+            "vote_count": 2527
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aSlDcWtKNfRkW0SbsnEjnGBs9jV.jpg",
+            "id": 821,
+            "title": "Judgment at Nuremberg",
+            "original_title": "Judgment at Nuremberg",
+            "overview": "In 1947, four German judges who served on the bench during the Nazi regime face a military tribunal to answer charges of crimes against humanity. Chief Justice Haywood hears evidence and testimony not only from lead defendant Ernst Janning and his defense attorney Hans Rolfe, but also from the widow of a Nazi general, an idealistic U.S. Army captain and reluctant witness Irene Wallner.",
+            "poster_path": "/b6vYatvui1EXeFYfpDX4rcbueuP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "popularity": 4.6417,
+            "release_date": "1961-12-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 966
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/es4sV6krplqscHmhn9TFSqkl8ee.jpg",
+            "id": 1908,
+            "title": "Inherit the Wind",
+            "original_title": "Inherit the Wind",
+            "overview": "Schoolteacher Bertram Cates is arrested for teaching his students Darwin's theory of evolution. The case receives national attention and one of the newspaper reporters, E.K. Hornbeck, arranges to bring in renowned defense attorney and atheist Henry Drummond to defend Cates. The prosecutor, Matthew Brady is a former presidential candidate, famous evangelist, and old adversary of Drummond.",
+            "poster_path": "/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.3736,
+            "release_date": "1960-07-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.65,
+            "vote_count": 478
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g3aLgQI4aw7aCucYSqXM4CzNYMu.jpg",
+            "id": 13825,
+            "title": "The Lazarus Project",
+            "original_title": "The Lazarus Project",
+            "overview": "After Ben Garvey foolishly turned back to crime, he thought his life was over when he was sentenced to death by lethal injection. But his death sentence isn't quite what it seems, as Ben regains consciousness near an eerie psychiatric ward, where he's told he's been hired as the groundskeeper. With the state of his soul in question, and the love for his wife and daughter all the more real and powerful, Ben must figure out if he's truly cheated death, or if he's become part of something far more sinister.",
+            "poster_path": "/qxf1AkFJskLrBM2WGwf8FpGcbiu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "popularity": 4.7924,
+            "release_date": "2008-10-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.965,
+            "vote_count": 397
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c9RwZm40IizTKwWPO933SyDufHS.jpg",
+            "id": 11975,
+            "title": "The Rainmaker",
+            "original_title": "The Rainmaker",
+            "overview": "Fresh out of law school and desperate for work, idealistic rookie Rudy Baylor takes on a powerful insurance company accused of denying a dying boy’s claim. Teaming up with a scrappy, unlicensed paralegal, he finds himself in a David-versus-Goliath courtroom battle that tests his ethics, courage, and belief in justice.",
+            "poster_path": "/twLGHXPjQtS8UyVGp5GXmhJiTM7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "popularity": 7.3671,
+            "release_date": "1997-11-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.026,
+            "vote_count": 1515
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dMFVSGbgtVTedpewA4PHykQuEEK.jpg",
+            "id": 9944,
+            "title": "The Pelican Brief",
+            "original_title": "The Pelican Brief",
+            "overview": "A law student's theory about the recent deaths of two Supreme Court justices embroils her in a far-reaching web of murder, corruption, and greed.",
+            "poster_path": "/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "popularity": 7.086,
+            "release_date": "1993-09-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.591,
+            "vote_count": 1795
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sPantp0oQ9idos7Jdwko2r6ZOIa.jpg",
+            "id": 205587,
+            "title": "The Judge",
+            "original_title": "The Judge",
+            "overview": "A successful lawyer returns to his hometown for his mother's funeral only to discover that his estranged father, the town's judge, is suspected of murder.",
+            "poster_path": "/3K93GWotLXe4FqpErri0xkpLaD5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 14.18,
+            "release_date": "2014-10-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.329,
+            "vote_count": 4479
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ZbNuSp186oxSjdtz5npRLLjVSb.jpg",
+            "id": 10056,
+            "title": "Killer's Kiss",
+            "original_title": "Killer's Kiss",
+            "overview": "Davey Gordon, a New York City boxer at the end of his career, falls for dancer Gloria Price. However, their budding relationship is interrupted by Gloria's violent boss, Vincent Rapallo, who has eyes for Gloria. The two decide to skip town, but before they can, Vincent and his thugs abduct Gloria, and Davey is forced to search for her among the most squalid corners of the city, with his enemy hiding in the shadows.",
+            "poster_path": "/rLbad0lscycS4R3qTSrKguZ0Zz5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "popularity": 2.6675,
+            "release_date": "1955-10-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.337,
+            "vote_count": 611
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fyICKtzDeHosw97zoM6Tal7cied.jpg",
+            "id": 152792,
+            "title": "Devil's Knot",
+            "original_title": "Devil's Knot",
+            "overview": "The savage murders of three young children sparks a controversial trial of three teenagers accused of killing the kids as part of a satanic ritual.",
+            "poster_path": "/8DMDx7XMylIL7lpBEOMzIjuwhw0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "popularity": 4.3152,
+            "release_date": "2013-05-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.181,
+            "vote_count": 725
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nWO4sGqH950N2fij8X0Pwumqe9k.jpg",
+            "id": 9800,
+            "title": "Philadelphia",
+            "original_title": "Philadelphia",
+            "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops, their courage overcomes the prejudice and corruption of their powerful adversaries.",
+            "poster_path": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 7.4213,
+            "release_date": "1993-12-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.709,
+            "vote_count": 4704
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t07GHagzBuqJiMDFocMKWEraHYl.jpg",
+            "id": 992940,
+            "title": "The Critic",
+            "original_title": "The Critic",
+            "overview": "Jimmy Erskine is the most feared theatre critic of the age. He lives as flamboyantly as he writes and takes pleasure in savagely taking down any actor who fails to meet his standards. When the owner of the Daily Chronicle dies, and his son takes over, Jimmy quickly finds himself at odds with his new boss and his position under threat. In an attempt to preserve the power and influence he holds so sacred, Jimmy strikes a Faustian pact with a struggling actress, entangling them and the boss in a thrilling but deadly web of desire, blackmail, and betrayal.",
+            "poster_path": "/kVdN99IPZgQSUKVkAPWb9ZnCkhz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                18,
+                9648
+            ],
+            "popularity": 3.0995,
+            "release_date": "2024-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vxvzf0cGtFY2Vpw5ULWumCIW6Ri.jpg",
+            "id": 16,
+            "title": "Dancer in the Dark",
+            "original_title": "Dancer in the Dark",
+            "overview": "Selma, a Czech immigrant on the verge of blindness, struggles to make ends meet for herself and her son, who has inherited the same genetic disorder and will suffer the same fate without an expensive operation. When life gets too difficult, Selma learns to cope through her love of musicals, dreaming up little numbers to the rhythmic beats of her surroundings.",
+            "poster_path": "/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "popularity": 5.3492,
+            "release_date": "2000-09-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.842,
+            "vote_count": 2036
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wpcClVxsbVGTmCvDOU0tvuPTvOg.jpg",
+            "id": 31908,
+            "title": "Ghosts of Mississippi",
+            "original_title": "Ghosts of Mississippi",
+            "overview": "A Mississippi district attorney and the widow of Medgar Evers struggle to bring a white supremacist to justice for the 1963 murder of the civil rights leader.",
+            "poster_path": "/gu81MbuLTPbw95xWuDuM7ddcCir.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "popularity": 2.5337,
+            "release_date": "1996-12-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.617,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eW81T3E28s40VFW8AgAJPCZqE2X.jpg",
+            "id": 16056,
+            "title": "Winged Creatures",
+            "original_title": "Winged Creatures",
+            "overview": "A psychotic man opens fire in a diner, murdering numerous people before killing himself. The survivors struggle in different ways following this horrendous event: a doctor doubts his own instincts and elects to use an experimental medical procedure on his wife, while a gambler believes he's on a lucky streak. A waitress begins engaging in promiscuous sex, and a young girl whose father is among the dead gains unexpected fame.",
+            "poster_path": "/mkKSPO5CuYogooyUzRlNckoJTkd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "popularity": 3.1608,
+            "release_date": "2009-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.89,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jU8MC5uSgBkZXyZYGtZgMsMsfeN.jpg",
+            "id": 320,
+            "title": "Insomnia",
+            "original_title": "Insomnia",
+            "overview": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen.",
+            "poster_path": "/riVXh3EimGO0y5dgQxEWPRy5Itg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "popularity": 10.5223,
+            "release_date": "2002-05-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.955,
+            "vote_count": 5416
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g0phljbAcccz7bkSZpFEPVLuIRP.jpg",
+            "id": 17058,
+            "title": "Scarlet Street",
+            "original_title": "Scarlet Street",
+            "overview": "Cashier and part-time starving artist Christopher Cross is absolutely smitten with the beautiful Kitty March. Kitty plays along, but she's really only interested in Johnny, a two-bit crook. When Kitty and Johnny find out that art dealers are interested in Chris's work, they con him into letting Kitty take credit for the paintings. Cross allows it because he is in love with Kitty, but his love will only let her get away with so much.",
+            "poster_path": "/eGEDor1BWSQGaLtOntPHUSqNzRC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "popularity": 3.1717,
+            "release_date": "1945-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 449
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tmfKqdXU0CUsZP3QIHkw4YYiiDA.jpg",
+            "id": 64167,
+            "title": "Let Him Have It",
+            "original_title": "Let Him Have It",
+            "overview": "In 1950s England, slow-witted Derek Bentley falls in with a group of petty criminals led by Chris Craig, a teenager with a fondness for American gangster films. Chris and Derek's friendship leads to their involvement in the true case which would forever shake England's belief in capital punishment.",
+            "poster_path": "/mJAKJWV7JPI0SA8oWHqWDktihqA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 1.5548,
+            "release_date": "1991-10-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.653,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/34WzsXWrGjVKVD1C9zyB0bs5e6q.jpg",
+            "id": 26712,
+            "title": "The Enforcer",
+            "original_title": "The Enforcer",
+            "overview": "After years of investigation, Assistant District Attorney Martin Ferguson has managed to build a solid case against an elusive gangster whose top lieutenant is about to testify.",
+            "poster_path": "/k7FAq6mmLfsC6htX6f5zKwbw8LF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "popularity": 2.207,
+            "release_date": "1951-02-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.134,
+            "vote_count": 116
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nRBw8JYA3Li1d40kJN4AFMi5TT3.jpg",
+            "id": 14615,
+            "title": "Fury",
+            "original_title": "Fury",
+            "overview": "Joe, who owns a gas station along with his brothers and is about to marry Katherine, travels to the small town where she lives to visit her, but is wrongly mistaken for a wanted kidnapper and arrested.",
+            "poster_path": "/u1kjLTUqmqjDMlRxcwCqWagjf6r.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "popularity": 2.0919,
+            "release_date": "1936-06-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.471,
+            "vote_count": 256
+        }
+    ]
+}

@@ -1,0 +1,1257 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/x1j5VVU4ypEx1hM0PDYGwCJvwtS.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "homepage": "",
+        "id": 508642,
+        "imdb_id": "tt8119752",
+        "origin_country": [
+            "KR"
+        ],
+        "original_language": "ko",
+        "original_title": "곤지암",
+        "overview": "The crew of a horror web series travels to an abandoned asylum for a live broadcast, but they encounter much more than expected as they move deeper inside the nightmarish old building.",
+        "popularity": 10.5498,
+        "poster_path": "/fNqlsmu2tiI1bXcpU31yjHPkiJz.jpg",
+        "production_companies": [
+            {
+                "id": 108532,
+                "logo_path": "/lHzoqEuTPHwKSFiBx9skKpp9vCc.png",
+                "name": "Hive Media Corp",
+                "origin_country": "KR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "release_date": "2018-03-28",
+        "revenue": 21041950,
+        "runtime": 95,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Experience the horror.",
+        "title": "Gonjiam: Haunted Asylum",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 978
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1557181,
+            "known_for_department": "Acting",
+            "name": "Wi Ha-jun",
+            "original_name": "위하준",
+            "popularity": 2.6596,
+            "profile_path": "/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg",
+            "cast_id": 0,
+            "character": "Ha-jun",
+            "credit_id": "5a98d8d1c3a3680b7d0034fa",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1988598,
+            "known_for_department": "Acting",
+            "name": "Park Ji-hyun",
+            "original_name": "박지현",
+            "popularity": 3.8626,
+            "profile_path": "/A3sGA6JjvkQbIvTjxhdukpIi8jC.jpg",
+            "cast_id": 1,
+            "character": "Ji-hyun",
+            "credit_id": "5a98d90b0e0a2630b800dab1",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1181895,
+            "known_for_department": "Acting",
+            "name": "Oh Ah-yeon",
+            "original_name": "오아연",
+            "popularity": 1.5325,
+            "profile_path": "/c7UQtcsMIccgBPMi7xUArNjp799.jpg",
+            "cast_id": 2,
+            "character": "Ah-yeon",
+            "credit_id": "5a98d9320e0a2605d500346a",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1993728,
+            "known_for_department": "Acting",
+            "name": "Moon Ye-won",
+            "original_name": "문예원",
+            "popularity": 0.8563,
+            "profile_path": "/mCJyKTM1TONJ26roSfspx5jAwkH.jpg",
+            "cast_id": 6,
+            "character": "Charlotte",
+            "credit_id": "5aa1f02e9251414c66001ac1",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1140210,
+            "known_for_department": "Acting",
+            "name": "Park Sung-hoon",
+            "original_name": "박성훈",
+            "popularity": 2.3839,
+            "profile_path": "/nSF8VW2IoZcAA910gKQxbu01umk.jpg",
+            "cast_id": 5,
+            "character": "Sung-hoon",
+            "credit_id": "5aa1efd8c3a36829a50016f8",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2221371,
+            "known_for_department": "Acting",
+            "name": "Lee Seung-wook",
+            "original_name": "이승욱",
+            "popularity": 1.1389,
+            "profile_path": "/j5rQx6rxDhaPmCWNjlDaOTeHEmx.jpg",
+            "cast_id": 35,
+            "character": "Seung-wook",
+            "credit_id": "603e6c7ad236e600796167a7",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2996141,
+            "known_for_department": "Acting",
+            "name": "Yoo Je-yoon",
+            "original_name": "유제윤",
+            "popularity": 0.5247,
+            "profile_path": "/j452Pi2CObuJCLVLMWhCv4J2Gix.jpg",
+            "cast_id": 34,
+            "character": "Je-yoon",
+            "credit_id": "603e6ae72dffd8005bcc82eb",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1145852,
+            "known_for_department": "Acting",
+            "name": "Park Ji-a",
+            "original_name": "박지아",
+            "popularity": 1.0883,
+            "profile_path": "/y8f7dDJvzZ08ikTJJjxWIWL14vK.jpg",
+            "cast_id": 41,
+            "character": "Hospital Director",
+            "credit_id": "640d9132323eba007cb70c7b",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1522159,
+            "known_for_department": "Acting",
+            "name": "Lee Ju-won",
+            "original_name": "이주원",
+            "popularity": 0.6943,
+            "profile_path": "/wOGRiRs4tOieD11M3vyFaKCRIza.jpg",
+            "cast_id": 51,
+            "character": "News Anchor",
+            "credit_id": "6a22b1994562e65cf9bc1206",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6265509,
+            "known_for_department": "Acting",
+            "name": "Lee Tae-hyun",
+            "original_name": "이태현",
+            "popularity": 0.4357,
+            "profile_path": null,
+            "cast_id": 53,
+            "character": "Ghost",
+            "credit_id": "6a22b1e1ce8cc130ecb62785",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 6234568,
+            "known_for_department": "Acting",
+            "name": "Han Seo-in",
+            "original_name": "한서인",
+            "popularity": 0.1926,
+            "profile_path": null,
+            "cast_id": 54,
+            "character": "Ghost",
+            "credit_id": "6a22b1ef7312f1cc7acf2ceb",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6265508,
+            "known_for_department": "Acting",
+            "name": "Jeong Anoma",
+            "original_name": "정아노마",
+            "popularity": 0.1664,
+            "profile_path": null,
+            "cast_id": 52,
+            "character": "Youtube Student",
+            "credit_id": "6a22b1d18a68bb6e0abc1290",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6265511,
+            "known_for_department": "Acting",
+            "name": "Moon Gyeong-tae",
+            "original_name": "문경태",
+            "popularity": 0.1354,
+            "profile_path": null,
+            "cast_id": 56,
+            "character": "Youtube Student",
+            "credit_id": "6a22b244687912b3adff17d9",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4845074,
+            "known_for_department": "Acting",
+            "name": "Joo Ye-bin",
+            "original_name": "주예빈",
+            "popularity": 5.2009,
+            "profile_path": "/wh5Wnrxs9ay7JUeQJfhCfwwfmPt.jpg",
+            "cast_id": 46,
+            "character": "Ghost",
+            "credit_id": "669f9389fd253892dfd19bdb",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6265510,
+            "known_for_department": "Acting",
+            "name": "Jung Yeon-dong",
+            "original_name": "정연동",
+            "popularity": 0.1548,
+            "profile_path": null,
+            "cast_id": 55,
+            "character": "Official",
+            "credit_id": "6a22b217007735ceb255b4cc",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6265512,
+            "known_for_department": "Acting",
+            "name": "Wang Ton-rung",
+            "original_name": "왕톤룽",
+            "popularity": 0.1521,
+            "profile_path": null,
+            "cast_id": 57,
+            "character": "Patient",
+            "credit_id": "6a22b272dac50dedd5cf2d6c",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4356628,
+            "known_for_department": "Acting",
+            "name": "Lee Yoon-ha",
+            "original_name": "이윤하",
+            "popularity": 0.2202,
+            "profile_path": null,
+            "cast_id": 58,
+            "character": "Patient",
+            "credit_id": "6a22b27881a1b46f5cba955a",
+            "order": 16
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2839378,
+            "known_for_department": "Production",
+            "name": "Kim Do-su",
+            "original_name": "Kim Do-su",
+            "popularity": 0.4319,
+            "profile_path": null,
+            "credit_id": "60e4555625882300740d56c9",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3623732,
+            "known_for_department": "Directing",
+            "name": "Park Sang-min",
+            "original_name": "박상민",
+            "popularity": 0.7558,
+            "profile_path": null,
+            "credit_id": "62d0404c0ce1bc004c333fbb",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3140690,
+            "known_for_department": "Directing",
+            "name": "Oh Yoon-dong",
+            "original_name": "오윤동",
+            "popularity": 0.5213,
+            "profile_path": null,
+            "credit_id": "6554be059653f613f864341d",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2161173,
+            "known_for_department": "Art",
+            "name": "Baek Kyung-in",
+            "original_name": "Baek Kyung-in",
+            "popularity": 0.3586,
+            "profile_path": null,
+            "credit_id": "61e5809cf5c824008c421b3f",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3377895,
+            "known_for_department": "Production",
+            "name": "Jung Hyun-ju",
+            "original_name": "Jung Hyun-ju",
+            "popularity": 0.2279,
+            "profile_path": null,
+            "credit_id": "61dd71561d6c5f004352198a",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2220908,
+            "known_for_department": "Sound",
+            "name": "Kang Ju-suk",
+            "original_name": "강주석",
+            "popularity": 0.7391,
+            "profile_path": null,
+            "credit_id": "6208accbaf2da800694a5288",
+            "department": "Sound",
+            "job": "Production Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4532072,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Yoon Hwang-jik",
+            "original_name": "윤황직",
+            "popularity": 0.4827,
+            "profile_path": null,
+            "credit_id": "65c9e72cb6cff10185a823b6",
+            "department": "Costume & Make-Up",
+            "job": "Special Effects Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3520975,
+            "known_for_department": "Visual Effects",
+            "name": "Kim Gwang-su",
+            "original_name": "김광수",
+            "popularity": 0.468,
+            "profile_path": null,
+            "credit_id": "643e709ac6006d048180a2e7",
+            "department": "Visual Effects",
+            "job": "Special Effects Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 112018,
+            "known_for_department": "Directing",
+            "name": "Jung Bum-shik",
+            "original_name": "정범식",
+            "popularity": 1.2496,
+            "profile_path": "/3WQVjXyu2lyvAoShcgj2TOY42GQ.jpg",
+            "credit_id": "5a98d97f92514128af003107",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 112018,
+            "known_for_department": "Directing",
+            "name": "Jung Bum-shik",
+            "original_name": "정범식",
+            "popularity": 1.2496,
+            "profile_path": "/3WQVjXyu2lyvAoShcgj2TOY42GQ.jpg",
+            "credit_id": "5abc4ef60e0a2609d201dc05",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4078371,
+            "known_for_department": "Production",
+            "name": "Choi Byung-hwan",
+            "original_name": "최병환",
+            "popularity": 0.4497,
+            "profile_path": null,
+            "credit_id": "646e0eb651e6ab0157da0ade",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2146837,
+            "known_for_department": "Editing",
+            "name": "Chung Hyeri",
+            "original_name": "Chung Hyeri",
+            "popularity": 0.2065,
+            "profile_path": null,
+            "credit_id": "5bbe21189251413797032ea8",
+            "department": "Editing",
+            "job": "Colorist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2187770,
+            "known_for_department": "Production",
+            "name": "Kim Jin-woo",
+            "original_name": "Kim Jin-woo",
+            "popularity": 0.535,
+            "profile_path": null,
+            "credit_id": "5c0514cf0e0a26360e0cd96f",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2194916,
+            "known_for_department": "Editing",
+            "name": "Kim Hyung-joo",
+            "original_name": "김형주",
+            "popularity": 0.5183,
+            "profile_path": null,
+            "credit_id": "5c13567b92514132b7099420",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1294049,
+            "known_for_department": "Camera",
+            "name": "Yun Jong-ho",
+            "original_name": "Yun Jong-ho",
+            "popularity": 0.3246,
+            "profile_path": null,
+            "credit_id": "5c1355f7c3a36866ce358add",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2187772,
+            "known_for_department": "Production",
+            "name": "William Kim",
+            "original_name": "김원국",
+            "popularity": 0.4627,
+            "profile_path": null,
+            "credit_id": "5c6ed9529251412a7407935b",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2290535,
+            "known_for_department": "Sound",
+            "name": "Park Ju-gang",
+            "original_name": "박주강",
+            "popularity": 0.5023,
+            "profile_path": null,
+            "credit_id": "5cd804c09251417580ce33c2",
+            "department": "Sound",
+            "job": "Sound Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2100274,
+            "known_for_department": "Sound",
+            "name": "Park Yong-ki",
+            "original_name": "박용기",
+            "popularity": 0.521,
+            "profile_path": null,
+            "credit_id": "5d43a141a9117f0017ef115a",
+            "department": "Sound",
+            "job": "Sound"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1294144,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Yun Mi-ra",
+            "original_name": "Yun Mi-ra",
+            "popularity": 0.1946,
+            "profile_path": null,
+            "credit_id": "5d4fb55741eee100170f1c67",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2395285,
+            "known_for_department": "Editing",
+            "name": "Yang Dong-yeop",
+            "original_name": "양동엽",
+            "popularity": 0.4603,
+            "profile_path": null,
+            "credit_id": "5d61ef407f6c8d0017ed971e",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 112018,
+            "known_for_department": "Directing",
+            "name": "Jung Bum-shik",
+            "original_name": "정범식",
+            "popularity": 1.2496,
+            "profile_path": "/3WQVjXyu2lyvAoShcgj2TOY42GQ.jpg",
+            "credit_id": "5d61ecf77f6c8d0017ed9448",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2792568,
+            "known_for_department": "Art",
+            "name": "Jung Sung-kyun",
+            "original_name": "Jeong Seong-gyun",
+            "popularity": 0.2333,
+            "profile_path": null,
+            "credit_id": "5f6f5cce8fdda90038f6b337",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2808138,
+            "known_for_department": "Sound",
+            "name": "Na Yun-sik",
+            "original_name": "나윤식",
+            "popularity": 0.2368,
+            "profile_path": null,
+            "credit_id": "5f7f3a533429ff0039b94bae",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2869402,
+            "known_for_department": "Production",
+            "name": "Kang Kwan-ho",
+            "original_name": "Kang Kwan-ho",
+            "popularity": 0.288,
+            "profile_path": null,
+            "credit_id": "5fbe0f17d9f4a6003f9b2c86",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1557181,
+            "known_for_department": "Acting",
+            "name": "Wi Ha-jun",
+            "original_name": "위하준",
+            "popularity": 2.6596,
+            "profile_path": "/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg",
+            "credit_id": "5fe81699c7176d003f7a97cb",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5050674,
+            "known_for_department": "Production",
+            "name": "Seo Yong-seok",
+            "original_name": "서용석",
+            "popularity": 0.1853,
+            "profile_path": null,
+            "credit_id": "6730ae246be32e3055d3ba6b",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4727033,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Kim Se-hee",
+            "original_name": "김세희",
+            "popularity": 0.3789,
+            "profile_path": null,
+            "credit_id": "676d569362ba310fc0128d26",
+            "department": "Costume & Make-Up",
+            "job": "Special Effects Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5801889,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Kim Seon-yeon",
+            "original_name": "김선연",
+            "popularity": 0.3105,
+            "profile_path": null,
+            "credit_id": "690db495595b54d1ff31a50c",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1294787,
+            "known_for_department": "Lighting",
+            "name": "Jeong Seong-cheol",
+            "original_name": "정성철",
+            "popularity": 0.2384,
+            "profile_path": null,
+            "credit_id": "6a22a847fff60c9e64943762",
+            "department": "Lighting",
+            "job": "Lighting Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1181895,
+            "known_for_department": "Acting",
+            "name": "Oh Ah-yeon",
+            "original_name": "오아연",
+            "popularity": 1.5325,
+            "profile_path": "/c7UQtcsMIccgBPMi7xUArNjp799.jpg",
+            "credit_id": "6a22b2f3c314c97feaba95c7",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1988598,
+            "known_for_department": "Acting",
+            "name": "Park Ji-hyun",
+            "original_name": "박지현",
+            "popularity": 3.8626,
+            "profile_path": "/A3sGA6JjvkQbIvTjxhdukpIi8jC.jpg",
+            "credit_id": "6a22b2fd5242bd8092ff17be",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1140210,
+            "known_for_department": "Acting",
+            "name": "Park Sung-hoon",
+            "original_name": "박성훈",
+            "popularity": 2.3839,
+            "profile_path": "/nSF8VW2IoZcAA910gKQxbu01umk.jpg",
+            "credit_id": "6a22b306305b44ed88ba95ca",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2221371,
+            "known_for_department": "Acting",
+            "name": "Lee Seung-wook",
+            "original_name": "이승욱",
+            "popularity": 1.1389,
+            "profile_path": "/j5rQx6rxDhaPmCWNjlDaOTeHEmx.jpg",
+            "credit_id": "6a22b30ece8cc130ecb6278d",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1993728,
+            "known_for_department": "Acting",
+            "name": "Moon Ye-won",
+            "original_name": "문예원",
+            "popularity": 0.8563,
+            "profile_path": "/mCJyKTM1TONJ26roSfspx5jAwkH.jpg",
+            "credit_id": "6a22b317687912b3adff17f4",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6326314,
+            "known_for_department": "Crew",
+            "name": "Kim Pil-su",
+            "original_name": "김필수",
+            "popularity": 0.1703,
+            "profile_path": null,
+            "credit_id": "6a4921f24e9fefa3f2c6fb5d",
+            "department": "Crew",
+            "job": "Stunts"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 2884,
+            "name": "asylum"
+        },
+        {
+            "id": 1925,
+            "name": "camera"
+        },
+        {
+            "id": 4924,
+            "name": "insane asylum"
+        },
+        {
+            "id": 8468,
+            "name": "crew"
+        },
+        {
+            "id": 9853,
+            "name": "paranormal"
+        },
+        {
+            "id": 10323,
+            "name": "psychiatric hospital"
+        },
+        {
+            "id": 15043,
+            "name": "paranormal investigation"
+        },
+        {
+            "id": 162846,
+            "name": "ghost"
+        },
+        {
+            "id": 163053,
+            "name": "found footage"
+        },
+        {
+            "id": 166323,
+            "name": "horror filmmaking"
+        },
+        {
+            "id": 172808,
+            "name": "paranormal activity"
+        },
+        {
+            "id": 207400,
+            "name": "haunted attractions"
+        },
+        {
+            "id": 221776,
+            "name": "haunted hospital"
+        },
+        {
+            "id": 270308,
+            "name": "terror"
+        },
+        {
+            "id": 274650,
+            "name": "livestream"
+        },
+        {
+            "id": 276164,
+            "name": "pseudo-documentary"
+        },
+        {
+            "id": 325818,
+            "name": "frightened"
+        },
+        {
+            "id": 365923,
+            "name": "found footage adjacent"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/mZdvVaC59aYRKKcl96hiia2nQp2.jpg",
+            "id": 50698,
+            "title": "Grave Encounters",
+            "original_title": "Grave Encounters",
+            "overview": "A crew from a paranormal reality television show lock themselves in a haunted psychiatric hospital. They search for evidence of paranormal activity as they shoot what ends up becoming their final episode.",
+            "poster_path": "/8vnsB3Rg9Gb91UOaecXRb7dYB37.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 5.026,
+            "release_date": "2011-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.325,
+            "vote_count": 1701
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u3ZOKKSonIVzNFlDwPd2kPypXy6.jpg",
+            "id": 359246,
+            "title": "Hell House LLC",
+            "original_title": "Hell House LLC",
+            "overview": "Five years after an unexplained malfunction causes the death of 15 tour-goers and staff on the opening night of a Halloween haunted house tour, a documentary crew travels back to the scene of the tragedy to find out what really happened.",
+            "poster_path": "/xUSCQEbbAy3Lv6r00RfXtdxhRDX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 4.336,
+            "release_date": "2015-10-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.472,
+            "vote_count": 659
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg",
+            "id": 1480387,
+            "title": "undertone",
+            "original_title": "undertone",
+            "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
+            "poster_path": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 20.0189,
+            "release_date": "2026-03-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.107,
+            "vote_count": 535
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wfCdJ0MD1hYJzlaHulolNw5pYtR.jpg",
+            "id": 23827,
+            "title": "Paranormal Activity",
+            "original_title": "Paranormal Activity",
+            "overview": "After a young, middle-class couple moves into what seems like a typical suburban house, they become increasingly disturbed by a presence that may or may not be demonic but is certainly the most active in the middle of the night.",
+            "poster_path": "/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 8.6049,
+            "release_date": "2007-09-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.057,
+            "vote_count": 5516
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xqhTXB86dkKe4jalwUFIjiFgaYB.jpg",
+            "id": 297608,
+            "title": "The Taking of Deborah Logan",
+            "original_title": "The Taking of Deborah Logan",
+            "overview": "What starts as a poignant medical documentary about Deborah Logan's descent into Alzheimer's disease and her daughter's struggles as caregiver degenerates into a maddening portrayal of dementia at its most frightening, as hair-raising events begin to plague the family and crew and an unspeakable malevolence threatens to tear the very fabric of sanity from them all.",
+            "poster_path": "/n8gRFvfBnMzz86nanfOPu7a8ZLq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 6.2256,
+            "release_date": "2014-10-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.57,
+            "vote_count": 1513
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nuDpIsAWww6MhBLE0LKlbeyb5J9.jpg",
+            "id": 16180,
+            "title": "The Legend of Hell House",
+            "original_title": "The Legend of Hell House",
+            "overview": "A team consisting of a physicist, his wife, a young female psychic, and the only survivor of the previous visit are sent to the notorious Hell House to prove or disprove survival after death. Previous visitors have either been killed or gone mad, and it is up to the team to survive a full week in isolation, and solve the mystery of the Hell House.",
+            "poster_path": "/zfTWQD3UWJNlv44VLljjLcU3hWA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 3.0965,
+            "release_date": "1973-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.663,
+            "vote_count": 286
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/EEASOZj5Mm2u6G3K4HS4pKIlfC.jpg",
+            "id": 1035982,
+            "title": "Hell House LLC Origins: The Carmichael Manor",
+            "original_title": "Hell House LLC Origins: The Carmichael Manor",
+            "overview": "A group of cold case investigators stay at the Carmichael Manor, site of the grisly and unsolved murders of the Carmichael family back in the eighties. After four nights, the group was never heard from again. What is discovered on their footage is even more disturbing than anything found on the Hell House tapes.",
+            "poster_path": "/bsd1ovBNOhYpQElhlZAqpMo51q6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 2.9601,
+            "release_date": "2023-10-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.588,
+            "vote_count": 233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ghPJw3XfhELokIf6V5QL0VpsXtK.jpg",
+            "id": 2667,
+            "title": "The Blair Witch Project",
+            "original_title": "The Blair Witch Project",
+            "overview": "In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary. A year later their footage was found.",
+            "poster_path": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 11.0106,
+            "release_date": "1999-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.365,
+            "vote_count": 5556
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vk0msqGGhttTQJKnojFffc3nbe1.jpg",
+            "id": 443319,
+            "title": "Phoenix Forgotten",
+            "original_title": "Phoenix Forgotten",
+            "overview": "Twenty years after three teenagers disappeared in the wake of mysterious lights appearing above Phoenix, Arizona, unseen footage from that night has been discovered, chronicling the final hours of their fateful expedition.",
+            "poster_path": "/q0BbjmTPSqF1QnZxHNc1GQ4JIHc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                878
+            ],
+            "popularity": 2.344,
+            "release_date": "2017-04-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.284,
+            "vote_count": 356
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+            "id": 913290,
+            "title": "Barbarian",
+            "original_title": "Barbarian",
+            "overview": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "poster_path": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 12.6579,
+            "release_date": "2022-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.874,
+            "vote_count": 3384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AvrGwToWkP6fp13lzpxsyzoq9JH.jpg",
+            "id": 250574,
+            "title": "Creep",
+            "original_title": "Creep",
+            "overview": "Looking for work, Aaron comes across a cryptic online ad: “$1,000 for the day. Filming service. Discretion is appreciated.” Low on cash and full of naiveté, he decides to go for it. He drives to a cabin in a remote mountain town where he meets Josef, his cinematic subject for the day. Josef is sincere and the project seems heartfelt, so Aaron begins to film. But as the day goes on, it becomes clear that Josef is not who he says, and his intentions are not at all pure.",
+            "poster_path": "/qn53D574tT0YRyLgirEFHQwGUXw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.0226,
+            "release_date": "2014-03-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.403,
+            "vote_count": 1677
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/be1ePwAZVHgZmy8Jxs0WEzaWk5b.jpg",
+            "id": 166271,
+            "title": "Haunter",
+            "original_title": "Haunter",
+            "overview": "A teenager is stuck in a time loop that is not quite the same each time. She must uncover the truth but her actions have consequences for herself and others.",
+            "poster_path": "/gBsO7Sp3g1oOaxQ44pomsJLm7m7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 2.8749,
+            "release_date": "2013-10-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.124,
+            "vote_count": 657
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m7y6CkuR26eVj3ULcDnwdbgTboJ.jpg",
+            "id": 483202,
+            "title": "Eli",
+            "original_title": "Eli",
+            "overview": "A boy named Eli with a rare autoimmune disorder is confined to a special experimental clinic for his treatment. He soon begins experiencing supernatural forces, turning the supposedly safe facility into a haunted prison for him and his fellow patients.",
+            "poster_path": "/wLKypXb7St0UknM2JIKZB2RtHXV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 3.6792,
+            "release_date": "2019-10-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.006,
+            "vote_count": 1533
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xAnSELun945cE4kFUD9mI7W3puI.jpg",
+            "id": 609972,
+            "title": "Paranormal Activity: Next of Kin",
+            "original_title": "Paranormal Activity: Next of Kin",
+            "overview": "Margot is a documentary filmmaker looking to meet her long-lost mother and extended family in a secluded Amish community. She and her film crew soon realize the family that welcomes them into their home might be hiding a sinister secret.",
+            "poster_path": "/wRy3SwJFE55iL2bfKqECzP2qyrd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 5.0909,
+            "release_date": "2021-10-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.134,
+            "vote_count": 786
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o3yBmJQIwjWHmjKjZVkrDiSfukn.jpg",
+            "id": 244610,
+            "title": "The Den",
+            "original_title": "The Den",
+            "overview": "A young woman studying the habits of webcam chat users from the apparent safety of her apartment witnesses a brutal murder online and is quickly immersed in a nightmare in which she and her loved ones are targeted for the same grisly fate as the first victim.",
+            "poster_path": "/o0cHa11nmOUaF4kYQ7vh1Xtssek.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 2.4148,
+            "release_date": "2013-12-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.069,
+            "vote_count": 389
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xAC9kXLxUHpdCkISgYcLzYrxIQR.jpg",
+            "id": 84348,
+            "title": "V/H/S",
+            "original_title": "V/H/S",
+            "overview": "When a group of misfits is hired by an unknown third party to burglarize a desolate house and acquire one rare VHS tape, they discover more found footage than they had bargained for.",
+            "poster_path": "/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 5.1103,
+            "release_date": "2012-07-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.103,
+            "vote_count": 1737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xn4qe52O0gwfapVT9aOZOPA4wQt.jpg",
+            "id": 396493,
+            "title": "Creep 2",
+            "original_title": "Creep 2",
+            "overview": "After finding an ad online for “video work,” Sara, a video artist whose primary focus is creating intimacy with lonely men, thinks she may have found the subject of her dreams. She drives to a remote house in the forest and meets a man claiming to be a serial killer. Unable to resist the chance to create a truly shocking piece of art, she agrees to spend the day with him. However, as the day goes on, she discovers she may have dug herself into a hole from which she can’t escape.",
+            "poster_path": "/a0m7WciFnBqpcyH1Yi8i4tdvk0k.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.8041,
+            "release_date": "2017-10-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.339,
+            "vote_count": 922
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5eaS62YjA5Z7WPcf4quyZa5VpeO.jpg",
+            "id": 27374,
+            "title": "Lake Mungo",
+            "original_title": "Lake Mungo",
+            "overview": "After 16-year-old Alice Palmer drowns at a local dam, her family experiences a series of strange, inexplicable events centered in and around their home. Unsettled, the Palmers seek the help of a psychic and parapsychologist, who discovers that Alice led a secret, double life. At Lake Mungo, Alice's secret past emerges.",
+            "poster_path": "/g0zCELYfBfSv8TOGC13buABVN53.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.1865,
+            "release_date": "2009-07-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.141,
+            "vote_count": 712
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3xKJ0nyUTlySmMBCpOcsuSnFPI1.jpg",
+            "id": 1232546,
+            "title": "Until Dawn",
+            "original_title": "Until Dawn",
+            "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
+            "poster_path": "/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 13.0434,
+            "release_date": "2025-04-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.263,
+            "vote_count": 1520
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kMZIMqEXO5MFd5Y1Ha2jZZF4pvF.jpg",
+            "id": 882598,
+            "title": "Smile",
+            "original_title": "Smile",
+            "overview": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain.",
+            "poster_path": "/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 12.9635,
+            "release_date": "2022-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.675,
+            "vote_count": 4168
+        }
+    ]
+}

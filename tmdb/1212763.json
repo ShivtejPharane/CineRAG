@@ -1,0 +1,1255 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "belongs_to_collection": {
+            "id": 1725885,
+            "name": "Evil Dead Standalone Collection",
+            "poster_path": "/7qvGUMh8IgLqyVI0PaF7Aju58GQ.jpg",
+            "backdrop_path": "/wAV7FoqmfEDIKw7aFuV0GjLQP2L.jpg"
+        },
+        "budget": 20000000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.warnerbros.com/movies/evil-dead-burn",
+        "id": 1212763,
+        "imdb_id": "tt31170389",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Evil Dead Burn",
+        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+        "popularity": 192.6336,
+        "poster_path": "/7JFVcU1uzv9zCfyMzLrsU04t8BU.jpg",
+        "production_companies": [
+            {
+                "id": 12,
+                "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+                "name": "New Line Cinema",
+                "origin_country": "US"
+            },
+            {
+                "id": 3287,
+                "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+                "name": "Screen Gems",
+                "origin_country": "US"
+            },
+            {
+                "id": 768,
+                "logo_path": "/mh0PD5vYwRIL5FoN9vgF2ULokSV.png",
+                "name": "Ghost House Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2026-07-07",
+        "revenue": 66599417,
+        "runtime": 110,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Every family has its demons.",
+        "title": "Evil Dead Burn",
+        "video": false,
+        "vote_average": 7.917,
+        "vote_count": 635
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2037046,
+            "known_for_department": "Acting",
+            "name": "Souheila Yacoub",
+            "original_name": "Souheila Yacoub",
+            "popularity": 3.4353,
+            "profile_path": "/A233BHgXw0dzbeOpvHfJwL9gLy1.jpg",
+            "cast_id": 8,
+            "character": "Alice",
+            "credit_id": "681cd223d5b89308c26e3990",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 33310,
+            "known_for_department": "Acting",
+            "name": "Tandi Wright",
+            "original_name": "Tandi Wright",
+            "popularity": 1.953,
+            "profile_path": "/zluVB3mzZVlv8D013OgeQLhzNEw.jpg",
+            "cast_id": 15,
+            "character": "Susan",
+            "credit_id": "682f5e0a21ac412f697ba6ce",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1911865,
+            "known_for_department": "Acting",
+            "name": "Hunter Doohan",
+            "original_name": "Hunter Doohan",
+            "popularity": 3.1291,
+            "profile_path": "/ihno5ut6ha8TaubQFgl5Ozco2K1.jpg",
+            "cast_id": 13,
+            "character": "Joseph",
+            "credit_id": "682f5dff15792655685ed5b0",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1399806,
+            "known_for_department": "Acting",
+            "name": "Luciane Buchanan",
+            "original_name": "Luciane Buchanan",
+            "popularity": 4.0542,
+            "profile_path": "/9fTzSU4310StDoO9T0nQyGOLurn.jpg",
+            "cast_id": 14,
+            "character": "Thya",
+            "credit_id": "682f5e05a155c93eaea8d443",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 150396,
+            "known_for_department": "Acting",
+            "name": "Erroll Shand",
+            "original_name": "Erroll Shand",
+            "popularity": 1.6618,
+            "profile_path": "/75nc5lUcp1So9RTNNr08NZ0oQDG.jpg",
+            "cast_id": 40,
+            "character": "Edgar",
+            "credit_id": "69deebea2fc929431d0124d0",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1695501,
+            "known_for_department": "Acting",
+            "name": "Maude Davey",
+            "original_name": "Maude Davey",
+            "popularity": 0.9187,
+            "profile_path": "/gJsnWVfgcyFrTYPVvcJrvIjIH1k.jpg",
+            "cast_id": 23,
+            "character": "Polly",
+            "credit_id": "68b4b987c429144b643effb6",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2242834,
+            "known_for_department": "Acting",
+            "name": "George Pullar",
+            "original_name": "George Pullar",
+            "popularity": 1.0606,
+            "profile_path": "/lF86e5h2iMS8IaIuExv1p81mi7R.jpg",
+            "cast_id": 41,
+            "character": "Will",
+            "credit_id": "69deec0b991230d4192d9281",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4147250,
+            "known_for_department": "Acting",
+            "name": "Greta van den Brink",
+            "original_name": "Greta van den Brink",
+            "popularity": 0.7612,
+            "profile_path": "/offeicvD1BnhZ4S0yz3C3YwxWZS.jpg",
+            "cast_id": 43,
+            "character": "Jessica",
+            "credit_id": "69e7e85c46ee6f7f29939ca7",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5662484,
+            "known_for_department": "Acting",
+            "name": "Keanu Karim",
+            "original_name": "Keanu Karim",
+            "popularity": 0.7688,
+            "profile_path": "/dobjH9GFqBRhYJejTUBMaHCqWmH.jpg",
+            "cast_id": 24,
+            "character": "Jared",
+            "credit_id": "68b4b9c606975622773cd097",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3047382,
+            "known_for_department": "Acting",
+            "name": "Victory Ndukwe",
+            "original_name": "Victory Ndukwe",
+            "popularity": 0.7113,
+            "profile_path": "/fAIXv88uXtJp1dH5qoMpsZxn8w1.jpg",
+            "cast_id": 25,
+            "character": "Leo",
+            "credit_id": "68b4b9fd5890b17f293cd22d",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1304429,
+            "known_for_department": "Acting",
+            "name": "Tapiwa Soropa",
+            "original_name": "Tapiwa Soropa",
+            "popularity": 0.6187,
+            "profile_path": "/uJzIrzQzt50PAx74MpJ1Tzqes2g.jpg",
+            "cast_id": 75,
+            "character": "Server (Mike)",
+            "credit_id": "6a555ee64b328ca8d09c6702",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3511994,
+            "known_for_department": "Acting",
+            "name": "Lara Macgregor",
+            "original_name": "Lara Macgregor",
+            "popularity": 0.3147,
+            "profile_path": "/j9YK2pAWU2klaCZcRpYDmWEnS2o.jpg",
+            "cast_id": 74,
+            "character": "Manager",
+            "credit_id": "6a555edca3d88c9b9b886ba7",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6156999,
+            "known_for_department": "Acting",
+            "name": "Shyamal Singh",
+            "original_name": "Shyamal Singh",
+            "popularity": 0.4242,
+            "profile_path": "/fbK6qvArrDNuyA8ASSNS11HnUqf.jpg",
+            "cast_id": 73,
+            "character": "Cremator (Jake)",
+            "credit_id": "6a555ecea1f84589203a9ae5",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2060817,
+            "known_for_department": "Acting",
+            "name": "Keagan Carr Fransch",
+            "original_name": "Keagan Carr Fransch",
+            "popularity": 0.3491,
+            "profile_path": null,
+            "cast_id": 72,
+            "character": "Firefighter",
+            "credit_id": "6a555e9bdf8e1052249c66b5",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6346168,
+            "known_for_department": "Acting",
+            "name": "Justin Benn",
+            "original_name": "Justin Benn",
+            "popularity": 0.3277,
+            "profile_path": null,
+            "cast_id": 71,
+            "character": "Taxi Driver",
+            "credit_id": "6a555e8d4a9464c0d3383a57",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4065756,
+            "known_for_department": "Acting",
+            "name": "Coco White",
+            "original_name": "Coco White",
+            "popularity": 0.2885,
+            "profile_path": "/dYHq4ZsFCHm4TyClp7gaDeFlZNM.jpg",
+            "cast_id": 70,
+            "character": "Manager's Daughter",
+            "credit_id": "6a555e6f7fdd40b35276a7ac",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 6346167,
+            "known_for_department": "Acting",
+            "name": "Zoë Brunton",
+            "original_name": "Zoë Brunton",
+            "popularity": 0.3454,
+            "profile_path": null,
+            "cast_id": 69,
+            "character": "Woman",
+            "credit_id": "6a555e3be81a82b8fa1afd88",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 62573,
+            "known_for_department": "Acting",
+            "name": "Michael Hurst",
+            "original_name": "Michael Hurst",
+            "popularity": 1.299,
+            "profile_path": "/tBYX46fSi8jtp196U8L7Vd37KZW.jpg",
+            "cast_id": 68,
+            "character": "Benjamin Price (voice)",
+            "credit_id": "6a555e30afb89eb39aee55ae",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4275,
+            "known_for_department": "Acting",
+            "name": "Alain Chabat",
+            "original_name": "Alain Chabat",
+            "popularity": 1.488,
+            "profile_path": "/xRjymE6LIJd0useKWN2R1WgKDRy.jpg",
+            "cast_id": 45,
+            "character": "Alice's Father (voice)",
+            "credit_id": "6a380d86fab190be5573dee9",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 220620,
+            "known_for_department": "Acting",
+            "name": "Alyssa Sutherland",
+            "original_name": "Alyssa Sutherland",
+            "popularity": 2.9215,
+            "profile_path": "/tPxURKufpOddRYTgg5FuBwNK4iT.jpg",
+            "cast_id": 55,
+            "character": "Ellie",
+            "credit_id": "6a4f47df2527da3970c42b93",
+            "order": 19
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11357,
+            "known_for_department": "Acting",
+            "name": "Bruce Campbell",
+            "original_name": "Bruce Campbell",
+            "popularity": 3.2207,
+            "profile_path": "/p9335ljr7luOWsfwZSOlsIzFJKE.jpg",
+            "credit_id": "656c00f66517d600edb18a74",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3662751,
+            "known_for_department": "Directing",
+            "name": "Sébastien Vaniček",
+            "original_name": "Sébastien Vaniček",
+            "popularity": 1.9727,
+            "profile_path": "/oaFARB57cuQWyiAqSabmCqvkaUW.jpg",
+            "credit_id": "6744d27b4c3822726f31fd7a",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3662751,
+            "known_for_department": "Directing",
+            "name": "Sébastien Vaniček",
+            "original_name": "Sébastien Vaniček",
+            "popularity": 1.9727,
+            "profile_path": "/oaFARB57cuQWyiAqSabmCqvkaUW.jpg",
+            "credit_id": "6744d284cfd24c3a7aab9fea",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1715736,
+            "known_for_department": "Writing",
+            "name": "Florent Bernard",
+            "original_name": "Florent Bernard",
+            "popularity": 0.9344,
+            "profile_path": "/xBwpXgdRJOQvuhcA1Dqksxt3XoN.jpg",
+            "credit_id": "6744d28e4c3822726f31fd98",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7623,
+            "known_for_department": "Directing",
+            "name": "Sam Raimi",
+            "original_name": "Sam Raimi",
+            "popularity": 5.2442,
+            "profile_path": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+            "credit_id": "6757302698c33892a2559eb7",
+            "department": "Writing",
+            "job": "Original Film Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11359,
+            "known_for_department": "Production",
+            "name": "Robert Tapert",
+            "original_name": "Robert Tapert",
+            "popularity": 1.018,
+            "profile_path": "/tAtStnFgeJaTm9QmhajADZGiQi9.jpg",
+            "credit_id": "681cd2defdbb19e54dc1dc8a",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7623,
+            "known_for_department": "Directing",
+            "name": "Sam Raimi",
+            "original_name": "Sam Raimi",
+            "popularity": 5.2442,
+            "profile_path": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+            "credit_id": "681cd2f107977aa6aa3ec9e6",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3017237,
+            "known_for_department": "Production",
+            "name": "Romel Adam",
+            "original_name": "Romel Adam",
+            "popularity": 0.7922,
+            "profile_path": "/uDqipyH1SaOJspkQwQ40SyNSP6L.jpg",
+            "credit_id": "681cd306f12ffbb1c163b9b7",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4294710,
+            "known_for_department": "Production",
+            "name": "Jose Cañas",
+            "original_name": "Jose Cañas",
+            "popularity": 0.5169,
+            "profile_path": null,
+            "credit_id": "681cd31ddc937285bc88c32d",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1398631,
+            "known_for_department": "Directing",
+            "name": "Lee Cronin",
+            "original_name": "Lee Cronin",
+            "popularity": 2.9397,
+            "profile_path": "/qRJgpkLTXE1EkmmHvmD4AnvrFap.jpg",
+            "credit_id": "684b18421bc1d2e03db0d5cf",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1607022,
+            "known_for_department": "Camera",
+            "name": "Philip Lozano",
+            "original_name": "Philip Lozano",
+            "popularity": 0.6192,
+            "profile_path": "/x87dIIZssVH6YF7Kz3jIaUVYUCo.jpg",
+            "credit_id": "687f42e8e088d578c78a5462",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1198829,
+            "known_for_department": "Production",
+            "name": "Kirsty McGregor",
+            "original_name": "Kirsty McGregor",
+            "popularity": 0.4444,
+            "profile_path": null,
+            "credit_id": "687fb109730882225255d843",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1394060,
+            "known_for_department": "Art",
+            "name": "Nick Connor",
+            "original_name": "Nick Connor",
+            "popularity": 0.6503,
+            "profile_path": null,
+            "credit_id": "687fb131342a4dafbf72d289",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1219072,
+            "known_for_department": "Art",
+            "name": "Gareth Edwards",
+            "original_name": "Gareth Edwards",
+            "popularity": 0.4334,
+            "profile_path": null,
+            "credit_id": "68b4bb17a55db279eb3cd1b7",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3169665,
+            "known_for_department": "Production",
+            "name": "Karla Spika",
+            "original_name": "Karla Spika",
+            "popularity": 0.5968,
+            "profile_path": null,
+            "credit_id": "68b4bbafa040e6a6c19e1dc5",
+            "department": "Production",
+            "job": "Casting Associate"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1583552,
+            "known_for_department": "Production",
+            "name": "Stu Turner",
+            "original_name": "Stu Turner",
+            "popularity": 0.4163,
+            "profile_path": "/hkCqFcmSV2f6ueJdhYmbdNbKAK9.jpg",
+            "credit_id": "68c304e2e3d9f6469098d90a",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2885353,
+            "known_for_department": "Production",
+            "name": "Will Pearce",
+            "original_name": "Will Pearce",
+            "popularity": 0.3554,
+            "profile_path": null,
+            "credit_id": "68c304ed8840e7976498d5d6",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1092986,
+            "known_for_department": "Visual Effects",
+            "name": "Thierry Onillon",
+            "original_name": "Thierry Onillon",
+            "popularity": 0.5112,
+            "profile_path": null,
+            "credit_id": "6a0207807b5de32b97630876",
+            "department": "Visual Effects",
+            "job": "Visual Effects Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6320405,
+            "known_for_department": "Editing",
+            "name": "Maxime Caro",
+            "original_name": "Maxime Caro",
+            "popularity": 0.4075,
+            "profile_path": null,
+            "credit_id": "6a4544b4be4298c373f4947e",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1115680,
+            "known_for_department": "Production",
+            "name": "Sarah Spurway",
+            "original_name": "Sarah Spurway",
+            "popularity": 0.5809,
+            "profile_path": null,
+            "credit_id": "6a45edaac547ffdedaf18aa9",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1155984,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Sarah Voon",
+            "original_name": "Sarah Voon",
+            "popularity": 0.4066,
+            "profile_path": "/oUKBGkfDY2H0oYBgMo93RX390NR.jpg",
+            "credit_id": "6a45edf7b9cbc944b49d6276",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1546434,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Jane O'Kane",
+            "original_name": "Jane O'Kane",
+            "popularity": 0.3961,
+            "profile_path": "/tUSSNYJq5go6wKlPXO8ZYHX18wM.jpg",
+            "credit_id": "6a45eecf73e1888b00f189a9",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Effects Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5220794,
+            "known_for_department": "Sound",
+            "name": "Xavier Caux",
+            "original_name": "Xavier Caux",
+            "popularity": 0.6489,
+            "profile_path": null,
+            "credit_id": "6a4df1280a24617a7a16e0ba",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5220793,
+            "known_for_department": "Sound",
+            "name": "Douglas Cavanna",
+            "original_name": "Douglas Cavanna",
+            "popularity": 0.4242,
+            "profile_path": null,
+            "credit_id": "6a4df1645b2ac0ad56707fe7",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4488762,
+            "known_for_department": "Production",
+            "name": "Isis De Souza",
+            "original_name": "Isis De Souza",
+            "popularity": 0.3015,
+            "profile_path": "/rZDAb9vdotRjEChEZSc0KFPVVwS.jpg",
+            "credit_id": "6a5341e13281295a49419a46",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2231268,
+            "known_for_department": "Crew",
+            "name": "Rosalie Button",
+            "original_name": "Rosalie Button",
+            "popularity": 0.4477,
+            "profile_path": "/bktkbore2i1mpCq66piBOu9edst.jpg",
+            "credit_id": "6a5342048a5ac3cc356554d5",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6341103,
+            "known_for_department": "Crew",
+            "name": "Toby Langdon",
+            "original_name": "Toby Langdon",
+            "popularity": 0.3147,
+            "profile_path": "/rZDAb9vdotRjEChEZSc0KFPVVwS.jpg",
+            "credit_id": "6a5342193211443220a09883",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4017871,
+            "known_for_department": "Crew",
+            "name": "Jess O'Connor",
+            "original_name": "Jess O'Connor",
+            "popularity": 0.2738,
+            "profile_path": null,
+            "credit_id": "6a534230cc933cfa0f3656ff",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3664927,
+            "known_for_department": "Acting",
+            "name": "Florine Silva",
+            "original_name": "Florine Silva",
+            "popularity": 0.3893,
+            "profile_path": null,
+            "credit_id": "6a534248e31919fa740cb43a",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6341106,
+            "known_for_department": "Crew",
+            "name": "Ezra Shnayderman",
+            "original_name": "Ezra Shnayderman",
+            "popularity": 0.4215,
+            "profile_path": "/ydZdKvf4D7a8Xn7DbsElMJDFeaA.jpg",
+            "credit_id": "6a53425bbd072ab6e6b124a2",
+            "department": "Crew",
+            "job": "Stunt Double"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 3739,
+            "name": "funeral"
+        },
+        {
+            "id": 4129,
+            "name": "widow"
+        },
+        {
+            "id": 6152,
+            "name": "supernatural"
+        },
+        {
+            "id": 9712,
+            "name": "possession"
+        },
+        {
+            "id": 10041,
+            "name": "dysfunctional family"
+        },
+        {
+            "id": 9663,
+            "name": "sequel"
+        },
+        {
+            "id": 9872,
+            "name": "grief"
+        },
+        {
+            "id": 13153,
+            "name": "spirit"
+        },
+        {
+            "id": 15001,
+            "name": "demon"
+        },
+        {
+            "id": 15285,
+            "name": "spin off"
+        },
+        {
+            "id": 18035,
+            "name": "family"
+        },
+        {
+            "id": 157458,
+            "name": "book of the dead"
+        },
+        {
+            "id": 157459,
+            "name": "evil dead"
+        },
+        {
+            "id": 161261,
+            "name": "demonic possession"
+        },
+        {
+            "id": 175421,
+            "name": "death of husband"
+        },
+        {
+            "id": 212643,
+            "name": "abusive husband"
+        },
+        {
+            "id": 256183,
+            "name": "supernatural horror"
+        },
+        {
+            "id": 283085,
+            "name": "body horror"
+        },
+        {
+            "id": 325821,
+            "name": "ghoulish"
+        },
+        {
+            "id": 325854,
+            "name": "tragic"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/m1GLbZXi5pmLE3nvKbnB7GGl5jo.jpg",
+            "id": 1089123,
+            "title": "Daddy's Head",
+            "original_title": "Daddy's Head",
+            "overview": "A boy and his stepmother fear for their safety after an eerie creature resembling the boy's recently deceased father visits them.",
+            "poster_path": "/nEWbEBs8BalwasA4Un8rll3kauT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 4.571,
+            "release_date": "2024-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.937,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6RDgtEBzjuF7W25DVziXRABchpX.jpg",
+            "id": 109428,
+            "title": "Evil Dead",
+            "original_title": "Evil Dead",
+            "overview": "Mia, a drug addict, is determined to kick the habit. To that end, she asks her brother, David, his girlfriend, Natalie and their friends Olivia and Eric to accompany her to their family's remote forest cabin to help her through withdrawal. Eric finds a mysterious Book of the Dead at the cabin and reads aloud from it, awakening an ancient demon. All hell breaks loose when the malevolent entity possesses Mia.",
+            "poster_path": "/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 23.873,
+            "release_date": "2013-04-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.635,
+            "vote_count": 5202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rwr038BaQBqRQbnP8yps4hXp5Dp.jpg",
+            "id": 426814,
+            "title": "The Domestics",
+            "original_title": "The Domestics",
+            "overview": "A young husband and wife must fight to return home in a post-apocalyptic mid-western landscape ravaged by gangs.",
+            "poster_path": "/j64I3u1wwgPct3stvvKU2ikl14w.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.8339,
+            "release_date": "2018-06-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.126,
+            "vote_count": 528
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
+            "id": 1151031,
+            "title": "Bring Her Back",
+            "original_title": "Bring Her Back",
+            "overview": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
+            "poster_path": "/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 18.8291,
+            "release_date": "2025-05-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.335,
+            "vote_count": 1826
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ucLGZ3zBRFDhdlRNhvXdkjXkNyd.jpg",
+            "id": 298250,
+            "title": "Jigsaw",
+            "original_title": "Jigsaw",
+            "overview": "Law enforcement finds itself chasing the ghost of a man dead for over a decade, embroiled in a diabolical new game that's only just begun.",
+            "poster_path": "/7RwHxhdUNS996JPFNB9a7CJtlwR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 13.5926,
+            "release_date": "2017-10-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.212,
+            "vote_count": 4017
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/df3uxnz6QXQokqx60UXrjFFduaR.jpg",
+            "id": 34479,
+            "title": "Scars of Dracula",
+            "original_title": "Scars of Dracula",
+            "overview": "The Prince of Darkness casts his undead shadow once more over the cursed village of Kleinenberg when his ashes are splashed with bat's blood and Dracula is resurrected. And two innocent victims search for a missing loved one... loved to death by Dracula's mistress. But after they discover his blood-drained corpse in Dracula's castle necropolis, the Vampire Lord's lustful vengeance begins.",
+            "poster_path": "/yS06u6RqaY3saimoVr6ZVZP9K7s.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.5507,
+            "release_date": "1970-11-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.951,
+            "vote_count": 198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+            "id": 1426297,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+            "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.9648,
+            "release_date": "2025-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+            "id": 9003,
+            "title": "Hellraiser",
+            "original_title": "Hellraiser",
+            "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
+            "poster_path": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 9.227,
+            "release_date": "1987-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.882,
+            "vote_count": 2927
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+            "id": 10299,
+            "title": "Hush... Hush, Sweet Charlotte",
+            "original_title": "Hush... Hush, Sweet Charlotte",
+            "overview": "An aging, reclusive Southern belle plagued by a horrifying family secret descends into madness after the arrival of a lost relative.",
+            "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 3.2454,
+            "release_date": "1964-12-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.302,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vrFI0I3M8ROZduj9XbFDoQKZyao.jpg",
+            "id": 9792,
+            "title": "The Hills Have Eyes",
+            "original_title": "The Hills Have Eyes",
+            "overview": "Based on Wes Craven's 1977 suspenseful cult classic, The Hills Have Eyes is the story of a family road trip that goes terrifyingly awry when the travelers become stranded in a government atomic zone. Miles from nowhere, the Carter family soon realizes the seemingly uninhabited wasteland is actually the breeding ground of a blood-thirsty mutant family...and they are the prey.",
+            "poster_path": "/2eJL1Ccr1FN3dm9OSDwyd8uaX1b.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 11.168,
+            "release_date": "2006-03-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.482,
+            "vote_count": 3418
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg",
+            "id": 764,
+            "title": "The Evil Dead",
+            "original_title": "The Evil Dead",
+            "overview": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
+            "poster_path": "/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 19.0348,
+            "release_date": "1982-05-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 4599
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bOHF8j3A5FadUl1eDaVpWW1w3xY.jpg",
+            "id": 801937,
+            "title": "Silent Night, Deadly Night",
+            "original_title": "Silent Night, Deadly Night",
+            "overview": "After witnessing his parents' brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.",
+            "poster_path": "/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 5.0864,
+            "release_date": "2025-12-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 156
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5KtmBSqFtHY3I9t8lgH27Mc0bqY.jpg",
+            "id": 10331,
+            "title": "Night of the Living Dead",
+            "original_title": "Night of the Living Dead",
+            "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+            "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "popularity": 7.9103,
+            "release_date": "1968-10-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.607,
+            "vote_count": 2783
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/M4flX60WzUuKFruXTp3OhLxhnv.jpg",
+            "id": 13515,
+            "title": "Mirrors",
+            "original_title": "Mirrors",
+            "overview": "An ex-cop and his family are the target of an evil force that is using mirrors as a gateway into their home.",
+            "poster_path": "/bt5a4ThyLpLTsia2e2ZTLzQjXO0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 6.5047,
+            "release_date": "2008-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.302,
+            "vote_count": 2089
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/I4ofwq3XfmwXAETUs5pjubcMJ0.jpg",
+            "id": 1029281,
+            "title": "Strange Darling",
+            "original_title": "Strange Darling",
+            "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.97,
+            "release_date": "2024-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ow1CdUbmZPMKqDj2bow98A2cwCT.jpg",
+            "id": 480100,
+            "title": "Nightmare Cinema",
+            "original_title": "Nightmare Cinema",
+            "overview": "A series of down-on-their-luck individuals enter the decrepit and spine-chilling Rialto theater, only to have their deepest and darkest fears brought to life on the silver screen by The Projectionist – a mysterious, ghostly figure who holds the nightmarish futures of all who attend his screenings.",
+            "poster_path": "/ftdhL4zamDnjSD4TML1ES79DueX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.8427,
+            "release_date": "2018-06-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.84,
+            "vote_count": 263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fuuZFPc8x6gQ8mLGoBp9vrmcQMT.jpg",
+            "id": 610253,
+            "title": "Halloween Kills",
+            "original_title": "Halloween Kills",
+            "overview": "Michael manages to free himself from Laurie Strode's trap to resume his ritual bloodbath. As she fights for her life from injuries from their last encounter, she inspires her daughter Karen, her granddaughter Allyson, and all of Haddonfield to rise up against the unstoppable monster.",
+            "poster_path": "/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 7.6444,
+            "release_date": "2021-10-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 2948
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xrt2SCSXmKiAuzCuYQVGkssvWS.jpg",
+            "id": 101669,
+            "title": "Mother's Day",
+            "original_title": "Mother's Day",
+            "overview": "Crazed members of a sadistic family return to their childhood home to terrorize the new owners.",
+            "poster_path": "/wjKmtce2WFoOyoiYGVx0nUSzGxT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "popularity": 3.1609,
+            "release_date": "2010-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.485,
+            "vote_count": 474
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zE4I9YvrrMUfwDZ3zLiN10eRZxG.jpg",
+            "id": 11357,
+            "title": "Halloween 4: The Return of Michael Myers",
+            "original_title": "Halloween 4: The Return of Michael Myers",
+            "overview": "Ten years after his original massacre, the invalid Michael Myers awakens on Halloween Eve and returns to Haddonfield to kill his seven-year-old niece.",
+            "poster_path": "/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.5941,
+            "release_date": "1988-10-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.174,
+            "vote_count": 2085
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o2SeAw8ARPB1D8oudCRJcxW3w60.jpg",
+            "id": 13186,
+            "title": "Wrong Turn 2: Dead End",
+            "original_title": "Wrong Turn 2: Dead End",
+            "overview": "Retired military commander Colonel Dale Murphy hosts the simulated post-apocalyptic reality show where participants are challenged to survive a remote West Virginia wasteland. But the show turns into a nightmarish showdown when each realizes they are being hunted by an inbred family of cannibals determined to make them all dinner!",
+            "poster_path": "/ow3IMhTVLryZuCEoQznVTTmFYuu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 10.5968,
+            "release_date": "2007-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.174,
+            "vote_count": 1586
+        }
+    ]
+}

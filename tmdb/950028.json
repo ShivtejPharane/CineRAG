@@ -1,0 +1,1052 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+        "belongs_to_collection": null,
+        "budget": 6000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "https://a24films.com/films/the-invite",
+        "id": 950028,
+        "imdb_id": "tt14173636",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Invite",
+        "overview": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+        "popularity": 27.2396,
+        "poster_path": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "production_companies": [
+            {
+                "id": 13184,
+                "logo_path": "/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
+                "name": "Annapurna Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 7493,
+                "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+                "name": "FilmNation Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 455,
+                "logo_path": null,
+                "name": "Permut Presentations",
+                "origin_country": "US"
+            },
+            {
+                "id": 41077,
+                "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+                "name": "A24",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2026-06-25",
+        "revenue": 38486706,
+        "runtime": 107,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "status": "Released",
+        "tagline": "It'll be fun.",
+        "title": "The Invite",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 120
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19274,
+            "known_for_department": "Acting",
+            "name": "Seth Rogen",
+            "original_name": "Seth Rogen",
+            "popularity": 5.3615,
+            "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+            "cast_id": 18,
+            "character": "Joe",
+            "credit_id": "680917cdc5c8035fb08adb8d",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 59315,
+            "known_for_department": "Acting",
+            "name": "Olivia Wilde",
+            "original_name": "Olivia Wilde",
+            "popularity": 7.1016,
+            "profile_path": "/eODi1QKamyVa41eSK2SjU20VAZS.jpg",
+            "cast_id": 21,
+            "character": "Angela",
+            "credit_id": "680917e0276bf64e41ab6eae",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 955,
+            "known_for_department": "Acting",
+            "name": "Penélope Cruz",
+            "original_name": "Penélope Cruz",
+            "popularity": 5.1545,
+            "profile_path": "/n5SFgmvJSENQt8poE4qYacUnKOi.jpg",
+            "cast_id": 19,
+            "character": "Pina",
+            "credit_id": "680917d315a1d5a614aae2d2",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 819,
+            "known_for_department": "Acting",
+            "name": "Edward Norton",
+            "original_name": "Edward Norton",
+            "popularity": 6.1968,
+            "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg",
+            "cast_id": 20,
+            "character": "Hawk",
+            "credit_id": "680917d9276bf64e41ab6e9e",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3252036,
+            "known_for_department": "Acting",
+            "name": "Skip Howland",
+            "original_name": "Skip Howland",
+            "popularity": 0.5255,
+            "profile_path": "/mXgzTq5QFTcWDi5eJe2vFQnaZ47.jpg",
+            "cast_id": 59,
+            "character": "Doorman (uncredited)",
+            "credit_id": "6a5a3dd7ee80a818c76e9e75",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2079867,
+            "known_for_department": "Acting",
+            "name": "Mel Powell",
+            "original_name": "Mel Powell",
+            "popularity": 0.5983,
+            "profile_path": "/qu7T2uxliIK6TbCp1JAVY5rWPLl.jpg",
+            "cast_id": 60,
+            "character": "Bartender (uncredited)",
+            "credit_id": "6a5a3e206e7282863e2b9dff",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3709705,
+            "known_for_department": "Acting",
+            "name": "Rachel Thurow",
+            "original_name": "Rachel Thurow",
+            "popularity": 0.5796,
+            "profile_path": "/cmc9sL0MfauEeeyRPmMFvNDePhK.jpg",
+            "cast_id": 61,
+            "character": "Subway Goer (uncredited)",
+            "credit_id": "6a5a3e5bcf06ec14752b9ea5",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6353553,
+            "known_for_department": "Acting",
+            "name": "Mario Valdez",
+            "original_name": "Mario Valdez",
+            "popularity": 0.3887,
+            "profile_path": "/4CShBxkTX3OLYtHjuAkMbzgKI5y.jpg",
+            "cast_id": 62,
+            "character": "Subway Goer (uncredited)",
+            "credit_id": "6a5a3f45baed8ee42631fd04",
+            "order": 7
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11405,
+            "known_for_department": "Production",
+            "name": "David Permut",
+            "original_name": "David Permut",
+            "popularity": 0.6561,
+            "profile_path": "/gQOmiu5ZWXIjfWStBMvGe9zfnyc.jpg",
+            "credit_id": "6231da7b9ac535007d557199",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1027025,
+            "known_for_department": "Production",
+            "name": "Megan Ellison",
+            "original_name": "Megan Ellison",
+            "popularity": 1.2723,
+            "profile_path": "/sZwZJ6Ma9cO5K2VtpOofinbhwtE.jpg",
+            "credit_id": "6809173ac5c8035fb08adb13",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 475380,
+            "known_for_department": "Production",
+            "name": "Ben Browning",
+            "original_name": "Ben Browning",
+            "popularity": 0.5527,
+            "profile_path": "/lopmd4peeWJlwP7jdYB12tAXwSi.jpg",
+            "credit_id": "6809174715a1d5a614aae268",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1872766,
+            "known_for_department": "Production",
+            "name": "Patrick Chu",
+            "original_name": "Patrick Chu",
+            "popularity": 0.214,
+            "profile_path": null,
+            "credit_id": "6809175715a1d5a614aae272",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 73693,
+            "known_for_department": "Directing",
+            "name": "Cesc Gay",
+            "original_name": "Cesc Gay",
+            "popularity": 0.7239,
+            "profile_path": "/wicz7whWehQS3C31xJVJjRPbKoQ.jpg",
+            "credit_id": "68091771c5c8035fb08adb3b",
+            "department": "Writing",
+            "job": "Original Film Writer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 80591,
+            "known_for_department": "Acting",
+            "name": "Rashida Jones",
+            "original_name": "Rashida Jones",
+            "popularity": 4.9411,
+            "profile_path": "/cgWGm9eYCretBWeljPVtpRV7n6V.jpg",
+            "credit_id": "6809178915a1d5a614aae2a0",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 78500,
+            "known_for_department": "Acting",
+            "name": "Will McCormack",
+            "original_name": "Will McCormack",
+            "popularity": 1.3566,
+            "profile_path": "/AsSOsIeLyFqG24i4rludqD0hC2O.jpg",
+            "credit_id": "6809179315a1d5a614aae2a7",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 59315,
+            "known_for_department": "Acting",
+            "name": "Olivia Wilde",
+            "original_name": "Olivia Wilde",
+            "popularity": 7.1016,
+            "profile_path": "/eODi1QKamyVa41eSK2SjU20VAZS.jpg",
+            "credit_id": "680917b2c5c8035fb08adb70",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1388962,
+            "known_for_department": "Camera",
+            "name": "Adam Newport-Berra",
+            "original_name": "Adam Newport-Berra",
+            "popularity": 0.6235,
+            "profile_path": "/cex0jRPbj2XYr30W9h9fLfPtRfC.jpg",
+            "credit_id": "681015a94603571ead0fb0eb",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 3,
+            "id": 139145,
+            "known_for_department": "Art",
+            "name": "Jade Healy",
+            "original_name": "Jade Healy",
+            "popularity": 0.526,
+            "profile_path": "/13eYbbY60qvj9LfEoXe9LJ4wolQ.jpg",
+            "credit_id": "681015d571dedcb8aceb66f1",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 72525,
+            "known_for_department": "Editing",
+            "name": "Yorgos Mavropsaridis",
+            "original_name": "Γιώργος Μαυροψαρίδης",
+            "popularity": 0.7647,
+            "profile_path": "/14I99sGV038xGQxHF6qlCAk2fwX.jpg",
+            "credit_id": "682faa23dd07645cc0036252",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1677382,
+            "known_for_department": "Sound",
+            "name": "Devonté Hynes",
+            "original_name": "Devonté Hynes",
+            "popularity": 0.4189,
+            "profile_path": "/qwflUGqhVmMr3TEjwmGwsG9bD8d.jpg",
+            "credit_id": "6939c18998e8872f4ab83cf3",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2814110,
+            "known_for_department": "Production",
+            "name": "Saul Germaine",
+            "original_name": "Saul Germaine",
+            "popularity": 0.3036,
+            "profile_path": null,
+            "credit_id": "6976add24ebc116ae7088f42",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2121646,
+            "known_for_department": "Production",
+            "name": "Shayne Fiske",
+            "original_name": "Shayne Fiske",
+            "popularity": 0.2671,
+            "profile_path": null,
+            "credit_id": "6976ade1e15052be43a37206",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1018975,
+            "known_for_department": "Production",
+            "name": "Glen Basner",
+            "original_name": "Glen Basner",
+            "popularity": 0.5472,
+            "profile_path": "/b1AeRfraZMHCSBJeDV3I4YoIVGO.jpg",
+            "credit_id": "6976adedff9d26e701a373c2",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4495598,
+            "known_for_department": "Production",
+            "name": "Andy Kim",
+            "original_name": "Andy Kim",
+            "popularity": 0.1662,
+            "profile_path": null,
+            "credit_id": "6976adfb9b7f5906f8088f55",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1887961,
+            "known_for_department": "Production",
+            "name": "Alex G. Scott",
+            "original_name": "Alex G. Scott",
+            "popularity": 0.3882,
+            "profile_path": null,
+            "credit_id": "6976ae19ef6e956254a371b2",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3467653,
+            "known_for_department": "Production",
+            "name": "Alex Astrachan",
+            "original_name": "Alex Astrachan",
+            "popularity": 0.3235,
+            "profile_path": null,
+            "credit_id": "6976ae24bcdceb9392a3726f",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1771230,
+            "known_for_department": "Editing",
+            "name": "Anthony Boys",
+            "original_name": "Anthony Boys",
+            "popularity": 0.371,
+            "profile_path": null,
+            "credit_id": "6977b98b86e2525cd2106eab",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1516459,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Christopher Fulton",
+            "original_name": "Christopher Fulton",
+            "popularity": 0.354,
+            "profile_path": null,
+            "credit_id": "6977b9fcb87343587a694f12",
+            "department": "Costume & Make-Up",
+            "job": "Hair Department Head"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1949293,
+            "known_for_department": "Directing",
+            "name": "Brendan Lee",
+            "original_name": "Brendan Lee",
+            "popularity": 0.3667,
+            "profile_path": null,
+            "credit_id": "6977ba1182a21627b1aba50f",
+            "department": "Directing",
+            "job": "First Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1599972,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Jorjee Douglass",
+            "original_name": "Jorjee Douglass",
+            "popularity": 0.366,
+            "profile_path": null,
+            "credit_id": "6977ff444dc3007090a38e96",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Department Head"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2007598,
+            "known_for_department": "Art",
+            "name": "Sandra Doyle Carmola",
+            "original_name": "Sandra Doyle Carmola",
+            "popularity": 0.3286,
+            "profile_path": null,
+            "credit_id": "69d203b0d01a251c57aef768",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 984533,
+            "known_for_department": "Art",
+            "name": "Adam Willis",
+            "original_name": "Adam Willis",
+            "popularity": 0.7558,
+            "profile_path": "/7nLyHDOEVhlBQryRuLZsX73aCYe.jpg",
+            "credit_id": "69d203b993f1bad745788939",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 939529,
+            "known_for_department": "Production",
+            "name": "Chelsea Barnard",
+            "original_name": "Chelsea Barnard",
+            "popularity": 0.5238,
+            "profile_path": null,
+            "credit_id": "6a20c20fc1b95268b0d6893e",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 32797,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Arianne Phillips",
+            "original_name": "Arianne Phillips",
+            "popularity": 0.5531,
+            "profile_path": "/pZW5DiGSx0CP1gmZLxWSlYJcxHI.jpg",
+            "credit_id": "6a20c233e6c1b2bc1b95e251",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1760490,
+            "known_for_department": "Art",
+            "name": "Teddy Blanks",
+            "original_name": "Teddy Blanks",
+            "popularity": 0.7692,
+            "profile_path": "/pFASyCvqKSU0EOqPrg2P4DIP1fG.jpg",
+            "credit_id": "6a4c625f445000e69a3c125d",
+            "department": "Art",
+            "job": "Opening Title Sequence"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6049828,
+            "known_for_department": "Art",
+            "name": "Trent Howell",
+            "original_name": "Trent Howell",
+            "popularity": 0.4153,
+            "profile_path": null,
+            "credit_id": "6a4c626a14ad68bf5c15d031",
+            "department": "Art",
+            "job": "Opening Title Sequence"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3982423,
+            "known_for_department": "Visual Effects",
+            "name": "Marek Zelenka",
+            "original_name": "Marek Zelenka",
+            "popularity": 0.2222,
+            "profile_path": null,
+            "credit_id": "6a4c6461f15b2e04e58efa2f",
+            "department": "Visual Effects",
+            "job": "Visual Effects Supervisor"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 1157,
+            "name": "husband wife relationship"
+        },
+        {
+            "id": 582,
+            "name": "san francisco, california"
+        },
+        {
+            "id": 9714,
+            "name": "remake"
+        },
+        {
+            "id": 192094,
+            "name": "firefighter"
+        },
+        {
+            "id": 195999,
+            "name": "sexologist"
+        },
+        {
+            "id": 251667,
+            "name": "anxious"
+        },
+        {
+            "id": 352496,
+            "name": "neighbors"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
+            "id": 1267905,
+            "title": "The Roses",
+            "original_title": "The Roses",
+            "overview": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
+            "poster_path": "/99O8HLHklXGzvF2TqiRqr7WddzT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 12.2639,
+            "release_date": "2025-08-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 735
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yjlg8Gq3TAWlFSUxh7Icey8uM4P.jpg",
+            "id": 10653,
+            "title": "The Seven Year Itch",
+            "original_title": "The Seven Year Itch",
+            "overview": "When his family goes away for summer vacation, a hitherto faithful publishing executive with an overactive imagination is tempted by an attractive new neighbor.",
+            "poster_path": "/4oLqx0QbjWFzWtkxRmDLGH47CUJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 5.1458,
+            "release_date": "1955-06-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.045,
+            "vote_count": 1000
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+            "id": 1325734,
+            "title": "The Drama",
+            "original_title": "The Drama",
+            "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+            "poster_path": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 49.6738,
+            "release_date": "2026-04-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.893,
+            "vote_count": 1482
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dUEFKK9iUIjadCVLVBaP0azpLce.jpg",
+            "id": 13067,
+            "title": "In the Land of Women",
+            "original_title": "In the Land of Women",
+            "overview": "After a bad breakup with his girlfriend leaves him heartbroken, Carter Webb moves to Michigan to take care of his ailing grandmother. Once there, he gets mixed up in the lives of the mother and daughters who live across the street.",
+            "poster_path": "/qbfVeY8sE3luiRXYZTPT9rjV6p1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 2.4394,
+            "release_date": "2007-04-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.882,
+            "vote_count": 532
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gzyVkRCOsCADTahf4aRgWHv7N0P.jpg",
+            "id": 426230,
+            "title": "Band Aid",
+            "original_title": "Band Aid",
+            "overview": "A couple who can't stop fighting embark on a last-ditch effort to save their marriage: turning their fights into songs and starting a band.",
+            "poster_path": "/hDYKhDkmvvPnYESr1yNG3K5oMZT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10402
+            ],
+            "popularity": 2.5221,
+            "release_date": "2017-06-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.282,
+            "vote_count": 177
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/24n13gyUjKHZXR31XGmGFef9BQM.jpg",
+            "id": 13019,
+            "title": "Young People Fucking",
+            "original_title": "Young People Fucking",
+            "overview": "On a Tuesday night, five couples have separate sexual adventures. Matt and Kris, friends for years, want to have an only-once, no-strings good time. Abby and Andrew, married, celebrate his birthday, but it's marred by angst and miscommunication. Mia and Eric are exes, making sure they are over each other. Jaime and Ken work together and this is a first date. Inez and Gord invite his roommate, Dave, to join them. By the time each couple has gone through a prelude, foreplay, sex, an interlude, orgasm, and afterglow, they've answered basic questions: can sex be anonymous, are we bored, is our marriage really finished, does anyone tell the truth, and how do we make someone happy?",
+            "poster_path": "/g5LhutkdYsKyDePtqrRw7c3OTce.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 4.5412,
+            "release_date": "2007-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.827,
+            "vote_count": 243
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aMZYX05Qgi3NqfD1h3nmOhJLdfh.jpg",
+            "id": 42383,
+            "title": "XX/XY",
+            "original_title": "XX/XY",
+            "overview": "Three friends begin a dangerous three-way relationship that spirals out of control, leading to dire consequences that haunt them ten years later.",
+            "poster_path": "/Avc51Le5NQbjbzE1PVmLFdi1nVs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "popularity": 3.0048,
+            "release_date": "2002-01-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.91,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+            "id": 614945,
+            "title": "Voicemails for Isabelle",
+            "original_title": "Voicemails for Isabelle",
+            "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+            "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 29.5308,
+            "release_date": "2026-06-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.366,
+            "vote_count": 746
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f43mO9U6ohYQT8UYsaLUwQ2PT6i.jpg",
+            "id": 13818,
+            "title": "Heartburn",
+            "original_title": "Heartburn",
+            "overview": "She's a magazine writer who gives up her career for love and family. He's a playboy newspaper columnist who can't quite give up his old tricks. And if that combination doesn't give a relationship heartburn, nothing will.",
+            "poster_path": "/pF1uPAi9TWRSRLf9SHfIDQle2NK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 3.176,
+            "release_date": "1986-07-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.998,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hKMN6vMT3rbzXY3VaqS61hv4vjx.jpg",
+            "id": 1238379,
+            "title": "The Best You Can",
+            "original_title": "The Best You Can",
+            "overview": "Cynthia Rand is a buttoned-up New Yorker married to a brilliant professor 25 years her senior. She begins feeling the effects of her husband’s advancing age on their relationship, just as her world is turned upside down by the arrival of sharp but chronically underachieving security guard Stan Olszewski in this smart rom-com that reunites Bacon and Sedgwick on screen for the first time in 20 years.",
+            "poster_path": "/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "popularity": 2.9394,
+            "release_date": "2025-06-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.009,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jbDu1quaSjr8NAx105UED2QPQxP.jpg",
+            "id": 36492,
+            "title": "Carnal Knowledge",
+            "original_title": "Carnal Knowledge",
+            "overview": "Two lifelong friends navigate complex sexual encounters and emotional entanglements, wrestling with societal norms and personal desires.",
+            "poster_path": "/l7e1qP8Mq97W1Wg14FNnbz1OxmG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "popularity": 3.5684,
+            "release_date": "1971-06-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.557,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y50gto8KjSGnabp6SCO1nNTqrkk.jpg",
+            "id": 54663,
+            "title": "Starting Over",
+            "original_title": "Starting Over",
+            "overview": "After divorcing his ambitious singer wife, a middle-aged man begins a new relationship with a teacher.",
+            "poster_path": "/kvhfunLx3iL3VM0rjmFLV2dcEyd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 6.8732,
+            "release_date": "1979-10-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.393,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3q14UHjWRR78AqxuDXWRASbqQd2.jpg",
+            "id": 31677,
+            "title": "Diary of a Mad Housewife",
+            "original_title": "Diary of a Mad Housewife",
+            "overview": "Tina Balser is a bored New York housewife-mother married to Jonathan, a pompous, social-climbing lawyer who ridicules her in front of their children, criticizing everything she does or wears. She begins an affair with George Prager, a dashing, successful, and blatantly sadistic writer.",
+            "poster_path": "/loZFqYvqqzAhehLcbZq6djNo0JA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 2.5907,
+            "release_date": "1970-08-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.228,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p9zvs64aKVtqbk2e5azr8VEPHeF.jpg",
+            "id": 503417,
+            "title": "She Came to Me",
+            "original_title": "She Came to Me",
+            "overview": "Composer Steven Lauddem is plagued by a creative block which leaves him unable to finish the score for his big comeback opera. When his former therapist-turned-wife Patricia suggests he rekindle his creativity by getting lost in the city, Steven sets out in search of inspiration. His epiphany comes after he meets a spirited woman named Katrina and discovers his life has much more potential than he bargained for, or ever could have imagined.",
+            "poster_path": "/2lG18RqCK8qTk7R5jA1L7ZRMWXu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 3.8377,
+            "release_date": "2023-10-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.077,
+            "vote_count": 182
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xyWKrni8WrYzqn7ztvI5nIY0h62.jpg",
+            "id": 1181678,
+            "title": "¿Quieres ser mi hijo?",
+            "original_title": "¿Quieres ser mi hijo?",
+            "overview": "Lu, a conformist woman in her forties, learns that her 15-year partner has been having extramarital affairs. Starting from scratch, she gets involved in an unexpected relationship with a young womanizer.",
+            "poster_path": "/6PQJsmuvSMZQMmlJfTpjIkrizUh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 7.9533,
+            "release_date": "2023-09-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.457,
+            "vote_count": 362
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+            "id": 696,
+            "title": "Manhattan",
+            "original_title": "Manhattan",
+            "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+            "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 4.4184,
+            "release_date": "1979-04-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.707,
+            "vote_count": 2645
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xaHEopBVf5BZCrHiSdzvYgA3vdj.jpg",
+            "id": 22215,
+            "title": "Chéri",
+            "original_title": "Chéri",
+            "overview": "The son of a courtesan retreats into a fantasy world after being forced to end his relationship with the older woman who educated him in the ways of love.",
+            "poster_path": "/b35rv11ebJdqCe5chVmSUZ0RIlX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "popularity": 3.0414,
+            "release_date": "2009-04-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.082,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/khvSmyqkTndJ39GH36phq0p8ncI.jpg",
+            "id": 276844,
+            "title": "The Little Death",
+            "original_title": "The Little Death",
+            "overview": "A comedy film that looks into the loosely connected lives of people with strange sexual fantasies.",
+            "poster_path": "/wH15YYgBT9ZX37nFkSQ0OM8qjCE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "popularity": 4.4061,
+            "release_date": "2014-06-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.71,
+            "vote_count": 543
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8UqukRNZFNfJZE9WnG2J0IDy2Yi.jpg",
+            "id": 18169,
+            "title": "About Last Night...",
+            "original_title": "About Last Night...",
+            "overview": "A man and woman meet and try to have a romantic affair, despite their personal problems and the interference of their disapproving friends.",
+            "poster_path": "/9KqG5OFi3NLJYBbsDSA8pZ3dln.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 3.0115,
+            "release_date": "1986-07-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.051,
+            "vote_count": 237
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/px6Jjw0pm1oAMjNsU1BX1hq1nNH.jpg",
+            "id": 31674,
+            "title": "Cousins",
+            "original_title": "Cousins",
+            "overview": "When Larry and Maria learn that their respective spouses are cheating on them, they try to turn the tables on them by pretending to have an affair. However, they soon find themselves falling in love.",
+            "poster_path": "/d8dgW6b17JGaBYC9vzQ3Em0f6Kx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 2.9419,
+            "release_date": "1989-02-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 65
+        }
+    ]
+}

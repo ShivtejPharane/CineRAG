@@ -1,0 +1,992 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/wpnDnOlGAgTsYfdhz17nhBZ8gPP.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documentary"
+            },
+            {
+                "id": 10770,
+                "name": "TV Movie"
+            },
+            {
+                "id": 36,
+                "name": "History"
+            }
+        ],
+        "homepage": "",
+        "id": 384261,
+        "imdb_id": "tt3557308",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Operación Palace",
+        "overview": "Finally, 33 years later, the whole truth behind the attempted coup d'état that shook Spain on the afternoon of February 23, 1981, is revealed by those who lived through those dreadful hours; a deep look behind the heavy curtain which hides the real mastermind, waiting to be unmasked.",
+        "popularity": 9.9969,
+        "poster_path": "/dXdkE0avA6MVCG7aoS1QDBe0Usg.jpg",
+        "production_companies": [
+            {
+                "id": 73547,
+                "logo_path": null,
+                "name": "SVII Films",
+                "origin_country": ""
+            },
+            {
+                "id": 29566,
+                "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+                "name": "Atresmedia",
+                "origin_country": "ES"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2014-02-23",
+        "revenue": 0,
+        "runtime": 56,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Operación Palace",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 4
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581886,
+            "known_for_department": "Acting",
+            "name": "Ernest Roca",
+            "original_name": "Ernest Roca",
+            "popularity": 0.4886,
+            "profile_path": null,
+            "cast_id": 21,
+            "character": "Pedro Bajo",
+            "credit_id": "56cc73e492514124550029a3",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581880,
+            "known_for_department": "Acting",
+            "name": "Fernando Bartolomé",
+            "original_name": "Fernando Bartolomé",
+            "popularity": 0.2889,
+            "profile_path": null,
+            "cast_id": 14,
+            "character": "Eduard Bosch",
+            "credit_id": "56cc71cec3a36865e4002a65",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2184781,
+            "known_for_department": "Acting",
+            "name": "Manuel García Merino",
+            "original_name": "Manuel García Merino",
+            "popularity": 0.5166,
+            "profile_path": null,
+            "cast_id": 22,
+            "character": "Coronel Ramón Samper",
+            "credit_id": "5bfea3de9251411654048ca0",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581885,
+            "known_for_department": "Acting",
+            "name": "Mark Parent",
+            "original_name": "Mark Parent",
+            "popularity": 0.553,
+            "profile_path": null,
+            "cast_id": 20,
+            "character": "William Parker",
+            "credit_id": "56cc73da925141245500299e",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581884,
+            "known_for_department": "Acting",
+            "name": "Pedro Grande",
+            "original_name": "Pedro Grande",
+            "popularity": 0.5927,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "Antonio Miguel Albajara",
+            "credit_id": "56cc73c49251412467002959",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581873,
+            "known_for_department": "Acting",
+            "name": "Alejandro Rojas Marcos",
+            "original_name": "Alejandro Rojas Marcos",
+            "popularity": 0.5231,
+            "profile_path": null,
+            "cast_id": 6,
+            "character": "Himself",
+            "credit_id": "56cc716d925141245a002851",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581875,
+            "known_for_department": "Acting",
+            "name": "Andreu Mayayo",
+            "original_name": "Andreu Mayayo",
+            "popularity": 0.2434,
+            "profile_path": null,
+            "cast_id": 8,
+            "character": "Himself",
+            "credit_id": "56cc7182c3a36865e4002a56",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1581879,
+            "known_for_department": "Acting",
+            "name": "Federico Mayor Zaragoza",
+            "original_name": "Federico Mayor Zaragoza",
+            "popularity": 0.5808,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "Himself",
+            "credit_id": "56cc71b59251412455002957",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581876,
+            "known_for_department": "Acting",
+            "name": "Felipe Alcaraz",
+            "original_name": "Felipe Alcaraz",
+            "popularity": 0.5948,
+            "profile_path": null,
+            "cast_id": 9,
+            "character": "Himself",
+            "credit_id": "56cc7196c3a36865d9002a3c",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581869,
+            "known_for_department": "Acting",
+            "name": "Fernando Ónega",
+            "original_name": "Fernando Ónega",
+            "popularity": 0.2693,
+            "profile_path": null,
+            "cast_id": 0,
+            "character": "Himself",
+            "credit_id": "56cc70f4c3a36865df00288e",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581870,
+            "known_for_department": "Acting",
+            "name": "Iñaki Anasagasti",
+            "original_name": "Iñaki Anasagasti",
+            "popularity": 0.2241,
+            "profile_path": null,
+            "cast_id": 2,
+            "character": "Himself",
+            "credit_id": "56cc71209251412457002894",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1150406,
+            "known_for_department": "Acting",
+            "name": "Iñaki Gabilondo",
+            "original_name": "Iñaki Gabilondo",
+            "popularity": 0.4083,
+            "profile_path": "/zPxKajplGKYM3xUxoiLL5FNYVdH.jpg",
+            "cast_id": 1,
+            "character": "Himself",
+            "credit_id": "56cc7104c3a36865eb002ccb",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581877,
+            "known_for_department": "Acting",
+            "name": "Joaquín Leguina",
+            "original_name": "Joaquín Leguina",
+            "popularity": 0.5665,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "Himself",
+            "credit_id": "56cc719f925141245e002870",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1300969,
+            "known_for_department": "Acting",
+            "name": "Jordi Évole",
+            "original_name": "Jordi Évole",
+            "popularity": 0.5285,
+            "profile_path": "/gpmlMPbua72nmCjo2hVG5oDiXgI.jpg",
+            "cast_id": 23,
+            "character": "Himself",
+            "credit_id": "5bfea42bc3a36865dc03a2de",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581872,
+            "known_for_department": "Acting",
+            "name": "Jorge Verstrynge",
+            "original_name": "Jorge Verstrynge",
+            "popularity": 0.4616,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "Himself",
+            "credit_id": "56cc713f9251412464002816",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 103511,
+            "known_for_department": "Directing",
+            "name": "José Luis Garci",
+            "original_name": "José Luis Garci",
+            "popularity": 0.7485,
+            "profile_path": "/uk1DWwBhUx1nrQm5IAxZyXtbXu5.jpg",
+            "cast_id": 13,
+            "character": "Himself",
+            "credit_id": "56cc71c4925141245a00285c",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581878,
+            "known_for_department": "Acting",
+            "name": "Joseba Azkarraga",
+            "original_name": "Joseba Azkarraga",
+            "popularity": 0.2951,
+            "profile_path": null,
+            "cast_id": 11,
+            "character": "Himself",
+            "credit_id": "56cc71a9c3a36865eb002cde",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1508869,
+            "known_for_department": "Acting",
+            "name": "Luis María Ansón",
+            "original_name": "Luis María Ansón",
+            "popularity": 0.4006,
+            "profile_path": null,
+            "cast_id": 5,
+            "character": "Himself",
+            "credit_id": "56cc7160925141245e002860",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2389713,
+            "known_for_department": "Acting",
+            "name": "Pedro Tena Ramos",
+            "original_name": "Pedro Tena Ramos",
+            "popularity": 0.3967,
+            "profile_path": "/wl7qnNXQFdtFZxzNdhGgZka1xf4.jpg",
+            "cast_id": 33,
+            "character": "Narrator (voice)",
+            "credit_id": "5eb25707fbe36f001cc40203",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1789536,
+            "known_for_department": "Acting",
+            "name": "Adolfo Suárez",
+            "original_name": "Adolfo Suárez",
+            "popularity": 0.2891,
+            "profile_path": "/sGYp0K8f4zEralMX5a9oL59DIuE.jpg",
+            "cast_id": 27,
+            "character": "Himself (archive footage)",
+            "credit_id": "5bfea4d60e0a26360e04788a",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2184782,
+            "known_for_department": "Acting",
+            "name": "Antonio Tejero",
+            "original_name": "Antonio Tejero",
+            "popularity": 0.2717,
+            "profile_path": null,
+            "cast_id": 28,
+            "character": "Himself (archive footage)",
+            "credit_id": "5bfea4ec0e0a263821048ce3",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1789530,
+            "known_for_department": "Acting",
+            "name": "Juan Carlos I",
+            "original_name": "Juan Carlos I de España",
+            "popularity": 0.5038,
+            "profile_path": "/2hXxwuVWIlaLekVvTsK6UppimpU.jpg",
+            "cast_id": 25,
+            "character": "Himself (archive footage)",
+            "credit_id": "5bfea4b59251411654048d96",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1349964,
+            "known_for_department": "Acting",
+            "name": "Manuel Fraga",
+            "original_name": "Manuel Fraga",
+            "popularity": 0.4066,
+            "profile_path": "/oM5FYgnOQmiPEGETh0bk10a1xx1.jpg",
+            "cast_id": 26,
+            "character": "Himself (archive footage)",
+            "credit_id": "5bfea4c7c3a36861f904dddb",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1011116,
+            "known_for_department": "Acting",
+            "name": "Santiago Carrillo",
+            "original_name": "Santiago Carrillo",
+            "popularity": 0.4313,
+            "profile_path": "/etxS0kHazM4J7FVpgl3XECbaiqX.jpg",
+            "cast_id": 24,
+            "character": "Himself (archive footage)",
+            "credit_id": "5bfea4a6c3a36869ae0460c6",
+            "order": 23
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4434069,
+            "known_for_department": "Camera",
+            "name": "Marc González",
+            "original_name": "Marc González",
+            "popularity": 0.4208,
+            "profile_path": null,
+            "credit_id": "657e57f18f26bc1f50751da8",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1300969,
+            "known_for_department": "Acting",
+            "name": "Jordi Évole",
+            "original_name": "Jordi Évole",
+            "popularity": 0.5285,
+            "profile_path": "/gpmlMPbua72nmCjo2hVG5oDiXgI.jpg",
+            "credit_id": "56cc71eec3a36865e10029a4",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581881,
+            "known_for_department": "Writing",
+            "name": "Ramón Lara",
+            "original_name": "Ramón Lara",
+            "popularity": 0.4356,
+            "profile_path": null,
+            "credit_id": "56cc72159251412467002923",
+            "department": "Writing",
+            "job": "Screenstory"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581882,
+            "known_for_department": "Writing",
+            "name": "Juan Luis de Paolis",
+            "original_name": "Juan Luis de Paolis",
+            "popularity": 0.3104,
+            "profile_path": null,
+            "credit_id": "56cc7226925141245a002869",
+            "department": "Writing",
+            "job": "Screenstory"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1581883,
+            "known_for_department": "Writing",
+            "name": "David Picó",
+            "original_name": "David Picó",
+            "popularity": 0.496,
+            "profile_path": null,
+            "credit_id": "56cc72329251412455002965",
+            "department": "Writing",
+            "job": "Screenstory"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2184783,
+            "known_for_department": "Production",
+            "name": "Vanesa Legaspi",
+            "original_name": "Vanesa Legaspi",
+            "popularity": 0.2459,
+            "profile_path": null,
+            "credit_id": "5bfea60fc3a36864760543cd",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2184784,
+            "known_for_department": "Production",
+            "name": "Mónica Álvarez",
+            "original_name": "Mónica Álvarez",
+            "popularity": 0.3445,
+            "profile_path": null,
+            "credit_id": "5bfea61f0e0a262cfb042d69",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2184785,
+            "known_for_department": "Editing",
+            "name": "Jaume Patrís",
+            "original_name": "Jaume Patrís",
+            "popularity": 0.1768,
+            "profile_path": null,
+            "credit_id": "5bfea6340e0a26388804d6d1",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2006711,
+            "known_for_department": "Production",
+            "name": "Pablo Gregorio",
+            "original_name": "Pablo Gregorio",
+            "popularity": 0.2131,
+            "profile_path": null,
+            "credit_id": "5bfea65f9251410b92045483",
+            "department": "Sound",
+            "job": "Sound"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 744,
+            "name": "madrid, spain"
+        },
+        {
+            "id": 6285,
+            "name": "coup d'etat"
+        },
+        {
+            "id": 11800,
+            "name": "mockumentary"
+        },
+        {
+            "id": 15061,
+            "name": "docudrama"
+        },
+        {
+            "id": 194320,
+            "name": "military coup"
+        },
+        {
+            "id": 194849,
+            "name": "valencia, spain"
+        },
+        {
+            "id": 208289,
+            "name": "1980s"
+        },
+        {
+            "id": 247596,
+            "name": "spanish guardia civil"
+        },
+        {
+            "id": 258844,
+            "name": "spanish politics"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/9YznS8QtYJVllYua2vCeS2rM3WN.jpg",
+            "id": 361931,
+            "title": "Ronaldo",
+            "original_title": "Ronaldo",
+            "overview": "Filmed over 14 months with unprecedented access into the inner circle of the man and the sport, this is the first official and fully authorised film of one of the most celebrated figures in football.  For the first time ever, the world gets vividly candid and un-paralleled, behind-closed-doors access to the footballer, father, family-man and friend in this moving & fascinating documentary. Through in-depth conversations, state of the art football footage and never before seen archival footage, the film gives an astonishing insight into the sporting and personal life of triple Ballon D'Or winner Cristiano Ronaldo at the peak of his career.  From the makers of ‘Senna’ and ‘Amy’, Ronaldo takes audiences on an intimate and revealing journey of what it’s like to live as an iconic athlete in the eye of the storm.",
+            "poster_path": "/qdr6Jx39KErvSeQFVREjxeEK4lk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "popularity": 3.046,
+            "release_date": "2015-11-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.975,
+            "vote_count": 423
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tB8OHsOKgvdptClsU7nqUsMeqFD.jpg",
+            "id": 1262299,
+            "title": "The Apocalypse of St John",
+            "original_title": "El Apocalipsis de san Juan",
+            "overview": "Embark on an epic journey through time and faith with 'The Apocalypse of Saint John.' Join the Apostle John in a stunning visual narrative that unravels the visions of the End Times. Experience each vision like never before, with striking visual effects and epic scenes that immerse you in the apocalyptic narrative.",
+            "poster_path": "/zzXU586n4uDBgMtVMPPQW7UJwu8.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "popularity": 1.9347,
+            "release_date": "2024-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.304,
+            "vote_count": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c1vrJxyuKhswMm9IbRJJhsFXm0I.jpg",
+            "id": 56205,
+            "title": "The Godfather Family: A Look Inside",
+            "original_title": "The Godfather Family: A Look Inside",
+            "overview": "A documentary on the making of the three Godfather films, with interviews and recollections from the film makers and cast. This feature also includes the original screen tests of some of the actors for \"The Godfather\" film, and some candid moments on the set of \"The Godfather: Part III.\"",
+            "poster_path": "/jDdybr7reoVABPthX9OSlazvncD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 2.0379,
+            "release_date": "1990-07-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.791,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hCdJ6jb0E80JJUCKmHnya9PsR5M.jpg",
+            "id": 848981,
+            "title": "9/11: Inside the President's War Room",
+            "original_title": "9/11: Inside the President's War Room",
+            "overview": "Experience the events of September 11, 2001 through the eyes of President Bush and his closest advisors as they personally detail the crucial hours and key decisions from that historic day.",
+            "poster_path": "/t9otj0gqMwum9AzWslKNWhnQ5Mn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "popularity": 3.3948,
+            "release_date": "2021-08-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.853,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rDyXQbdm5ql8N1Gm2yf4Cirru1M.jpg",
+            "id": 595841,
+            "title": "Making Waves: The Art of Cinematic Sound",
+            "original_title": "Making Waves: The Art of Cinematic Sound",
+            "overview": "The history of cinematic sound, told by legendary sound designers and visionary filmmakers.",
+            "poster_path": "/jafF7jcl116rzohZydL1VfK1y2e.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "popularity": 2.714,
+            "release_date": "2019-10-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.904,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wwqqve2nxCehew4CM9KavQxCd4q.jpg",
+            "id": 757388,
+            "title": "Audrey",
+            "original_title": "Audrey",
+            "overview": "An unprecedented and intimate look at the life, work and enduring legacy of British actress Audrey Hepburn (1929-1993).",
+            "poster_path": "/ikAgImz1rkedYM2mW0TeGZP1xdi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                36,
+                10770
+            ],
+            "popularity": 2.7372,
+            "release_date": "2020-11-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/86XAOhMI1hq9cNz3ZivGJ9BlJHR.jpg",
+            "id": 31688,
+            "title": "The Soviet Story",
+            "original_title": "Padomju stāsts",
+            "overview": "“The Soviet Story” is a story of an Allied power, which helped the Nazis to fight Jews and which slaughtered its own people on an industrial scale. Assisted by the West, this power triumphed on May 9th, 1945. Its crimes were made taboo, and the complete story of Europe’s most murderous regime has never been told. Until now...",
+            "poster_path": "/r7OyvtTQo710tNLNhX6io5al3ul.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10752,
+                36
+            ],
+            "popularity": 2.3763,
+            "release_date": "2008-04-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.363,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jJMayZ9Pz66DEU7AocbiU4HuejC.jpg",
+            "id": 508466,
+            "title": "Sad Hill Unearthed",
+            "original_title": "Sad Hill Unearthed",
+            "overview": "Province of Burgos, northern Spain, October 2015. A group of fans undertake the titanic task of restoring the location of the last scene of The Good, the Bad and the Ugly, the mythical spaghetti western directed by Italian filmmaker Sergio Leone in 1966.",
+            "poster_path": "/1DgoWzjWlLzN4GuLgrIe2iScTPt.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "popularity": 2.0498,
+            "release_date": "2018-10-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/73yBuG9gH1GWCooeXaFxUoNXziL.jpg",
+            "id": 26580,
+            "title": "4 Little Girls",
+            "original_title": "4 Little Girls",
+            "overview": "On September 15, 1963, a bomb destroyed a black church in Birmingham, Alabama, killing four young girls who were there for Sunday school. It was a crime that shocked the nation--and a defining moment in the history of the civil-rights movement. Spike Lee re-examines the full story of the bombing, including a revealing interview with former Alabama Governor George Wallace.",
+            "poster_path": "/7kbV3fDjuy9dQmcuZuT9NKNAEix.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 1.4659,
+            "release_date": "1997-07-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.136,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "id": 301959,
+            "title": "Interstellar: Nolan's Odyssey",
+            "original_title": "Interstellar: Nolan's Odyssey",
+            "overview": "A look behind the lens of Christopher Nolan's space epic.",
+            "poster_path": "/i4PpBcuLvdcJwIf3hkcV9QDR1iH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 2.1957,
+            "release_date": "2014-11-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.775,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iTtyPk7cZMivnXBBhVkTIGqqqT0.jpg",
+            "id": 854521,
+            "title": "Django & Django: Sergio Corbucci Unchained",
+            "original_title": "Django & Django: Sergio Corbucci Unchained",
+            "overview": "A tribute to Italian filmmaker Sergio Corbucci (1926-90), presented by American filmmaker Quentin Tarantino.",
+            "poster_path": "/z5C8S5dEfwh3SDddtqwXanRojQF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "popularity": 1.6927,
+            "release_date": "2021-11-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.961,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gkfjclGZef5PS8Xm5c7XfZPCxdW.jpg",
+            "id": 598065,
+            "title": "Our Godfather",
+            "original_title": "Our Godfather",
+            "overview": "The story of how Sicilian Mafia boss Tommaso Buscetta (1928-2000), the Godfather of Two Worlds, revealed, starting in 1984, the deepest secrets of the organization, thus helping to convict the hundreds of mafiosi who were tried in the trial held in Palermo between 1986 and 1987.",
+            "poster_path": "/dSI9Gy5xqmObmKoR9D80Bl0c1GC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "popularity": 1.9412,
+            "release_date": "2019-04-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.616,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hm076qyHCkZGemzriy4JnLDqMsU.jpg",
+            "id": 836486,
+            "title": "JFK Revisited: Through the Looking Glass",
+            "original_title": "JFK Revisited: Through the Looking Glass",
+            "overview": "Thirty years after the release of his film JFK (1991), filmmaker Oliver Stone reviews recently declassified evidence related to the assassination of President John F. Kennedy, which took place in Dallas on November 22, 1963.",
+            "poster_path": "/uWwEWzjkmuNGXpMhpVsrhNNB0NV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                36
+            ],
+            "popularity": 1.8742,
+            "release_date": "2021-11-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.977,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fDbnJeTZMWUCXHwxuYcDXVmhefM.jpg",
+            "id": 72694,
+            "title": "The Making of Star Wars",
+            "original_title": "The Making of Star Wars",
+            "overview": "Learn the incredible behind-the-scenes story of how the original Star Wars  movie was brought to the big screen in this fascinating documentary hosted by C-3PO and R2-D2 which includes interviews with George Lucas and appearances by Mark Hamill, Harrison Ford and Carrie Fisher.",
+            "poster_path": "/SUuNG1l918uBNMZZRDrUQMvwzt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 1.4535,
+            "release_date": "1977-09-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2O3A1wrRNcGb8LBsOkeI8IHs64r.jpg",
+            "id": 51863,
+            "title": "Seven Up!",
+            "original_title": "Seven Up!",
+            "overview": "A group of British children aged 7 from widely ranging backgrounds are interviewed about a range of subjects. The filmmakers plan to re-interview them at 7 year intervals to track how their lives and attitudes change as they age.",
+            "poster_path": "/pgxBgde0VpbbdpN6bL05gpMtlC9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 1.7019,
+            "release_date": "1964-05-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.188,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k8zYEW2jAgWR4PcbH7SSIOSUi6w.jpg",
+            "id": 896633,
+            "title": "Adele One Night Only",
+            "original_title": "Adele One Night Only",
+            "overview": "A primetime special with performances from the superstar including Adele’s first new material in six years plus her chart-topping hits. The special will also feature an exclusive interview with Adele by Oprah Winfrey from her rose garden, in Adele’s first televised wide-ranging conversation.",
+            "poster_path": "/A7tO3IHm02FqRvE4R78bDkYX1Al.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                99,
+                10770
+            ],
+            "popularity": 2.4546,
+            "release_date": "2021-11-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bbDMy8ou6N8yL5VidQpzo6kZZVk.jpg",
+            "id": 412924,
+            "title": "Supersonic",
+            "original_title": "Supersonic",
+            "overview": "Supersonic charts the meteoric rise of Oasis from the council estates of Manchester to some of the biggest concerts of all time in just three short years.  This palpable, raw and moving film shines a light on one of the most genre and generation-defining British bands that has ever existed and features candid new interviews with Noel and Liam Gallagher, their mother, and members of the band and road crew.",
+            "poster_path": "/gMHLEKTB22J212To1gSnundcIhH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                99,
+                36
+            ],
+            "popularity": 2.7991,
+            "release_date": "2016-10-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.367,
+            "vote_count": 244
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/guSb6lfH0lLYJQ9QSQn60jeBMKz.jpg",
+            "id": 253639,
+            "title": "And the Oscar Goes To...",
+            "original_title": "And the Oscar Goes To...",
+            "overview": "The story of the gold-plated statuette that became the film industry's most coveted prize, AND THE OSCAR GOES TO... traces the history of the Academy itself, which began in 1927 when Louis B. Mayer, then head of MGM, led other prominent members of the industry in forming this professional honorary organization. Two years later the Academy began bestowing awards, which were nicknamed \"Oscar,\" and quickly came to represent the pinnacle of cinematic achievement.",
+            "poster_path": "/rRL4xf3Z6kgLUyb5vbGKErlzP4h.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "popularity": 1.7744,
+            "release_date": "2014-02-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sPv96xgkp8Mme0jpIC2RkQotk9b.jpg",
+            "id": 56224,
+            "title": "Z Channel: A Magnificent Obsession",
+            "original_title": "Z Channel: A Magnificent Obsession",
+            "overview": "A documentary on the Z Channel, one of the first pay cable stations in the US, and its programming chief, Jerry Harvey. Debuting in 1974, the LA-based channel's eclectic slate of movies became a prime example of the untapped power of cable television.",
+            "poster_path": "/mhEUVtXc08I8hZSbexWnilXga1p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                36,
+                99
+            ],
+            "popularity": 1.7999,
+            "release_date": "2004-05-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.073,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7HfN8FedrTiwXHbJpXwMHZFhGyn.jpg",
+            "id": 561325,
+            "title": "Pavarotti",
+            "original_title": "Pavarotti",
+            "overview": "Featuring never-before-seen footage, concert performances and intimate interviews, filmmaker Ron Howard examines the life and career of famed opera tenor Luciano Pavarotti.",
+            "poster_path": "/bf0Iim4D6XXrAAJGwHXyrWFqUz8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                36,
+                10402
+            ],
+            "popularity": 2.1773,
+            "release_date": "2019-06-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.277,
+            "vote_count": 83
+        }
+    ]
+}

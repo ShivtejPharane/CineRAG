@@ -1,0 +1,1191 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/cvGE73s935bXEAVt2W0zADPPegG.jpg",
+        "belongs_to_collection": {
+            "id": 1329887,
+            "name": "Coherence Collection",
+            "poster_path": "/aDhSP9NaMHXx7gQ0Smm3NsRhCxi.jpg",
+            "backdrop_path": "/hxsmGB4yzHM4XvN8Hn4xLtSMPdk.jpg"
+        },
+        "budget": 50000,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "homepage": "https://independent-ent.com/production/coherence",
+        "id": 220289,
+        "imdb_id": "tt2866360",
+        "origin_country": [
+            "US",
+            "GB"
+        ],
+        "original_language": "en",
+        "original_title": "Coherence",
+        "overview": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
+        "popularity": 10.7294,
+        "poster_path": "/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
+        "production_companies": [
+            {
+                "id": 29303,
+                "logo_path": "/sjDfde03OsVNIAsxWJ14aL3KGtw.png",
+                "name": "Bellanova Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 1436,
+                "logo_path": "/3VRz5vPmsObDLAYFMmRaSA6swkj.png",
+                "name": "Ugly Duckling Films",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2014-04-06",
+        "revenue": 139745,
+        "runtime": 89,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Rearrange your brain.",
+        "title": "Coherence",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 3515
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 209200,
+            "known_for_department": "Acting",
+            "name": "Emily Baldoni",
+            "original_name": "Emily Baldoni",
+            "popularity": 1.8342,
+            "profile_path": "/1d5FaYSUNLkgu0ev6PBlDgk8DoC.jpg",
+            "cast_id": 11,
+            "character": "Em",
+            "credit_id": "532ad405925141083600133a",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 65726,
+            "known_for_department": "Acting",
+            "name": "Maury Sterling",
+            "original_name": "Maury Sterling",
+            "popularity": 1.6445,
+            "profile_path": "/dO9rd0F67Jt9hkcLw4CXERE9q1z.jpg",
+            "cast_id": 9,
+            "character": "Kevin",
+            "credit_id": "52fe4da29251416c7513b973",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 71675,
+            "known_for_department": "Acting",
+            "name": "Nicholas Brendon",
+            "original_name": "Nicholas Brendon",
+            "popularity": 2.0289,
+            "profile_path": "/6O5sg97Fv07EzdWjpoq3lb8KnTM.jpg",
+            "cast_id": 4,
+            "character": "Mike",
+            "credit_id": "52fe4da29251416c7513b95f",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 71551,
+            "known_for_department": "Directing",
+            "name": "Lorene Scafaria",
+            "original_name": "Lorene Scafaria",
+            "popularity": 1.0003,
+            "profile_path": "/1hgB5sHrCKsZmzTw78Re202bJ8q.jpg",
+            "cast_id": 8,
+            "character": "Lee",
+            "credit_id": "52fe4da29251416c7513b96f",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 154716,
+            "known_for_department": "Acting",
+            "name": "Elizabeth Gracen",
+            "original_name": "Elizabeth Gracen",
+            "popularity": 1.3448,
+            "profile_path": "/9UjiQnswCcHrRjzHzFOzOE0QDYA.jpg",
+            "cast_id": 5,
+            "character": "Beth",
+            "credit_id": "52fe4da29251416c7513b963",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 87095,
+            "known_for_department": "Acting",
+            "name": "Hugo Armstrong",
+            "original_name": "Hugo Armstrong",
+            "popularity": 0.872,
+            "profile_path": "/iEvscOR5Js8pXlNbCRGpD2lyXDC.jpg",
+            "cast_id": 10,
+            "character": "Hugh",
+            "credit_id": "5327f62d9251411a1e001b1a",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1209902,
+            "known_for_department": "Acting",
+            "name": "Alex Manugian",
+            "original_name": "Alex Manugian",
+            "popularity": 1.032,
+            "profile_path": "/bLwcXrNen9xlnl7bOlP2mmoaYVI.jpg",
+            "cast_id": 7,
+            "character": "Amir",
+            "credit_id": "52fe4da29251416c7513b96b",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2450,
+            "known_for_department": "Acting",
+            "name": "Lauren Maher",
+            "original_name": "Lauren Maher",
+            "popularity": 0.8007,
+            "profile_path": "/udtzRPT5cf5wQSW7QT7UcnD79Os.jpg",
+            "cast_id": 6,
+            "character": "Laurie",
+            "credit_id": "52fe4da29251416c7513b967",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1234334,
+            "known_for_department": "Acting",
+            "name": "Kelly Donovan",
+            "original_name": "Kelly Donovan",
+            "popularity": 0.4118,
+            "profile_path": "/djjssQYoO0x2V5GOJ9j0xm0QKbL.jpg",
+            "cast_id": 49,
+            "character": "Extra",
+            "credit_id": "61c203bea8858700899e874f",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1300637,
+            "known_for_department": "Acting",
+            "name": "Aqueela Zoll",
+            "original_name": "Aqueela Zoll",
+            "popularity": 1.2304,
+            "profile_path": "/cvN1Bg4uEoBzCA03jjyHPtbzkNg.jpg",
+            "cast_id": 50,
+            "character": "Extra",
+            "credit_id": "61c203d78b959e0043420ab8",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 166788,
+            "known_for_department": "Acting",
+            "name": "Mark Ballou",
+            "original_name": "Mark Ballou",
+            "popularity": 0.5022,
+            "profile_path": "/srZcy5PL5EI8KXvfg3V7K5a1Z17.jpg",
+            "cast_id": 51,
+            "character": "Extra",
+            "credit_id": "61c203eaa885870042ab7b00",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 969630,
+            "known_for_department": "Acting",
+            "name": "Alexis Boozer Sterling",
+            "original_name": "Alexis Boozer Sterling",
+            "popularity": 0.4344,
+            "profile_path": "/zr1v1bkNHjKeyoRQGeHGqOxPUEW.jpg",
+            "cast_id": 52,
+            "character": "Extra",
+            "credit_id": "61c2040b162bc3008f659c73",
+            "order": 11
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3043706,
+            "known_for_department": "Editing",
+            "name": "Shane McAllen",
+            "original_name": "Shane McAllen",
+            "popularity": 0.2299,
+            "profile_path": null,
+            "credit_id": "606f28ce635013002c8669f1",
+            "department": "Editing",
+            "job": "Colorist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3012815,
+            "known_for_department": "Acting",
+            "name": "Peter Konerko",
+            "original_name": "Peter Konerko",
+            "popularity": 0.3368,
+            "profile_path": null,
+            "credit_id": "606f293e635013002c866a9b",
+            "department": "Camera",
+            "job": "Still Photographer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3043715,
+            "known_for_department": "Production",
+            "name": "Jeremy Gordon",
+            "original_name": "Jeremy Gordon",
+            "popularity": 0.2,
+            "profile_path": null,
+            "credit_id": "606f2a773f8ede00297357f2",
+            "department": "Production",
+            "job": "Production Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 35482,
+            "known_for_department": "Production",
+            "name": "Doug Blake",
+            "original_name": "Doug Blake",
+            "popularity": 0.4807,
+            "profile_path": null,
+            "credit_id": "606f27b9629b2c0040535488",
+            "department": "Directing",
+            "job": "First Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1946454,
+            "known_for_department": "Lighting",
+            "name": "Ryan Meyer",
+            "original_name": "Ryan Meyer",
+            "popularity": 0.3718,
+            "profile_path": null,
+            "credit_id": "606f2968dff66e002915da06",
+            "department": "Lighting",
+            "job": "Gaffer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1459571,
+            "known_for_department": "Acting",
+            "name": "Loren Smith",
+            "original_name": "Loren Smith",
+            "popularity": 0.2548,
+            "profile_path": null,
+            "credit_id": "606f28f5d4fe040076c6c0fc",
+            "department": "Editing",
+            "job": "Digital Intermediate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3043710,
+            "known_for_department": "Production",
+            "name": "Scott Berst",
+            "original_name": "Scott Berst",
+            "popularity": 0.2499,
+            "profile_path": null,
+            "credit_id": "606f2a35cd204600415c863d",
+            "department": "Production",
+            "job": "Production Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1407721,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Victoria Wood",
+            "original_name": "Victoria Wood",
+            "popularity": 0.4919,
+            "profile_path": null,
+            "credit_id": "606f26813f8ede005a4b5135",
+            "department": "Costume & Make-Up",
+            "job": "Wig Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2753200,
+            "known_for_department": "Directing",
+            "name": "Ben Bywater",
+            "original_name": "Ben Bywater",
+            "popularity": 0.3443,
+            "profile_path": null,
+            "credit_id": "606f298bd4fe040029bf5dfa",
+            "department": "Directing",
+            "job": "Second Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 35482,
+            "known_for_department": "Production",
+            "name": "Doug Blake",
+            "original_name": "Doug Blake",
+            "popularity": 0.4807,
+            "profile_path": null,
+            "credit_id": "606f282bd144430078fcd99e",
+            "department": "Production",
+            "job": "Unit Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1907388,
+            "known_for_department": "Production",
+            "name": "Rebekah Sindoris",
+            "original_name": "Rebekah Sindoris",
+            "popularity": 0.3213,
+            "profile_path": null,
+            "credit_id": "606f29c4dff66e00570246ea",
+            "department": "Production",
+            "job": "Accountant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3043705,
+            "known_for_department": "Editing",
+            "name": "Sean McAllen",
+            "original_name": "Sean McAllen",
+            "popularity": 0.2191,
+            "profile_path": null,
+            "credit_id": "606f28bbd144430078fcda58",
+            "department": "Editing",
+            "job": "Assistant Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 146439,
+            "known_for_department": "Writing",
+            "name": "James Ward Byrkit",
+            "original_name": "James Ward Byrkit",
+            "popularity": 0.8809,
+            "profile_path": "/sgbhE0vVulxBLvyXzeM4Z2Rn0Ss.jpg",
+            "credit_id": "52fe4da29251416c7513b953",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 85971,
+            "known_for_department": "Camera",
+            "name": "Nic Sadler",
+            "original_name": "Nic Sadler",
+            "popularity": 0.3857,
+            "profile_path": null,
+            "credit_id": "541432400e0a2619a10019c2",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 32251,
+            "known_for_department": "Production",
+            "name": "Lene Bausager",
+            "original_name": "Lene Bausager",
+            "popularity": 0.5319,
+            "profile_path": "/ddSjHm6twfsdl3AxfwBTTE71dtf.jpg",
+            "credit_id": "541432120e0a26198f001a7b",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1134856,
+            "known_for_department": "Sound",
+            "name": "Kristin Øhrn Dyrud",
+            "original_name": "Kristin Øhrn Dyrud",
+            "popularity": 0.4046,
+            "profile_path": null,
+            "credit_id": "5414322e0e0a2619a40019a6",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1363585,
+            "known_for_department": "Production",
+            "name": "Alyssa Byrkit",
+            "original_name": "Alyssa Byrkit",
+            "popularity": 0.2688,
+            "profile_path": null,
+            "credit_id": "5414321f0e0a26198f001a84",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 146439,
+            "known_for_department": "Writing",
+            "name": "James Ward Byrkit",
+            "original_name": "James Ward Byrkit",
+            "popularity": 0.8809,
+            "profile_path": "/sgbhE0vVulxBLvyXzeM4Z2Rn0Ss.jpg",
+            "credit_id": "541431f8c3a3687dc80019ac",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 146439,
+            "known_for_department": "Writing",
+            "name": "James Ward Byrkit",
+            "original_name": "James Ward Byrkit",
+            "popularity": 0.8809,
+            "profile_path": "/sgbhE0vVulxBLvyXzeM4Z2Rn0Ss.jpg",
+            "credit_id": "541431e50e0a26199b001973",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1209902,
+            "known_for_department": "Acting",
+            "name": "Alex Manugian",
+            "original_name": "Alex Manugian",
+            "popularity": 1.032,
+            "profile_path": "/bLwcXrNen9xlnl7bOlP2mmoaYVI.jpg",
+            "credit_id": "54143204c3a3687dae0019c4",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1363586,
+            "known_for_department": "Editing",
+            "name": "Lance Pereira",
+            "original_name": "Lance Pereira",
+            "popularity": 0.3175,
+            "profile_path": null,
+            "credit_id": "541432580e0a2619a10019c9",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 166235,
+            "known_for_department": "Sound",
+            "name": "Andy Hay",
+            "original_name": "Andy Hay",
+            "popularity": 0.6056,
+            "profile_path": null,
+            "credit_id": "54e1c5d8c3a368087b001317",
+            "department": "Sound",
+            "job": "Supervising Sound Editor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1427804,
+            "known_for_department": "Camera",
+            "name": "Arlene Muller",
+            "original_name": "Arlene Muller",
+            "popularity": 0.2855,
+            "profile_path": null,
+            "credit_id": "54e1c62e92514119560075f1",
+            "department": "Camera",
+            "job": "Additional Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1348000,
+            "known_for_department": "Sound",
+            "name": "Jeffrey A. Pitts",
+            "original_name": "Jeffrey A. Pitts",
+            "popularity": 0.3666,
+            "profile_path": null,
+            "credit_id": "54e1c6139251412c8e001145",
+            "department": "Sound",
+            "job": "Sound Effects Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1403861,
+            "known_for_department": "Sound",
+            "name": "Jesse Pomeroy",
+            "original_name": "Jesse Pomeroy",
+            "popularity": 0.6457,
+            "profile_path": null,
+            "credit_id": "5b114041c3a368622d01c972",
+            "department": "Sound",
+            "job": "Dialogue Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1302967,
+            "known_for_department": "Sound",
+            "name": "G.W. Pope III",
+            "original_name": "G.W. Pope III",
+            "popularity": 0.4893,
+            "profile_path": null,
+            "credit_id": "5b1140810e0a263080013a73",
+            "department": "Sound",
+            "job": "Foley Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2055140,
+            "known_for_department": "Sound",
+            "name": "Leobardo Ledon",
+            "original_name": "Leobardo Ledon",
+            "popularity": 0.343,
+            "profile_path": null,
+            "credit_id": "5b1140dd0e0a2630830131db",
+            "department": "Sound",
+            "job": "Foley Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1427797,
+            "known_for_department": "Sound",
+            "name": "Paul Stanley",
+            "original_name": "Paul Stanley",
+            "popularity": 0.3548,
+            "profile_path": null,
+            "credit_id": "5b11409f0e0a26306d0138e0",
+            "department": "Sound",
+            "job": "ADR Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8761,
+            "known_for_department": "Sound",
+            "name": "Vincent Guisetti",
+            "original_name": "Vincent Guisetti",
+            "popularity": 0.5946,
+            "profile_path": null,
+            "credit_id": "5b1140b29251415e9c010220",
+            "department": "Sound",
+            "job": "Foley Artist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2055141,
+            "known_for_department": "Sound",
+            "name": "Jake Valentine",
+            "original_name": "Jake Valentine",
+            "popularity": 0.2904,
+            "profile_path": null,
+            "credit_id": "5b1140ef0e0a26308e012667",
+            "department": "Sound",
+            "job": "ADR Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1345264,
+            "known_for_department": "Sound",
+            "name": "Geordy Sincavage",
+            "original_name": "Geordy Sincavage",
+            "popularity": 0.4373,
+            "profile_path": null,
+            "credit_id": "5b114052c3a368622a0189ca",
+            "department": "Sound",
+            "job": "Foley Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1209902,
+            "known_for_department": "Acting",
+            "name": "Alex Manugian",
+            "original_name": "Alex Manugian",
+            "popularity": 1.032,
+            "profile_path": "/bLwcXrNen9xlnl7bOlP2mmoaYVI.jpg",
+            "credit_id": "5ba7a23c0e0a2635ec02c4b8",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 166235,
+            "known_for_department": "Sound",
+            "name": "Andy Hay",
+            "original_name": "Andy Hay",
+            "popularity": 0.6056,
+            "profile_path": null,
+            "credit_id": "5d581a394bc38b350327f76e",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 402,
+            "name": "clone"
+        },
+        {
+            "id": 2340,
+            "name": "paranoia"
+        },
+        {
+            "id": 4379,
+            "name": "time travel"
+        },
+        {
+            "id": 4803,
+            "name": "comet"
+        },
+        {
+            "id": 9181,
+            "name": "alter ego"
+        },
+        {
+            "id": 9824,
+            "name": "reunion"
+        },
+        {
+            "id": 9713,
+            "name": "friends"
+        },
+        {
+            "id": 12565,
+            "name": "psychological thriller"
+        },
+        {
+            "id": 14755,
+            "name": "power outage"
+        },
+        {
+            "id": 15208,
+            "name": "biting"
+        },
+        {
+            "id": 15224,
+            "name": "candle"
+        },
+        {
+            "id": 33465,
+            "name": "parallel world"
+        },
+        {
+            "id": 175629,
+            "name": "alternative reality"
+        },
+        {
+            "id": 191260,
+            "name": "dinner party"
+        },
+        {
+            "id": 215024,
+            "name": "ketamine"
+        },
+        {
+            "id": 217034,
+            "name": "quantum physics"
+        },
+        {
+            "id": 238203,
+            "name": "broken cellphone"
+        },
+        {
+            "id": 238205,
+            "name": "glowstick"
+        },
+        {
+            "id": 325811,
+            "name": "excited"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+            "id": 1119449,
+            "title": "Good Luck, Have Fun, Don't Die",
+            "original_title": "Good Luck, Have Fun, Don't Die",
+            "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+            "poster_path": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                35
+            ],
+            "popularity": 17.8592,
+            "release_date": "2026-02-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.078,
+            "vote_count": 797
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8xUn8X9tUyFRGEbyUuMo17nEu3g.jpg",
+            "id": 3072,
+            "title": "Frankenstein Unbound",
+            "original_title": "Frankenstein Unbound",
+            "overview": "The ultimate weapon, claimed to be safe for mankind, produces global side-effects including time slides and disappearances. The scientist behind the project and his car are zapped from the year 2031 to 1817 in Switzerland where he meets Dr. Victor Frankenstein, Mary Shelley and others.",
+            "poster_path": "/r5l1RDSOShMrUmRtiADxrq3ig00.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 4.2135,
+            "release_date": "1990-11-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.809,
+            "vote_count": 136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ycylamLkpWFMpt7Mn7aCjeii8nB.jpg",
+            "id": 660833,
+            "title": "Multiverse",
+            "original_title": "Entangled",
+            "overview": "Four brilliant university students are forced to confront themselves in terrifying ways when their Quantum Physics experiment leads to an entangled parallel existence that leaves them questioning who they are and what is real.",
+            "poster_path": "/jMhWb00KXwnYbneENxImQslRzUs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                53,
+                18
+            ],
+            "popularity": 2.8067,
+            "release_date": "2021-11-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.613,
+            "vote_count": 346
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pf5xJlqKLPSCXnyn3KlbAuxcklZ.jpg",
+            "id": 8452,
+            "title": "The 6th Day",
+            "original_title": "The 6th Day",
+            "overview": "A world of the very near future in which cattle, fish, and even the family pet can be cloned. But cloning humans is illegal - that is until family man Adam Gibson comes home from work one day to find a clone has replaced him. Taken from his family and plunged into a sinister world he doesn't understand, Gibson must not only save himself from the assassins who must destroy him to protect their secret, but uncover who and what is behind the horrible things happening to him.",
+            "poster_path": "/nlbB47qp1oxEtts9Ik3UYAwKWHM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "popularity": 6.9899,
+            "release_date": "2000-11-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.002,
+            "vote_count": 2311
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bMJdVmo6QqoUHpUsjWyei6MN02x.jpg",
+            "id": 2787,
+            "title": "Pitch Black",
+            "original_title": "Pitch Black",
+            "overview": "When their ship crash-lands on a remote planet, the marooned passengers soon learn that escaped convict Riddick isn't the only thing they have to fear. Deadly creatures lurk in the shadows, waiting to attack in the dark, and the planet is rapidly plunging into the utter blackness of a total eclipse. With the body count rising, the doomed survivors are forced to turn to Riddick with his eerie eyes to guide them through the darkness to safety. With time running out, there's only one rule: Stay in the light.",
+            "poster_path": "/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                878,
+                28
+            ],
+            "popularity": 6.315,
+            "release_date": "2000-02-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 4885
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oxZh9qhkxfOczKmTang0j9a06Bx.jpg",
+            "id": 242095,
+            "title": "The Signal",
+            "original_title": "The Signal",
+            "overview": "On a road trip, Nic and two friends are drawn to an isolated area by a computer genius. When everything suddenly goes dark, Nic regains consciousness – only to find himself in a waking nightmare.",
+            "poster_path": "/r5v3gzfxtnO9bKebs5Ujee6LLP1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                878
+            ],
+            "popularity": 5.0549,
+            "release_date": "2014-03-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.022,
+            "vote_count": 1877
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sKcdPHvsGCNdDOD7LJdOibZuvUQ.jpg",
+            "id": 14510,
+            "title": "From Beyond",
+            "original_title": "From Beyond",
+            "overview": "The Resonator, a powerful machine that can control the sixth sense, has killed its creator and sent his associate into an insane asylum. When a psychiatrist becomes determined to continue the experiment, she unwittingly opens the door to a hostile parallel universe.",
+            "poster_path": "/zwmyxaKzIRLD4iUqZAQW940omdm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 4.5785,
+            "release_date": "1986-10-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.471,
+            "vote_count": 682
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+            "id": 206487,
+            "title": "Predestination",
+            "original_title": "Predestination",
+            "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+            "poster_path": "/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "popularity": 11.5861,
+            "release_date": "2014-08-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.415,
+            "vote_count": 7206
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zZZ1FDl5FPClZ9OnMrlaPA4Iuxv.jpg",
+            "id": 1635,
+            "title": "The Island",
+            "original_title": "The Island",
+            "overview": "In 2019, Lincoln Six-Echo is a resident of a seemingly \"Utopian\" but contained facility. Like all of the inhabitants of this carefully-controlled environment, Lincoln hopes to be chosen to go to The Island — reportedly the last uncontaminated location on the planet. But Lincoln soon discovers that everything about his existence is a lie.",
+            "poster_path": "/9MaZYEyFmQwNeDTxZGQEN8E0e4p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "popularity": 14.7155,
+            "release_date": "2005-07-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 5964
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wcEGMvOzCPjPABa4jbTDF2UOx53.jpg",
+            "id": 937249,
+            "title": "57 Seconds",
+            "original_title": "57 Seconds",
+            "overview": "When a tech blogger lands an interview with a tech guru and stops an attack on him, he finds a mysterious ring that takes him back 57 seconds into the past.",
+            "poster_path": "/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                878,
+                28
+            ],
+            "popularity": 6.4917,
+            "release_date": "2023-09-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.147,
+            "vote_count": 686
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oX6rYilUqQJMcMzCn6K61UifOnN.jpg",
+            "id": 410199,
+            "title": "ARQ",
+            "original_title": "ARQ",
+            "overview": "Two old friends living in a dystopic future become trapped in a mysterious time loop — one that may have something to do with an ongoing battle between an omnipotent corporation and a ragtag band of rebels.",
+            "poster_path": "/mU4VeXVK18JtCZsy7i0zczlA9p7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "popularity": 3.122,
+            "release_date": "2016-09-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1318
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1gKDAWgzHTbBM5OcWzhVBw4H3wt.jpg",
+            "id": 25571,
+            "title": "Drive",
+            "original_title": "Drive",
+            "overview": "A prototype enhanced human, on the run from Chinese-hired hit men, hooks up with a dread-locked bystander, and the two of them elude their pursuers narrowly each time.",
+            "poster_path": "/bJiau5UDnDIjemil7z3d7kUbUHm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                35
+            ],
+            "popularity": 2.7035,
+            "release_date": "1997-08-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hJ5R9d6QuH3tzr8L8neZZTuzNXm.jpg",
+            "id": 78,
+            "title": "Blade Runner",
+            "original_title": "Blade Runner",
+            "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+            "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                18,
+                53
+            ],
+            "popularity": 26.4618,
+            "release_date": "1982-06-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.934,
+            "vote_count": 15205
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sWi4SSeVPii4NU365Df9vzX1yOX.jpg",
+            "id": 2666,
+            "title": "Dark City",
+            "original_title": "Dark City",
+            "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+            "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                878
+            ],
+            "popularity": 12.3197,
+            "release_date": "1998-02-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.324,
+            "vote_count": 3270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1xhcEecvRJXQ2OAVO7l9btlrN6D.jpg",
+            "id": 667216,
+            "title": "Infinity Pool",
+            "original_title": "Infinity Pool",
+            "overview": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.",
+            "poster_path": "/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "popularity": 6.6665,
+            "release_date": "2023-01-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.047,
+            "vote_count": 1082
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xU2C64VWhYJMBDrjEsFPbVTWAjN.jpg",
+            "id": 1052280,
+            "title": "It's What's Inside",
+            "original_title": "It's What's Inside",
+            "overview": "A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.",
+            "poster_path": "/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                9648,
+                878
+            ],
+            "popularity": 10.4586,
+            "release_date": "2024-01-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.472,
+            "vote_count": 836
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4iMURVQCxjyMH8Vr1Wd3GCsxE06.jpg",
+            "id": 765245,
+            "title": "Swan Song",
+            "original_title": "Swan Song",
+            "overview": "In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate in this thought-provoking exploration of love, loss, and sacrifice.",
+            "poster_path": "/zzCdikGD9Qa5NT8lZtUv9dXNgsm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "popularity": 8.1268,
+            "release_date": "2021-12-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.109,
+            "vote_count": 604
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oLuAgHcYk9UrulfFJCmYfcnvmgB.jpg",
+            "id": 145135,
+            "title": "Dark Skies",
+            "original_title": "Dark Skies",
+            "overview": "From the producers of Paranormal Activity, Insidious, and Sinister comes Dark Skies: a supernatural thriller that follows a young family living in the suburbs. As husband and wife Daniel and Lacey Barret witness an escalating series of disturbing events involving their family, their safe and peaceful home quickly unravels. When it becomes clear that the Barret family is being targeted by an unimaginably terrifying and deadly force, Daniel and Lacey take matters in their own hands to solve the mystery of what is after their family.",
+            "poster_path": "/euLgEo2kvuLjYxbfOekWF3l82t6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                53,
+                27
+            ],
+            "popularity": 12.6506,
+            "release_date": "2013-02-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.364,
+            "vote_count": 1995
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dv4tLF2gISz3w1e9YK3rK1jxpLj.jpg",
+            "id": 4965,
+            "title": "Impostor",
+            "original_title": "Impostor",
+            "overview": "A top-secret government weapons designer is arrested by a clandestine government organization on suspicion of being a clone created by the hostile alien race wanting to take over Earth.",
+            "poster_path": "/7Uy4JbalP0mEyKnFW2IorQDmbBa.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "popularity": 3.9047,
+            "release_date": "2001-12-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 485
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uYrWbsvFYZgQF4cwDDPPsnDl8IM.jpg",
+            "id": 426793,
+            "title": "Parallel",
+            "original_title": "Parallel",
+            "overview": "A group of friends stumble upon a mirror that serves as a portal to a \"multiverse\", but soon discover that importing knowledge from the other side in order to better their lives brings increasingly dangerous consequences.",
+            "poster_path": "/eUi9srjugUumdUK8sGO9ndMFXgI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                14,
+                27
+            ],
+            "popularity": 4.4083,
+            "release_date": "2018-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.995,
+            "vote_count": 183
+        }
+    ]
+}

@@ -1,0 +1,1243 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+        "belongs_to_collection": {
+            "id": 91361,
+            "name": "Halloween Collection",
+            "poster_path": "/uCIMY95aqKEwIEwNuFq42UQkY9f.jpg",
+            "backdrop_path": "/hUa3JDVZ1L0U7jSfFu4uvzoCJxs.jpg"
+        },
+        "budget": 325000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "http://www.theofficialjohncarpenter.com/halloween/",
+        "id": 948,
+        "imdb_id": "tt0077651",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Halloween",
+        "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+        "popularity": 16.2301,
+        "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+        "production_companies": [
+            {
+                "id": 14323,
+                "logo_path": "/efnw45BcPQve9ACNchnDufgV1po.png",
+                "name": "Compass International Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 22814,
+                "logo_path": null,
+                "name": "Falcon International Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 232294,
+                "logo_path": null,
+                "name": "Miracle Films",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1978-10-24",
+        "revenue": 70260597,
+        "runtime": 91,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The night he came home!",
+        "title": "Halloween",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 6265
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 9221,
+            "known_for_department": "Acting",
+            "name": "Donald Pleasence",
+            "original_name": "Donald Pleasence",
+            "popularity": 4.0381,
+            "profile_path": "/crtSwLnlrEidYFPupkVBSL9wK9Z.jpg",
+            "cast_id": 14,
+            "character": "Loomis",
+            "credit_id": "52fe4292c3a36847f8029083",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 8944,
+            "known_for_department": "Acting",
+            "name": "Jamie Lee Curtis",
+            "original_name": "Jamie Lee Curtis",
+            "popularity": 5.3113,
+            "profile_path": "/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg",
+            "cast_id": 15,
+            "character": "Laurie",
+            "credit_id": "52fe4292c3a36847f8029087",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 11787,
+            "known_for_department": "Acting",
+            "name": "Nancy Kyes",
+            "original_name": "Nancy Kyes",
+            "popularity": 0.9348,
+            "profile_path": "/9LbRSE8soWZgkcHDLE6s8MSW6lG.jpg",
+            "cast_id": 16,
+            "character": "Annie",
+            "credit_id": "52fe4292c3a36847f802908b",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 15500,
+            "known_for_department": "Acting",
+            "name": "P. J. Soles",
+            "original_name": "P. J. Soles",
+            "popularity": 1.2237,
+            "profile_path": "/1f8uZoN3oLGmsoEOmOiaorxWoMt.jpg",
+            "cast_id": 17,
+            "character": "Lynda",
+            "credit_id": "52fe4292c3a36847f802908f",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11786,
+            "known_for_department": "Acting",
+            "name": "Charles Cyphers",
+            "original_name": "Charles Cyphers",
+            "popularity": 0.9208,
+            "profile_path": "/cfDwWOFY9xOGiRxUwjIHhZ7U6lh.jpg",
+            "cast_id": 18,
+            "character": "Brackett",
+            "credit_id": "52fe4292c3a36847f8029093",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 15503,
+            "known_for_department": "Acting",
+            "name": "Kyle Richards",
+            "original_name": "Kyle Richards",
+            "popularity": 2.0088,
+            "profile_path": "/iB6iFhTlrNL8d5wh1lpFz4dyqNp.jpg",
+            "cast_id": 19,
+            "character": "Lindsey",
+            "credit_id": "52fe4292c3a36847f8029097",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15505,
+            "known_for_department": "Acting",
+            "name": "Brian Andrews",
+            "original_name": "Brian Andrews",
+            "popularity": 0.6802,
+            "profile_path": "/7epiFWpYOSdjkCHyGz1162XbLuN.jpg",
+            "cast_id": 20,
+            "character": "Tommy",
+            "credit_id": "52fe4292c3a36847f802909b",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15506,
+            "known_for_department": "Acting",
+            "name": "John Michael Graham",
+            "original_name": "John Michael Graham",
+            "popularity": 0.4781,
+            "profile_path": "/p67XshUxGdMtUW0bDhtrbZnV3bn.jpg",
+            "cast_id": 21,
+            "character": "Bob",
+            "credit_id": "52fe4292c3a36847f802909f",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 15508,
+            "known_for_department": "Acting",
+            "name": "Nancy Stephens",
+            "original_name": "Nancy Stephens",
+            "popularity": 0.7287,
+            "profile_path": "/6oS5nCeHAqszh2HgxoHXbmmnamB.jpg",
+            "cast_id": 22,
+            "character": "Marion",
+            "credit_id": "52fe4292c3a36847f80290a3",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 13392,
+            "known_for_department": "Acting",
+            "name": "Arthur Malet",
+            "original_name": "Arthur Malet",
+            "popularity": 1.2937,
+            "profile_path": "/AbmKxci3EZMG2rBmFLQiUdNsySL.jpg",
+            "cast_id": 23,
+            "character": "Graveyard Keeper",
+            "credit_id": "52fe4292c3a36847f80290a7",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 15510,
+            "known_for_department": "Acting",
+            "name": "Mickey Yablans",
+            "original_name": "Mickey Yablans",
+            "popularity": 0.3518,
+            "profile_path": null,
+            "cast_id": 24,
+            "character": "Richie",
+            "credit_id": "52fe4292c3a36847f80290ab",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 15511,
+            "known_for_department": "Acting",
+            "name": "Brent Le Page",
+            "original_name": "Brent Le Page",
+            "popularity": 0.2188,
+            "profile_path": null,
+            "cast_id": 25,
+            "character": "Lonnie",
+            "credit_id": "52fe4292c3a36847f80290af",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15513,
+            "known_for_department": "Acting",
+            "name": "Adam Hollander",
+            "original_name": "Adam Hollander",
+            "popularity": 0.2836,
+            "profile_path": null,
+            "cast_id": 26,
+            "character": "Keith",
+            "credit_id": "52fe4292c3a36847f80290b3",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15515,
+            "known_for_department": "Acting",
+            "name": "Robert Phalen",
+            "original_name": "Robert Phalen",
+            "popularity": 0.596,
+            "profile_path": "/3iYiOBKzGkz3Ny9J72aHSqwPfQs.jpg",
+            "cast_id": 27,
+            "character": "Dr.  Wynn",
+            "credit_id": "52fe4292c3a36847f80290b7",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15516,
+            "known_for_department": "Acting",
+            "name": "Tony Moran",
+            "original_name": "Tony Moran",
+            "popularity": 0.5418,
+            "profile_path": "/q8nYJo5WmSl7vdiMi7PDJnjB3C0.jpg",
+            "cast_id": 28,
+            "character": "Michael Myers age 23",
+            "credit_id": "52fe4292c3a36847f80290bb",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15517,
+            "known_for_department": "Acting",
+            "name": "Will Sandin",
+            "original_name": "Will Sandin",
+            "popularity": 0.3829,
+            "profile_path": "/lpjVt9yDvXwH5Ux6f2gagl1JyWC.jpg",
+            "cast_id": 29,
+            "character": "Michael Myers age 6",
+            "credit_id": "52fe4292c3a36847f80290bf",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 15518,
+            "known_for_department": "Acting",
+            "name": "Sandy Johnson",
+            "original_name": "Sandy Johnson",
+            "popularity": 0.6528,
+            "profile_path": "/5x2LWHYLz9uIVGoHYFBFwhyhRst.jpg",
+            "cast_id": 45,
+            "character": "Judith Myers",
+            "credit_id": "5a6944f30e0a260d7b009c38",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15519,
+            "known_for_department": "Acting",
+            "name": "David Kyle",
+            "original_name": "David Kyle",
+            "popularity": 0.3808,
+            "profile_path": "/rrBVDwLAkJKYmqAGzVmKgJhwmXF.jpg",
+            "cast_id": 31,
+            "character": "Boyfriend",
+            "credit_id": "52fe4292c3a36847f80290c7",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1205471,
+            "known_for_department": "Acting",
+            "name": "Peter Griffith",
+            "original_name": "Peter Griffith",
+            "popularity": 0.4288,
+            "profile_path": null,
+            "cast_id": 34,
+            "character": "Laurie's Father",
+            "credit_id": "52fe4292c3a36847f80290d7",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 14692,
+            "known_for_department": "Acting",
+            "name": "Nick Castle",
+            "original_name": "Nick Castle",
+            "popularity": 1.2143,
+            "profile_path": "/bKJuXeKR8GZLyiutiDSCwwCzZ7n.jpg",
+            "cast_id": 35,
+            "character": "The Shape",
+            "credit_id": "52fe4292c3a36847f80290db",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11772,
+            "known_for_department": "Production",
+            "name": "Barry Bernardi",
+            "original_name": "Barry Bernardi",
+            "popularity": 0.6929,
+            "profile_path": null,
+            "cast_id": 36,
+            "character": "Dead Mechanic (uncredited)",
+            "credit_id": "52fe4292c3a36847f80290df",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2955263,
+            "known_for_department": "Acting",
+            "name": "Joseph Cornelius",
+            "original_name": "Joseph Cornelius",
+            "popularity": 0.2515,
+            "profile_path": null,
+            "cast_id": 48,
+            "character": "Classmate (uncredited)",
+            "credit_id": "601252891b70ae003d5b69da",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 152289,
+            "known_for_department": "Acting",
+            "name": "George O'Hanlon, Jr.",
+            "original_name": "George O'Hanlon, Jr.",
+            "popularity": 1.104,
+            "profile_path": "/nO90R7yIhaKxrm30PqS56bxla6D.jpg",
+            "cast_id": 38,
+            "character": "Mr. Peter Myers (uncredited)",
+            "credit_id": "52fe4292c3a36847f80290e7",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1205472,
+            "known_for_department": "Directing",
+            "name": "Darla Rae",
+            "original_name": "Darla Rae",
+            "popularity": 0.5965,
+            "profile_path": "/rczBMauBNLrevswoc17IejBj38W.jpg",
+            "cast_id": 39,
+            "character": "Student (uncredited)",
+            "credit_id": "52fe4292c3a36847f80290eb",
+            "order": 23
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11770,
+            "known_for_department": "Directing",
+            "name": "John Carpenter",
+            "original_name": "John Carpenter",
+            "popularity": 2.6772,
+            "profile_path": "/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
+            "cast_id": 37,
+            "character": "Paul (voice) / Michael Myers (uncredited)",
+            "credit_id": "52fe4292c3a36847f80290e3",
+            "order": 24
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11777,
+            "known_for_department": "Directing",
+            "name": "Tommy Lee Wallace",
+            "original_name": "Tommy Lee Wallace",
+            "popularity": 1.0077,
+            "profile_path": "/tIg8jaCxA0wu1iJHlWUDrsm6SYa.jpg",
+            "cast_id": 47,
+            "character": "Michael Myers (uncredited)",
+            "credit_id": "5f7642d958efd30035ada7eb",
+            "order": 25
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 15494,
+            "known_for_department": "Visual Effects",
+            "name": "Conrad Rothmann",
+            "original_name": "Conrad Rothmann",
+            "popularity": 0.2488,
+            "profile_path": null,
+            "credit_id": "52fe4292c3a36847f8029079",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11770,
+            "known_for_department": "Directing",
+            "name": "John Carpenter",
+            "original_name": "John Carpenter",
+            "popularity": 2.6772,
+            "profile_path": "/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
+            "credit_id": "52fe4292c3a36847f80290d3",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11770,
+            "known_for_department": "Directing",
+            "name": "John Carpenter",
+            "original_name": "John Carpenter",
+            "popularity": 2.6772,
+            "profile_path": "/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
+            "credit_id": "52fe4292c3a36847f80290cd",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11777,
+            "known_for_department": "Directing",
+            "name": "Tommy Lee Wallace",
+            "original_name": "Tommy Lee Wallace",
+            "popularity": 1.0077,
+            "profile_path": "/tIg8jaCxA0wu1iJHlWUDrsm6SYa.jpg",
+            "credit_id": "52fe4291c3a36847f802905b",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15496,
+            "known_for_department": "Crew",
+            "name": "James Winburn",
+            "original_name": "James Winburn",
+            "popularity": 0.4727,
+            "profile_path": "/43dTcCj7f4SPuTI27dbwn07DlbG.jpg",
+            "credit_id": "52fe4292c3a36847f802907f",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11770,
+            "known_for_department": "Directing",
+            "name": "John Carpenter",
+            "original_name": "John Carpenter",
+            "popularity": 2.6772,
+            "profile_path": "/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
+            "credit_id": "52fe4291c3a36847f8029037",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1423849,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Erica Ueland",
+            "original_name": "Erica Ueland",
+            "popularity": 0.3677,
+            "profile_path": null,
+            "credit_id": "52fe4292c3a36847f8029067",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11776,
+            "known_for_department": "Editing",
+            "name": "Charles Bornstein",
+            "original_name": "Charles Bornstein",
+            "popularity": 0.3955,
+            "profile_path": null,
+            "credit_id": "52fe4291c3a36847f802904f",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11779,
+            "known_for_department": "Art",
+            "name": "Craig Stearns",
+            "original_name": "Craig Stearns",
+            "popularity": 0.4474,
+            "profile_path": null,
+            "credit_id": "52fe4292c3a36847f8029061",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15489,
+            "known_for_department": "Production",
+            "name": "Don Behrns",
+            "original_name": "Don Behrns",
+            "popularity": 0.3836,
+            "profile_path": null,
+            "credit_id": "52fe4292c3a36847f802906d",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2161,
+            "known_for_department": "Production",
+            "name": "Debra Hill",
+            "original_name": "Debra Hill",
+            "popularity": 1.0074,
+            "profile_path": "/bpRZDGXm25CUqcejx2bAe1lf2QI.jpg",
+            "credit_id": "52fe4291c3a36847f802903d",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2161,
+            "known_for_department": "Production",
+            "name": "Debra Hill",
+            "original_name": "Debra Hill",
+            "popularity": 1.0074,
+            "profile_path": "/bpRZDGXm25CUqcejx2bAe1lf2QI.jpg",
+            "credit_id": "52fe4291c3a36847f8029043",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1060,
+            "known_for_department": "Camera",
+            "name": "Dean Cundey",
+            "original_name": "Dean Cundey",
+            "popularity": 0.9767,
+            "profile_path": "/5f95wKLwh4OTjGEzNkDhOdixDxU.jpg",
+            "credit_id": "52fe4291c3a36847f8029049",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11777,
+            "known_for_department": "Directing",
+            "name": "Tommy Lee Wallace",
+            "original_name": "Tommy Lee Wallace",
+            "popularity": 1.0077,
+            "profile_path": "/tIg8jaCxA0wu1iJHlWUDrsm6SYa.jpg",
+            "credit_id": "52fe4291c3a36847f8029055",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 15492,
+            "known_for_department": "Sound",
+            "name": "William L. Stevenson",
+            "original_name": "William L. Stevenson",
+            "popularity": 0.4669,
+            "profile_path": null,
+            "credit_id": "52fe4292c3a36847f8029073",
+            "department": "Sound",
+            "job": "Supervising Sound Editor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1563432,
+            "known_for_department": "Directing",
+            "name": "Louise Jaffe",
+            "original_name": "Louise Jaffe",
+            "popularity": 0.4246,
+            "profile_path": null,
+            "credit_id": "606e0c43f5c82400769dfbba",
+            "department": "Directing",
+            "job": "Script Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 62583,
+            "known_for_department": "Camera",
+            "name": "Raymond Stella",
+            "original_name": "Raymond Stella",
+            "popularity": 0.4846,
+            "profile_path": null,
+            "credit_id": "60ec4057a6c1040047e1e287",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11779,
+            "known_for_department": "Art",
+            "name": "Craig Stearns",
+            "original_name": "Craig Stearns",
+            "popularity": 0.4474,
+            "profile_path": null,
+            "credit_id": "60ec407fbc2cb300462e459f",
+            "department": "Art",
+            "job": "Property Master"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1565918,
+            "known_for_department": "Camera",
+            "name": "Kim Gottlieb",
+            "original_name": "Kim Gottlieb",
+            "popularity": 0.4039,
+            "profile_path": null,
+            "credit_id": "60ec4191194186002ff2427a",
+            "department": "Camera",
+            "job": "Still Photographer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 20786,
+            "known_for_department": "Art",
+            "name": "Randy Moore",
+            "original_name": "Randy Moore",
+            "popularity": 0.5806,
+            "profile_path": null,
+            "credit_id": "60ec40b85e12000046043d63",
+            "department": "Art",
+            "job": "Assistant Art Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1538705,
+            "known_for_department": "Sound",
+            "name": "Thomas Causey",
+            "original_name": "Thomas Causey",
+            "popularity": 0.4431,
+            "profile_path": null,
+            "credit_id": "60ec4160a14e10005e9eb195",
+            "department": "Sound",
+            "job": "Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1446536,
+            "known_for_department": "Lighting",
+            "name": "Mark Walthour",
+            "original_name": "Mark Walthour",
+            "popularity": 0.4199,
+            "profile_path": null,
+            "credit_id": "60ec41acce5d82005f6248a6",
+            "department": "Lighting",
+            "job": "Gaffer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1408557,
+            "known_for_department": "Production",
+            "name": "Kool Marder",
+            "original_name": "Kool Marder",
+            "popularity": 0.4167,
+            "profile_path": null,
+            "credit_id": "561bb13e9251415a62000eef",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 64059,
+            "known_for_department": "Production",
+            "name": "Irwin Yablans",
+            "original_name": "Irwin Yablans",
+            "popularity": 0.561,
+            "profile_path": null,
+            "credit_id": "561bb14e9251415a72000f7c",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 66203,
+            "known_for_department": "Directing",
+            "name": "Moustapha Akkad",
+            "original_name": "Moustapha Akkad",
+            "popularity": 0.9093,
+            "profile_path": "/gLoQoPeijlGq74LJ9vjeDEMFl5C.jpg",
+            "credit_id": "5c26c204c3a3683a66d131e0",
+            "department": "Production",
+            "job": "Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 2546,
+            "name": "mask"
+        },
+        {
+            "id": 6149,
+            "name": "police"
+        },
+        {
+            "id": 3335,
+            "name": "halloween"
+        },
+        {
+            "id": 2604,
+            "name": "babysitter"
+        },
+        {
+            "id": 10776,
+            "name": "marijuana"
+        },
+        {
+            "id": 10333,
+            "name": "stalking"
+        },
+        {
+            "id": 10714,
+            "name": "serial killer"
+        },
+        {
+            "id": 14805,
+            "name": "maniac"
+        },
+        {
+            "id": 17987,
+            "name": "killing spree"
+        },
+        {
+            "id": 18035,
+            "name": "family"
+        },
+        {
+            "id": 156075,
+            "name": "evil"
+        },
+        {
+            "id": 157701,
+            "name": "psychotic"
+        },
+        {
+            "id": 207159,
+            "name": "escaped killer"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/zE4I9YvrrMUfwDZ3zLiN10eRZxG.jpg",
+            "id": 11357,
+            "title": "Halloween 4: The Return of Michael Myers",
+            "original_title": "Halloween 4: The Return of Michael Myers",
+            "overview": "Ten years after his original massacre, the invalid Michael Myers awakens on Halloween Eve and returns to Haddonfield to kill his seven-year-old niece.",
+            "poster_path": "/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.5941,
+            "release_date": "1988-10-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.174,
+            "vote_count": 2085
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uEnA2AKtrpX4LCZ98hBLwVkhJEd.jpg",
+            "id": 2082,
+            "title": "Halloween",
+            "original_title": "Halloween",
+            "overview": "The early years of young Michael Myers and the events leading up to his fateful Halloween night murder rampage in the quiet town of Haddonfield, Illinois.",
+            "poster_path": "/cD8JrfSEI4j7WVnKM1GdiYzMoUh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 6.945,
+            "release_date": "2007-08-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.244,
+            "vote_count": 2599
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lDXQNRmQKzJGdEJSDxWrjIZb7gB.jpg",
+            "id": 11281,
+            "title": "Halloween II",
+            "original_title": "Halloween II",
+            "overview": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
+            "poster_path": "/3nX5HHGgOKaVMxXwMLT9DHO1Ne6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 7.2638,
+            "release_date": "1981-10-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.591,
+            "vote_count": 2283
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dmXsktpfHgTNeLFeo5nVItiXuBr.jpg",
+            "id": 517116,
+            "title": "Haunt",
+            "original_title": "Haunt",
+            "overview": "On Halloween, a group of friends encounter an extreme haunted house that promises to feed on their darkest fears. The night turns deadly as they come to the horrifying realisation that some nightmares are real.",
+            "poster_path": "/haQSrjFlq30I60UVN1VsB6uRwKM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.4273,
+            "release_date": "2019-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.669,
+            "vote_count": 1393
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hldPY45usHEt6Zv73oxe1yKyUa0.jpg",
+            "id": 628707,
+            "title": "Trick",
+            "original_title": "Trick",
+            "overview": "A detective tries to track down a masked killer who reappears every Halloween to wreak bloody havoc.",
+            "poster_path": "/vxo4qqrhz61SnAUtlHIbYPzZoBU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.5025,
+            "release_date": "2019-10-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.81,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A1LU0zDxrEhtMYpqDHbXkBJT6aP.jpg",
+            "id": 11675,
+            "title": "Halloween H20: 20 Years Later",
+            "original_title": "Halloween H20: 20 Years Later",
+            "overview": "Two decades after surviving a massacre on October 31, 1978, former baby sitter Laurie Strode finds herself hunted by persistent knife-wielder Michael Myers. Laurie now lives in Northern California under an assumed name, where she works as the headmistress of a private school. But it's not far enough to escape Myers, who soon discovers her whereabouts. As Halloween descends upon Laurie's peaceful community, a feeling of dread weighs upon her -- with good reason.",
+            "poster_path": "/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.6517,
+            "release_date": "1998-08-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.049,
+            "vote_count": 1828
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xnShZK7y4lupUmXghz75HRSooW9.jpg",
+            "id": 9373,
+            "title": "The Texas Chainsaw Massacre",
+            "original_title": "The Texas Chainsaw Massacre",
+            "overview": "After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a chainsaw-wielding killer and his family of equally psychopathic killers.",
+            "poster_path": "/781px1eOtfVt1RdIsL4Dt1s3x7R.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 9.3925,
+            "release_date": "2003-05-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.307,
+            "vote_count": 2979
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+            "id": 4232,
+            "title": "Scream",
+            "original_title": "Scream",
+            "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+            "poster_path": "/3O3klyyYpAZBBE4n7IngzTomRDp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                9648
+            ],
+            "popularity": 17.6964,
+            "release_date": "1996-12-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.433,
+            "vote_count": 8120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fuuZFPc8x6gQ8mLGoBp9vrmcQMT.jpg",
+            "id": 610253,
+            "title": "Halloween Kills",
+            "original_title": "Halloween Kills",
+            "overview": "Michael manages to free himself from Laurie Strode's trap to resume his ritual bloodbath. As she fights for her life from injuries from their last encounter, she inspires her daughter Karen, her granddaughter Allyson, and all of Haddonfield to rise up against the unstoppable monster.",
+            "poster_path": "/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 7.6444,
+            "release_date": "2021-10-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 2948
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eO5hZJjuQRB675g2j9Y7BqDJrGd.jpg",
+            "id": 1502943,
+            "title": "Night of the Reaper",
+            "original_title": "Night of the Reaper",
+            "overview": "A college student returns home for the weekend and reluctantly takes a babysitting job after a local babysitter is brutally murdered. When the town’s sheriff receives chilling evidence that the killing wasn’t an isolated incident, a deadly night unfolds as a masked killer sets the stage for another attack.",
+            "poster_path": "/aHPDlpoNuECG4bojvZiNaeYSbxJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.7094,
+            "release_date": "2025-10-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.359,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hCAOQTMRop2fHjsl8n7yNwpkMJn.jpg",
+            "id": 6466,
+            "title": "Freddy vs. Jason",
+            "original_title": "Freddy vs. Jason",
+            "overview": "Freddy Krueger and Jason Voorhees return to terrorize the teenagers of Elm Street. Only this time, they're out to get each other, too.",
+            "poster_path": "/f9ZASRUfl8Jlco7rgRx3ujPR0P7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 8.501,
+            "release_date": "2003-08-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.098,
+            "vote_count": 2881
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jEt4V0Qb3g8frTl2MOwPORZthVH.jpg",
+            "id": 1160003,
+            "title": "Night of the Hunted",
+            "original_title": "Night of the Hunted",
+            "overview": "When an unsuspecting woman stops at a remote gas station in the dead of night, she's made the plaything of a sociopath sniper with a secret vendetta. To survive, she must not only dodge his bullets and fight for her life, but also figure out who wants her dead and why.",
+            "poster_path": "/84YOsylmgr181BHrTKlmaKs8IzV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 3.6709,
+            "release_date": "2023-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.024,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eH9XCRkbpLq9gm1YiQGm66TYkZd.jpg",
+            "id": 10131,
+            "title": "A Nightmare on Elm Street 4: The Dream Master",
+            "original_title": "A Nightmare on Elm Street 4: The Dream Master",
+            "overview": "Freddy Krueger returns once again to terrorize the dreams of the remaining Dream Warriors, as well as those of a young woman who may be able to defeat him for good.",
+            "poster_path": "/boStYG7jKdoIZTduiOOsUVknD13.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 5.3983,
+            "release_date": "1988-08-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 1655
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4chp6jrqeB9CmyJk6Vh9LviPwnV.jpg",
+            "id": 30554,
+            "title": "When a Stranger Calls Back",
+            "original_title": "When a Stranger Calls Back",
+            "overview": "A retired detective and a crisis-center counselor hunt a killer stalking a coed.",
+            "poster_path": "/m2Aw6vFF9f1UpOOZbWvzAPo8p1P.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                10770
+            ],
+            "popularity": 2.2291,
+            "release_date": "1993-04-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.928,
+            "vote_count": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9dPrFtN7sDUEWOXCTT4rItKOzcR.jpg",
+            "id": 40350,
+            "title": "Fright",
+            "original_title": "Fright",
+            "overview": "Young babysitter Amanda arrives at the Lloyd residence to spend the evening looking after their young son. Soon after the Lloyds leave, a series of frightening occurrences in the gloomy old house have Amanda's nerves on edge. The real terror begins, however, when the child's biological father appears after recently escaping from a nearby mental institution.",
+            "poster_path": "/3HpslY91rWbmbBRPZS0It1uWarD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.2052,
+            "release_date": "1971-09-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.027,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/af7uKmGnrOn4P1zyfFXPQZOCCEp.jpg",
+            "id": 393345,
+            "title": "Cult of Chucky",
+            "original_title": "Cult of Chucky",
+            "overview": "Confined to an asylum for the criminally insane for the past four years, Nica is wrongly convinced that she, not Chucky, murdered her entire family... until a string of grisly deaths occur after her psychiatrist introduces a new group therapy tool -- a \"Good Guy\" doll.",
+            "poster_path": "/r5JUiMYfatwYeDkxkLWYUx5GIjY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.3526,
+            "release_date": "2017-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.853,
+            "vote_count": 1426
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d0QQii706R7jbXed432WRZRLtkd.jpg",
+            "id": 40952,
+            "title": "Alone in the Dark",
+            "original_title": "Alone in the Dark",
+            "overview": "A quartet of murderous psychopaths break out of a mental hospital during a power blackout and lay siege to their doctor's house.",
+            "poster_path": "/5ybBuHOTUMtW000G15WHh31aMNn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.2725,
+            "release_date": "1982-11-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.831,
+            "vote_count": 166
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
+            "id": 16342,
+            "title": "The Children",
+            "original_title": "The Children",
+            "overview": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
+            "poster_path": "/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 2.2077,
+            "release_date": "2008-12-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.066,
+            "vote_count": 422
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nzSjTiecdosBfwMGAdpt9CxltCI.jpg",
+            "id": 377,
+            "title": "A Nightmare on Elm Street",
+            "original_title": "A Nightmare on Elm Street",
+            "overview": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+            "poster_path": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 17.4853,
+            "release_date": "1984-11-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.35,
+            "vote_count": 5837
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4QJtcL4D3abqdX6Snrk8ciRkroa.jpg",
+            "id": 663712,
+            "title": "Terrifier 2",
+            "original_title": "Terrifier 2",
+            "overview": "A year after the Miles County massacre, Art the Clown is resurrected by a sinister entity. Art returns home, where he must hunt down and destroy teenage Sienna and her younger brother Jonathan on Halloween. As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.",
+            "poster_path": "/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 11.5797,
+            "release_date": "2022-10-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.674,
+            "vote_count": 2536
+        }
+    ]
+}

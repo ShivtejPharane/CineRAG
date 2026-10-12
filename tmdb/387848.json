@@ -1,0 +1,637 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/78frwN1N9PeHQB0iXxlxbnAFL1L.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 387848,
+        "imdb_id": "tt6571010",
+        "origin_country": [
+            "KR"
+        ],
+        "original_language": "ko",
+        "original_title": "친구엄마",
+        "overview": "20-year-old Kyeong-soo is a man who's full of assumptions. He learned about sex from Internet porn, but nothing about the real thing. He's only had crushes and has never even kissed before. He got embarrassed when he confessed his feelings to Ji-yeon, his crush. He comforted himself from the shame with Japanese girls in his room with his right hand. One day, he has a fight with his father and remembers his friend Baek-hyeon had invited him over to Gangwon-do. There he falls in love with his friends' mother.",
+        "popularity": 9.8586,
+        "poster_path": "/5JDVEZN0v3e9xMzZbZ92fC7HaQi.jpg",
+        "production_companies": [
+            {
+                "id": 87159,
+                "logo_path": null,
+                "name": "Milk Pictures",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "release_date": "2015-11-12",
+        "revenue": 0,
+        "runtime": 101,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Buddy's Mom",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 15
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1766747,
+            "known_for_department": "Acting",
+            "name": "Kim Young-sam",
+            "original_name": "Kim Young-sam",
+            "popularity": 0.4296,
+            "profile_path": "/pb9SlxZToNmezFYEGfLqS8DL7k6.jpg",
+            "cast_id": 0,
+            "character": "Kyeong-soo (경수)",
+            "credit_id": "58b4a276c3a3685f0b0012bf",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1629943,
+            "known_for_department": "Acting",
+            "name": "Ah Ri",
+            "original_name": "Ah Ri",
+            "popularity": 3.5141,
+            "profile_path": "/8VbXDAHDuHbrOHIgUDDjIwrUidh.jpg",
+            "cast_id": 1,
+            "character": "Jeong Hyeon-ok",
+            "credit_id": "58b4a294c3a3685f0b0012d7",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1963450,
+            "known_for_department": "Acting",
+            "name": "Kim Hae-jin",
+            "original_name": "Kim Hae-jin",
+            "popularity": 0.3559,
+            "profile_path": "/jYuQvi5RVwRq5dr9U0OT7zQD3cG.jpg",
+            "cast_id": 5,
+            "character": "Baek-hyeon (백현)",
+            "credit_id": "5a626353c3a36836b4005190",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1549900,
+            "known_for_department": "Acting",
+            "name": "Park Cho-hyeon",
+            "original_name": "Park Cho-hyeon",
+            "popularity": 2.6373,
+            "profile_path": "/ktAzF54Zrj4h5PbjwdJZvPghFDQ.jpg",
+            "cast_id": 10,
+            "character": "Bae Ji-yeon",
+            "credit_id": "66caa6612696a5edfadaa923",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 577397,
+            "known_for_department": "Acting",
+            "name": "Kim Jae-rok",
+            "original_name": "김재록",
+            "popularity": 0.8659,
+            "profile_path": "/esGLG5p5tlnP7VNFSRyertWeMVS.jpg",
+            "cast_id": 8,
+            "character": "[Kyeong-soo's Father]",
+            "credit_id": "5a6264ab92514167f7005a55",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4843230,
+            "known_for_department": "Acting",
+            "name": "Lee Jeong-gil",
+            "original_name": "이정길",
+            "popularity": 0.6837,
+            "profile_path": "/eiV7V9fY0RoQuaKdnlnAktkpBG8.jpg",
+            "cast_id": 9,
+            "character": "Captain Choi (최선장)",
+            "credit_id": "669eb855c5b831d7b16118b3",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1963454,
+            "known_for_department": "Acting",
+            "name": "Kim Dae-beom",
+            "original_name": "Kim Dae-Beom",
+            "popularity": 0.3715,
+            "profile_path": "/o5cqyTvGwj6lpjmKD16Qx3uhcHM.jpg",
+            "cast_id": 6,
+            "character": "Woo-min (우민)",
+            "credit_id": "5a6263a4c3a36836b9005933",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1766749,
+            "known_for_department": "Acting",
+            "name": "Si Yeong",
+            "original_name": "Si Yeong",
+            "popularity": 0.5455,
+            "profile_path": "/tKAyuBwUrBaZR6tkDRLDs7yezgk.jpg",
+            "cast_id": 11,
+            "character": "Bae Ji-yeon",
+            "credit_id": "69fd8a43fc030cfa73f68267",
+            "order": 7
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1766705,
+            "known_for_department": "Directing",
+            "name": "Kong Ja-kwan",
+            "original_name": "Kong Ja-kwan",
+            "popularity": 0.6743,
+            "profile_path": null,
+            "credit_id": "5a62622c92514168030057ca",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1766705,
+            "known_for_department": "Directing",
+            "name": "Kong Ja-kwan",
+            "original_name": "Kong Ja-kwan",
+            "popularity": 0.6743,
+            "profile_path": null,
+            "credit_id": "5a6262460e0a2671d8005c78",
+            "department": "Writing",
+            "job": "Writer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 1664,
+            "name": "eroticism"
+        },
+        {
+            "id": 155477,
+            "name": "softcore"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/8Id5xQr54BCdVRDQM9i0s8P9BUw.jpg",
+            "id": 75432,
+            "title": "Sweet Sex and Love",
+            "original_title": "맛있는 섹스 그리고 사랑",
+            "overview": "Shin-ah, a free spirit, has an unexpected encounter with Dong-gi, who seeks excitement. After a passionate night, she breaks up with her boyfriend and reunites with Dong-gi when he calls. The two fall madly in love.",
+            "poster_path": "/zu002fbXHiJbtOgKMpOxhb9vJN5.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.4047,
+            "release_date": "2003-06-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rDaAgSzMgSYaSI7wvKYLbbtlwrN.jpg",
+            "id": 60192,
+            "title": "Portrait of a Beauty",
+            "original_title": "미인도",
+            "overview": "Yun-jeong, a skilled painter, disguises herself as a man in court to continue her family's legacy. Circumstances become difficult when her relationship with Kang-mu draws jealousy from the others.",
+            "poster_path": "/xYfGHlsCbOiCCaGeiTPjlVu96bz.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.3726,
+            "release_date": "2008-11-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4E5iitr7WbHdK7P6pMVT4iNMIp4.jpg",
+            "id": 15720,
+            "title": "The Man from Elysian Fields",
+            "original_title": "The Man from Elysian Fields",
+            "overview": "A failed novelist's inability to pay the bills strains relations with his wife and leads him to work at an escort service, where he becomes entwined with a wealthy woman whose husband is a successful writer.",
+            "poster_path": "/mCUzyYDMHNdihZVTVH1g3KvTo8p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 4.2276,
+            "release_date": "2001-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f50TAIeR79Yoh1zYb5Tn58zmIxs.jpg",
+            "id": 118451,
+            "title": "Eungyo",
+            "original_title": "은교",
+            "overview": "A reclusive elderly poet feels the fire of his youth when gamine schoolgirl Eun-gyo enters his life, to the chagrin of the old man's assistant.",
+            "poster_path": "/rbxlxwD0YEK31Fm0QUqDlUo6HZx.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.5119,
+            "release_date": "2012-04-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.748,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AlqDoPCHBqrqRNpAWkAmltIFTR1.jpg",
+            "id": 73454,
+            "title": "X",
+            "original_title": "X",
+            "overview": "A veteran call girl and a runaway prostitute witness a murder which sends them on an out-of-control roller coaster ride through the twilight zone of sex-for-sale.",
+            "poster_path": "/nvU6uTwSpMpitM6mnuYXb1LgxxX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                10749
+            ],
+            "popularity": 7.6368,
+            "release_date": "2011-11-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.401,
+            "vote_count": 324
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2l5pGtlYQoFNip1LIdIE0qzAq9.jpg",
+            "id": 85654,
+            "title": "Fire with Fire",
+            "original_title": "Fire with Fire",
+            "overview": "A tough, street-smart kid serving a sentence in a state youth reformatory meets a beautiful, innocent girl studying at a nearby convent. When forbidden love blossoms between them, they must fight the prison authorities, their parents and the law.",
+            "poster_path": "/1lCi4gHuQmnqn5laJFYZZfaEW9F.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.7138,
+            "release_date": "1986-05-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.15,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fvFrMDT1aKd1bap493IT2KqTLC7.jpg",
+            "id": 434203,
+            "title": "Newness",
+            "original_title": "Newness",
+            "overview": "In contemporary Los Angeles, two millennials navigating a social media–driven hookup culture begin a relationship that pushes both emotional and physical boundaries.",
+            "poster_path": "/vySlYPqOrI5s8Nu6bzpGKQbotVy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 7.3736,
+            "release_date": "2017-11-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.073,
+            "vote_count": 633
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wO8vg2bB4rR7lGtIlZ7mJlcfwJ7.jpg",
+            "id": 540023,
+            "title": "Wander Darkly",
+            "original_title": "Wander Darkly",
+            "overview": "New parents Adrienne and Matteo are forced to reckon with trauma amidst their troubled relationship. They must revisit the memories of their past and unravel haunting truths in order to face their uncertain future.",
+            "poster_path": "/96snLzPYifC4FyL2uOnzo4DPgCv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.4693,
+            "release_date": "2020-12-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.028,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
+            "id": 763148,
+            "title": "Time Is Up",
+            "original_title": "Time Is Up",
+            "overview": "Vivien, an accomplished student with a passion for physics, and Roy, a troubled young man, are involved in an accident that forces them to reclaim their lives one minute at the time.",
+            "poster_path": "/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 3.8679,
+            "release_date": "2021-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.462,
+            "vote_count": 732
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5HUWQDUJMIL4Di2C5TC2eU6f7tU.jpg",
+            "id": 16447,
+            "title": "Woman Is the Future of Man",
+            "original_title": "여자는 남자의 미래다",
+            "overview": "As the first snow falls in Seoul, two old friends reunite; one is a successful college professor, and the other, a struggling filmmaker recently returned from the United States. After their reminiscences, they finally decide to go in search of the young woman each had romanced years earlier.",
+            "poster_path": "/3bovtjGw5XB3aDKaWkfYnCupBbI.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 1.9432,
+            "release_date": "2004-05-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.09,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+            "id": 337167,
+            "title": "Fifty Shades Freed",
+            "original_title": "Fifty Shades Freed",
+            "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+            "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 21.7635,
+            "release_date": "2018-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.67,
+            "vote_count": 8405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AdRO1ZGa8Or4inBr8Bb557NV0Ba.jpg",
+            "id": 172226,
+            "title": "In Secret",
+            "original_title": "In Secret",
+            "overview": "In 1860s Paris, a young woman, Therese, is trapped in a loveless marriage to the sickly Camille by her domineering aunt, Madame Raquin. She spends her days behind the counter of a small shop and her evenings watching Madame play dominos with an eclectic group. After she meets her husband’s alluring friend, Laurent, she embarks on an illicit affair that leads to tragic consequences. Based on Emile Zola’s novel, Thérèse Raquin.",
+            "poster_path": "/iJSTzDyF2BKB9mcor7slIOOXSBD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                80,
+                10749
+            ],
+            "popularity": 8.6068,
+            "release_date": "2014-02-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.12,
+            "vote_count": 258
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d9COll7H2LaS1GK4t6OnkpkycKf.jpg",
+            "id": 610781,
+            "title": "See You Soon",
+            "original_title": "See You Soon",
+            "overview": "A U.S. soccer star suffers a career-threatening injury in the run-up to the World Cup, and during his recovery, embarks on an epic romance with a Russian single mom.",
+            "poster_path": "/nKOHCFfMsTSpLAIQKMwXotdEggs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.3099,
+            "release_date": "2019-07-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.938,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9qYD7pAOEdYBoQblv5VAMMSVAC8.jpg",
+            "id": 1078600,
+            "title": "Marked Men: Rule + Shaw",
+            "original_title": "Marked Men: Rule + Shaw",
+            "overview": "Shaw Landon has loved Rule Archer from the moment she laid eyes on him. Rule, a fiery-tempered rebel tattoo artist, doesn’t have time for a good girl pre-med student like Shaw — even if she’s the only one who can see the person he truly is. She lives by other people’s rules; he makes his own. But a short skirt, too many birthday cocktails, and spilled secrets lead to a night neither can forget. Now, Shaw and Rule must figure out how a girl like her and a guy like him are supposed to be together without destroying their love…or each other.",
+            "poster_path": "/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 6.2743,
+            "release_date": "2025-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 253
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
+            "id": 744114,
+            "title": "My Policeman",
+            "original_title": "My Policeman",
+            "overview": "In the late 1990s, the arrival of elderly invalid Patrick into Marion and Tom’s home triggers the exploration of seismic events from 40 years previous: the passionate relationship between Tom and Patrick at a time when homosexuality was illegal.",
+            "poster_path": "/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.6251,
+            "release_date": "2022-10-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.527,
+            "vote_count": 780
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+            "id": 1317672,
+            "title": "Love Me Love Me",
+            "original_title": "Love Me Love Me",
+            "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+            "poster_path": "/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 14.5319,
+            "release_date": "2026-02-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 293
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tMtXSrEeh2rueJQVWMom78ZBhG0.jpg",
+            "id": 364733,
+            "title": "Blind",
+            "original_title": "Blind",
+            "overview": "A novelist is blinded in a car crash that killed his wife and several years later rediscovers his passion for life and writing when he embarks on an affair with the neglected wife of an indicted businessman.",
+            "poster_path": "/cXyObe5aB63ueOndEXxXabgAvIi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.604,
+            "release_date": "2017-07-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.11,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kr4V9a8BdXAVAd1WaEdV6nDrTlL.jpg",
+            "id": 250225,
+            "title": "The Duke of Burgundy",
+            "original_title": "The Duke of Burgundy",
+            "overview": "Day in and day out, lovers Cynthia and Evelyn enact an elaborate sadomasochistic fantasy as mistress and maid. But as their ritual of domination and submission begins to turn stale, Cynthia yearns for something more conventional, while Evelyn tries to push their taboos even further.",
+            "poster_path": "/72ctjjts0j8OFQkIFODT6RnYbBK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.7641,
+            "release_date": "2015-02-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.319,
+            "vote_count": 381
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gJZEZRpWRyoalaboAR6kpIHGK4u.jpg",
+            "id": 77985,
+            "title": "Maria's Lovers",
+            "original_title": "Maria's Lovers",
+            "overview": "A World War II prisoner returns home to his childhood sweetheart. However, back home, he discovers that he has to compete to win her love.",
+            "poster_path": "/tWDuhuZaH6lsCnkBYXuWxJPJnkI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.6854,
+            "release_date": "1984-07-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.023,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/53f29bdN46K7UT17OCYQ0sBZBdm.jpg",
+            "id": 31005,
+            "title": "Moonlight Mile",
+            "original_title": "Moonlight Mile",
+            "overview": "As he copes with the death of his fiancee along with her parents, a young man must figure out what he wants out of life.",
+            "poster_path": "/jKDnCPUkL4QsgeqKCtyNMPL2XUU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.4891,
+            "release_date": "2002-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.31,
+            "vote_count": 245
+        }
+    ]
+}

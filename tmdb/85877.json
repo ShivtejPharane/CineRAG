@@ -1,0 +1,782 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/AlW7KZl1HMD1nulwNcp9grQJoRN.jpg",
+        "belongs_to_collection": {
+            "id": 680723,
+            "name": "The Fruit is Ripe Series",
+            "poster_path": "/vP6QEHbKpl4IRvtmFZdEJxVjcak.jpg",
+            "backdrop_path": "/dRbKPalZnixqJCq6F33TRLBrOK8.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "homepage": "",
+        "id": 85877,
+        "imdb_id": "tt2084885",
+        "origin_country": [
+            "HK"
+        ],
+        "original_language": "cn",
+        "original_title": "蜜桃成熟時33D",
+        "overview": "A young woman named Future is sent from the year 2046 to the year 2011 in Hong Kong. Future was sent by the United Nations in order to get pregnant, where she can then extract her genes and repopulate the earth as 99% of males have become infertile in the future due to attacks from Planet Xucker. Two assassins from Xuckler are sent after her to stop her. Future meets three University students: Felix, Dan-san and Sing. The men are obsessed with female students next door: Chin-chin, Chen-chen and Sai-sai. The students agree to help Future find a mate at the university.",
+        "popularity": 9.995,
+        "poster_path": "/bBC1fBHyFBmc6fn4UDedtkOVSaD.jpg",
+        "production_companies": [
+            {
+                "id": 13958,
+                "logo_path": "/yblRwoxf2sGIzzWVy8scyidp7j2.png",
+                "name": "My Way Film Company",
+                "origin_country": "HK"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "release_date": "2011-10-06",
+        "revenue": 0,
+        "runtime": 82,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Cantonese",
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The 33D Invader",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 32
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 932685,
+            "known_for_department": "Acting",
+            "name": "Wu Qing-Qing",
+            "original_name": "Wu Qing-Qing",
+            "popularity": 1.2394,
+            "profile_path": "/hWyv7q3e3NiwiC0SZK3PaSVkzVi.jpg",
+            "cast_id": 2,
+            "character": "Future",
+            "credit_id": "52fe49639251416c910abb63",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1172983,
+            "known_for_department": "Acting",
+            "name": "Chen Jun-Yan",
+            "original_name": "Chen Jun-Yan",
+            "popularity": 0.525,
+            "profile_path": "/96m9hVtRok03kHlLZDsFib1DKyC.jpg",
+            "cast_id": 13,
+            "character": "Lawrence",
+            "credit_id": "52fe49639251416c910abb91",
+            "order": 1
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 932686,
+            "known_for_department": "Acting",
+            "name": "Akiho Yoshizawa",
+            "original_name": "吉沢明歩",
+            "popularity": 0.0,
+            "profile_path": "/8D9yS5Bc0BL3bSnoWE4CtJqteAM.jpg",
+            "cast_id": 3,
+            "character": "Jeana",
+            "credit_id": "52fe49639251416c910abb67",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 932687,
+            "known_for_department": "Acting",
+            "name": "Taka Katou",
+            "original_name": "加藤鷹",
+            "popularity": 2.4796,
+            "profile_path": "/7L6z6ZwwberC4yt312QyX8RXpx5.jpg",
+            "cast_id": 20,
+            "character": "Xucker 1",
+            "credit_id": "686cab8f32fe6c4e7fe7fd00",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5551091,
+            "known_for_department": "Acting",
+            "name": "Ya-Wen Hsueh",
+            "original_name": "Ya-Wen Hsueh",
+            "popularity": 0.6684,
+            "profile_path": null,
+            "cast_id": 21,
+            "character": "Xucker 2",
+            "credit_id": "686cabfe8c25073af2cee9ac",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1172980,
+            "known_for_department": "Acting",
+            "name": "Monna Lam Yi-Chi",
+            "original_name": "Monna Lam",
+            "popularity": 0.8289,
+            "profile_path": "/rLnO24tRdzgkgmzJkTZoLXGtC2u.jpg",
+            "cast_id": 9,
+            "character": "Jane",
+            "credit_id": "52fe49639251416c910abb81",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5551095,
+            "known_for_department": "Acting",
+            "name": "Lee Ko-Chu",
+            "original_name": "Lee Ko-Chu",
+            "popularity": 0.5509,
+            "profile_path": "/iGUPrbMOrZoMJK9naGzSuFVeKhq.jpg",
+            "cast_id": 22,
+            "character": "Mia",
+            "credit_id": "686cacbac55cd072b9103d42",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3606303,
+            "known_for_department": "Acting",
+            "name": "Chen Chih-Ying",
+            "original_name": "Chen Chih-Ying",
+            "popularity": 1.2248,
+            "profile_path": null,
+            "cast_id": 17,
+            "character": "Cici",
+            "credit_id": "62bd072b1b722c005147f9e3",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2165682,
+            "known_for_department": "Acting",
+            "name": "Tsui Ho-Cheong",
+            "original_name": "徐浩昌",
+            "popularity": 0.7,
+            "profile_path": "/jtVTaw3HaLQx9H0pobtiAa4fRxZ.jpg",
+            "cast_id": 24,
+            "character": "Stephen",
+            "credit_id": "69f4e678ad1bfc3a8975152c",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1132643,
+            "known_for_department": "Acting",
+            "name": "Justin Cheung Kin-Sing",
+            "original_name": "張建聲",
+            "popularity": 1.1869,
+            "profile_path": "/hqxOPdP5VqslC18uGJzozaOLKaZ.jpg",
+            "cast_id": 16,
+            "character": "Felix",
+            "credit_id": "5b2e39839251416e1f0048d6",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4813268,
+            "known_for_department": "Acting",
+            "name": "Andrew Kwok Hon-Chu",
+            "original_name": "Andrew Kwok Hon-Chu",
+            "popularity": 0.2865,
+            "profile_path": null,
+            "cast_id": 23,
+            "character": "Danson",
+            "credit_id": "69f4e661b229cbfc690133f7",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 144511,
+            "known_for_department": "Acting",
+            "name": "Samuel Leung Cheuk-Moon",
+            "original_name": "梁焯滿",
+            "popularity": 2.065,
+            "profile_path": "/ofXJUzBXAnYeA8NLlihaSHTG5Vn.jpg",
+            "cast_id": 11,
+            "character": "Sean",
+            "credit_id": "52fe49639251416c910abb89",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 87944,
+            "known_for_department": "Acting",
+            "name": "Law Kar-Ying",
+            "original_name": "羅家英",
+            "popularity": 1.5068,
+            "profile_path": "/ly8lSEpKrjciOucpSLQjcj3JcnI.jpg",
+            "cast_id": 10,
+            "character": "Detective Hawk",
+            "credit_id": "52fe49639251416c910abb85",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1384854,
+            "known_for_department": "Acting",
+            "name": "Gill Mohindepaul Singh",
+            "original_name": "喬寶寶",
+            "popularity": 0.5848,
+            "profile_path": "/cZoMrOKuATutJJ5RuKbrmbDugv9.jpg",
+            "cast_id": 18,
+            "character": "Professor",
+            "credit_id": "676b6d638594633963a9f334",
+            "order": 13
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1044998,
+            "known_for_department": "Writing",
+            "name": "Sean Chan",
+            "original_name": "陳尚存",
+            "popularity": 0.4012,
+            "profile_path": null,
+            "credit_id": "52fe49639251416c910abb71",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1166355,
+            "known_for_department": "Production",
+            "name": "Cheung Kai-Ping ",
+            "original_name": "Cheung Kai-Ping ",
+            "popularity": 0.2872,
+            "profile_path": null,
+            "credit_id": "52fe49639251416c910abb77",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 109299,
+            "known_for_department": "Directing",
+            "name": "Cash Chin Man-Kei",
+            "original_name": "錢文錡",
+            "popularity": 0.8064,
+            "profile_path": "/mNcP5P0BslIYpYyK83j0ZFenkPK.jpg",
+            "credit_id": "532ef1989251413a8100373e",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1340353,
+            "known_for_department": "Acting",
+            "name": "Lee Tat-Chiu",
+            "original_name": "李達超",
+            "popularity": 0.7721,
+            "profile_path": "/jnW6iQV6Pn9bzm6et61cpXxuu1Z.jpg",
+            "credit_id": "6794793e7660f09f3f48695b",
+            "department": "Crew",
+            "job": "Choreographer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 4379,
+            "name": "time travel"
+        },
+        {
+            "id": 7984,
+            "name": "bikini"
+        },
+        {
+            "id": 155477,
+            "name": "softcore"
+        },
+        {
+            "id": 155606,
+            "name": "semen"
+        },
+        {
+            "id": 267122,
+            "name": "sex"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/hmLfKkw8adwLvS89SOTYY88ZpN9.jpg",
+            "id": 10596,
+            "title": "Replicant",
+            "original_title": "Replicant",
+            "overview": "Scientists create a genetic clone of a serial killer in order to help catch the killer, teaming up with two cops.",
+            "poster_path": "/hqGICSVZq6xLFKl5fBgLi6fC0yt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "popularity": 3.9226,
+            "release_date": "2001-05-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.844,
+            "vote_count": 543
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/awheDRLnoNjb073VfI4mFpaB8Ml.jpg",
+            "id": 10366,
+            "title": "Universal Soldier: The Return",
+            "original_title": "Universal Soldier: The Return",
+            "overview": "Luc Deveraux, the heroic former Universal Soldier, is about to be thrown into action once again. When SETH, the supercomputer-controlled ultra-warrior, decides to take revenge and destroy its creators, only Luc can stop it. All hell breaks loose as Luc battles SETH and a deadly team of perfect soldiers in a struggle that pits man against machine and good against evil.",
+            "poster_path": "/qlcPJK0Me8aUtDPwk3TqN2RdKH4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "popularity": 6.1857,
+            "release_date": "1999-08-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.879,
+            "vote_count": 1360
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/obApq0Prmf740t0b3QoxoSxjYW1.jpg",
+            "id": 11827,
+            "title": "Heavy Metal",
+            "original_title": "Heavy Metal",
+            "overview": "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+            "poster_path": "/atUtWrDlLzT1yeVK2EoYtvbS963.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                878,
+                12,
+                14,
+                10402
+            ],
+            "popularity": 6.7606,
+            "release_date": "1981-08-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.526,
+            "vote_count": 805
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cT0YCYCtAQC8wi56VWK1JRGgk3a.jpg",
+            "id": 5549,
+            "title": "RoboCop 2",
+            "original_title": "RoboCop 2",
+            "overview": "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP's path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+            "poster_path": "/nhqBxhOJXUJeFsyLxTFkctH9H5F.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "popularity": 7.2791,
+            "release_date": "1990-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 2170
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5wHcVeMuUNlgQ2JvN0bVQ4sSDeM.jpg",
+            "id": 28339,
+            "title": "Hard to Die",
+            "original_title": "Hard to Die",
+            "overview": "While doing the inventory for a lingerie outlet in a high rise office building, five attractive women are terrorized by a series of bizarre killings. They suspect that the strange janitor, who witnessed another series of killings six months previously, is at the bottom of the whole thing. Little do they know the real horror that they face in the end.",
+            "poster_path": "/sQPdz28o3LmEaknwwnKB8zqqIYF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "popularity": 7.986,
+            "release_date": "1990-10-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.058,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3hnTZNtn17IGQlgZSvOC8v0hW2b.jpg",
+            "id": 51620,
+            "title": "Death Race 2",
+            "original_title": "Death Race 2",
+            "overview": "In the world's most dangerous prison, a new game is born: Death Race. The rules of this adrenaline-fueled blood sport are simple, drive or die. When repentant convict Carl Lucas discovers there's a price on his head, his only hope is to survive a twisted race against an army of hardened criminals and tricked-out cars.",
+            "poster_path": "/80mBFNVvak2bA9TJN1MD0yM7Lfi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "popularity": 7.0808,
+            "release_date": "2010-11-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.851,
+            "vote_count": 1221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hXNiSA21uPj2ywM94p4WpXY0F3p.jpg",
+            "id": 31867,
+            "title": "Repo Men",
+            "original_title": "Repo Men",
+            "overview": "In the future, medical technology has advanced to the point where people can buy artificial organs to extend their lives. But if they default on payments, an organization known as the Union sends agents to repossess the organs. Remy is one of the best agents in the business, but when he becomes the recipient of an artificial heart, he finds himself in the same dire straits as his many victims.",
+            "poster_path": "/1ZA5kEKuA6HgbyzZXXlyU4piNI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                53,
+                80
+            ],
+            "popularity": 7.055,
+            "release_date": "2010-03-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.343,
+            "vote_count": 2148
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
+            "id": 1390300,
+            "title": "Over Your Dead Body",
+            "original_title": "Over Your Dead Body",
+            "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+            "poster_path": "/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "popularity": 23.5944,
+            "release_date": "2026-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.472,
+            "vote_count": 502
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qV4zzpe4mfXnmFIOL6uugnUcM9R.jpg",
+            "id": 11484,
+            "title": "Rollerball",
+            "original_title": "Rollerball",
+            "overview": "In a corporate-controlled future, an ultra-violent sport known as Rollerball represents the world, and one of its powerful athletes is out to defy those who want him out of the game.",
+            "poster_path": "/cmcipEfexlhVLYQXqeSWp1YcsPY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28
+            ],
+            "popularity": 3.4868,
+            "release_date": "1975-06-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.271,
+            "vote_count": 628
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3J1FwvI0JiploGrwsIQ4MTKaW1s.jpg",
+            "id": 156717,
+            "title": "Death Race: Inferno",
+            "original_title": "Death Race: Inferno",
+            "overview": "Carl Lucas / Frankenstein has won four of his races and needs to win one more to win his freedom. Before his final race, Lucas and his team, car and all, are transferred to another prison where they will compete in a Death Race in the desert. Also, at the same time, Ceaser runs into a marketer who wants to franchise the Death Race program.",
+            "poster_path": "/aRV4oC61nmBqypSaXtMXOk99dOM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "popularity": 4.7848,
+            "release_date": "2013-01-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 846
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vTPgBrqEhIIqeZOCqrdNjyXzK4c.jpg",
+            "id": 1219926,
+            "title": "South Park (Not Suitable for Children)",
+            "original_title": "South Park (Not Suitable for Children)",
+            "overview": "After it's discovered that a teacher at South Park Elementary has an OnlyFans page, Randy is compelled to take a closer look at the seedy underbelly of the world of online influencers.",
+            "poster_path": "/kN5H9EhUqDWBAsbnbt2XNhS7BFe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10770
+            ],
+            "popularity": 3.347,
+            "release_date": "2023-12-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.46,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b4zuUZ1VJVb6wljjUEGJEwSYz1k.jpg",
+            "id": 455236,
+            "title": "Accident Man",
+            "original_title": "Accident Man",
+            "overview": "Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.",
+            "poster_path": "/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                12,
+                35
+            ],
+            "popularity": 5.4111,
+            "release_date": "2018-02-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 605
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2wOlXuK4NzPDQ0OBZiJjNNOp6Y.jpg",
+            "id": 861,
+            "title": "Total Recall",
+            "original_title": "Total Recall",
+            "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid's memory implant procedure, his life turns upside down, leading him to question what is reality and what isn't.",
+            "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 16.9255,
+            "release_date": "1990-06-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.325,
+            "vote_count": 6582
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/75UkXLlLedidOGo0VogF0A0NPfC.jpg",
+            "id": 1493859,
+            "title": "Pizza Movie",
+            "original_title": "Pizza Movie",
+            "overview": "A group of college students go downstairs to their dorm lobby to get a delivery pizza. There's only one issue: They're insanely high on a homemade drug, turning their simple journey down two sets of stairs into a mind-bendingly transformative quest.",
+            "poster_path": "/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "popularity": 9.437,
+            "release_date": "2026-03-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.408,
+            "vote_count": 136
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8cAtMxn5unNCpuVQ318d4Uf4jUl.jpg",
+            "id": 308024,
+            "title": "The Overnight",
+            "original_title": "The Overnight",
+            "overview": "Alex, Emily, and their son, RJ, are new to Los Angeles. A chance meeting at the park introduces them to the mysterious Kurt, Charlotte, and Max. A family “playdate” becomes increasingly interesting as the night goes on.",
+            "poster_path": "/8DDEGc6vifxxYdkym3G99AMlITG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                35
+            ],
+            "popularity": 3.7036,
+            "release_date": "2015-06-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.946,
+            "vote_count": 364
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3a3Ch56Y7n8ouiAXPdFDmVLnvWz.jpg",
+            "id": 19384,
+            "title": "Dark Angel",
+            "original_title": "Dark Angel",
+            "overview": "Jack Caine is a Houston vice cop who's forgotten the rule book. His self-appointed mission is to stop the drugs trade and the number one supplier Victor Manning. While involved in an undercover operation to entrap Victor Manning, his partner is killed, and a sinister newcomer enters the scene...",
+            "poster_path": "/zwsesgAluQKDmdAA2nhlEc4FhFd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "popularity": 7.5571,
+            "release_date": "1990-01-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.112,
+            "vote_count": 387
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+            "id": 8810,
+            "title": "Mad Max 2",
+            "original_title": "Mad Max 2",
+            "overview": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
+            "poster_path": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "popularity": 11.7605,
+            "release_date": "1981-12-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 4246
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/agxzi8QIXWnZgLxwHck8wdjfYk7.jpg",
+            "id": 325348,
+            "title": "Hardcore Henry",
+            "original_title": "Hardcore Henry",
+            "overview": "Henry, a newly resurrected cyborg who must save his wife/creator from the clutches of a psychotic tyrant with telekinetic powers, AKAN, and his army of mercenaries. Fighting alongside Henry is Jimmy, who is Henry's only hope to make it through the day. Hardcore Henry takes place over the course of one day, in Moscow, Russia.",
+            "poster_path": "/ik1uZyiMSxF9HqrgRKUNfMCfr3z.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 6.4981,
+            "release_date": "2015-09-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.414,
+            "vote_count": 2714
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2GmnhciVW262POiTCx43TTSvys3.jpg",
+            "id": 13460,
+            "title": "Doomsday",
+            "original_title": "Doomsday",
+            "overview": "The lethal Reaper virus spreads throughout Britain—infecting millions and killing hundreds of thousands. Authorities brutally and successfully quarantine the country but, three decades later, the virus resurfaces in a major city. An elite group of specialists is urgently dispatched into the still-quarantined country to retrieve a cure by any means necessary. Shut off from the rest of the world, the unit must battle through a landscape that has become a waking nightmare.",
+            "poster_path": "/cKUmTyXgmhv8cMRCY9RYTKcAeTn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "popularity": 6.8782,
+            "release_date": "2008-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.939,
+            "vote_count": 1427
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pPzl3ae97wcU72yDE9PDl4qq446.jpg",
+            "id": 14262,
+            "title": "Desperate Living",
+            "original_title": "Desperate Living",
+            "overview": "After killing her husband, Peggy Gravel and her murderous maid Grizelda wind up in the crazy town of Mortville, where Queen Carlotta presides over a sleazy collection of misfits.",
+            "poster_path": "/kqEZ1CbxtrXtpAT1jeYfo52um3s.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 4.9553,
+            "release_date": "1977-05-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.347,
+            "vote_count": 121
+        }
+    ]
+}

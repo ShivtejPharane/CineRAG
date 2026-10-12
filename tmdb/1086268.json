@@ -1,0 +1,698 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/bScbcVOg6ssfKjnIMidwNrtpOfz.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1086268,
+        "imdb_id": "tt20601934",
+        "origin_country": [
+            "RS"
+        ],
+        "original_language": "sr",
+        "original_title": "Тrоје",
+        "overview": "Ivan and Vera are a young married couple. Both successful in their work, they live in a luxurious villa with their daughters, Petra and Vanja. Aleksandar is their best friend, an architect, as well as Vera's work colleague, who regularly spends time with Ivan and Vera. Aleksanadar and Ivan are friends from childhood, they often go out to nightclubs where Ivan leads a double life. Everything will change one day when the surprising proposal Alexander makes to Ivan does havoc in their lives.",
+        "popularity": 24.8169,
+        "poster_path": "/5mKQPfSpfR0BleflXfV5tyfsh3c.jpg",
+        "production_companies": [
+            {
+                "id": 182254,
+                "logo_path": null,
+                "name": "Apollon",
+                "origin_country": "RS"
+            },
+            {
+                "id": 126747,
+                "logo_path": "/7DyXLUnWyMtKHzNThInTZnpdoWi.png",
+                "name": "TS Media",
+                "origin_country": "RS"
+            },
+            {
+                "id": 205728,
+                "logo_path": null,
+                "name": "Pink Media Group",
+                "origin_country": "RS"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RS",
+                "name": "Serbia"
+            }
+        ],
+        "release_date": "2023-03-01",
+        "revenue": 0,
+        "runtime": 97,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Serbian",
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Three",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1053340,
+            "known_for_department": "Acting",
+            "name": "Igor Đorđević",
+            "original_name": "Igor Đorđević",
+            "popularity": 0.7081,
+            "profile_path": "/4wfjR5I9snCOlO2naz9nKFZw7kw.jpg",
+            "cast_id": 1,
+            "character": "Ivan",
+            "credit_id": "63ea77a86c8492008dc4cfe5",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1990114,
+            "known_for_department": "Acting",
+            "name": "Marina Ćosić",
+            "original_name": "Marina Ćosić",
+            "popularity": 1.52,
+            "profile_path": "/iVUZ3PHgWNWKYvuT37B8VzCjyG3.jpg",
+            "cast_id": 2,
+            "character": "Vera",
+            "credit_id": "63ea77b46c84920097008dae",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1053347,
+            "known_for_department": "Acting",
+            "name": "Damjan Kecojević",
+            "original_name": "Damjan Kecojević",
+            "popularity": 0.4787,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "Aleksandar",
+            "credit_id": "63ea77c0d388ae008699a7b7",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4008240,
+            "known_for_department": "Acting",
+            "name": "Klara Kokanović",
+            "original_name": "Klara Kokanović",
+            "popularity": 0.5045,
+            "profile_path": null,
+            "cast_id": 17,
+            "character": "Galeristkinja",
+            "credit_id": "6437cfb4c2679600bde72696",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3233691,
+            "known_for_department": "Acting",
+            "name": "Mladen Lero",
+            "original_name": "Mladen Lero",
+            "popularity": 0.7178,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "63ea77e912777800dc842c38",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4008242,
+            "known_for_department": "Acting",
+            "name": "Jovana Mladenović",
+            "original_name": "Jovana Mladenović",
+            "popularity": 0.6031,
+            "profile_path": null,
+            "cast_id": 18,
+            "character": "",
+            "credit_id": "6437cfdf4a52f800d5e344a7",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3919248,
+            "known_for_department": "Acting",
+            "name": "Ana Radanović",
+            "original_name": "Ana Radanović",
+            "popularity": 0.3223,
+            "profile_path": null,
+            "cast_id": 9,
+            "character": "",
+            "credit_id": "63ea781e6c8492007d275357",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3919247,
+            "known_for_department": "Acting",
+            "name": "Natalija Radanović",
+            "original_name": "Natalija Radanović",
+            "popularity": 0.2966,
+            "profile_path": null,
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "63ea781663aad2008588d5bf",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2158632,
+            "known_for_department": "Acting",
+            "name": "Danica Radulović",
+            "original_name": "Danica Radulović",
+            "popularity": 0.3761,
+            "profile_path": null,
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "63ea7806a2e60200d4b00ff5",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2794133,
+            "known_for_department": "Acting",
+            "name": "Dejan Tončić",
+            "original_name": "Dejan Tončić",
+            "popularity": 0.4156,
+            "profile_path": "/uFjYuKGCfNP8QKgLhGfIxLEvBPd.jpg",
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "63ea77fd63aad200bd93463d",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3760218,
+            "known_for_department": "Acting",
+            "name": "Milica Vrzić",
+            "original_name": "Milica Vrzić",
+            "popularity": 0.412,
+            "profile_path": "/mYH0Po7pHc2UhQAaD4izfEDRb1n.jpg",
+            "cast_id": 5,
+            "character": "Nataša",
+            "credit_id": "63ea77f31277780081a4ebfc",
+            "order": 10
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 226300,
+            "known_for_department": "Writing",
+            "name": "Petar Pašić",
+            "original_name": "Petar Pašić",
+            "popularity": 0.3774,
+            "profile_path": null,
+            "credit_id": "63ea78486c849200851c1c3d",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1053352,
+            "known_for_department": "Acting",
+            "name": "Željko Mitrović",
+            "original_name": "Željko Mitrović",
+            "popularity": 0.4003,
+            "profile_path": null,
+            "credit_id": "63ea786c9512e10079419884",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3919249,
+            "known_for_department": "Production",
+            "name": "Igor Turčinović",
+            "original_name": "Igor Turčinović",
+            "popularity": 0.1562,
+            "profile_path": null,
+            "credit_id": "63ea787b127778008960964a",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1559064,
+            "known_for_department": "Acting",
+            "name": "Katarina Nikolić",
+            "original_name": "Katarina Nikolić",
+            "popularity": 0.3626,
+            "profile_path": null,
+            "credit_id": "63efd8cecaaca2008576dedd",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 226300,
+            "known_for_department": "Writing",
+            "name": "Petar Pašić",
+            "original_name": "Petar Pašić",
+            "popularity": 0.3774,
+            "profile_path": null,
+            "credit_id": "63efd8d6a6725400a3a1fad9",
+            "department": "Writing",
+            "job": "Writer"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/bBK5j3FUk2qy5KtHXMJDLdKH7Ba.jpg",
+            "id": 35030,
+            "title": "The Young One",
+            "original_title": "La joven",
+            "overview": "A jazz musician seeks refuge from a lynch mob on a remote island, where he meets a hostile game warden and the young object of his attentions.",
+            "poster_path": "/vgqmNCe9PKibdGpdWuhA6Ozuso.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.0625,
+            "release_date": "1960-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/te5GuHx6WoyClws4Gs4rBD6efdd.jpg",
+            "id": 520390,
+            "title": "The Kindness of Strangers",
+            "original_title": "The Kindness of Strangers",
+            "overview": "Clara and her two sons escape from her abusive husband with little more than their car and plan to start over in New York. After the car towed away, the family meets Alice, who gets them into an emergency shelter. While stealing food at a Russian restaurant called ‘Winter Palace’, Clara meets Marc, who has been given the chance to help the old eatery regain its former glory. The ‘Winter Palace’ soon becomes a place of unexpected encounters between people who are all undergoing some sort of crisis and whom fate has now brought together.",
+            "poster_path": "/9E9CB9YdhBl2q9tMqqXfKgf9hyP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.7098,
+            "release_date": "2019-12-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.332,
+            "vote_count": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pbvsoMOOgzqJCpUCnHWwbZqw98D.jpg",
+            "id": 545237,
+            "title": "The Nest",
+            "original_title": "The Nest",
+            "overview": "Rory is an ambitious entrepreneur who brings his American wife and kids to his native country, England, to explore new business opportunities. After abandoning the sanctuary of their safe American suburban surroundings, the family is plunged into the despair of an archaic '80s Britain and their unaffordable new life in an English manor house threatens to destroy the family.",
+            "poster_path": "/mSTrRgXGzu2t1jVhTexIqwSHlk7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.8193,
+            "release_date": "2020-05-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.081,
+            "vote_count": 390
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kk1MMdWF9Z4vBMM0ebBjD7G5zFf.jpg",
+            "id": 127373,
+            "title": "What Maisie Knew",
+            "original_title": "What Maisie Knew",
+            "overview": "In New York City, a young girl is caught in the middle of her parents' bitter custody battle.",
+            "poster_path": "/1unkWKdT68ba6NdiSsPqzJeylxc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.0972,
+            "release_date": "2013-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.117,
+            "vote_count": 452
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uTtsYLaC9b8joDKy4YGsMxfo3cp.jpg",
+            "id": 547590,
+            "title": "El Chicano",
+            "original_title": "El Chicano",
+            "overview": "A pair of twin brothers from East L.A. choose to live their lives differently and end up on opposite sides of the law.",
+            "poster_path": "/6LSJL2KHUAxSjDTWA5V5Cr7sNNd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4814,
+            "release_date": "2019-05-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.621,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lhUGNUm0eCl4SoZRL4nbQYs0HGX.jpg",
+            "id": 295886,
+            "title": "Brotherly Love",
+            "original_title": "Brotherly Love",
+            "overview": "West Philadelphia basketball star Sergio Taylor deals with the pressures of fame while his brother and sister have their own issues with ambition.",
+            "poster_path": "/z8Fg0EcHvNLjvASg0h1FbwvrIXe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.3069,
+            "release_date": "2015-04-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1WoPau7XK17cWQGAOxmyisud0Iq.jpg",
+            "id": 113294,
+            "title": "Fast Girls",
+            "original_title": "Fast Girls",
+            "overview": "A street smart runner develops an intense rivalry with an equally ambitious wealthy young athlete.",
+            "poster_path": "/wrsIUs4esWv3oncNpRI4ERon4bF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.5519,
+            "release_date": "2012-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.049,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lVDDXGuuu2WiqQCyXMsLe513FNP.jpg",
+            "id": 184341,
+            "title": "Hands of Stone",
+            "original_title": "Hands of Stone",
+            "overview": "The legendary Roberto Duran and his equally legendary trainer Ray Arcel change each other's lives.",
+            "poster_path": "/rpAYkkc7ltnxnMXOZLPuI9A6cuB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.4058,
+            "release_date": "2016-08-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 461
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qSh3Aav8Kcoe2D2Azr8Bh1J0HAa.jpg",
+            "id": 1145725,
+            "title": "Tyler Perry's Duplicity",
+            "original_title": "Tyler Perry's Duplicity",
+            "overview": "High-powered attorney Marley faces her most personal case yet when she is tasked with uncovering the truth behind the murder of her best friend Fela’s husband. With the help of her boyfriend – a former cop turned private investigator – Marley’s search for what really happened leads her down a treacherous maze of deception and betrayal.",
+            "poster_path": "/pYrmTaOnMgvS59OKSxkCSrhISoL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 6.2441,
+            "release_date": "2025-03-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.538,
+            "vote_count": 173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uxMRuoay5PYW8tsJp2igzFW2qHx.jpg",
+            "id": 151138,
+            "title": "The Visit",
+            "original_title": "The Visit",
+            "overview": "Carla Zachanassian had a child by Serge Miller as a teenager. When Serge refused to marry her, she was driven out of town. By her own wit and cunning, she has returned as a multi-millionaire for a visit. The town lays out the red carpet expecting big things from Carla, only to learn that her sole purpose is to see Serge Miller killed...",
+            "poster_path": "/t3BdC8nEa8TlSg1EqXflhon1BHB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.3983,
+            "release_date": "1964-05-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6lDdjAJ5uuHmYAv9eT7dUyGVvS.jpg",
+            "id": 413337,
+            "title": "Girl in the Box",
+            "original_title": "Girl in the Box",
+            "overview": "The true story of 20-year-old Colleen Stan, a hitchhiking woman abducted by a young couple and held captive for seven years, during which time she's tortured and forced to live as a slave to her captors.",
+            "poster_path": "/uLH92vwvTlOjnSCG5JqJtH1fT9p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "popularity": 5.8562,
+            "release_date": "2016-09-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.709,
+            "vote_count": 163
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g94TQSYSMLOHzOpcgItyWk8sHky.jpg",
+            "id": 31165,
+            "title": "Inside I'm Dancing",
+            "original_title": "Inside I'm Dancing",
+            "overview": "Michael is a 24-year-old who has cerebral palsy and long-term resident of the Carrigmore Residential Home for the Disabled, run by the formidable Eileen. His life is transformed when the maverick Rory O'Shea moves in.",
+            "poster_path": "/2umd8KCnjamgEk9RpSUDQ9TltbW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.5382,
+            "release_date": "2004-10-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.433,
+            "vote_count": 233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eHmyIxA2EFWyTtMr2kjiRxGUxXY.jpg",
+            "id": 1215798,
+            "title": "The Cut",
+            "original_title": "The Cut",
+            "overview": "A retired boxer intends to return to the ring for one last shot at the title, but first he must make the weight. Holed up in a room in Las Vegas with an unscrupulous trainer, he embarks on an intensive and illegal weight-cutting program.",
+            "poster_path": "/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.4332,
+            "release_date": "2025-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.965,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4FbTBvNO3VTFbFFghipK7Jqz7I6.jpg",
+            "id": 552532,
+            "title": "Charm City Kings",
+            "original_title": "Charm City Kings",
+            "overview": "Mouse desperately wants to join The Midnight Clique, the infamous Baltimore dirt bike riders who rule the summertime streets. When Midnight’s leader, Blax, takes 14-year-old Mouse under his wing, Mouse soon finds himself torn between the straight-and-narrow and a road filled with fast money and violence.",
+            "poster_path": "/j732HPX0HSPcYvKURAIIS5Ppvk1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.1501,
+            "release_date": "2020-01-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.839,
+            "vote_count": 504
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dq9ShpvPDB7CmjgfPHHPUvshCLZ.jpg",
+            "id": 829503,
+            "title": "Gigi & Nate",
+            "original_title": "Gigi & Nate",
+            "overview": "A young man with a bright future suffers a near-fatal accident and recreates his new life with the help of an unlikely animal friend.",
+            "poster_path": "/xP1GXV1gms9b5BpHZP7S8qs8FO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.5146,
+            "release_date": "2022-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.639,
+            "vote_count": 148
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+            "id": 1292415,
+            "title": "Beast",
+            "original_title": "Beast",
+            "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+            "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 24.9366,
+            "release_date": "2026-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aXAZEpPxpHfMYlP6GdEcEQT0dsT.jpg",
+            "id": 413452,
+            "title": "Cardboard Boxer",
+            "original_title": "Cardboard Boxer",
+            "overview": "Gentle and broken, a homeless man fights others on video for money but soon finds comfort in an unlikely friend and the lost diary of a young girl.",
+            "poster_path": "/7PcdXBLsTaZKSO2aUONgPlZVriK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.3394,
+            "release_date": "2016-09-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.381,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oY2Lae2YDu7Ibeprh6sBgUUMXcO.jpg",
+            "id": 653708,
+            "title": "Herself",
+            "original_title": "Herself",
+            "overview": "Struggling to provide her daughters with a safe, happy home, Sandra decides to build one - from scratch. Using all her ingenuity to make her ambitious dream a reality, Sandra draws together a community to lend a helping hand to build her house and ultimately recover her own sense of self.",
+            "poster_path": "/qTCdyHTibEl90w6rDxTTHTX9k3O.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.9624,
+            "release_date": "2020-11-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.723,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xlZM7eymDabtzi3SMW3QGpLKDXx.jpg",
+            "id": 846956,
+            "title": "Rogue Agent",
+            "original_title": "Rogue Agent",
+            "overview": "Conman Robert Freegard poses as an undercover MI5 agent and kidnaps countless victims amidst a high-stakes manhunt, until the woman who fell for him brings him to justice.",
+            "poster_path": "/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 5.654,
+            "release_date": "2022-08-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/llXsPTScDIdQjgsescQyKaIZA6l.jpg",
+            "id": 32636,
+            "title": "Vanya on 42nd Street",
+            "original_title": "Vanya on 42nd Street",
+            "overview": "An uninterrupted rehearsal of Chekhov's 'Uncle Vanya' plays out by a company of actors. The setting: their run-down theater with an unusable stage and crumbling ceiling. The play is shown act by act with the briefest of breaks to move props or for refreshments. The lack of costumes, real props and scenery is soon forgotten.",
+            "poster_path": "/sYkkHsqXyUcFoLbXt4WNwnRRpT1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 1.5832,
+            "release_date": "1994-10-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 95
+        }
+    ]
+}

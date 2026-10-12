@@ -1,0 +1,763 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/6kheApG5qPsKbiKDxsGpOb6i6i6.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 1694978,
+        "imdb_id": "tt41604789",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Chum",
+        "overview": "A newlywed couple joins friends on a Mediterranean yacht excursion, only to find themselves caught between a predatory shark and a psychopathic killer in their midst-transforming a sun-drenched escape into a fight for survival.",
+        "popularity": 17.0861,
+        "poster_path": "/eKUYfLzpb6nIxz2OnzoAmxIMFFX.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "MT",
+                "name": "Malta"
+            }
+        ],
+        "release_date": "2026-05-27",
+        "revenue": 0,
+        "runtime": 87,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "There's no hinding in the sea.",
+        "title": "Chum",
+        "video": false,
+        "vote_average": 4.544,
+        "vote_count": 34
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 59860,
+            "known_for_department": "Acting",
+            "name": "Alice Eve",
+            "original_name": "Alice Eve",
+            "popularity": 5.3305,
+            "profile_path": "/tJUSx0Cw7pCnRsCWbGTX2POiTKM.jpg",
+            "cast_id": 1,
+            "character": "Tina",
+            "credit_id": "6a061aa93359c5b2ac5c047b",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 83051,
+            "known_for_department": "Acting",
+            "name": "Eric Michael Cole",
+            "original_name": "Eric Michael Cole",
+            "popularity": 0.9691,
+            "profile_path": "/v2eLFJQ0TOAFvGwCr2T1Y4dMOJt.jpg",
+            "cast_id": 2,
+            "character": "Tom",
+            "credit_id": "6a061aaf4d70a80826a1598e",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 206624,
+            "known_for_department": "Acting",
+            "name": "Jim Klock",
+            "original_name": "Jim Klock",
+            "popularity": 1.2593,
+            "profile_path": "/uP9BqJHWhtLmJ2UEmwSiRp4jpp6.jpg",
+            "cast_id": 7,
+            "character": "Roy",
+            "credit_id": "6a061afcd5d6a04d2fdb1cef",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5549022,
+            "known_for_department": "Acting",
+            "name": "Elle Haymond",
+            "original_name": "Elle Haymond",
+            "popularity": 0.9326,
+            "profile_path": "/wGu8Thpu7xxPQmbHSApDgRKZ7xk.jpg",
+            "cast_id": 3,
+            "character": "Sadie",
+            "credit_id": "6a061abda95088e831291f30",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2143996,
+            "known_for_department": "Acting",
+            "name": "Sarah Siadat",
+            "original_name": "Sarah Siadat",
+            "popularity": 0.4044,
+            "profile_path": "/vyF9rI23fe2MQbkYDorP5znHbHC.jpg",
+            "cast_id": 4,
+            "character": "Rachinda",
+            "credit_id": "6a061acbd002f7bf2ae08e6c",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4093581,
+            "known_for_department": "Acting",
+            "name": "Johnny Gaffney",
+            "original_name": "Johnny Gaffney",
+            "popularity": 0.4822,
+            "profile_path": "/y4ZlgwVOnSwM3WQ8oYntT5jtYXj.jpg",
+            "cast_id": 5,
+            "character": "Rick",
+            "credit_id": "6a061ae34abf2bca0829202c",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3077764,
+            "known_for_department": "Acting",
+            "name": "Lisa Yaro",
+            "original_name": "Lisa Yaro",
+            "popularity": 0.3996,
+            "profile_path": "/nB7zCr0kuNe6VBBQdL9a3tiWkWa.jpg",
+            "cast_id": 6,
+            "character": "Britney",
+            "credit_id": "6a061aeb9d8cdef5c584871e",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 622844,
+            "known_for_department": "Production",
+            "name": "Vince Jolivette",
+            "original_name": "Vince Jolivette",
+            "popularity": 1.0828,
+            "profile_path": null,
+            "cast_id": 15,
+            "character": "Captain Mackey",
+            "credit_id": "6a2c439e424804eb9a591792",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2331079,
+            "known_for_department": "Acting",
+            "name": "Robert Grose",
+            "original_name": "Robert Grose",
+            "popularity": 0.3944,
+            "profile_path": "/uHPmAaFulYFwuHWFMGpDpokCmRA.jpg",
+            "cast_id": 16,
+            "character": "Captain Daniels",
+            "credit_id": "6a2c43b846f3210d075917cd",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4049977,
+            "known_for_department": "Crew",
+            "name": "Peppijna Dalli",
+            "original_name": "Peppijna Dalli",
+            "popularity": 0.2147,
+            "profile_path": null,
+            "cast_id": 17,
+            "character": "Coast Guard Officer",
+            "credit_id": "6a2c43ed4d2cc77899c3a165",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2948744,
+            "known_for_department": "Acting",
+            "name": "Stephen Oliver",
+            "original_name": "Stephen Oliver",
+            "popularity": 0.431,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "",
+            "credit_id": "6a6ad03217843146b64af631",
+            "order": 10
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1301238,
+            "known_for_department": "Directing",
+            "name": "Jonathan Zuck",
+            "original_name": "Jonathan Zuck",
+            "popularity": 0.5068,
+            "profile_path": null,
+            "credit_id": "6a061b182c58cf75cc5c068e",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1151647,
+            "known_for_department": "Directing",
+            "name": "James Kondelik",
+            "original_name": "James Kondelik",
+            "popularity": 0.6954,
+            "profile_path": "/gsUmIBN7b03aCTanD3BX3QCRfii.jpg",
+            "credit_id": "6a061b2f225e22f6c929248a",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 100218,
+            "known_for_department": "Production",
+            "name": "Ryan R. Johnson",
+            "original_name": "Ryan R. Johnson",
+            "popularity": 0.6453,
+            "profile_path": null,
+            "credit_id": "6a061b44206a44a9bce3c5d3",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1502918,
+            "known_for_department": "Writing",
+            "name": "Dick Grunert",
+            "original_name": "Dick Grunert",
+            "popularity": 0.4174,
+            "profile_path": null,
+            "credit_id": "6a061b510b972511d4848a9b",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1301238,
+            "known_for_department": "Directing",
+            "name": "Jonathan Zuck",
+            "original_name": "Jonathan Zuck",
+            "popularity": 0.5068,
+            "profile_path": null,
+            "credit_id": "6a061bb088fa79c458e3c59b",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1979250,
+            "known_for_department": "Writing",
+            "name": "Joe Leone",
+            "original_name": "Joe Leone",
+            "popularity": 0.4347,
+            "profile_path": "/keDy9QhZ5S0YnYYqoawo8Q2cysb.jpg",
+            "credit_id": "6a061bbc4d70a80826a159ab",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1262635,
+            "known_for_department": "Camera",
+            "name": "Mac Fisken",
+            "original_name": "Mac Fisken",
+            "popularity": 0.4098,
+            "profile_path": null,
+            "credit_id": "6a1dd195749a6a53479c6b16",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 993825,
+            "known_for_department": "Sound",
+            "name": "Jojo Draven",
+            "original_name": "Jojo Draven",
+            "popularity": 0.2345,
+            "profile_path": "/i4OqglXycrl0yX5ZA9IKveXJx2.jpg",
+            "credit_id": "6a6acfe0673eb11aa99a33f1",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 15097,
+            "name": "shark"
+        },
+        {
+            "id": 156578,
+            "name": "newlywed"
+        },
+        {
+            "id": 174617,
+            "name": "fishing boat"
+        },
+        {
+            "id": 208980,
+            "name": "mediterranean sea"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/cvpgZt6bxHLWUqdQTAxn0ZJri8o.jpg",
+            "id": 890771,
+            "title": "The Black Demon",
+            "original_title": "The Black Demon",
+            "overview": "Oilman Paul Sturges' idyllic family vacation turns into a nightmare when they encounter a ferocious megalodon shark that will stop at nothing to protect its territory. Stranded and under constant attack, Paul and his family must somehow find a way to get his family back to shore alive before it strikes again in this epic battle between humans and nature.",
+            "poster_path": "/6ecSjKSjgIULyHfrfyyg9vgAI33.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 5.247,
+            "release_date": "2023-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.885,
+            "vote_count": 722
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3OTxHBZIQdjjsHU572SJxvtXTpk.jpg",
+            "id": 12707,
+            "title": "Orca",
+            "original_title": "Orca",
+            "overview": "After witnessing the killing of his mate and offspring at the hands of a reckless Irish captain, a vengeful killer whale rampages through the fisherman's Newfoundland harbor. Under pressure from the villagers, the captain, a female marine biologist, and an Indigenous tribalist venture after the great beast, who will meet them on its own turf.",
+            "poster_path": "/uSascD0pN3n5d6BlyFdce0hRVzz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.9649,
+            "release_date": "1977-07-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 476
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ibKeXahq4JD63z6uWQphqoJLvNw.jpg",
+            "id": 345940,
+            "title": "The Meg",
+            "original_title": "The Meg",
+            "overview": "A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.",
+            "poster_path": "/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                27
+            ],
+            "popularity": 25.535,
+            "release_date": "2018-08-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.252,
+            "vote_count": 8291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7cQKUEcRkw2EeK7KDn8eRqS3XkC.jpg",
+            "id": 504631,
+            "title": "Mermaid Down",
+            "original_title": "Mermaid Down",
+            "overview": "A mermaid is ripped from the ocean by a fishing crew only to be tortured and to have her tail cut off. A seemingly helpful stranger intervenes, but then locks her away in an institution for mentally disturbed young women, where no one believes she is a mermaid. With no way out, she is forced to count on her survival instincts, and fight for her life at all costs.",
+            "poster_path": "/oB281saxibom0KC3Ndz81aJJtaa.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                14,
+                9648,
+                53
+            ],
+            "popularity": 2.445,
+            "release_date": "2019-10-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.403,
+            "vote_count": 304
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
+            "id": 615656,
+            "title": "Meg 2: The Trench",
+            "original_title": "Meg 2: The Trench",
+            "overview": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+            "poster_path": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                27
+            ],
+            "popularity": 23.3687,
+            "release_date": "2023-08-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.374,
+            "vote_count": 4046
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ulaj7IhW72EK0cGSnMpP0UixTTC.jpg",
+            "id": 993867,
+            "title": "Eradication",
+            "original_title": "Eradication",
+            "overview": "When an unknown disease wipes out most of the world’s population, a man with unique blood is isolated for study. Fearing for his wife’s safety, he breaks his quarantine – into a world overrun by monstrous Infected and a shadowy agency hunting them down.",
+            "poster_path": "/6XZYA9VtCcidCU8Hus0J0V9wFhY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.8218,
+            "release_date": "2022-07-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.076,
+            "vote_count": 190
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gdD6776xzz6UZKQMDiDvdHoGzrB.jpg",
+            "id": 28153,
+            "title": "It's Alive",
+            "original_title": "It's Alive",
+            "overview": "The Davises are expecting a baby, which turns out to be a monster with a nasty habit of killing people whenever scared. And it's easily scared.",
+            "poster_path": "/jRxJV0N5nox3IVwkculuytkzSjt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 2.9952,
+            "release_date": "1974-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tya34K7D4jtDrVbvExyvTx97Aen.jpg",
+            "id": 443791,
+            "title": "Underwater",
+            "original_title": "Underwater",
+            "overview": "After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.",
+            "poster_path": "/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                28,
+                12
+            ],
+            "popularity": 10.3313,
+            "release_date": "2020-01-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.289,
+            "vote_count": 3547
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j4F0911ZXLm1ONjVUjzgwA7c3MI.jpg",
+            "id": 739901,
+            "title": "The Possessed",
+            "original_title": "The Possessed",
+            "overview": "A man with the ability to exorcise demons fights to protect his loved ones after a sudden surge in demonic possessions. After discovering his nephew's girlfriend has the same supernatural gift, they join forces for the ultimate confrontation. Inspired by actual events.",
+            "poster_path": "/tDmWqD80zzxQZhgSzDEOW2llS0L.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.0642,
+            "release_date": "2021-10-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.285,
+            "vote_count": 79
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kHmAXmPOzFOct3TqZUZZBUBYfjI.jpg",
+            "id": 28752,
+            "title": "The Curse of the Werewolf",
+            "original_title": "The Curse of the Werewolf",
+            "overview": "A child conceived by a mute servant girl transforms from an innocent youth to a killer beast at night with uncontrollable urges.",
+            "poster_path": "/eKQ6kovQVp2I7g1hJegOo8vRBhu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.0805,
+            "release_date": "1961-05-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rH60D4bS64CYGBIXps9OgSDl3RT.jpg",
+            "id": 1419229,
+            "title": "Silent Zone",
+            "original_title": "Silent Zone",
+            "overview": "In a zombie-ravaged world, a resourceful teen and her protector fight for survival, facing relentless dangers and testing the limits of hope and loyalty.",
+            "poster_path": "/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.2536,
+            "release_date": "2025-03-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.047,
+            "vote_count": 75
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7aY1ji2fVHVTAW9DjkpFvPMyLi9.jpg",
+            "id": 11623,
+            "title": "The Medusa Touch",
+            "original_title": "The Medusa Touch",
+            "overview": "A French detective in London reconstructs the life of a man lying in hospital with severe injuries with the help of journals and a psychiatrist. He realises that the man had powerful telekinetic abilities.",
+            "poster_path": "/lSJZA6hSwxv8O3d1DfyuN7wZ0Zi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878,
+                9648
+            ],
+            "popularity": 2.3043,
+            "release_date": "1978-04-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.827,
+            "vote_count": 202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dRKPz3iZiuYpgdfbBQ3Af6Wo63R.jpg",
+            "id": 17898,
+            "title": "Silver Bullet",
+            "original_title": "Silver Bullet",
+            "overview": "The small city of Tarker's Mills is startled by a series of sadistic murders. The population fears the work of a maniac, but sightings of a mysterious, hairy creature soon spread. People lock themselves up at night, but there's one boy who's still outside…",
+            "poster_path": "/52CvWYuJyWcMTPvsfcmsxaVHi7f.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.0164,
+            "release_date": "1985-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 713
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hYvfaCccyazxhcBwEpPmQoDAEL0.jpg",
+            "id": 3145,
+            "title": "The Horror of Frankenstein",
+            "original_title": "The Horror of Frankenstein",
+            "overview": "Brilliant but arrogant scientist Victor Frankenstein builds a man from spare body parts, only for the monster to come alive and wreak havoc.",
+            "poster_path": "/8lFv0ABZqINbHijXjCc41AmrRlm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 2.7238,
+            "release_date": "1970-11-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.872,
+            "vote_count": 90
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o3505VxhHKHbfTmuNif1ukjXDxI.jpg",
+            "id": 335866,
+            "title": "Circle",
+            "original_title": "Circle",
+            "overview": "In a massive, mysterious chamber, fifty strangers awaken to find themselves trapped with no memory of how they got there.  Organized in an inward-facing circle and unable to move, they quickly learn that every two minutes, one of them must die…executed by a strange device in the center of the room.",
+            "poster_path": "/hbIL53MdZFJXsgxXaSOVuApWTs8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                9648,
+                53
+            ],
+            "popularity": 2.7222,
+            "release_date": "2015-05-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.017,
+            "vote_count": 2152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fdQ5tWLCpbfz3zj3dq1nORih8Pq.jpg",
+            "id": 551238,
+            "title": "D-Railed",
+            "original_title": "D-Railed",
+            "overview": "Passengers on a murder mystery train that crashes into a river must decide whether to risk waiting for help in the wreckage or take their chances in the murky depths below.",
+            "poster_path": "/24GnXIwhkK95Kdz0KkTWeepA6El.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.204,
+            "release_date": "2018-12-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.87,
+            "vote_count": 280
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qseiYNSkexOGoRJsfohA1NEojK2.jpg",
+            "id": 32051,
+            "title": "Race with the Devil",
+            "original_title": "Race with the Devil",
+            "overview": "Two couples vacationing together in an R.V. from Texas to Colorado are terrorized after they witness a murder during a Satanic ritual.",
+            "poster_path": "/4ezD93ytLd8707j3Qvg53Mpz5ff.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "popularity": 1.8974,
+            "release_date": "1975-06-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.414,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y2WqsZYVI0yVdC0hgDmYvzfJzqr.jpg",
+            "id": 551994,
+            "title": "The Shed",
+            "original_title": "The Shed",
+            "overview": "The story of Stan, an orphaned teenager stuck living with his abusive grandfather and tasked with routinely protecting his best friend from high school bullies. When Stan discovers a murderous creature has taken refuge inside the tool shed in his backyard, he tries to secretly battle the demon alone until his bullied friend discovers the creature and has a far more sinister plan in mind.",
+            "poster_path": "/aV9n5MyLZQsoXNfbZG5OOf16IkP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.2339,
+            "release_date": "2019-10-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.892,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vzw5733T4PSielVOeq268GdSzhS.jpg",
+            "id": 15856,
+            "title": "House on Haunted Hill",
+            "original_title": "House on Haunted Hill",
+            "overview": "Frederick Loren invites five strangers to the party of a lifetime and offers each of them $10,000 if they can stay the night in the reportedly haunted house. Armed with a gun for protection, each guest arrives in a hearse and will either leave in it much richer…Or dead.",
+            "poster_path": "/g5kdFt3piV3w1pG65W9sSToJ7HB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 6.0732,
+            "release_date": "1959-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lEmvsrSbOvmCj0c2iu2XA5p4NPx.jpg",
+            "id": 17907,
+            "title": "The Raven",
+            "original_title": "The Raven",
+            "overview": "A brilliant but deranged neurosurgeon becomes obsessively fixated on a judge's daughter. With the help of an escaped criminal whose face he has surgically deformed, the mad man lures her, her father, and her fiancé to his isolated, castle-like home.",
+            "poster_path": "/iVMNfBvKe4XXxi4zrMytZ1c6ejO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                80
+            ],
+            "popularity": 2.2729,
+            "release_date": "1935-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.581,
+            "vote_count": 155
+        }
+    ]
+}

@@ -1,0 +1,1538 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
+        "belongs_to_collection": null,
+        "budget": 70000000,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            }
+        ],
+        "homepage": "",
+        "id": 73723,
+        "imdb_id": "tt1482459",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Lorax",
+        "overview": "A 12-year-old boy searches for the one thing that will enable him to win the affection of the girl of his dreams. To find it he must discover the story of the Lorax, the grumpy yet charming creature who fights to protect his world.",
+        "popularity": 16.8791,
+        "poster_path": "/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg",
+        "production_companies": [
+            {
+                "id": 6704,
+                "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+                "name": "Illumination",
+                "origin_country": "US"
+            },
+            {
+                "id": 1778,
+                "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+                "name": "dentsu",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2012-03-01",
+        "revenue": 349305397,
+        "runtime": 86,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Meet the original force of nature.",
+        "title": "The Lorax",
+        "video": false,
+        "vote_average": 6.535,
+        "vote_count": 3938
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 518,
+            "known_for_department": "Acting",
+            "name": "Danny DeVito",
+            "original_name": "Danny DeVito",
+            "popularity": 4.3576,
+            "profile_path": "/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg",
+            "cast_id": 9,
+            "character": "The Lorax (voice)",
+            "credit_id": "52fe48a9c3a368484e1045ef",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 27105,
+            "known_for_department": "Acting",
+            "name": "Ed Helms",
+            "original_name": "Ed Helms",
+            "popularity": 2.4867,
+            "profile_path": "/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg",
+            "cast_id": 11,
+            "character": "Once-ler (voice)",
+            "credit_id": "52fe48a9c3a368484e1045f7",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 29222,
+            "known_for_department": "Acting",
+            "name": "Zac Efron",
+            "original_name": "Zac Efron",
+            "popularity": 5.0852,
+            "profile_path": "/pdWXP7XG6qqOoxoLid1DWYwmaMY.jpg",
+            "cast_id": 8,
+            "character": "Ted Wiggins (voice)",
+            "credit_id": "52fe48a9c3a368484e1045eb",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 71403,
+            "known_for_department": "Acting",
+            "name": "Rob Riggle",
+            "original_name": "Rob Riggle",
+            "popularity": 2.0901,
+            "profile_path": "/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg",
+            "cast_id": 14,
+            "character": "Mr. Aloysius O'Hare (voice)",
+            "credit_id": "52fe48a9c3a368484e1045ff",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 212208,
+            "known_for_department": "Acting",
+            "name": "Taylor Swift",
+            "original_name": "Taylor Swift",
+            "popularity": 3.9538,
+            "profile_path": "/rixYX4rVlWUhg0BWvclkFUNVYht.jpg",
+            "cast_id": 10,
+            "character": "Audrey (voice)",
+            "credit_id": "52fe48a9c3a368484e1045f3",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 213001,
+            "known_for_department": "Acting",
+            "name": "Jenny Slate",
+            "original_name": "Jenny Slate",
+            "popularity": 2.7,
+            "profile_path": "/iNpXig5Djkh5moYG4TCekIATs5B.jpg",
+            "cast_id": 16,
+            "character": "Mrs. Wiggins (voice)",
+            "credit_id": "52fe48a9c3a368484e104607",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 71727,
+            "known_for_department": "Acting",
+            "name": "Betty White",
+            "original_name": "Betty White",
+            "popularity": 2.4088,
+            "profile_path": "/2Vlr5E1EoD4GglLHoSolLztBQWM.jpg",
+            "cast_id": 15,
+            "character": "Grammy Norma (voice)",
+            "credit_id": "52fe48a9c3a368484e104603",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 476163,
+            "known_for_department": "Acting",
+            "name": "Nasim Pedrad",
+            "original_name": "Nasim Pedrad",
+            "popularity": 1.7923,
+            "profile_path": "/vsTcEjvHi6CpkRPiASOfYXl2bNq.jpg",
+            "cast_id": 17,
+            "character": "Once-ler's Mom (voice)",
+            "credit_id": "52fe48a9c3a368484e10460b",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 156136,
+            "known_for_department": "Acting",
+            "name": "Joel Swetow",
+            "original_name": "Joel Swetow",
+            "popularity": 0.8946,
+            "profile_path": "/eYGiPqOy65ldNUfOZ5liRETs7ok.jpg",
+            "cast_id": 18,
+            "character": "1st Marketing Guy (voice)",
+            "credit_id": "52fe48a9c3a368484e10460f",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 73476,
+            "known_for_department": "Acting",
+            "name": "Michael Beattie",
+            "original_name": "Michael Beattie",
+            "popularity": 0.638,
+            "profile_path": "/gDuLXdt6xXMjGOmdqoLymyra55n.jpg",
+            "cast_id": 19,
+            "character": "2nd Marketing Guy (voice)",
+            "credit_id": "52fe48a9c3a368484e104613",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 159729,
+            "known_for_department": "Acting",
+            "name": "Elmarie Wendel",
+            "original_name": "Elmarie Wendel",
+            "popularity": 0.635,
+            "profile_path": "/cINR8tSxost2lKfwRr1sv51AaBB.jpg",
+            "cast_id": 22,
+            "character": "Aunt Grizelda (voice)",
+            "credit_id": "52fe48a9c3a368484e10461f",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1082094,
+            "known_for_department": "Acting",
+            "name": "Dave B. Mitchell",
+            "original_name": "Dave B. Mitchell",
+            "popularity": 0.6218,
+            "profile_path": "/r2EI55tU7v2UZw61cSQzrFrbvdn.jpg",
+            "cast_id": 20,
+            "character": "1st Commercial Guy (voice)",
+            "credit_id": "52fe48a9c3a368484e104617",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 167756,
+            "known_for_department": "Acting",
+            "name": "Dempsey Pappion",
+            "original_name": "Dempsey Pappion",
+            "popularity": 0.8052,
+            "profile_path": "/jPqHoYUzlo5MwZbvFUKi2XqNYaN.jpg",
+            "cast_id": 21,
+            "character": "2nd Commercial Guy (voice)",
+            "credit_id": "52fe48a9c3a368484e10461b",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3980,
+            "known_for_department": "Acting",
+            "name": "Danny Cooksey",
+            "original_name": "Danny Cooksey",
+            "popularity": 1.347,
+            "profile_path": "/1diDYWnss7hsYzRru9nfPCyg6Yb.jpg",
+            "cast_id": 23,
+            "character": "Brett / Chet (voice)",
+            "credit_id": "52fe48a9c3a368484e104623",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 537,
+            "known_for_department": "Acting",
+            "name": "Stephen Tobolowsky",
+            "original_name": "Stephen Tobolowsky",
+            "popularity": 2.2893,
+            "profile_path": "/uL8yfcm0dCFYFQt052kczVQVvac.jpg",
+            "cast_id": 24,
+            "character": "Uncle Ubb (voice)",
+            "credit_id": "52fe48a9c3a368484e104627",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 124748,
+            "known_for_department": "Directing",
+            "name": "Chris Renaud",
+            "original_name": "Chris Renaud",
+            "popularity": 1.3545,
+            "profile_path": "/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg",
+            "cast_id": 25,
+            "character": "Forest Animals (voice)",
+            "credit_id": "52fe48a9c3a368484e10462b",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 214701,
+            "known_for_department": "Acting",
+            "name": "Sherry Lynn",
+            "original_name": "Sherry Lynn",
+            "popularity": 0.5832,
+            "profile_path": "/cp7SYig9JVbBWgc2YD4wEUNQGzh.jpg",
+            "cast_id": 39,
+            "character": "Additional Voices (voice)",
+            "credit_id": "59f54aeec3a3682e0c005cfa",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 84493,
+            "known_for_department": "Acting",
+            "name": "Mickie McGowan",
+            "original_name": "Mickie McGowan",
+            "popularity": 1.2012,
+            "profile_path": "/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg",
+            "cast_id": 40,
+            "character": "Additional Voices (voice)",
+            "credit_id": "5aaf4a6d0e0a265e1f01f1b5",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19545,
+            "known_for_department": "Acting",
+            "name": "Jack Angel",
+            "original_name": "Jack Angel",
+            "popularity": 1.4137,
+            "profile_path": "/5MsVwIULYJotUSbDs61uSJff7ei.jpg",
+            "cast_id": 41,
+            "character": "Additional Voices (voice)",
+            "credit_id": "5ab419c99251417af600fb45",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 78317,
+            "known_for_department": "Acting",
+            "name": "Bob Bergen",
+            "original_name": "Bob Bergen",
+            "popularity": 1.2582,
+            "profile_path": "/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg",
+            "cast_id": 42,
+            "character": "Additional Voices (voice)",
+            "credit_id": "5ab5e799c3a3680a21004449",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 73016,
+            "known_for_department": "Acting",
+            "name": "Debi Derryberry",
+            "original_name": "Debi Derryberry",
+            "popularity": 1.3621,
+            "profile_path": "/aCVgHnvGBw7ssZA9kl1Pnr5pJjU.jpg",
+            "cast_id": 43,
+            "character": "Additional Voices (voice)",
+            "credit_id": "5ab86184c3a36817a00044b0",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52699,
+            "known_for_department": "Acting",
+            "name": "Danny Mann",
+            "original_name": "Danny Mann",
+            "popularity": 0.9375,
+            "profile_path": "/980QYqXIZCMn5Knx0vjROkw9vKo.jpg",
+            "cast_id": 47,
+            "character": "Additional Voices (voice)",
+            "credit_id": "60dcd77ab458b8002d40e86e",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1656606,
+            "known_for_department": "Acting",
+            "name": "Fletcher Sheridan",
+            "original_name": "Fletcher Sheridan",
+            "popularity": 0.4653,
+            "profile_path": "/a1Uu9d2VICSEmBdkfwmq9deivd7.jpg",
+            "cast_id": 53,
+            "character": "Cy (voice)",
+            "credit_id": "64aee6346a344800ea8ee4f2",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 167295,
+            "known_for_department": "Acting",
+            "name": "John Cygan",
+            "original_name": "John Cygan",
+            "popularity": 0.7999,
+            "profile_path": "/sIcRLzUyeOL9ayYOUye3LFWkfuA.jpg",
+            "cast_id": 54,
+            "character": "Additional Voices (voice)",
+            "credit_id": "65302fccedeb4300e1fa5f53",
+            "order": 23
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 84213,
+            "known_for_department": "Acting",
+            "name": "Bill Farmer",
+            "original_name": "Bill Farmer",
+            "popularity": 1.2932,
+            "profile_path": "/lhezx68R12s5Bsv7d77BrQb7tWA.jpg",
+            "cast_id": 55,
+            "character": "Additional Voices (voice)",
+            "credit_id": "65302fdd945d3600adc95ac4",
+            "order": 24
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 84495,
+            "known_for_department": "Acting",
+            "name": "Jess Harnell",
+            "original_name": "Jess Harnell",
+            "popularity": 1.0267,
+            "profile_path": "/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg",
+            "cast_id": 56,
+            "character": "Additional Voices (voice)",
+            "credit_id": "65302fe51fb94f00c505e4d8",
+            "order": 25
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 111466,
+            "known_for_department": "Acting",
+            "name": "Mona Marshall",
+            "original_name": "Mona Marshall",
+            "popularity": 0.9388,
+            "profile_path": "/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg",
+            "cast_id": 57,
+            "character": "Additional Voices (voice)",
+            "credit_id": "65302fee0b74e900fe55fe01",
+            "order": 26
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 35159,
+            "known_for_department": "Acting",
+            "name": "Laraine Newman",
+            "original_name": "Laraine Newman",
+            "popularity": 1.8342,
+            "profile_path": "/c50cGamQWIfDRDgYmHCiuj5Crpx.jpg",
+            "cast_id": 58,
+            "character": "Additional Voices (voice)",
+            "credit_id": "65302ff5edeb4300c48fc761",
+            "order": 27
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 157626,
+            "known_for_department": "Acting",
+            "name": "Jan Rabson",
+            "original_name": "Jan Rabson",
+            "popularity": 0.8593,
+            "profile_path": "/8IBFupx53arTqxOYhGkGwyVSaOn.jpg",
+            "cast_id": 59,
+            "character": "Additional Voices (voice)",
+            "credit_id": "65302ffc9d592c00ae9f37db",
+            "order": 28
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1444272,
+            "known_for_department": "Acting",
+            "name": "Claira Nicole Titman",
+            "original_name": "Claira Nicole Titman",
+            "popularity": 0.3402,
+            "profile_path": "/mQ8PF728myx83vOIlVev5EVRMU0.jpg",
+            "cast_id": 60,
+            "character": "Additional Voices (voice)",
+            "credit_id": "65303004ad59b5013b07b312",
+            "order": 29
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 86007,
+            "known_for_department": "Acting",
+            "name": "Jim Ward",
+            "original_name": "Jim Ward",
+            "popularity": 1.1922,
+            "profile_path": "/7Um56ftGoxN6c5GxJSNckeARCDy.jpg",
+            "cast_id": 61,
+            "character": "Additional Voices (voice)",
+            "credit_id": "6530300aedeb4300abde2baf",
+            "order": 30
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7963,
+            "known_for_department": "Visual Effects",
+            "name": "Carter Goodrich",
+            "original_name": "Carter Goodrich",
+            "popularity": 0.5944,
+            "profile_path": "/v0w5eSNuIt05zJWiMUOFa57GEFC.jpg",
+            "credit_id": "621180b1396e97006a8fd7f6",
+            "department": "Visual Effects",
+            "job": "Character Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 570211,
+            "known_for_department": "Production",
+            "name": "Janet Healey",
+            "original_name": "Janet Healey",
+            "popularity": 0.2111,
+            "profile_path": null,
+            "credit_id": "52fe48a9c3a368484e1045e1",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 124748,
+            "known_for_department": "Directing",
+            "name": "Chris Renaud",
+            "original_name": "Chris Renaud",
+            "popularity": 1.3545,
+            "profile_path": "/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg",
+            "credit_id": "52fe48a9c3a368484e1045c3",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1459735,
+            "known_for_department": "Visual Effects",
+            "name": "Mitja Rabar",
+            "original_name": "Mitja Rabar",
+            "popularity": 0.3772,
+            "profile_path": null,
+            "credit_id": "553dc1cb9251416874006d17",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52360,
+            "known_for_department": "Writing",
+            "name": "Ken Daurio",
+            "original_name": "Ken Daurio",
+            "popularity": 1.2406,
+            "profile_path": "/w2h65hO12TzEZmONJ3RB6DqcskJ.jpg",
+            "credit_id": "563b60d692514150af002043",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8063,
+            "known_for_department": "Editing",
+            "name": "Ken Schretzmann",
+            "original_name": "Ken Schretzmann",
+            "popularity": 0.5498,
+            "profile_path": "/oI4qy2nUz8Bjd5LQp9NuHEoYz87.jpg",
+            "credit_id": "563b5ec89251414cc90043aa",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11098,
+            "known_for_department": "Sound",
+            "name": "John Powell",
+            "original_name": "John Powell",
+            "popularity": 1.1281,
+            "profile_path": "/trywZMdhKM04PL1lH5OECXRxL1u.jpg",
+            "credit_id": "563b5f309251414c70004433",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 61300,
+            "known_for_department": "Art",
+            "name": "Yarrow Cheney",
+            "original_name": "Yarrow Cheney",
+            "popularity": 0.7446,
+            "profile_path": "/3j0F9ViGOUdGbszLKWKgK1hvWbp.jpg",
+            "credit_id": "563b5f409251416d52015f17",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52361,
+            "known_for_department": "Writing",
+            "name": "Cinco Paul",
+            "original_name": "Cinco Paul",
+            "popularity": 0.9717,
+            "profile_path": "/phZeM2oJ8jclBfCWzxgE6y9RiR6.jpg",
+            "credit_id": "563b60e492514150af002046",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1531911,
+            "known_for_department": "Editing",
+            "name": "Claire Dodgson",
+            "original_name": "Claire Dodgson",
+            "popularity": 0.5646,
+            "profile_path": "/cGxjZGsUvKyioACq6UXldysOOW4.jpg",
+            "credit_id": "563b5eb892514129fe016680",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1531912,
+            "known_for_department": "Editing",
+            "name": "Steven Liu",
+            "original_name": "Steven Liu",
+            "popularity": 0.3826,
+            "profile_path": null,
+            "credit_id": "563b5f01c3a3681b520246b1",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 570212,
+            "known_for_department": "Production",
+            "name": "Audrey Geisel",
+            "original_name": "Audrey Geisel",
+            "popularity": 0.4023,
+            "profile_path": "/i6GrOFGgyW366fT8GfLoxKPJTsF.jpg",
+            "credit_id": "563b601ec3a3681b4b02240b",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1531914,
+            "known_for_department": "Sound",
+            "name": "Massimo Ruberto",
+            "original_name": "Massimo Ruberto",
+            "popularity": 0.253,
+            "profile_path": null,
+            "credit_id": "563b610f9251414cc90043f4",
+            "department": "Sound",
+            "job": "Music Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 118713,
+            "known_for_department": "Directing",
+            "name": "Fabrice Joubert",
+            "original_name": "Fabrice Joubert",
+            "popularity": 0.6152,
+            "profile_path": null,
+            "credit_id": "5654f34392514145b7000644",
+            "department": "Visual Effects",
+            "job": "Animation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52361,
+            "known_for_department": "Writing",
+            "name": "Cinco Paul",
+            "original_name": "Cinco Paul",
+            "popularity": 0.9717,
+            "profile_path": "/phZeM2oJ8jclBfCWzxgE6y9RiR6.jpg",
+            "credit_id": "659ebd3e91b53001a326cef9",
+            "department": "Sound",
+            "job": "Songs"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 42267,
+            "known_for_department": "Sound",
+            "name": "Randy Thom",
+            "original_name": "Randy Thom",
+            "popularity": 1.0555,
+            "profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg",
+            "credit_id": "659ebcf71d3563025c54ee33",
+            "department": "Sound",
+            "job": "Supervising Sound Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 138618,
+            "known_for_department": "Sound",
+            "name": "Gary Rizzo",
+            "original_name": "Gary Rizzo",
+            "popularity": 1.2106,
+            "profile_path": "/m8vT9fYRLwM8WPpJiq8QIMBSueQ.jpg",
+            "credit_id": "659ebd0e9590e30095f6304e",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 42267,
+            "known_for_department": "Sound",
+            "name": "Randy Thom",
+            "original_name": "Randy Thom",
+            "popularity": 1.0555,
+            "profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg",
+            "credit_id": "659ebce57776f000ee2daad1",
+            "department": "Sound",
+            "job": "Sound Re-Recording Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11098,
+            "known_for_department": "Sound",
+            "name": "John Powell",
+            "original_name": "John Powell",
+            "popularity": 1.1281,
+            "profile_path": "/trywZMdhKM04PL1lH5OECXRxL1u.jpg",
+            "credit_id": "659ebd33713ed40095316447",
+            "department": "Sound",
+            "job": "Songs"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5720,
+            "known_for_department": "Production",
+            "name": "Chris Meledandri",
+            "original_name": "Chris Meledandri",
+            "popularity": 1.4002,
+            "profile_path": "/iRcvLhuIzkUkjCR4C3NKbi2juuv.jpg",
+            "credit_id": "5822d4f89251410cb8007884",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 42267,
+            "known_for_department": "Sound",
+            "name": "Randy Thom",
+            "original_name": "Randy Thom",
+            "popularity": 1.0555,
+            "profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg",
+            "credit_id": "6434b08606f98400f1f288be",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11174,
+            "known_for_department": "Sound",
+            "name": "Dennis Leonard",
+            "original_name": "Dennis Leonard",
+            "popularity": 0.6073,
+            "profile_path": "/bjTCZiReJHogOkHJbz6r1eiiS1d.jpg",
+            "credit_id": "6435a34ccca7de0077ae6f32",
+            "department": "Sound",
+            "job": "Supervising Sound Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8023,
+            "known_for_department": "Directing",
+            "name": "Kyle Balda",
+            "original_name": "Kyle Balda",
+            "popularity": 1.3663,
+            "profile_path": "/kjf5Thaf8s5vImSN7JUJkW6jKG8.jpg",
+            "credit_id": "6435a58fcca7de010375deb7",
+            "department": "Directing",
+            "job": "Co-Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 65705,
+            "known_for_department": "Writing",
+            "name": "Dr. Seuss",
+            "original_name": "Dr. Seuss",
+            "popularity": 1.1366,
+            "profile_path": "/610hjTL3wQsgXaOPKTJ1bTQzgnG.jpg",
+            "credit_id": "64678c0d2bcf67011bf29182",
+            "department": "Writing",
+            "job": "Book"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 998570,
+            "known_for_department": "Art",
+            "name": "Eric Guillon",
+            "original_name": "Eric Guillon",
+            "popularity": 0.6441,
+            "profile_path": "/djynRBEOI3zOskh0NyEQeHpT90k.jpg",
+            "credit_id": "5ae4d8f70e0a266b3500db30",
+            "department": "Visual Effects",
+            "job": "Character Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52361,
+            "known_for_department": "Writing",
+            "name": "Cinco Paul",
+            "original_name": "Cinco Paul",
+            "popularity": 0.9717,
+            "profile_path": "/phZeM2oJ8jclBfCWzxgE6y9RiR6.jpg",
+            "credit_id": "66a9551d21368f47815c4fe1",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52360,
+            "known_for_department": "Writing",
+            "name": "Ken Daurio",
+            "original_name": "Ken Daurio",
+            "popularity": 1.2406,
+            "profile_path": "/w2h65hO12TzEZmONJ3RB6DqcskJ.jpg",
+            "credit_id": "66a95536c0bf8e30c91930ff",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1479537,
+            "known_for_department": "Lighting",
+            "name": "Catherine Catie Lee",
+            "original_name": "Catherine Catie Lee",
+            "popularity": 0.2681,
+            "profile_path": null,
+            "credit_id": "5bab8d68c3a3683a9c025dbc",
+            "department": "Lighting",
+            "job": "Lighting Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 16344,
+            "known_for_department": "Sound",
+            "name": "Daniel Laurie",
+            "original_name": "Daniel Laurie",
+            "popularity": 0.6312,
+            "profile_path": "/cZjLR3M9PjKRGgHPw5PFbHrZ3l6.jpg",
+            "credit_id": "67086f598d487f654128469f",
+            "department": "Sound",
+            "job": "ADR Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 16344,
+            "known_for_department": "Sound",
+            "name": "Daniel Laurie",
+            "original_name": "Daniel Laurie",
+            "popularity": 0.6312,
+            "profile_path": "/cZjLR3M9PjKRGgHPw5PFbHrZ3l6.jpg",
+            "credit_id": "67086f69c5fcf5a1634f2de9",
+            "department": "Sound",
+            "job": "Dialogue Editor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1668500,
+            "known_for_department": "Sound",
+            "name": "Julie Minasian",
+            "original_name": "Julie Minasian",
+            "popularity": 0.3252,
+            "profile_path": "/sZv3t7rAfPcC7tuzlErSyoFphih.jpg",
+            "credit_id": "68323a407b6e14e502a867d8",
+            "department": "Sound",
+            "job": "Vocals"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 94028,
+            "known_for_department": "Production",
+            "name": "Robert Taylor",
+            "original_name": "Robert Taylor",
+            "popularity": 0.5304,
+            "profile_path": "/6FcK6D1kj4TTOyh6TJHaLCFKq7V.jpg",
+            "credit_id": "6a4af658a17aef8a72e65fc7",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6056,
+            "known_for_department": "Writing",
+            "name": "Mike Reiss",
+            "original_name": "Mike Reiss",
+            "popularity": 1.1013,
+            "profile_path": "/5ERCr9k2ycwpg4IYUgFyJFqOBfd.jpg",
+            "credit_id": "6a4af6979986162cbee660c7",
+            "department": "Writing",
+            "job": "Story Consultant"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1265060,
+            "known_for_department": "Acting",
+            "name": "Dave Rosenbaum",
+            "original_name": "Dave Rosenbaum",
+            "popularity": 0.6436,
+            "profile_path": "/nCaO2E4jz7eNO5huwGLKhYXkZCI.jpg",
+            "credit_id": "6a4af6a66f7ec4b57479853b",
+            "department": "Writing",
+            "job": "Story Supervisor"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 5308,
+            "name": "aftermath"
+        },
+        {
+            "id": 3352,
+            "name": "tree"
+        },
+        {
+            "id": 3289,
+            "name": "villain"
+        },
+        {
+            "id": 4344,
+            "name": "musical"
+        },
+        {
+            "id": 5683,
+            "name": "family business "
+        },
+        {
+            "id": 10594,
+            "name": "money"
+        },
+        {
+            "id": 10045,
+            "name": "tragic villain"
+        },
+        {
+            "id": 10907,
+            "name": "consumerism"
+        },
+        {
+            "id": 13152,
+            "name": "air"
+        },
+        {
+            "id": 15101,
+            "name": "based on children's book"
+        },
+        {
+            "id": 155235,
+            "name": "animal killing"
+        },
+        {
+            "id": 182127,
+            "name": "walled city"
+        },
+        {
+            "id": 182135,
+            "name": "reforestation"
+        },
+        {
+            "id": 182136,
+            "name": "tree cutting"
+        },
+        {
+            "id": 208339,
+            "name": "mad family"
+        },
+        {
+            "id": 210505,
+            "name": "clothes factory"
+        },
+        {
+            "id": 210783,
+            "name": "meme"
+        },
+        {
+            "id": 229296,
+            "name": "social"
+        },
+        {
+            "id": 240422,
+            "name": "wonder"
+        },
+        {
+            "id": 256570,
+            "name": "abused child"
+        },
+        {
+            "id": 278823,
+            "name": "3d animation"
+        },
+        {
+            "id": 290395,
+            "name": "casual"
+        },
+        {
+            "id": 317421,
+            "name": "singing animals"
+        },
+        {
+            "id": 317422,
+            "name": "fish trio"
+        },
+        {
+            "id": 317423,
+            "name": "biggering"
+        },
+        {
+            "id": 317424,
+            "name": "unless"
+        },
+        {
+            "id": 325761,
+            "name": "admiring"
+        },
+        {
+            "id": 325765,
+            "name": "amused"
+        },
+        {
+            "id": 325769,
+            "name": "appreciative"
+        },
+        {
+            "id": 325775,
+            "name": "awestruck"
+        },
+        {
+            "id": 325778,
+            "name": "bold"
+        },
+        {
+            "id": 325809,
+            "name": "enthusiastic"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/zFyuN8vF2XNSzxIdACES0IyNrhK.jpg",
+            "id": 116711,
+            "title": "Epic",
+            "original_title": "Epic",
+            "overview": "A teenager finds herself transported to a deep forest setting where a battle between the forces of good and the forces of evil is taking place. She bands together with a rag-tag group characters in order to save their world—and ours.",
+            "poster_path": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "popularity": 9.8266,
+            "release_date": "2013-05-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.566,
+            "vote_count": 2979
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+            "id": 519182,
+            "title": "Despicable Me 4",
+            "original_title": "Despicable Me 4",
+            "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+            "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                28,
+                878,
+                10751
+            ],
+            "popularity": 25.5294,
+            "release_date": "2024-06-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.979,
+            "vote_count": 3304
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg",
+            "id": 9325,
+            "title": "The Jungle Book",
+            "original_title": "The Jungle Book",
+            "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+            "poster_path": "/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                12
+            ],
+            "popularity": 14.1917,
+            "release_date": "1967-10-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.289,
+            "vote_count": 6729
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
+            "id": 756,
+            "title": "Fantasia",
+            "original_title": "Fantasia",
+            "overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+            "poster_path": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "popularity": 8.5419,
+            "release_date": "1940-11-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 3359
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uDdt2h4Q1jZikmYphHRerKtjMgF.jpg",
+            "id": 22582,
+            "title": "Tom and Jerry: The Movie",
+            "original_title": "Tom and Jerry: The Movie",
+            "overview": "The popular cartoon cat and mouse are thrown into a feature film. The story has the twosome trying to help an orphan girl who is being berated and exploited by a greedy guardian.",
+            "poster_path": "/k68ZB5trRKcEJSQdPiY6jtxVq14.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "popularity": 5.8961,
+            "release_date": "1992-10-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.348,
+            "vote_count": 632
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+            "id": 927254,
+            "title": "The Twits",
+            "original_title": "The Twits",
+            "overview": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down.",
+            "poster_path": "/zNP1nMRFqa9qAkpCkLeHa1V7kDR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "popularity": 9.4905,
+            "release_date": "2025-10-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.864,
+            "vote_count": 118
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/60JMvMGuLHSlVjoUpi86UiB5Lmq.jpg",
+            "id": 15655,
+            "title": "The Tigger Movie",
+            "original_title": "The Tigger Movie",
+            "overview": "Winnie the Pooh, Piglet, Owl, Kanga, Roo, and Rabbit are preparing a suitable winter home for Eeyore, the perennially dejected donkey, but Tigger's continual bouncing interrupts their efforts. Rabbit suggests that Tigger go find others of his kind to bounce with, but Tigger thinks \"the most wonderful thing about tiggers is\" he's \"the only one!\" Just in case though, the joyously jouncy feline sets out to see if he can find relatives.",
+            "poster_path": "/9OdZKUdGfaBAUwRLbtWpFWKbILO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                35
+            ],
+            "popularity": 6.5711,
+            "release_date": "2000-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.685,
+            "vote_count": 656
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
+            "id": 438695,
+            "title": "Sing 2",
+            "original_title": "Sing 2",
+            "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+            "poster_path": "/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                10402
+            ],
+            "popularity": 16.5551,
+            "release_date": "2021-12-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.833,
+            "vote_count": 4850
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg",
+            "id": 1022787,
+            "title": "Elio",
+            "original_title": "Elio",
+            "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+            "poster_path": "/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                878,
+                10751,
+                35
+            ],
+            "popularity": 15.8626,
+            "release_date": "2025-06-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.911,
+            "vote_count": 1069
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
+            "id": 20352,
+            "title": "Despicable Me",
+            "original_title": "Despicable Me",
+            "overview": "Determined to prove he's the world's greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girls—Margo, Edith, and Agnes—intending to use them as part of his scheme. But the unexpected bond they form forces him to question the life he's always known.",
+            "poster_path": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                80,
+                878,
+                10751
+            ],
+            "popularity": 33.092,
+            "release_date": "2010-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.261,
+            "vote_count": 16233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+            "id": 585,
+            "title": "Monsters, Inc.",
+            "original_title": "Monsters, Inc.",
+            "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+            "poster_path": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "popularity": 34.3737,
+            "release_date": "2001-11-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.856,
+            "vote_count": 20040
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4Q0C49l6KkRbnVlE3N86IljtAXH.jpg",
+            "id": 11704,
+            "title": "The Secret of NIMH",
+            "original_title": "The Secret of NIMH",
+            "overview": "A widowed field mouse must move her family -- including an ailing son -- to escape a farmer's plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.",
+            "poster_path": "/prNrnOKlkV9wl5Sl3zwHu1f3t2z.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                16,
+                18,
+                10751,
+                14,
+                9648,
+                878
+            ],
+            "popularity": 5.198,
+            "release_date": "1982-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.444,
+            "vote_count": 962
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w3LLngJIAA1R7Mp2S3G0HZl2R3H.jpg",
+            "id": 45772,
+            "title": "Gnomeo & Juliet",
+            "original_title": "Gnomeo & Juliet",
+            "overview": "A version of Shakespeare's play, set in the world of warring indoor and outdoor gnomes. Garden gnomes Gnomeo and Juliet have as many obstacles to overcome as their quasi namesakes when they are caught up in a feud between neighbors. But with plastic pink flamingos and lawnmower races in the mix, can this young couple find lasting happiness?",
+            "poster_path": "/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751
+            ],
+            "popularity": 8.233,
+            "release_date": "2011-01-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.906,
+            "vote_count": 2096
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+            "id": 812,
+            "title": "Aladdin",
+            "original_title": "Aladdin",
+            "overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
+            "poster_path": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                14,
+                10749
+            ],
+            "popularity": 19.0843,
+            "release_date": "1992-11-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.658,
+            "vote_count": 12161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vwpxy4kmQyW5aBJ3uxhQM6koU6H.jpg",
+            "id": 743439,
+            "title": "PAW Patrol: Jet to the Rescue",
+            "original_title": "PAW Patrol: Jet to the Rescue",
+            "overview": "A royal relative steals a gem with the power to make things fly, the Paw Patrol takes to the skies to stop him and save Barkingburg.",
+            "poster_path": "/qHcn3PbjVHxBweDZxWpYH3JfugS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751
+            ],
+            "popularity": 3.3852,
+            "release_date": "2020-09-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.091,
+            "vote_count": 171
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rKgqYwlpU32ZO9UTCuXNdhdnU4B.jpg",
+            "id": 3170,
+            "title": "Bambi",
+            "original_title": "Bambi",
+            "overview": "Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.",
+            "poster_path": "/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                18,
+                10751
+            ],
+            "popularity": 9.6711,
+            "release_date": "1942-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 6083
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+            "id": 269149,
+            "title": "Zootopia",
+            "original_title": "Zootopia",
+            "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+            "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                35
+            ],
+            "popularity": 26.1897,
+            "release_date": "2016-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.765,
+            "vote_count": 18351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tVZ8HBPmMF73sMrX1vEGkeAdq8b.jpg",
+            "id": 14873,
+            "title": "The Jungle Book 2",
+            "original_title": "The Jungle Book 2",
+            "overview": "Mowgli has been living in the man-village with his little stepbrother Ranjan and his best friend Shanti. But the man-cub still has that jungle rhythm in his heart, and he misses his old buddies Baloo and Bagheera. When Mowgli wanders back to the wild for some swingin' fun, he soon finds the man-eating tiger Shere Khan is lurking in the shadows and planning his revenge.",
+            "poster_path": "/21GanxizOIL1CN0HLx7j3je8k87.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10751,
+                16,
+                12
+            ],
+            "popularity": 7.4718,
+            "release_date": "2003-02-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.901,
+            "vote_count": 1206
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+            "id": 8587,
+            "title": "The Lion King",
+            "original_title": "The Lion King",
+            "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+            "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                18
+            ],
+            "popularity": 37.9453,
+            "release_date": "1994-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.253,
+            "vote_count": 19935
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wO0MIGcA7w7tBI9Ey80Q4Z7qnPm.jpg",
+            "id": 995133,
+            "title": "The Boy, the Mole, the Fox and the Horse",
+            "original_title": "The Boy, the Mole, the Fox and the Horse",
+            "overview": "The unlikely friendship of a boy, a mole, a fox and a horse traveling together in the boy's search for home.",
+            "poster_path": "/wAKBWRhMmBtrCCuqmFwPm2RGTph.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                18,
+                12
+            ],
+            "popularity": 8.54,
+            "release_date": "2022-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.225,
+            "vote_count": 754
+        }
+    ]
+}

@@ -1,0 +1,984 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            }
+        ],
+        "homepage": "",
+        "id": 1584215,
+        "imdb_id": "tt38238651",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Internship",
+        "overview": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
+        "popularity": 15.8331,
+        "poster_path": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+        "production_companies": [
+            {
+                "id": 177095,
+                "logo_path": "/nfwWCvMNaK687bjyM7un8p7ilz0.png",
+                "name": "SP Media Group",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2026-01-13",
+        "revenue": 0,
+        "runtime": 91,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Internship",
+        "video": false,
+        "vote_average": 6.622,
+        "vote_count": 131
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1520844,
+            "known_for_department": "Acting",
+            "name": "Lizzy Greene",
+            "original_name": "Lizzy Greene",
+            "popularity": 2.1798,
+            "profile_path": "/iWoWhGJ9gBi206SbVeHY7X2LTiG.jpg",
+            "cast_id": 1,
+            "character": "Renee",
+            "credit_id": "6932f6975a0d819cfcc43c35",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 222141,
+            "known_for_department": "Acting",
+            "name": "Megan Boone",
+            "original_name": "Megan Boone",
+            "popularity": 4.007,
+            "profile_path": "/pNLQpWTCX7WgNLfR7aYHQDg9Wod.jpg",
+            "cast_id": 2,
+            "character": "Candace Dalton",
+            "credit_id": "6932f6a6712d7b030fa189f0",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1827955,
+            "known_for_department": "Acting",
+            "name": "Sky Katz",
+            "original_name": "Sky Katz",
+            "popularity": 1.4926,
+            "profile_path": "/xhvma0NjQh8rD5sLfkWIeYt8dAl.jpg",
+            "cast_id": 3,
+            "character": "Apothecary",
+            "credit_id": "6932f6afb477777714a18a6d",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 58428,
+            "known_for_department": "Acting",
+            "name": "Philip Winchester",
+            "original_name": "Philip Winchester",
+            "popularity": 1.7612,
+            "profile_path": "/oc7lc2d98lM393blvmFfAGnXSMf.jpg",
+            "cast_id": 4,
+            "character": "Dick Jones",
+            "credit_id": "6932f6ba5a0d819cfcc43c3a",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3042038,
+            "known_for_department": "Acting",
+            "name": "Alix Villaret",
+            "original_name": "Alix Villaret",
+            "popularity": 0.8857,
+            "profile_path": "/yUJZgLhUb3xy8vkWOS3gS9qdsot.jpg",
+            "cast_id": 5,
+            "character": "Dagger",
+            "credit_id": "6932f6c4712d7b030fa189f8",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5739086,
+            "known_for_department": "Acting",
+            "name": "Ollie Roddy",
+            "original_name": "Ollie Roddy",
+            "popularity": 0.5539,
+            "profile_path": "/oty5qsTkqEw4zrLsQgClhth9tR7.jpg",
+            "cast_id": 6,
+            "character": "Rubicon",
+            "credit_id": "6932f6e72feb8f1eac36e5db",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3962878,
+            "known_for_department": "Acting",
+            "name": "Kaine Buffonge",
+            "original_name": "Kaine Buffonge",
+            "popularity": 0.495,
+            "profile_path": "/jSYyaNljaZi7ISJX0khsdm6OLXu.jpg",
+            "cast_id": 7,
+            "character": "Caliber",
+            "credit_id": "6932f6f26b055d0cb536e52c",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5858810,
+            "known_for_department": "Acting",
+            "name": "Will Pierson",
+            "original_name": "Will Pierson",
+            "popularity": 0.9531,
+            "profile_path": null,
+            "cast_id": 8,
+            "character": "Analyst",
+            "credit_id": "6932f70e66923bd698a18a49",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 119224,
+            "known_for_department": "Acting",
+            "name": "Jonas Armstrong",
+            "original_name": "Jonas Armstrong",
+            "popularity": 1.502,
+            "profile_path": "/7Ia8Dfhqa2bH43NeKSZiPZ9wHAF.jpg",
+            "cast_id": 9,
+            "character": "Vlad Kurchenko",
+            "credit_id": "6932f7203f453d21c8a18ae7",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 38664,
+            "known_for_department": "Acting",
+            "name": "Sullivan Stapleton",
+            "original_name": "Sullivan Stapleton",
+            "popularity": 1.4564,
+            "profile_path": "/vWadhfczxktoYQBC6TaAk6bE6Ci.jpg",
+            "cast_id": 13,
+            "character": "",
+            "credit_id": "6936f2815af5486a2e70b397",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 32854,
+            "known_for_department": "Acting",
+            "name": "Errol Trotman-Harewood",
+            "original_name": "Errol Trotman-Harewood",
+            "popularity": 0.5747,
+            "profile_path": "/os3qZAfBcyR076BjX8lTMgBISFs.jpg",
+            "cast_id": 16,
+            "character": "The Director",
+            "credit_id": "6967be095f8e511173487d42",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1260729,
+            "known_for_department": "Acting",
+            "name": "Orlin Pavlov",
+            "original_name": "Orlin Pavlov",
+            "popularity": 0.6542,
+            "profile_path": "/ewoI6cp3qIs8FsJR8ajpRzTi7rq.jpg",
+            "cast_id": 17,
+            "character": "Yuri",
+            "credit_id": "6967be2771f310902bb1f5fe",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 85511,
+            "known_for_department": "Acting",
+            "name": "Hristo Mitzkov",
+            "original_name": "Hristo Mitzkov",
+            "popularity": 0.5797,
+            "profile_path": "/kiUIdlxS6VoSX2LEiVjlSViLBs8.jpg",
+            "cast_id": 18,
+            "character": "Priest",
+            "credit_id": "6967be42ccec70fd6bec0352",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2718986,
+            "known_for_department": "Acting",
+            "name": "Max Kraus",
+            "original_name": "Max Kraus",
+            "popularity": 0.7148,
+            "profile_path": "/eNDO5cOfyZDmzhadXl4bIUp8OEW.jpg",
+            "cast_id": 19,
+            "character": "Leather Jacket",
+            "credit_id": "6967be61b94aaa151cec0204",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 201871,
+            "known_for_department": "Acting",
+            "name": "Charlotte Weston",
+            "original_name": "Charlotte Weston",
+            "popularity": 1.0827,
+            "profile_path": "/kCOVoyTG3fKRg91DRmH278kqMr6.jpg",
+            "cast_id": 20,
+            "character": "Charlotte",
+            "credit_id": "6967be74ceedc2e746b1f5c7",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5616364,
+            "known_for_department": "Acting",
+            "name": "Alexsandria Ralev",
+            "original_name": "Alexsandria Ralev",
+            "popularity": 0.4362,
+            "profile_path": "/rx0ZtTYmB1UkqM0Ht5XoxSJfAvZ.jpg",
+            "cast_id": 21,
+            "character": "Barista",
+            "credit_id": "6967be8370b6b71451866555",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 61860,
+            "known_for_department": "Production",
+            "name": "Mariana Stansheva",
+            "original_name": "Mariana Stansheva",
+            "popularity": 0.736,
+            "profile_path": "/3fQVzQeRaTbqD777xk5OXtEIOCm.jpg",
+            "cast_id": 31,
+            "character": "Cleaning Woman",
+            "credit_id": "6a25ee293a47f1a4bb9e9a5a",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1739101,
+            "known_for_department": "Acting",
+            "name": "Nathan Cooper",
+            "original_name": "Nathan Cooper",
+            "popularity": 0.6921,
+            "profile_path": "/rjkq191kx9xQF8D5zdPG95QEkcv.jpg",
+            "cast_id": 23,
+            "character": "Ivan",
+            "credit_id": "6967beaad24ce38984686f1d",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3069744,
+            "known_for_department": "Acting",
+            "name": "Elizabeth Gibson",
+            "original_name": "Elizabeth Gibson",
+            "popularity": 0.3211,
+            "profile_path": null,
+            "cast_id": 24,
+            "character": "Intern Woman",
+            "credit_id": "6967bec9b935d65a62703792",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1389927,
+            "known_for_department": "Acting",
+            "name": "Dan Cade",
+            "original_name": "Dan Cade",
+            "popularity": 0.7515,
+            "profile_path": "/b5xIVO8A5HE9UXHPiyB61lVtcP1.jpg",
+            "cast_id": 25,
+            "character": "Agent Rogers",
+            "credit_id": "6967bedcceedc2e746b1f5d3",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5189432,
+            "known_for_department": "Acting",
+            "name": "Anaya Yalamov",
+            "original_name": "Anaya Yalamov",
+            "popularity": 0.3414,
+            "profile_path": null,
+            "cast_id": 26,
+            "character": "Young Renee",
+            "credit_id": "6967beee33b4eed7926870af",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5938871,
+            "known_for_department": "Acting",
+            "name": "William Smalley",
+            "original_name": "William Smalley",
+            "popularity": 0.3074,
+            "profile_path": null,
+            "cast_id": 27,
+            "character": "Little Kid",
+            "credit_id": "6967bf089a3ff15b1b487d77",
+            "order": 21
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2938291,
+            "known_for_department": "Acting",
+            "name": "Todor Todorov",
+            "original_name": "Todor Todorov",
+            "popularity": 0.3745,
+            "profile_path": null,
+            "cast_id": 28,
+            "character": "The Mountain",
+            "credit_id": "6967bf2a1f5090e4c27038f5",
+            "order": 22
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1456570,
+            "known_for_department": "Acting",
+            "name": "Anton Poriazov",
+            "original_name": "Anton Poriazov",
+            "popularity": 0.3598,
+            "profile_path": "/wzFAGn5pZOOOLC7KndmGZemYZtF.jpg",
+            "cast_id": 29,
+            "character": "Father",
+            "credit_id": "6967bf3e93be2dfa4f70385f",
+            "order": 23
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5938875,
+            "known_for_department": "Acting",
+            "name": "Bozhidar Hristov",
+            "original_name": "Bozhidar Hristov",
+            "popularity": 0.2618,
+            "profile_path": null,
+            "cast_id": 30,
+            "character": "Russian Mafia Man (uncredited)",
+            "credit_id": "6967bf66adf3ac1454b1f658",
+            "order": 24
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 113194,
+            "known_for_department": "Crew",
+            "name": "James Bamford",
+            "original_name": "James Bamford",
+            "popularity": 0.8205,
+            "profile_path": null,
+            "credit_id": "69335863e2359bf73a2433c7",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 16838,
+            "known_for_department": "Production",
+            "name": "Steven Paul",
+            "original_name": "Steven Paul",
+            "popularity": 0.9515,
+            "profile_path": "/r3QqlY7B8sefjiCUAJhREuA5NJB.jpg",
+            "credit_id": "6933587ac100ac2f6605ca8d",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 108846,
+            "known_for_department": "Writing",
+            "name": "J. D. Zeik",
+            "original_name": "J. D. Zeik",
+            "popularity": 0.5418,
+            "profile_path": null,
+            "credit_id": "69335885a5fa7f163448e3cb",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 113092,
+            "known_for_department": "Sound",
+            "name": "Rich Walters",
+            "original_name": "Rich Walters",
+            "popularity": 0.4883,
+            "profile_path": null,
+            "credit_id": "6964fb5c59a0f630bd9348d5",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1542347,
+            "known_for_department": "Camera",
+            "name": "Ivan Vatsov",
+            "original_name": "Ivan Vatsov",
+            "popularity": 0.3874,
+            "profile_path": null,
+            "credit_id": "6964fb6d3af6831885d4f26a",
+            "department": "Camera",
+            "job": "Director of Photography"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 4654,
+            "name": "undercover agent"
+        },
+        {
+            "id": 3269,
+            "name": "secret mission"
+        },
+        {
+            "id": 217140,
+            "name": "double identity"
+        },
+        {
+            "id": 290489,
+            "name": "special power"
+        },
+        {
+            "id": 298577,
+            "name": "international espionage"
+        },
+        {
+            "id": 332774,
+            "name": "cia agent"
+        },
+        {
+            "id": 369598,
+            "name": "covert operations"
+        },
+        {
+            "id": 370644,
+            "name": "fsb agent"
+        },
+        {
+            "id": 370645,
+            "name": "special education program"
+        },
+        {
+            "id": 372397,
+            "name": "identity confusion"
+        },
+        {
+            "id": 374260,
+            "name": "team bonding"
+        },
+        {
+            "id": 374261,
+            "name": "hidden abilities"
+        },
+        {
+            "id": 374262,
+            "name": "field training"
+        },
+        {
+            "id": 374263,
+            "name": "competitive interns"
+        },
+        {
+            "id": 374264,
+            "name": "workplace chaos"
+        },
+        {
+            "id": 374265,
+            "name": "young interns"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/bLopKAjghlBaKorJelPbrs89L8W.jpg",
+            "id": 504148,
+            "title": "The Serpent",
+            "original_title": "The Serpent",
+            "overview": "Top special agent Lucinda Kavsky works for a secret part of the CIA. She's given a special assignment but then set up by her own agency.",
+            "poster_path": "/5OSfx8jJrjHWO9SU3Wtfd7Rs8PF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28
+            ],
+            "popularity": 2.185,
+            "release_date": "2021-01-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.194,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9LMIoURuLvxEVKMib4DoVVcJJ5l.jpg",
+            "id": 1620,
+            "title": "Hitman",
+            "original_title": "Hitman",
+            "overview": "A genetically engineered assassin with deadly aim, known only as \"Agent 47\" eliminates strategic targets for a top-secret organization. But when he's double-crossed, the hunter becomes the prey as 47 finds himself in a life-or-death game of international intrigue.",
+            "poster_path": "/h69UJOOKlrHcvhl5H2LY74N61DQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                18
+            ],
+            "popularity": 8.7913,
+            "release_date": "2007-11-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.169,
+            "vote_count": 3710
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
+            "id": 207703,
+            "title": "Kingsman: The Secret Service",
+            "original_title": "Kingsman: The Secret Service",
+            "overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+            "poster_path": "/17i5YPTfHOjXoieArpATWGRhLj1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                35,
+                28,
+                12
+            ],
+            "popularity": 17.2841,
+            "release_date": "2015-01-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.619,
+            "vote_count": 17984
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gsQJOfeW45KLiQeEIsom94QPQwb.jpg",
+            "id": 1125899,
+            "title": "Cleaner",
+            "original_title": "Cleaner",
+            "overview": "When a group of radical activists take over an energy company's annual gala, seizing 300 hostages, an ex-soldier turned window cleaner suspended 50 storeys up on the outside of the building must save those trapped inside, including her older brother.",
+            "poster_path": "/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 8.8073,
+            "release_date": "2025-02-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.613,
+            "vote_count": 633
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s4s38yygyyeVacxQimu0jbuPjYk.jpg",
+            "id": 11412,
+            "title": "The Long Kiss Goodnight",
+            "original_title": "The Long Kiss Goodnight",
+            "overview": "Samantha Caine is a small-town schoolteacher and mom with no memory of her life before washing up on a beach eight years ago. After a car accident and a violent home invasion trigger flashes of her past, she discovers she used to be a deadly CIA assassin. Teaming up with a wisecracking private investigator, Samantha must return to her old ways to take down the people who tried to erase her.",
+            "poster_path": "/yREdXX5lMFUKhTvb0ofI7mzUHlR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                28,
+                9648,
+                53
+            ],
+            "popularity": 6.2643,
+            "release_date": "1996-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.582,
+            "vote_count": 1375
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8TLkiYAUwEXInVCJ3cQVyZXChyZ.jpg",
+            "id": 717930,
+            "title": "Kandahar",
+            "original_title": "Kandahar",
+            "overview": "After his mission is exposed, an undercover CIA operative stuck deep in hostile territory in Afghanistan must fight his way out, alongside his Afghan translator, to an extraction point in Kandahar, all whilst avoiding elite enemy forces and foreign spies tasked with hunting them down.",
+            "poster_path": "/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                10752
+            ],
+            "popularity": 6.9114,
+            "release_date": "2023-05-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.775,
+            "vote_count": 1285
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vz3bzzB2E3l3IkZoJYCIuMo8Bav.jpg",
+            "id": 997120,
+            "title": "Sniper: Rogue Mission",
+            "original_title": "Sniper: Rogue Mission",
+            "overview": "When a crooked federal agent is involved in a human sex trafficking ring, Sniper and CIA Rookie Brandon Beckett goes rogue, teaming up with his former allies Homeland Security Agent Zero and assassin Lady Death to uncover the corrupt agent and take down the criminal organization.",
+            "poster_path": "/wUkXarFUJqLlq6Zl69OYUnneNi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                9648
+            ],
+            "popularity": 3.3,
+            "release_date": "2022-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.22,
+            "vote_count": 182
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+            "id": 1641319,
+            "title": "Sniper: No Nation",
+            "original_title": "Sniper: No Nation",
+            "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
+            "poster_path": "/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 19.8856,
+            "release_date": "2026-03-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2nOMUnQ4OtsKVTmpp3og7MYt4oG.jpg",
+            "id": 347375,
+            "title": "Mile 22",
+            "original_title": "Mile 22",
+            "overview": "An elite group of American operatives, aided by a top-secret tactical command team, must transport an asset who holds life-threatening information to an extraction point 22 miles away through the hostile streets of an Asian city.",
+            "poster_path": "/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 9.5706,
+            "release_date": "2018-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.266,
+            "vote_count": 2483
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fvpDegC0EGBZCZPDHDineAL4P8F.jpg",
+            "id": 11384,
+            "title": "The Hard Way",
+            "original_title": "The Hard Way",
+            "overview": "Seeking to raise his credibility as an actor and to land a role as a tough cop on a new show, Hollywood action star Nick Lang works a deal with New York City Police Capt. Brix, who by chance is one of his fans. Nick will be paired with detective Lt. John Moss and learn how to act like a real cop. But when Nick drives John crazy with questions and imitating him, he gets in the way of John's pursuit of a serial killer.",
+            "poster_path": "/k7RhWe8ebHGPp40DDTfFTEoL6CO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "popularity": 4.18,
+            "release_date": "1991-03-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.166,
+            "vote_count": 491
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vjwuT8EzWY96W6nrJKZNI2WJU87.jpg",
+            "id": 8909,
+            "title": "Wanted",
+            "original_title": "Wanted",
+            "overview": "Doormat Wesley Gibson is an office worker whose life is going nowhere. He meets an attractive woman named Fox and discovers that his recently murdered father - whom Wesley never knew - belonged to the Fraternity, a secret society of assassins which takes its orders from Fate itself. Fox and Sloan, the Fraternity's leader, teach Wesley, through intense training, to tap into dormant powers and hone his innate killing skills. Though he enjoys his newfound abilities, he begins to suspect that there is more to the Fraternity than meets the eye.",
+            "poster_path": "/njy7Pz7ZHZceO7lNfGIHKphY8Hd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 10.4423,
+            "release_date": "2008-06-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.529,
+            "vote_count": 7696
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yRtZmZa2bmDYaOKygG7IaroSXwg.jpg",
+            "id": 249070,
+            "title": "Hitman: Agent 47",
+            "original_title": "Hitman: Agent 47",
+            "overview": "An assassin teams up with a woman to help her find her father and uncover the mysteries of her ancestry.",
+            "poster_path": "/cx9AOBOv9Qf5ufZYQMbfTV7w7VY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 7.7726,
+            "release_date": "2015-08-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.905,
+            "vote_count": 3331
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+            "id": 23483,
+            "title": "Kick-Ass",
+            "original_title": "Kick-Ass",
+            "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+            "poster_path": "/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "popularity": 13.1837,
+            "release_date": "2010-03-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.121,
+            "vote_count": 12515
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg",
+            "id": 955,
+            "title": "Mission: Impossible II",
+            "original_title": "Mission: Impossible II",
+            "overview": "With computer genius Luther Stickell at his side and a beautiful thief on his mind, agent Ethan Hunt races across Australia and Spain to stop a former IMF agent from unleashing a genetically engineered biological weapon called Chimera. This mission, should Hunt choose to accept it, plunges him into the center of an international crisis of terrifying magnitude.",
+            "poster_path": "/hfnrual76gPeNFduhD4xzHWpfTw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "popularity": 12.3353,
+            "release_date": "2000-05-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 7693
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kutrMwSVEcGFn5F0fUJYYRPzuxn.jpg",
+            "id": 1048241,
+            "title": "My Spy The Eternal City",
+            "original_title": "My Spy The Eternal City",
+            "overview": "JJ, a veteran CIA agent, reunites with his protégé Sophie, in order to prevent a catastrophic nuclear plot targeting the Vatican.",
+            "poster_path": "/fRBfkzSrcyrnUfVgpEtTurEEiac.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                10751
+            ],
+            "popularity": 6.2473,
+            "release_date": "2024-07-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.529,
+            "vote_count": 488
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+            "id": 1122573,
+            "title": "In the Grey",
+            "original_title": "In the Grey",
+            "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+            "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 51.9372,
+            "release_date": "2026-05-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.553,
+            "vote_count": 664
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/54yOImQgj8i85u9hxxnaIQBRUuo.jpg",
+            "id": 539885,
+            "title": "Ava",
+            "original_title": "Ava",
+            "overview": "A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.",
+            "poster_path": "/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 7.2279,
+            "release_date": "2020-07-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.825,
+            "vote_count": 2784
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg",
+            "id": 156022,
+            "title": "The Equalizer",
+            "original_title": "The Equalizer",
+            "overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+            "poster_path": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80
+            ],
+            "popularity": 22.4415,
+            "release_date": "2014-09-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 10081
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p5z5X3GRnaFEqgtEa7fiGhgtUkA.jpg",
+            "id": 7304,
+            "title": "Running Scared",
+            "original_title": "Running Scared",
+            "overview": "A low-ranking thug is entrusted by his boss to dispose of a gun that killed corrupt cops, but things spiral out of control when the gun ends up in wrong hands.",
+            "poster_path": "/f2LU6M8wFmt6G1fzv9JFWbIkRd9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "popularity": 5.1786,
+            "release_date": "2006-01-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.993,
+            "vote_count": 1184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c70FgVZ2e34xyJqN4rEGuiAAre2.jpg",
+            "id": 18355,
+            "title": "The Assignment",
+            "original_title": "The Assignment",
+            "overview": "Jack Shaw has experienced the terror first-hand. He's a top CIA agent who's tracked international killer-for-hire Carlos \"The Jackal\" Sanchez for over twenty years and barely survived Carlos' devastating bombing of a Parisian cafe. Now, he finally gets a break when he discovers Carlos' dead ringer: American naval officer and dedicated family man Annibal Ramirez.",
+            "poster_path": "/lhuV5cvxFhUrB6F4smVZGmdSwbT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80
+            ],
+            "popularity": 3.0247,
+            "release_date": "1997-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.355,
+            "vote_count": 162
+        }
+    ]
+}

@@ -1,0 +1,1220 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/mFhz8N5lyficOCh9tA7pSebOdMw.jpg",
+        "belongs_to_collection": {
+            "id": 116669,
+            "name": "The Scorpion King Collection",
+            "poster_path": "/qFVW76HRCJFRtTha1vZO1tjYVQ1.jpg",
+            "backdrop_path": "/pjuePEg6pGiYcTVmsyJqaftYrCs.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "",
+        "id": 13486,
+        "imdb_id": "tt1104123",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Scorpion King 2: Rise of a Warrior",
+        "overview": "The heroic tale of young Mathayus and his relentless quest for justice against an evil and powerful villain, King Sargon. Mathayus faces heart-stopping tribulations during his adventurous, odds-defying trajectory toward his ultimate destiny: becoming the formidable warrior king of an ancient desert empire.",
+        "popularity": 10.4841,
+        "poster_path": "/osZ6HJJBPwptZLTXFYbGQ0Jc7WB.jpg",
+        "production_companies": [
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 3299,
+                "logo_path": null,
+                "name": "ApolloMovie Beteiligungs",
+                "origin_country": ""
+            },
+            {
+                "id": 19643,
+                "logo_path": null,
+                "name": "The Sommers Company",
+                "origin_country": ""
+            },
+            {
+                "id": 773,
+                "logo_path": "/qkcN6yZEyBw3cgO5DJu55LGEsf7.png",
+                "name": "Film Afrika",
+                "origin_country": "ZA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "ZA",
+                "name": "South Africa"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "release_date": "2008-07-19",
+        "revenue": 0,
+        "runtime": 109,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "See how the legend of The Scorpion King began!",
+        "title": "The Scorpion King 2: Rise of a Warrior",
+        "video": false,
+        "vote_average": 4.758,
+        "vote_count": 637
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 78036,
+            "known_for_department": "Acting",
+            "name": "Michael Copon",
+            "original_name": "Michael Copon",
+            "popularity": 1.2159,
+            "profile_path": "/i3k6kmAA3LLlPFEzkOs5hRIfwg6.jpg",
+            "cast_id": 1,
+            "character": "Mathayus",
+            "credit_id": "52fe45709251416c750567ef",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 74748,
+            "known_for_department": "Acting",
+            "name": "Randy Couture",
+            "original_name": "Randy Couture",
+            "popularity": 1.3146,
+            "profile_path": "/pmdPaQBWufFVwVxJYofLcERZr1l.jpg",
+            "cast_id": 2,
+            "character": "Sargon",
+            "credit_id": "52fe45709251416c750567f3",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 79124,
+            "known_for_department": "Acting",
+            "name": "Karen David",
+            "original_name": "Karen David",
+            "popularity": 1.3243,
+            "profile_path": "/zi4fUbrhvXqufdR4Ws7WflNUGLs.jpg",
+            "cast_id": 3,
+            "character": "Layla (as Karen David)",
+            "credit_id": "52fe45709251416c750567f7",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 141463,
+            "known_for_department": "Acting",
+            "name": "Simon Quarterman",
+            "original_name": "Simon Quarterman",
+            "popularity": 0.8478,
+            "profile_path": "/m9U1BfmPT9XJLizKaWb7mp9IZje.jpg",
+            "cast_id": 7,
+            "character": "Ari",
+            "credit_id": "52fe45709251416c7505680d",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 67212,
+            "known_for_department": "Acting",
+            "name": "Tom Wu",
+            "original_name": "Tom Wu",
+            "popularity": 1.6429,
+            "profile_path": "/qBQAerjLCCglXIyMURUj3hPpiCM.jpg",
+            "cast_id": 8,
+            "character": "Fong",
+            "credit_id": "52fe45709251416c75056811",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 10673,
+            "known_for_department": "Acting",
+            "name": "Andreas Wisniewski",
+            "original_name": "Andreas Wisniewski",
+            "popularity": 0.7071,
+            "profile_path": "/sTI9mDwajw4j6HX3Ze4qoK3lhE7.jpg",
+            "cast_id": 9,
+            "character": "Pollux",
+            "credit_id": "52fe45709251416c75056815",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 141464,
+            "known_for_department": "Acting",
+            "name": "Natalie Becker",
+            "original_name": "Natalie Becker",
+            "popularity": 0.9393,
+            "profile_path": "/61BYuT0gYCGkCk7anrhm590pbAN.jpg",
+            "cast_id": 10,
+            "character": "Astarte",
+            "credit_id": "52fe45709251416c75056819",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 20304,
+            "known_for_department": "Acting",
+            "name": "Jeremy Crutchley",
+            "original_name": "Jeremy Crutchley",
+            "popularity": 1.0331,
+            "profile_path": "/cXFWc8L1CyCfzpiBCzmSH5OAzgI.jpg",
+            "cast_id": 11,
+            "character": "Baldo",
+            "credit_id": "52fe45709251416c7505681d",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 141465,
+            "known_for_department": "Acting",
+            "name": "Shane Manie",
+            "original_name": "Shane Manie",
+            "popularity": 0.5285,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "Jesup",
+            "credit_id": "52fe45709251416c75056821",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 141466,
+            "known_for_department": "Acting",
+            "name": "Chase Agulhas",
+            "original_name": "Chase Agulhas",
+            "popularity": 0.3165,
+            "profile_path": null,
+            "cast_id": 13,
+            "character": "Young Noah",
+            "credit_id": "52fe45709251416c75056825",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 141467,
+            "known_for_department": "Acting",
+            "name": "Pierre Marais",
+            "original_name": "Pierre Marais",
+            "popularity": 0.2771,
+            "profile_path": null,
+            "cast_id": 14,
+            "character": "Young Mathayus",
+            "credit_id": "52fe45709251416c75056829",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 107550,
+            "known_for_department": "Acting",
+            "name": "Warrick Grier",
+            "original_name": "Warrick Grier",
+            "popularity": 0.8617,
+            "profile_path": "/r10e3Ae78PZvGE3sADiiW51hihx.jpg",
+            "cast_id": 15,
+            "character": "General Abalgamash",
+            "credit_id": "52fe45709251416c7505682d",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 141468,
+            "known_for_department": "Acting",
+            "name": "Az Abrahams",
+            "original_name": "Az Abrahams",
+            "popularity": 0.2578,
+            "profile_path": null,
+            "cast_id": 16,
+            "character": "King Hammurabi",
+            "credit_id": "52fe45709251416c75056831",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 141469,
+            "known_for_department": "Acting",
+            "name": "Vaneshran Arumugam",
+            "original_name": "Vaneshran Arumugam",
+            "popularity": 0.4287,
+            "profile_path": null,
+            "cast_id": 17,
+            "character": "Gudean Emissary",
+            "credit_id": "52fe45709251416c75056835",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 62539,
+            "known_for_department": "Writing",
+            "name": "Mike Thompson",
+            "original_name": "Mike Thompson",
+            "popularity": 0.4652,
+            "profile_path": null,
+            "cast_id": 18,
+            "character": "Molokh",
+            "credit_id": "52fe45709251416c75056839",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 141470,
+            "known_for_department": "Lighting",
+            "name": "Wayne Shields",
+            "original_name": "Wayne Shields",
+            "popularity": 0.5749,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "Black Eyed Soldier",
+            "credit_id": "52fe45709251416c7505683d",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 141471,
+            "known_for_department": "Acting",
+            "name": "Diane Wilson",
+            "original_name": "Diane Wilson",
+            "popularity": 0.1479,
+            "profile_path": null,
+            "cast_id": 21,
+            "character": "Woman in Swamp",
+            "credit_id": "52fe45709251416c75056841",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 141472,
+            "known_for_department": "Acting",
+            "name": "Nathan Fredericks",
+            "original_name": "Nathan Fredericks",
+            "popularity": 0.3083,
+            "profile_path": null,
+            "cast_id": 22,
+            "character": "Soldier",
+            "credit_id": "52fe45709251416c75056845",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 68501,
+            "known_for_department": "Acting",
+            "name": "Sean Higgs",
+            "original_name": "Sean Higgs",
+            "popularity": 0.6598,
+            "profile_path": "/lkd6DxD16G21bl46AZLePFUtemk.jpg",
+            "cast_id": 23,
+            "character": "New High Priest",
+            "credit_id": "52fe45709251416c75056849",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 169795,
+            "known_for_department": "Acting",
+            "name": "Robin Smith",
+            "original_name": "Robin Smith",
+            "popularity": 0.2188,
+            "profile_path": null,
+            "cast_id": 24,
+            "character": "High Priest",
+            "credit_id": "52fe45709251416c7505684d",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 152244,
+            "known_for_department": "Acting",
+            "name": "Peter Butler",
+            "original_name": "Peter Butler",
+            "popularity": 0.672,
+            "profile_path": "/bt8rWadjxilIrRUsmWh0eT7IqgA.jpg",
+            "cast_id": 25,
+            "character": "Ashur",
+            "credit_id": "59dfa036925141251f0a9870",
+            "order": 20
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7775,
+            "known_for_department": "Writing",
+            "name": "Stephen Sommers",
+            "original_name": "Stephen Sommers",
+            "popularity": 1.6366,
+            "profile_path": "/wGhd7IF1Buf7qPXuC4y1t02hams.jpg",
+            "credit_id": "52fe45709251416c75056809",
+            "department": "Writing",
+            "job": "Characters"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52968,
+            "known_for_department": "Directing",
+            "name": "Russell Mulcahy",
+            "original_name": "Russell Mulcahy",
+            "popularity": 0.9898,
+            "profile_path": "/gzJDD5bj0fBgvyb2puB6O951Gnv.jpg",
+            "credit_id": "52fe45709251416c750567fd",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 141462,
+            "known_for_department": "Writing",
+            "name": "Randall McCormick",
+            "original_name": "Randall McCormick",
+            "popularity": 0.6483,
+            "profile_path": null,
+            "credit_id": "52fe45709251416c75056803",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1621832,
+            "known_for_department": "Editing",
+            "name": "John Gilbert",
+            "original_name": "John Gilbert",
+            "popularity": 0.5723,
+            "profile_path": null,
+            "credit_id": "6386d1f9cb8028007cb56f35",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7779,
+            "known_for_department": "Production",
+            "name": "Sean Daniel",
+            "original_name": "Sean Daniel",
+            "popularity": 0.8144,
+            "profile_path": "/8ImPWM8YCxPSvZCDrDdxeCgNBeU.jpg",
+            "credit_id": "5e0ff1726f43ec0014593439",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 22011,
+            "known_for_department": "Production",
+            "name": "Thomas Becker",
+            "original_name": "Thomas Becker",
+            "popularity": 0.3262,
+            "profile_path": null,
+            "credit_id": "5e0ff1635907de0017d95335",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7780,
+            "known_for_department": "Production",
+            "name": "James Jacks",
+            "original_name": "James Jacks",
+            "popularity": 0.5184,
+            "profile_path": "/9kHNR1Sg7zVYCtzzff73qxJUEIO.jpg",
+            "credit_id": "5e0ff1ab5907de0012d92f98",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19697,
+            "known_for_department": "Production",
+            "name": "David Wicht",
+            "original_name": "David Wicht",
+            "popularity": 0.5244,
+            "profile_path": null,
+            "credit_id": "5e0ff1db5907de0012d93015",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 19690,
+            "known_for_department": "Art",
+            "name": "Jonathan Hely-Hutchinson",
+            "original_name": "Jonathan Hely-Hutchinson",
+            "popularity": 0.375,
+            "profile_path": null,
+            "credit_id": "5e0ff358d64ac200185fa8ce",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 76257,
+            "known_for_department": "Camera",
+            "name": "Glynn Speeckaert",
+            "original_name": "Glynn Speeckaert",
+            "popularity": 0.3483,
+            "profile_path": null,
+            "credit_id": "5e0ff21658361b0012c0dba1",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 8313,
+            "known_for_department": "Production",
+            "name": "Jeremy Zimmermann",
+            "original_name": "Jeremy Zimmermann",
+            "popularity": 0.7089,
+            "profile_path": "/nbC7GANydA7g5ew8QmtxoCfdYpw.jpg",
+            "credit_id": "5e0ff30b58361b0015c15cd7",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7775,
+            "known_for_department": "Writing",
+            "name": "Stephen Sommers",
+            "original_name": "Stephen Sommers",
+            "popularity": 1.6366,
+            "profile_path": "/wGhd7IF1Buf7qPXuC4y1t02hams.jpg",
+            "credit_id": "5e0ff1eb663b87001780acf8",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1323125,
+            "known_for_department": "Art",
+            "name": "Christophe Dalberg",
+            "original_name": "Christophe Dalberg",
+            "popularity": 0.3987,
+            "profile_path": null,
+            "credit_id": "5e0ff346d64ac200165f7268",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 81828,
+            "known_for_department": "Production",
+            "name": "Manuel Puro",
+            "original_name": "Manuel Puro",
+            "popularity": 0.318,
+            "profile_path": "/quN6F6EnHqXXrfmi6ka3PT1XZrW.jpg",
+            "credit_id": "5e0ff2f8663b87001780af61",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 122,
+            "known_for_department": "Sound",
+            "name": "Klaus Badelt",
+            "original_name": "Klaus Badelt",
+            "popularity": 0.7422,
+            "profile_path": "/tU2OY1Oj5a2JVh9VKt9QsDPZkos.jpg",
+            "credit_id": "5e0ff205d64ac200185fa47e",
+            "department": "Sound",
+            "job": "Music"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1530270,
+            "known_for_department": "Production",
+            "name": "Nina Heyns",
+            "original_name": "Nina Heyns",
+            "popularity": 0.3952,
+            "profile_path": null,
+            "credit_id": "5e0ff19958361b0010c15531",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 62686,
+            "known_for_department": "Production",
+            "name": "Jörg Westerkamp",
+            "original_name": "Jörg Westerkamp",
+            "popularity": 0.417,
+            "profile_path": null,
+            "credit_id": "5e0ff1cdd64ac200185fa333",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19691,
+            "known_for_department": "Art",
+            "name": "Tom Hannam",
+            "original_name": "Tom Hannam",
+            "popularity": 0.3758,
+            "profile_path": null,
+            "credit_id": "5e0ff329663b870015805fef",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1633444,
+            "known_for_department": "Production",
+            "name": "Lisa Gooding",
+            "original_name": "Lisa Gooding",
+            "popularity": 0.3037,
+            "profile_path": null,
+            "credit_id": "5e0ff18a663b87001380802e",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 57343,
+            "known_for_department": "Production",
+            "name": "Kevin Misher",
+            "original_name": "Kevin Misher",
+            "popularity": 0.6179,
+            "profile_path": "/pZI2kJyR1aIGLJUb2Oeoi5QgA5t.jpg",
+            "credit_id": "5e0ff1b85907de0012d92fdf",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2734950,
+            "known_for_department": "Art",
+            "name": "Steven Saunders",
+            "original_name": "Steven Saunders",
+            "popularity": 0.4112,
+            "profile_path": null,
+            "credit_id": "5f2dd0abf48b340037ad9c4c",
+            "department": "Art",
+            "job": "Props"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3564051,
+            "known_for_department": "Crew",
+            "name": "Luke Rhode",
+            "original_name": "Luke Rhode",
+            "popularity": 0.3206,
+            "profile_path": "/pIx4xBqIwauBROmZwyxtOC6VtnY.jpg",
+            "credit_id": "67cee76c2794b0d5982ac3ab",
+            "department": "Crew",
+            "job": "Stunts"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 2343,
+            "name": "magic"
+        },
+        {
+            "id": 2803,
+            "name": "affectation"
+        },
+        {
+            "id": 3070,
+            "name": "mercenary"
+        },
+        {
+            "id": 4613,
+            "name": "training"
+        },
+        {
+            "id": 8011,
+            "name": "greek"
+        },
+        {
+            "id": 9663,
+            "name": "sequel"
+        },
+        {
+            "id": 9725,
+            "name": "sword fight"
+        },
+        {
+            "id": 9748,
+            "name": "revenge"
+        },
+        {
+            "id": 10141,
+            "name": "battlefield"
+        },
+        {
+            "id": 14946,
+            "name": "fictional war"
+        },
+        {
+            "id": 15285,
+            "name": "spin off"
+        },
+        {
+            "id": 18034,
+            "name": "desert"
+        },
+        {
+            "id": 168297,
+            "name": "tyrant"
+        },
+        {
+            "id": 192913,
+            "name": "warrior"
+        },
+        {
+            "id": 219404,
+            "name": "action hero"
+        },
+        {
+            "id": 234213,
+            "name": "sword and sorcery"
+        },
+        {
+            "id": 251513,
+            "name": "supernatural power"
+        },
+        {
+            "id": 325765,
+            "name": "amused"
+        },
+        {
+            "id": 325767,
+            "name": "apathetic"
+        },
+        {
+            "id": 325793,
+            "name": "derisive"
+        },
+        {
+            "id": 325799,
+            "name": "disheartening"
+        },
+        {
+            "id": 325819,
+            "name": "frustrated"
+        },
+        {
+            "id": 325820,
+            "name": "gentle"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/7aiQebqYUHbs2wZPhsTznuMWyeH.jpg",
+            "id": 1253000,
+            "title": "Deathstalker",
+            "original_title": "Deathstalker",
+            "overview": "A powerful swordsman known as Deathstalker recovers a cursed amulet from a corpse-strewn battlefield. Marked by dark magic and hunted by monstrous assassins, he must face the rising evil and break the curse.",
+            "poster_path": "/nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                28,
+                12
+            ],
+            "popularity": 4.5723,
+            "release_date": "2025-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 78
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/syGl3udgPqjCYrs6pzbcV0Tb2jk.jpg",
+            "id": 522417,
+            "title": "Scorpion King: Book of Souls",
+            "original_title": "Scorpion King: Book of Souls",
+            "overview": "The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.",
+            "poster_path": "/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "popularity": 10.0454,
+            "release_date": "2018-10-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.868,
+            "vote_count": 319
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fNp2ikvY8WZTyVbK1iXW84RLbO5.jpg",
+            "id": 9387,
+            "title": "Conan the Barbarian",
+            "original_title": "Conan the Barbarian",
+            "overview": "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+            "poster_path": "/qw2A587Ee61IwcSOLNFRhuOACZZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "popularity": 11.294,
+            "release_date": "1982-03-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.803,
+            "vote_count": 2859
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/csGtdiy96oNLLh2rcXzj77ZWL91.jpg",
+            "id": 388191,
+            "title": "Mythica: The Iron Crown",
+            "original_title": "Mythica: The Iron Crown",
+            "overview": "When a team of unlikely heroes hijacks a steam-powered battle wagon, a daring young wizard (Marek) steals the final piece of the all-powerful Darkspore and embarks on a desperate quest to deliver the cursed artifact to the gods for safe keeping; but when they are caught in a death race between a ruthless team of elite mercenaries and a trinity of demons, Marek must learn to believe in herself before her friends are killed and the Darkspore is lost, to stop the evil necromancer (Szorlok) from uniting the Darkspore and flooding the living world with his legions of undead.",
+            "poster_path": "/8y3G8g7E7SXZ74XDt6gaxyfELse.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "popularity": 2.1916,
+            "release_date": "2016-05-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 80
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2EfbAWLq8s2f1LxTAIuLGYpKETV.jpg",
+            "id": 8009,
+            "title": "Highlander",
+            "original_title": "Highlander",
+            "overview": "He fought his first battle on the Scottish Highlands in 1536. He will fight his greatest battle on the streets of New York City in 1986. His name is Connor MacLeod. He is immortal.",
+            "poster_path": "/8Z8dptJEypuLoOQro1WugD855YE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                28,
+                14
+            ],
+            "popularity": 11.3248,
+            "release_date": "1986-03-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 2964
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tOqIwliWMovSIZ9DyvHcHI7p2im.jpg",
+            "id": 558449,
+            "title": "Gladiator II",
+            "original_title": "Gladiator II",
+            "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+            "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                18
+            ],
+            "popularity": 31.3694,
+            "release_date": "2024-11-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.603,
+            "vote_count": 4628
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mUhPYDfXm8F6wdFifDLl8E2jUpu.jpg",
+            "id": 666750,
+            "title": "Dragonheart: Vengeance",
+            "original_title": "Dragonheart: Vengeance",
+            "overview": "Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.",
+            "poster_path": "/qs6gz6atyQcAvqC6qZaslOjliUG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                28,
+                12
+            ],
+            "popularity": 3.6076,
+            "release_date": "2021-03-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/45WeAxvUnpLXohr9yuB5kD6O97I.jpg",
+            "id": 321068,
+            "title": "Mythica: A Quest for Heroes",
+            "original_title": "Mythica: A Quest for Heroes",
+            "overview": "Stuck in a life of indentured servitude, Marek dreams of becoming a wizard. When she meets the beautiful priestess Teela in need of help, she offers her assistance and provides a motley troupe. Together they go in search of Teela's sister, who was kidnapped by a wild ogre.",
+            "poster_path": "/n75lUF6T2uvy1ZhVyjmdfaTfDT5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "popularity": 2.732,
+            "release_date": "2014-12-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 166
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+            "id": 931285,
+            "title": "Mortal Kombat II",
+            "original_title": "Mortal Kombat II",
+            "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+            "poster_path": "/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                14,
+                12
+            ],
+            "popularity": 88.863,
+            "release_date": "2026-05-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.91,
+            "vote_count": 2290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vbcUqIQZl7q7O2op2NT0ZqTLXxH.jpg",
+            "id": 37958,
+            "title": "Immortals",
+            "original_title": "Immortals",
+            "overview": "Theseus is a mortal man chosen by Zeus to lead the fight against the ruthless King Hyperion, who is on a rampage across Greece to obtain a weapon that can destroy humanity.",
+            "poster_path": "/4SPPX5KIyaQ9O8n5rLvvUIiIhpF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                28,
+                18
+            ],
+            "popularity": 8.8509,
+            "release_date": "2011-11-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.054,
+            "vote_count": 2855
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qZYvF1M7y8Gfp4S6OBHbYfB0Lgc.jpg",
+            "id": 639933,
+            "title": "The Northman",
+            "original_title": "The Northman",
+            "overview": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+            "poster_path": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "popularity": 15.0422,
+            "release_date": "2022-04-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 5173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/br1zDvgmBPa1EbBrUmEDaXXgykq.jpg",
+            "id": 9355,
+            "title": "Mad Max Beyond Thunderdome",
+            "original_title": "Mad Max Beyond Thunderdome",
+            "overview": "Mad Max becomes a pawn in a decadent oasis of a technological society, and when exiled, becomes the deliverer of a colony of children.",
+            "poster_path": "/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 9.0511,
+            "release_date": "1985-06-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.227,
+            "vote_count": 3315
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vw3zNfzvnVNF7nIjpiEgcdznfeC.jpg",
+            "id": 664767,
+            "title": "Mortal Kombat Legends: Scorpion's Revenge",
+            "original_title": "Mortal Kombat Legends: Scorpion's Revenge",
+            "overview": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade, and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung's horde of Outworld gladiators and reign over the Mortal Kombat tournament.",
+            "poster_path": "/iBvo3qOPcmhlqAaJcXcQHtx2qLk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "popularity": 6.2259,
+            "release_date": "2020-04-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.099,
+            "vote_count": 1511
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+            "id": 1271,
+            "title": "300",
+            "original_title": "300",
+            "overview": "A story very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians.",
+            "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                10752
+            ],
+            "popularity": 17.014,
+            "release_date": "2007-03-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.208,
+            "vote_count": 14935
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nl18gyzai02Tu99VkURu7kCFrR8.jpg",
+            "id": 184315,
+            "title": "Hercules",
+            "original_title": "Hercules",
+            "overview": "When a new enemy threatens the innocent, Hercules must lead his fearless team of warriors in a battle against overwhelming odds.",
+            "poster_path": "/sKNIwY6UENCJ36FvYvnBW3Vdzt7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "popularity": 15.2994,
+            "release_date": "2014-07-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.804,
+            "vote_count": 4401
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kK9WAzCaxN5vxoTgO38wiPIe9ba.jpg",
+            "id": 11358,
+            "title": "Walking Tall",
+            "original_title": "Walking Tall",
+            "overview": "A former U.S. soldier returns to his hometown to find it overrun by crime and corruption, which prompts him to clean house.",
+            "poster_path": "/2sdmKtRz2SlGSLxxZDePKm5zxus.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                18,
+                28,
+                53
+            ],
+            "popularity": 7.104,
+            "release_date": "2004-04-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.31,
+            "vote_count": 1697
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2eIOiCLslKcsuSiyVcrs2ti8R4S.jpg",
+            "id": 42012,
+            "title": "No Retreat, No Surrender 2: Raging Thunder",
+            "original_title": "No Retreat, No Surrender 2: Raging Thunder",
+            "overview": "In this sequel, Scott Wylde, an American kickboxer, must go to Cambodia to rescue his Vietnamese girlfriend from Russian and Vietnamese troops.",
+            "poster_path": "/lkcccWO9UtQIzJIGXCT0Maem39o.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "popularity": 2.8333,
+            "release_date": "1987-11-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.956,
+            "vote_count": 124
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+            "id": 547016,
+            "title": "The Old Guard",
+            "original_title": "The Old Guard",
+            "overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
+            "poster_path": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                14
+            ],
+            "popularity": 9.4589,
+            "release_date": "2020-07-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.095,
+            "vote_count": 4888
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oI5uHu7lrQ0mBBH1c8OHCAkCq4x.jpg",
+            "id": 324544,
+            "title": "In the Lost Lands",
+            "original_title": "In the Lost Lands",
+            "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
+            "poster_path": "/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                14,
+                37
+            ],
+            "popularity": 8.3907,
+            "release_date": "2025-02-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.368,
+            "vote_count": 847
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b5QnSrjDRHUFg3hpjmwBwsJfzyP.jpg",
+            "id": 346672,
+            "title": "Underworld: Blood Wars",
+            "original_title": "Underworld: Blood Wars",
+            "overview": "Vampire death dealer Selene fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.",
+            "poster_path": "/v1ciDCWMG47gdT4kMyjyQbnLQQn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                28,
+                53,
+                878,
+                27
+            ],
+            "popularity": 8.5825,
+            "release_date": "2016-11-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.923,
+            "vote_count": 3975
+        }
+    ]
+}

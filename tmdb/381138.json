@@ -1,0 +1,679 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/6xMoNn3BEj0EaNySkUxgs4bm4wY.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 381138,
+        "imdb_id": "tt5531346",
+        "origin_country": [
+            "BR"
+        ],
+        "original_language": "pt",
+        "original_title": "Animal Político",
+        "overview": "She has everything her heart desires. She's popular, loves shopping, comes from a loving family. She plays volleyball and afterwards has a smoke with girlfriends. Sports club, barbecue, hairdresser: her life is perfect. There’s only one thing that makes her stand out: she is a cow.",
+        "popularity": 10.1422,
+        "poster_path": "/hyqee5Zx4o4sK7Kx9j0l6OBI0Hk.jpg",
+        "production_companies": [
+            {
+                "id": 14521,
+                "logo_path": null,
+                "name": "Vitri Films",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "release_date": "2017-05-31",
+        "revenue": 0,
+        "runtime": 75,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Political Animal",
+        "video": false,
+        "vote_average": 4.692,
+        "vote_count": 13
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1098083,
+            "known_for_department": "Acting",
+            "name": "Rodrigo Bolzan",
+            "original_name": "Rodrigo Bolzan",
+            "popularity": 0.5673,
+            "profile_path": "/pHovUAl1L5SL0UhPPwXuxnOGpdG.jpg",
+            "cast_id": 1,
+            "character": "",
+            "credit_id": "56b2c872c3a36806ee0008ce",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1572283,
+            "known_for_department": "Acting",
+            "name": "Elisa Heidrich",
+            "original_name": "Elisa Heidrich",
+            "popularity": 0.835,
+            "profile_path": null,
+            "cast_id": 2,
+            "character": "",
+            "credit_id": "56b2c87dc3a36806fc00087a",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1572284,
+            "known_for_department": "Acting",
+            "name": "Victor Laet",
+            "original_name": "Victor Laet",
+            "popularity": 0.3675,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "56b2c888c3a36806ea00085d",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1572285,
+            "known_for_department": "Acting",
+            "name": "Mário Sergio Cabral",
+            "original_name": "Mário Sergio Cabral",
+            "popularity": 0.2761,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "56b2c893c3a368070000081d",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3718045,
+            "known_for_department": "Acting",
+            "name": "Isabel Novaes",
+            "original_name": "Isabel Novaes",
+            "popularity": 0.4391,
+            "profile_path": null,
+            "cast_id": 11,
+            "character": "",
+            "credit_id": "63334470024ec8007aba96dc",
+            "order": 4
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1511034,
+            "known_for_department": "Directing",
+            "name": "Tião",
+            "original_name": "Tião",
+            "popularity": 0.4727,
+            "profile_path": "/fCP4SKyz0llilndSENeyTUKUvHQ.jpg",
+            "credit_id": "63334425eec4f30097596815",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1377594,
+            "known_for_department": "Directing",
+            "name": "Leonardo Lacca",
+            "original_name": "Leonardo Lacca",
+            "popularity": 0.4775,
+            "profile_path": "/2Lt1UNQkWzVUKmusEuuh7BvG7KY.jpg",
+            "credit_id": "6333442c024ec8007aba96c9",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1016240,
+            "known_for_department": "Directing",
+            "name": "Gustavo Jahn",
+            "original_name": "Gustavo Jahn",
+            "popularity": 0.3271,
+            "profile_path": "/8qzzuO2jBhKevH1mdCcHdsZMuqA.jpg",
+            "credit_id": "6333443630f79c007db2e4e0",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1140304,
+            "known_for_department": "Writing",
+            "name": "Marcelo Lordello",
+            "original_name": "Marcelo Lordello",
+            "popularity": 0.4866,
+            "profile_path": null,
+            "credit_id": "6333443a30f79c00857b8a0d",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1268096,
+            "known_for_department": "Sound",
+            "name": "Jon Wygens",
+            "original_name": "Jon Wygens",
+            "popularity": 0.6493,
+            "profile_path": "/pybcvo59ZE8BokqkkQP0ALz0jt5.jpg",
+            "credit_id": "63334441076ce8007cb0a486",
+            "department": "Sound",
+            "job": "Music"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1377594,
+            "known_for_department": "Directing",
+            "name": "Leonardo Lacca",
+            "original_name": "Leonardo Lacca",
+            "popularity": 0.4775,
+            "profile_path": "/2Lt1UNQkWzVUKmusEuuh7BvG7KY.jpg",
+            "credit_id": "63334448764841007d2db3b3",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1432933,
+            "known_for_department": "Art",
+            "name": "Thales Junqueira",
+            "original_name": "Thales Junqueira",
+            "popularity": 0.5568,
+            "profile_path": "/zXDvI00Bm6lQ6Yieb0HCcP6bSy5.jpg",
+            "credit_id": "6333448741eee10086e6b60a",
+            "department": "Art",
+            "job": "Set Decoration"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1586970,
+            "known_for_department": "Directing",
+            "name": "Melissa Dullius",
+            "original_name": "Melissa Dullius",
+            "popularity": 0.2616,
+            "profile_path": "/sBLi8ctHD387EIDIDecH4vv46qD.jpg",
+            "credit_id": "63334497229ae2008071daaa",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1016240,
+            "known_for_department": "Directing",
+            "name": "Gustavo Jahn",
+            "original_name": "Gustavo Jahn",
+            "popularity": 0.3271,
+            "profile_path": "/8qzzuO2jBhKevH1mdCcHdsZMuqA.jpg",
+            "credit_id": "633344a1209f18007dcd42a9",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1417036,
+            "known_for_department": "Art",
+            "name": "Iomana Rocha",
+            "original_name": "Iomana Rocha",
+            "popularity": 0.352,
+            "profile_path": null,
+            "credit_id": "633344a8024ec8007aba96eb",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1511034,
+            "known_for_department": "Directing",
+            "name": "Tião",
+            "original_name": "Tião",
+            "popularity": 0.4727,
+            "profile_path": "/fCP4SKyz0llilndSENeyTUKUvHQ.jpg",
+            "credit_id": "56b2c85ec3a3680700000815",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/pbvsoMOOgzqJCpUCnHWwbZqw98D.jpg",
+            "id": 545237,
+            "title": "The Nest",
+            "original_title": "The Nest",
+            "overview": "Rory is an ambitious entrepreneur who brings his American wife and kids to his native country, England, to explore new business opportunities. After abandoning the sanctuary of their safe American suburban surroundings, the family is plunged into the despair of an archaic '80s Britain and their unaffordable new life in an English manor house threatens to destroy the family.",
+            "poster_path": "/mSTrRgXGzu2t1jVhTexIqwSHlk7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.8193,
+            "release_date": "2020-05-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.081,
+            "vote_count": 390
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bBK5j3FUk2qy5KtHXMJDLdKH7Ba.jpg",
+            "id": 35030,
+            "title": "The Young One",
+            "original_title": "La joven",
+            "overview": "A jazz musician seeks refuge from a lynch mob on a remote island, where he meets a hostile game warden and the young object of his attentions.",
+            "poster_path": "/vgqmNCe9PKibdGpdWuhA6Ozuso.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.0625,
+            "release_date": "1960-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oY2Lae2YDu7Ibeprh6sBgUUMXcO.jpg",
+            "id": 653708,
+            "title": "Herself",
+            "original_title": "Herself",
+            "overview": "Struggling to provide her daughters with a safe, happy home, Sandra decides to build one - from scratch. Using all her ingenuity to make her ambitious dream a reality, Sandra draws together a community to lend a helping hand to build her house and ultimately recover her own sense of self.",
+            "poster_path": "/qTCdyHTibEl90w6rDxTTHTX9k3O.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.9624,
+            "release_date": "2020-11-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.723,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qL5Njffzz9kzq17nx2UHIPhauFk.jpg",
+            "id": 41240,
+            "title": "Bastard Out of Carolina",
+            "original_title": "Bastard Out of Carolina",
+            "overview": "A poor, struggling South Carolinian mother and daughter face painful choices with their resolve and pride. Bone, the eldest daughter, and Anney her tired mother, grow both closer and farther apart: Anney sees Glen as her last chance.",
+            "poster_path": "/jYFwFOkHwWxaStR21UIgdb96Gzh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.3634,
+            "release_date": "1996-12-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.088,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xlZM7eymDabtzi3SMW3QGpLKDXx.jpg",
+            "id": 846956,
+            "title": "Rogue Agent",
+            "original_title": "Rogue Agent",
+            "overview": "Conman Robert Freegard poses as an undercover MI5 agent and kidnaps countless victims amidst a high-stakes manhunt, until the woman who fell for him brings him to justice.",
+            "poster_path": "/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 5.654,
+            "release_date": "2022-08-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q6M9TRlUKaiwiueHQMnZYkklLWZ.jpg",
+            "id": 537617,
+            "title": "The Padre",
+            "original_title": "The Padre",
+            "overview": "American retired Judge Randall Nemes and his hired gun, Gaspar, track down a con man posing as a priest in a small Colombian town only to be thrown off-course by a scrappy 16-year-old girl intent on reuniting with her sister in the United States.",
+            "poster_path": "/zaj41iC7bRdouW2xnL9shBKR0kl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.7965,
+            "release_date": "2018-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.905,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3MDjl2k0U9Bjcqn0IrCoeTEGgz9.jpg",
+            "id": 253279,
+            "title": "The Trials of Cate McCall",
+            "original_title": "The Trials of Cate McCall",
+            "overview": "In order to be reinstated to the bar and recover custody of her daughter, a hotshot lawyer, now in recovery and on probation, must take on the appeal of a woman wrongfully convicted of murder.",
+            "poster_path": "/2u9raM4MWJTtGVQ7MeYwfgGouRl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.5501,
+            "release_date": "2013-11-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.355,
+            "vote_count": 313
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rKOzBCXwtRtkLpDQOyCcNvDS0qo.jpg",
+            "id": 35796,
+            "title": "Lawn Dogs",
+            "original_title": "Lawn Dogs",
+            "overview": "In the affluent, gated community of Camelot Gardens, bored wives indiscriminately sleep around while their unwitting husbands try desperately to climb the social ladder. Trent, a 21-year-old outsider who mows the neighborhood lawns, quietly observes the infidelities and hypocrisies of this overly privileged society. When Devon, a 10-year-old daughter from one family, forges a friendship with Trent, things suddenly get very complicated.",
+            "poster_path": "/hNi2M5Z7GUEaSCPjt66yavLlsqV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 7.2883,
+            "release_date": "1997-11-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.115,
+            "vote_count": 113
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4WheZtibiG35ejDCkWcHbxar5Z6.jpg",
+            "id": 692989,
+            "title": "Lorelei",
+            "original_title": "Lorelei",
+            "overview": "A man is released from prison after 15 years. He reunites with his high school girlfriend, now a single mother of three. What follows is a lyrical take on love, regret and second chances.",
+            "poster_path": "/lv8OxXYRQRfA08YJt6eatbPnzcT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.2114,
+            "release_date": "2020-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6XCGLN8Nb7Oa0AF41UtS0nUFN7l.jpg",
+            "id": 33194,
+            "title": "Xiu Xiu: The Sent-Down Girl",
+            "original_title": "Xiu Xiu: The Sent-Down Girl",
+            "overview": "Young teen girl Xiu Xiu is sent away to a remote corner of the Sichuan steppes for manual labor in 1975 (sending young people to there was a part of Cultural Revolution in China). A year later, she agrees to go to even more remote spot with a Tibetan saddle tramp Lao Jin to learn horse herding.",
+            "poster_path": "/f60ZzxvcNjQG1aXomXuKWEzS2pP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 7.6612,
+            "release_date": "1998-02-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.24,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+            "id": 1292415,
+            "title": "Beast",
+            "original_title": "Beast",
+            "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+            "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 24.9366,
+            "release_date": "2026-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wyMd7nQ1REmWTc1OHfr08BCGpdF.jpg",
+            "id": 417688,
+            "title": "Pimp",
+            "original_title": "Pimp",
+            "overview": "An urban love story set on the hard streets of the Bronx. A struggling female pimp, named Wednesday, grows up learning the game from her dad. Once he's gone she's left to look out for her prostitute mother and girlfriend Nikki.",
+            "poster_path": "/aLFt9swGFQpujVXzbj9LWowjX6C.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.2612,
+            "release_date": "2018-11-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.22,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AnmfRV7X0kwEn96pg0lAVopV8YK.jpg",
+            "id": 893086,
+            "title": "The Good Neighbor",
+            "original_title": "The Good Neighbor",
+            "overview": "A nightmarish evening unfolds for neighbors David and Robert when they accidentally hit a woman on her bike and flee the scene. While David is increasingly plagued by feelings of guilt, Robert shows no remorse and becomes overbearing and possessive.",
+            "poster_path": "/mXJ2xI7B0Z9WxDjyv18anPsOxeE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 3.1563,
+            "release_date": "2022-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.555,
+            "vote_count": 192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uTtsYLaC9b8joDKy4YGsMxfo3cp.jpg",
+            "id": 547590,
+            "title": "El Chicano",
+            "original_title": "El Chicano",
+            "overview": "A pair of twin brothers from East L.A. choose to live their lives differently and end up on opposite sides of the law.",
+            "poster_path": "/6LSJL2KHUAxSjDTWA5V5Cr7sNNd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4814,
+            "release_date": "2019-05-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.621,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gEZagBzbropWZqlU2yEZlr2x0pn.jpg",
+            "id": 15568,
+            "title": "Gracie",
+            "original_title": "Gracie",
+            "overview": "A teenager faces an uphill battle when she fights to give women the opportunity to play competitive soccer.",
+            "poster_path": "/gPmRGO7iwVRWNd0n5ePWLfSHeuH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.0164,
+            "release_date": "2007-06-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.196,
+            "vote_count": 97
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jKn2dzTUSLUkPQ3AZDFiT0hxR6D.jpg",
+            "id": 217919,
+            "title": "Salomé",
+            "original_title": "Salomé",
+            "overview": "After the lewd and frenetic Dance of the Seven Veils, and with the solemn pledge from the very lips of Herod himself that she could have whatever her heart desires up to half his kingdom, wanton and proud young Salomé comes before her king with an unreasonable demand. Beguiled by John the Baptist, and then scorned for the sake of his god, lascivious Salomé—encouraged by her mother, the vindictive, Herodias—commands that John be executed and his head delivered on a silver platter.",
+            "poster_path": "/funqENCFjduG3CGbiSYRl7VF3ud.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4552,
+            "release_date": "2013-08-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4FbTBvNO3VTFbFFghipK7Jqz7I6.jpg",
+            "id": 552532,
+            "title": "Charm City Kings",
+            "original_title": "Charm City Kings",
+            "overview": "Mouse desperately wants to join The Midnight Clique, the infamous Baltimore dirt bike riders who rule the summertime streets. When Midnight’s leader, Blax, takes 14-year-old Mouse under his wing, Mouse soon finds himself torn between the straight-and-narrow and a road filled with fast money and violence.",
+            "poster_path": "/j732HPX0HSPcYvKURAIIS5Ppvk1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.1501,
+            "release_date": "2020-01-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.839,
+            "vote_count": 504
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg",
+            "id": 1435092,
+            "title": "Goodbye June",
+            "original_title": "Goodbye June",
+            "overview": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season.",
+            "poster_path": "/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 5.3601,
+            "release_date": "2025-12-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.589,
+            "vote_count": 151
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eHmyIxA2EFWyTtMr2kjiRxGUxXY.jpg",
+            "id": 1215798,
+            "title": "The Cut",
+            "original_title": "The Cut",
+            "overview": "A retired boxer intends to return to the ring for one last shot at the title, but first he must make the weight. Holed up in a room in Las Vegas with an unscrupulous trainer, he embarks on an intensive and illegal weight-cutting program.",
+            "poster_path": "/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.4332,
+            "release_date": "2025-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.965,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/te5GuHx6WoyClws4Gs4rBD6efdd.jpg",
+            "id": 520390,
+            "title": "The Kindness of Strangers",
+            "original_title": "The Kindness of Strangers",
+            "overview": "Clara and her two sons escape from her abusive husband with little more than their car and plan to start over in New York. After the car towed away, the family meets Alice, who gets them into an emergency shelter. While stealing food at a Russian restaurant called ‘Winter Palace’, Clara meets Marc, who has been given the chance to help the old eatery regain its former glory. The ‘Winter Palace’ soon becomes a place of unexpected encounters between people who are all undergoing some sort of crisis and whom fate has now brought together.",
+            "poster_path": "/9E9CB9YdhBl2q9tMqqXfKgf9hyP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.7098,
+            "release_date": "2019-12-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.332,
+            "vote_count": 125
+        }
+    ]
+}

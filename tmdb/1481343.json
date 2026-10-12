@@ -1,0 +1,989 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.amazon.com/gp/video/detail/B0H13BXS5H",
+        "id": 1481343,
+        "imdb_id": "tt36958312",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Devil's Mouth",
+        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+        "popularity": 261.8327,
+        "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "production_companies": [
+            {
+                "id": 210099,
+                "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+                "name": "Amazon MGM Studios",
+                "origin_country": "US"
+            },
+            {
+                "id": 3528,
+                "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+                "name": "Thunder Road",
+                "origin_country": "US"
+            },
+            {
+                "id": 1632,
+                "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                "name": "Lionsgate",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2026-07-29",
+        "revenue": 0,
+        "runtime": 106,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Thai",
+                "iso_639_1": "th",
+                "name": "ภาษาไทย"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Paradise has an appetite.",
+        "title": "The Devil's Mouth",
+        "video": false,
+        "vote_average": 6.538,
+        "vote_count": 481
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 221192,
+            "known_for_department": "Acting",
+            "name": "Kathryn Newton",
+            "original_name": "Kathryn Newton",
+            "popularity": 8.4784,
+            "profile_path": "/26OEa0uS8552sVJakaCEHYvqOao.jpg",
+            "cast_id": 1,
+            "character": "Sara",
+            "credit_id": "682539890834f8f64c2d258c",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1452046,
+            "known_for_department": "Acting",
+            "name": "Lana Condor",
+            "original_name": "Lana Condor",
+            "popularity": 4.0747,
+            "profile_path": "/vWn27Fk2GLwH7o9fBG9hBWZI6OR.jpg",
+            "cast_id": 2,
+            "character": "Max",
+            "credit_id": "682539915efb48fc486ef53c",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2027704,
+            "known_for_department": "Acting",
+            "name": "Nico Hiraga",
+            "original_name": "Nico Hiraga",
+            "popularity": 1.6046,
+            "profile_path": "/yd1Hx3C7BTevy3zvyGXUwtwvSft.jpg",
+            "cast_id": 13,
+            "character": "James",
+            "credit_id": "68b20745df709254b09e1225",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1086527,
+            "known_for_department": "Acting",
+            "name": "Gavin Casalegno",
+            "original_name": "Gavin Casalegno",
+            "popularity": 3.5541,
+            "profile_path": "/snYCYm31OniXr024HUcomunYpjV.jpg",
+            "cast_id": 12,
+            "character": "Greg",
+            "credit_id": "68b207366a237666db3ef56d",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1979741,
+            "known_for_department": "Acting",
+            "name": "Tommi Rose",
+            "original_name": "Tommi Rose",
+            "popularity": 4.1902,
+            "profile_path": "/ffwnOrSD0D35pRaYjpwsAZB2deQ.jpg",
+            "cast_id": 14,
+            "character": "Adrienne",
+            "credit_id": "68b2074e7f29a778253cc64b",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5166476,
+            "known_for_department": "Acting",
+            "name": "Tayme Thapthimthong",
+            "original_name": "Tayme Thapthimthong",
+            "popularity": 1.0499,
+            "profile_path": "/Aq9AHZ7wSRFbdPZnPOupAAAHUnV.jpg",
+            "cast_id": 15,
+            "character": "Wat",
+            "credit_id": "68b2075388433e04371f1933",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 521673,
+            "known_for_department": "Acting",
+            "name": "Sahajak Boonthanakit",
+            "original_name": "สหจักร บุญธนกิจ",
+            "popularity": 1.6403,
+            "profile_path": "/a36MI02S0f11bJZjBoxkZTsUDAK.jpg",
+            "cast_id": 28,
+            "character": "Captain",
+            "credit_id": "6a69e605ffaa64430a8623d8",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4174017,
+            "known_for_department": "Acting",
+            "name": "Harrison Luna",
+            "original_name": "Harrison Luna",
+            "popularity": 0.5785,
+            "profile_path": "/4SapY7LbHDHdNPV46uRUOujQJ2n.jpg",
+            "cast_id": 27,
+            "character": "Ryan",
+            "credit_id": "6a69c5a38654cce0757837db",
+            "order": 7
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55075,
+            "known_for_department": "Directing",
+            "name": "Jeff Wadlow",
+            "original_name": "Jeff Wadlow",
+            "popularity": 1.1368,
+            "profile_path": "/8MquRXIWZ7t4YeOMvl68AX5Fb4b.jpg",
+            "credit_id": "6825399d0834f8f64c2d2590",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2954613,
+            "known_for_department": "Writing",
+            "name": "Aja Gabel",
+            "original_name": "Aja Gabel",
+            "popularity": 0.5367,
+            "profile_path": "/doOS4ZPjaIXa5H8v3ppncwTEGU9.jpg",
+            "credit_id": "682539aad130b2fc6d5a38b1",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 67759,
+            "known_for_department": "Production",
+            "name": "Basil Iwanyk",
+            "original_name": "Basil Iwanyk",
+            "popularity": 0.8015,
+            "profile_path": "/pvHAcYM1UC30XMqOSOF7Gc2nmBh.jpg",
+            "credit_id": "682539ba20415f9e284b517a",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1932093,
+            "known_for_department": "Production",
+            "name": "Erica Lee",
+            "original_name": "Erica Lee",
+            "popularity": 0.7409,
+            "profile_path": "/pJwTBgsAUrITBRmi0WIKanwDN5P.jpg",
+            "credit_id": "682539c5ce5653905b315598",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4547299,
+            "known_for_department": "Writing",
+            "name": "Myung Joh Wesner",
+            "original_name": "Myung Joh Wesner",
+            "popularity": 0.5614,
+            "profile_path": "/1NiBIoBJDsppiXDxiPPaOnbY6vB.jpg",
+            "credit_id": "682539cb8b1e454432ada1a6",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 19657,
+            "known_for_department": "Production",
+            "name": "Carsten H.W. Lorenz",
+            "original_name": "Carsten H.W. Lorenz",
+            "popularity": 0.4078,
+            "profile_path": "/nZmrzDkCdjv1SlGRY088Tym713L.jpg",
+            "credit_id": "682539dcd348479249315679",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55075,
+            "known_for_department": "Directing",
+            "name": "Jeff Wadlow",
+            "original_name": "Jeff Wadlow",
+            "popularity": 1.1368,
+            "profile_path": "/8MquRXIWZ7t4YeOMvl68AX5Fb4b.jpg",
+            "credit_id": "6825a06a4afff0afa72d29ee",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 55075,
+            "known_for_department": "Directing",
+            "name": "Jeff Wadlow",
+            "original_name": "Jeff Wadlow",
+            "popularity": 1.1368,
+            "profile_path": "/8MquRXIWZ7t4YeOMvl68AX5Fb4b.jpg",
+            "credit_id": "6858e9cc6d181dda5339907d",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 16490,
+            "known_for_department": "Editing",
+            "name": "Sean Albertson",
+            "original_name": "Sean Albertson",
+            "popularity": 0.3034,
+            "profile_path": null,
+            "credit_id": "6953ca2753166d948ee41ad6",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1358568,
+            "known_for_department": "Camera",
+            "name": "James Kniest",
+            "original_name": "James Kniest",
+            "popularity": 0.4639,
+            "profile_path": "/xGpM8zPxAMAyn1BisQsmv087oBv.jpg",
+            "credit_id": "6a47a1d482d4c29a9da47a14",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 59811,
+            "known_for_department": "Sound",
+            "name": "Bear McCreary",
+            "original_name": "Bear McCreary",
+            "popularity": 0.9158,
+            "profile_path": "/t4Rr2p9Q5ewMgagChxK2JmrcvKx.jpg",
+            "credit_id": "6a47a1e243ee2b3492744149",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 9648,
+            "known_for_department": "Art",
+            "name": "Alec Hammond",
+            "original_name": "Alec Hammond",
+            "popularity": 0.5035,
+            "profile_path": null,
+            "credit_id": "6a47a23bb29062c2fa475bba",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2020298,
+            "known_for_department": "Art",
+            "name": "Warakarn Waruttamangkoon",
+            "original_name": "Warakarn Waruttamangkoon",
+            "popularity": 0.2712,
+            "profile_path": null,
+            "credit_id": "6a47a24216ae390865a0c3ba",
+            "department": "Art",
+            "job": "Supervising Art Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1306225,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Kelli Jones",
+            "original_name": "Kelli Jones",
+            "popularity": 0.4559,
+            "profile_path": "/5nLEHXmmyZHZPwewPzmHLbj18kc.jpg",
+            "credit_id": "6a47a254242c5d49cbec6322",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2642638,
+            "known_for_department": "Directing",
+            "name": "Yann Cuinet",
+            "original_name": "Yann Cuinet",
+            "popularity": 0.4759,
+            "profile_path": null,
+            "credit_id": "6a47a280a00f38a7eda47a57",
+            "department": "Directing",
+            "job": "First Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1456373,
+            "known_for_department": "Visual Effects",
+            "name": "Wesley Sewell",
+            "original_name": "Wesley Sewell",
+            "popularity": 0.3465,
+            "profile_path": "/3HwGXpYoSfPVyICQrofoI6T5fTW.jpg",
+            "credit_id": "6a47a29790f241dbf1cd2a24",
+            "department": "Visual Effects",
+            "job": "Visual Effects Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1982002,
+            "known_for_department": "Visual Effects",
+            "name": "Kerry Joseph",
+            "original_name": "Kerry Joseph",
+            "popularity": 0.3467,
+            "profile_path": null,
+            "credit_id": "6a47a2acbea961e4caa0c48c",
+            "department": "Visual Effects",
+            "job": "Visual Effects Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1531524,
+            "known_for_department": "Visual Effects",
+            "name": "Laurent Gillet",
+            "original_name": "Laurent Gillet",
+            "popularity": 0.36,
+            "profile_path": null,
+            "credit_id": "6a47a2bfc72878caa0cd2982",
+            "department": "Visual Effects",
+            "job": "Visual Effects Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2383022,
+            "known_for_department": "Crew",
+            "name": "Alan D'Antoni",
+            "original_name": "Alan D'Antoni",
+            "popularity": 0.7016,
+            "profile_path": "/z6sHgC02BzTtfubDksviI2cXrRL.jpg",
+            "credit_id": "6a47a2d7b7144e5c508c1cf5",
+            "department": "Crew",
+            "job": "Stunt Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3493430,
+            "known_for_department": "Production",
+            "name": "Will Flynn",
+            "original_name": "Will Flynn",
+            "popularity": 0.289,
+            "profile_path": null,
+            "credit_id": "6a6a225be47d7b98f3d57dff",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6377722,
+            "known_for_department": "Production",
+            "name": "Sam Greenberg",
+            "original_name": "Sam Greenberg",
+            "popularity": 0.2424,
+            "profile_path": null,
+            "credit_id": "6a6a225cb9bf943d90eaba40",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 76481,
+            "known_for_department": "Production",
+            "name": "Chris Lowenstein",
+            "original_name": "Chris Lowenstein",
+            "popularity": 0.4624,
+            "profile_path": "/wxYoCMzKfueRDL3AMJTcmH5E4Yk.jpg",
+            "credit_id": "6a6a225ef1966c066ad57f13",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 76239,
+            "known_for_department": "Acting",
+            "name": "Garette Ratliff Henson",
+            "original_name": "Garette Ratliff Henson",
+            "popularity": 1.0183,
+            "profile_path": "/J9R9AU4rAPq9lhOpWdf9uemJuG.jpg",
+            "credit_id": "6a6a225fe763426b3de5bd7e",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2869162,
+            "known_for_department": "Production",
+            "name": "Apinat 'Obb' Siricharoenjit",
+            "original_name": "Apinat 'Obb' Siricharoenjit",
+            "popularity": 0.2654,
+            "profile_path": null,
+            "credit_id": "6a6a225fe4868b1e0b2d57bf",
+            "department": "Production",
+            "job": "Line Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 1964,
+            "name": "cave"
+        },
+        {
+            "id": 5160,
+            "name": "animal attack"
+        },
+        {
+            "id": 3434,
+            "name": "thailand"
+        },
+        {
+            "id": 10349,
+            "name": "survival"
+        },
+        {
+            "id": 13031,
+            "name": "creature"
+        },
+        {
+            "id": 15097,
+            "name": "shark"
+        },
+        {
+            "id": 50009,
+            "name": "survival horror"
+        },
+        {
+            "id": 158108,
+            "name": "killer shark"
+        },
+        {
+            "id": 202371,
+            "name": "aggressive"
+        },
+        {
+            "id": 221023,
+            "name": "college friends"
+        },
+        {
+            "id": 223059,
+            "name": "animal horror"
+        },
+        {
+            "id": 281585,
+            "name": "inspirational"
+        },
+        {
+            "id": 336497,
+            "name": "survival thriller"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
+            "id": 1285965,
+            "title": "Dangerous Animals",
+            "original_title": "Dangerous Animals",
+            "overview": "A savvy and free-spirited surfer is abducted by a shark-obsessed serial killer. Held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.",
+            "poster_path": "/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 8.5996,
+            "release_date": "2025-06-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.458,
+            "vote_count": 664
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9T5D5RGuCsC6CeqYZJTv4rT4RPy.jpg",
+            "id": 9392,
+            "title": "The Descent",
+            "original_title": "The Descent",
+            "overview": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
+            "poster_path": "/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                27
+            ],
+            "popularity": 11.7137,
+            "release_date": "2005-07-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.986,
+            "vote_count": 4498
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4wXTv2LhZrVWIyIHG4dVIsjxCon.jpg",
+            "id": 1241674,
+            "title": "The Last Breath",
+            "original_title": "The Last Breath",
+            "overview": "A group of old college friends reunite on a Caribbean scuba diving trip exploring the wreckage of a WWII battleship and find themselves trapped inside the underwater labyrinth of rusted metal surrounded by great white sharks.",
+            "poster_path": "/aC892vhMsNwcIUX5UfrsTSy9IL9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.4392,
+            "release_date": "2024-06-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.963,
+            "vote_count": 176
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3i9UdfrkyLfQTefDmaYbEvH9HjP.jpg",
+            "id": 34480,
+            "title": "The Descent: Part 2",
+            "original_title": "The Descent: Part 2",
+            "overview": "Distraught, confused, and half-wild with fear, Sarah Carter emerges alone from the Appalachian cave system where she encountered unspeakable terrors. Unable to plausibly explain to the authorities what happened - or why she's covered in her friends' blood - Sarah is forced back to the subterranean depths to help locate her five missing companions.",
+            "poster_path": "/dOURlcw2MO0xys0Dl2NiAcUxlWA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                27,
+                53
+            ],
+            "popularity": 5.3452,
+            "release_date": "2009-10-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.987,
+            "vote_count": 1353
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+            "id": 1127384,
+            "title": "Deep Water",
+            "original_title": "Deep Water",
+            "overview": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
+            "poster_path": "/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 92.7167,
+            "release_date": "2026-04-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.179,
+            "vote_count": 357
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zCSLLLe8o0CJarDKk2IJQsLXqkl.jpg",
+            "id": 1222064,
+            "title": "River of Blood",
+            "original_title": "River of Blood",
+            "overview": "Four kayakers take the wrong river into a jungle inhabited by a tribe of merciless cannibals.",
+            "poster_path": "/kgCfN7zuC2k9VaqeDdquUwroC8u.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.9166,
+            "release_date": "2024-12-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.974,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hniERZojXCEc7Fp3yljZUigOAhm.jpg",
+            "id": 1290417,
+            "title": "Thrash",
+            "original_title": "Thrash",
+            "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
+            "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 13.7471,
+            "release_date": "2026-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.065,
+            "vote_count": 721
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg",
+            "id": 1315303,
+            "title": "Primate",
+            "original_title": "Primate",
+            "overview": "College student Lucy and her friends spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+            "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 22.9729,
+            "release_date": "2026-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.501,
+            "vote_count": 793
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5JIdbM1SPymEge4f0pMy23Zj26m.jpg",
+            "id": 403119,
+            "title": "47 Meters Down",
+            "original_title": "47 Meters Down",
+            "overview": "Two sisters on Mexican vacation are trapped in a shark observation cage at the bottom of the ocean, with oxygen running low and great whites circling nearby, they have less than an hour of air left to figure out how to get to the surface.",
+            "poster_path": "/2IgdRUTdHyoI3nFORcnnYEKOGIH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.729,
+            "release_date": "2017-05-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.804,
+            "vote_count": 2885
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+            "id": 1426297,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+            "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.9648,
+            "release_date": "2025-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/804DmpPKcL9sTz2DQRY1HYBGKJk.jpg",
+            "id": 1388808,
+            "title": "Into the Deep",
+            "original_title": "Into the Deep",
+            "overview": "Divers searching for sunken treasure witness the murder of drug dealers by modern-day pirates, but a killer great white is determined not to let any of them escape its waters.",
+            "poster_path": "/qPvw21Y5pxojLQYDrK4ft5IYLlY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                28,
+                53
+            ],
+            "popularity": 3.6515,
+            "release_date": "2025-01-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 154
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hr3yzjzfsiNxWqlDgRTSHgYB7fz.jpg",
+            "id": 1232933,
+            "title": "Fear Below",
+            "original_title": "Fear Below",
+            "overview": "A rag-tag team of divers attempting to salvage a sunken car from a river are thwarted by a highly aggressive bull shark.",
+            "poster_path": "/f90xO280gGQArVP2GU4IshAClt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                28,
+                12,
+                53
+            ],
+            "popularity": 3.907,
+            "release_date": "2025-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.087,
+            "vote_count": 179
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y0XEqAqynGW4uVG8gkOnAf5vcYU.jpg",
+            "id": 1308757,
+            "title": "Dead Sea",
+            "original_title": "Dead Sea",
+            "overview": "Stranded in the open sea after a fatal accident, a young woman and her two friends are rescued by a fishing vessel's captain, unaware that the ship harbors a chilling secret.",
+            "poster_path": "/ohisXa9ArEoV05ajLfX2T5D6NNF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "popularity": 2.861,
+            "release_date": "2024-07-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.311,
+            "vote_count": 235
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vt7ZQ38ZLOpq63DXu7pi3Rf5T24.jpg",
+            "id": 20481,
+            "title": "Nightbreed",
+            "original_title": "Nightbreed",
+            "overview": "A troubled young man is drawn to a mythical place called Midian where a variety of friendly monsters are hiding from humanity. Meanwhile, a sadistic serial killer is looking for a patsy.",
+            "poster_path": "/1ChluYH0BEvJo3gtYoFHnMZI660.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "popularity": 5.4652,
+            "release_date": "1990-02-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.385,
+            "vote_count": 549
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/35kYvfK9TUOQ912QVsNoTCnYqlH.jpg",
+            "id": 502416,
+            "title": "Ma",
+            "original_title": "Ma",
+            "overview": "Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.",
+            "poster_path": "/6n7ASmQ1wY2cxTubFFGlcvPpyk7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 6.6804,
+            "release_date": "2019-05-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.815,
+            "vote_count": 2467
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
+            "id": 578,
+            "title": "Jaws",
+            "original_title": "Jaws",
+            "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
+            "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                12
+            ],
+            "popularity": 26.3708,
+            "release_date": "1975-06-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.682,
+            "vote_count": 11705
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bdDTda15ZPbNumwkKa9eH9RplIe.jpg",
+            "id": 8914,
+            "title": "Deep Blue Sea",
+            "original_title": "Deep Blue Sea",
+            "overview": "Researchers on the undersea lab Aquatica have genetically altered the brains of captive sharks to develop a cure for Alzheimer's disease. But there's an unexpected side effect: the sharks got smarter, faster, and more dangerous. After a big storm damages their remote research facility, they must fight for their lives.",
+            "poster_path": "/fyn0zyCI4kIlbDoHH0Hzv09hDC5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                878
+            ],
+            "popularity": 11.6074,
+            "release_date": "1999-07-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 2704
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6XjMwQTvnICBz6TguiDKkDVHvgS.jpg",
+            "id": 762441,
+            "title": "A Quiet Place: Day One",
+            "original_title": "A Quiet Place: Day One",
+            "overview": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+            "poster_path": "/2JhadBY56wfnGUFfTX1ftPW1nyL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "popularity": 13.813,
+            "release_date": "2024-06-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.645,
+            "vote_count": 3468
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/evo3crueRIK9Eutb3lnDLVbD2xD.jpg",
+            "id": 514847,
+            "title": "The Hunt",
+            "original_title": "The Hunt",
+            "overview": "Twelve strangers wake up in a clearing. They don't know where they are—or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted turns the tables on her pursuers.",
+            "poster_path": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                27
+            ],
+            "popularity": 17.3477,
+            "release_date": "2020-03-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.646,
+            "vote_count": 3743
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/456tLLmzg7OeNyijCvCfL6X55VV.jpg",
+            "id": 1142414,
+            "title": "Cheat",
+            "original_title": "Cheat",
+            "overview": "On the surface it's believed to be another urban legend - a supernatural being from the afterlife is violently killing anyone who cheats on their significant other in the small college town of Silvercreek, Pennsylvania. But the town's unusually high suicide rate is finally convincing both locals and college students that everything is not as it seems. When Maeve - a female college student - sleeps with Charlie, the married man of the host family she is staying with, both sense the deadly curse is closing in on them. Unable to get anyone to believe them, Maeve and Charlie seek out a local history student to help find answers and figure out a way to defend themselves. It all comes undone, however, as several people are horrifically killed by the savage being - one-by-one at a rapid pace. Eventually, Maeve, Charlie and the few survivors band together in an attempt to defeat the monster once and for all.",
+            "poster_path": "/46Um9OTHNA390mMxwpSSc2m35Zp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.8601,
+            "release_date": "2023-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.014,
+            "vote_count": 74
+        }
+    ]
+}

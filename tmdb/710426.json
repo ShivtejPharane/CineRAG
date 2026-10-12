@@ -1,0 +1,573 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/8XVHiOqyJ943pb4enGqk6fZ4aOL.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 710426,
+        "imdb_id": "tt12322948",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Deseo",
+        "overview": "Deseo follows Selene, a Spanish woman living in New York, on an evening in Williamsburg. Unsatisfied with her own life and intrigued by a woman she meets that night, Selene seizes an opportunity to \"help\" this woman in need, immersing herself in her reality. The line between helping without asking and taking advantage of her then becomes blurry.",
+        "popularity": 9.3129,
+        "poster_path": "/rpaBiX1O5xdkGKhLonYPC5L5WCK.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2020-06-16",
+        "revenue": 0,
+        "runtime": 11,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Deseo",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1151479,
+            "known_for_department": "Acting",
+            "name": "Silma López",
+            "original_name": "Silma López",
+            "popularity": 0.6067,
+            "profile_path": "/4FIF53ci8wGh2DQnrfYna1cMxeS.jpg",
+            "cast_id": 2,
+            "character": "Selene",
+            "credit_id": "5faa55e272c13e0041769a9d",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2850679,
+            "known_for_department": "Acting",
+            "name": "Marina Ontanaya",
+            "original_name": "Marina Ontanaya",
+            "popularity": 0.2544,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "Marina",
+            "credit_id": "5faa55ec5b95080040d34a83",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1494446,
+            "known_for_department": "Acting",
+            "name": "Justin Mark",
+            "original_name": "Justin Mark",
+            "popularity": 0.6373,
+            "profile_path": "/tSWZKqYEvy86b9gaKvTPtXoYCL2.jpg",
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "5faa55f62a09bc003f8de833",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2850680,
+            "known_for_department": "Acting",
+            "name": "Ismail Shallis",
+            "original_name": "Ismail Shallis",
+            "popularity": 0.1932,
+            "profile_path": null,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "5faa56017314a1003eb09248",
+            "order": 3
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4563854,
+            "known_for_department": "Directing",
+            "name": "Jack Kendrick",
+            "original_name": "Jack Kendrick",
+            "popularity": 0.4594,
+            "profile_path": null,
+            "credit_id": "65e019fba806730161a81130",
+            "department": "Crew",
+            "job": "Cinematography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1745864,
+            "known_for_department": "Directing",
+            "name": "Chloé Wallace",
+            "original_name": "Chloé Wallace",
+            "popularity": 0.6059,
+            "profile_path": null,
+            "credit_id": "5ed1db083dc313001fcdf62c",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1745864,
+            "known_for_department": "Directing",
+            "name": "Chloé Wallace",
+            "original_name": "Chloé Wallace",
+            "popularity": 0.6059,
+            "profile_path": null,
+            "credit_id": "5faa563b63d71300409762c7",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1459879,
+            "known_for_department": "Visual Effects",
+            "name": "Paul Chung",
+            "original_name": "Paul Chung",
+            "popularity": 0.5388,
+            "profile_path": null,
+            "credit_id": "5faa56587314a1003eb09286",
+            "department": "Editing",
+            "job": "Editor"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/iYS4N87jQcYXnC2WKDlrUvE61Tf.jpg",
+            "id": 283698,
+            "title": "Hungry Hearts",
+            "original_title": "Hungry Hearts",
+            "overview": "The relationship of a couple who meet by chance in New York City is put to the test when they encounter a life or death circumstance.",
+            "poster_path": "/pSLlzA8bJWaLjrm7F7IAhJiHNVi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4157,
+            "release_date": "2015-01-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.511,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zJ2FUoeHmWK3dbdEBAQrS9pvdN1.jpg",
+            "id": 676150,
+            "title": "Hotel Coppelia",
+            "original_title": "Hotel Coppelia",
+            "overview": "1965, Dominican Republic. At a seaside brothel, the lives of a group of prostitutes take a dramatic turn when freedom fighters stage a revolutionary coup, making them realise they can have a better life and perhaps find love. But everything changes when the US army supresses the revolution and takes the brothel as a military base: the girls will have to face the dilemma of either sleeping with the enemy or protecting their dignity at all costs.",
+            "poster_path": "/f0Cgaivi2vsZxDoqfAlI76xgpdt.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.9973,
+            "release_date": "2021-03-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.655,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qL5Njffzz9kzq17nx2UHIPhauFk.jpg",
+            "id": 41240,
+            "title": "Bastard Out of Carolina",
+            "original_title": "Bastard Out of Carolina",
+            "overview": "A poor, struggling South Carolinian mother and daughter face painful choices with their resolve and pride. Bone, the eldest daughter, and Anney her tired mother, grow both closer and farther apart: Anney sees Glen as her last chance.",
+            "poster_path": "/jYFwFOkHwWxaStR21UIgdb96Gzh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.3634,
+            "release_date": "1996-12-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.088,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pbvsoMOOgzqJCpUCnHWwbZqw98D.jpg",
+            "id": 545237,
+            "title": "The Nest",
+            "original_title": "The Nest",
+            "overview": "Rory is an ambitious entrepreneur who brings his American wife and kids to his native country, England, to explore new business opportunities. After abandoning the sanctuary of their safe American suburban surroundings, the family is plunged into the despair of an archaic '80s Britain and their unaffordable new life in an English manor house threatens to destroy the family.",
+            "poster_path": "/mSTrRgXGzu2t1jVhTexIqwSHlk7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.8193,
+            "release_date": "2020-05-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.081,
+            "vote_count": 390
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Kvf4BUux2wRuSkUluGmdEWnPXo.jpg",
+            "id": 499152,
+            "title": "The Heiresses",
+            "original_title": "Las herederas",
+            "overview": "After her girlfriend is imprisoned on fraud charges, Chela is forced to face a new reality. Driving for the first time in years, she begins to provide a local taxi service to a group of elderly wealthy ladies. As Chela settles into her new life, she encounters the much younger Angy, forging a fresh and invigorating new connection.",
+            "poster_path": "/tS94bbXmDKIDIoLgBrGJn3Jbwgv.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.4973,
+            "release_date": "2018-03-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kk1MMdWF9Z4vBMM0ebBjD7G5zFf.jpg",
+            "id": 127373,
+            "title": "What Maisie Knew",
+            "original_title": "What Maisie Knew",
+            "overview": "In New York City, a young girl is caught in the middle of her parents' bitter custody battle.",
+            "poster_path": "/1unkWKdT68ba6NdiSsPqzJeylxc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.0972,
+            "release_date": "2013-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.117,
+            "vote_count": 452
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q6M9TRlUKaiwiueHQMnZYkklLWZ.jpg",
+            "id": 537617,
+            "title": "The Padre",
+            "original_title": "The Padre",
+            "overview": "American retired Judge Randall Nemes and his hired gun, Gaspar, track down a con man posing as a priest in a small Colombian town only to be thrown off-course by a scrappy 16-year-old girl intent on reuniting with her sister in the United States.",
+            "poster_path": "/zaj41iC7bRdouW2xnL9shBKR0kl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.7965,
+            "release_date": "2018-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.905,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zonIwzSHU4i8Mh1XG6w0JrPpLJb.jpg",
+            "id": 32579,
+            "title": "Under the Same Moon",
+            "original_title": "La misma luna",
+            "overview": "Tells the parallel stories of nine-year-old Carlitos and his mother, Rosario. In the hopes of providing a better life for her son, Rosario works illegally in the U.S. while her mother cares for Carlitos back in Mexico.",
+            "poster_path": "/wx9DwdcgvLhoQJP3AOXpvMISgtM.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.3171,
+            "release_date": "2007-07-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.918,
+            "vote_count": 358
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6GIRELnBhvqj8AS8v8ao64OSrR8.jpg",
+            "id": 1214508,
+            "title": "Sujo",
+            "original_title": "Sujo",
+            "overview": "When a hitman is murdered, he leaves behind Sujo, his beloved 4-year-old son. The shadow of violence stalks Sujo at every stage of his life. As he grows into a man, Sujo will discover that fulfilling his father's destiny seems inevitable.",
+            "poster_path": "/Aljgp27QB1JNHSQOHXXsMlR8Ck9.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4245,
+            "release_date": "2024-08-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g94TQSYSMLOHzOpcgItyWk8sHky.jpg",
+            "id": 31165,
+            "title": "Inside I'm Dancing",
+            "original_title": "Inside I'm Dancing",
+            "overview": "Michael is a 24-year-old who has cerebral palsy and long-term resident of the Carrigmore Residential Home for the Disabled, run by the formidable Eileen. His life is transformed when the maverick Rory O'Shea moves in.",
+            "poster_path": "/2umd8KCnjamgEk9RpSUDQ9TltbW.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.5382,
+            "release_date": "2004-10-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.433,
+            "vote_count": 233
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Adg0gp8kGKXUSe8emJByRbvweGk.jpg",
+            "id": 1212271,
+            "title": "Eleanor the Great",
+            "original_title": "Eleanor the Great",
+            "overview": "94-year-old Eleanor Morgenstein tries to rebuild her life after the death of her best friend. As a result, she moves back to New York City after living in Florida for decades.",
+            "poster_path": "/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.421,
+            "release_date": "2025-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fsDs4nGpA1w28mglVMu5LPgaeAj.jpg",
+            "id": 737802,
+            "title": "Dad Wanted",
+            "original_title": "Se busca papá",
+            "overview": "What does a thrill-seeker tween girl do when her mom forbids her to enter a BMX race? Cast an actor with nothing to lose to play her approving dad.",
+            "poster_path": "/eII9dyLFsGmpJnj2fAGAnYjzQMg.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.5919,
+            "release_date": "2020-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1Lxd3hxHAqtgK0jPqd3xqq6dzuA.jpg",
+            "id": 1297185,
+            "title": "Linda",
+            "original_title": "Linda",
+            "overview": "Self-assured, mysterious, and captivating Linda agrees to work at an affluent home in Buenos Aires. Her charm sparks strong sexual attraction among all members of the family, exposing how fragile their externally happy veneer really is.",
+            "poster_path": "/lv6UUrTia3zv1iayirbDkYxScx8.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.704,
+            "release_date": "2024-09-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.151,
+            "vote_count": 53
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/te5GuHx6WoyClws4Gs4rBD6efdd.jpg",
+            "id": 520390,
+            "title": "The Kindness of Strangers",
+            "original_title": "The Kindness of Strangers",
+            "overview": "Clara and her two sons escape from her abusive husband with little more than their car and plan to start over in New York. After the car towed away, the family meets Alice, who gets them into an emergency shelter. While stealing food at a Russian restaurant called ‘Winter Palace’, Clara meets Marc, who has been given the chance to help the old eatery regain its former glory. The ‘Winter Palace’ soon becomes a place of unexpected encounters between people who are all undergoing some sort of crisis and whom fate has now brought together.",
+            "poster_path": "/9E9CB9YdhBl2q9tMqqXfKgf9hyP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.7098,
+            "release_date": "2019-12-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.332,
+            "vote_count": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "id": 703155,
+            "title": "El encanto",
+            "original_title": "El encanto",
+            "overview": "Bruno is thirty years old and has a girlfriend, Juliana, with whom he is about to celebrate a decade of love.He loves her, but feels that she no longer captivates him. She wants to be a mother. He doesn't know if he wants to take that step. He fears it could be a mistake, perhaps Juliana is not the woman of his life or perhaps it is too soon. To make matters worse, he is attracted to Lara, his new sexy and young employee. Further confused, Bruno only finds comfort in the company of his father and his old bass. This confusion pushes Bruno to reunite with an old love: music.",
+            "poster_path": "/pZMFUQ3iw9ST9e1v0F8qxLwWg0D.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.9609,
+            "release_date": "2020-07-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.237,
+            "vote_count": 59
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hXTRI7E5KUI5Q5H4hXKaZUywqPe.jpg",
+            "id": 364223,
+            "title": "Strange Weather",
+            "original_title": "Strange Weather",
+            "overview": "Years after her son's suicide, a woman longs to confront both the past and a friend of his who took his business idea.",
+            "poster_path": "/vlw625tmRD1qFIy4JiOZzQKc98P.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.3429,
+            "release_date": "2016-09-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.883,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pdHpcFxkU6VmUNsnytbz7u7Xc8A.jpg",
+            "id": 418533,
+            "title": "Three Christs",
+            "original_title": "Three Christs",
+            "overview": "Dr. Alan Stone breaks new ground for treatment of the mentally ill through an experiment on three paranoid schizophrenic patients who believe they are Jesus Christ.",
+            "poster_path": "/4FuSQ9klymXIppnfNUTBg9rOEPf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.1909,
+            "release_date": "2017-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.676,
+            "vote_count": 156
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bBK5j3FUk2qy5KtHXMJDLdKH7Ba.jpg",
+            "id": 35030,
+            "title": "The Young One",
+            "original_title": "La joven",
+            "overview": "A jazz musician seeks refuge from a lynch mob on a remote island, where he meets a hostile game warden and the young object of his attentions.",
+            "poster_path": "/vgqmNCe9PKibdGpdWuhA6Ozuso.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.0625,
+            "release_date": "1960-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kPDhJ0abEc8OCulKgE1PNLzRj68.jpg",
+            "id": 1106049,
+            "title": "Rest in Peace",
+            "original_title": "Descansar en paz",
+            "overview": "A debt-ridden father takes advantage of an unforeseen situation to disappear and live off the grid under a false identity. But a chance event occurs and the temptation to want to know his family resurfaces.",
+            "poster_path": "/rQTpmzVlg55Fj0IXnkhzOyBP6kz.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.1351,
+            "release_date": "2024-03-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.849,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kncNEWenrMU3o53kMcPr4pGuI7p.jpg",
+            "id": 244517,
+            "title": "God's Pocket",
+            "original_title": "God's Pocket",
+            "overview": "A boozy lowlife tries to bury the truth about his crazy stepson's suspicious death, but a nosy newspaper columnist and the young man's mother complicate matters.",
+            "poster_path": "/z6esNDTR2HQkOWpZnJIcBvhu2KM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.5915,
+            "release_date": "2014-05-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.807,
+            "vote_count": 220
+        }
+    ]
+}

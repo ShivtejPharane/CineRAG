@@ -1,0 +1,767 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/yjK3ardrgdS8suZG8KMU82Q7U38.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 1285366,
+        "imdb_id": "tt33349025",
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_title": "愛のぬくもり",
+        "overview": "A romance about a man and a woman who, due to an unexpected event, end up switching bodies. Despite coming from completely different backgrounds and environments, the two try to overcome the various difficulties that arise from their body swap.",
+        "popularity": 96.7409,
+        "poster_path": "/3r0O6BW9USoZ9mteCVyNKMQriRL.jpg",
+        "production_companies": [
+            {
+                "id": 62454,
+                "logo_path": "/hTAzR2gywoJcukvWpuP3HDwmxqQ.png",
+                "name": "Legend Pictures",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2024-07-06",
+        "revenue": 0,
+        "runtime": 91,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Shape of My Heart",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 4
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 84725,
+            "known_for_department": "Acting",
+            "name": "Keisuke Koide",
+            "original_name": "小出恵介",
+            "popularity": 1.2213,
+            "profile_path": "/3BXlaWzpL9W6opyBHOKZBxC9H5E.jpg",
+            "cast_id": 2,
+            "character": "Henmi Takashi",
+            "credit_id": "663ae8a7c30c35251b676ee3",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4620053,
+            "known_for_department": "Acting",
+            "name": "Kei Fubuki",
+            "original_name": "風吹ケイ",
+            "popularity": 6.771,
+            "profile_path": null,
+            "cast_id": 3,
+            "character": "Yokozawa Satomi",
+            "credit_id": "663ae8b8270cc021b48d6d80",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3465682,
+            "known_for_department": "Acting",
+            "name": "Manami Shindo",
+            "original_name": "新藤まなみ",
+            "popularity": 1.8564,
+            "profile_path": "/eLxua9KOl2bAiI6YLdghr7BOkSU.jpg",
+            "cast_id": 4,
+            "character": "Yurina",
+            "credit_id": "663ae8e2a1b785b4028e9060",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1078683,
+            "known_for_department": "Acting",
+            "name": "Yohta Kawase",
+            "original_name": "川瀬陽太",
+            "popularity": 1.5681,
+            "profile_path": "/aPjf57B380k929h2OZ6FT0RLS4w.jpg",
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "663ae9118e2bf0f77e3aa56f",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 107114,
+            "known_for_department": "Acting",
+            "name": "Kotaro Tanaka",
+            "original_name": "田中幸太朗",
+            "popularity": 1.1399,
+            "profile_path": "/k4zcaTc55PSsowYGFrd8q30caD8.jpg",
+            "cast_id": 7,
+            "character": "[Gay bar owner]",
+            "credit_id": "66e778f1d7bcca524db0d909",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1718690,
+            "known_for_department": "Acting",
+            "name": "Norimasa Fuke",
+            "original_name": "冨家ノリマサ",
+            "popularity": 1.0883,
+            "profile_path": "/5MgWfCn27XSB8knKFdCoTOK9pmd.jpg",
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "66e77901050f14e4fccfc189",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6143263,
+            "known_for_department": "Acting",
+            "name": "Araki Futaba",
+            "original_name": "Araki Futaba",
+            "popularity": 0.2841,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "",
+            "credit_id": "69def18da0625f9f86af8db1",
+            "order": 6
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 895706,
+            "known_for_department": "Directing",
+            "name": "Shinji Imaoka",
+            "original_name": "今岡信治",
+            "popularity": 0.921,
+            "profile_path": "/ow9N7WCjy1kX2BVZM81a2xfWLVy.jpg",
+            "credit_id": "663ae890771da275063bc844",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 895706,
+            "known_for_department": "Directing",
+            "name": "Shinji Imaoka",
+            "original_name": "今岡信治",
+            "popularity": 0.921,
+            "profile_path": "/ow9N7WCjy1kX2BVZM81a2xfWLVy.jpg",
+            "credit_id": "663ae928510f26d0e13f0473",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1098894,
+            "known_for_department": "Editing",
+            "name": "Tomoko Hiruta",
+            "original_name": "蛭田智子",
+            "popularity": 0.7417,
+            "profile_path": null,
+            "credit_id": "68d43d4e2497465436719eae",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1034267,
+            "known_for_department": "Sound",
+            "name": "Taku Unami",
+            "original_name": "宇波拓",
+            "popularity": 0.4136,
+            "profile_path": null,
+            "credit_id": "68d43d60d5113342631f907b",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 895706,
+            "known_for_department": "Directing",
+            "name": "Shinji Imaoka",
+            "original_name": "今岡信治",
+            "popularity": 0.921,
+            "profile_path": "/ow9N7WCjy1kX2BVZM81a2xfWLVy.jpg",
+            "credit_id": "693cf63d07f3f2684c226524",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2040224,
+            "known_for_department": "Production",
+            "name": "Kenji Ejiri",
+            "original_name": "江尻健司",
+            "popularity": 0.5511,
+            "profile_path": null,
+            "credit_id": "6a6a5f1412e09c9d5e26ab0d",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6378127,
+            "known_for_department": "Production",
+            "name": "Ken Kitauchi",
+            "original_name": "北内健",
+            "popularity": 0.1746,
+            "profile_path": null,
+            "credit_id": "6a6a5f3f813984c4835171a7",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4127433,
+            "known_for_department": "Sound",
+            "name": "Atsushi Fuzimoto",
+            "original_name": "藤本淳",
+            "popularity": 0.334,
+            "profile_path": null,
+            "credit_id": "6a6a5fe0f54ce1a1007114fd",
+            "department": "Sound",
+            "job": "Sound Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4127433,
+            "known_for_department": "Sound",
+            "name": "Atsushi Fuzimoto",
+            "original_name": "藤本淳",
+            "popularity": 0.334,
+            "profile_path": null,
+            "credit_id": "6a6a5fe737d2aa2fe1b9a4bc",
+            "department": "Sound",
+            "job": "Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2290118,
+            "known_for_department": "Sound",
+            "name": "Tsutomu Yamaguchi",
+            "original_name": "山口勉",
+            "popularity": 0.4551,
+            "profile_path": null,
+            "credit_id": "6a6a600d9393049dbdc628df",
+            "department": "Sound",
+            "job": "Sound Recordist"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2107389,
+            "known_for_department": "Directing",
+            "name": "Tsuyoshi Koizumi",
+            "original_name": "小泉剛",
+            "popularity": 0.6704,
+            "profile_path": null,
+            "credit_id": "6a6a601537d2aa2fe1b9a4c2",
+            "department": "Directing",
+            "job": "Assistant Director"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 6152,
+            "name": "supernatural"
+        },
+        {
+            "id": 14669,
+            "name": "older man younger woman relationship"
+        },
+        {
+            "id": 33721,
+            "name": "body-swap"
+        },
+        {
+            "id": 280003,
+            "name": "girls' love (gl)"
+        },
+        {
+            "id": 282667,
+            "name": "age-gap relationship"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/sd54IIGNr43NyacaW7sF1m3zszv.jpg",
+            "id": 38551,
+            "title": "Snakes and Earrings",
+            "original_title": "蛇にピアス",
+            "overview": "While alone in a nightclub, straight-laced Lui meets sensitive but troubled punk kid Ama. Mesmerized by his split tongue, she becomes obsessed with body modification and soon wants the same treatment. After Ama's heavily-tattooed friend Shiba pierces her tongue, Lui finds herself inexorably drawn to both men – and to her growing list of desires, she now adds a tattoo.",
+            "poster_path": "/ys874V8V2YUQFPakMQRnXbIwZAX.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                10749,
+                53,
+                80
+            ],
+            "popularity": 2.673,
+            "release_date": "2008-09-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.146,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7RIYU3mMHiK0QzMP8hG6IX4Sntl.jpg",
+            "id": 458005,
+            "title": "Zoe",
+            "original_title": "Zoe",
+            "overview": "Two colleagues at a revolutionary research lab design technology to improve and perfect romantic relationships. As their work progresses, their discoveries become more profound.",
+            "poster_path": "/hagf4LA3FRD2o1wI3LhNzl0t5vo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                10749,
+                53
+            ],
+            "popularity": 3.445,
+            "release_date": "2018-07-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.909,
+            "vote_count": 444
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AlqDoPCHBqrqRNpAWkAmltIFTR1.jpg",
+            "id": 73454,
+            "title": "X",
+            "original_title": "X",
+            "overview": "A veteran call girl and a runaway prostitute witness a murder which sends them on an out-of-control roller coaster ride through the twilight zone of sex-for-sale.",
+            "poster_path": "/nvU6uTwSpMpitM6mnuYXb1LgxxX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                10749
+            ],
+            "popularity": 7.6368,
+            "release_date": "2011-11-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.401,
+            "vote_count": 324
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dFBua0bSUCQgsrUgqRuiJHp3ZjS.jpg",
+            "id": 59457,
+            "title": "Womb",
+            "original_title": "Womb",
+            "overview": "A woman's consuming love forces her to bear the clone of her dead beloved. From his infancy to manhood, she faces the unavoidable complexities of her controversial decision.",
+            "poster_path": "/raTEzBZBflPyVhOls4PmrryvPos.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                878
+            ],
+            "popularity": 3.1209,
+            "release_date": "2010-07-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.084,
+            "vote_count": 413
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/guKFCL7DcAKP8IKWcZfm00CNBBB.jpg",
+            "id": 11498,
+            "title": "Dead Again",
+            "original_title": "Dead Again",
+            "overview": "In 1949, composer Roman Strauss is executed for the murder of his wife. In 1990s Los Angeles, a detective comes across a mute amnesiac woman who is somehow linked to the Strauss murder.",
+            "poster_path": "/irEnDVtxox6gnRJuwtEZuxvl2vZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                53,
+                10749
+            ],
+            "popularity": 4.0947,
+            "release_date": "1991-08-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.435,
+            "vote_count": 426
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6xJ2odkMFmO2LptVUBR8t8wBldQ.jpg",
+            "id": 483,
+            "title": "Wild at Heart",
+            "original_title": "Wild at Heart",
+            "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short.",
+            "poster_path": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53,
+                10749
+            ],
+            "popularity": 7.5872,
+            "release_date": "1990-08-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1943
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uM6mNuUh8mvLaMSUx55w1vZjIx6.jpg",
+            "id": 850356,
+            "title": "Gabriel's Rapture: Part I",
+            "original_title": "Gabriel's Rapture: Part I",
+            "overview": "In the fourth instalment of the Gabriel's Inferno series, Professor Gabriel Emerson has embarked on a passionate, yet clandestine affair with his former student Julia Mitchell, but when they return from their romantic holiday in Italy, their happiness is threatened. Will Gabriel succumb to Dante's fate?",
+            "poster_path": "/8i70DDfrNeVuXCIf8vcWD1HM34j.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749
+            ],
+            "popularity": 2.1858,
+            "release_date": "2021-11-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.82,
+            "vote_count": 200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oMiKHO3H5RixfLsiU5Vumhlp5sj.jpg",
+            "id": 948549,
+            "title": "Love Lies Bleeding",
+            "original_title": "Love Lies Bleeding",
+            "overview": "Reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Las Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into the web of Lou’s criminal family.",
+            "poster_path": "/xImj8RLe39YK0lyVu9kXv7ApN8p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                10749,
+                53
+            ],
+            "popularity": 8.235,
+            "release_date": "2024-03-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.547,
+            "vote_count": 992
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9sIqW8t1Owz2CSfJbQlmMO5rkFM.jpg",
+            "id": 1218925,
+            "title": "Chainsaw Man - The Movie: Reze Arc",
+            "original_title": "劇場版 チェンソーマン レゼ篇",
+            "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+            "poster_path": "/crBfxNvvsQV3rATX12EuX4W9ECo.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                28,
+                10749,
+                14
+            ],
+            "popularity": 35.2707,
+            "release_date": "2025-09-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.511,
+            "vote_count": 1084
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wwLufumafJojc59hgIamHyJSTO9.jpg",
+            "id": 1903,
+            "title": "Vanilla Sky",
+            "original_title": "Vanilla Sky",
+            "overview": "David Aames has it all: wealth, good looks and gorgeous women on his arm. But just as he begins falling for the warmhearted Sofia, his face is horribly disfigured in a car accident. That's just the beginning of his troubles as the lines between illusion and reality, between life and death, are blurred.",
+            "poster_path": "/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                10749,
+                878
+            ],
+            "popularity": 12.2684,
+            "release_date": "2001-12-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.828,
+            "vote_count": 4749
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8f7TgUsnDTvJpdfOh6hPKmXiyuI.jpg",
+            "id": 23942,
+            "title": "Paradise",
+            "original_title": "Paradise",
+            "overview": "After their caravan is attacked and their respective families butchered by Arab marauders, teenagers David and Sarah flee across the desert. But the desert is filled with danger from the elements, animals and the unwholesome appetite of the Jackal, a sheik who wants Sarah for himself. However, the desert also holds temptation and love. David and Sarah hide out in an oasis and build a life for themselves, discovering each other in new ways.",
+            "poster_path": "/vPWQ02RbO82ijIede7SYHcnhzoT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                12
+            ],
+            "popularity": 3.6898,
+            "release_date": "1982-03-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.011,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6S9XHLS7iSLcNMW1bNb09aBch78.jpg",
+            "id": 499170,
+            "title": "Harmony",
+            "original_title": "Harmony",
+            "overview": "Born with an energetic power to absorb fear from others, a young woman must find love to balance the fears of her own and fight an ever growing storm of negative energy.",
+            "poster_path": "/4brb3rtSdafSXV1QMS75gbqcl3W.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                10749,
+                53,
+                878
+            ],
+            "popularity": 2.3142,
+            "release_date": "2018-10-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.311,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oXWTWJ1KHwE6BWFdiGcBcfvfypE.jpg",
+            "id": 1216571,
+            "title": "June and John",
+            "original_title": "June and John",
+            "overview": "John leads an ordinary life with a monotonous routine. One day John runs into a woman on the subway who is as beautiful as she is mysterious named June. His encounter with her finally leads him to have a goal in his bumptious life.",
+            "poster_path": "/xRa3VBDf9RRz26SYtCTgOu9lQK2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                53
+            ],
+            "popularity": 5.0535,
+            "release_date": "2025-04-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4EMd9DU86rbd9XCjOjLHp5Khtn8.jpg",
+            "id": 255343,
+            "title": "Escobar: Paradise Lost",
+            "original_title": "Escobar: Paradise Lost",
+            "overview": "For Pablo Escobar family is everything. When young surfer Nick falls for Escobar's niece, Maria, he finds his life on the line when he's pulled into the dangerous world of the family business.",
+            "poster_path": "/4HngNLzCmUYCPB8FbxSZWN0eDKM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                10749
+            ],
+            "popularity": 4.0776,
+            "release_date": "2014-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.261,
+            "vote_count": 823
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/buh3jfOAalomdhJwEDb8VoKwFEE.jpg",
+            "id": 594694,
+            "title": "Paris, Wine & Romance",
+            "original_title": "Paris, Wine & Romance",
+            "overview": "Isabella is the ambitious new owner of her family’s Oregon winery whose dream of becoming world-renowned takes a big step forward when she enters a prestigious wine competition in Paris. Upon arrival, Isabella meets her biggest competitor, Jacques, from one of the world’s foremost winemaking families. Impressed by Isabella and her expertise in wine, a budding romance develops between them.",
+            "poster_path": "/8Zeeuo6MANQanNiiKEk91OQpuzn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                10770
+            ],
+            "popularity": 1.5304,
+            "release_date": "2019-05-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jfuU2MOYnMTN5icwYwKSq5UWl9I.jpg",
+            "id": 114372,
+            "title": "Fist of the North Star: Legend of Raoh - Chapter of Fierce Fighting",
+            "original_title": "真救世主伝説 北斗の拳 ラオウ伝 激闘の章",
+            "overview": "A film adaptation of the Last Nanto General story arc from the manga, depicting the final battle between Kenshiro and Raoh that led to Kenshiro becoming the successor of Hokuto Shinken. Some events from the manga / anime have been excluded from the story (such as Raoh's fight with Juza) whereas others have been altered or expanded. New content featuring the final battle from Raoh's perspective have been added. This film serves as the follow-up to the first film in the series, which introduced Raoh and Reina's relationship, this time bringing it to a conclusion.",
+            "poster_path": "/kghwkWiK99pPscP61Tm771Vu5lm.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                28,
+                16,
+                12,
+                10749
+            ],
+            "popularity": 3.1863,
+            "release_date": "2007-04-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/89uw4vqgccd7UoojRJKMETtjk4x.jpg",
+            "id": 1079346,
+            "title": "5lbs of Pressure",
+            "original_title": "5lbs of Pressure",
+            "overview": "Fresh out of prison after serving time for murder, Adam returns to his old stomping grounds to seek out a son who doesn't know him. Eli, the brother of the man he killed is looking for revenge. Mike, is trying to escape a life of crime living under the thumb of his gangster Uncle.",
+            "poster_path": "/toEJOPYvM7Na0XwM8exg8aHq553.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                10749,
+                10770
+            ],
+            "popularity": 6.673,
+            "release_date": "2024-03-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.869,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7tYw1CqTyFPWqjtaCdEC3vi0gI5.jpg",
+            "id": 23151,
+            "title": "The Garden of Sinners: Murder Speculation Part A",
+            "original_title": "劇場版「空の境界」第二章 殺人考察（前）",
+            "overview": "August 1995: Mikiya first meets Shiki in a white kimono during a snowing day. Later on, at the high school freshmen ceremony, Mikiya sees Shiki in the crowd and chases after her, introducing himself to her. But Shiki hides a big secret: A wave of bizarre murders occur around many loose ends, and no suspects. there are still many questions: Who to believe? Who is the murderer? What is the secret of Shiki? and especially: Who is SHIKI?",
+            "poster_path": "/zxNZpMkis5XnD81Y3gqJhh9ZOmk.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                28,
+                80,
+                10749,
+                9648
+            ],
+            "popularity": 1.7818,
+            "release_date": "2007-12-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.704,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
+            "id": 319,
+            "title": "True Romance",
+            "original_title": "True Romance",
+            "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+            "poster_path": "/AqlPzcILRi0IW0JodKp7pMMNEFt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                10749
+            ],
+            "popularity": 12.6874,
+            "release_date": "1993-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3124
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qZkwpsYaCsC2uli38mUXCYbkmjh.jpg",
+            "id": 23167,
+            "title": "The Garden of Sinners: Murder Speculation Part B",
+            "original_title": "劇場版「空の境界」第七章 殺人考察（後）",
+            "overview": "In February 1999, a string of murders has Shiki Ryougi and Mikiya Kokutou on edge. These crimes share a disturbing resemblance to a similar set of homicides from 1995, when Shiki and Mikiya first met, and awaken a dark, murderous desire that has laid dormant within Shiki's soul ever since then.",
+            "poster_path": "/kiOc87AV2sDlZomxKQtJrvHETiZ.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                14,
+                9648,
+                10749,
+                28,
+                80
+            ],
+            "popularity": 1.8553,
+            "release_date": "2009-08-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.198,
+            "vote_count": 96
+        }
+    ]
+}

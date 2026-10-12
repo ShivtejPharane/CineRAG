@@ -1,0 +1,560 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/yZv8DKu93OyUwBktv8GfyUHKelj.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 641284,
+        "imdb_id": "tt0129034",
+        "origin_country": [
+            "CA",
+            "FR"
+        ],
+        "original_language": "fr",
+        "original_title": "Excitation au soleil",
+        "overview": "A couple prepares to welcome a friend and his new fiancée, but when an unexpected guest arrives ahead of them, a case of mistaken identity sets everything in motion. As assumptions blur and boundaries loosen, the household quickly slips into a web of flirtation, confusion, and shifting dynamics. When the real fiancée finally appears, nothing is quite as it seems.. and the evening takes a series of surprising turns.",
+        "popularity": 23.284,
+        "poster_path": "/ysKUDDAwHGZLbvAYAkAJABSwmFB.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "release_date": "1978-03-22",
+        "revenue": 0,
+        "runtime": 87,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Carnal Excitation",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 4
+    },
+    "cast": [
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 1280043,
+            "known_for_department": "Acting",
+            "name": "Danièle Troeger",
+            "original_name": "Danièle Troeger",
+            "popularity": 0.0,
+            "profile_path": "/5inl0AeQKILjQ3ZqAc76dwenO1B.jpg",
+            "cast_id": 7,
+            "character": "Corinne",
+            "credit_id": "64811c5ee375c000c525b88b",
+            "order": 0
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 1169182,
+            "known_for_department": "Acting",
+            "name": "Morgane",
+            "original_name": "Morgane",
+            "popularity": 0.0,
+            "profile_path": "/uC4VlPtMKxa1wGuZGlNeb3W5aMM.jpg",
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "6481c690d2b20900ebbf1b76",
+            "order": 1
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 1315712,
+            "known_for_department": "Acting",
+            "name": "Thierry de Brem",
+            "original_name": "Thierry de Brem",
+            "popularity": 0.0,
+            "profile_path": "/gU9m4RwE2RZ009jh4goSsv4VOyT.jpg",
+            "cast_id": 2,
+            "character": "Robert",
+            "credit_id": "5dadd509b2681f0012987b5d",
+            "order": 2
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 44411,
+            "known_for_department": "Acting",
+            "name": "Olivier Mathot",
+            "original_name": "Olivier Mathot",
+            "popularity": 0.0,
+            "profile_path": "/75kLBKdSRJD0Q8NcIWttmEpZPyD.jpg",
+            "cast_id": 4,
+            "character": "Antoine",
+            "credit_id": "5dadd534ae366800179af791",
+            "order": 3
+        }
+    ],
+    "crew": [
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 85985,
+            "known_for_department": "Acting",
+            "name": "Michel Lemoine",
+            "original_name": "Michel Lemoine",
+            "popularity": 0.0,
+            "profile_path": "/uQj1ogZDrFLqFH7wGqjcUVEwt4K.jpg",
+            "credit_id": "5dadd5e2b2681f0012987c35",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 155477,
+            "name": "softcore"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/jiyYIVcpfigO6wlhUQNDUOtefHS.jpg",
+            "id": 34482,
+            "title": "The Clique",
+            "original_title": "The Clique",
+            "overview": "A young girl tries to fit in with a clique of popular middle school girls after moving into the guest house of one of their homes.",
+            "poster_path": "/f8h9WF7l5vLWI6OU5nmIRKx6QJ0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "popularity": 4.5456,
+            "release_date": "2008-11-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xvt55bd9icHideORq3X2pVyohKn.jpg",
+            "id": 19345,
+            "title": "Black Widow",
+            "original_title": "Black Widow",
+            "overview": "Federal agent Alexandra Barnes believes that Catherine Petersen is a serial killer who marries rich men and then murders them for their money. But since Catherine is seemingly a master of disguise and has multiple identities, Alexandra can't prove anything with conventional detective work. With no other option, she goes undercover, pursuing the same man as Catherine, and hoping that Catherine will slip up and reveal her true identity.",
+            "poster_path": "/iAlUN6XFuvSz1it58aH2cuEITrt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53
+            ],
+            "popularity": 4.5601,
+            "release_date": "1987-02-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.175,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDheArr6dG4IAKfFkaCyrUgkidr.jpg",
+            "id": 22100,
+            "title": "Watching the Detectives",
+            "original_title": "Watching the Detectives",
+            "overview": "Neil, a self-proclaimed film geek and owner of Gumshoe video, has always been content to live vicariously through his favorite films noir. But when he meets Violet, a real-life femme fatale, his mundane world gets turned upside down and the line between reality and the movies quickly begins to blur.",
+            "poster_path": "/wm2TaGTXpy30WNLuZaqagIMbf1K.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 2.7979,
+            "release_date": "2007-05-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8cAtMxn5unNCpuVQ318d4Uf4jUl.jpg",
+            "id": 308024,
+            "title": "The Overnight",
+            "original_title": "The Overnight",
+            "overview": "Alex, Emily, and their son, RJ, are new to Los Angeles. A chance meeting at the park introduces them to the mysterious Kurt, Charlotte, and Max. A family “playdate” becomes increasingly interesting as the night goes on.",
+            "poster_path": "/8DDEGc6vifxxYdkym3G99AMlITG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                35
+            ],
+            "popularity": 3.7036,
+            "release_date": "2015-06-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.946,
+            "vote_count": 364
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zIwsL0bIScIMu4CV0C3DxWxKFSN.jpg",
+            "id": 9026,
+            "title": "The Importance of Being Earnest",
+            "original_title": "The Importance of Being Earnest",
+            "overview": "Two young gentlemen living in 1890s England use the same pseudonym ('Ernest') on the sly, which is fine until they both fall in love with women using that name, which leads to a comedy of mistaken identities.",
+            "poster_path": "/87r4e4pL4STfpdjtqNZxlyjvcMd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                36,
+                10749
+            ],
+            "popularity": 2.7977,
+            "release_date": "2002-05-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.827,
+            "vote_count": 514
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AePlQ3osZShJmbNj8tzQ3NoMTQF.jpg",
+            "id": 1013446,
+            "title": "Reflection in a Dead Diamond",
+            "original_title": "Reflet dans un diamant mort",
+            "overview": "When the mysterious woman in the room next door disappears, a debonair 70-year-old ex-spy living in a luxury hotel on the Côte d'Azur is confronted by the demons and darlings of a lurid past in which moviemaking, memories and madness collide.",
+            "poster_path": "/5CdRxBu7jRDHjthkAL8vE0GdKUD.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                28,
+                53,
+                9648
+            ],
+            "popularity": 3.3015,
+            "release_date": "2025-06-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg",
+            "id": 850920,
+            "title": "The Parenting",
+            "original_title": "The Parenting",
+            "overview": "Boyfriends Josh and Rohan plan a weekend getaway to introduce their parents, only to discover that their rental is home to an ancient demon.",
+            "poster_path": "/5lMu14IMuHo0hKYCwCIogt7IioX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "popularity": 5.3092,
+            "release_date": "2025-03-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xlZM7eymDabtzi3SMW3QGpLKDXx.jpg",
+            "id": 846956,
+            "title": "Rogue Agent",
+            "original_title": "Rogue Agent",
+            "overview": "Conman Robert Freegard poses as an undercover MI5 agent and kidnaps countless victims amidst a high-stakes manhunt, until the woman who fell for him brings him to justice.",
+            "poster_path": "/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 5.654,
+            "release_date": "2022-08-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tdNaqH7hqTjCvpG3ff6jZbgbptx.jpg",
+            "id": 53027,
+            "title": "Mystery Date",
+            "original_title": "Mystery Date",
+            "overview": "Tom McHugh quickly learns that his perfect big brother Craig isn't all he's cracked up to be while on a night on the town with the girl next door, during which Tom is harassed by unpleasant strangers, threatened by mobsters, pursued by police, attacked by an irate florist, accused of murder, and has his date kidnapped—all because everyone thinks he's Craig...and the classic 1959 DeSoto Firesweep he borrowed off his brother has two dead bodies in the trunk.",
+            "poster_path": "/vof40ryhBNTEvtjHl1somhdrXm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 2.2292,
+            "release_date": "1991-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.845,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f2MzXz3vjuNtSPn17ugFa6oTUmc.jpg",
+            "id": 6282,
+            "title": "Coyote Ugly",
+            "original_title": "Coyote Ugly",
+            "overview": "Graced with a velvet voice, 21-year-old Violet Sanford heads to New York to pursue her dream of becoming a songwriter only to find her aspirations sidelined by the accolades and notoriety she receives at her \"day\" job as a barmaid at Coyote Ugly. The \"Coyotes\" as they are affectionately called tantalize customers and the media alike with their outrageous antics, making Coyote Ugly the watering hole for guys on the prowl.",
+            "poster_path": "/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10402,
+                10749
+            ],
+            "popularity": 9.4206,
+            "release_date": "2000-07-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.257,
+            "vote_count": 2301
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4RbxxPAUushqUYNO8EW09GSluBt.jpg",
+            "id": 13994,
+            "title": "Romance & Cigarettes",
+            "original_title": "Romance & Cigarettes",
+            "overview": "Ironworker Nick lives with his wife, Kitty, and three daughters. When he meets a significantly younger woman, Tula, he starts an affair with her, much to the chagrin of his wife, and his life is thrown into upheaval. Kitty kicks Nick out of the house, and he is forced to make some difficult decisions.",
+            "poster_path": "/phSntD46jD5IfYAa2lSoU6xJDJ6.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10402,
+                10749
+            ],
+            "popularity": 3.2744,
+            "release_date": "2005-09-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.001,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vTsEz34qxqBDOxVNdqC1bXNlL3X.jpg",
+            "id": 11033,
+            "title": "Dressed to Kill",
+            "original_title": "Dressed to Kill",
+            "overview": "After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.",
+            "poster_path": "/oy1m5dd44foNrxV8U9l6Walx82V.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                9648,
+                27
+            ],
+            "popularity": 5.1431,
+            "release_date": "1980-07-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.956,
+            "vote_count": 1134
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oQMqMLIJXZAVMplga9RhDyZInAW.jpg",
+            "id": 746419,
+            "title": "Father of the Bride",
+            "original_title": "Father of the Bride",
+            "overview": "A father comes to grips with his daughter’s upcoming wedding through the prism of multiple relationships within a big, sprawling Cuban-American family.",
+            "poster_path": "/chKMG9tzFqSkj24ejXTio156Qo0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 4.4884,
+            "release_date": "2022-07-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.33,
+            "vote_count": 206
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sub8lPQRZ28WzN8ggUtsH0R1bno.jpg",
+            "id": 14424,
+            "title": "Sex and Death 101",
+            "original_title": "Sex and Death 101",
+            "overview": "A guy's life is turned around by an email, which includes the names of everyone he's had sex with and ever will have sex with. His situation gets worse when he encounters a femme fatale who targets men guilty of sex crime.",
+            "poster_path": "/yLWdM3znzRCqEbxYWXpSJNNu3fe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "popularity": 4.2602,
+            "release_date": "2007-06-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.143,
+            "vote_count": 311
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rJ7PB78ZcBaCPxQRLrZxh4M2Z0N.jpg",
+            "id": 339849,
+            "title": "Not Without Hope",
+            "original_title": "Not Without Hope",
+            "overview": "A group of friends' fishing boat capsizes off the coast of Mexico and they're left alone stranded at sea and struggling for survival.",
+            "poster_path": "/w5WJMJ6DWPFK0Gx0Ongh0FZBAlK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 4.0276,
+            "release_date": "2025-12-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.582,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/26sbMdUL1MrAwVEbcRFkWHcRrGC.jpg",
+            "id": 451955,
+            "title": "Double Lover",
+            "original_title": "L'Amant double",
+            "overview": "Chloé, a fragile young woman, falls in love with her psychoanalyst, Paul. A few months later she moves in with him, but soon discovers that her lover is concealing a part of his identity.",
+            "poster_path": "/x1KEFLE8cthmuXs0ESxfwbcziN4.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                10749,
+                53,
+                18
+            ],
+            "popularity": 4.2936,
+            "release_date": "2017-05-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.072,
+            "vote_count": 579
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
+            "id": 744114,
+            "title": "My Policeman",
+            "original_title": "My Policeman",
+            "overview": "In the late 1990s, the arrival of elderly invalid Patrick into Marion and Tom’s home triggers the exploration of seismic events from 40 years previous: the passionate relationship between Tom and Patrick at a time when homosexuality was illegal.",
+            "poster_path": "/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 3.6251,
+            "release_date": "2022-10-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.527,
+            "vote_count": 780
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uuAbE6pP6VF7LxeOTokMUeDPyPI.jpg",
+            "id": 173185,
+            "title": "It Boy",
+            "original_title": "20 Ans d'écart",
+            "overview": "38-year-old Alice has everything to become the next editor-in-chief of Rebelle magazine except for her uptight image. But when the young and charming Balthazar, barely 20, crosses Alice's path, she realizes that he holds the key to her promotion.",
+            "poster_path": "/7PbiUzPjM6ZvD9sGppBtdLcDdwx.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 7.002,
+            "release_date": "2013-03-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.516,
+            "vote_count": 1607
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/62PJAfCHczgD6sTdnnLXQIuKRlN.jpg",
+            "id": 241855,
+            "title": "Spring",
+            "original_title": "Spring",
+            "overview": "A young man in a personal tailspin flees the US to Italy, where he sparks up a romance with a woman harboring a dark, primordial secret.",
+            "poster_path": "/qPI94JmMga88RB7vuQA83McgFaz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                10749,
+                878
+            ],
+            "popularity": 3.3903,
+            "release_date": "2014-10-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.627,
+            "vote_count": 806
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wZ3kOwYNYC89WFxKsxweoAl6BxF.jpg",
+            "id": 31353,
+            "title": "Those Who Love Me Can Take the Train",
+            "original_title": "Ceux qui m'aiment prendront le train",
+            "overview": "A group of mourners travels by train to bury a recently deceased artist in Limoges. As they journey, secrets and desires unfold, with relationships shifting, past loves resurfacing, and personal connections revealed. At the funeral and afterward, tensions rise among the group, leading to further emotional complexities at the artist’s family home.",
+            "poster_path": "/iwATSa886QDamfkTG3nHXkCoXPe.jpg",
+            "media_type": "movie",
+            "original_language": "fr",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 4.5212,
+            "release_date": "1998-05-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.205,
+            "vote_count": 44
+        }
+    ]
+}

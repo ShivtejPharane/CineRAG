@@ -1,0 +1,622 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 89657,
+        "imdb_id": "tt0123740",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Country Hooker",
+        "overview": "A couple of musicians are on their way to a show at a country bar. Along the way, they pick up a couple of sexy hitchhiking ladies and decide to pull over for a pitstop. Eventually, they make it to the bar and uncover that the deep voiced country singer that also plays there is also a pimp who uses the \"waitresses\" to make him some extra cash. It is up to our musician heroes to put an end to the singer and his operation.",
+        "popularity": 23.3415,
+        "poster_path": "/v1idmJb9QWzhRllXlveKxYtsAHG.jpg",
+        "production_companies": [
+            {
+                "id": 257875,
+                "logo_path": null,
+                "name": "Snowman Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1974-10-04",
+        "revenue": 0,
+        "runtime": 75,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "She paid the price of love in Blood! ...Hers!",
+        "title": "Country Hooker",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 6
+    },
+    "cast": [
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 100161,
+            "known_for_department": "Acting",
+            "name": "Rene Bond",
+            "original_name": "Rene Bond",
+            "popularity": 0.0,
+            "profile_path": "/iH4SsFRA15Vgu92PIx1hcE5ys9O.jpg",
+            "cast_id": 2,
+            "character": "Sue",
+            "credit_id": "52fe4a259251416c910c4b5d",
+            "order": 0
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 100165,
+            "known_for_department": "Acting",
+            "name": "Ric Lutze",
+            "original_name": "Ric Lutze",
+            "popularity": 0.0,
+            "profile_path": "/9oT4hXqFg5Ha2e7eEkPpXeVEvYk.jpg",
+            "cast_id": 3,
+            "character": "Dave Anderson",
+            "credit_id": "52fe4a259251416c910c4b61",
+            "order": 1
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 101467,
+            "known_for_department": "Acting",
+            "name": "Sandy Dempsey",
+            "original_name": "Sandy Dempsey",
+            "popularity": 0.0,
+            "profile_path": "/gjHsPw4GVzmktEJKPr14sgnOdvN.jpg",
+            "cast_id": 6,
+            "character": "Jan",
+            "credit_id": "57f8008f92514175e1003f63",
+            "order": 2
+        },
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 1073186,
+            "known_for_department": "Acting",
+            "name": "John Paul Jones",
+            "original_name": "John Paul Jones",
+            "popularity": 0.0,
+            "profile_path": null,
+            "cast_id": 5,
+            "character": "Billy B",
+            "credit_id": "52fe4a259251416c910c4b69",
+            "order": 3
+        },
+        {
+            "adult": true,
+            "gender": 1,
+            "id": 104581,
+            "known_for_department": "Acting",
+            "name": "Maria Arnold",
+            "original_name": "Maria Arnold",
+            "popularity": 0.0,
+            "profile_path": "/fUwG0WCo0C4BNrXiXOctBpYlF5F.jpg",
+            "cast_id": 8,
+            "character": "Honey",
+            "credit_id": "68410b1bb38c79449efcb5b5",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5557941,
+            "known_for_department": "Acting",
+            "name": "Penny King",
+            "original_name": "Penny King",
+            "popularity": 0.1901,
+            "profile_path": null,
+            "cast_id": 9,
+            "character": "Hooker in Orange Dress (uncredited)",
+            "credit_id": "687123ee07dcb97b72a97486",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1134865,
+            "known_for_department": "Acting",
+            "name": "Louis Ojena",
+            "original_name": "Louis Ojena",
+            "popularity": 0.4053,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "Mike",
+            "credit_id": "687124253eb518ff69ba2ce2",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5557945,
+            "known_for_department": "Acting",
+            "name": "Chesley Noone",
+            "original_name": "Chesley Noone",
+            "popularity": 0.1784,
+            "profile_path": null,
+            "cast_id": 11,
+            "character": "Charlie (uncredited)",
+            "credit_id": "68712454af21e0729cba2e8e",
+            "order": 7
+        }
+    ],
+    "crew": [
+        {
+            "adult": true,
+            "gender": 2,
+            "id": 1261864,
+            "known_for_department": "Camera",
+            "name": "Lew Guinn",
+            "original_name": "Lew Guinn",
+            "popularity": 0.0,
+            "profile_path": null,
+            "credit_id": "52fe4a259251416c910c4b59",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 213610,
+            "known_for_department": "Production",
+            "name": "Harry H. Novak",
+            "original_name": "Harry H. Novak",
+            "popularity": 0.6402,
+            "profile_path": null,
+            "credit_id": "6278942b07291c009a553eba",
+            "department": "Production",
+            "job": "Executive Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 6930,
+            "name": "fondling"
+        },
+        {
+            "id": 155477,
+            "name": "softcore"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/m89mzXy3WzZyWFzym2yUoUHexQE.jpg",
+            "id": 518244,
+            "title": "Scandalous Sex",
+            "original_title": "Scandalous Sex",
+            "overview": "A daughter seeks to restore the reputation of her disgraced father, a wronged college professor. With help of a professional student, she must overcome an ambitious sorority bitch and corrupt college dean.",
+            "poster_path": "/eH2ben4ZuvDKxkgAgrPAVOsuJGy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.2125,
+            "release_date": "2004-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wyMd7nQ1REmWTc1OHfr08BCGpdF.jpg",
+            "id": 417688,
+            "title": "Pimp",
+            "original_title": "Pimp",
+            "overview": "An urban love story set on the hard streets of the Bronx. A struggling female pimp, named Wednesday, grows up learning the game from her dad. Once he's gone she's left to look out for her prostitute mother and girlfriend Nikki.",
+            "poster_path": "/aLFt9swGFQpujVXzbj9LWowjX6C.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.2612,
+            "release_date": "2018-11-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.22,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bBK5j3FUk2qy5KtHXMJDLdKH7Ba.jpg",
+            "id": 35030,
+            "title": "The Young One",
+            "original_title": "La joven",
+            "overview": "A jazz musician seeks refuge from a lynch mob on a remote island, where he meets a hostile game warden and the young object of his attentions.",
+            "poster_path": "/vgqmNCe9PKibdGpdWuhA6Ozuso.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.0625,
+            "release_date": "1960-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6lDdjAJ5uuHmYAv9eT7dUyGVvS.jpg",
+            "id": 413337,
+            "title": "Girl in the Box",
+            "original_title": "Girl in the Box",
+            "overview": "The true story of 20-year-old Colleen Stan, a hitchhiking woman abducted by a young couple and held captive for seven years, during which time she's tortured and forced to live as a slave to her captors.",
+            "poster_path": "/uLH92vwvTlOjnSCG5JqJtH1fT9p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "popularity": 5.8562,
+            "release_date": "2016-09-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.709,
+            "vote_count": 163
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AnmfRV7X0kwEn96pg0lAVopV8YK.jpg",
+            "id": 893086,
+            "title": "The Good Neighbor",
+            "original_title": "The Good Neighbor",
+            "overview": "A nightmarish evening unfolds for neighbors David and Robert when they accidentally hit a woman on her bike and flee the scene. While David is increasingly plagued by feelings of guilt, Robert shows no remorse and becomes overbearing and possessive.",
+            "poster_path": "/mXJ2xI7B0Z9WxDjyv18anPsOxeE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 3.1563,
+            "release_date": "2022-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.555,
+            "vote_count": 192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg",
+            "id": 440918,
+            "title": "Teen Spirit",
+            "original_title": "Teen Spirit",
+            "overview": "A shy teenager living on the Isle of Wight dreams of pop stardom. With the help of an unlikely mentor, she enters a singing competition that will test her integrity, talent, and ambition.",
+            "poster_path": "/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "popularity": 6.5322,
+            "release_date": "2019-04-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.035,
+            "vote_count": 361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xlZM7eymDabtzi3SMW3QGpLKDXx.jpg",
+            "id": 846956,
+            "title": "Rogue Agent",
+            "original_title": "Rogue Agent",
+            "overview": "Conman Robert Freegard poses as an undercover MI5 agent and kidnaps countless victims amidst a high-stakes manhunt, until the woman who fell for him brings him to justice.",
+            "poster_path": "/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 5.654,
+            "release_date": "2022-08-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5L5NYXBPmThp1OBj3IGStlRGltx.jpg",
+            "id": 109417,
+            "title": "Battle of the Year",
+            "original_title": "Battle of the Year",
+            "overview": "A down-on-his-luck coach is hired to prepare a team of the best American dancers for an international tournament that attracts all the best crews from around the world, but the Americans haven't won in fifteen years.",
+            "poster_path": "/dB4L9yt9eFbVhx8tSuDUHoMeN4x.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "popularity": 2.7842,
+            "release_date": "2013-09-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.793,
+            "vote_count": 362
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6lvbLqT8CZWebjZNmtOB1xrWkaY.jpg",
+            "id": 515114,
+            "title": "Honey: Rise Up and Dance",
+            "original_title": "Honey: Rise Up and Dance",
+            "overview": "Street dancer Skyler comes out of the shadow of her trained dancer sister, Tosha, & joins a dance competition with the Honey dance studio; the prize is a college scholarship.",
+            "poster_path": "/gzxUNGk79dHk2mUb5HrhvooHScV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "popularity": 2.2864,
+            "release_date": "2018-04-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 108
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/orYYkVBbTB7ZAqxmzlQLIHqENqM.jpg",
+            "id": 95608,
+            "title": "The Only Living Boy in New York",
+            "original_title": "The Only Living Boy in New York",
+            "overview": "When a young man learns that his overbearing father is having an affair, he tries to stop it, only to be seduced by the older woman as well.",
+            "poster_path": "/8e6Q7N2qJ7utBrf6pyf3EiLADja.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.5818,
+            "release_date": "2017-07-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.288,
+            "vote_count": 378
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Aqldsq65Nj1KAkQD2MzkZsAk5N5.jpg",
+            "id": 846433,
+            "title": "The Enforcer",
+            "original_title": "The Enforcer",
+            "overview": "A noir thriller set in Miami, the film follows an enforcer who discovers his femme fatale boss has branched out into cyber sex trafficking, putting a young runaway he’s befriended at risk. He sacrifices everything to save the young girl from the deadly organization he’s spent his life building.",
+            "poster_path": "/72V1r1G8S87ELagVxjqAUdChMCt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "popularity": 5.7541,
+            "release_date": "2022-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.054,
+            "vote_count": 514
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1NSRfeWDoZXCLdgYrG1GvJj8JZL.jpg",
+            "id": 14114,
+            "title": "You Got Served",
+            "original_title": "You Got Served",
+            "overview": "At Mr. Rad's Warehouse, the best hip-hop crews in Los Angeles compete for money and respect. But when a suburban crew crashes the party, stealing their dancers — and their moves — two warring friends have to pull together to represent the street.",
+            "poster_path": "/nFwT3QisWFQa3Wlfnw1gC458xJn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "popularity": 3.1943,
+            "release_date": "2004-01-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.393,
+            "vote_count": 480
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wdcSkdKRwiABA5SdNth1uAnErzw.jpg",
+            "id": 928270,
+            "title": "Heatwave",
+            "original_title": "Heatwave",
+            "overview": "A woman's life takes an unexpected turn when she falls for her boss's wife. She must soon defend herself as she becomes entangled in a web of malice.",
+            "poster_path": "/rtbZAMcriHlHmB24GhBRlLa29dA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 5.178,
+            "release_date": "2022-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.249,
+            "vote_count": 169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4FbTBvNO3VTFbFFghipK7Jqz7I6.jpg",
+            "id": 552532,
+            "title": "Charm City Kings",
+            "original_title": "Charm City Kings",
+            "overview": "Mouse desperately wants to join The Midnight Clique, the infamous Baltimore dirt bike riders who rule the summertime streets. When Midnight’s leader, Blax, takes 14-year-old Mouse under his wing, Mouse soon finds himself torn between the straight-and-narrow and a road filled with fast money and violence.",
+            "poster_path": "/j732HPX0HSPcYvKURAIIS5Ppvk1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.1501,
+            "release_date": "2020-01-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.839,
+            "vote_count": 504
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/juj498fB0FRZHRKrirHL61gMqUs.jpg",
+            "id": 1450257,
+            "title": "Clika",
+            "original_title": "Clika",
+            "overview": "Aspiring small-town musician Chito is determined to make it big. When a clip of him performing one of his songs goes viral, he seizes the opportunity and pushes to carve out a place for himself in the new wave of Mexican-American music... and ultimately gets caught in a game more dangerous than anticipated.",
+            "poster_path": "/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "popularity": 3.2991,
+            "release_date": "2026-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.119,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lVDDXGuuu2WiqQCyXMsLe513FNP.jpg",
+            "id": 184341,
+            "title": "Hands of Stone",
+            "original_title": "Hands of Stone",
+            "overview": "The legendary Roberto Duran and his equally legendary trainer Ray Arcel change each other's lives.",
+            "poster_path": "/rpAYkkc7ltnxnMXOZLPuI9A6cuB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.4058,
+            "release_date": "2016-08-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 461
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yZJqFoVb687DCgkFXvG04Y2Myw.jpg",
+            "id": 29515,
+            "title": "The Mack",
+            "original_title": "The Mack",
+            "overview": "A recently-released convict becomes the most powerful pimp in Oakland, but tragedy ensues when his activities draw the ire of two corrupt cops and the crime lord he once worked for.",
+            "poster_path": "/xcS9bxWGFzC3cA7qAOjcIjKajSf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "popularity": 2.1312,
+            "release_date": "1973-04-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.433,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kk1MMdWF9Z4vBMM0ebBjD7G5zFf.jpg",
+            "id": 127373,
+            "title": "What Maisie Knew",
+            "original_title": "What Maisie Knew",
+            "overview": "In New York City, a young girl is caught in the middle of her parents' bitter custody battle.",
+            "poster_path": "/1unkWKdT68ba6NdiSsPqzJeylxc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.0972,
+            "release_date": "2013-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.117,
+            "vote_count": 452
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iYS4N87jQcYXnC2WKDlrUvE61Tf.jpg",
+            "id": 283698,
+            "title": "Hungry Hearts",
+            "original_title": "Hungry Hearts",
+            "overview": "The relationship of a couple who meet by chance in New York City is put to the test when they encounter a life or death circumstance.",
+            "poster_path": "/pSLlzA8bJWaLjrm7F7IAhJiHNVi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4157,
+            "release_date": "2015-01-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.511,
+            "vote_count": 221
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3r4WLvWPGgc2fbdmoSoJOsyzh9c.jpg",
+            "id": 556501,
+            "title": "Jungleland",
+            "original_title": "Jungleland",
+            "overview": "Stanley manages his boxer brother Lion but when a devastating loss in the ring leaves the pair in debt, an opportunity to recoup the cash leads to a series of misadventures that threaten to break the bond between them.",
+            "poster_path": "/34jYoAAlkZnfyJiJWpjmrDc9zFR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.6996,
+            "release_date": "2020-11-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.411,
+            "vote_count": 163
+        }
+    ]
+}

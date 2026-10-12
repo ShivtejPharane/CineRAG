@@ -1,0 +1,1088 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
+        "belongs_to_collection": null,
+        "budget": 30000000,
+        "genres": [
+            {
+                "id": 36,
+                "name": "History"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 10752,
+                "name": "War"
+            }
+        ],
+        "homepage": "https://wellgousa.com/films/rise-conqueror",
+        "id": 1207162,
+        "imdb_id": "tt25868520",
+        "origin_country": [
+            "KZ",
+            "US",
+            "UZ"
+        ],
+        "original_language": "en",
+        "original_title": "Rise of the Conqueror",
+        "overview": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
+        "popularity": 13.8912,
+        "poster_path": "/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+        "production_companies": [
+            {
+                "id": 213859,
+                "logo_path": "/lc3sHLuxiCZ377N904A1KwcrZGv.png",
+                "name": "Mystery Box",
+                "origin_country": "US"
+            },
+            {
+                "id": 20555,
+                "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+                "name": "Taurus Film",
+                "origin_country": "DE"
+            },
+            {
+                "id": 206783,
+                "logo_path": "/mVo5Ir4gatRa1U94v4p9Mr15OPJ.png",
+                "name": "Signature Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 122034,
+                "logo_path": "/kmZNR0LSuhSkEAje0v20Tn6WOt9.png",
+                "name": "Signature Films",
+                "origin_country": "GB"
+            },
+            {
+                "id": 114874,
+                "logo_path": "/lfk5FKLlTBaWqYHLeJs7J9atmNr.png",
+                "name": "Signature Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 74435,
+                "logo_path": "/jZYDf9z2fjjXlZkwfwR4QPwMNtm.png",
+                "name": "Capture",
+                "origin_country": "GB"
+            },
+            {
+                "id": 92394,
+                "logo_path": "/xnsTWHinFaR4oQuHFdxe6JNhfrI.png",
+                "name": "Well Go USA Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "UZ",
+                "name": "Uzbekistan"
+            },
+            {
+                "iso_3166_1": "KZ",
+                "name": "Kazakhstan"
+            }
+        ],
+        "release_date": "2026-04-09",
+        "revenue": 0,
+        "runtime": 119,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "His legacy will be written in fire and blood.",
+        "title": "Rise of the Conqueror",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 18
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1442711,
+            "known_for_department": "Acting",
+            "name": "Christian Mortensen",
+            "original_name": "Christian Mortensen",
+            "popularity": 1.2053,
+            "profile_path": "/pnfuWeC87kitRnrfL8dtRmumWLM.jpg",
+            "cast_id": 6,
+            "character": "Timur",
+            "credit_id": "6559cb89ea84c710940255a4",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1386458,
+            "known_for_department": "Acting",
+            "name": "Mahesh Jadu",
+            "original_name": "Mahesh Jadu",
+            "popularity": 1.236,
+            "profile_path": "/pugsskE62XbyYRruJk8KGk3JVdC.jpg",
+            "cast_id": 7,
+            "character": "Hussayn",
+            "credit_id": "6559cb95d4fe0400ac384c0d",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3555968,
+            "known_for_department": "Acting",
+            "name": "Joshua Jo",
+            "original_name": "Joshua Jo",
+            "popularity": 0.9709,
+            "profile_path": "/6bl1Enijour22IzSCCmrK4Un7k1.jpg",
+            "cast_id": 8,
+            "character": "Ilias",
+            "credit_id": "6559cb9eea84c710959f8209",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 173810,
+            "known_for_department": "Acting",
+            "name": "Sayed Badreya",
+            "original_name": "Sayed Badreya",
+            "popularity": 1.0403,
+            "profile_path": "/sVvwmMsjXd5YqyZEfWcWQEkBScu.jpg",
+            "cast_id": 22,
+            "character": "Kay Khusrau",
+            "credit_id": "69f0b35429ce10c6150fd2db",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2858892,
+            "known_for_department": "Acting",
+            "name": "Yulduz Rajabova",
+            "original_name": "Yulduz Rajabova",
+            "popularity": 1.6388,
+            "profile_path": "/buxpR0bMxIQvtpSEbly13P6Skc4.jpg",
+            "cast_id": 12,
+            "character": "Aljai",
+            "credit_id": "6559cbcb0816c70137eadfd0",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2808019,
+            "known_for_department": "Acting",
+            "name": "Arazou Baker",
+            "original_name": "Arazou Baker",
+            "popularity": 0.6343,
+            "profile_path": "/wlgCmym7D4h5aycggcTD2nTOZRT.jpg",
+            "cast_id": 10,
+            "character": "Banu",
+            "credit_id": "6559cbb3d4fe0400fe07fd49",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1271507,
+            "known_for_department": "Acting",
+            "name": "Paul Marlon",
+            "original_name": "Paul Marlon",
+            "popularity": 0.5282,
+            "profile_path": "/wWrQkI2e4WF67KntlIaUjmMZCoB.jpg",
+            "cast_id": 11,
+            "character": "James",
+            "credit_id": "6559cbbd22931a011c973a83",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3457146,
+            "known_for_department": "Acting",
+            "name": "Dulguun Odkhuu",
+            "original_name": "Dulguun Odkhuu",
+            "popularity": 0.885,
+            "profile_path": "/2NkLDqZw1IoxJhS568gHQgnPe3P.jpg",
+            "cast_id": 13,
+            "character": "Sarai",
+            "credit_id": "6559cbd80816c700fd32503c",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1602696,
+            "known_for_department": "Acting",
+            "name": "Sanzhar Madi",
+            "original_name": "Sanjar Madi",
+            "popularity": 1.1045,
+            "profile_path": "/61OUZ2sTtoO2s6Jc4LF7A39o0GE.jpg",
+            "cast_id": 9,
+            "character": "Jasur",
+            "credit_id": "6559cba9b5400214d07028b5",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1372694,
+            "known_for_department": "Acting",
+            "name": "Umit Ulgen",
+            "original_name": "Umit Ulgen",
+            "popularity": 0.4508,
+            "profile_path": "/lXREVtAsMSTFlVzf7KyE1HjGKnz.jpg",
+            "cast_id": 23,
+            "character": "Baraka",
+            "credit_id": "69f0b3b5d9bd9aa26d131618",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 84733,
+            "known_for_department": "Acting",
+            "name": "Aziz Beyshenaliev",
+            "original_name": "Азиз Бейшеналиев",
+            "popularity": 0.5099,
+            "profile_path": "/7NooA27pTkJwkUdN8fLFrP2Vy7Z.jpg",
+            "cast_id": 15,
+            "character": "Abu Shihab",
+            "credit_id": "6559cbee53866e00c5b3e102",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1734486,
+            "known_for_department": "Acting",
+            "name": "Yerkebulan Daiyrov",
+            "original_name": "Еркебұлан Дайыров",
+            "popularity": 0.7166,
+            "profile_path": "/zIfCXPkmEzQEMn3omNABRMxUnzV.jpg",
+            "cast_id": 18,
+            "character": "Bikijuk",
+            "credit_id": "67dbeb8e5ef4639ebae7a207",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1804086,
+            "known_for_department": "Acting",
+            "name": "Zhandos Aibassov",
+            "original_name": "Жандос Айбасов",
+            "popularity": 0.6902,
+            "profile_path": "/8x0G8iWUZip9sVmE3Fi1GSUwwqr.jpg",
+            "cast_id": 17,
+            "character": "Iskander",
+            "credit_id": "6559cc03b5400214cf3a5821",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6174206,
+            "known_for_department": "Acting",
+            "name": "Maksat Kairatuly",
+            "original_name": "Maksat Kairatuly",
+            "popularity": 0.236,
+            "profile_path": null,
+            "cast_id": 24,
+            "character": "Elchi",
+            "credit_id": "69f0b412fc3e6f15e4d78116",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2894074,
+            "known_for_department": "Acting",
+            "name": "Maruf Otajonov",
+            "original_name": "Maruf Otajonov",
+            "popularity": 0.5163,
+            "profile_path": "/t4pZPPO0OZptm5CvKhAXjR4Rmtr.jpg",
+            "cast_id": 14,
+            "character": "Tugluk Khan",
+            "credit_id": "6559cbe522931a01398eb622",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6174208,
+            "known_for_department": "Acting",
+            "name": "Majit Assan",
+            "original_name": "Majit Assan",
+            "popularity": 0.2026,
+            "profile_path": null,
+            "cast_id": 25,
+            "character": "Hadji",
+            "credit_id": "69f0b446f9af054043143448",
+            "order": 15
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1372427,
+            "known_for_department": "Camera",
+            "name": "Jacob Schwarz",
+            "original_name": "Jacob Schwarz",
+            "popularity": 0.5205,
+            "profile_path": null,
+            "credit_id": "6559cb07ea84c71096df3e56",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4385372,
+            "known_for_department": "Production",
+            "name": "Kathryn Crapo Schwarz",
+            "original_name": "Kathryn Crapo Schwarz",
+            "popularity": 0.1864,
+            "profile_path": null,
+            "credit_id": "6559cb4853866e00abad5c61",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4385376,
+            "known_for_department": "Writing",
+            "name": "Matthew Greene",
+            "original_name": "Matthew Greene",
+            "popularity": 0.3326,
+            "profile_path": null,
+            "credit_id": "6559cb2553866e00abad5c51",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2115850,
+            "known_for_department": "Directing",
+            "name": "Matthew Siemers",
+            "original_name": "Matthew Siemers",
+            "popularity": 0.2634,
+            "profile_path": null,
+            "credit_id": "6559cb3d53866e00ff0930a0",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4385371,
+            "known_for_department": "Editing",
+            "name": "Evan Michael Carpenter",
+            "original_name": "Evan Michael Carpenter",
+            "popularity": 0.3473,
+            "profile_path": null,
+            "credit_id": "699a6bd03b8b453a64b28961",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2898091,
+            "known_for_department": "Sound",
+            "name": "Jonathan Keith",
+            "original_name": "Jonathan Keith",
+            "popularity": 0.3455,
+            "profile_path": "/px8Bh68iwIym0JHHOHBR7PFfyor.jpg",
+            "credit_id": "699a6bd75c4eda54cf590921",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1903152,
+            "known_for_department": "Sound",
+            "name": "T.J. Jacques",
+            "original_name": "T.J. Jacques",
+            "popularity": 0.6669,
+            "profile_path": null,
+            "credit_id": "699a6bde7bfe84d275fc2251",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6178467,
+            "known_for_department": "Production",
+            "name": "Yvonne Lawlor",
+            "original_name": "Yvonne Lawlor",
+            "popularity": 0.2781,
+            "profile_path": null,
+            "credit_id": "69f2e2cdfcfffe8b04766337",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6178469,
+            "known_for_department": "Art",
+            "name": "Jamoliddin Ravshanov",
+            "original_name": "Jamoliddin Ravshanov",
+            "popularity": 0.2181,
+            "profile_path": null,
+            "credit_id": "69f2e32aa1ad9a5368999447",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1442711,
+            "known_for_department": "Acting",
+            "name": "Christian Mortensen",
+            "original_name": "Christian Mortensen",
+            "popularity": 1.2053,
+            "profile_path": "/pnfuWeC87kitRnrfL8dtRmumWLM.jpg",
+            "credit_id": "69f2e3a5c291caf1e6999467",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6178471,
+            "known_for_department": "Writing",
+            "name": "Jacob Schwarz",
+            "original_name": "Jacob Schwarz",
+            "popularity": 0.5548,
+            "profile_path": null,
+            "credit_id": "69f2e3dfabc3af7fa30e5cf6",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1442711,
+            "known_for_department": "Acting",
+            "name": "Christian Mortensen",
+            "original_name": "Christian Mortensen",
+            "popularity": 1.2053,
+            "profile_path": "/pnfuWeC87kitRnrfL8dtRmumWLM.jpg",
+            "credit_id": "69f2e43efcfffe8b04766350",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2295564,
+            "known_for_department": "Directing",
+            "name": "Willem Kampenhout",
+            "original_name": "Willem Kampenhout",
+            "popularity": 0.2499,
+            "profile_path": null,
+            "credit_id": "69f2e469bcfc30fc7a76633c",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2295564,
+            "known_for_department": "Directing",
+            "name": "Willem Kampenhout",
+            "original_name": "Willem Kampenhout",
+            "popularity": 0.2499,
+            "profile_path": null,
+            "credit_id": "69f2e473ba725391d2999466",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6178472,
+            "known_for_department": "Production",
+            "name": "Bekruz Hamzaev",
+            "original_name": "Bekruz Hamzaev",
+            "popularity": 0.309,
+            "profile_path": null,
+            "credit_id": "69f2e48cabc3af7fa30e5d09",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6178473,
+            "known_for_department": "Production",
+            "name": "Azam Abdullaev",
+            "original_name": "Azam Abdullaev",
+            "popularity": 0.2323,
+            "profile_path": null,
+            "credit_id": "69f2e49dba725391d2999474",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1818132,
+            "known_for_department": "Acting",
+            "name": "Zhaidarbek Kunguzhinov",
+            "original_name": "Zhaidarbek Kunguzhinov",
+            "popularity": 0.2833,
+            "profile_path": "/8vLm6SU9tV7RA20gG7412oiksA2.jpg",
+            "credit_id": "69f2e4d946e2eea9d1b82963",
+            "department": "Crew",
+            "job": "Stunt Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6178475,
+            "known_for_department": "Crew",
+            "name": "Rick McGuire",
+            "original_name": "Rick McGuire",
+            "popularity": 0.2057,
+            "profile_path": null,
+            "credit_id": "69f2e537ff9044df0987af8b",
+            "department": "Crew",
+            "job": "Additional Music"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5357062,
+            "known_for_department": "Sound",
+            "name": "Emir Merzeci",
+            "original_name": "Emir Merzeci",
+            "popularity": 0.2826,
+            "profile_path": null,
+            "credit_id": "69f2e5532c2f7e38de87af28",
+            "department": "Crew",
+            "job": "Additional Music"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1521484,
+            "known_for_department": "Camera",
+            "name": "Peter Mosiman",
+            "original_name": "Peter Mosiman",
+            "popularity": 0.2334,
+            "profile_path": null,
+            "credit_id": "6a0c6928f54e325500cd1613",
+            "department": "Camera",
+            "job": "Director of Photography"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 192772,
+            "name": "historical drama"
+        },
+        {
+            "id": 192913,
+            "name": "warrior"
+        },
+        {
+            "id": 195593,
+            "name": "physical disability"
+        },
+        {
+            "id": 223799,
+            "name": "uzbekistan"
+        },
+        {
+            "id": 237612,
+            "name": "14th century"
+        },
+        {
+            "id": 278700,
+            "name": "historical epic"
+        },
+        {
+            "id": 326415,
+            "name": "central asia"
+        },
+        {
+            "id": 328926,
+            "name": "based on real person"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/fNp2ikvY8WZTyVbK1iXW84RLbO5.jpg",
+            "id": 9387,
+            "title": "Conan the Barbarian",
+            "original_title": "Conan the Barbarian",
+            "overview": "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+            "poster_path": "/qw2A587Ee61IwcSOLNFRhuOACZZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "popularity": 11.294,
+            "release_date": "1982-03-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.803,
+            "vote_count": 2859
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/maxRhndtC4BJABvqRPvYNu69CHA.jpg",
+            "id": 551271,
+            "title": "Medieval",
+            "original_title": "Medieval",
+            "overview": "The story of fifteenth century Czech icon and warlord, Jan Zizka, who defeated armies of the Teutonic Order and the Holy Roman Empire.",
+            "poster_path": "/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "popularity": 4.1641,
+            "release_date": "2022-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.859,
+            "vote_count": 548
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2pG1B1DASDtgYQyyAiTm4VVkxj.jpg",
+            "id": 96399,
+            "title": "Outlaws - For Greater Glory",
+            "original_title": "For Greater Glory: The True Story of Cristiada",
+            "overview": "A chronicle of the Cristeros War (1926-1929), which was touched off by a rebellion against the Mexican government's attempt to secularize the country.",
+            "poster_path": "/7jgh0ej04j98q2NFpSZLlpDazUo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                36,
+                18,
+                28,
+                10752
+            ],
+            "popularity": 2.7854,
+            "release_date": "2012-06-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.85,
+            "vote_count": 173
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cI9tb2V8IubIO5rsDNOqcEunAwU.jpg",
+            "id": 9664,
+            "title": "Flyboys",
+            "original_title": "Flyboys",
+            "overview": "The adventures of the Lafayette Escadrille, young Americans who volunteered for the French military before the U.S. entered World War I, and became the country's first fighter pilots.",
+            "poster_path": "/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "popularity": 3.4385,
+            "release_date": "2006-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.547,
+            "vote_count": 862
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5qef4Gl8hJcXvVLE0rsXSgEIbOj.jpg",
+            "id": 489245,
+            "title": "The Kill Team",
+            "original_title": "The Kill Team",
+            "overview": "When Andrew Briggman — a young soldier in the US Army during the invasion of Afghanistan — witnesses the murderous behavior of fellow soldiers, under the direction of a malevolent Sergeant, he faces a moral dilemma. His increasingly-violent platoon becomes suspicious that someone in their ranks has turned on them, and Andrew begins to fear for his safety. A fictionalized dramatization based on a true story.",
+            "poster_path": "/wLRZbtrbV51oQuvqNeK6vhb6btV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "popularity": 3.9533,
+            "release_date": "2019-10-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.449,
+            "vote_count": 432
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h21dxRjtR7xOhyZljtSYeTETCht.jpg",
+            "id": 1966,
+            "title": "Alexander",
+            "original_title": "Alexander",
+            "overview": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
+            "poster_path": "/jrwQu72sGwGqwE8Ijne89PSIvhp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                36,
+                28,
+                12,
+                18,
+                10749
+            ],
+            "popularity": 11.1234,
+            "release_date": "2004-11-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.957,
+            "vote_count": 3564
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kK9WAzCaxN5vxoTgO38wiPIe9ba.jpg",
+            "id": 11358,
+            "title": "Walking Tall",
+            "original_title": "Walking Tall",
+            "overview": "A former U.S. soldier returns to his hometown to find it overrun by crime and corruption, which prompts him to clean house.",
+            "poster_path": "/2sdmKtRz2SlGSLxxZDePKm5zxus.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                18,
+                28,
+                53
+            ],
+            "popularity": 7.104,
+            "release_date": "2004-04-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.31,
+            "vote_count": 1697
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+            "id": 9361,
+            "title": "The Last of the Mohicans",
+            "original_title": "The Last of the Mohicans",
+            "overview": "In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.",
+            "poster_path": "/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                36,
+                10752,
+                18
+            ],
+            "popularity": 10.0603,
+            "release_date": "1992-08-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.387,
+            "vote_count": 3490
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nOqsmE2tdTDhq4bYawNrtwnpB9a.jpg",
+            "id": 504949,
+            "title": "The King",
+            "original_title": "The King",
+            "overview": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V.",
+            "poster_path": "/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "popularity": 9.8829,
+            "release_date": "2019-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.157,
+            "vote_count": 3614
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+            "id": 197,
+            "title": "Braveheart",
+            "original_title": "Braveheart",
+            "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+            "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                36,
+                10752
+            ],
+            "popularity": 17.8281,
+            "release_date": "1995-05-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.945,
+            "vote_count": 11286
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9uIyOsywwi7bDvHxv3QdiimUtd5.jpg",
+            "id": 454227,
+            "title": "Outlaw King",
+            "original_title": "Outlaw King",
+            "overview": "Forced into exile by the English after being crowned King of Scotland, legendary warrior Robert the Bruce fights to reclaim the throne.",
+            "poster_path": "/rT49ousKUWN3dV7UlhaC9onTNdl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                36,
+                10752
+            ],
+            "popularity": 6.5502,
+            "release_date": "2018-09-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.829,
+            "vote_count": 1717
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5UTOmyAIe7icGgjc5ETOZNMITmj.jpg",
+            "id": 37861,
+            "title": "Valhalla Rising",
+            "original_title": "Valhalla Rising",
+            "overview": "Scandinavia, 1,000 AD. For years, One Eye, a mute warrior of supernatural strength, has been held prisoner by the Norse chieftain Barde. Aided by Are, a boy slave, One Eye slays his captor and together he and Are escape, beginning a journey into the heart of darkness. On their flight, One Eye and Are board a Viking vessel, but the ship is soon engulfed by an endless fog that clears only as the crew sights an unknown land. As the new world reveals its secrets and the Vikings confront their terrible and bloody fate, One Eye discovers his true self.",
+            "poster_path": "/7LBMcAx6XHwEduIsBYipvUke9n.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                18,
+                28,
+                14
+            ],
+            "popularity": 3.4902,
+            "release_date": "2009-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.108,
+            "vote_count": 1351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sjZIN2oDzOLGYuz21QwWw1tJ8ly.jpg",
+            "id": 1911,
+            "title": "The 13th Warrior",
+            "original_title": "The 13th Warrior",
+            "overview": "A Muslim ambassador exiled from his homeland joins a group of Vikings, initially offended by their behavior but growing to respect them. As they travel together, they learn of a legendary evil closing in and must unite to confront this formidable force.",
+            "poster_path": "/pj1IQQ7ajwaOrjjTCxyM1L4mSnX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                36,
+                28
+            ],
+            "popularity": 9.0149,
+            "release_date": "1999-08-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.695,
+            "vote_count": 2085
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s5i9CpdrQ7QeBYPgZtPZ3nEqU3y.jpg",
+            "id": 256476,
+            "title": "Walking with the Enemy",
+            "original_title": "Walking with the Enemy",
+            "overview": "Regent Horthy is the leader of Hungary and a German ally, but his favorable standing with Hitler changes as the war comes to an end. Forced to cede Hungary’s power or else witness the execution of his son, Regent Horthy gives up control of his country to the Nazis, who quickly move Hungarians to ghettos and death camps, with no hope in sight. But the despair changes when a young man named Elek emerges. Separated from his family during the relocations and aided by the woman he loves , Elek defies the enemy by becoming one of them. In a race against time, disguised as a Nazi Officer he embarks on a mission to save his family and thousands of his countrymen.",
+            "poster_path": "/csYgiUFoZ82OO9CfeqJd8g7e56K.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                36,
+                10752
+            ],
+            "popularity": 2.1953,
+            "release_date": "2014-04-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.276,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n1RohH2VoK1CdVI2fXvcP19dSlm.jpg",
+            "id": 531876,
+            "title": "The Outpost",
+            "original_title": "The Outpost",
+            "overview": "A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.",
+            "poster_path": "/saN1UywIQMQNXYx2ag9j2tPwaVl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                18,
+                36,
+                28
+            ],
+            "popularity": 8.6977,
+            "release_date": "2020-06-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.87,
+            "vote_count": 1198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rprg34i9MfIRAJdBcjAWaV7JXRe.jpg",
+            "id": 38543,
+            "title": "Ironclad",
+            "original_title": "Ironclad",
+            "overview": "In the year 1215, the rebel barons of England have forced their despised King John to put his royal seal on the Magna Carta, a seminal document that upheld the rights of free men. Yet within months of pledging himself to the great charter, the King reneged on his word and assembled a mercenary army on the south coast of England with the intention of bringing the barons and the country back under his tyrannical rule. Barring his way stood the mighty Rochester castle, a place that would become the symbol of the rebel's momentous struggle for justice and freedom.",
+            "poster_path": "/h7CP12wAThhw2WSOA1uIAqxg1fS.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                12,
+                28,
+                36
+            ],
+            "popularity": 4.3826,
+            "release_date": "2011-03-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.15,
+            "vote_count": 815
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9NlswPRK5Kap6KVr59Feah9EBLP.jpg",
+            "id": 631939,
+            "title": "The Legion",
+            "original_title": "The Legion",
+            "overview": "Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mountains of Armenia, swarming with Parthian patrols, to seek help for his slowly dying men.",
+            "poster_path": "/6ssoBXQOxNhrsGJoM6Tcvm57V79.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                36,
+                28
+            ],
+            "popularity": 2.4843,
+            "release_date": "2020-05-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.19,
+            "vote_count": 147
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bh5nH5yCbnX81fwIfhvxRoPWcDb.jpg",
+            "id": 26652,
+            "title": "Play Dirty",
+            "original_title": "Play Dirty",
+            "overview": "During World War II in North Africa, a group of British commandos disguised as Italian soldiers must travel behind enemy lines and destroy a vital Nazi oil depot.",
+            "poster_path": "/8BkQ3aRlYQMqCLO943c0u1njscG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                12,
+                18
+            ],
+            "popularity": 3.3453,
+            "release_date": "1969-01-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.272,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zhaMys3Ej1KK32zb5qEOZCi06IH.jpg",
+            "id": 975902,
+            "title": "Boudica",
+            "original_title": "Boudica",
+            "overview": "Inspired by events in A.D. 60, Boudica follows the eponymous Celtic warrior who rules the Iceni people alongside her husband Prasutagus. When he dies at the hands of Roman soldiers, Boudica’s kingdom is left without a male heir and the Romans seize her land and property.  Driven to the edge of madness and determined to avenge her husband’s death, Boudica rallies the various tribes from the region and wages an epic war against the mighty Roman empire.",
+            "poster_path": "/g57hTF2TYytHMveoKDpUN8iFk1p.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                10752
+            ],
+            "popularity": 3.5377,
+            "release_date": "2023-10-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.804,
+            "vote_count": 191
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9FJv6PD41Mfsu50AA6lto8aCYyE.jpg",
+            "id": 161460,
+            "title": "You Can't Win 'Em All",
+            "original_title": "You Can't Win 'Em All",
+            "overview": "During the 1922 Turkish Civil War, two Americans and a group of foreign mercenaries offer their services to a local Turkish governor who hires them as guards for a secret transport.",
+            "poster_path": "/zJhbvlq7GE2XtDusvhH2aTrVVQj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                12,
+                35,
+                28
+            ],
+            "popularity": 1.9631,
+            "release_date": "1970-07-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 42
+        }
+    ]
+}

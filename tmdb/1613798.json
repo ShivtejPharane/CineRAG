@@ -1,0 +1,864 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.amazon.com/gp/video/detail/B0GS6Y7QCD",
+        "id": 1613798,
+        "imdb_id": "tt37989803",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "Venganza",
+        "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
+        "popularity": 26.9555,
+        "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+        "production_companies": [
+            {
+                "id": 94730,
+                "logo_path": "/1fwoMRV4eUpdosHjiveHV91LaXJ.png",
+                "name": "El Estudio",
+                "origin_country": "ES"
+            },
+            {
+                "id": 210099,
+                "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+                "name": "Amazon MGM Studios",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2026-02-26",
+        "revenue": 0,
+        "runtime": 103,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Vengeance",
+        "video": false,
+        "vote_average": 7.49,
+        "vote_count": 290
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1134885,
+            "known_for_department": "Acting",
+            "name": "Omar Chaparro",
+            "original_name": "Omar Chaparro",
+            "popularity": 1.8165,
+            "profile_path": "/fAIDrbtyHBcDDbRdRZ3bvNesKU7.jpg",
+            "cast_id": 1,
+            "character": "Carlos Estrada",
+            "credit_id": "6963271e2f456c204a171e3c",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1889622,
+            "known_for_department": "Acting",
+            "name": "Alejandro Speitzer",
+            "original_name": "Alejandro Speitzer",
+            "popularity": 1.8043,
+            "profile_path": "/cV95e8sHliYBnjdz1OpZYqAywL7.jpg",
+            "cast_id": 2,
+            "character": "Miguel Díaz",
+            "credit_id": "6963272aa361b0647c364ef3",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 544442,
+            "known_for_department": "Acting",
+            "name": "Paola Nuñez",
+            "original_name": "Paola Nuñez",
+            "popularity": 2.5903,
+            "profile_path": "/5k8tBBvoV43iK6u0k2YUSVXPmuK.jpg",
+            "cast_id": 3,
+            "character": "Cnel. Gabriela Rangel",
+            "credit_id": "69632741c78aae806fd151a6",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3514938,
+            "known_for_department": "Acting",
+            "name": "Natalia Solián",
+            "original_name": "Natalia Solián",
+            "popularity": 1.2632,
+            "profile_path": "/miG7BYdOLR8DvvqdfhGpukxGZLh.jpg",
+            "cast_id": 4,
+            "character": "Dolores Ramirez 'Lola'",
+            "credit_id": "6963274c1fb918955bd152c7",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1309460,
+            "known_for_department": "Acting",
+            "name": "Luis Alberti",
+            "original_name": "Luis Alberti",
+            "popularity": 0.8696,
+            "profile_path": "/1uf6WXebWuL0oEMM2z8ulcnRro.jpg",
+            "cast_id": 5,
+            "character": "Aurelio Salazar 'Chunco'",
+            "credit_id": "6963275572e76980b8bd3e91",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 42009,
+            "known_for_department": "Acting",
+            "name": "Iazua Larios",
+            "original_name": "Iazua Larios",
+            "popularity": 1.5651,
+            "profile_path": "/7xneMbsqSVqPq2NFMpkpAAZr6SG.jpg",
+            "cast_id": 6,
+            "character": "Alicia",
+            "credit_id": "696327615ffdd245f4bd31ff",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3247772,
+            "known_for_department": "Acting",
+            "name": "Lizeth Selene",
+            "original_name": "Lizeth Selene",
+            "popularity": 1.3282,
+            "profile_path": "/o8BNtreaGlVJkSlsYjGtFzwkXpG.jpg",
+            "cast_id": 7,
+            "character": "Edith Diaz",
+            "credit_id": "6963276b2f456c204a171e43",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 18468,
+            "known_for_department": "Acting",
+            "name": "Gustavo Sánchez Parra",
+            "original_name": "Gustavo Sánchez Parra",
+            "popularity": 0.7492,
+            "profile_path": "/oBG9fCTuPgtAiDtvk9Big3hemI.jpg",
+            "cast_id": 8,
+            "character": "Hector Luna",
+            "credit_id": "6963277490866e59ec3d7177",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2423293,
+            "known_for_department": "Crew",
+            "name": "Vasil Simeonov",
+            "original_name": "Vasil Simeonov",
+            "popularity": 0.5822,
+            "profile_path": null,
+            "cast_id": 9,
+            "character": "Assasin",
+            "credit_id": "6963277e302ccb6b9b171a79",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3895930,
+            "known_for_department": "Acting",
+            "name": "Manuel Cruz Vivas",
+            "original_name": "Manuel Cruz Vivas",
+            "popularity": 0.5594,
+            "profile_path": "/72zCknQUuIxCq4EiHNLkx3HODTz.jpg",
+            "cast_id": 19,
+            "character": "Militar Archivero",
+            "credit_id": "699e71c8e635d6029fb2f295",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 87260,
+            "known_for_department": "Production",
+            "name": "Pablo Cruz",
+            "original_name": "Pablo Cruz",
+            "popularity": 0.3099,
+            "profile_path": "/6bZbi3kpgXk6Fi0sBrTpSw87cNc.jpg",
+            "cast_id": 20,
+            "character": "Reportero TV Local",
+            "credit_id": "699e71f68cfd2716f8e93640",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2645486,
+            "known_for_department": "Acting",
+            "name": "José Salof",
+            "original_name": "José Salof",
+            "popularity": 0.5046,
+            "profile_path": "/uRnJsszbqevYiZeoaJRvWLdQItS.jpg",
+            "cast_id": 21,
+            "character": "Julian Villares",
+            "credit_id": "699e722b84485008d7b2f2c6",
+            "order": 11
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1821381,
+            "known_for_department": "Writing",
+            "name": "Matt Bosack",
+            "original_name": "Matt Bosack",
+            "popularity": 0.6878,
+            "profile_path": null,
+            "credit_id": "696327a3a4494f3aa63d6f0a",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2197550,
+            "known_for_department": "Writing",
+            "name": "Yalun Tu",
+            "original_name": "Yalun Tu",
+            "popularity": 0.637,
+            "profile_path": null,
+            "credit_id": "696327b0a4494f3aa63d6f0d",
+            "department": "Writing",
+            "job": "Story"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2144033,
+            "known_for_department": "Writing",
+            "name": "Daniel Krauze",
+            "original_name": "Daniel Krauze",
+            "popularity": 0.3783,
+            "profile_path": null,
+            "credit_id": "696327bb5c3753ab6bbd3b86",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1134885,
+            "known_for_department": "Acting",
+            "name": "Omar Chaparro",
+            "original_name": "Omar Chaparro",
+            "popularity": 1.8165,
+            "profile_path": "/fAIDrbtyHBcDDbRdRZ3bvNesKU7.jpg",
+            "credit_id": "696327d1687a39874a171b7a",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1283162,
+            "known_for_department": "Sound",
+            "name": "Yamil Rezc",
+            "original_name": "Yamil Rezc",
+            "popularity": 0.2775,
+            "profile_path": null,
+            "credit_id": "696327e58c96b4adc85968d1",
+            "department": "Sound",
+            "job": "Music"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1118711,
+            "known_for_department": "Camera",
+            "name": "Kenji Katori",
+            "original_name": "Kenji Katori",
+            "popularity": 0.4051,
+            "profile_path": null,
+            "credit_id": "696327f1ecc6f8afbbbd3c86",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1303406,
+            "known_for_department": "Editing",
+            "name": "Alberto del Campo",
+            "original_name": "Alberto del Campo",
+            "popularity": 0.2886,
+            "profile_path": "/pj6wb4d92mtB28iqQoTRLoTXnZE.jpg",
+            "credit_id": "696327ff48a489523859699a",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1570380,
+            "known_for_department": "Editing",
+            "name": "Adriana Martínez",
+            "original_name": "Adriana Martínez",
+            "popularity": 0.2957,
+            "profile_path": null,
+            "credit_id": "69632809807ee847d4d15135",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5945781,
+            "known_for_department": "Directing",
+            "name": "Rodrigo Valdes",
+            "original_name": "Rodrigo Valdes",
+            "popularity": 0.4745,
+            "profile_path": null,
+            "credit_id": "696bd7d1afbdcea5226896b3",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 87260,
+            "known_for_department": "Production",
+            "name": "Pablo Cruz",
+            "original_name": "Pablo Cruz",
+            "popularity": 0.3099,
+            "profile_path": "/6bZbi3kpgXk6Fi0sBrTpSw87cNc.jpg",
+            "credit_id": "699e85b7e171611dfcf22a26",
+            "department": "Production",
+            "job": "Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 9748,
+            "name": "revenge"
+        },
+        {
+            "id": 10085,
+            "name": "betrayal"
+        },
+        {
+            "id": 226499,
+            "name": "manhunt"
+        },
+        {
+            "id": 232766,
+            "name": "vengeance"
+        },
+        {
+            "id": 302132,
+            "name": "action thriller"
+        },
+        {
+            "id": 320594,
+            "name": "revenge mission"
+        },
+        {
+            "id": 370688,
+            "name": "relentless pursuit"
+        },
+        {
+            "id": 372070,
+            "name": "corrupt officials"
+        },
+        {
+            "id": 372091,
+            "name": "deadly confrontation"
+        },
+        {
+            "id": 372163,
+            "name": "dark secrets"
+        },
+        {
+            "id": 372364,
+            "name": "redemption quest"
+        },
+        {
+            "id": 372365,
+            "name": "ruthless enemies"
+        },
+        {
+            "id": 372411,
+            "name": "personal justice"
+        },
+        {
+            "id": 372413,
+            "name": "violent retaliation"
+        },
+        {
+            "id": 372416,
+            "name": "innocent victim"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/5AB4EfS39K7aQYtUim0CFfKBU6r.jpg",
+            "id": 1127110,
+            "title": "Diablo",
+            "original_title": "Diablo",
+            "overview": "Ex-con Kris Chaney seizes the daughter of a Colombian gangster to fulfill a noble promise to the young girl's mother. When her father enlists both the criminal underworld and a psychotic killer to exact his revenge, Kris relies on everything he's ever learned to stay alive and keep his word.",
+            "poster_path": "/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 5.5308,
+            "release_date": "2025-06-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.299,
+            "vote_count": 249
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/33qGtN2GpGEb94pn25PDPeWQZLk.jpg",
+            "id": 894169,
+            "title": "Vendetta",
+            "original_title": "Vendetta",
+            "overview": "When his daughter is murdered, William Duncan takes the law into his own hands, setting out on a quest for retribution. After killing the street thug responsible for her death, he finds himself in the middle of a war with the thug's brother, father, and their gang, who are equally hell-bent on getting even. What ensues is a tense back-and-forth game of vengeance. By the end, William comes to find that the quest for revenge never has a winner.",
+            "poster_path": "/bvhmqU6GUkigo6SSYL3ttkBhNER.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "popularity": 5.4846,
+            "release_date": "2022-05-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.058,
+            "vote_count": 346
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5j8f8nfG4kAwnPZaXBA0trhfjDy.jpg",
+            "id": 949484,
+            "title": "Hounds of War",
+            "original_title": "Hounds of War",
+            "overview": "After a mission goes wrong, only one of a group of mercenaries is left alive to avenge his fallen brothers.",
+            "poster_path": "/tLdUPi2h6LGmF5foza0a5PXtQRr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.5063,
+            "release_date": "2024-08-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.336,
+            "vote_count": 189
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yky6Dsxbv5ItMepk8GGu23K6Mvs.jpg",
+            "id": 1093995,
+            "title": "Chief of Station",
+            "original_title": "Chief of Station",
+            "overview": "After learning that the death of his wife was not an accident, a former CIA Station Chief is forced back into the espionage underworld, teaming up with an adversary to unravel a conspiracy that challenges everything he thought he knew.",
+            "poster_path": "/yndlj5aNPWAZ5ayJ4a2S37o98lq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 8.2756,
+            "release_date": "2024-05-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 253
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b5IB4VGjR818tTNcCLHQCIFwQmW.jpg",
+            "id": 10431,
+            "title": "War",
+            "original_title": "War",
+            "overview": "FBI agent Jack Crawford is out for revenge when his partner is killed and all clues point to the mysterious assassin Rogue. But when Rogue turns up years later to take care of some unfinished business, he triggers a violent clash of rival gangs. Will the truth come out before it's too late? And when the dust settles, who will remain standing?",
+            "poster_path": "/scFc8RD4sFxB2x0eIOaymphMnYh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "popularity": 7.2205,
+            "release_date": "2007-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.409,
+            "vote_count": 2092
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tRdorrIjlybrGsebXOzgF7vRyYy.jpg",
+            "id": 1469354,
+            "title": "Border Hunters",
+            "original_title": "Border Hunters",
+            "overview": "After his police officer brother is killed by a drug dealer who flees to the protection of his cartel-connected uncle in Mexico, an American man with a diverse law enforcement/military background goes south of the border to get revenge",
+            "poster_path": "/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 6.3891,
+            "release_date": "2025-10-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.207,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9WxqnP9c29wXd03sALSpxpTx8fk.jpg",
+            "id": 1172009,
+            "title": "The Black Book",
+            "original_title": "The Black Book",
+            "overview": "After his son is wrongly accused of kidnapping, a deacon who has just lost his wife takes matters into his own hands and fights a crooked police gang to clear him.",
+            "poster_path": "/kn28W24slBLyGr8ZIZnxNE5YZrY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                9648,
+                53
+            ],
+            "popularity": 2.638,
+            "release_date": "2023-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.733,
+            "vote_count": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fvBshQMwOnYZdUXySGMdT6LiqsI.jpg",
+            "id": 2636,
+            "title": "The Specialist",
+            "original_title": "The Specialist",
+            "overview": "May Munro is a woman obsessed with getting revenge on the people who murdered her parents when she was still a girl. She hires Ray Quick, a retired explosives expert, to kill her parents' killers. When Ned Trent, embittered ex-partner of Quick's, is assigned to protect one of Quick's potential victims, a deadly game of cat and mouse ensues.",
+            "poster_path": "/9CVAjtkSaFs9FyddGfThj11ZuQq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 7.706,
+            "release_date": "1994-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 1469
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vtsqIXoDGM8ZS6rcQ1TKfdOycjC.jpg",
+            "id": 893228,
+            "title": "Section 8",
+            "original_title": "Section 8",
+            "overview": "After avenging the murder of his family, a former soldier is sprung from prison and recruited by a shadowy government agency.",
+            "poster_path": "/3rJDTaxBKLZ6XLvcVK7V20Eaj2d.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 3.3379,
+            "release_date": "2022-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.142,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gGSm6ZmWtGazs2H1m0gOp7cx1ZZ.jpg",
+            "id": 726429,
+            "title": "Xtreme",
+            "original_title": "Xtremo",
+            "overview": "Two years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.",
+            "poster_path": "/cwUhVcDeMYYeu8fq5q1OPOoSbZ7.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                28,
+                12,
+                80
+            ],
+            "popularity": 3.2249,
+            "release_date": "2021-06-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.33,
+            "vote_count": 270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ahYDVW0ReOTKI6sbI6du9SoXdX9.jpg",
+            "id": 666035,
+            "title": "Wanted Man",
+            "original_title": "Wanted Man",
+            "overview": "Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces.",
+            "poster_path": "/pmdgdb8biQLLzTjySZLPdK13KwM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28
+            ],
+            "popularity": 3.9884,
+            "release_date": "2024-04-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.529,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/byflnwPMumyvrCW9SfO5Miq3647.jpg",
+            "id": 597891,
+            "title": "Kate",
+            "original_title": "Kate",
+            "overview": "A ruthless criminal operative has less than 24 hours to exact revenge on her enemies and in the process forms an unexpected bond with the daughter of one of her past victims.",
+            "poster_path": "/uJgdT1boTSP0dDIjdTgGleg71l4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 4.6722,
+            "release_date": "2021-09-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.614,
+            "vote_count": 1745
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mo57hzhW3BcZL1f7MNteWKHsmlN.jpg",
+            "id": 763788,
+            "title": "Dangerous",
+            "original_title": "Dangerous",
+            "overview": "A reformed sociopath heads to a remote island after the death of his brother. Soon after his arrival, the island falls under siege from a deadly gang of mercenaries, and when he discovers their role in his brother’s demise, he sets out on a relentless quest for vengeance.",
+            "poster_path": "/vTtkQGC7qKlSRQJZYtAWAmYdH0A.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 5.3776,
+            "release_date": "2021-11-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.973,
+            "vote_count": 521
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s65RPy7DiBS4PXvUR3fiTw5f725.jpg",
+            "id": 972313,
+            "title": "Blowback",
+            "original_title": "Blowback",
+            "overview": "When a master thief is sabotaged during a bank heist and left for dead, he seeks revenge on his former crew one target at a time. Now, with the cops and the mob closing in, he's in the race of his life to reclaim an untold fortune in cryptocurrency from those who double-crossed him.",
+            "poster_path": "/fHQHC32dhom8u0OxC2hs2gYQh0M.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                9648,
+                53,
+                80
+            ],
+            "popularity": 2.7758,
+            "release_date": "2022-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.037,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg",
+            "id": 931642,
+            "title": "Lights Out",
+            "original_title": "Lights Out",
+            "overview": "A drifting ex-soldier turns underground fighter with the help of a just-released ex-con, pitting him against corrupt cops and hired killers now gunning for him and all those he cares about.",
+            "poster_path": "/gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 4.436,
+            "release_date": "2024-02-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.035,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pdd21d0dgFC4rImh4WCOaECiJmA.jpg",
+            "id": 14172,
+            "title": "Wake of Death",
+            "original_title": "Wake of Death",
+            "overview": "Ben Archer, an ex-mob enforcer, seeks revenge against a ruthless Chinese kingpin responsible for his wife's brutal murder. When Archer joins forces with his old underworld friends, an all-out war is waged against the Chinese Triad.",
+            "poster_path": "/vfDVpBus7BaUiT6UsjpiedyPtnX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28
+            ],
+            "popularity": 2.699,
+            "release_date": "2004-12-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.072,
+            "vote_count": 277
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg",
+            "id": 1410082,
+            "title": "Sniper: The Last Stand",
+            "original_title": "Sniper: The Last Stand",
+            "overview": "To stop an arms dealer from unleashing a deadly superweapon, Ace sniper Brandon Beckett and Agent Zero are deployed to Costa Verde to lead a group of elite soldiers against an unrelenting militia. Taking an untested sniper under his wing, Beckett faces his newest challenge: giving orders instead of receiving them. With both time and ammo running low in a race to save humanity, the team must overcome all odds just to survive.",
+            "poster_path": "/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 7.4037,
+            "release_date": "2025-01-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.759,
+            "vote_count": 189
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+            "id": 1279493,
+            "title": "The Get Out",
+            "original_title": "The Get Out",
+            "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+            "poster_path": "/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 27.119,
+            "release_date": "2026-06-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.314,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sVdkNh7Hi6Y7bjHxqYLt1cJWeH0.jpg",
+            "id": 20721,
+            "title": "Code of Silence",
+            "original_title": "Code of Silence",
+            "overview": "A Chicago cop is caught in the middle of a gang war while his own comrades shun him because he wants to take an irresponsible cop down.",
+            "poster_path": "/yE1Xh7Q7M6uDrm28ib0MMcuhO4L.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "popularity": 3.2233,
+            "release_date": "1985-05-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.915,
+            "vote_count": 269
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+            "id": 974453,
+            "title": "Absolution",
+            "original_title": "Absolution",
+            "overview": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn’t done with him and won’t loosen their grip willingly.",
+            "poster_path": "/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                9648
+            ],
+            "popularity": 4.7492,
+            "release_date": "2024-10-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.901,
+            "vote_count": 535
+        }
+    ]
+}

@@ -1,0 +1,772 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/9La8mRvH81YdUa6HwyQicVqIrUJ.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 1631506,
+        "imdb_id": "tt36599947",
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_title": "La ahorcada",
+        "overview": "Rosa Martín, a singer-songwriter known as La Ahorcada, takes her own life in the garden of the man she loved, Fran, who treated her as nothing more than a sexual object. The ghost of La Ahorcada remains in Fran's mansion, refusing to be ignored and determined to teach him a lesson. Her obsession will end up turning the lives of Fran and his family into a living hell.",
+        "popularity": 49.2015,
+        "poster_path": "/j5016vxLjYd5pmXezXNHYTbsjro.jpg",
+        "production_companies": [
+            {
+                "id": 72926,
+                "logo_path": null,
+                "name": "Bemybaby Films",
+                "origin_country": "ES"
+            },
+            {
+                "id": 14033,
+                "logo_path": "/iHbv7XeC2fnUMyyF5Ne7xA7zkVI.png",
+                "name": "Imposible Films",
+                "origin_country": "ES"
+            },
+            {
+                "id": 265749,
+                "logo_path": "/vFqHb0z4jNbA4h6iMQ52OaQRdEQ.png",
+                "name": "RTVE",
+                "origin_country": "ES"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2026-04-22",
+        "revenue": 0,
+        "runtime": 91,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Hanged Woman",
+        "video": false,
+        "vote_average": 5.613,
+        "vote_count": 31
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 125854,
+            "known_for_department": "Acting",
+            "name": "Amaia Salamanca",
+            "original_name": "Amaia Salamanca",
+            "popularity": 1.8525,
+            "profile_path": "/c2boE9vHTtD3weXG6iWsLJ5mMjU.jpg",
+            "cast_id": 1,
+            "character": "",
+            "credit_id": "69889a95d9d0bff4db2cea09",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 17093,
+            "known_for_department": "Acting",
+            "name": "Eduardo Noriega",
+            "original_name": "Eduardo Noriega",
+            "popularity": 1.7118,
+            "profile_path": "/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg",
+            "cast_id": 2,
+            "character": "Fran",
+            "credit_id": "69889aa1cdf77f6d478fcea9",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3056391,
+            "known_for_department": "Acting",
+            "name": "Cosette Silguero",
+            "original_name": "Cosette Silguero",
+            "popularity": 0.4997,
+            "profile_path": "/9PW6oswKGNzHMNsCFZoeQKoLxz2.jpg",
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "69889ab70dcf3ba3955d8c5e",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 125853,
+            "known_for_department": "Acting",
+            "name": "Norma Ruiz",
+            "original_name": "Norma Ruiz",
+            "popularity": 0.648,
+            "profile_path": "/mvVp4pL3G1Uf0DoWoXfwkVLb7rA.jpg",
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "69889ad2d26594d0b23a9e2c",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2670094,
+            "known_for_department": "Acting",
+            "name": "Anastasia Fauteck",
+            "original_name": "Anastasia Fauteck",
+            "popularity": 0.2681,
+            "profile_path": null,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "69889ae2ed70ae790cf810f6",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2049870,
+            "known_for_department": "Acting",
+            "name": "Veki Velilla",
+            "original_name": "Veki Velilla",
+            "popularity": 0.5681,
+            "profile_path": "/q69neQUHBRuKmVyZflSbmLAkaS.jpg",
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "69889afaad6fb2342a3a9ff9",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1282293,
+            "known_for_department": "Acting",
+            "name": "Cristina Gallego",
+            "original_name": "Cristina Gallego",
+            "popularity": 0.5445,
+            "profile_path": "/aB0HjZt8m8Ae8xAuM2qcm84EXeH.jpg",
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "69889e63ed70ae790cf8110e",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1031961,
+            "known_for_department": "Acting",
+            "name": "Emilio Buale",
+            "original_name": "Emilio Buale",
+            "popularity": 0.6513,
+            "profile_path": "/fh5hrdqgNoahnMMdt5UK6sZbarV.jpg",
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "69889e7835c8508a625caa93",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2674989,
+            "known_for_department": "Acting",
+            "name": "Raúl Sanz",
+            "original_name": "Raúl Sanz",
+            "popularity": 0.4186,
+            "profile_path": "/edyxR3hA67qRCnaloP9UNJa5DGB.jpg",
+            "cast_id": 9,
+            "character": "",
+            "credit_id": "69889e82aea1d7cc672ceb37",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3205713,
+            "known_for_department": "Acting",
+            "name": "Carlota Callén",
+            "original_name": "Carlota Callén",
+            "popularity": 0.2491,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "",
+            "credit_id": "69889e91538dfdc7cb5d8d1e",
+            "order": 9
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 27043,
+            "known_for_department": "Camera",
+            "name": "Teo Delgado",
+            "original_name": "Teo Delgado",
+            "popularity": 0.3026,
+            "profile_path": "/lao8X6AI0XZmOkhQ87ZTbD8Cyku.jpg",
+            "credit_id": "6988a11ffcec680ace5cac97",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2225317,
+            "known_for_department": "Editing",
+            "name": "Nacho Blasco",
+            "original_name": "Nacho Blasco",
+            "popularity": 0.4696,
+            "profile_path": null,
+            "credit_id": "6988a132d26594d0b23a9e51",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 938238,
+            "known_for_department": "Production",
+            "name": "Marta Esteban",
+            "original_name": "Marta Esteban",
+            "popularity": 0.3813,
+            "profile_path": "/wjmCusRxl3hv8UPOICzNUQc2ivv.jpg",
+            "credit_id": "6988a163ed05d1113b3a9ee8",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 938238,
+            "known_for_department": "Production",
+            "name": "Marta Esteban",
+            "original_name": "Marta Esteban",
+            "popularity": 0.3813,
+            "profile_path": "/wjmCusRxl3hv8UPOICzNUQc2ivv.jpg",
+            "credit_id": "6988a176b7e59d42c2f811cc",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 144546,
+            "known_for_department": "Directing",
+            "name": "Miguel Ángel Lamata",
+            "original_name": "Miguel Ángel Lamata",
+            "popularity": 0.7833,
+            "profile_path": null,
+            "credit_id": "6988a1826b332b8eef5d8dd0",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2206428,
+            "known_for_department": "Acting",
+            "name": "Raúl García Medrano",
+            "original_name": "Raúl García Medrano",
+            "popularity": 0.3442,
+            "profile_path": null,
+            "credit_id": "6988a1989434c8fa2f8e6c49",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2760243,
+            "known_for_department": "Production",
+            "name": "Fernando Velázquez",
+            "original_name": "Fernando Velázquez",
+            "popularity": 0.332,
+            "profile_path": null,
+            "credit_id": "6988a1b3b9c6e050108c90ea",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2120422,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Arantxa Ezquerro",
+            "original_name": "Arantxa Ezquerro",
+            "popularity": 0.3827,
+            "profile_path": null,
+            "credit_id": "6988a1c36d50c87f3b8e6e59",
+            "department": "Costume & Make-Up",
+            "job": "Costume Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 17091,
+            "known_for_department": "Art",
+            "name": "César Macarrón",
+            "original_name": "César Macarrón",
+            "popularity": 0.3815,
+            "profile_path": null,
+            "credit_id": "6988a1dcb7e59d42c2f811e7",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 144542,
+            "known_for_department": "Acting",
+            "name": "Mayte Navales",
+            "original_name": "Mayte Navales",
+            "popularity": 0.7112,
+            "profile_path": null,
+            "credit_id": "6988a1f2b7e59d42c2f811ea",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 144546,
+            "known_for_department": "Directing",
+            "name": "Miguel Ángel Lamata",
+            "original_name": "Miguel Ángel Lamata",
+            "popularity": 0.7833,
+            "profile_path": null,
+            "credit_id": "6988a202a65955d2153a9e92",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/u5nY7pY2Y58o7dSM9cy6NclOV8V.jpg",
+            "id": 1023313,
+            "title": "The Exorcist",
+            "original_title": "La Exorcista",
+            "overview": "Ophelia, a young nun recently arriving in the town of San Ramon, is forced to perform an exorcism on a pregnant woman in danger of dying. Just when she thinks her possession has ended, she discovers that the evil presence hasn't disappeared yet. The director of the award-winning Here Comes the Devil and Late Phases adds a new twist to possession movies in one of this year's Latin American horror surprises.",
+            "poster_path": "/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.2077,
+            "release_date": "2022-11-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.229,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/84h6avqHvW2TgLfERuqYkQwzjp1.jpg",
+            "id": 1130276,
+            "title": "Succubus",
+            "original_title": "Succubus",
+            "overview": "A new father going through a marital separation joins a dating app and matches with a beautiful but mysterious young woman... whose powers of seduction and manipulation entangle him in a mystery more horrifying than he could have ever imagined.",
+            "poster_path": "/7AfBMebJS8mEtSV5ymdxEPpgvXb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 11.9002,
+            "release_date": "2024-10-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.465,
+            "vote_count": 257
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oLA6GlYvfUAAzITiXo56NEKjVQE.jpg",
+            "id": 715123,
+            "title": "Books of Blood",
+            "original_title": "Books of Blood",
+            "overview": "A journey into uncharted and forbidden territory through three tales tangled in space and time.",
+            "poster_path": "/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 4.0728,
+            "release_date": "2020-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.256,
+            "vote_count": 527
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vboAWZiHNEEWdLeXGwWmVVoqU9M.jpg",
+            "id": 24740,
+            "title": "The Entity",
+            "original_title": "The Entity",
+            "overview": "A single mom is raped by an invisible force. Her psychiatrist believes the experience stems from childhood trauma, while she knows something supernatural is at play.",
+            "poster_path": "/k1cJOFM644cS3qzpZMECZnrVRMt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 6.1585,
+            "release_date": "1982-09-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.843,
+            "vote_count": 585
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lUbt7o9maj8DHEhnHvSv5tIzivg.jpg",
+            "id": 1020696,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "Criminology student Chloe fakes her own death to break into a morgue, in order to retrieve a piece of evidence that ties her younger brother to a crime gone wrong. Once inside, she discovers that a sadistic coroner is using the corpses for his sick and twisted business, and when he realises that Chloe still has a pulse, a terrifying game of cat and mouse ensues.",
+            "poster_path": "/zeiwFQzyMNp6JBwCfSspG5ZcoLp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.3306,
+            "release_date": "2022-12-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.107,
+            "vote_count": 210
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xHd6rARprd4woZinkziIntiTSZD.jpg",
+            "id": 854188,
+            "title": "The Kindred",
+            "original_title": "The Kindred",
+            "overview": "After her father’s suicide, a young mother investigates what led to his death. But when she is haunted by spirits and unearths an unsolved mystery from 30 years ago, she discovers a dark family history that could prove deadly for her child.",
+            "poster_path": "/jDXAaMLk7NNXdXZkeTMtr4xo6f5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.0399,
+            "release_date": "2021-12-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.406,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dLzIInvXIEjHPAd5x2RBxsjr8WS.jpg",
+            "id": 796278,
+            "title": "Virtual Reality",
+            "original_title": "Realidad virtual",
+            "overview": "A film director makes a dark pact for his career to be a success. When he summons the crew and cast to his home for a first screening of the movie they just filmed, they will Fhave to survive a reality they never saw coming.",
+            "poster_path": "/vWLwc4I7TPY3BCWwXGZ3T3uEnxq.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.6297,
+            "release_date": "2021-03-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iByeXXw0epD65TCqDtJL7dGu7Mt.jpg",
+            "id": 687340,
+            "title": "Abigail Haunting",
+            "original_title": "Abigail Haunting",
+            "overview": "After escaping the clutches of an abusive relationship, Katie reluctantly returns to the foster home she grew up in. Little does she know, her foster mother Marge is harboring a sinister secret dating back a decade. Now, Katie finds herself caught up in a horrifying family drama while confronting an angry spirit named Abigail.",
+            "poster_path": "/ve3xYpDIUTLSvwcUErd82T4JSJq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.9058,
+            "release_date": "2020-08-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xIuFVaQXkxXa1HpcpsfNGOJSxSq.jpg",
+            "id": 1299372,
+            "title": "The Wailing",
+            "original_title": "El llanto",
+            "overview": "Andrea, in search of her biological family, feels stalked by an invisible threat. Other women before them have suffered the same fate. Twenty years earlier, on the other side of the world, Camille, fascinated by Marie, tries to warn her of a threat hanging over her.",
+            "poster_path": "/wB5fVj1Se9TFt9q1CHAtoPiuMyZ.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 3.4556,
+            "release_date": "2024-10-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.983,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hRO4TS0IlH9UJW2PGuuFBYdXZgC.jpg",
+            "id": 1356236,
+            "title": "Saint Catherine",
+            "original_title": "Saint Catherine",
+            "overview": "An orphaned girl is rescued from a satanic ritual and taken to Saint Catherine Institute for homeless youth. There she will learn new skills while facing demons that stalk her.",
+            "poster_path": "/hBJdzKPeDaC96AzlrtMWBomYSZV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.6028,
+            "release_date": "2024-09-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.464,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fquVJ2v5NAW96sRfFAw4vXR5zla.jpg",
+            "id": 814889,
+            "title": "Never Let Go",
+            "original_title": "Never Let Go",
+            "overview": "As an evil takes over the world beyond their front doorstep, the only protection for a mother and her twin sons is their house and their family’s protective bond.",
+            "poster_path": "/iwUoM3y77fov7bKyFMwpGMzRHyn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 8.0187,
+            "release_date": "2024-09-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.057,
+            "vote_count": 643
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ibK0sooxQwIeqS9tz4Tj0chyca9.jpg",
+            "id": 1058710,
+            "title": "Bloodline Killer",
+            "original_title": "Bloodline Killer",
+            "overview": "Moira Cole endeavors to rebuild her shattered life after her family's murder at the hands of her deranged and obsessed cousin.",
+            "poster_path": "/wHmzCQwBzT6m8wtZdXHOIITn82B.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.6014,
+            "release_date": "2024-04-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.044,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yxZZW2iWQpvb5PSEbVuL38HSGj2.jpg",
+            "id": 772148,
+            "title": "The House of Snails",
+            "original_title": "La casa del caracol",
+            "overview": "A writer secludes himself in the mountains and falls in lust with local Berta. After realizing the oddities of the rural community the author starts to question the lines between reality and fiction.",
+            "poster_path": "/aY450sO5nIlsB1I7NbJGCecNEkn.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.158,
+            "release_date": "2021-06-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.966,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rhuEN18ZimDOva3guaWZA4hYgLB.jpg",
+            "id": 1309083,
+            "title": "Dolly",
+            "original_title": "Dolly",
+            "overview": "Young Macy is abducted by a deranged, monstrous figure who wants to raise her as its child.",
+            "poster_path": "/oJJquv1sg5XMTIyNHxEm0KLo696.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 19.4975,
+            "release_date": "2026-03-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.806,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/48LdnfGahm8LuM2cg7LFWEmrTEd.jpg",
+            "id": 1081208,
+            "title": "The Dogs",
+            "original_title": "The Dogs",
+            "overview": "After fleeing his psychotic father, a young teen and his mom seek refuge in a remote farmhouse, only to face a pack of ferocious dogs and the sinister spirits that haunt the property.",
+            "poster_path": "/kz6oqKyKCjmR8V1JdnF9brp9DSn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 3.925,
+            "release_date": "2025-06-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.574,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qkEnklEGDFy4TRVhuHFn2DI2BP6.jpg",
+            "id": 930600,
+            "title": "The Deliverance",
+            "original_title": "The Deliverance",
+            "overview": "Ebony Jackson, a struggling single mother fighting her personal demons, moves her family into a new home for a fresh start. But when strange occurrences inside the home raise the suspicions of Child Protective Services and threaten to tear the family apart, Ebony soon finds herself locked in a battle for her life and the souls of her children.",
+            "poster_path": "/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 4.6479,
+            "release_date": "2024-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.994,
+            "vote_count": 573
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yZtnGzfZER0QU7ZG4r4RaZAaXJH.jpg",
+            "id": 1519168,
+            "title": "The Jester 2",
+            "original_title": "The Jester 2",
+            "overview": "When teen magician Max crosses paths with the sinister Jester on Halloween night, she must outsmart a supernatural killer whose magic is all too real and whose tricks always end up in blood.",
+            "poster_path": "/47dsw1jSOV0Be5zmy7CtLhYpqU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "popularity": 4.1593,
+            "release_date": "2025-09-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m7y6CkuR26eVj3ULcDnwdbgTboJ.jpg",
+            "id": 483202,
+            "title": "Eli",
+            "original_title": "Eli",
+            "overview": "A boy named Eli with a rare autoimmune disorder is confined to a special experimental clinic for his treatment. He soon begins experiencing supernatural forces, turning the supposedly safe facility into a haunted prison for him and his fellow patients.",
+            "poster_path": "/wLKypXb7St0UknM2JIKZB2RtHXV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 3.6792,
+            "release_date": "2019-10-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.006,
+            "vote_count": 1533
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zm2kMjiz0u6qdn2XKbEbQkDiltN.jpg",
+            "id": 675024,
+            "title": "The Exorcism of Carmen Farias",
+            "original_title": "El Exorcismo de Carmen Farías",
+            "overview": "Carmen, a brave journalist, discovers soon after her mother's death that she has inherited her grandma's house. She decides to move there without knowing it hides dark secrets.",
+            "poster_path": "/uoTPjx07dxTrC1g3dYeaS2WNVGL.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 1.9118,
+            "release_date": "2021-05-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.024,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/456tLLmzg7OeNyijCvCfL6X55VV.jpg",
+            "id": 1142414,
+            "title": "Cheat",
+            "original_title": "Cheat",
+            "overview": "On the surface it's believed to be another urban legend - a supernatural being from the afterlife is violently killing anyone who cheats on their significant other in the small college town of Silvercreek, Pennsylvania. But the town's unusually high suicide rate is finally convincing both locals and college students that everything is not as it seems. When Maeve - a female college student - sleeps with Charlie, the married man of the host family she is staying with, both sense the deadly curse is closing in on them. Unable to get anyone to believe them, Maeve and Charlie seek out a local history student to help find answers and figure out a way to defend themselves. It all comes undone, however, as several people are horrifically killed by the savage being - one-by-one at a rapid pace. Eventually, Maeve, Charlie and the few survivors band together in an attempt to defeat the monster once and for all.",
+            "poster_path": "/46Um9OTHNA390mMxwpSSc2m35Zp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.8601,
+            "release_date": "2023-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.014,
+            "vote_count": 74
+        }
+    ]
+}

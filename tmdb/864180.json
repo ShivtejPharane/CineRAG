@@ -1,0 +1,836 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/A0iX89vZ0KBqUYGKDUpEPf4CzS2.jpg",
+        "belongs_to_collection": {
+            "id": 1068160,
+            "name": "The Male Gaze Collection",
+            "poster_path": "/3dFehisMgw2GJ3voVCre2sD0vgD.jpg",
+            "backdrop_path": "/dxC0FpiclwXSNVU4gjWww14MjbY.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 864180,
+        "imdb_id": "tt15260034",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Male Gaze: Three's Company",
+        "overview": "Two's company, three's allowed? From family disputes and unexpected babysitting duties to uncomfortable high school memories, manga drawing and friendships pushed to the next level - the Male Gaze series lifts the lid on six very different gay relationships and encounters. When two become three and outsiders enter the fray, what are the group dynamics at play?  The short films are:  Golden Boys (2017); In Beating Cells [In Pocheden Zellen] (2017); The Middle of a Lake [Le milieu d'un lac] (2017); Gilles (2016); Kiko's Saints [Les saints de Kiko] (2019); With Thelma [Avec Thelma] (2017).",
+        "popularity": 13.5977,
+        "poster_path": "/67eQpHBWVUazBO1UHP0ouyrGFgj.jpg",
+        "production_companies": [
+            {
+                "id": 120864,
+                "logo_path": null,
+                "name": "NQV Media",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2021-08-27",
+        "revenue": 0,
+        "runtime": 97,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Male Gaze: Three's Company",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 5
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2387331,
+            "known_for_department": "Acting",
+            "name": "Robbie G.K.",
+            "original_name": "Robbie G.K.",
+            "popularity": 1.3876,
+            "profile_path": "/hN1VW1pRB1A8Rb6VzI1pQ3SsgYz.jpg",
+            "cast_id": 15,
+            "character": "Young Dylan (Golden Boys)",
+            "credit_id": "616aae906f53e10064932de0",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1519247,
+            "known_for_department": "Acting",
+            "name": "Alex Harrouch",
+            "original_name": "Alex Harrouch",
+            "popularity": 0.6118,
+            "profile_path": "/khiMh78LqSRxAw1QlUicwv0W8Le.jpg",
+            "cast_id": 16,
+            "character": "Young Carter (Golden Boys)",
+            "credit_id": "616aaf689715ae004479a2d8",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3272932,
+            "known_for_department": "Acting",
+            "name": "Michael Kaplan",
+            "original_name": "Michael Kaplan",
+            "popularity": 0.3723,
+            "profile_path": "/jb1tdama7Sy2e1xxDT5yMISrQuY.jpg",
+            "cast_id": 17,
+            "character": "Young Scott (Golden Boys)",
+            "credit_id": "616ab1afbe2d49002d1ef5cd",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1461460,
+            "known_for_department": "Acting",
+            "name": "André Dae Kim",
+            "original_name": "André Dae Kim",
+            "popularity": 0.5284,
+            "profile_path": "/khUMPN88OaEgBoOQQoMjxfFE6f8.jpg",
+            "cast_id": 14,
+            "character": "Daniel (Golden Boys)",
+            "credit_id": "613f77fb60c7510042ec7ca4",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 91356,
+            "known_for_department": "Acting",
+            "name": "Kristopher Turner",
+            "original_name": "Kristopher Turner",
+            "popularity": 1.1697,
+            "profile_path": "/iOvg3Yt5yXRUE1DeP9iSUXSr5Lu.jpg",
+            "cast_id": 8,
+            "character": "Dylan (Golden Boys)",
+            "credit_id": "613f776d9450fe0064ed49b1",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2712739,
+            "known_for_department": "Acting",
+            "name": "Steven Pigozzo",
+            "original_name": "Steven Pigozzo",
+            "popularity": 0.4193,
+            "profile_path": "/lyniNA63spZwYnUs3GSqtctP79q.jpg",
+            "cast_id": 12,
+            "character": "Carter (Golden Boys)",
+            "credit_id": "613f77a09450fe002cad66bf",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 112604,
+            "known_for_department": "Acting",
+            "name": "Steven Yaffee",
+            "original_name": "Steven Yaffee",
+            "popularity": 1.2003,
+            "profile_path": "/mXocbdbwai9N6xPUI8oCMw4hLCE.jpg",
+            "cast_id": 11,
+            "character": "Scott (Golden Boys)",
+            "credit_id": "613f77941495650064533418",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1495570,
+            "known_for_department": "Acting",
+            "name": "Philipp Kronenberg",
+            "original_name": "Philipp Kronenberg",
+            "popularity": 0.3484,
+            "profile_path": "/hpWRKNi7AHahyhHl1jbS1VTExwQ.jpg",
+            "cast_id": 18,
+            "character": "Rico (In Beating Cells)",
+            "credit_id": "616ad89c158c850096bbff3d",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1864583,
+            "known_for_department": "Acting",
+            "name": "Lukas Sperber",
+            "original_name": "Lukas Sperber",
+            "popularity": 0.516,
+            "profile_path": "/h5h059k3tRpWFd0nY55FsACJdh7.jpg",
+            "cast_id": 19,
+            "character": "Friedrich (In Beating Cells)",
+            "credit_id": "616ade8e90dde000624dc520",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 586916,
+            "known_for_department": "Acting",
+            "name": "Antoine Gouy",
+            "original_name": "Antoine Gouy",
+            "popularity": 1.0373,
+            "profile_path": "/g0KnDyYzYHNY3TQgcX3B26ILnTu.jpg",
+            "cast_id": 9,
+            "character": "Vincent (The Middle of a Lake)",
+            "credit_id": "613f777a60c751002af28fa8",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1843660,
+            "known_for_department": "Acting",
+            "name": "Satya Dusaugey",
+            "original_name": "Satya Dusaugey",
+            "popularity": 0.6442,
+            "profile_path": "/AnOg7xtMKTe5BFjmqLY0BQFtkS4.jpg",
+            "cast_id": 20,
+            "character": "Thierry (The Middle of a Lake)",
+            "credit_id": "616ae12f90dde00042ce9e66",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1049379,
+            "known_for_department": "Acting",
+            "name": "Michael Muller",
+            "original_name": "Michael Muller",
+            "popularity": 0.483,
+            "profile_path": "/qOPpmuV6K2bF5tOQzGDPD6pLP7B.jpg",
+            "cast_id": 10,
+            "character": "Gilles (Gilles)",
+            "credit_id": "613f7789efca0000615772e6",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 72121,
+            "known_for_department": "Acting",
+            "name": "Lika Minamoto",
+            "original_name": "Lika Minamoto",
+            "popularity": 0.6184,
+            "profile_path": "/oX1MATfrKvFQPEb2tcAkkX00KDu.jpg",
+            "cast_id": 13,
+            "character": "Kiko (Kiko's Saints)",
+            "credit_id": "613f77adaaf897008c07541a",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2816901,
+            "known_for_department": "Acting",
+            "name": "Arthur Gillet",
+            "original_name": "Arthur Gillet",
+            "popularity": 0.5139,
+            "profile_path": "/78rmTtVquWdyk47uzXvMkbya3X3.jpg",
+            "cast_id": 21,
+            "character": "Man With Brown Hair (Kiko's Saints)",
+            "credit_id": "616aeffb894ed60023235683",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2816902,
+            "known_for_department": "Acting",
+            "name": "François Burgun",
+            "original_name": "François Burgun",
+            "popularity": 0.6203,
+            "profile_path": null,
+            "cast_id": 22,
+            "character": "Man With The Mohawk (Kiko's Saints)",
+            "credit_id": "616af026be2d49002d1f5f16",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2342845,
+            "known_for_department": "Acting",
+            "name": "Jean Le Peltier",
+            "original_name": "Jean Le Peltier",
+            "popularity": 0.6326,
+            "profile_path": "/q6fjiCbrieeVlVZdO0t4vneVrpg.jpg",
+            "cast_id": 23,
+            "character": "Jean (With Thelma)",
+            "credit_id": "616af469be2d49002d1f6caa",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 572083,
+            "known_for_department": "Acting",
+            "name": "Vincent Lecuyer",
+            "original_name": "Vincent Lecuyer",
+            "popularity": 0.5406,
+            "profile_path": "/ubL6715RV01kv7KBWSlYvW1n7oS.jpg",
+            "cast_id": 24,
+            "character": "Vincent (With Thelma)",
+            "credit_id": "616af4c56bdec300908c4ea5",
+            "order": 16
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1406125,
+            "known_for_department": "Directing",
+            "name": "Guillaume Mainguet",
+            "original_name": "Guillaume Mainguet",
+            "popularity": 0.5082,
+            "profile_path": null,
+            "credit_id": "6121b149b7abb50075325b33",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1728172,
+            "known_for_department": "Directing",
+            "name": "Raphaël Balboni",
+            "original_name": "Raphaël Balboni",
+            "popularity": 0.4365,
+            "profile_path": "/kVYT4mU87PsxUD9OjHEINCyekkQ.jpg",
+            "credit_id": "6121b12e0f2fbd004811e108",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2023479,
+            "known_for_department": "Directing",
+            "name": "Richard Kranzin",
+            "original_name": "Richard Kranzin",
+            "popularity": 0.4454,
+            "profile_path": "/olrOq472i4nDxYogEagoc9bL8bW.jpg",
+            "credit_id": "6121b13dd70594007392e5ee",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1817116,
+            "known_for_department": "Camera",
+            "name": "Manuel Marmier",
+            "original_name": "Manuel Marmier",
+            "popularity": 0.6998,
+            "profile_path": null,
+            "credit_id": "6121b154d96c3c002b74dc4e",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1728174,
+            "known_for_department": "Directing",
+            "name": "Ann Sirot",
+            "original_name": "Ann Sirot",
+            "popularity": 0.5029,
+            "profile_path": "/fiilgVnNkRMX6lxuWhuKsaScmUx.jpg",
+            "credit_id": "6121b1709f0e19005c439577",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1545426,
+            "known_for_department": "Directing",
+            "name": "Jordi Wijnalda",
+            "original_name": "Jordi Wijnalda",
+            "popularity": 0.43,
+            "profile_path": "/y7G5svXse5y1I0wWtwt0rWbw4mc.jpg",
+            "credit_id": "6121b179886348002c509161",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1978492,
+            "known_for_department": "Directing",
+            "name": "Jill Riley",
+            "original_name": "Jill Riley",
+            "popularity": 0.4092,
+            "profile_path": null,
+            "credit_id": "6121b1622dc44e005c6a10dc",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 158718,
+            "name": "lgbt"
+        },
+        {
+            "id": 190200,
+            "name": "short compilation"
+        },
+        {
+            "id": 258533,
+            "name": "gay theme"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/aiM9lOmC9W3QY3NfjKAm77RgmNT.jpg",
+            "id": 439976,
+            "title": "Pretty Boy",
+            "original_title": "Pretty Boy",
+            "overview": "Sean is taken to a motel and is given a prostitute for his 18th birthday by his father. He must sleep with her to \"fix\" his questionable homosexuality.  \"Pretty Boy\" is a coming of age story of a young bullied teen, Sean, struggling with his sexuality and the hardships of high school. After his father finds some questionable magazines in his room, this devout Christian will go to any lengths to get his son to find the light and \"perform\" the way a man should. Sean is introduced to Katie, a prostitute that understands the stigmas of modern society and helps him see the true light that is within him.",
+            "poster_path": "/asliDGk3CBBWkVDJYkFERGrxyz3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.9489,
+            "release_date": "2015-03-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.587,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gY6kVEUqOkVu6B6FARpgHwjoKW1.jpg",
+            "id": 291984,
+            "title": "The Death & Life of John F. Donovan",
+            "original_title": "The Death & Life of John F. Donovan",
+            "overview": "A decade after the death of an American TV star, a young actor reminisces about the written correspondence he once shared with the former, as well as the impact those letters had on both their lives.",
+            "poster_path": "/2bhI7Ivk7VmvUaJaDTxJUgOXp1E.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.2313,
+            "release_date": "2019-03-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.877,
+            "vote_count": 721
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+            "id": 1292415,
+            "title": "Beast",
+            "original_title": "Beast",
+            "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+            "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 24.9366,
+            "release_date": "2026-04-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wX1n8ndD7l6PsHSUmo66GRJHcwG.jpg",
+            "id": 597156,
+            "title": "The Boys in the Band",
+            "original_title": "The Boys in the Band",
+            "overview": "At a birthday party in 1968 New York, a surprise guest and a drunken game leave seven gay friends reckoning with unspoken feelings and buried truths.",
+            "poster_path": "/2D2gi13hnrXWaspWuWmdbEZ8bef.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.0171,
+            "release_date": "2020-09-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 457
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g4hnzXhoH8kCh9Eu0mg06mQVcjZ.jpg",
+            "id": 84316,
+            "title": "My Brother the Devil",
+            "original_title": "My Brother the Devil",
+            "overview": "Fourteen-year-old Mo is a lonely, sensitive boy whose hunger for the rant and banter of buddies makes him prone to tread dangerous territories. He idolizes his handsome older brother, Rashid, a charismatic, well-respected member of a local gang, whose drug dealing enables “Rash” to provide for his family. Aching to be seen as a tough guy himself, Mo takes a job that unlocks a fateful turn of events and forces the brothers to confront their inner demons. It turns out that hate is easy. It is love and understanding that take real courage.",
+            "poster_path": "/a5sqiJ1kPLKieVGBMaOrHLVFgrQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 1.1783,
+            "release_date": "2012-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.36,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sQSKR3iDCtayRTN2Nr9LiRYy6TT.jpg",
+            "id": 11703,
+            "title": "Kiss of the Spider Woman",
+            "original_title": "Kiss of the Spider Woman",
+            "overview": "The story of two radically different men thrown together in a Latin American prison cell. One is Valentin, a journalist being tortured for his political beliefs. The other is Molina, a gay window-dresser who fills their lonely nights by spinning romantic fantasies drawn from memories of old movies.",
+            "poster_path": "/lbrn4gOjYKrLrINn3uUJRlV2NZO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.7947,
+            "release_date": "1985-07-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.961,
+            "vote_count": 347
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wdcSkdKRwiABA5SdNth1uAnErzw.jpg",
+            "id": 928270,
+            "title": "Heatwave",
+            "original_title": "Heatwave",
+            "overview": "A woman's life takes an unexpected turn when she falls for her boss's wife. She must soon defend herself as she becomes entangled in a web of malice.",
+            "poster_path": "/rtbZAMcriHlHmB24GhBRlLa29dA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 5.178,
+            "release_date": "2022-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.249,
+            "vote_count": 169
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1wX0Xgs316QapQXjmqrAY9UixgN.jpg",
+            "id": 227156,
+            "title": "The Giver",
+            "original_title": "The Giver",
+            "overview": "In a seemingly perfect community, without war, pain, suffering, differences or choice, a young boy is chosen to learn from an elderly man about the true pain and pleasure of the \"real\" world.",
+            "poster_path": "/dul62Av4pgi5x8LP7ELHzNyka9Z.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "popularity": 9.253,
+            "release_date": "2014-08-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.557,
+            "vote_count": 4675
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2ePViXIOnifrugvnjlFxzmvjwKL.jpg",
+            "id": 472451,
+            "title": "Boy Erased",
+            "original_title": "Boy Erased",
+            "overview": "Jared, the son of a Baptist pastor in a small American town, is outed to his parents at age 19. Jared is faced with an ultimatum: attend a gay conversion therapy program – or be permanently exiled and shunned by his family, friends, and faith.",
+            "poster_path": "/oZbhTdi0ZQY7iiSQ0L7h3ya6NDF.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.1132,
+            "release_date": "2018-09-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.977,
+            "vote_count": 1501
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+            "id": 376867,
+            "title": "Moonlight",
+            "original_title": "Moonlight",
+            "overview": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.",
+            "poster_path": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 11.3592,
+            "release_date": "2016-10-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 7614
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r0W2dFpNgQKzowI7q9IbJ5P5vLI.jpg",
+            "id": 21344,
+            "title": "The Krays",
+            "original_title": "The Krays",
+            "overview": "Twins Ronnie and Reggie Kray are raised in east London, under the influence of their hateful but doting mother Violet. As they grow up, Ronnie's violent nature takes over, and Reggie follows his brother's lead. The two become notorious crime lords who rule over the East End club scene. But at the height of their power, the brothers veer into different lives, giving the older crime bosses a chance to reclaim what the Krays took from them.",
+            "poster_path": "/e7GqmnQJRWXYs8Y8uXma6p7Amcw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                80,
+                36
+            ],
+            "popularity": 2.696,
+            "release_date": "1990-04-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.041,
+            "vote_count": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1wHrFyYgMbTXB10h9rBPprqQY7f.jpg",
+            "id": 262610,
+            "title": "Flow",
+            "original_title": "Flow",
+            "overview": "A filmmaker talks about his work and love life with an unseen friend behind the camera. We also watch four of his short films.",
+            "poster_path": "/uqUwD865PnyxEKXVdHrHEL6bRIj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 0.9819,
+            "release_date": "1996-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.679,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lVDDXGuuu2WiqQCyXMsLe513FNP.jpg",
+            "id": 184341,
+            "title": "Hands of Stone",
+            "original_title": "Hands of Stone",
+            "overview": "The legendary Roberto Duran and his equally legendary trainer Ray Arcel change each other's lives.",
+            "poster_path": "/rpAYkkc7ltnxnMXOZLPuI9A6cuB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 3.4058,
+            "release_date": "2016-08-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 461
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AnmfRV7X0kwEn96pg0lAVopV8YK.jpg",
+            "id": 893086,
+            "title": "The Good Neighbor",
+            "original_title": "The Good Neighbor",
+            "overview": "A nightmarish evening unfolds for neighbors David and Robert when they accidentally hit a woman on her bike and flee the scene. While David is increasingly plagued by feelings of guilt, Robert shows no remorse and becomes overbearing and possessive.",
+            "poster_path": "/mXJ2xI7B0Z9WxDjyv18anPsOxeE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 3.1563,
+            "release_date": "2022-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.555,
+            "vote_count": 192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9IrsCOyzEq9mieD0MAbh8ZDuvSw.jpg",
+            "id": 187541,
+            "title": "Call Me Crazy: A Five Film",
+            "original_title": "Call Me Crazy: A Five Film",
+            "overview": "A psychotherapist helps a law student cope with schizophrenia in one of five interconnected tales dealing with mental illness.",
+            "poster_path": "/kVcDZluWy2vBxi1rTfZ3OOxmXLg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.8093,
+            "release_date": "2013-04-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8gBOpyW6iTDGZJR93YuF3L7dDuI.jpg",
+            "id": 441168,
+            "title": "From Straight A's to XXX",
+            "original_title": "From Straight A's to XXX",
+            "overview": "When a change of circumstances leaves Miriam unable to pay her college tuition, she makes a surprising decision: to start performing in adult films, using the pseudonym Belle Knox. Miriam lies to her family and her friends at school, keeping her double life a secret. But soon rumours spread and Miriam becomes the subject of vicious online attacks and unwanted attention. Miriam fights back: she talks to the media, saying her new line of work empowers her as a feminist. But her confident stand has unintended consequences. Miriam is shunned by her conservative family and her colleagues in the adult film world. One impulsive decision has quickly spiralled out of control - and Miriam's problems are just beginning.",
+            "poster_path": "/58BDtcDZG0ehZClEMwKampH4oX1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "popularity": 24.6298,
+            "release_date": "2017-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.919,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9ZlQnt9YwoWRUlYOlDfQNMfGWA2.jpg",
+            "id": 26630,
+            "title": "Shank",
+            "original_title": "Shank",
+            "overview": "Teenage gang member Cal, hides his sexuality from his fellow gang members despite their often violent dislike of anyone that isn't the same as them, be they unsuspecting shoppers, foreign students, gays, etc. When his world collides with Olivier, a student he rescues from a pointless beating, he encounters a lifestyle that presents as many new experiences as it does obstacles.",
+            "poster_path": "/c9xtOtEGHcANKEByorTLxcKNE8y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28
+            ],
+            "popularity": 3.5034,
+            "release_date": "2009-04-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.971,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f3rd6o0EQ0TnZsVtS1SD1k580Dh.jpg",
+            "id": 245527,
+            "title": "Convict",
+            "original_title": "Convict",
+            "overview": "Set in the dark and old Parramatta prison built by the original convicts our lead character Ray a war veteran finds himself serving 18 months for manslaughter after defending his fiance. He soon realizes that the prison boss has it in for him and does everything possible to break Ray even going after his fiance.",
+            "poster_path": "/mnvkok7eVau9Fg8BMDuwmk8JCZw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "popularity": 3.7913,
+            "release_date": "2014-01-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.516,
+            "vote_count": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xlZM7eymDabtzi3SMW3QGpLKDXx.jpg",
+            "id": 846956,
+            "title": "Rogue Agent",
+            "original_title": "Rogue Agent",
+            "overview": "Conman Robert Freegard poses as an undercover MI5 agent and kidnaps countless victims amidst a high-stakes manhunt, until the woman who fell for him brings him to justice.",
+            "poster_path": "/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 5.654,
+            "release_date": "2022-08-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 274
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uTtsYLaC9b8joDKy4YGsMxfo3cp.jpg",
+            "id": 547590,
+            "title": "El Chicano",
+            "original_title": "El Chicano",
+            "overview": "A pair of twin brothers from East L.A. choose to live their lives differently and end up on opposite sides of the law.",
+            "poster_path": "/6LSJL2KHUAxSjDTWA5V5Cr7sNNd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4814,
+            "release_date": "2019-05-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.621,
+            "vote_count": 87
+        }
+    ]
+}

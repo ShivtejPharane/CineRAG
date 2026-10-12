@@ -1,0 +1,1085 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10752,
+                "name": "War"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://www.amazon.com/dp/B0G4XCZW3X",
+        "id": 1252037,
+        "imdb_id": "tt31495504",
+        "origin_country": [
+            "DE"
+        ],
+        "original_language": "de",
+        "original_title": "Der Tiger",
+        "overview": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines. As they make their way through the lethal no-man's land, they must confront not only the enemy, but also their own fears and inner demons. Fueled by the Wehrmacht's methamphetamine, their mission increasingly becomes a journey into the heart of darkness.",
+        "popularity": 11.8533,
+        "poster_path": "/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
+        "production_companies": [
+            {
+                "id": 78486,
+                "logo_path": "/oKG2ahqSVN8i5Rd0U9ZNbNY6jK7.png",
+                "name": "Pantaleon Films",
+                "origin_country": "DE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "release_date": "2025-09-18",
+        "revenue": 0,
+        "runtime": 117,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Tank",
+        "video": false,
+        "vote_average": 7.14,
+        "vote_count": 470
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 36097,
+            "known_for_department": "Acting",
+            "name": "Laurence Rupp",
+            "original_name": "Laurence Rupp",
+            "popularity": 1.3809,
+            "profile_path": "/91VVksg6HJxUv0ahiay7ryatUqP.jpg",
+            "cast_id": 7,
+            "character": "Christian Weller",
+            "credit_id": "65e06b6c51f99a018556eee0",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1327315,
+            "known_for_department": "Acting",
+            "name": "David Schütter",
+            "original_name": "David Schütter",
+            "popularity": 1.3933,
+            "profile_path": "/eCyL55l0fb9tccOQfdCGCd7XKAf.jpg",
+            "cast_id": 8,
+            "character": "Philip Gerkens",
+            "credit_id": "65e06b7d5294e701304e43e6",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6082,
+            "known_for_department": "Acting",
+            "name": "Sebastian Urzendowsky",
+            "original_name": "Sebastian Urzendowsky",
+            "popularity": 0.8661,
+            "profile_path": "/hhviYpZZZIHkWVrd8LHWmVyreSp.jpg",
+            "cast_id": 9,
+            "character": "Keilig",
+            "credit_id": "65e06b859dee58017c7c54eb",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1824940,
+            "known_for_department": "Acting",
+            "name": "Leonard Kunz",
+            "original_name": "Leonard Kunz",
+            "popularity": 0.6767,
+            "profile_path": "/htq6xkZ03jkwLFdgbXMbranPRvI.jpg",
+            "cast_id": 10,
+            "character": "Helmut",
+            "credit_id": "65e06b8f2d531a0185c013c1",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2603990,
+            "known_for_department": "Acting",
+            "name": "Yoran Leicher",
+            "original_name": "Yoran Leicher",
+            "popularity": 0.664,
+            "profile_path": "/xn7csx8aw5VjPyNMxoViyfF8EyQ.jpg",
+            "cast_id": 11,
+            "character": "Michel",
+            "credit_id": "65e06b9aa39d0b016307abf9",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1846,
+            "known_for_department": "Acting",
+            "name": "André Hennicke",
+            "original_name": "André Hennicke",
+            "popularity": 0.9967,
+            "profile_path": "/ooLG1YJU6hsc5KNGeHqTkwv0GMe.jpg",
+            "cast_id": 13,
+            "character": "Lieutenant Colonel Krebs",
+            "credit_id": "672899545918137cfc39b9e0",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 36463,
+            "known_for_department": "Acting",
+            "name": "Arndt Schwering-Sohnrey",
+            "original_name": "Arndt Schwering-Sohnrey",
+            "popularity": 0.5421,
+            "profile_path": "/5SlJCZzHK8OCmKZWkfFywrhouFi.jpg",
+            "cast_id": 14,
+            "character": "Löffler",
+            "credit_id": "67289964761979f005e2d249",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1150511,
+            "known_for_department": "Acting",
+            "name": "Tilman Strauss",
+            "original_name": "Tilman Strauss",
+            "popularity": 0.5209,
+            "profile_path": "/pyh3uluxusir39NOnThNFwGG3r0.jpg",
+            "cast_id": 15,
+            "character": "Paul von Hardenburg",
+            "credit_id": "67289973c090109580fa0040",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3412516,
+            "known_for_department": "Acting",
+            "name": "Alžběta Malá",
+            "original_name": "Alžběta Malá",
+            "popularity": 0.4736,
+            "profile_path": "/esYiX0Ql5d4qDgNfqojaVRcIwv6.jpg",
+            "cast_id": 28,
+            "character": "Marion",
+            "credit_id": "695aa7f60c48d556ecc37954",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4870692,
+            "known_for_department": "Acting",
+            "name": "Samuel Himal",
+            "original_name": "Samuel Himal",
+            "popularity": 0.2404,
+            "profile_path": null,
+            "cast_id": 27,
+            "character": "Fritz",
+            "credit_id": "695aa7b6c702ee9a62c37b8c",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3636257,
+            "known_for_department": "Acting",
+            "name": "Yana Shevchenko",
+            "original_name": "Yana Shevchenko",
+            "popularity": 0.3292,
+            "profile_path": "/agclFoDkWUoCdbWm4KIHrPsFA7m.jpg",
+            "cast_id": 16,
+            "character": "Secretary at the Command Bunker (uncredited)",
+            "credit_id": "672899829e0877d1d8afbeeb",
+            "order": 10
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52961,
+            "known_for_department": "Directing",
+            "name": "Dennis Gansel",
+            "original_name": "Dennis Gansel",
+            "popularity": 1.1651,
+            "profile_path": "/tf34YKOXKKzE3ib21FSFiACCWi2.jpg",
+            "credit_id": "65e06b1c2d531a0162bf3af3",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52961,
+            "known_for_department": "Directing",
+            "name": "Dennis Gansel",
+            "original_name": "Dennis Gansel",
+            "popularity": 1.1651,
+            "profile_path": "/tf34YKOXKKzE3ib21FSFiACCWi2.jpg",
+            "credit_id": "65e06b242d531a0185c01315",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1570935,
+            "known_for_department": "Writing",
+            "name": "Colin Teevan",
+            "original_name": "Colin Teevan",
+            "popularity": 0.5606,
+            "profile_path": "/fP7y2MC2ms1KT7gqC1xg0JU4pgi.jpg",
+            "credit_id": "65e06b3207e281017cdcf471",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 50355,
+            "known_for_department": "Production",
+            "name": "Dan Maag",
+            "original_name": "Dan Maag",
+            "popularity": 0.5634,
+            "profile_path": null,
+            "credit_id": "65e06b3f51f99a018556ee97",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 42448,
+            "known_for_department": "Directing",
+            "name": "Frank Kusche",
+            "original_name": "Frank Kusche",
+            "popularity": 0.292,
+            "profile_path": null,
+            "credit_id": "65e06b4b51f99a016256438b",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 49363,
+            "known_for_department": "Lighting",
+            "name": "Carlo Jelavic",
+            "original_name": "Carlo Jelavic",
+            "popularity": 0.2464,
+            "profile_path": null,
+            "credit_id": "65e06b61a284eb0164d3ff68",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5197,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Anke Winckler",
+            "original_name": "Anke Winckler",
+            "popularity": 0.3834,
+            "profile_path": "/bDW88mbbbAify42Y14tvATgn321.jpg",
+            "credit_id": "68871fd5a33cb327a372f00a",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3983653,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Meg Tanner",
+            "original_name": "Meg Tanner",
+            "popularity": 0.2316,
+            "profile_path": null,
+            "credit_id": "68871ff728a6b89656d9b60c",
+            "department": "Costume & Make-Up",
+            "job": "Makeup & Hair"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 6998,
+            "known_for_department": "Art",
+            "name": "Nick Palmer",
+            "original_name": "Nick Palmer",
+            "popularity": 0.4676,
+            "profile_path": null,
+            "credit_id": "688720097587c4222af791ab",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 11457,
+            "known_for_department": "Art",
+            "name": "Jindřich Kočí",
+            "original_name": "Jindřich Kočí",
+            "popularity": 0.3906,
+            "profile_path": null,
+            "credit_id": "688720c5ac0991943b16c83a",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2539388,
+            "known_for_department": "Production",
+            "name": "Leonard Häberle",
+            "original_name": "Leonard Häberle",
+            "popularity": 0.1896,
+            "profile_path": null,
+            "credit_id": "688720ea268343956855f239",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 114296,
+            "known_for_department": "Production",
+            "name": "Marco Beckmann",
+            "original_name": "Marco Beckmann",
+            "popularity": 0.4573,
+            "profile_path": null,
+            "credit_id": "6958514a0cf7610cedcbef9d",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 52963,
+            "known_for_department": "Sound",
+            "name": "Heiko Maile",
+            "original_name": "Heiko Maile",
+            "popularity": 0.4071,
+            "profile_path": null,
+            "credit_id": "69590d5167730dfe967c786e",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 42154,
+            "known_for_department": "Production",
+            "name": "Patrick Zorer",
+            "original_name": "Patrick Zorer",
+            "popularity": 0.3975,
+            "profile_path": null,
+            "credit_id": "695aa86e6ff6cb07287c823c",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2441517,
+            "known_for_department": "Production",
+            "name": "Stephanie Schettler-Köhler",
+            "original_name": "Stephanie Schettler-Köhler",
+            "popularity": 0.3051,
+            "profile_path": null,
+            "credit_id": "695aa887aee9f647a47508cb",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2647743,
+            "known_for_department": "Production",
+            "name": "Nicolas Paalzow",
+            "original_name": "Nicolas Paalzow",
+            "popularity": 0.2174,
+            "profile_path": null,
+            "credit_id": "695aa8a3bf4a3fbe834af931",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1979923,
+            "known_for_department": "Editing",
+            "name": "Benjamin Kaubisch",
+            "original_name": "Benjamin Kaubisch",
+            "popularity": 0.1744,
+            "profile_path": null,
+            "credit_id": "695aa8edfba9963c454ada27",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1486518,
+            "known_for_department": "Production",
+            "name": "Roman Kašparovský",
+            "original_name": "Roman Kašparovský",
+            "popularity": 0.274,
+            "profile_path": null,
+            "credit_id": "695aa95d3f5867198a7c819f",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3664637,
+            "known_for_department": "Directing",
+            "name": "Jakub Dvorak",
+            "original_name": "Jakub Dvorak",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "credit_id": "695aa98701fdd85625e43a8e",
+            "department": "Directing",
+            "job": "First Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2321844,
+            "known_for_department": "Directing",
+            "name": "Filip Moravec",
+            "original_name": "Filip Moravec",
+            "popularity": 0.1768,
+            "profile_path": null,
+            "credit_id": "695aa99e331d3a25e7cc94c8",
+            "department": "Directing",
+            "job": "Second Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2624274,
+            "known_for_department": "Directing",
+            "name": "Jiří Kolárský",
+            "original_name": "Jiří Kolárský",
+            "popularity": 0.2589,
+            "profile_path": null,
+            "credit_id": "695aa9b382c7f5caae3be50e",
+            "department": "Directing",
+            "job": "Third Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 47830,
+            "known_for_department": "Sound",
+            "name": "Jakub Čech",
+            "original_name": "Jakub Čech",
+            "popularity": 0.3548,
+            "profile_path": null,
+            "credit_id": "695aa9e7bf538b7f4fd7c6bf",
+            "department": "Sound",
+            "job": "Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2435616,
+            "known_for_department": "Sound",
+            "name": "Peter Hilčanský",
+            "original_name": "Peter Hilčanský",
+            "popularity": 0.5207,
+            "profile_path": null,
+            "credit_id": "695aa9fc20dfa93928d79c48",
+            "department": "Sound",
+            "job": "Sound Designer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6004225,
+            "known_for_department": "Crew",
+            "name": "Marek Pinc",
+            "original_name": "Marek Pinc",
+            "popularity": 0.3151,
+            "profile_path": null,
+            "credit_id": "698eed1832f2c2d31a305be9",
+            "department": "Crew",
+            "job": "Special Effects Technician"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3944,
+            "known_for_department": "Production",
+            "name": "Suse Marquardt",
+            "original_name": "Suse Marquardt",
+            "popularity": 0.2983,
+            "profile_path": "/k8y2IN1hG8A2lh9uyOEeHKT63I3.jpg",
+            "credit_id": "69922688beda484cea2877c0",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1411043,
+            "known_for_department": "Production",
+            "name": "Arwa Salmanova",
+            "original_name": "Arwa Salmanova",
+            "popularity": 0.4277,
+            "profile_path": null,
+            "credit_id": "6992269ccff3ff79e2065386",
+            "department": "Production",
+            "job": "Casting"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 1956,
+            "name": "world war ii"
+        },
+        {
+            "id": 11117,
+            "name": "tank"
+        },
+        {
+            "id": 165431,
+            "name": "anti war"
+        },
+        {
+            "id": 207883,
+            "name": "1940s"
+        },
+        {
+            "id": 220492,
+            "name": "war trauma"
+        },
+        {
+            "id": 240422,
+            "name": "wonder"
+        },
+        {
+            "id": 308750,
+            "name": "desperation"
+        },
+        {
+            "id": 336082,
+            "name": "eastern front"
+        },
+        {
+            "id": 348671,
+            "name": "meth"
+        },
+        {
+            "id": 353736,
+            "name": "survival instinct"
+        },
+        {
+            "id": 367867,
+            "name": "fog of war"
+        },
+        {
+            "id": 369543,
+            "name": "close‑quarters combat"
+        },
+        {
+            "id": 372522,
+            "name": "command hierarchy"
+        },
+        {
+            "id": 372950,
+            "name": "tank crew"
+        },
+        {
+            "id": 372951,
+            "name": "battlefront line"
+        },
+        {
+            "id": 372952,
+            "name": "survival pressure"
+        },
+        {
+            "id": 374283,
+            "name": "enemy pressure"
+        },
+        {
+            "id": 374284,
+            "name": "metal confinement"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
+            "id": 228150,
+            "title": "Fury",
+            "original_title": "Fury",
+            "overview": "April, 1945. As the Allies make their final push in the European Theatre, a battle-hardened army sergeant named Wardaddy commands a Sherman tank and her five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, and with a rookie soldier thrust into their platoon, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+            "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                18,
+                28
+            ],
+            "popularity": 31.2686,
+            "release_date": "2014-10-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.547,
+            "vote_count": 13094
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xCeB8qPu4UvOGaScq0qVeit9O7G.jpg",
+            "id": 15267,
+            "title": "The Beast",
+            "original_title": "The Beast",
+            "overview": "During the war in Afghanistan a Soviet tank crew commanded by a tyrannical officer find themselves lost and in a struggle against a band of Mujahadeen guerrillas in the mountains.",
+            "poster_path": "/fMymKHTtCikQEx1HVQeahc2wiNU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                18
+            ],
+            "popularity": 3.7068,
+            "release_date": "1988-09-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 217
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mo2O5ESdB7PWnY3OBS9jjvjeskB.jpg",
+            "id": 11101,
+            "title": "Stalingrad",
+            "original_title": "Stalingrad",
+            "overview": "A German Platoon is explored through the brutal fighting of the Battle of Stalingrad. After half of their number is wiped out and they're placed under the command of a sadistic captain, the platoon lieutenant leads his men to desert. The platoon members attempt escape from the city, now surrounded by the Soviet Army.",
+            "poster_path": "/hEHmXFMOBJv5c6Gd5m6mDiLAxsy.jpg",
+            "media_type": "movie",
+            "original_language": "de",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "popularity": 4.4129,
+            "release_date": "1993-01-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.339,
+            "vote_count": 642
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/edUMdGAWTwc6RA2uhvagZJkrhAw.jpg",
+            "id": 10839,
+            "title": "Cross of Iron",
+            "original_title": "Cross of Iron",
+            "overview": "It is 1943, and the German army—ravaged and demoralised—is hastily retreating from the Russian front. In the midst of the madness, conflict brews between the aristocratic yet ultimately pusillanimous Captain Stransky and the courageous Corporal Steiner. Stransky is the only man who believes that the Third Reich is still vastly superior to the Russian army. However, within his pompous persona lies a quivering coward who longs for the Iron Cross so that he can return to Berlin a hero. Steiner, on the other hand is cynical, defiantly non-conformist and more concerned with the safety of his own men rather than the horde of military decorations offered to him by his superiors.",
+            "poster_path": "/fR6pqh5aFn0fawsn7sR2zC15swx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28,
+                36,
+                10752
+            ],
+            "popularity": 3.7695,
+            "release_date": "1977-01-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 490
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xwcuaxlajh5fr0e2P9UCfn1m2JR.jpg",
+            "id": 981063,
+            "title": "Before Dawn",
+            "original_title": "Before Dawn",
+            "overview": "After leaving his family's sheep farm in the Australian outback, a young man joins his countrymen on the western front of World War I with hopes of helping expedite an end to the bloody conflict. But as war rages on, he is forced to grapple with the brutal realities of trench warfare, including a near-constant battle to keep himself alive—without leaving another man behind.\r Inspired by the real-life diary entries of local ANZACs, the feature film details the untold story of some of Australia’s greatest military victories.",
+            "poster_path": "/a51x5NWJqdzWbFA58dwRgwfgQDj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "popularity": 3.7551,
+            "release_date": "2024-04-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sOhrxGvSJOaAJdBXHu1vQImfGuj.jpg",
+            "id": 25318,
+            "title": "Escape from Sobibor",
+            "original_title": "Escape from Sobibor",
+            "overview": "The true story of WWII's notorious Sobibor Nazi death camp, where a courageous inmate orchestrates and leads the escape of over 300 prisoners.",
+            "poster_path": "/w3IGS3gAecPB5dNeQH4926S9PSi.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                10752,
+                10770
+            ],
+            "popularity": 2.6911,
+            "release_date": "1987-04-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fwNICuPTTExPBWTH8osYeEjTCbo.jpg",
+            "id": 43418,
+            "title": "Beneath Hill 60",
+            "original_title": "Beneath Hill 60",
+            "overview": "The true story of Australia's cat-and-mouse underground mine warfare—one of the most misunderstood, misrepresented and mystifying conflicts of WW I. It was secret struggle BENEATH the Western Front that combined daring engineering, technology and science. Few on the surface knew of the brave, claustrophobic and sometimes barbaric work of these tunnellers.",
+            "poster_path": "/5eHtQC77fmILNRd7FG70SOdChs8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "popularity": 2.311,
+            "release_date": "2010-04-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1CDUzgUuTTCV5LzoyRdmbcayQJi.jpg",
+            "id": 316042,
+            "title": "Hyena Road",
+            "original_title": "Hyena Road",
+            "overview": "Three different men, three different worlds, three different wars – all stand at the intersection of modern warfare – a murky world of fluid morality where all is not as it seems. A unique and dramatic look at the Canadian Army in Afghanistan.",
+            "poster_path": "/zdn34Jx3rRkhDGsD0qcB0cA1HzB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                18,
+                53,
+                28
+            ],
+            "popularity": 3.133,
+            "release_date": "2015-10-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.845,
+            "vote_count": 272
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tqzpeMDGkC5z2n28U13kRZR4Lti.jpg",
+            "id": 13935,
+            "title": "When Trumpets Fade",
+            "original_title": "When Trumpets Fade",
+            "overview": "In WWII Western Germany, Private David Manning reluctantly leaves behind a mortally wounded fellow soldier and searches for survivors from his platoon, only to learn from commanding officer Captain Pritchett that they have all been killed in action. Despite requesting a discharge on the grounds of mental disability, Manning is promoted to sergeant and assigned to lead a new platoon of young inductees.",
+            "poster_path": "/jdANR1WXRQ56jPe2jTEArB4zzXI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10752,
+                10770
+            ],
+            "popularity": 2.4642,
+            "release_date": "1998-06-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.614,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iKqItVltY6r0eJeIRdIZV8IrBpz.jpg",
+            "id": 969492,
+            "title": "Land of Bad",
+            "original_title": "Land of Bad",
+            "overview": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
+            "poster_path": "/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                10752,
+                53
+            ],
+            "popularity": 11.8302,
+            "release_date": "2024-02-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.28,
+            "vote_count": 1552
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wNqytPDXc9DULFbklchOg01tclm.jpg",
+            "id": 506863,
+            "title": "Hurricane",
+            "original_title": "Hurricane",
+            "overview": "Polish pilots overcome prejudice to fight against the Luftwaffe with the Royal Air Force during the Second World War, in the hope of protecting both Great Britain and their own Poland from the German advance.",
+            "poster_path": "/mTpmZORhYswd9YinB23wV9QE2cx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                18,
+                28
+            ],
+            "popularity": 2.8142,
+            "release_date": "2018-09-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.869,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aCqsz1Wol8QImZPa3AjecpZPCpy.jpg",
+            "id": 1098110,
+            "title": "Blood & Gold",
+            "original_title": "Blood & Gold",
+            "overview": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
+            "poster_path": "/oLRQP5cEjiT1DxeIHUYEV96Ijum.jpg",
+            "media_type": "movie",
+            "original_language": "de",
+            "genre_ids": [
+                28,
+                18,
+                10752
+            ],
+            "popularity": 3.3622,
+            "release_date": "2023-04-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.652,
+            "vote_count": 424
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n1RohH2VoK1CdVI2fXvcP19dSlm.jpg",
+            "id": 531876,
+            "title": "The Outpost",
+            "original_title": "The Outpost",
+            "overview": "A small unit of U.S. soldiers, alone at the remote Combat Outpost Keating, located deep in the valley of three mountains in Afghanistan, battles to defend against an overwhelming force of Taliban fighters in a coordinated attack. The Battle of Kamdesh, as it was known, was the bloodiest American engagement of the Afghan War in 2009 and Bravo Troop 3-61 CAV became one of the most decorated units of the 19-year conflict.",
+            "poster_path": "/saN1UywIQMQNXYx2ag9j2tPwaVl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                18,
+                36,
+                28
+            ],
+            "popularity": 8.6977,
+            "release_date": "2020-06-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.87,
+            "vote_count": 1198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+            "id": 16869,
+            "title": "Inglourious Basterds",
+            "original_title": "Inglourious Basterds",
+            "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+            "poster_path": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                10752
+            ],
+            "popularity": 25.9467,
+            "release_date": "2009-08-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.217,
+            "vote_count": 24507
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bh5nH5yCbnX81fwIfhvxRoPWcDb.jpg",
+            "id": 26652,
+            "title": "Play Dirty",
+            "original_title": "Play Dirty",
+            "overview": "During World War II in North Africa, a group of British commandos disguised as Italian soldiers must travel behind enemy lines and destroy a vital Nazi oil depot.",
+            "poster_path": "/8BkQ3aRlYQMqCLO943c0u1njscG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                12,
+                18
+            ],
+            "popularity": 3.3453,
+            "release_date": "1969-01-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.272,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pRpg9OAe4hrThTPxPSPzc185f0D.jpg",
+            "id": 10652,
+            "title": "Hamburger Hill",
+            "original_title": "Hamburger Hill",
+            "overview": "The men of Bravo Company are facing a battle that's all uphill… up Hamburger Hill. Fourteen war-weary soldiers are battling for a mud-covered mound of earth so named because it chews up soldiers like chopped meat. They are fighting for their country, their fellow soldiers and their lives. War is hell, but this is worse. Hamburger Hill tells it the way it was, the way it really was. It's a raw, gritty and totally unrelenting dramatic depiction of one of the fiercest battles of America's bloodiest war. This happened. Hamburger Hill - war at its worst, men at their best.",
+            "poster_path": "/a84FDoIm64qcyKq6BEMB9Ycldpt.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "popularity": 3.8911,
+            "release_date": "1987-08-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.565,
+            "vote_count": 514
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dTsOvK19Brm1u2p06K7qlTyKHIi.jpg",
+            "id": 1074034,
+            "title": "Ambush",
+            "original_title": "Ambush",
+            "overview": "When a small outpost is ambushed, a US Army squad must take the battle below ground on a high-stakes mission in a new type of warfare the likes of which they have never seen.",
+            "poster_path": "/3QjtDMS7PB4SMj0nAJQiE86Lo0w.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                28,
+                53
+            ],
+            "popularity": 2.9786,
+            "release_date": "2023-02-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.335,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s5i9CpdrQ7QeBYPgZtPZ3nEqU3y.jpg",
+            "id": 256476,
+            "title": "Walking with the Enemy",
+            "original_title": "Walking with the Enemy",
+            "overview": "Regent Horthy is the leader of Hungary and a German ally, but his favorable standing with Hitler changes as the war comes to an end. Forced to cede Hungary’s power or else witness the execution of his son, Regent Horthy gives up control of his country to the Nazis, who quickly move Hungarians to ghettos and death camps, with no hope in sight. But the despair changes when a young man named Elek emerges. Separated from his family during the relocations and aided by the woman he loves , Elek defies the enemy by becoming one of them. In a race against time, disguised as a Nazi Officer he embarks on a mission to save his family and thousands of his countrymen.",
+            "poster_path": "/csYgiUFoZ82OO9CfeqJd8g7e56K.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                18,
+                36,
+                10752
+            ],
+            "popularity": 2.1953,
+            "release_date": "2014-04-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.276,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zzzhbZnSPMOON9uGt0LsdUJWYoC.jpg",
+            "id": 387,
+            "title": "Das Boot",
+            "original_title": "Das Boot",
+            "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+            "poster_path": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+            "media_type": "movie",
+            "original_language": "de",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "popularity": 10.9993,
+            "release_date": "1981-09-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.082,
+            "vote_count": 2567
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hmEbQB5UlcwobldcSDNlLZiUnmA.jpg",
+            "id": 193756,
+            "title": "Lone Survivor",
+            "original_title": "Lone Survivor",
+            "overview": "Four Navy SEALs on a covert mission to neutralize a high-level Taliban operative must make an impossible moral decision in the mountains of Afghanistan that leads them into an enemy ambush. As they confront unthinkable odds, the SEALs must find reserves of strength and resilience to fight to the finish.",
+            "poster_path": "/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "popularity": 14.5207,
+            "release_date": "2013-12-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.433,
+            "vote_count": 4818
+        }
+    ]
+}

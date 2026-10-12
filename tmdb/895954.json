@@ -1,0 +1,546 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 895954,
+        "imdb_id": null,
+        "origin_country": [
+            "KR"
+        ],
+        "original_language": "ko",
+        "original_title": "莫尼卡中心",
+        "overview": "Yeon Ja, a working mother, runs a car center after divorce and is raising her daughter all by herself. Her daughter, Ah Jung, started helping her when she became an adult, however, the customers don't trust weak-looking women to touch machines and the business at the car center is slow. Thanks to Ah Jung's punk boyfriend, Sung Hoon, they came up with an idea to turn the car center into a sexy car center.",
+        "popularity": 12.1894,
+        "poster_path": "/saca8CL9kk22AS5BfMbwSYgMvdp.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2021-01-01",
+        "revenue": 0,
+        "runtime": 87,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "母女汽车中心",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1647345,
+            "known_for_department": "Acting",
+            "name": "Lee Eun-mi",
+            "original_name": "이은미",
+            "popularity": 1.535,
+            "profile_path": "/dMKEjZYPAbATFSJfWaHoIW5hpOJ.jpg",
+            "cast_id": 1,
+            "character": "",
+            "credit_id": "620e75dd383df2006ca1f7bf",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2663160,
+            "known_for_department": "Acting",
+            "name": "Yeon Joo",
+            "original_name": "Yeon Joo",
+            "popularity": 2.2717,
+            "profile_path": "/kGbNRwniAva93R1gJfvGVJAi1Uy.jpg",
+            "cast_id": 2,
+            "character": "",
+            "credit_id": "620e75f09ecf18001bb99b5c",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3164807,
+            "known_for_department": "Acting",
+            "name": "Yoon Yool",
+            "original_name": "윤율",
+            "popularity": 53.4211,
+            "profile_path": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "620e75ff9ecf180043932cb9",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2294764,
+            "known_for_department": "Acting",
+            "name": "Han Seok-bong",
+            "original_name": "Han Seok-bong",
+            "popularity": 1.1532,
+            "profile_path": "/5ABOVmENCwpAC1uXrK16luzW5g9.jpg",
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "620e763e70309f006b463389",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2576502,
+            "known_for_department": "Acting",
+            "name": "Gil Dong",
+            "original_name": "Gil Dong",
+            "popularity": 1.4627,
+            "profile_path": "/dhbMFoJZII43IihAfdHQIBOMZTC.jpg",
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "620e765438469a001c7d38a5",
+            "order": 4
+        }
+    ],
+    "crew": [],
+    "keywords": [
+        {
+            "id": 155477,
+            "name": "softcore"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "id": 482600,
+            "title": "Japanese Mom",
+            "original_title": "일본 엄마",
+            "overview": "\"Innocent face, D-cup breasts and perfect intercourse skills! Son, this is not your girlfriend anymore but your mother!\"  Ki-ho brings Yuki from Japan to marry her. However, he starts cheating on her with his ex-girlfriend in Korea.  Min-cheol comforted Yuki and thought of her as his daughter-in-law, but one day he realizes he is looking at her as a woman.  In the end, Yuki and Min-cheol have intercourse without Ki-ho knowing...",
+            "poster_path": "/mCDzIKBPBLLOaFSO7WXCNgrg8f2.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                10749
+            ],
+            "popularity": 11.0128,
+            "release_date": "2017-02-09",
+            "softcore": true,
+            "video": false,
+            "vote_average": 6.611,
+            "vote_count": 63
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xw8hpRttw101BSvna9kz8JQSiUX.jpg",
+            "id": 510938,
+            "title": "The Matchmaker's Playbook",
+            "original_title": "The Matchmaker's Playbook",
+            "overview": "After a career-ending accident, former NFL recruit Ian Hunter is back on campus, and he's putting his extensive skills with women to work as one of the masterminds behind a successful and secretive dating service. But when Blake Olson requests the services of Wingmen, Inc., Ian may have landed his most hopeless client yet. As Blake begins the transformation from hot mess to smokin' hot, Ian realizes he's in danger of breaking his cardinal rule....",
+            "poster_path": "/tpdLAbE4C7AMY77xFNguMX1XIb8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749
+            ],
+            "popularity": 2.9469,
+            "release_date": "2018-03-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.179,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pzObwxL8nabmY7CyqioHTDr4AHC.jpg",
+            "id": 1087914,
+            "title": "A Time to Remember",
+            "original_title": "기억의 시간",
+            "overview": "Woo-jin is Korea's top star - every item he wears and uses are always a hot potato and gets sold out overnight. He is especially famous for remembering all his fan names. He seems to be just perfect, but there is one big secret that nobody knows - he cannot forget but only remember things. Woo-jin is forced to relive painful moments over and over again, feeling the same amount of anguish each time. One day, Woo-jin encounters a woman named Hae-soo, who suffers from the opposite pain from him: her memory resets every 30 days.",
+            "poster_path": "/khn4CsijMjBURnYuLNNx5NMQh0s.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                10749
+            ],
+            "popularity": 1.6473,
+            "release_date": "2021-12-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AlqDoPCHBqrqRNpAWkAmltIFTR1.jpg",
+            "id": 73454,
+            "title": "X",
+            "original_title": "X",
+            "overview": "A veteran call girl and a runaway prostitute witness a murder which sends them on an out-of-control roller coaster ride through the twilight zone of sex-for-sale.",
+            "poster_path": "/nvU6uTwSpMpitM6mnuYXb1LgxxX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                10749
+            ],
+            "popularity": 7.6368,
+            "release_date": "2011-11-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.401,
+            "vote_count": 324
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2w1bCr1D5Imte2THRCXGMSgaO5G.jpg",
+            "id": 630924,
+            "title": "Holiday Date",
+            "original_title": "Holiday Date",
+            "overview": "When Brooke’s boyfriend, Ethan, breaks up with her just before the holidays, she agrees to go home with Joel, an actor who will pose as her boyfriend.",
+            "poster_path": "/o8XDtQQbplfbVLEa0RlQlbuXVBI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                10770
+            ],
+            "popularity": 1.7315,
+            "release_date": "2019-12-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qZlAyN4y6Tff6mtTD2y2or2EBon.jpg",
+            "id": 338729,
+            "title": "The Beauty Inside",
+            "original_title": "뷰티 인사이드",
+            "overview": "Woo-jin, a furniture designer who wakes up in a different body every day, falls for Yi-soo, a woman he meets through his work.",
+            "poster_path": "/z5gpjqQwo0h8rMvBLedRXfHHDKb.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                14,
+                10749
+            ],
+            "popularity": 3.0224,
+            "release_date": "2015-08-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 286
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iumitnLEf97nK2iA9o23BjirT4l.jpg",
+            "id": 626319,
+            "title": "Write Before Christmas",
+            "original_title": "Write Before Christmas",
+            "overview": "A recently single Jessica sends Christmas cards to people who have impacted her life—the aunt who raised her, her younger brother in the military, a popstar who was part of the soundtrack of her life, the music teacher who inspired her, and the best friend who always tells the truth.",
+            "poster_path": "/jiC9CTgWVi9ytFrP01PtfvBamuK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10770,
+                10749
+            ],
+            "popularity": 2.2894,
+            "release_date": "2019-11-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uuCj46exjP6UOo976MAWACWFv1X.jpg",
+            "id": 587693,
+            "title": "A Christmas Prince: The Royal Baby",
+            "original_title": "A Christmas Prince: The Royal Baby",
+            "overview": "Christmas brings the ultimate gift to Aldovia: a royal baby. But first, Queen Amber must help her family and kingdom by finding a missing peace treaty.",
+            "poster_path": "/4RErLw0APt8qQiee0d8VCKasWwl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                10751,
+                10770
+            ],
+            "popularity": 2.3319,
+            "release_date": "2019-12-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.269,
+            "vote_count": 568
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wEXYJgW5l2IwwNdRVk9ixgKl8qu.jpg",
+            "id": 465136,
+            "title": "Every Day",
+            "original_title": "Every Day",
+            "overview": "16-year old Rhiannon falls in love with a mysterious spirit named “A” that inhabits a different body every day. Feeling an unmatched connection, Rhiannon and “A” work each day to find each other, not knowing what the next day will bring.",
+            "poster_path": "/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                14
+            ],
+            "popularity": 7.4968,
+            "release_date": "2018-02-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.242,
+            "vote_count": 2305
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eGzQPFy6VTR3r72mTOIOXoQYuHc.jpg",
+            "id": 18283,
+            "title": "Brigadoon",
+            "original_title": "Brigadoon",
+            "overview": "Americans Jeff and Tommy, hunting in Scotland, stumble upon a village - Brigadoon. They soon learn that the town appears once every 100 years in order to preserve its peace and special beauty. The citizens go to bed at night and when they wake up, it's 100 years later. Tommy falls in love with a beautiful young woman, Fiona, and is torn between staying or going back to his hectic life in New York.",
+            "poster_path": "/va3DcpyZDnnWdRB0FTPKzObo3Uz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                14,
+                10749
+            ],
+            "popularity": 1.9804,
+            "release_date": "1954-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.524,
+            "vote_count": 170
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ojsxr2OXLmmMDNK0dYhcJbEynII.jpg",
+            "id": 737779,
+            "title": "Chateau Christmas",
+            "original_title": "Chateau Christmas",
+            "overview": "Margot, a world-renowned pianist, returns to Chateau Newhaus to spend the holidays with her family and is reunited with an ex who helps her rediscover her passion for music.",
+            "poster_path": "/6ZgaL0HewMSMlvV6FHXG7VwtTMe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                10770
+            ],
+            "popularity": 1.5063,
+            "release_date": "2020-10-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.16,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bBXAngSP6W5DDRJ85J2J9hzSYo0.jpg",
+            "id": 51393,
+            "title": "White Night",
+            "original_title": "백야행: 하얀 어둠 속을 걷다",
+            "overview": "A pawnbroker is found murdered in a remote town in a derelict building. Three people come under suspicion but all of them have perfect alibis and the investigation comes to a standstill. Almost fifteen years pass and the lead inspector decides to re-investigate.",
+            "poster_path": "/mX77aiI08xYOmMW6eSf12XS742M.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                9648,
+                10749,
+                53
+            ],
+            "popularity": 4.888,
+            "release_date": "2009-11-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.174,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uM6mNuUh8mvLaMSUx55w1vZjIx6.jpg",
+            "id": 850356,
+            "title": "Gabriel's Rapture: Part I",
+            "original_title": "Gabriel's Rapture: Part I",
+            "overview": "In the fourth instalment of the Gabriel's Inferno series, Professor Gabriel Emerson has embarked on a passionate, yet clandestine affair with his former student Julia Mitchell, but when they return from their romantic holiday in Italy, their happiness is threatened. Will Gabriel succumb to Dante's fate?",
+            "poster_path": "/8i70DDfrNeVuXCIf8vcWD1HM34j.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749
+            ],
+            "popularity": 2.1858,
+            "release_date": "2021-11-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.82,
+            "vote_count": 200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oXWTWJ1KHwE6BWFdiGcBcfvfypE.jpg",
+            "id": 1216571,
+            "title": "June and John",
+            "original_title": "June and John",
+            "overview": "John leads an ordinary life with a monotonous routine. One day John runs into a woman on the subway who is as beautiful as she is mysterious named June. His encounter with her finally leads him to have a goal in his bumptious life.",
+            "poster_path": "/xRa3VBDf9RRz26SYtCTgOu9lQK2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                53
+            ],
+            "popularity": 5.0535,
+            "release_date": "2025-04-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8wKDBmmSoLRMtf42dhu7uUDKS1c.jpg",
+            "id": 128246,
+            "title": "A Werewolf Boy",
+            "original_title": "늑대소년",
+            "overview": "An unexpected phone call brings an elderly woman to her childhood country cottage, and memories of an orphan boy she knew 47 years ago come flooding back to her.",
+            "poster_path": "/r8nLI2052swGQ53p5eVVPuEzlAf.jpg",
+            "media_type": "movie",
+            "original_language": "ko",
+            "genre_ids": [
+                10749,
+                14
+            ],
+            "popularity": 2.9988,
+            "release_date": "2012-10-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4YzaLzQ0bCjsQCYfh9yBr4iEvuW.jpg",
+            "id": 497411,
+            "title": "Secret Millionaire",
+            "original_title": "Secret Millionaire",
+            "overview": "When a bored millionaire (Steve Lund) is mistaken for a parking attendant by a beautiful girl (Siobhan Williams) who is protesting against his family’s intention of closing a local park, he uses the misunderstanding to get to know her better.",
+            "poster_path": "/aYo2NBTFKySIRjT96fmIGSVmeWU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                10770
+            ],
+            "popularity": 1.8628,
+            "release_date": "2018-01-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/84ObTe22XWcDgNBFEodziAyLfYw.jpg",
+            "id": 746060,
+            "title": "Five Star Christmas",
+            "original_title": "Five Star Christmas",
+            "overview": "After moving back to her hometown, Lisa (Lenz) plots with her siblings and grandparents to help her father's bed and breakfast get a five-star review from an incognito travel critic (Webster), but ends up falling for him, not knowing he is the real critic.",
+            "poster_path": "/2YE5vNC4ClIXRWBvWEahul6jPOy.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10770,
+                10749
+            ],
+            "popularity": 1.6604,
+            "release_date": "2020-11-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.865,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kUDzb7V5XuDHpY17lk8NQykiW5w.jpg",
+            "id": 112949,
+            "title": "Safe Haven",
+            "original_title": "Safe Haven",
+            "overview": "A young woman with a mysterious past lands in Southport, North Carolina where her bond with a widower forces her to confront the dark secret that haunts her.",
+            "poster_path": "/2CbJ3HTb6SFbMeguYH52UQSHOwY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                53
+            ],
+            "popularity": 6.7759,
+            "release_date": "2013-02-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.235,
+            "vote_count": 2447
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2i0ezDoSSpkdHXQbjGpY3l2LXle.jpg",
+            "id": 550035,
+            "title": "Christmas Made to Order",
+            "original_title": "Christmas Made to Order",
+            "overview": "When architect and Christmas amateur Steven finds himself hosting his family for Christmas, he recruits holiday coordinator Gretchen to bring holiday joy to his home. Gretchen’s expert Christmas spirit brings Steven’s family together, but neither expected it to bring them closer to each other. After a great opportunity presents itself to Gretchen, she and Steven must decide what’s really important in life.",
+            "poster_path": "/wNs1pd1EBQKxJqnQaIkbpCw5gd8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10770,
+                10749
+            ],
+            "popularity": 2.1609,
+            "release_date": "2018-12-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.11,
+            "vote_count": 236
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/71TAboo7x1IQn45CmWWfRn6aDAP.jpg",
+            "id": 218425,
+            "title": "Frequencies",
+            "original_title": "Frequencies",
+            "overview": "The story of the forbidden relationship between a 'low born' boy and a 'high born' girl in an alternate reality where every person's relationships and life worth are determined by their innate 'frequencies'.",
+            "poster_path": "/oAq4JsymeYtQHK5IqExvpBQEu4m.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                878,
+                9648
+            ],
+            "popularity": 2.2964,
+            "release_date": "2013-07-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.553,
+            "vote_count": 445
+        }
+    ]
+}

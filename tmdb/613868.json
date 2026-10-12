@@ -1,0 +1,803 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/1QrEQHXX8nqquTBam25HiMrTRTH.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://www.tlavideo.com/dvds/2705639/cousins",
+        "id": 613868,
+        "imdb_id": "tt10622790",
+        "origin_country": [
+            "BR"
+        ],
+        "original_language": "pt",
+        "original_title": "Primos",
+        "overview": "Lucas is a young man who lives with his religious aunt Lourdes in a quiet country town. He helps his aunt by holding religious meetings with the ladies of the area, in the living room, playing biblical songs on the keyboard. This quiet life will end as soon as the charitable aunt communicates the arrival of another nephew, Mario, just out of jail. The clash of reality between the cousins ends up causing unusual situations, and an unexpected attraction among the boys.",
+        "popularity": 11.8715,
+        "poster_path": "/2o0pzmuQKFhuPnz4hvpfjd3BlNR.jpg",
+        "production_companies": [
+            {
+                "id": 95644,
+                "logo_path": null,
+                "name": "MACA Entretenimento",
+                "origin_country": ""
+            },
+            {
+                "id": 141138,
+                "logo_path": null,
+                "name": "TLA Releasing",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "release_date": "2019-12-10",
+        "revenue": 0,
+        "runtime": 83,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Cousins",
+        "video": false,
+        "vote_average": 7.718,
+        "vote_count": 363
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1709759,
+            "known_for_department": "Directing",
+            "name": "Thiago Cazado",
+            "original_name": "Thiago Cazado",
+            "popularity": 0.5558,
+            "profile_path": "/wxEohpTXhDPTN5rHI0ALYCCTDsQ.jpg",
+            "cast_id": 3,
+            "character": "Mário",
+            "credit_id": "5d22b35b15c6367558f50f98",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2356707,
+            "known_for_department": "Acting",
+            "name": "Paulo Sousa",
+            "original_name": "Paulo Sousa",
+            "popularity": 0.4394,
+            "profile_path": "/ytHkwyRrkcW5KY22AJ9Brg35dcq.jpg",
+            "cast_id": 1,
+            "character": "Lucas",
+            "credit_id": "5d22b3326d4c97000e775cd6",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2356708,
+            "known_for_department": "Acting",
+            "name": "Juliana Zancanaro",
+            "original_name": "Juliana Zancanaro",
+            "popularity": 0.4547,
+            "profile_path": "/nJ0lAdnl2OMBQBPzNFfa6JpjUaC.jpg",
+            "cast_id": 2,
+            "character": "Lourdes",
+            "credit_id": "5d22b3486d4c97000d7760d5",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2356709,
+            "known_for_department": "Acting",
+            "name": "Denis Camargo",
+            "original_name": "Denis Camargo",
+            "popularity": 0.3079,
+            "profile_path": null,
+            "cast_id": 8,
+            "character": "Emílio",
+            "credit_id": "5d22b53bef4889000fe9d24b",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2356710,
+            "known_for_department": "Acting",
+            "name": "Eduarda Esteves",
+            "original_name": "Eduarda Esteves",
+            "popularity": 0.3784,
+            "profile_path": null,
+            "cast_id": 9,
+            "character": "Júlia",
+            "credit_id": "5d22b5476d4c97000e77624d",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2356711,
+            "known_for_department": "Acting",
+            "name": "Carmem Lutcha",
+            "original_name": "Carmem Lutcha",
+            "popularity": 0.3604,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "Sonia",
+            "credit_id": "5d22b552ef4889000fe9d273",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2399890,
+            "known_for_department": "Acting",
+            "name": "Elenita Pessoa",
+            "original_name": "Elenita Pessoa",
+            "popularity": 0.2511,
+            "profile_path": null,
+            "cast_id": 17,
+            "character": "",
+            "credit_id": "5d698ea8713ed40011f276f1",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2399891,
+            "known_for_department": "Acting",
+            "name": "Ana Rosita",
+            "original_name": "Ana Rosita",
+            "popularity": 0.2848,
+            "profile_path": null,
+            "cast_id": 18,
+            "character": "",
+            "credit_id": "5d698eafbdd5680012bb22d2",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2399892,
+            "known_for_department": "Acting",
+            "name": "Dilza Scarpa",
+            "original_name": "Dilza Scarpa",
+            "popularity": 0.25,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "",
+            "credit_id": "5d698ebf1e648900116fc7c7",
+            "order": 8
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2356712,
+            "known_for_department": "Production",
+            "name": "Alessandro Costa",
+            "original_name": "Alessandro Costa",
+            "popularity": 0.1738,
+            "profile_path": null,
+            "credit_id": "5d22b57bef4889581ae99ae2",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1709760,
+            "known_for_department": "Directing",
+            "name": "Mauro Carvalho",
+            "original_name": "Mauro Carvalho",
+            "popularity": 0.6011,
+            "profile_path": null,
+            "credit_id": "5d22b4d1ef4889000ee9cd55",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2356716,
+            "known_for_department": "Directing",
+            "name": "Bruno Gomes",
+            "original_name": "Bruno Gomes",
+            "popularity": 0.1821,
+            "profile_path": null,
+            "credit_id": "5d22b5daef4889581ae99bbd",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1709759,
+            "known_for_department": "Directing",
+            "name": "Thiago Cazado",
+            "original_name": "Thiago Cazado",
+            "popularity": 0.5558,
+            "profile_path": "/wxEohpTXhDPTN5rHI0ALYCCTDsQ.jpg",
+            "credit_id": "5d22b4e4b4a5430012bcb418",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2356714,
+            "known_for_department": "Directing",
+            "name": "Weyllam Lima",
+            "original_name": "Weyllam Lima",
+            "popularity": 0.1711,
+            "profile_path": null,
+            "credit_id": "5d22b5b9b4a543204ebba4eb",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2356713,
+            "known_for_department": "Directing",
+            "name": "Cintia Brito",
+            "original_name": "Cintia Brito",
+            "popularity": 0.1789,
+            "profile_path": null,
+            "credit_id": "5d22b5a415c6367adcf87aa6",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1709760,
+            "known_for_department": "Directing",
+            "name": "Mauro Carvalho",
+            "original_name": "Mauro Carvalho",
+            "popularity": 0.6011,
+            "profile_path": null,
+            "credit_id": "5d22b51a94d8a820203bed26",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1709759,
+            "known_for_department": "Directing",
+            "name": "Thiago Cazado",
+            "original_name": "Thiago Cazado",
+            "popularity": 0.5558,
+            "profile_path": "/wxEohpTXhDPTN5rHI0ALYCCTDsQ.jpg",
+            "credit_id": "5d22b50aef4889000ee9ce18",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2356715,
+            "known_for_department": "Directing",
+            "name": "Wanderley Mendes",
+            "original_name": "Wanderley Mendes",
+            "popularity": 0.2722,
+            "profile_path": null,
+            "credit_id": "5d22b5c9ef48890010e9ce86",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1787599,
+            "known_for_department": "Sound",
+            "name": "Yohanna Mascarenhas",
+            "original_name": "Yohanna Mascarenhas",
+            "popularity": 0.5328,
+            "profile_path": null,
+            "credit_id": "5d22b61cef4889000fe9d472",
+            "department": "Art",
+            "job": "Art Direction"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 1862,
+            "name": "coming out"
+        },
+        {
+            "id": 1415,
+            "name": "small town"
+        },
+        {
+            "id": 4438,
+            "name": "cousin"
+        },
+        {
+            "id": 10683,
+            "name": "coming of age"
+        },
+        {
+            "id": 18396,
+            "name": "catholic"
+        },
+        {
+            "id": 158718,
+            "name": "lgbt"
+        },
+        {
+            "id": 164829,
+            "name": "cousin relationship"
+        },
+        {
+            "id": 258533,
+            "name": "gay theme"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/oQMqMLIJXZAVMplga9RhDyZInAW.jpg",
+            "id": 746419,
+            "title": "Father of the Bride",
+            "original_title": "Father of the Bride",
+            "overview": "A father comes to grips with his daughter’s upcoming wedding through the prism of multiple relationships within a big, sprawling Cuban-American family.",
+            "poster_path": "/chKMG9tzFqSkj24ejXTio156Qo0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 4.4884,
+            "release_date": "2022-07-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.33,
+            "vote_count": 206
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8YSpQBdGvuvSj9pLsY2yoUb9fZn.jpg",
+            "id": 597219,
+            "title": "The Half of It",
+            "original_title": "The Half of It",
+            "overview": "Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who needs help wooing the most popular girl in school. But their new and unlikely friendship gets tricky when Ellie discovers she has feelings for the same girl.",
+            "poster_path": "/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "popularity": 3.8233,
+            "release_date": "2020-05-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.083,
+            "vote_count": 1611
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rs0FfmZ8EA9bJYNoR3MkMMmWZBx.jpg",
+            "id": 38925,
+            "title": "The Lords of Flatbush",
+            "original_title": "The Lords of Flatbush",
+            "overview": "Set in 1958, the coming of age story follows four lower middle-class Brooklyn teenagers known as The Lords of Flatbush. The Lords chase girls, steal cars, shoot pool, get into street fights, and hang out at a local malt shop.",
+            "poster_path": "/zmXNjWFK4zlkStngN2qdVZ9Vprh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "popularity": 2.5153,
+            "release_date": "1974-05-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.802,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yV08G6ztiu95yHF8jyw42sqL1v.jpg",
+            "id": 14429,
+            "title": "Drive Me Crazy",
+            "original_title": "Drive Me Crazy",
+            "overview": "Nicole and Chase live next door to each other but are worlds apart. However, they plot a scheme to date each other in order to attract the interest and jealousy of their respective romantic prey. But in the mist of planning a gala centennial celebration, Nicole and Chase find that the one they always wanted was closer than they ever thought.",
+            "poster_path": "/qq2jbAOw5yWTaSPJIRHxvTf0bND.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 3.414,
+            "release_date": "1999-10-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.591,
+            "vote_count": 440
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7zEbI6E4dfpDBAEivZYR1tPID5w.jpg",
+            "id": 55347,
+            "title": "Beginners",
+            "original_title": "Beginners",
+            "overview": "Oliver meets the irreverent and unpredictable Anna only months after his father Hal Fields has passed away. This new love floods Oliver with memories of his father, who, following the death of his wife of 44 years, came out of the closet at age 75 to live a full, energized, and wonderfully tumultuous gay life – which included a younger boyfriend.",
+            "poster_path": "/mAquHAmoBgZ1omUNdNsnGVNX74c.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "popularity": 3.6538,
+            "release_date": "2011-06-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.84,
+            "vote_count": 1162
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2ec2qzc9izRpDDCgNNU3CNZ8wX.jpg",
+            "id": 433252,
+            "title": "Our Souls at Night",
+            "original_title": "Our Souls at Night",
+            "overview": "Addie Moore and Louis Waters, a widow and widower, have lived next to each other for years. The pair have almost no relationship, but that all changes when Addie tries to make a connection with her neighbour.",
+            "poster_path": "/e5qqikqIXqBzug3G6RCE8LFydKd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.4254,
+            "release_date": "2017-09-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.68,
+            "vote_count": 476
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w3jB1liVZioKssQ9V18mEZaTG9V.jpg",
+            "id": 10399,
+            "title": "Mansfield Park",
+            "original_title": "Mansfield Park",
+            "overview": "Fanny Price is sent to live with her wealthy relatives, the Bertrams, where she is treated poorly by most except her cousin Edmund. Her life is complicated by the arrival of the worldly Mary and Henry Crawford.",
+            "poster_path": "/4l6KP9BSU1QgSgj9cjpeS3Bfhsr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 2.6633,
+            "release_date": "1999-11-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.694,
+            "vote_count": 337
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3xJFFU3YF9WcpK2WXDF15zVcSQZ.jpg",
+            "id": 4967,
+            "title": "Keeping the Faith",
+            "original_title": "Keeping the Faith",
+            "overview": "Best friends since they were kids, Rabbi Jacob Schram and Father Brian Finn are dynamic and popular young men living and working on New York's Upper West Side. When Anna Reilly, once their childhood friend and now grown into a beautiful corporate executive, suddenly returns to the city, she reenters Jake and Brian's lives and hearts with a vengeance. Sparks fly and an unusual and complicated love triangle ensues.",
+            "poster_path": "/9NF199FTvHr9ggqdBTVbPhF1MGk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "popularity": 3.3215,
+            "release_date": "2000-04-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.101,
+            "vote_count": 674
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xy5YazEiPb3Nij6TUEP9Dq3LDhp.jpg",
+            "id": 157386,
+            "title": "The Spectacular Now",
+            "original_title": "The Spectacular Now",
+            "overview": "Sutter, a popular party animal, unexpectedly meets the introverted Aimee after waking up on a stranger's lawn. As Sutter deals with the problems in his life and Aimee plans for her future beyond school, an unexpected romance blossoms between them.",
+            "poster_path": "/obDS8pTWVWZiNAaTyfIFWYZbRsZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 5.6993,
+            "release_date": "2013-08-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.685,
+            "vote_count": 3054
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ydRoUWyhAMv1FstnWlo5EiZWEbc.jpg",
+            "id": 239571,
+            "title": "The Best of Me",
+            "original_title": "The Best of Me",
+            "overview": "A pair of former high school sweethearts reunite after many years when they return to visit their small hometown.",
+            "poster_path": "/g11FuvrR8EH5ui16A8juKoavhb3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 5.7951,
+            "release_date": "2014-10-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.472,
+            "vote_count": 2726
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fQExn029sEcpXvpKJQIQdEwKv5d.jpg",
+            "id": 56743,
+            "title": "Elena Undone",
+            "original_title": "Elena Undone",
+            "overview": "The wife of a pastor who preaches against homosexuality embarks on an affair with a female writer.",
+            "poster_path": "/m4SDHYqLbYHnq5Lb6XPZPHgBbID.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.3948,
+            "release_date": "2010-06-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sClvKM8C6a1DSPzMwkKjk8pNFDx.jpg",
+            "id": 887580,
+            "title": "You Can Live Forever",
+            "original_title": "You Can Live Forever",
+            "overview": "When Jaime, a gay teenager, is sent to live in a community of Jehovah's Witnesses in small-town Quebec, she falls madly in love with a devout Witness girl. The two embark on an intense affair with consequences that will reshape the rest of their lives.",
+            "poster_path": "/6JllNMDqHasBeqM5vFVxp1rB9Fk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 2.389,
+            "release_date": "2023-03-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 138
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x67V2BApRy3XURCh6jccMT2GbIO.jpg",
+            "id": 3109,
+            "title": "The Quiet Man",
+            "original_title": "The Quiet Man",
+            "overview": "An American man returns to the village of his birth in Ireland, where he finds love and conflict.",
+            "poster_path": "/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 4.9334,
+            "release_date": "1952-07-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 619
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg",
+            "id": 4951,
+            "title": "10 Things I Hate About You",
+            "original_title": "10 Things I Hate About You",
+            "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
+            "poster_path": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                10749,
+                18
+            ],
+            "popularity": 15.2428,
+            "release_date": "1999-03-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.597,
+            "vote_count": 9049
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u5To9HnmkbVym4cE8LzAORP8hEm.jpg",
+            "id": 14662,
+            "title": "Slums of Beverly Hills",
+            "original_title": "Slums of Beverly Hills",
+            "overview": "In 1976, a teenage girl struggles to cope while living with her neurotic lower-middle-class family of nomads on the outskirts of Beverly Hills.",
+            "poster_path": "/bTY6I0Mju4vTRHGoTZrNtxtAlAO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 2.4569,
+            "release_date": "1998-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.319,
+            "vote_count": 257
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ci7lHSttckIgO6TlaT4X1zy8CDi.jpg",
+            "id": 392,
+            "title": "Chocolat",
+            "original_title": "Chocolat",
+            "overview": "In the winter of 1959, a single mother and her young daughter arrive in a rural French town, where they open an unusual chocolate shop that disrupts the moral fiber of the strictly Catholic townsfolk and mayor.",
+            "poster_path": "/lnwPvyj8UR7MetG2pQ92453IIoR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 7.4406,
+            "release_date": "2000-12-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.971,
+            "vote_count": 3546
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nJSPkq5dtASykhiYIZhpCX9Zgeq.jpg",
+            "id": 449176,
+            "title": "Love, Simon",
+            "original_title": "Love, Simon",
+            "overview": "Everyone deserves a great love story, but for 17-year-old Simon Spier, it's a little more complicated. He hasn't told his family or friends that he's gay, and he doesn't know the identity of the anonymous classmate that he's fallen for online.",
+            "poster_path": "/snIsqVPmlu4LPjvToHpDotxa7Eh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "popularity": 11.1589,
+            "release_date": "2018-02-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.968,
+            "vote_count": 6299
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vNYTCdGnjYEaSaw82YIkzqcI4QT.jpg",
+            "id": 80271,
+            "title": "LOL",
+            "original_title": "LOL",
+            "overview": "In a world connected by YouTube, iTunes, and Facebook, Lola and her friends navigate the peer pressures of high school romance and friendship while dodging their sometimes overbearing and confused parents. When Lola's mom, Anne, \"accidentally\" reads her teenage daughter's racy journal, she realizes just how wide their communication gap has grown.",
+            "poster_path": "/AlnBUoKzzPnczrzzxuh0SYwDa3Z.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "popularity": 3.4516,
+            "release_date": "2012-02-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.098,
+            "vote_count": 2752
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fkn5KBUUKxbG7MjOs9poAOAik40.jpg",
+            "id": 718032,
+            "title": "Licorice Pizza",
+            "original_title": "Licorice Pizza",
+            "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+            "poster_path": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "popularity": 8.9924,
+            "release_date": "2021-11-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.945,
+            "vote_count": 2718
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8odZHjwMWWUg2gntUjndLIb8sT0.jpg",
+            "id": 17474,
+            "title": "The Man in the Moon",
+            "original_title": "The Man in the Moon",
+            "overview": "Maureen Trant and her younger sibling Dani share a strong connection, but local boy Court Foster threatens to throw their bond off balance. Dani and Court meet first and have a flirtatious rapport -- but when he meets Maureen, he falls hard and they begin a passionate affair. The new couple try to keep their love hidden from Dani, but she soon learns the truth, disavowing her sister. But a heartbreaking accident later reunites the girls.",
+            "poster_path": "/57r0TXlqV5GIn4h0Htgh81OZou9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 4.5784,
+            "release_date": "1991-09-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.418,
+            "vote_count": 374
+        }
+    ]
+}

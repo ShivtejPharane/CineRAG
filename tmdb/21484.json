@@ -1,0 +1,1703 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
+        "belongs_to_collection": null,
+        "budget": 2400000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 21484,
+        "imdb_id": "tt0082933",
+        "origin_country": [
+            "FR"
+        ],
+        "original_language": "en",
+        "original_title": "Possession",
+        "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
+        "popularity": 15.6652,
+        "poster_path": "/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
+        "production_companies": [
+            {
+                "id": 9,
+                "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+                "name": "Gaumont",
+                "origin_country": "FR"
+            },
+            {
+                "id": 1060,
+                "logo_path": null,
+                "name": "Oliane Productions",
+                "origin_country": "FR"
+            },
+            {
+                "id": 1497,
+                "logo_path": null,
+                "name": "Marianne Productions",
+                "origin_country": "FR"
+            },
+            {
+                "id": 199200,
+                "logo_path": null,
+                "name": "Soma Film Produktion",
+                "origin_country": "DE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "release_date": "1981-05-27",
+        "revenue": 1200000,
+        "runtime": 124,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Inhuman ecstasy fulfilled.",
+        "title": "Possession",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 1377
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 6553,
+            "known_for_department": "Acting",
+            "name": "Isabelle Adjani",
+            "original_name": "Isabelle Adjani",
+            "popularity": 3.6622,
+            "profile_path": "/ad0GTy4ivzDhep1R0CgiR0O0g2v.jpg",
+            "cast_id": 1,
+            "character": "Anna / Helen",
+            "credit_id": "52fe441bc3a368484e00fd73",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4783,
+            "known_for_department": "Acting",
+            "name": "Sam Neill",
+            "original_name": "Sam Neill",
+            "popularity": 7.0387,
+            "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg",
+            "cast_id": 2,
+            "character": "Mark",
+            "credit_id": "52fe441bc3a368484e00fd77",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 20017,
+            "known_for_department": "Acting",
+            "name": "Margit Carstensen",
+            "original_name": "Margit Carstensen",
+            "popularity": 0.9154,
+            "profile_path": "/hSCBZ1eoJpJaDg2pBRWxHmqSeKQ.jpg",
+            "cast_id": 3,
+            "character": "Margit Gluckmeister",
+            "credit_id": "52fe441bc3a368484e00fd7b",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 10263,
+            "known_for_department": "Acting",
+            "name": "Heinz Bennent",
+            "original_name": "Heinz Bennent",
+            "popularity": 0.8396,
+            "profile_path": "/4T3avFG7FItSWzAcvyUzjjGCHgl.jpg",
+            "cast_id": 4,
+            "character": "Heinrich",
+            "credit_id": "52fe441bc3a368484e00fd7f",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 94324,
+            "known_for_department": "Acting",
+            "name": "Johanna Hofer",
+            "original_name": "Johanna Hofer",
+            "popularity": 0.5818,
+            "profile_path": "/pIUQbxkpBl69Ix1YtOGxLvA1uB9.jpg",
+            "cast_id": 9,
+            "character": "Heinrich's Mother",
+            "credit_id": "52fe441bc3a368484e00fd95",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2272,
+            "known_for_department": "Acting",
+            "name": "Carl Duering",
+            "original_name": "Carl Duering",
+            "popularity": 0.7831,
+            "profile_path": "/idrRJuQErZ2cj8F8II1LikeTgb1.jpg",
+            "cast_id": 10,
+            "character": "Private Detective",
+            "credit_id": "52fe441bc3a368484e00fd99",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 987260,
+            "known_for_department": "Acting",
+            "name": "Shaun Lawton",
+            "original_name": "Shaun Lawton",
+            "popularity": 0.6943,
+            "profile_path": "/jzt29nds729YhN4UDabmEo70Rcp.jpg",
+            "cast_id": 11,
+            "character": "Zimmermann",
+            "credit_id": "52fe441bc3a368484e00fd9d",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1063549,
+            "known_for_department": "Acting",
+            "name": "Michael Hogben",
+            "original_name": "Michael Hogben",
+            "popularity": 0.3987,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "Bob",
+            "credit_id": "52fe441bc3a368484e00fda1",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 24141,
+            "known_for_department": "Acting",
+            "name": "Maximilian Rüthlein",
+            "original_name": "Maximilian Rüthlein",
+            "popularity": 0.3172,
+            "profile_path": null,
+            "cast_id": 13,
+            "character": "Man with Pink Socks",
+            "credit_id": "52fe441bc3a368484e00fda5",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1830229,
+            "known_for_department": "Acting",
+            "name": "Thomas Frey",
+            "original_name": "Thomas Frey",
+            "popularity": 0.1991,
+            "profile_path": null,
+            "cast_id": 25,
+            "character": "Pink Sock's Acolyte",
+            "credit_id": "609ee7e5d400f300567adcf7",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 68368,
+            "known_for_department": "Acting",
+            "name": "Leslie Malton",
+            "original_name": "Leslie Malton",
+            "popularity": 0.6926,
+            "profile_path": "/sC8tgPm1jF73u2eeK2ZiZ9uI3MA.jpg",
+            "cast_id": 14,
+            "character": "Sara",
+            "credit_id": "52fe441bc3a368484e00fda9",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788599,
+            "known_for_department": "Acting",
+            "name": "Gerd Neubert",
+            "original_name": "Gerd Neubert",
+            "popularity": 0.1395,
+            "profile_path": null,
+            "cast_id": 51,
+            "character": "Subway Drunk",
+            "credit_id": "6905e3ae3380a11e984722bc",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 584144,
+            "known_for_department": "Acting",
+            "name": "Ilse Bahrs",
+            "original_name": "Ilse Bahrs",
+            "popularity": 0.3251,
+            "profile_path": null,
+            "cast_id": 52,
+            "character": "",
+            "credit_id": "6905e453ad143c3dd0dd7eac",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4361620,
+            "known_for_department": "Acting",
+            "name": "Karin Mumm",
+            "original_name": "Karin Mumm",
+            "popularity": 0.1562,
+            "profile_path": null,
+            "cast_id": 53,
+            "character": "",
+            "credit_id": "6905e465438df80039f92700",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1446277,
+            "known_for_department": "Acting",
+            "name": "Herbert Chwoika",
+            "original_name": "Herbert Chwoika",
+            "popularity": 0.3481,
+            "profile_path": null,
+            "cast_id": 54,
+            "character": "",
+            "credit_id": "6905e484022e519fe12fe334",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 13540,
+            "known_for_department": "Acting",
+            "name": "Barbara Stanek",
+            "original_name": "Barbara Stanek",
+            "popularity": 0.4155,
+            "profile_path": null,
+            "cast_id": 55,
+            "character": "",
+            "credit_id": "6905e4bd64117fec7b080f54",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1063719,
+            "known_for_department": "Acting",
+            "name": "Ilse Trautschold",
+            "original_name": "Ilse Trautschold",
+            "popularity": 0.4637,
+            "profile_path": "/aKelKumEVVHZP2vbBxHLOoJXPuK.jpg",
+            "cast_id": 56,
+            "character": "",
+            "credit_id": "6905e4d9b33884716f4636ab",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 37531,
+            "known_for_department": "Acting",
+            "name": "Harry Riebauer",
+            "original_name": "Harry Riebauer",
+            "popularity": 0.6028,
+            "profile_path": "/zpp3jvg0TmRCExsupDhw7JTSIns.jpg",
+            "cast_id": 26,
+            "character": "Man at the Conference",
+            "credit_id": "609ee80e0f0da50029b82e54",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 556090,
+            "known_for_department": "Acting",
+            "name": "Dragomir Stanojević",
+            "original_name": "Dragomir Stanojević",
+            "popularity": 0.5274,
+            "profile_path": "/AnkYSAwE6kDsipSdVnykPWiuI7d.jpg",
+            "cast_id": 27,
+            "character": "Taxi Driver",
+            "credit_id": "609ee82df5c8240029920af3",
+            "order": 18
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 32082,
+            "known_for_department": "Directing",
+            "name": "Andrzej Żuławski",
+            "original_name": "Andrzej Żuławski",
+            "popularity": 1.2196,
+            "profile_path": "/A9OzmL6AJmqGfqEyGo1pvG3o8Fo.jpg",
+            "credit_id": "52fe441bc3a368484e00fd91",
+            "department": "Writing",
+            "job": "Adaptation"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2994111,
+            "known_for_department": "Art",
+            "name": "Peter Alteneder",
+            "original_name": "Peter Alteneder",
+            "popularity": 0.2086,
+            "profile_path": null,
+            "credit_id": "609ee906a275020059e85b7c",
+            "department": "Art",
+            "job": "Props"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2994110,
+            "known_for_department": "Directing",
+            "name": "Knut Winkler",
+            "original_name": "Knut Winkler",
+            "popularity": 0.243,
+            "profile_path": null,
+            "credit_id": "609ee8ee839018006d4cf25c",
+            "department": "Production",
+            "job": "Unit Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2479930,
+            "known_for_department": "Art",
+            "name": "Mario Stock",
+            "original_name": "Mario Stock",
+            "popularity": 0.2704,
+            "profile_path": null,
+            "credit_id": "609ee93bd400f300567ae0b9",
+            "department": "Art",
+            "job": "Props"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 23560,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Ingrid Zoré",
+            "original_name": "Ingrid Zoré",
+            "popularity": 0.3154,
+            "profile_path": null,
+            "credit_id": "609ee86ce18e3f004052b98b",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1286778,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Ronaldo Abreu",
+            "original_name": "Ronaldo Abreu",
+            "popularity": 0.3052,
+            "profile_path": null,
+            "credit_id": "609ee882e18e3f0058dc4b29",
+            "department": "Costume & Make-Up",
+            "job": "Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1932156,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Laurence Azouvy",
+            "original_name": "Laurence Azouvy",
+            "popularity": 0.4297,
+            "profile_path": null,
+            "credit_id": "609ee898b234b9002942c4b5",
+            "department": "Costume & Make-Up",
+            "job": "Assistant Makeup Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1178348,
+            "known_for_department": "Directing",
+            "name": "Jean-José Richer",
+            "original_name": "Jean-José Richer",
+            "popularity": 0.4264,
+            "profile_path": null,
+            "credit_id": "609ee8cfd400f300567adfdc",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 20504,
+            "known_for_department": "Crew",
+            "name": "Carlo Rambaldi",
+            "original_name": "Carlo Rambaldi",
+            "popularity": 0.6521,
+            "profile_path": "/d7OSTpa33e2e7dlIsH9dm1xVDTQ.jpg",
+            "credit_id": "609ee9b85b370d00418b9d0e",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 556090,
+            "known_for_department": "Acting",
+            "name": "Dragomir Stanojević",
+            "original_name": "Dragomir Stanojević",
+            "popularity": 0.5274,
+            "profile_path": "/AnkYSAwE6kDsipSdVnykPWiuI7d.jpg",
+            "credit_id": "609eea01014325002990780c",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1898773,
+            "known_for_department": "Crew",
+            "name": "Willi Neuner",
+            "original_name": "Willi Neuner",
+            "popularity": 0.4904,
+            "profile_path": null,
+            "credit_id": "609ee9cee18e3f004052bc53",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1536659,
+            "known_for_department": "Art",
+            "name": "Barbara Kloth",
+            "original_name": "Barbara Kloth",
+            "popularity": 0.1511,
+            "profile_path": null,
+            "credit_id": "609ee928a275020040db1d26",
+            "department": "Art",
+            "job": "Assistant Art Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3571,
+            "known_for_department": "Sound",
+            "name": "Jacques Maumont",
+            "original_name": "Jacques Maumont",
+            "popularity": 0.3796,
+            "profile_path": null,
+            "credit_id": "609ee971e635710041d7e0a2",
+            "department": "Sound",
+            "job": "Sound Mixer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1838338,
+            "known_for_department": "Acting",
+            "name": "Miomir Radević 'Pigi'",
+            "original_name": "Miomir Radević 'Pigi'",
+            "popularity": 0.3894,
+            "profile_path": null,
+            "credit_id": "609ee9f122f5d7002908491c",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 39539,
+            "known_for_department": "Sound",
+            "name": "Karl-Heinz Laabs",
+            "original_name": "Karl-Heinz Laabs",
+            "popularity": 0.32,
+            "profile_path": null,
+            "credit_id": "609ee95e0f36550057411fb5",
+            "department": "Sound",
+            "job": "Sound"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2806092,
+            "known_for_department": "Crew",
+            "name": "Charles-Henri Assola",
+            "original_name": "Charles-Henri Assola",
+            "popularity": 0.3676,
+            "profile_path": null,
+            "credit_id": "609ee98a6cf3d5002ac2341f",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1905243,
+            "known_for_department": "Art",
+            "name": "Daniel Braunschweig",
+            "original_name": "Daniel Braunschweig",
+            "popularity": 0.2938,
+            "profile_path": null,
+            "credit_id": "609ee9a1a275020040db1db9",
+            "department": "Crew",
+            "job": "Special Effects"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3140575,
+            "known_for_department": "Sound",
+            "name": "Norman Engel",
+            "original_name": "Norman Engel",
+            "popularity": 0.2828,
+            "profile_path": null,
+            "credit_id": "60db1f2eb339030046bb56a4",
+            "department": "Sound",
+            "job": "Sound"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1063580,
+            "known_for_department": "Writing",
+            "name": "Frederic Tuten",
+            "original_name": "Frederic Tuten",
+            "popularity": 0.3695,
+            "profile_path": null,
+            "credit_id": "60db1f088805510074d0e9d5",
+            "department": "Writing",
+            "job": "Dialogue"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3154290,
+            "known_for_department": "Directing",
+            "name": "Eva-Maria Schönecker",
+            "original_name": "Eva-Maria Schönecker",
+            "popularity": 0.3323,
+            "profile_path": null,
+            "credit_id": "62759ea1a885870068bcb8ea",
+            "department": "Directing",
+            "job": "Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2025221,
+            "known_for_department": "Directing",
+            "name": "Sabine Prenczina",
+            "original_name": "Sabine Prenczina",
+            "popularity": 0.2842,
+            "profile_path": null,
+            "credit_id": "62759e6d03bf840066c6f343",
+            "department": "Editing",
+            "job": "Assistant Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3160190,
+            "known_for_department": "Art",
+            "name": "Harald Muchametow",
+            "original_name": "Harald Muchametow",
+            "popularity": 0.2177,
+            "profile_path": null,
+            "credit_id": "62759e03a802360050003258",
+            "department": "Production",
+            "job": "Unit Manager"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2663099,
+            "known_for_department": "Camera",
+            "name": "Andrzej J. Jaroszewicz",
+            "original_name": "Andrzej J. Jaroszewicz",
+            "popularity": 0.3365,
+            "profile_path": "/voRyIR0AgMoOWalK2oa0SEaUfmQ.jpg",
+            "credit_id": "650b041faede591ab00faadb",
+            "department": "Camera",
+            "job": "Camera Operator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 20504,
+            "known_for_department": "Crew",
+            "name": "Carlo Rambaldi",
+            "original_name": "Carlo Rambaldi",
+            "popularity": 0.6521,
+            "profile_path": "/d7OSTpa33e2e7dlIsH9dm1xVDTQ.jpg",
+            "credit_id": "6178a7916e0d7200635b3fff",
+            "department": "Visual Effects",
+            "job": "Creature Design"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 66272,
+            "known_for_department": "Editing",
+            "name": "Marie-Sophie Dubus",
+            "original_name": "Marie-Sophie Dubus",
+            "popularity": 0.486,
+            "profile_path": null,
+            "credit_id": "5843941c9251416a80004f33",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 22135,
+            "known_for_department": "Art",
+            "name": "Holger Gross",
+            "original_name": "Holger Gross",
+            "popularity": 0.3752,
+            "profile_path": null,
+            "credit_id": "58439438c3a3684813004d24",
+            "department": "Art",
+            "job": "Art Direction"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1536668,
+            "known_for_department": "Editing",
+            "name": "Suzanne Lang-Willar",
+            "original_name": "Suzanne Lang-Willar",
+            "popularity": 0.2969,
+            "profile_path": null,
+            "credit_id": "5843942cc3a3684664004f18",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 34603,
+            "known_for_department": "Camera",
+            "name": "Bruno Nuytten",
+            "original_name": "Bruno Nuytten",
+            "popularity": 0.5831,
+            "profile_path": "/rHyBG8jlldMYAInMO4l9XmNFvtL.jpg",
+            "credit_id": "5843940dc3a3684664004f00",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 23727,
+            "known_for_department": "Production",
+            "name": "Marie-Laure Reyre",
+            "original_name": "Marie-Laure Reyre",
+            "popularity": 0.5122,
+            "profile_path": null,
+            "credit_id": "584393f49251416ae8004d2b",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2802,
+            "known_for_department": "Sound",
+            "name": "Andrzej Korzyński",
+            "original_name": "Andrzej Korzyński",
+            "popularity": 0.3863,
+            "profile_path": "/dyWkD8F21NuQMQWB8nmHag5wc5Z.jpg",
+            "credit_id": "58439402c3a3683e16004cda",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 32082,
+            "known_for_department": "Directing",
+            "name": "Andrzej Żuławski",
+            "original_name": "Andrzej Żuławski",
+            "popularity": 1.2196,
+            "profile_path": "/A9OzmL6AJmqGfqEyGo1pvG3o8Fo.jpg",
+            "credit_id": "58a61a079251413466000317",
+            "department": "Writing",
+            "job": "Screenplay"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1063580,
+            "known_for_department": "Writing",
+            "name": "Frederic Tuten",
+            "original_name": "Frederic Tuten",
+            "popularity": 0.3695,
+            "profile_path": null,
+            "credit_id": "58a619e5925141346b000302",
+            "department": "Writing",
+            "job": "Adaptation"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 32082,
+            "known_for_department": "Directing",
+            "name": "Andrzej Żuławski",
+            "original_name": "Andrzej Żuławski",
+            "popularity": 1.2196,
+            "profile_path": "/A9OzmL6AJmqGfqEyGo1pvG3o8Fo.jpg",
+            "credit_id": "58a61a39c3a368168c000362",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788620,
+            "known_for_department": "Production",
+            "name": "Klaus-Michael Kuehn",
+            "original_name": "Klaus-Michael Kuehn",
+            "popularity": 0.1701,
+            "profile_path": null,
+            "credit_id": "6905e63eb33884716f4636ba",
+            "department": "Production",
+            "job": "Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788618,
+            "known_for_department": "Production",
+            "name": "Axel Behr",
+            "original_name": "Axel Behr",
+            "popularity": 0.1882,
+            "profile_path": null,
+            "credit_id": "6905e685091934fd37080e9c",
+            "department": "Production",
+            "job": "Unit Manager"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3938312,
+            "known_for_department": "Production",
+            "name": "Heinz-Jürgen Schmidt",
+            "original_name": "Heinz-Jürgen Schmidt",
+            "popularity": 0.1977,
+            "profile_path": null,
+            "credit_id": "6905e6c5c9e03067f74636d4",
+            "department": "Production",
+            "job": "Unit Manager"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4046673,
+            "known_for_department": "Art",
+            "name": "Wolfgang Kallnischkies",
+            "original_name": "Wolfgang Kallnischkies",
+            "popularity": 0.1676,
+            "profile_path": null,
+            "credit_id": "6905e6f0f377f3ef0047230a",
+            "department": "Art",
+            "job": "Props"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788627,
+            "known_for_department": "Crew",
+            "name": "Herbert Wiczorek",
+            "original_name": "Herbert Wiczorek",
+            "popularity": 0.2018,
+            "profile_path": null,
+            "credit_id": "6905e73d2a02668215463681",
+            "department": "Crew",
+            "job": "Stunts"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5370629,
+            "known_for_department": "Lighting",
+            "name": "Dieter Ahlich",
+            "original_name": "Dieter Ahlich",
+            "popularity": 0.2106,
+            "profile_path": null,
+            "credit_id": "6905e767da18a21add4636b8",
+            "department": "Camera",
+            "job": "Grip"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5370629,
+            "known_for_department": "Lighting",
+            "name": "Dieter Ahlich",
+            "original_name": "Dieter Ahlich",
+            "popularity": 0.2106,
+            "profile_path": null,
+            "credit_id": "6905e76d59571f4881f92860",
+            "department": "Lighting",
+            "job": "Electrician"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4388663,
+            "known_for_department": "Lighting",
+            "name": "Manfred Bogdahn",
+            "original_name": "Manfred Bogdahn",
+            "popularity": 0.1672,
+            "profile_path": null,
+            "credit_id": "6905e781ce5dbdaec6597d32",
+            "department": "Camera",
+            "job": "Grip"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4388663,
+            "known_for_department": "Lighting",
+            "name": "Manfred Bogdahn",
+            "original_name": "Manfred Bogdahn",
+            "popularity": 0.1672,
+            "profile_path": null,
+            "credit_id": "6905e787ee49d3c5c8f928df",
+            "department": "Lighting",
+            "job": "Electrician"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2343934,
+            "known_for_department": "Camera",
+            "name": "Ulrich Clauss",
+            "original_name": "Ulrich Clauss",
+            "popularity": 0.1925,
+            "profile_path": null,
+            "credit_id": "6905e79b1329dee76a597c8f",
+            "department": "Camera",
+            "job": "Still Photographer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2994128,
+            "known_for_department": "Lighting",
+            "name": "Dieter Dentzer",
+            "original_name": "Dieter Dentzer",
+            "popularity": 0.1953,
+            "profile_path": null,
+            "credit_id": "6905e7aff46f24cd81f928c0",
+            "department": "Camera",
+            "job": "Grip"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2994128,
+            "known_for_department": "Lighting",
+            "name": "Dieter Dentzer",
+            "original_name": "Dieter Dentzer",
+            "popularity": 0.1953,
+            "profile_path": null,
+            "credit_id": "6905e7b571ddcd6db3dd7e50",
+            "department": "Lighting",
+            "job": "Electrician"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2825283,
+            "known_for_department": "Camera",
+            "name": "Peter Kalisch",
+            "original_name": "Peter Kalisch",
+            "popularity": 0.1887,
+            "profile_path": null,
+            "credit_id": "6905e7ea07c9d49a6d472402",
+            "department": "Camera",
+            "job": "Assistant Camera"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2903771,
+            "known_for_department": "Camera",
+            "name": "Idislawe Kielar",
+            "original_name": "Idislawe Kielar",
+            "popularity": 0.2861,
+            "profile_path": null,
+            "credit_id": "6905e7f4974ad7a5e5080fd8",
+            "department": "Camera",
+            "job": "Assistant Camera"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788633,
+            "known_for_department": "Camera",
+            "name": "Pascal Marti",
+            "original_name": "Pascal Marti",
+            "popularity": 0.1612,
+            "profile_path": null,
+            "credit_id": "6905e81f4f17566a552fe402",
+            "department": "Camera",
+            "job": "Assistant Camera"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788634,
+            "known_for_department": "Camera",
+            "name": "Hans-Joachim Michalek",
+            "original_name": "Hans-Joachim Michalek",
+            "popularity": 0.1716,
+            "profile_path": null,
+            "credit_id": "6905e838ea482b28582fe2dc",
+            "department": "Camera",
+            "job": "Grip"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788634,
+            "known_for_department": "Camera",
+            "name": "Hans-Joachim Michalek",
+            "original_name": "Hans-Joachim Michalek",
+            "popularity": 0.1716,
+            "profile_path": null,
+            "credit_id": "6905e8424d4d7dc9aa597c4c",
+            "department": "Lighting",
+            "job": "Electrician"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2692245,
+            "known_for_department": "Camera",
+            "name": "Ernst Simoneit",
+            "original_name": "Ernst Simoneit",
+            "popularity": 0.1866,
+            "profile_path": null,
+            "credit_id": "6905e8584d4d7dc9aa597c4f",
+            "department": "Camera",
+            "job": "Grip"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2692245,
+            "known_for_department": "Camera",
+            "name": "Ernst Simoneit",
+            "original_name": "Ernst Simoneit",
+            "popularity": 0.1866,
+            "profile_path": null,
+            "credit_id": "6905e85d4d4d7dc9aa597c52",
+            "department": "Lighting",
+            "job": "Electrician"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1553168,
+            "known_for_department": "Lighting",
+            "name": "Pat Miller",
+            "original_name": "Pat Miller",
+            "popularity": 0.2709,
+            "profile_path": null,
+            "credit_id": "6905e8804d4d7dc9aa597c55",
+            "department": "Lighting",
+            "job": "Electrician"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788639,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Barbara Lutz",
+            "original_name": "Barbara Lutz",
+            "popularity": 0.1496,
+            "profile_path": null,
+            "credit_id": "6905e92908f8da6b684c7f9b",
+            "department": "Costume & Make-Up",
+            "job": "Dresser"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4445459,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Helmut Preuss",
+            "original_name": "Helmut Preuss",
+            "popularity": 0.2572,
+            "profile_path": null,
+            "credit_id": "6905e93f67bc2b2051463692",
+            "department": "Costume & Make-Up",
+            "job": "Dresser"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788646,
+            "known_for_department": "Editing",
+            "name": "Jutta Omura",
+            "original_name": "Jutta Omura",
+            "popularity": 0.1447,
+            "profile_path": null,
+            "credit_id": "6905e97181e34e65bae12878",
+            "department": "Editing",
+            "job": "Assistant Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788649,
+            "known_for_department": "Directing",
+            "name": "Christiane Helle",
+            "original_name": "Christiane Helle",
+            "popularity": 0.0971,
+            "profile_path": null,
+            "credit_id": "6905e9b4d466743a1ce1251d",
+            "department": "Directing",
+            "job": "Continuity"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788650,
+            "known_for_department": "Production",
+            "name": "Henry Dutrannoy",
+            "original_name": "Henry Dutrannoy",
+            "popularity": 0.2289,
+            "profile_path": null,
+            "credit_id": "6905e9cdddefc508ce597b77",
+            "department": "Production",
+            "job": "Accountant"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5788651,
+            "known_for_department": "Production",
+            "name": "Jürgen Holzheider",
+            "original_name": "Jürgen Holzheider",
+            "popularity": 0.1837,
+            "profile_path": null,
+            "credit_id": "6905ea1214c2d273e24c810d",
+            "department": "Production",
+            "job": "Accountant"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2057973,
+            "known_for_department": "Crew",
+            "name": "Ernestine Kahn",
+            "original_name": "Ernestine Kahn",
+            "popularity": 0.5682,
+            "profile_path": null,
+            "credit_id": "6905ea1b4d4d7dc9aa597cf9",
+            "department": "Crew",
+            "job": "Dialogue Coach"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 596,
+            "name": "adultery"
+        },
+        {
+            "id": 220,
+            "name": "berlin, germany"
+        },
+        {
+            "id": 1299,
+            "name": "monster"
+        },
+        {
+            "id": 6149,
+            "name": "police"
+        },
+        {
+            "id": 5809,
+            "name": "marriage crisis"
+        },
+        {
+            "id": 74,
+            "name": "germany"
+        },
+        {
+            "id": 292,
+            "name": "berlin wall"
+        },
+        {
+            "id": 1523,
+            "name": "obsession"
+        },
+        {
+            "id": 5340,
+            "name": "investigation"
+        },
+        {
+            "id": 9712,
+            "name": "possession"
+        },
+        {
+            "id": 10292,
+            "name": "gore"
+        },
+        {
+            "id": 5083,
+            "name": "hysteria"
+        },
+        {
+            "id": 10508,
+            "name": "teacher"
+        },
+        {
+            "id": 9826,
+            "name": "murder"
+        },
+        {
+            "id": 10303,
+            "name": "domestic abuse"
+        },
+        {
+            "id": 10714,
+            "name": "serial killer"
+        },
+        {
+            "id": 11925,
+            "name": "domestic violence"
+        },
+        {
+            "id": 14735,
+            "name": "motorcycle"
+        },
+        {
+            "id": 14991,
+            "name": "tentacle"
+        },
+        {
+            "id": 17986,
+            "name": "miscarriage"
+        },
+        {
+            "id": 18013,
+            "name": "separation"
+        },
+        {
+            "id": 34094,
+            "name": "extramarital affair"
+        },
+        {
+            "id": 41329,
+            "name": "mental illness"
+        },
+        {
+            "id": 155790,
+            "name": "private detective"
+        },
+        {
+            "id": 155811,
+            "name": "spiral staircase"
+        },
+        {
+            "id": 161891,
+            "name": "doppelgänger"
+        },
+        {
+            "id": 163129,
+            "name": "dual role"
+        },
+        {
+            "id": 171848,
+            "name": "marital separation"
+        },
+        {
+            "id": 189921,
+            "name": "video nasty"
+        },
+        {
+            "id": 191815,
+            "name": "breakdown"
+        },
+        {
+            "id": 237105,
+            "name": "downward spiral"
+        },
+        {
+            "id": 312949,
+            "name": "impending divorce"
+        },
+        {
+            "id": 323809,
+            "name": "depressing"
+        },
+        {
+            "id": 325819,
+            "name": "frustrated"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/7MorkyWQXVOi2XKYci6pIGbjb2x.jpg",
+            "id": 1691,
+            "title": "Hostel: Part II",
+            "original_title": "Hostel: Part II",
+            "overview": "Three American college students studying abroad are lured to a Slovakian hostel, and discover the grim reality behind it.",
+            "poster_path": "/qB20aiY8Ah3pQikkBxm3j7jQVc8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 6.7592,
+            "release_date": "2007-06-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.858,
+            "vote_count": 2248
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tcV7eCdGFN3RzB2ByWRrH5Xf7cU.jpg",
+            "id": 10185,
+            "title": "The Midnight Meat Train",
+            "original_title": "The Midnight Meat Train",
+            "overview": "A photographer's obsessive pursuit of dark subject matter leads him into the path of a serial killer who stalks late night commuters, ultimately butchering them in the most gruesome ways.",
+            "poster_path": "/x5YbfyUA8huK0shr008xwzNVJ5Y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                14
+            ],
+            "popularity": 4.8996,
+            "release_date": "2008-08-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.182,
+            "vote_count": 1286
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/I4ofwq3XfmwXAETUs5pjubcMJ0.jpg",
+            "id": 1029281,
+            "title": "Strange Darling",
+            "original_title": "Strange Darling",
+            "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.97,
+            "release_date": "2024-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/28QWARI48SUXShKXGaLatZkeCO7.jpg",
+            "id": 103620,
+            "title": "Maniac",
+            "original_title": "Maniac",
+            "overview": "As he helps a young artist with her upcoming exhibition, the owner of a mannequin shop's deadly, suppressed desires come to the surface.",
+            "poster_path": "/nbDkRvhmbYnHDXkoq0sF0PLeo8j.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.6046,
+            "release_date": "2012-12-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.043,
+            "vote_count": 1039
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+            "id": 1330421,
+            "title": "Bone Lake",
+            "original_title": "Bone Lake",
+            "overview": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+            "poster_path": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 10.9358,
+            "release_date": "2025-10-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.891,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+            "id": 913290,
+            "title": "Barbarian",
+            "original_title": "Barbarian",
+            "overview": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "poster_path": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 12.6579,
+            "release_date": "2022-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.874,
+            "vote_count": 3384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/feiECea2yhyiNRAfvqXzbQFgR1W.jpg",
+            "id": 573,
+            "title": "Frenzy",
+            "original_title": "Frenzy",
+            "overview": "London is terrorized by a vicious sex killer known as The Necktie Murderer. Following the brutal slaying of his ex-wife, down-on-his-luck Richard Blaney is suspected by the police of being the killer. He goes on the run, determined to prove his innocence.",
+            "poster_path": "/4SFvqrlSigAt9tnhXFSMyKeJWQk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                53,
+                27
+            ],
+            "popularity": 3.6655,
+            "release_date": "1972-05-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.096,
+            "vote_count": 1036
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4xrt2SCSXmKiAuzCuYQVGkssvWS.jpg",
+            "id": 101669,
+            "title": "Mother's Day",
+            "original_title": "Mother's Day",
+            "overview": "Crazed members of a sadistic family return to their childhood home to terrorize the new owners.",
+            "poster_path": "/wjKmtce2WFoOyoiYGVx0nUSzGxT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "popularity": 3.1609,
+            "release_date": "2010-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.485,
+            "vote_count": 474
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o1jzMqBiziQILkPVEONuYS4QluX.jpg",
+            "id": 37865,
+            "title": "Buried Alive",
+            "original_title": "Buried Alive",
+            "overview": "A married woman and her lover plot to kill her husband to make off with the insurance money. However, their attempt to murder him using poisonous fish toxins backfires in surprising ways.",
+            "poster_path": "/75X5BCuZIsfZYxWZfhi02v4MudO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                27,
+                10770
+            ],
+            "popularity": 3.0955,
+            "release_date": "1990-05-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.724,
+            "vote_count": 185
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/M4flX60WzUuKFruXTp3OhLxhnv.jpg",
+            "id": 13515,
+            "title": "Mirrors",
+            "original_title": "Mirrors",
+            "overview": "An ex-cop and his family are the target of an evil force that is using mirrors as a gateway into their home.",
+            "poster_path": "/bt5a4ThyLpLTsia2e2ZTLzQjXO0.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 6.5047,
+            "release_date": "2008-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.302,
+            "vote_count": 2089
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+            "id": 1426297,
+            "title": "Play Dead",
+            "original_title": "Play Dead",
+            "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+            "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.9648,
+            "release_date": "2025-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 72
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m1GLbZXi5pmLE3nvKbnB7GGl5jo.jpg",
+            "id": 1089123,
+            "title": "Daddy's Head",
+            "original_title": "Daddy's Head",
+            "overview": "A boy and his stepmother fear for their safety after an eerie creature resembling the boy's recently deceased father visits them.",
+            "poster_path": "/nEWbEBs8BalwasA4Un8rll3kauT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 4.571,
+            "release_date": "2024-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.937,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+            "id": 10299,
+            "title": "Hush... Hush, Sweet Charlotte",
+            "original_title": "Hush... Hush, Sweet Charlotte",
+            "overview": "An aging, reclusive Southern belle plagued by a horrifying family secret descends into madness after the arrival of a lost relative.",
+            "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 3.2454,
+            "release_date": "1964-12-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.302,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rwr038BaQBqRQbnP8yps4hXp5Dp.jpg",
+            "id": 426814,
+            "title": "The Domestics",
+            "original_title": "The Domestics",
+            "overview": "A young husband and wife must fight to return home in a post-apocalyptic mid-western landscape ravaged by gangs.",
+            "poster_path": "/j64I3u1wwgPct3stvvKU2ikl14w.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.8339,
+            "release_date": "2018-06-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.126,
+            "vote_count": 528
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4obIhFZBUxn0aRL1hO1wMyPca8o.jpg",
+            "id": 759902,
+            "title": "Hunter Hunter",
+            "original_title": "Hunter Hunter",
+            "overview": "A fur trapper leaves his wife and daughter behind to kill a rogue wolf in the remote wilderness, but they soon become increasingly worried when their peaceful existence is disrupted.",
+            "poster_path": "/j52lKBGoHGmUJNUMsDV5kHOkMfC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "popularity": 3.8497,
+            "release_date": "2020-12-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.423,
+            "vote_count": 368
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
+            "id": 8461,
+            "title": "Funny Games",
+            "original_title": "Funny Games",
+            "overview": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+            "poster_path": "/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 7.6041,
+            "release_date": "2008-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.548,
+            "vote_count": 2306
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/df3uxnz6QXQokqx60UXrjFFduaR.jpg",
+            "id": 34479,
+            "title": "Scars of Dracula",
+            "original_title": "Scars of Dracula",
+            "overview": "The Prince of Darkness casts his undead shadow once more over the cursed village of Kleinenberg when his ashes are splashed with bat's blood and Dracula is resurrected. And two innocent victims search for a missing loved one... loved to death by Dracula's mistress. But after they discover his blood-drained corpse in Dracula's castle necropolis, the Vampire Lord's lustful vengeance begins.",
+            "poster_path": "/yS06u6RqaY3saimoVr6ZVZP9K7s.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.5507,
+            "release_date": "1970-11-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.951,
+            "vote_count": 198
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+            "id": 9003,
+            "title": "Hellraiser",
+            "original_title": "Hellraiser",
+            "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
+            "poster_path": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 9.227,
+            "release_date": "1987-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.882,
+            "vote_count": 2927
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jIjVPKDow5ai8dbs4PgWmtqg9Ol.jpg",
+            "id": 11917,
+            "title": "Saw V",
+            "original_title": "Saw V",
+            "overview": "Following Jigsaw's grisly demise, Detective Mark Hoffman is commended as a hero, but Agent Strahm is suspicious, and delves into Hoffman's past. Meanwhile, another group of people are put through a series of gruesome tests.",
+            "poster_path": "/rKl79KqLXg60KFyKsLe4wSSjQ08.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "popularity": 12.1677,
+            "release_date": "2008-10-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.175,
+            "vote_count": 3864
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c0zsDJV9Xhb4rhzWWzgFEh1S3mO.jpg",
+            "id": 42455,
+            "title": "And Now the Screaming Starts!",
+            "original_title": "And Now the Screaming Starts!",
+            "overview": "In the late 18th century, two newlyweds move into the stately mansion of the Fengriffen family. The young bride is victim of terrifying visions and apparitions, threatening her very sanity. A London psychiatrist comes to her help and uncovers the terrible secret that haunts the estate.",
+            "poster_path": "/t7qtRYAL9K1g0FAv3QHEvZ12ork.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 2.1133,
+            "release_date": "1973-04-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.937,
+            "vote_count": 71
+        }
+    ]
+}

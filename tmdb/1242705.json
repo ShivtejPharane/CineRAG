@@ -1,0 +1,893 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/p3QVGwMKIrVhA2GpruG1VT00wpI.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://protagonistpictures.com/film/one-more-shot",
+        "id": 1242705,
+        "imdb_id": "tt9425856",
+        "origin_country": [
+            "AU"
+        ],
+        "original_language": "en",
+        "original_title": "One More Shot",
+        "overview": "New Years Eve. 1999. Minnie discovers a bottle of time travelling tequila. Each shot takes her back to the start of the night - giving her a bottle’s worth of shots to win back her old flame Joe, and change the course of her millennium.",
+        "popularity": 17.5664,
+        "poster_path": "/5lYkkKgZxuafkpHkyyRazyHldth.jpg",
+        "production_companies": [
+            {
+                "id": 204763,
+                "logo_path": "/aqWMgtLOf2ClBDnK0f4DvYNTZf6.png",
+                "name": "VicScreen",
+                "origin_country": "AU"
+            },
+            {
+                "id": 215840,
+                "logo_path": "/6o5BejUrxsrVKwZOv6Nqs8sQunA.png",
+                "name": "MIFF Premiere Fund",
+                "origin_country": "AU"
+            },
+            {
+                "id": 220420,
+                "logo_path": null,
+                "name": "Scripted Ink",
+                "origin_country": ""
+            },
+            {
+                "id": 7888,
+                "logo_path": "/6HhOnizpDOvKjprTl47tPqvHLvZ.png",
+                "name": "ScreenWest",
+                "origin_country": "AU"
+            },
+            {
+                "id": 21592,
+                "logo_path": "/tjqSDOrtxKLKHKtGe7f5tL4226k.png",
+                "name": "Madman Entertainment",
+                "origin_country": "AU"
+            },
+            {
+                "id": 142207,
+                "logo_path": null,
+                "name": "Truce Films",
+                "origin_country": "AU"
+            },
+            {
+                "id": 113591,
+                "logo_path": "/4USrvUlhniLxDqTRttL76CTxj8Z.png",
+                "name": "Good Thing Productions",
+                "origin_country": "AU"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "release_date": "2025-12-12",
+        "revenue": 0,
+        "runtime": 92,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Party like it's 1999.",
+        "title": "One More Shot",
+        "video": false,
+        "vote_average": 5.36,
+        "vote_count": 25
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 70456,
+            "known_for_department": "Acting",
+            "name": "Emily Browning",
+            "original_name": "Emily Browning",
+            "popularity": 5.0134,
+            "profile_path": "/silK3Pdugbf1YOtIdXev1eZxzvF.jpg",
+            "cast_id": 7,
+            "character": "Minnie Vernon",
+            "credit_id": "67b70104e484fc21541a058c",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 962109,
+            "known_for_department": "Acting",
+            "name": "Sean Keenan",
+            "original_name": "Sean Keenan",
+            "popularity": 0.7589,
+            "profile_path": "/wMkbij8W5rjaQ4cgP5bfJN2qIGP.jpg",
+            "cast_id": 9,
+            "character": "Joe",
+            "credit_id": "67b701180c61025fafc3f828",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 219960,
+            "known_for_department": "Acting",
+            "name": "Ashley Zukerman",
+            "original_name": "Ashley Zukerman",
+            "popularity": 2.3344,
+            "profile_path": "/tKT5ybCjMOV4whEQ6jy8ZQnrP7C.jpg",
+            "cast_id": 10,
+            "character": "Rodney",
+            "credit_id": "67b7017011ff03409ec3f2fa",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 103390,
+            "known_for_department": "Acting",
+            "name": "Aisha Dee",
+            "original_name": "Aisha Dee",
+            "popularity": 1.2215,
+            "profile_path": "/dmA3u8KDYcvv673893FNny0nn7G.jpg",
+            "cast_id": 8,
+            "character": "Jenny",
+            "credit_id": "67b7010f0c61025fafc3f819",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 979599,
+            "known_for_department": "Acting",
+            "name": "Pallavi Sharda",
+            "original_name": "Pallavi Sharda",
+            "popularity": 1.5169,
+            "profile_path": "/zjx62adlW0rN9lNHZQ7j0DrG9qq.jpg",
+            "cast_id": 11,
+            "character": "Pia",
+            "credit_id": "67b701879f7fb2a743656a5e",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1254818,
+            "known_for_department": "Acting",
+            "name": "Hamish Michael",
+            "original_name": "Hamish Michael",
+            "popularity": 0.4588,
+            "profile_path": "/4O0WjvxElALgMFIiX19RJJbJM7B.jpg",
+            "cast_id": 12,
+            "character": "C-Word",
+            "credit_id": "67b701930c61025fafc3f855",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1083160,
+            "known_for_department": "Acting",
+            "name": "Anna McGahan",
+            "original_name": "Anna McGahan",
+            "popularity": 0.9494,
+            "profile_path": "/d5knkUZLsbZFBy1Aqul2I2zyGWh.jpg",
+            "cast_id": 13,
+            "character": "Flick",
+            "credit_id": "67b701a011ff03409ec3f304",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3096837,
+            "known_for_department": "Acting",
+            "name": "Contessa Treffone",
+            "original_name": "Contessa Treffone",
+            "popularity": 0.4995,
+            "profile_path": "/dTbOyfB1GdymGkkUAvvO56ZcmF4.jpg",
+            "cast_id": 14,
+            "character": "Max",
+            "credit_id": "67b701ade484fc21541a05b7",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 75958,
+            "known_for_department": "Acting",
+            "name": "Jane Allsop",
+            "original_name": "Jane Allsop",
+            "popularity": 0.8276,
+            "profile_path": "/z5jOG8FUkv4yfDBY7ASWTLzIxgz.jpg",
+            "cast_id": 15,
+            "character": "Lynne",
+            "credit_id": "67b701b9ed0bbcc50f656d15",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1638062,
+            "known_for_department": "Acting",
+            "name": "Elias Anton",
+            "original_name": "Elias Anton",
+            "popularity": 0.4174,
+            "profile_path": "/4hnbwBjxK4lSR5tbNvcgcFSIt4r.jpg",
+            "cast_id": 16,
+            "character": "Pete",
+            "credit_id": "67b701c5e484fc21541a05c4",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1530784,
+            "known_for_department": "Acting",
+            "name": "Fiona Harris",
+            "original_name": "Fiona Harris",
+            "popularity": 0.3785,
+            "profile_path": "/1vd30zOSVv8Z5YFTe7HHMoMSsAz.jpg",
+            "cast_id": 17,
+            "character": "Dianne",
+            "credit_id": "67b701d0e484fc21541a05c9",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 5258854,
+            "known_for_department": "Acting",
+            "name": "Olivia Piplios",
+            "original_name": "Olivia Piplios",
+            "popularity": 0.3181,
+            "profile_path": null,
+            "cast_id": 18,
+            "character": "Lucy",
+            "credit_id": "67b701e1e484fc21541a05db",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3710332,
+            "known_for_department": "Acting",
+            "name": "Firdi Billimoria",
+            "original_name": "Firdi Billimoria",
+            "popularity": 0.3025,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "Dhruv",
+            "credit_id": "67b701fde484fc21541a05ed",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5164328,
+            "known_for_department": "Acting",
+            "name": "Oliver Coleman",
+            "original_name": "Oliver Coleman",
+            "popularity": 0.1411,
+            "profile_path": "/eklvmIMS11ORvwOhU1oVCkFcjs0.jpg",
+            "cast_id": 23,
+            "character": "Cameron",
+            "credit_id": "691858756cb3e5b8574c9ff5",
+            "order": 13
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1316085,
+            "known_for_department": "Writing",
+            "name": "Nicholas Clifford",
+            "original_name": "Nicholas Clifford",
+            "popularity": 0.3177,
+            "profile_path": null,
+            "credit_id": "65c608368e20c5017d33c777",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1797699,
+            "known_for_department": "Writing",
+            "name": "Alice Foulcher",
+            "original_name": "Alice Foulcher",
+            "popularity": 0.5118,
+            "profile_path": "/p6MFnOkTVkGrCpu0mPiHRRU9C0T.jpg",
+            "credit_id": "65c608412d531a0163c5e6af",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1797713,
+            "known_for_department": "Production",
+            "name": "Gregory Erdstein",
+            "original_name": "Gregory Erdstein",
+            "popularity": 0.4622,
+            "profile_path": null,
+            "credit_id": "65c6084f2d531a0184c678dd",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1785578,
+            "known_for_department": "Production",
+            "name": "Virginia Whitwell",
+            "original_name": "Virginia Whitwell",
+            "popularity": 0.31,
+            "profile_path": "/kC8xelbWahC3xBLbv3re3WV2kwI.jpg",
+            "credit_id": "65c6085cdbcade017b706160",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 229207,
+            "known_for_department": "Production",
+            "name": "Nick Batzias",
+            "original_name": "Nick Batzias",
+            "popularity": 0.5981,
+            "profile_path": "/5s6Xv49ePcR2bddVOWS3YnO9cKL.jpg",
+            "credit_id": "65c608672d531a0148c57376",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2101814,
+            "known_for_department": "Production",
+            "name": "Elise Trenorden",
+            "original_name": "Elise Trenorden",
+            "popularity": 0.1429,
+            "profile_path": null,
+            "credit_id": "65c608741c6aa7014a996b7b",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4229243,
+            "known_for_department": "Production",
+            "name": "Jim M. Wright",
+            "original_name": "Jim M. Wright",
+            "popularity": 0.1071,
+            "profile_path": null,
+            "credit_id": "67c63443a893f8daa5e799d7",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1980694,
+            "known_for_department": "Production",
+            "name": "Gillian Crosby",
+            "original_name": "Gillian Crosby",
+            "popularity": 0.1522,
+            "profile_path": null,
+            "credit_id": "67c6345b48ee9015ab7aa988",
+            "department": "Production",
+            "job": "Associate Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2148335,
+            "known_for_department": "Camera",
+            "name": "Simon Ozolins",
+            "original_name": "Simon Ozolins",
+            "popularity": 0.3277,
+            "profile_path": null,
+            "credit_id": "692f22537c59bbbc2311469d",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1780,
+            "known_for_department": "Sound",
+            "name": "Justin Stanley",
+            "original_name": "Justin Stanley",
+            "popularity": 0.224,
+            "profile_path": null,
+            "credit_id": "692f2343e11a4a60ad1147b3",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 613,
+            "name": "new year's eve"
+        },
+        {
+            "id": 9945,
+            "name": "y2k"
+        },
+        {
+            "id": 10854,
+            "name": "time loop"
+        },
+        {
+            "id": 210608,
+            "name": "1990s"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/dSRFLFbykiSndcPzweMcD2ToohT.jpg",
+            "id": 1143128,
+            "title": "Omni Loop",
+            "original_title": "Omni Loop",
+            "overview": "Diagnosed with a black hole growing inside her chest and stuck in a loop reliving the last five days of her life, a 55-year-old wife and mother from Miami, Florida decides to solve time travel in order to go back and be the person she always intended to be.",
+            "poster_path": "/aKrwq3HeyFcl5MXb7tcsileoF9I.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                18
+            ],
+            "popularity": 3.12,
+            "release_date": "2024-09-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/721p2lNSGp2iSlUUukZwCzEKrnn.jpg",
+            "id": 1023915,
+            "title": "2073",
+            "original_title": "2073",
+            "overview": "Inspired by Chris Marker's iconic 1962 featurette La Jetée; the year is 2073—a not-so-distant dystopian future—and the setting is New San Francisco, the scorched-earth tech-dominant police state where democracy and personal freedom have been well and truly obliterated.",
+            "poster_path": "/l67ir3kU53FYd6Vjwhqrkih1H1P.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                878,
+                18
+            ],
+            "popularity": 3.4077,
+            "release_date": "2024-12-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.721,
+            "vote_count": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xCtyGEn5VGMKV7S9xRbQJyojgYf.jpg",
+            "id": 10013,
+            "title": "Peggy Sue Got Married",
+            "original_title": "Peggy Sue Got Married",
+            "overview": "At her 25th high school reunion, Peggy Sue faints and awakens in 1960—back in her senior year, before her marriage and all her regrets. Given a second chance to relive her youth, she must decide whether to change the choices that shaped her life or embrace the past that made her who she is.",
+            "poster_path": "/tfuQcvQmURiMqB2VPwytU3cPpEm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                14
+            ],
+            "popularity": 3.2627,
+            "release_date": "1986-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.116,
+            "vote_count": 665
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6RcWkHz1LT8wJBlAwYRoq2nOzG6.jpg",
+            "id": 157834,
+            "title": "The Zero Theorem",
+            "original_title": "The Zero Theorem",
+            "overview": "A computer hacker's goal to discover the reason for human existence continually finds his work interrupted thanks to the Management; this time, they send a teenager and lusty love interest to distract him.",
+            "poster_path": "/nlm2r6ER5J6x046ne61CuOgWAQX.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                14,
+                878
+            ],
+            "popularity": 4.2924,
+            "release_date": "2013-09-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 1354
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uczbEzBD4jJ7EYxySarXeh2liF5.jpg",
+            "id": 976720,
+            "title": "Vesper",
+            "original_title": "Vesper",
+            "overview": "After the collapse of Earth's ecosystem, Vesper, a 13-year-old girl struggling to survive with her paralyzed Father, meets a mysterious Woman with a secret that forces Vesper to use her wits, strength and bio-hacking abilities to fight for the possibility of a future.",
+            "poster_path": "/etvK8ni1adjXU8obDpdUxTTQT6n.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                18,
+                12,
+                14
+            ],
+            "popularity": 2.6707,
+            "release_date": "2022-08-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.278,
+            "vote_count": 724
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/73KkPzdf70zkXzqMpYEGz4pSLYK.jpg",
+            "id": 994133,
+            "title": "Relax, I'm from the Future",
+            "original_title": "Relax, I'm from the Future",
+            "overview": "Casper is a time traveller who arrives in the 2020s in an attempt to prevent a major future catastrophe. He meets Holly, a queer black woman he befriends and draws into his plan by giving her his knowledge of the future so that she can make quick money. However, they unwittingly alter the future themselves with their actions, until Doris, another time traveller, arrives to stop them.",
+            "poster_path": "/iPrNuDIfbBdrTRxHvZiooPLxPB8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                878
+            ],
+            "popularity": 1.6884,
+            "release_date": "2023-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/57f96GAYR25Olk7EdV3cT7LHdsV.jpg",
+            "id": 44801,
+            "title": "Real Men",
+            "original_title": "Real Men",
+            "overview": "A womanizing CIA agent and an insecure insurance agent are paired together to make sure a deal goes through with aliens for the future of mankind.",
+            "poster_path": "/48RNciPt5K9myWDPcfNhLWUYLgf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                878,
+                28
+            ],
+            "popularity": 3.7328,
+            "release_date": "1987-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/35xpwiUhgdXofUZe9RCtk0jn6RW.jpg",
+            "id": 828947,
+            "title": "Beavis and Butt-Head Do the Universe",
+            "original_title": "Beavis and Butt-Head Do the Universe",
+            "overview": "In 1998, Beavis and Butt-Head are sentenced to Space Camp by a “creative” judge. Their obsession with a docking simulator (huh huh) leads to a trip on the Space Shuttle, with predictably disastrous results. After going through a black hole, they re-emerge in our time, where they look for love, misuse iPhones, and are hunted by the Deep State. Spoiler: They don’t score.",
+            "poster_path": "/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                878
+            ],
+            "popularity": 2.8411,
+            "release_date": "2022-06-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 265
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gdxPHC5nw9sBrrUyiOnzkWqnLE4.jpg",
+            "id": 251516,
+            "title": "Kung Fury",
+            "original_title": "Kung Fury",
+            "overview": "During an unfortunate series of events, a friend of Kung Fury is assassinated by the most dangerous kung fu master criminal of all time, Adolf Hitler, a.k.a Kung Führer.  Kung Fury decides to travel back in time to Nazi Germany in order to kill Hitler and end the Nazi empire once and for all.",
+            "poster_path": "/f1QpIlCqlFXp1hjnLplXb5irxip.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                878,
+                14
+            ],
+            "popularity": 3.6596,
+            "release_date": "2015-05-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.485,
+            "vote_count": 1987
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+            "id": 1115544,
+            "title": "Mike & Nick & Nick & Alice",
+            "original_title": "Mike & Nick & Nick & Alice",
+            "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+            "poster_path": "/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                878,
+                80
+            ],
+            "popularity": 16.0595,
+            "release_date": "2026-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.699,
+            "vote_count": 418
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dDkoL4k5QTvE5MX2yuuSb5WDix4.jpg",
+            "id": 491037,
+            "title": "The Mandela Effect",
+            "original_title": "The Mandela Effect",
+            "overview": "A man becomes obsessed with facts and events that have been collectively misremembered by thousands of people. Believing the phenomena to be the symptom of something larger, his obsession eventually leads him to question reality itself.",
+            "poster_path": "/1B38NHh9C4jHFaKMVAAHssEmvpc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                53,
+                18
+            ],
+            "popularity": 2.4375,
+            "release_date": "2019-12-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.309,
+            "vote_count": 186
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nAl380kw8qxE7FeSdbbghKuUlp6.jpg",
+            "id": 5709,
+            "title": "Amazon Women on the Moon",
+            "original_title": "Amazon Women on the Moon",
+            "overview": "Centered on a television station which features a 1950s-style sci-fi movie interspersed with a series of wild commercials, wacky shorts and weird specials, this lampoon of contemporary life and pop culture skewers some of the silliest spectacles ever created in the name of entertainment.",
+            "poster_path": "/p77UlHHzyBUCKgdbLosrAnltDgw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                878
+            ],
+            "popularity": 3.0866,
+            "release_date": "1987-09-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.864,
+            "vote_count": 188
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wwzuxanisjA7GhZOPYaWlfmlCKY.jpg",
+            "id": 23048,
+            "title": "Hot Tub Time Machine",
+            "original_title": "Hot Tub Time Machine",
+            "overview": "Four pals are stuck in a rut in adulthood: Adam has just been dumped, Lou is a hopeless party animal, Nick is a henpecked husband, and Jacob does nothing but play video games in his basement. But they get a chance to brighten their future by changing their past after a night of heavy drinking in a ski-resort hot tub results in their waking up in 1986.",
+            "poster_path": "/wjzbVXAes1acbh6k4OO5xVfy5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                35,
+                12
+            ],
+            "popularity": 5.5254,
+            "release_date": "2010-03-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.048,
+            "vote_count": 2789
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+            "id": 1119449,
+            "title": "Good Luck, Have Fun, Don't Die",
+            "original_title": "Good Luck, Have Fun, Don't Die",
+            "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+            "poster_path": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                35
+            ],
+            "popularity": 17.8592,
+            "release_date": "2026-02-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.079,
+            "vote_count": 796
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c1nCz7PEip3YeqT7R4I8Toc3FOw.jpg",
+            "id": 152795,
+            "title": "The Congress",
+            "original_title": "The Congress",
+            "overview": "An aging, out-of-work actress accepts one last job, though the consequences of her decision affect her in ways she didn't consider.",
+            "poster_path": "/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878,
+                16
+            ],
+            "popularity": 3.3748,
+            "release_date": "2013-07-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.416,
+            "vote_count": 590
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg",
+            "id": 507244,
+            "title": "Afterburn",
+            "original_title": "Afterburn",
+            "overview": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
+            "poster_path": "/fSXZFZVfJmC2v0TkW711QD5o76N.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                35
+            ],
+            "popularity": 8.1667,
+            "release_date": "2025-08-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.25,
+            "vote_count": 320
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/31vKgh8x1k370DRKC54UXZHovni.jpg",
+            "id": 62934,
+            "title": "Fight for Your Right Revisited",
+            "original_title": "Fight for Your Right Revisited",
+            "overview": "Fight for Your Right Revisited stars Danny McBride, Seth Rogen, and Elijah Wood as the \"young\" Beastie Boys from the past and Jack Black, John C. Reilly, and Will Ferrell as the \"old\" Beastie Boys from the future. The story begins where the video for \"Fight for Your Right (1987)\" ended. It features music from the band's album Hot Sauce Committee Part Two.",
+            "poster_path": "/txbWkBtDc5fXqOaUdDgty4ouzfJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402,
+                35,
+                878
+            ],
+            "popularity": 1.8738,
+            "release_date": "2011-04-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.584,
+            "vote_count": 95
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xU2C64VWhYJMBDrjEsFPbVTWAjN.jpg",
+            "id": 1052280,
+            "title": "It's What's Inside",
+            "original_title": "It's What's Inside",
+            "overview": "A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.",
+            "poster_path": "/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                9648,
+                878
+            ],
+            "popularity": 10.4586,
+            "release_date": "2024-01-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.471,
+            "vote_count": 835
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gYxOlYtLvGNrzYm6kQBcY5mqKja.jpg",
+            "id": 1154538,
+            "title": "Nirvanna the Band the Show the Movie",
+            "original_title": "Nirvanna the Band the Show the Movie",
+            "overview": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+            "poster_path": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                878,
+                12
+            ],
+            "popularity": 5.7968,
+            "release_date": "2026-02-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4iMURVQCxjyMH8Vr1Wd3GCsxE06.jpg",
+            "id": 765245,
+            "title": "Swan Song",
+            "original_title": "Swan Song",
+            "overview": "In the near future, Cameron Turner is diagnosed with a terminal illness. Presented with an experimental solution to shield his wife and son from grief, he grapples with altering their fate in this thought-provoking exploration of love, loss, and sacrifice.",
+            "poster_path": "/zzCdikGD9Qa5NT8lZtUv9dXNgsm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "popularity": 8.1268,
+            "release_date": "2021-12-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.109,
+            "vote_count": 604
+        }
+    ]
+}

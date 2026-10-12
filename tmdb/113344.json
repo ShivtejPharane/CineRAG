@@ -1,0 +1,795 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/vR4Bw1v2ths8gMOh7LXtDc0Sad1.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 113344,
+        "imdb_id": "tt0094645",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The American Scream",
+        "overview": "An American family takes their classic Christmas vacation at a perfect mountain resort, but the strange residents of Wilson Creek seem to have something else planned... something gruesome.",
+        "popularity": 13.3403,
+        "poster_path": "/yGwASgt098N9He0PUJDyMR3aBE9.jpg",
+        "production_companies": [
+            {
+                "id": 185443,
+                "logo_path": null,
+                "name": "Levine/Linden Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1988-01-01",
+        "revenue": 0,
+        "runtime": 86,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "It's a Tradition.",
+        "title": "The American Scream",
+        "video": false,
+        "vote_average": 4.643,
+        "vote_count": 14
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 106867,
+            "known_for_department": "Acting",
+            "name": "Pons Maar",
+            "original_name": "Pons Maar",
+            "popularity": 0.4673,
+            "profile_path": null,
+            "cast_id": 4,
+            "character": "Ben Benziger",
+            "credit_id": "52fe4b33c3a36847f81f7a29",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 81843,
+            "known_for_department": "Acting",
+            "name": "Jennifer Darling",
+            "original_name": "Jennifer Darling",
+            "popularity": 1.0436,
+            "profile_path": "/rDD3Nrpm1m61gsk1i3bFvZw0ljZ.jpg",
+            "cast_id": 5,
+            "character": "Barbara Benziger",
+            "credit_id": "52fe4b33c3a36847f81f7a2d",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 84163,
+            "known_for_department": "Acting",
+            "name": "Matt Borlenghi",
+            "original_name": "Matt Borlenghi",
+            "popularity": 0.8337,
+            "profile_path": "/5cxI8zKxxH75SQRTAcaQMCYDr4i.jpg",
+            "cast_id": 22,
+            "character": "Brent Benziger",
+            "credit_id": "57ddbfc3c3a3681425002b5c",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 181841,
+            "known_for_department": "Writing",
+            "name": "Riley Weston",
+            "original_name": "Riley Weston",
+            "popularity": 0.619,
+            "profile_path": "/NBXbkM57RlnwmabCTOtdVrmHKc.jpg",
+            "cast_id": 7,
+            "character": "Bridgett Benziger",
+            "credit_id": "52fe4b33c3a36847f81f7a35",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1056828,
+            "known_for_department": "Acting",
+            "name": "Kevin Kaye",
+            "original_name": "Kevin Kaye",
+            "popularity": 0.2759,
+            "profile_path": null,
+            "cast_id": 8,
+            "character": "Larry",
+            "credit_id": "52fe4b33c3a36847f81f7a39",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1056829,
+            "known_for_department": "Acting",
+            "name": "Jeanne Sapienza",
+            "original_name": "Jeanne Sapienza",
+            "popularity": 0.236,
+            "profile_path": null,
+            "cast_id": 9,
+            "character": "Roxanne",
+            "credit_id": "52fe4b33c3a36847f81f7a3d",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1056830,
+            "known_for_department": "Acting",
+            "name": "James Cooper",
+            "original_name": "James Cooper",
+            "popularity": 0.2929,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "Sam",
+            "credit_id": "52fe4b33c3a36847f81f7a41",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 54564,
+            "known_for_department": "Acting",
+            "name": "George Buck Flower",
+            "original_name": "George Buck Flower",
+            "popularity": 1.0622,
+            "profile_path": "/9qmc0d452N45uSTuCGEaUg8sKQK.jpg",
+            "cast_id": 23,
+            "character": "Ed Simpson",
+            "credit_id": "58601f5dc3a3681a6b021ae3",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 97290,
+            "known_for_department": "Acting",
+            "name": "Bob Buchholz",
+            "original_name": "Bob Buchholz",
+            "popularity": 0.5631,
+            "profile_path": "/j16Cs2F9DLABhkV3mMEd3Dzf9qC.jpg",
+            "cast_id": 12,
+            "character": "Will",
+            "credit_id": "52fe4b33c3a36847f81f7a49",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 175036,
+            "known_for_department": "Acting",
+            "name": "Constance Pfeifer",
+            "original_name": "Constance Pfeifer",
+            "popularity": 0.2618,
+            "profile_path": null,
+            "cast_id": 13,
+            "character": "Millie",
+            "credit_id": "52fe4b33c3a36847f81f7a4d",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 157467,
+            "known_for_department": "Acting",
+            "name": "Blackie Dammett",
+            "original_name": "Blackie Dammett",
+            "popularity": 0.7492,
+            "profile_path": null,
+            "cast_id": 14,
+            "character": "Pastor",
+            "credit_id": "52fe4b33c3a36847f81f7a51",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 100487,
+            "known_for_department": "Acting",
+            "name": "Debra Lamb",
+            "original_name": "Debra Lamb",
+            "popularity": 0.8792,
+            "profile_path": "/bvxEsYNIKSKMYaBOVgg5rzUQx4h.jpg",
+            "cast_id": 16,
+            "character": "Shower Victim",
+            "credit_id": "57ddba219251417855002b70",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 45115,
+            "known_for_department": "Acting",
+            "name": "Edy Williams",
+            "original_name": "Edy Williams",
+            "popularity": 0.8965,
+            "profile_path": "/p8jMLfwNQyDKZkitb4ZlUpe9EWr.jpg",
+            "cast_id": 19,
+            "character": "Greta",
+            "credit_id": "57ddbf329251417853002c38",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 104606,
+            "known_for_department": "Acting",
+            "name": "Linda Honeyman",
+            "original_name": "Linda Honeyman",
+            "popularity": 0.2414,
+            "profile_path": null,
+            "cast_id": 20,
+            "character": "Large Woman",
+            "credit_id": "57ddbf37c3a3682dd2000002",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 422214,
+            "known_for_department": "Acting",
+            "name": "Bill Johnson",
+            "original_name": "Bill Johnson",
+            "popularity": 0.7232,
+            "profile_path": "/9jWkPZPXHqqsO4T3XyrDLQ071aU.jpg",
+            "cast_id": 21,
+            "character": "Roy",
+            "credit_id": "57ddbf48c3a3681425002b17",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 142033,
+            "known_for_department": "Acting",
+            "name": "Warren Cann",
+            "original_name": "Warren Cann",
+            "popularity": 0.2997,
+            "profile_path": null,
+            "cast_id": 26,
+            "character": "Jake",
+            "credit_id": "69ec3e22393047ebb9935c0e",
+            "order": 15
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1056825,
+            "known_for_department": "Writing",
+            "name": "Mitchell Linden",
+            "original_name": "Mitchell Linden",
+            "popularity": 0.1983,
+            "profile_path": null,
+            "credit_id": "52fe4b33c3a36847f81f7a19",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1056826,
+            "known_for_department": "Writing",
+            "name": "Phil Hopper",
+            "original_name": "Phil Hopper",
+            "popularity": 0.2028,
+            "profile_path": null,
+            "credit_id": "52fe4b33c3a36847f81f7a1f",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1056825,
+            "known_for_department": "Writing",
+            "name": "Mitchell Linden",
+            "original_name": "Mitchell Linden",
+            "popularity": 0.1983,
+            "profile_path": null,
+            "credit_id": "52fe4b33c3a36847f81f7a25",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 22544,
+            "known_for_department": "Camera",
+            "name": "Bryan England",
+            "original_name": "Bryan England",
+            "popularity": 0.3901,
+            "profile_path": null,
+            "credit_id": "684c28bf4ef4c4bee6294447",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1893869,
+            "known_for_department": "Sound",
+            "name": "Richard Cox",
+            "original_name": "Richard Cox",
+            "popularity": 0.2725,
+            "profile_path": null,
+            "credit_id": "684c29039e85afcb97343e9a",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 10794,
+            "name": "snow"
+        },
+        {
+            "id": 12339,
+            "name": "slasher"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/4CYo6O6p0bANfXLIwQZJpXPxmPc.jpg",
+            "id": 19185,
+            "title": "Night of the Living Dead",
+            "original_title": "Night of the Living Dead",
+            "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+            "poster_path": "/7WkSCClUvcAq8JNEp4pM4A9hiDU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 5.0169,
+            "release_date": "1990-10-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 987
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lzhoqccJ8b8qjRyT0fNbqKOCTLa.jpg",
+            "id": 1033052,
+            "title": "The Mean One",
+            "original_title": "The Mean One",
+            "overview": "In a sleepy mountain town, Cindy witnesses the murder of her parents by a blood-thirsty green figure in a red Santa suit. Twenty years later, the Christmas-hating monster begins to terrorize the town once more. Cindy finds new purpose in stopping the creature and saving the holiday.",
+            "poster_path": "/56yQqjnGo9Ky65bSSGxz5vDaNUo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "popularity": 1.8076,
+            "release_date": "2022-12-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.212,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7JI6ID1ga8uKyUPisjUXKxYCVRJ.jpg",
+            "id": 675531,
+            "title": "Dark Harvest",
+            "original_title": "Dark Harvest",
+            "overview": "In a small Midwestern town, a deadly annual ritual unfolds when the mythical nightmare, Sawtooth Jack, rises from the cornfields and challenges the town’s teenage boys in a bloody battle of survival.",
+            "poster_path": "/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                14,
+                53
+            ],
+            "popularity": 4.3598,
+            "release_date": "2023-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 321
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
+            "id": 16342,
+            "title": "The Children",
+            "original_title": "The Children",
+            "overview": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
+            "poster_path": "/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 2.2077,
+            "release_date": "2008-12-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.066,
+            "vote_count": 422
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/evo3crueRIK9Eutb3lnDLVbD2xD.jpg",
+            "id": 514847,
+            "title": "The Hunt",
+            "original_title": "The Hunt",
+            "overview": "Twelve strangers wake up in a clearing. They don't know where they are—or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted turns the tables on her pursuers.",
+            "poster_path": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53,
+                27
+            ],
+            "popularity": 17.3477,
+            "release_date": "2020-03-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.646,
+            "vote_count": 3743
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r7RdSJWKeqgQ6ZsxM08d2xRoKor.jpg",
+            "id": 406994,
+            "title": "Better Watch Out",
+            "original_title": "Better Watch Out",
+            "overview": "On a quiet suburban street tucked within a 'safe neighborhood', a babysitter must defend a twelve-year-old boy from strangers breaking into the house, only to discover that this is far from a normal home invasion.",
+            "poster_path": "/liI4c3GYaKuAo4FsCF4RKvFFqbV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                35
+            ],
+            "popularity": 4.5169,
+            "release_date": "2017-10-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.648,
+            "vote_count": 1674
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w6RisE566EXIekhfLqIUprYtxbU.jpg",
+            "id": 16288,
+            "title": "Creepshow 2",
+            "original_title": "Creepshow 2",
+            "overview": "Three macabre tales from the latest issue of a boy's favorite comic book, dealing with a vengeful wooden Native American, a monstrous blob in a lake, and an undying hitchhiker.",
+            "poster_path": "/bbanIymLuTYmQGis9nlCkFlT1eg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                35,
+                14
+            ],
+            "popularity": 3.7522,
+            "release_date": "1987-05-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 661
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cA88pwGnHa64BBcU3R1oCcJH9Qc.jpg",
+            "id": 970450,
+            "title": "Werewolves",
+            "original_title": "Werewolves",
+            "overview": "A year after a supermoon’s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+            "poster_path": "/otXBlMPbFBRs6o2Xt6KX59Qw6dL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53,
+                878
+            ],
+            "popularity": 10.7398,
+            "release_date": "2024-12-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.805,
+            "vote_count": 513
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/93tvkTtV6tQQiYhxhij9tuODNOq.jpg",
+            "id": 10225,
+            "title": "Jason Lives - Friday the 13th Part VI",
+            "original_title": "Jason Lives - Friday the 13th Part VI",
+            "overview": "Tommy Jarvis, tormented by the fear that maybe Jason isn't really dead, unwittingly resurrects the mass murderer for another bloody rampage.",
+            "poster_path": "/6vdUpHvkspQonXBdWcLWW5ciEPJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.0985,
+            "release_date": "1986-08-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.283,
+            "vote_count": 1382
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dUbOGH7CWEIr2aCZBpG2n33Vhw2.jpg",
+            "id": 1141182,
+            "title": "Die Alone",
+            "original_title": "Die Alone",
+            "overview": "Lost in a world reclaimed by nature and overrun by mysterious creatures, Ethan, a young man with amnesia navigates the dangerous landscape in search of his lost love Emma.  His journey takes an unexpected turn when he encounters Mae, a hardened and eccentric survivor.  Together, Ethan and Mae face threats both human and otherwise before a fateful encounter with Kai unravels a secret that lies just beyond Ethan's fractured memory.",
+            "poster_path": "/dQdIj2OYELhLzECWONY932wGRxA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                878
+            ],
+            "popularity": 5.4194,
+            "release_date": "2024-09-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.308,
+            "vote_count": 172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l43Misvmwvc44suLlGasKnoQKGE.jpg",
+            "id": 510388,
+            "title": "Villains",
+            "original_title": "Villains",
+            "overview": "When their car breaks down, a couple on the run headed southbound for a fresh start in the Sunshine State break into a nearby house looking for a new set of wheels. What they find instead is a dark secret, and a sweet-as-pie pair of homeowners who will do anything to keep it from getting out.",
+            "poster_path": "/Arefq9eI1z94Jtrbbuqzg9p5mf8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                27,
+                53
+            ],
+            "popularity": 3.3678,
+            "release_date": "2019-09-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.235,
+            "vote_count": 493
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fquVJ2v5NAW96sRfFAw4vXR5zla.jpg",
+            "id": 814889,
+            "title": "Never Let Go",
+            "original_title": "Never Let Go",
+            "overview": "As an evil takes over the world beyond their front doorstep, the only protection for a mother and her twin sons is their house and their family’s protective bond.",
+            "poster_path": "/iwUoM3y77fov7bKyFMwpGMzRHyn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 8.0187,
+            "release_date": "2024-09-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.057,
+            "vote_count": 643
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+            "id": 1330421,
+            "title": "Bone Lake",
+            "original_title": "Bone Lake",
+            "overview": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+            "poster_path": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 10.9358,
+            "release_date": "2025-10-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.891,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o2SeAw8ARPB1D8oudCRJcxW3w60.jpg",
+            "id": 13186,
+            "title": "Wrong Turn 2: Dead End",
+            "original_title": "Wrong Turn 2: Dead End",
+            "overview": "Retired military commander Colonel Dale Murphy hosts the simulated post-apocalyptic reality show where participants are challenged to survive a remote West Virginia wasteland. But the show turns into a nightmarish showdown when each realizes they are being hunted by an inbred family of cannibals determined to make them all dinner!",
+            "poster_path": "/ow3IMhTVLryZuCEoQznVTTmFYuu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 10.5968,
+            "release_date": "2007-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.174,
+            "vote_count": 1586
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4wXTv2LhZrVWIyIHG4dVIsjxCon.jpg",
+            "id": 1241674,
+            "title": "The Last Breath",
+            "original_title": "The Last Breath",
+            "overview": "A group of old college friends reunite on a Caribbean scuba diving trip exploring the wreckage of a WWII battleship and find themselves trapped inside the underwater labyrinth of rusted metal surrounded by great white sharks.",
+            "poster_path": "/aC892vhMsNwcIUX5UfrsTSy9IL9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.4392,
+            "release_date": "2024-06-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.963,
+            "vote_count": 176
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yZtnGzfZER0QU7ZG4r4RaZAaXJH.jpg",
+            "id": 1519168,
+            "title": "The Jester 2",
+            "original_title": "The Jester 2",
+            "overview": "When teen magician Max crosses paths with the sinister Jester on Halloween night, she must outsmart a supernatural killer whose magic is all too real and whose tricks always end up in blood.",
+            "poster_path": "/47dsw1jSOV0Be5zmy7CtLhYpqU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "popularity": 4.1593,
+            "release_date": "2025-09-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.951,
+            "vote_count": 133
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hldPY45usHEt6Zv73oxe1yKyUa0.jpg",
+            "id": 628707,
+            "title": "Trick",
+            "original_title": "Trick",
+            "overview": "A detective tries to track down a masked killer who reappears every Halloween to wreak bloody havoc.",
+            "poster_path": "/vxo4qqrhz61SnAUtlHIbYPzZoBU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 2.5025,
+            "release_date": "2019-10-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.81,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k5OEHChJGZJyLAJGHXeBcTE6DJz.jpg",
+            "id": 287084,
+            "title": "The Town that Dreaded Sundown",
+            "original_title": "The Town that Dreaded Sundown",
+            "overview": "A masked maniac terrorizes the same small community where a murderer known as the Phantom Killer struck decades earlier.",
+            "poster_path": "/dHXH9Gzk14am6KFFG7B3W60P5R4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.5665,
+            "release_date": "2014-10-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.809,
+            "vote_count": 531
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ae25gpphxDPEYGUxvAGmR07oQqC.jpg",
+            "id": 800497,
+            "title": "Werewolves Within",
+            "original_title": "Werewolves Within",
+            "overview": "When a proposed pipeline creates hostilities between residents of a small town, a newly-arrived forest ranger must keep the peace after a snowstorm confines the townspeople to an old lodge. But when a mysterious creature begins terrorizing the group, their worst tendencies and prejudices rise to the surface, and it is up to the ranger to keep the residents alive, both from each other and the monster which plagues them.",
+            "poster_path": "/5CGgbgyvmE39Yoqa80GKsgClbQm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                35
+            ],
+            "popularity": 3.0037,
+            "release_date": "2021-06-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.018,
+            "vote_count": 649
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oFbDDdfrxILgzlTaVHAQQYySsWC.jpg",
+            "id": 686684,
+            "title": "Pooka Lives!",
+            "original_title": "Pooka Lives!",
+            "overview": "A group of thirty-something friends from high school create their own Creepypasta about Pooka for laughs, but are shocked when it becomes so viral on the internet that it actually manifests more murdererous versions of the creature.",
+            "poster_path": "/c8orAPNmomaXTVjikjMSYaanWh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                10770
+            ],
+            "popularity": 2.2431,
+            "release_date": "2020-04-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.805,
+            "vote_count": 41
+        }
+    ]
+}

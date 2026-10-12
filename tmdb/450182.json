@@ -1,0 +1,468 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Documentary"
+            }
+        ],
+        "homepage": "",
+        "id": 450182,
+        "imdb_id": "tt6842792",
+        "origin_country": [
+            "BR"
+        ],
+        "original_language": "pt",
+        "original_title": "Vó Maria",
+        "overview": "Three times a memory.",
+        "popularity": 12.5545,
+        "poster_path": "/8lHHmbzIbPhnrUSV0wSyTU5oazq.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "release_date": "2011-04-02",
+        "revenue": 0,
+        "runtime": 6,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Grandma Maria",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    "cast": [],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1532654,
+            "known_for_department": "Directing",
+            "name": "Tomás von der Osten",
+            "original_name": "Tomás von der Osten",
+            "popularity": 0.7575,
+            "profile_path": null,
+            "credit_id": "58e0b676c3a3683d1e0174ba",
+            "department": "Directing",
+            "job": "Director"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/k4MZdogt1DZX0b2tlkr17EFUvP5.jpg",
+            "id": 1461714,
+            "title": "My Mom Jayne",
+            "original_title": "My Mom Jayne",
+            "overview": "Through deeply personal interviews with her siblings and an examination of the photographs, letters, and belongings left behind, Mariska assembles a new portrait of her mother Jayne Mansfield, an extraordinary and complex woman.",
+            "poster_path": "/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 4.1673,
+            "release_date": "2025-06-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.991,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Bcm0qBnS6yjwTFad8eI6thzRub.jpg",
+            "id": 869250,
+            "title": "Being James Bond",
+            "original_title": "Being James Bond",
+            "overview": "Daniel Craig candidly reflects on his 15 year adventure as James Bond. Including never-before-seen archival footage from Casino Royale to the upcoming 25th film No Time To Die, Craig shares his personal memories in conversation with 007 producers, Michael G Wilson and Barbara Broccoli.",
+            "poster_path": "/kKG9gieki5wgEcVXLfnX1lbOcrO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.399,
+            "release_date": "2021-08-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.766,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rSuqSerMzqMtgX7fX50Hl55ficF.jpg",
+            "id": 1492608,
+            "title": "John Candy: I Like Me",
+            "original_title": "John Candy: I Like Me",
+            "overview": "Those who knew iconic funnyman John Candy best share his story, in their own words, through never-before-seen archival footage, imagery, and interviews.",
+            "poster_path": "/mNEJdx9WSXeyMmkuQfTeY4zouNx.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 5.5937,
+            "release_date": "2025-09-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.872,
+            "vote_count": 109
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gf2jWMEElanX8IsxQGzGEakKh0l.jpg",
+            "id": 1853,
+            "title": "In the Realms of the Unreal",
+            "original_title": "In the Realms of the Unreal",
+            "overview": "In the Realms of the Unreal is a documentary about the reclusive Chicago-based artist Henry Darger. Henry Darger was so reclusive that when he died his neighbors were surprised to find a 15,145-page manuscript along with hundreds of paintings depicting The Story of the Vivian Girls, in What is Known as the Realms of the Unreal, of the Glodeco-Angelinnian War Storm, Cased by the Child Slave Rebellion.",
+            "poster_path": "/lKxzlejHu8ApBZohNHMfbmIGzZd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.7379,
+            "release_date": "2004-01-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.171,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/377Bqi11cmWEQeOAs7GOkCEfazk.jpg",
+            "id": 1462146,
+            "title": "S4: The Bob Lazar Story",
+            "original_title": "S4: The Bob Lazar Story",
+            "overview": "Over 35 years after Bob Lazar's revelations, this documentary exposes secrets of a facility the government still denies. Featuring Lazar's testimony, recreations, and new evidence, it reopens a case that continues to spark global curiosity",
+            "poster_path": "/sQB50PgwLfftaRdNB36eJxtH3AZ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 4.1517,
+            "release_date": "2026-04-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.325,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dmg5FvoJJlmxDTzp0xmho3gEGDO.jpg",
+            "id": 417548,
+            "title": "Brazilian Holocaust",
+            "original_title": "Holocausto Brasileiro",
+            "overview": "Award-winning journalist Daniela Arbex examines the horrors of the Colônia psychiatric hospital, where more than 60,000 people were killed over decades.",
+            "poster_path": "/76muwL3vWeojBD5N2ARsgFrtXPx.jpg",
+            "media_type": "movie",
+            "original_language": "pt",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.9845,
+            "release_date": "2016-10-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.969,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qTofO8swHYG9Dw0wE2UwbaJpuNl.jpg",
+            "id": 42314,
+            "title": "Looking for Richard",
+            "original_title": "Looking for Richard",
+            "overview": "Al Pacino's deeply-felt rumination on Shakespeare's significance and relevance to the modern world through interviews and an in-depth analysis of \"Richard III.\"",
+            "poster_path": "/2iEgEoMP1S2YWKkYkwm8cgg2bBN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.7566,
+            "release_date": "1996-10-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 149
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k0o0sFSbv8BPsQijH6QWxUlDpoG.jpg",
+            "id": 508003,
+            "title": "McQueen",
+            "original_title": "McQueen",
+            "overview": "Alexander McQueen's rags-to-riches story is a modern-day fairy tale, laced with the gothic. Mirroring the savage beauty, boldness and vivacity of his design, this documentary is an intimate revelation of McQueen's own world, both tortured and inspired, which celebrates a radical and mesmerizing genius of profound influence.",
+            "poster_path": "/bc5kAqhNfLitH7zMlLvLRbxV0xD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.9662,
+            "release_date": "2018-06-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 142
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "id": 325365,
+            "title": "Dawg Fight",
+            "original_title": "Dawg Fight",
+            "overview": "In a crime-plagued neighborhood near Miami, brutal, bare-knuckled backyard fights give young men a chance to earn money -- and self-respect.",
+            "poster_path": "/thgvd0tjDLJvTVx4BaZjfQAC7yK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 3.6614,
+            "release_date": "2015-03-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 48
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6L2KQtzSm9BJWpNIAcIwQ8QG0nk.jpg",
+            "id": 450945,
+            "title": "I Am Heath Ledger",
+            "original_title": "I Am Heath Ledger",
+            "overview": "The life and career of an actor, artist, and icon. His own journey through his own camera.",
+            "poster_path": "/96ScsrVx2tAlWuiZYgqwcuGYdYK.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.1174,
+            "release_date": "2017-04-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.369,
+            "vote_count": 229
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/68Qic4gQ6YGoQdDyYxEhufJCunI.jpg",
+            "id": 130824,
+            "title": "As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty",
+            "original_title": "As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty",
+            "overview": "A compilation of over 30 years of private home movie footage shot by Lithuanian-American avant-garde director Jonas Mekas, assembled by Mekas \"purely by chance\", without concern for chronological order.",
+            "poster_path": "/tDaxB5juEGwXD7oZwh8IXsnisar.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.5945,
+            "release_date": "2000-11-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.708,
+            "vote_count": 84
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+            "id": 1723460,
+            "title": "A Toxic Love Story",
+            "original_title": "A Toxic Love Story",
+            "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+            "poster_path": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 11.9795,
+            "release_date": "2026-07-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2k5mmhnAkQ2GTYyDxPYfgBzSzVY.jpg",
+            "id": 456508,
+            "title": "Chris Brown: Welcome to My Life",
+            "original_title": "Chris Brown: Welcome to My Life",
+            "overview": "This compelling Documentary moves beyond the spotlight and past the attention-grabbing headlines to give pop superstar Chris Brown a chance to tell his own story. New interviews with the international phenomenon reveal long-awaited answers about his passion for making music, his tumultuous and much publicized relationships, and the pitfalls of coming of age in the public eye. Also included is new concert footage, behind-the-scenes access, and special interviews from Usher, Jennifer Lopez, DJ Khaled, Mike Tyson, Jamie Foxx and others.",
+            "poster_path": "/pZlujGBOc1eqARYYYZGqNdxEYd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.1145,
+            "release_date": "2017-06-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.44,
+            "vote_count": 251
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fMyttWsQXJCG3V9oUOFebYZ0HJT.jpg",
+            "id": 94623,
+            "title": "Directed by John Ford",
+            "original_title": "Directed by John Ford",
+            "overview": "A documentary about the life and films of director John Ford.",
+            "poster_path": "/kv3tPDvWyGTQ2Nb66LTXwK18iXR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.2956,
+            "release_date": "1971-09-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kDa2gkBf00LocugUUJ1N5mL8BL6.jpg",
+            "id": 53367,
+            "title": "Charlie: The Life and Art of Charles Chaplin",
+            "original_title": "Charlie: The Life and Art of Charles Chaplin",
+            "overview": "Brilliant, long in-the-works story of the life and art of the world's greatest comedian and the cinema's first genius, Charlie Chaplin. Produced, written and directed by renowned film critic Richard Schickel.",
+            "poster_path": "/71HnWfOoUwHAlBzPHG5HYxPSmsE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.8771,
+            "release_date": "2003-05-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.928,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xInsWlhJOnjlMctluVQ5snGZm0k.jpg",
+            "id": 448446,
+            "title": "Gilbert",
+            "original_title": "Gilbert",
+            "overview": "The life and career of one of comedy's most inimitable modern voices, Mr. Gilbert Gottfried.",
+            "poster_path": "/bixUm35DzCtiapbS8UjGzWCbhij.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.0388,
+            "release_date": "2017-04-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.721,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hl7b32TWdR5rIfhN9rACdwyscIk.jpg",
+            "id": 393443,
+            "title": "Extremis",
+            "original_title": "Extremis",
+            "overview": "A purely observational non-fiction film that takes viewers into the ethically murky world of end-of-life decision making in a public hospital.",
+            "poster_path": "/1vDbsnL2601o6fyrNlXHu0wWP1.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.935,
+            "release_date": "2016-04-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.954,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8vIR41Yq02O37gCkZFvj1rqMF1z.jpg",
+            "id": 20562,
+            "title": "35 Up",
+            "original_title": "35 Up",
+            "overview": "Director Michael Apted revisits the same group of British-born adults after a 7 year wait. The subjects are interviewed as to the changes that have occurred in their lives during the last seven years.",
+            "poster_path": "/blgrNJpi1jdGhKCKqRjKCl1u9qT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.9026,
+            "release_date": "1991-08-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yszlJSWLmz5lcMEtKoVhWaLUt68.jpg",
+            "id": 465871,
+            "title": "Maria by Callas",
+            "original_title": "Maria by Callas",
+            "overview": "Told through performances, TV interviews, home movies, family photographs, private letters and unpublished memoirs, the film reveals the essence of an extraordinary woman who rose from humble beginnings in New York City to become a glamorous international superstar and one of the greatest artists of all time.",
+            "poster_path": "/ouYCnUivHJPW1NO5r6fyi3OIa0h.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 2.6601,
+            "release_date": "2017-12-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k5KUDSvYbxKzcE9zdkixvQ0qLkb.jpg",
+            "id": 20565,
+            "title": "42 Up",
+            "original_title": "42 Up",
+            "overview": "Director Michael Apted revisits the same group of British-born adults after a 7 year wait. The subjects are interviewed as to the changes that have occurred in their lives during the last seven years.",
+            "poster_path": "/hJAYtr8CvnYBBZJlpdYvUMRWNCl.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                99
+            ],
+            "popularity": 1.8402,
+            "release_date": "1999-11-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.563,
+            "vote_count": 56
+        }
+    ]
+}

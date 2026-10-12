@@ -1,0 +1,720 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "homepage": "",
+        "id": 1353926,
+        "imdb_id": "tt43295610",
+        "origin_country": [
+            "CN"
+        ],
+        "original_language": "zh",
+        "original_title": "特立独行",
+        "overview": "Thirty years ago, the Super Ying Association led by Superman Wang Changhai crushed the aliens. Years later, Wang Changhai was appointed to return to his hometown to set up a combat squad, but in the town of Rheinland, which had been peaceful for many years, human feelings and courtesies have left Wang Changhai overwhelmed, creating layers of obstacles to Wang's ability to complete his mission.",
+        "popularity": 11.687,
+        "poster_path": "/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
+        "production_companies": [
+            {
+                "id": 197030,
+                "logo_path": "/z9xtT1e3HunOnZUm3uGYb59eL7v.png",
+                "name": "Tao Piao Piao 淘票票",
+                "origin_country": "CN"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "release_date": "2026-07-03",
+        "revenue": 0,
+        "runtime": 0,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Mandarin",
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Keep Real",
+        "video": false,
+        "vote_average": 1.8,
+        "vote_count": 2
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1672869,
+            "known_for_department": "Acting",
+            "name": "Bai Jingting",
+            "original_name": "白敬亭",
+            "popularity": 3.9786,
+            "profile_path": "/b3kmtLVQtgywB1QKWYHoNLsdqSO.jpg",
+            "cast_id": 1,
+            "character": "",
+            "credit_id": "66dd69b172bdc762b8c23c7e",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2093326,
+            "known_for_department": "Acting",
+            "name": "Wei Xiang",
+            "original_name": "魏翔",
+            "popularity": 1.7347,
+            "profile_path": "/j1XqYkSGoRHfBOH59nTOnv7DcRn.jpg",
+            "cast_id": 2,
+            "character": "",
+            "credit_id": "66dd69b827884e21da34441f",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1006596,
+            "known_for_department": "Acting",
+            "name": "Zhang Guoqiang",
+            "original_name": "张国强",
+            "popularity": 1.4447,
+            "profile_path": "/ako7Cv49GuZfl4ew6sWOvBUqBug.jpg",
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "66dd69c0bc402dc42afe38aa",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3376151,
+            "known_for_department": "Acting",
+            "name": "Su Xiaoding",
+            "original_name": "苏小玎",
+            "popularity": 1.3815,
+            "profile_path": "/fpg0OWRKmASQOiPVSneSFYsAiCI.jpg",
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "66dd69c6e4f25e1852e431d1",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2140106,
+            "known_for_department": "Acting",
+            "name": "Huang Cailun",
+            "original_name": "黄才伦",
+            "popularity": 0.8581,
+            "profile_path": "/blvudwE8C0fOYde94LgYfEaYqiY.jpg",
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "66dd69cc2dd3347119ee4503",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2928958,
+            "known_for_department": "Acting",
+            "name": "Liu Liu",
+            "original_name": "刘流",
+            "popularity": 0.66,
+            "profile_path": "/7r72sFxQyKjQS2e1TGvkLAzw5VE.jpg",
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "66dd69d26b244965206d2b8f",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1194773,
+            "known_for_department": "Acting",
+            "name": "Ding Yongdai",
+            "original_name": "丁勇岱",
+            "popularity": 1.8683,
+            "profile_path": "/hB1xrY9K0jwhWsbLEbsJl55h98T.jpg",
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "66dd69d753c9df90e93ab730",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1985026,
+            "known_for_department": "Acting",
+            "name": "Wang Zhi",
+            "original_name": "王智",
+            "popularity": 1.2378,
+            "profile_path": "/q9KQAA8587VmYH6pxfd6DfVTFmj.jpg",
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "66dd69de49fb42eaf438bc66",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3238981,
+            "known_for_department": "Acting",
+            "name": "Song Jiateng",
+            "original_name": "宋家腾",
+            "popularity": 1.4853,
+            "profile_path": "/d2xlaPPUl07P5NOHUI5jTdH9X17.jpg",
+            "cast_id": 9,
+            "character": "",
+            "credit_id": "66dd69e47170ff753696778a",
+            "order": 8
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3369910,
+            "known_for_department": "Directing",
+            "name": "Xing Wenxiong",
+            "original_name": "Xing Wenxiong",
+            "popularity": 0.35,
+            "profile_path": "/gsy0uMe8K3qIxgRIDD2L2GCREoL.jpg",
+            "credit_id": "66dd69f063bb4154f6ec6cc3",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3369910,
+            "known_for_department": "Directing",
+            "name": "Xing Wenxiong",
+            "original_name": "Xing Wenxiong",
+            "popularity": 0.35,
+            "profile_path": "/gsy0uMe8K3qIxgRIDD2L2GCREoL.jpg",
+            "credit_id": "66dd6a08498ee6998d9679df",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4928090,
+            "known_for_department": "Creator",
+            "name": "史倩",
+            "original_name": "史倩",
+            "popularity": 0.2109,
+            "profile_path": null,
+            "credit_id": "66dd6a21498ee6998d9679e7",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3779522,
+            "known_for_department": "Writing",
+            "name": "Li Tianliang",
+            "original_name": "Li Tianliang",
+            "popularity": 0.4653,
+            "profile_path": null,
+            "credit_id": "66dd6a464f0158b52b9dd779",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4930237,
+            "known_for_department": "Writing",
+            "name": "Li Shuye",
+            "original_name": "Li Shuye",
+            "popularity": 0.2202,
+            "profile_path": null,
+            "credit_id": "66dd6a63d1b6aaf74d6d2a78",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4795869,
+            "known_for_department": "Editing",
+            "name": "Huang Shang",
+            "original_name": "Huang Shang",
+            "popularity": 0.2644,
+            "profile_path": "/md1j8yTrz9TZMIaNPb8n05NL9AC.jpg",
+            "credit_id": "6a43c974462c45a320d802d6",
+            "department": "Editing",
+            "job": "Supervising Editor"
+        }
+    ],
+    "keywords": [],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/8ybdSPM1AutUK48gmMPOfu8TcyB.jpg",
+            "id": 518896,
+            "title": "Warriors of Future",
+            "original_title": "明日戰記",
+            "overview": "When a meteor carrying a destructive plant strikes the world, a suicide squad is given hours to save their post-apocalyptic city from total collapse.",
+            "poster_path": "/2l9LbxBSkJseoxYcIJjclnmxyq.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18,
+                28,
+                878
+            ],
+            "popularity": 4.5204,
+            "release_date": "2022-08-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.969,
+            "vote_count": 496
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sbmHT55N2aIwctQEY1pWOwRrxK0.jpg",
+            "id": 878608,
+            "title": "Resurrection",
+            "original_title": "狂野时代",
+            "overview": "In a future where humanity has surrendered its ability to dream in exchange for immortality, an outcast finds illusion, nightmarish visions, and beauty in an intoxicating world of his own making.",
+            "poster_path": "/4asJAxshXzQriox6tnIoEnWN1nu.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                878,
+                18
+            ],
+            "popularity": 6.0664,
+            "release_date": "2025-11-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.224,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/57f96GAYR25Olk7EdV3cT7LHdsV.jpg",
+            "id": 44801,
+            "title": "Real Men",
+            "original_title": "Real Men",
+            "overview": "A womanizing CIA agent and an insecure insurance agent are paired together to make sure a deal goes through with aliens for the future of mankind.",
+            "poster_path": "/48RNciPt5K9myWDPcfNhLWUYLgf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                878,
+                28
+            ],
+            "popularity": 3.7328,
+            "release_date": "1987-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dQbZRSQLmWlaU3TNVmBj72M1TBg.jpg",
+            "id": 23728,
+            "title": "Our Man Flint",
+            "original_title": "Our Man Flint",
+            "overview": "When scientists use eco-terrorism to impose their will on the world by affecting extremes in the weather, Intelligence Chief Cramden calls in top agent Derek Flint.",
+            "poster_path": "/rd2jKIqFfJ8LgZEaBpAvLL44G10.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                12,
+                878
+            ],
+            "popularity": 2.4285,
+            "release_date": "1966-01-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uczbEzBD4jJ7EYxySarXeh2liF5.jpg",
+            "id": 976720,
+            "title": "Vesper",
+            "original_title": "Vesper",
+            "overview": "After the collapse of Earth's ecosystem, Vesper, a 13-year-old girl struggling to survive with her paralyzed Father, meets a mysterious Woman with a secret that forces Vesper to use her wits, strength and bio-hacking abilities to fight for the possibility of a future.",
+            "poster_path": "/etvK8ni1adjXU8obDpdUxTTQT6n.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                18,
+                12,
+                14
+            ],
+            "popularity": 2.6707,
+            "release_date": "2022-08-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.278,
+            "vote_count": 724
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Al127H6f1RXpESdg0MGNL2g8mzO.jpg",
+            "id": 1359227,
+            "title": "LEGO Marvel Avengers: Mission Demolition",
+            "original_title": "LEGO Marvel Avengers: Mission Demolition",
+            "overview": "A young, aspiring hero and superhero fan inadvertently unleashes a powerful new villain looking to rid the world of the Avengers.",
+            "poster_path": "/s3qM33JHOntz2D7o6FGRf5yuI1v.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                878
+            ],
+            "popularity": 4.2375,
+            "release_date": "2024-10-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/721p2lNSGp2iSlUUukZwCzEKrnn.jpg",
+            "id": 1023915,
+            "title": "2073",
+            "original_title": "2073",
+            "overview": "Inspired by Chris Marker's iconic 1962 featurette La Jetée; the year is 2073—a not-so-distant dystopian future—and the setting is New San Francisco, the scorched-earth tech-dominant police state where democracy and personal freedom have been well and truly obliterated.",
+            "poster_path": "/l67ir3kU53FYd6Vjwhqrkih1H1P.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                878,
+                18
+            ],
+            "popularity": 3.4077,
+            "release_date": "2024-12-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.721,
+            "vote_count": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hmv300bqfZmxvdXCtCsruDH0ycT.jpg",
+            "id": 453405,
+            "title": "Gemini Man",
+            "original_title": "Gemini Man",
+            "overview": "Henry Brogan is an elite 51-year-old assassin who's ready to call it quits after completing his 72nd job. His plans get turned upside down when he becomes the target of a mysterious operative who can seemingly predict his every move. To his horror, Brogan soon learns that the man who's trying to kill him is a younger, faster, cloned version of himself.",
+            "poster_path": "/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12,
+                53,
+                18
+            ],
+            "popularity": 11.258,
+            "release_date": "2019-10-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.262,
+            "vote_count": 5519
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A8vw3lIdgXj79p0AuXs5miH54B6.jpg",
+            "id": 851977,
+            "title": "Journey to the West",
+            "original_title": "宇宙探索编辑部",
+            "overview": "Tang Zhijun, an editor of a science fiction magazine, attempts to find signs of an alien civilisation. When a strange young man claims to have received instructions from aliens, Tang and his team follow him in search of extraterrestrial creatures.",
+            "poster_path": "/4nnvERfV7YOiHQ3Ua8cw6bHsD9d.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                35,
+                18,
+                9648,
+                12,
+                878
+            ],
+            "popularity": 3.0728,
+            "release_date": "2023-04-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.476,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dCSmuAoO7NMkDkkuMQA0J48Ba9E.jpg",
+            "id": 422619,
+            "title": "Jonathan",
+            "original_title": "Jonathan",
+            "overview": "Jonathan is a young man with a strange condition that only his brother understands.  But when he begins to yearn for a different life, their unique bond becomes increasingly tested.",
+            "poster_path": "/nTd0PBJkA1HLM9yImDnRZDzGAwb.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "popularity": 2.2733,
+            "release_date": "2018-11-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.886,
+            "vote_count": 214
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qQ1xCJC5604FM8lP7hqMGycCAB7.jpg",
+            "id": 11244,
+            "title": "The Meteor Man",
+            "original_title": "The Meteor Man",
+            "overview": "One night Jefferson Reed gets hit in the chest by a souped-up chunk of meteor. So he can fly, but he's scared of heights. He can master the information in any book ... for about thirty seconds. Now his friends and family want him to protect their community from the dreaded Golden Lords.",
+            "poster_path": "/d30mZVOrY8n5KCvwaPkiQEFv1tc.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                878
+            ],
+            "popularity": 2.7911,
+            "release_date": "1993-08-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.829,
+            "vote_count": 202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uoGTKAi4qTk4lfOlbSkVKZA72lG.jpg",
+            "id": 27834,
+            "title": "CQ",
+            "original_title": "CQ",
+            "overview": "A young filmmaker in 1960s Paris juggles directing a cheesy sci-fi debacle, directing his own personal art film, coping with his crumbling relationship with his girlfriend, and a new-found infatuation with the sci-fi film's starlet.",
+            "poster_path": "/aFAPOT77Jh7lNWYtojC6nxi4CpJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 4.3435,
+            "release_date": "2001-05-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.905,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5MyjGUa2piiEyNH4UcLp3YV9cwo.jpg",
+            "id": 504056,
+            "title": "Big Brother",
+            "original_title": "大師兄",
+            "overview": "A soldier-turned-high school teacher uses unusual methods to reach to a class of poor students, while dealing with a greedy entrepreneur and his gang of fighters as well as the government.",
+            "poster_path": "/z6Y6uQn2fORr7o43EggQrTsp08o.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                28,
+                18,
+                35
+            ],
+            "popularity": 5.1801,
+            "release_date": "2018-08-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.55,
+            "vote_count": 292
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x8zprGIgH2pExKCyNdwfANcbnlG.jpg",
+            "id": 55156,
+            "title": "Hail the Judge",
+            "original_title": "九品芝麻官",
+            "overview": "Pao Lung Sing, a descendant of the legendary Judge Pao Ching Tin, is a 9th degree corrupt judge who changes his tune when he tries to champion a woman Chi Siu-Lin, who was framed for killing her husband. As a result, Pao is forced to flee and through a series of events becomes a 1st degree judge and comes back to wreak havoc and justice on the guilty.",
+            "poster_path": "/29yDD4IMpk6xR6GgcbhvQ9pkOtc.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 4.5707,
+            "release_date": "1994-03-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.458,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mBa8hfCXiiMcguuOHojqotOH7IO.jpg",
+            "id": 1356587,
+            "title": "The Lychee Road",
+            "original_title": "长安的荔枝",
+            "overview": "A Tang Dynasty minor official risks everything to deliver lychees across China. Li Shande, middle-aged and struggling, sees this dangerous mission as his last chance for success.",
+            "poster_path": "/zbTrwhUxxJ0BgDai1FflfeOELrO.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                18,
+                36,
+                35
+            ],
+            "popularity": 2.9069,
+            "release_date": "2025-07-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.152,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A0h4y7TdMJOQN3C4G9D8qNJlnom.jpg",
+            "id": 317182,
+            "title": "Doctor Who: Last Christmas",
+            "original_title": "Doctor Who: Last Christmas",
+            "overview": "The Doctor and Clara face their Last Christmas. Trapped on an Arctic base, under attack from terrifying creatures, who are you going to call? Santa Claus!",
+            "poster_path": "/a5XHo7MQgX3V7nNlEnl5gwZURDL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12,
+                18
+            ],
+            "popularity": 2.6709,
+            "release_date": "2014-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.713,
+            "vote_count": 260
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gXIcwtfL9vFdYDTNnoQLSzIYiOC.jpg",
+            "id": 371759,
+            "title": "Doctor Who: The Husbands of River Song",
+            "original_title": "Doctor Who: The Husbands of River Song",
+            "overview": "It’s Christmas Day on a remote human colony and the Doctor is hiding from Christmas Carols and Comedy Antlers. But when a crashed spaceship calls upon the Doctor for help, he finds himself recruited into River Song’s squad and hurled into a fast and frantic chase across the galaxy. King Hydroflax is furious, and his giant Robot bodyguard is out-of-control and coming for them all! Will Nardole survive? And when will River Song work out who the Doctor is? All will be revealed on a starliner full of galactic super-villains and a destination the Doctor has been avoiding for a very long time.",
+            "poster_path": "/ettlSCoR5YhEoXx5b7JWwzstASz.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878,
+                35
+            ],
+            "popularity": 2.3155,
+            "release_date": "2015-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.973,
+            "vote_count": 166
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hbkxvvACRaram9JNEZEPG8730cb.jpg",
+            "id": 30250,
+            "title": "Cold Souls",
+            "original_title": "Cold Souls",
+            "overview": "Paul is agonising over his interpretation of 'Uncle Vanya' and, paralysed by anxiety, stumbles upon a solution via a New Yorker article about a high-tech company promising to alleviate suffering by extracting souls. He enlists their services—only to discover that his soul is the shape and size of a chickpea.",
+            "poster_path": "/4ejJjTwoEqIKiZJOyPaHlTJh2jL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18,
+                14,
+                878
+            ],
+            "popularity": 2.3999,
+            "release_date": "2009-08-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.984,
+            "vote_count": 182
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mC763biJd67eykSXLeJlpGoEjaj.jpg",
+            "id": 85949,
+            "title": "Collision Earth",
+            "original_title": "Collision Earth",
+            "overview": "A huge solar flare blasts Mercury out of it's orbit and provides it with an intense magnetic field and it's on collision course for Earth.",
+            "poster_path": "/4bJgb47iOM6LvbkdQtkMBtb4fhr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                10770,
+                18
+            ],
+            "popularity": 3.1523,
+            "release_date": "2011-03-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.861,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cOkgL3jfyHtU5Lfuo4pelYNgfO6.jpg",
+            "id": 926670,
+            "title": "Henry Danger: The Movie",
+            "original_title": "Henry Danger: The Movie",
+            "overview": "Henry Hart meets a superfan—eager to fight crime with Kid Danger—who comes into possession of a device that can open up alternate realities. Facing a wild ride, Henry will need his best friend Jasper and his new superfan sidekick to find his way out or be stuck in another dimension forever.",
+            "poster_path": "/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                10751,
+                878
+            ],
+            "popularity": 10.9672,
+            "release_date": "2025-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.62,
+            "vote_count": 267
+        }
+    ]
+}

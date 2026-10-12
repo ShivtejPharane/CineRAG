@@ -1,0 +1,916 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/oa62cFJnsWgWyFwuLInZ8XXZ5kE.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://tlareleasing.com/films/drifter/",
+        "id": 1025802,
+        "imdb_id": "tt26389817",
+        "origin_country": [
+            "DE"
+        ],
+        "original_language": "de",
+        "original_title": "Drifter",
+        "overview": "Moritz follows a boyfriend to Berlin and is soon abandoned by him. Alone in the big city, he embarks on a journey through a wide range of queer experience. Only through a new circle of queer friends does he develop his own ideas of sexuality and masculinity, leading him to a clearer self-identity.",
+        "popularity": 12.525,
+        "poster_path": "/7BYYRIeaCxPIYuBIhSz9Zc5H1u8.jpg",
+        "production_companies": [
+            {
+                "id": 17765,
+                "logo_path": "/64gzCy66QsCwiNUtg3BPTdZYDwM.png",
+                "name": "Jost Hering Filmproduktion",
+                "origin_country": "DE"
+            },
+            {
+                "id": 8697,
+                "logo_path": "/dedjnLn70UGdQ5d0PBELGkEOzhf.png",
+                "name": "Salzgeber & Co. Medien",
+                "origin_country": "DE"
+            },
+            {
+                "id": 193664,
+                "logo_path": null,
+                "name": "Milieufilm",
+                "origin_country": "DE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "release_date": "2023-11-02",
+        "revenue": 0,
+        "runtime": 79,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Welcome to Berlin!",
+        "title": "Drifter",
+        "video": false,
+        "vote_average": 5.192,
+        "vote_count": 13
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3163943,
+            "known_for_department": "Acting",
+            "name": "Lorenz Hochhuth",
+            "original_name": "Lorenz Hochhuth",
+            "popularity": 0.6328,
+            "profile_path": "/7ufBLBhP2TGixwWpE4UmIffHww2.jpg",
+            "cast_id": 4,
+            "character": "Moritz",
+            "credit_id": "6326f1ed43250f00830e609f",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3130037,
+            "known_for_department": "Acting",
+            "name": "Cino Djavid",
+            "original_name": "Cino Djavid",
+            "popularity": 0.3231,
+            "profile_path": "/oeYqdcMFy1zuTeodGsPjaE2uU4s.jpg",
+            "cast_id": 5,
+            "character": "Noah",
+            "credit_id": "6326f1f743250f00830e60a6",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1947797,
+            "known_for_department": "Acting",
+            "name": "Gustav Schmidt",
+            "original_name": "Gustav Schmidt",
+            "popularity": 0.6397,
+            "profile_path": "/okAsgPvMjDEVkLg5S2lyfZbsGvD.jpg",
+            "cast_id": 6,
+            "character": "Jonas",
+            "credit_id": "6326f20343250f00830e60aa",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3189653,
+            "known_for_department": "Acting",
+            "name": "Oscar Hoppe",
+            "original_name": "Oscar Hoppe",
+            "popularity": 0.4859,
+            "profile_path": "/t5qXyQVuWsr3uiG74FViV7FJVwM.jpg",
+            "cast_id": 11,
+            "character": "Stefan",
+            "credit_id": "63c9d57d68afd600c953da0c",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2850537,
+            "known_for_department": "Acting",
+            "name": "Aviran Edri",
+            "original_name": "Aviran Edri",
+            "popularity": 0.2563,
+            "profile_path": "/6mHcYEylhqJbLTXDGXqyjCMb9Vf.jpg",
+            "cast_id": 9,
+            "character": "Daniel",
+            "credit_id": "6326f220dcb6a300820761b3",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3705573,
+            "known_for_department": "Acting",
+            "name": "Cat Jugravu",
+            "original_name": "Cat Jugravu",
+            "popularity": 0.2373,
+            "profile_path": "/A4gVwEV7uLedvEob1ufsCLWGTgv.jpg",
+            "cast_id": 8,
+            "character": "Kasi",
+            "credit_id": "6326f21724f2ce00902c08f2",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3881898,
+            "known_for_department": "Acting",
+            "name": "Alexandre Karim Howard",
+            "original_name": "Alexandre Karim Howard",
+            "popularity": 0.2046,
+            "profile_path": null,
+            "cast_id": 12,
+            "character": "Ron",
+            "credit_id": "63c9d5c6ed96bc0091aa2f1a",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1522135,
+            "known_for_department": "Acting",
+            "name": "Rabea Egg",
+            "original_name": "Rabea Egg",
+            "popularity": 0.3923,
+            "profile_path": "/5Lawbwj5rz2teW2oI7JiRPrECD7.jpg",
+            "cast_id": 14,
+            "character": "Anna",
+            "credit_id": "63c9d61c0398ab00af05f739",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2512786,
+            "known_for_department": "Acting",
+            "name": "Marie Tragousti",
+            "original_name": "Marie Tragousti",
+            "popularity": 0.5395,
+            "profile_path": "/8rr8YqhhqXA8buLRf1ljsRLesHc.jpg",
+            "cast_id": 7,
+            "character": "Eleftheria",
+            "credit_id": "6326f20c24f2ce007eb054ad",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4538743,
+            "known_for_department": "Acting",
+            "name": "Panpi Goni Fréneau",
+            "original_name": "Panpi Goni Fréneau",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "cast_id": 19,
+            "character": "Alexis",
+            "credit_id": "65ceb7149ac5350184df87a2",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3703188,
+            "known_for_department": "Acting",
+            "name": "Daniela Grubert",
+            "original_name": "Daniela Grubert",
+            "popularity": 0.2155,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "Joey",
+            "credit_id": "6326f228a14e10007bb2de1d",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1899251,
+            "known_for_department": "Acting",
+            "name": "Elaine Cameron",
+            "original_name": "Elaine Cameron",
+            "popularity": 0.3848,
+            "profile_path": null,
+            "cast_id": 15,
+            "character": "Clara",
+            "credit_id": "63c9d62e0398ab00af05f73c",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4538749,
+            "known_for_department": "Acting",
+            "name": "Marie Katrencsak",
+            "original_name": "Marie Katrencsak",
+            "popularity": 0.1071,
+            "profile_path": null,
+            "cast_id": 20,
+            "character": "Daughter Marie",
+            "credit_id": "65ceb77f84f249018a42e299",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4497790,
+            "known_for_department": "Acting",
+            "name": "Peter Geisberg",
+            "original_name": "Peter Geisberg",
+            "popularity": 0.2265,
+            "profile_path": null,
+            "cast_id": 21,
+            "character": "Julian - Man in car #1",
+            "credit_id": "65ceb7b466469a0130093ea2",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4538756,
+            "known_for_department": "Acting",
+            "name": "Servan Durmaz",
+            "original_name": "Servan Durmaz",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "cast_id": 22,
+            "character": "Man in car #2",
+            "credit_id": "65ceb7c3c8113d0180da55cb",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2473188,
+            "known_for_department": "Acting",
+            "name": "Jan Matýsek",
+            "original_name": "Jan Matýsek",
+            "popularity": 0.3315,
+            "profile_path": null,
+            "cast_id": 23,
+            "character": "Man in car #3",
+            "credit_id": "65ceb7cf66469a0130093eb8",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4538759,
+            "known_for_department": "Acting",
+            "name": "Larry Cavallo",
+            "original_name": "Larry Cavallo",
+            "popularity": 0.1071,
+            "profile_path": null,
+            "cast_id": 24,
+            "character": "Man in car #4",
+            "credit_id": "65ceb7db60c751017b68bced",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1290509,
+            "known_for_department": "Acting",
+            "name": "Sebastian Stielke",
+            "original_name": "Sebastian Stielke",
+            "popularity": 0.3409,
+            "profile_path": "/t1YgsBHy1BbERvsnSSTy1XXTOuv.jpg",
+            "cast_id": 25,
+            "character": "Carlos",
+            "credit_id": "65ceb7ed60c751016268a4cf",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2737795,
+            "known_for_department": "Acting",
+            "name": "Ariel Nil Levy",
+            "original_name": "Ariel Nil Levy",
+            "popularity": 0.2881,
+            "profile_path": null,
+            "cast_id": 26,
+            "character": "Carlos (voice)",
+            "credit_id": "65ceb8086d1bb201614be6c3",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3575508,
+            "known_for_department": "Acting",
+            "name": "Ingraban von Stolzmann",
+            "original_name": "Ingraban von Stolzmann",
+            "popularity": 0.3733,
+            "profile_path": null,
+            "cast_id": 27,
+            "character": "Ashley",
+            "credit_id": "65ceb81c8efe73017b756ac7",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1433128,
+            "known_for_department": "Directing",
+            "name": "Katharina Lüdin",
+            "original_name": "Katharina Lüdin",
+            "popularity": 0.4108,
+            "profile_path": null,
+            "cast_id": 28,
+            "character": "Eva",
+            "credit_id": "65ceb864c8113d0167da3b2f",
+            "order": 20
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2368273,
+            "known_for_department": "Directing",
+            "name": "Björn Schürmann",
+            "original_name": "Björn Schürmann",
+            "popularity": 0.3014,
+            "profile_path": null,
+            "cast_id": 29,
+            "character": "Eva's Husband",
+            "credit_id": "65ceb8786d1bb2017b4c0552",
+            "order": 21
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1209979,
+            "known_for_department": "Directing",
+            "name": "Hannes Hirsch",
+            "original_name": "Hannes Hirsch",
+            "popularity": 0.3853,
+            "profile_path": "/rJSYJN4wsNSDxr5QaQxmau1Bx66.jpg",
+            "credit_id": "6326f1b193bd69007a9543e0",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1209979,
+            "known_for_department": "Directing",
+            "name": "Hannes Hirsch",
+            "original_name": "Hannes Hirsch",
+            "popularity": 0.3853,
+            "profile_path": "/rJSYJN4wsNSDxr5QaQxmau1Bx66.jpg",
+            "credit_id": "6326f1b8a14e100092c286a6",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1209979,
+            "known_for_department": "Directing",
+            "name": "Hannes Hirsch",
+            "original_name": "Hannes Hirsch",
+            "popularity": 0.3853,
+            "profile_path": "/rJSYJN4wsNSDxr5QaQxmau1Bx66.jpg",
+            "credit_id": "6326f1d4a14e10007bb2ddf9",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2547630,
+            "known_for_department": "Editing",
+            "name": "Elena Weihe",
+            "original_name": "Elena Weihe",
+            "popularity": 0.3323,
+            "profile_path": null,
+            "credit_id": "63c9d5fb03f0b600a078bdd6",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1209972,
+            "known_for_department": "Editing",
+            "name": "Diemo Kemmesies",
+            "original_name": "Diemo Kemmesies",
+            "popularity": 0.2035,
+            "profile_path": null,
+            "credit_id": "63c9d66ebb070d00a8569998",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3881901,
+            "known_for_department": "Camera",
+            "name": "Eli Börnicke",
+            "original_name": "Eli Börnicke",
+            "popularity": 0.1683,
+            "profile_path": null,
+            "credit_id": "63c9d680bb070d00c8a0cab4",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3881902,
+            "known_for_department": "Writing",
+            "name": "River Matzke",
+            "original_name": "River Matzke",
+            "popularity": 0.1838,
+            "profile_path": "/bOQEGhoVSaPO3GIUhzWc0aQJGDM.jpg",
+            "credit_id": "63c9d68b03f0b6008109a255",
+            "department": "Writing",
+            "job": "Screenplay"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 220,
+            "name": "berlin, germany"
+        },
+        {
+            "id": 13017,
+            "name": "drifter"
+        },
+        {
+            "id": 158718,
+            "name": "lgbt"
+        },
+        {
+            "id": 186107,
+            "name": "sexual exploration"
+        },
+        {
+            "id": 240305,
+            "name": "gay romance"
+        },
+        {
+            "id": 258533,
+            "name": "gay theme"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/rgduSnz2ETdKPk1D3QigAceEqny.jpg",
+            "id": 42206,
+            "title": "In a Year with 13 Moons",
+            "original_title": "In einem Jahr mit 13 Monden",
+            "overview": "Elvira Weishaupt, once a burly working-class butcher, has made an enormous sacrifice for love. She has undergone a sex change for a romantic interest who has abandoned her, and she now must struggle to reconcile her past life with her present identity.",
+            "poster_path": "/kauXmH1RQRNbFBiAKA1EpQZILP3.jpg",
+            "media_type": "movie",
+            "original_language": "de",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.2254,
+            "release_date": "1978-11-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.599,
+            "vote_count": 91
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6EWrPiEy8aZfNNc8pS0Y6NYct5z.jpg",
+            "id": 575659,
+            "title": "Berlin Alexanderplatz",
+            "original_title": "Berlin Alexanderplatz",
+            "overview": "In 2015, thirty year old refugee Francis, the sole survivor of a boat that illegally crossed the Mediterranean, is drawn into Berlin's seedy underbelly.",
+            "poster_path": "/5i3ZUjsjDWrcqPGRoKrHsAltBvD.jpg",
+            "media_type": "movie",
+            "original_language": "de",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "popularity": 1.4258,
+            "release_date": "2020-06-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.909,
+            "vote_count": 88
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cBZK1oi7td2E3Yy5cowwsDV3nTf.jpg",
+            "id": 371462,
+            "title": "Mammal",
+            "original_title": "Mammal",
+            "overview": "After Margaret, a divorcée living in Dublin, loses her teenage son, she develops an unorthodox relationship with Joe, a homeless youth. Their tentative trust is threatened by his involvement with a violent gang and the escalation of her ex-husband's grieving rage.",
+            "poster_path": "/l8bHUNWu1EMvVV5LGcdWFSUwJay.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 6.305,
+            "release_date": "2016-04-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cINtl1Bh47Ut4NhwLokLHQXgre0.jpg",
+            "id": 42135,
+            "title": "Querelle",
+            "original_title": "Querelle",
+            "overview": "French sailor Querelle arrives in Brest and starts frequenting a strange whorehouse. He discovers that his brother Robert is the lover of the lady owner, Lysiane. Here, you can play dice with Nono, Lysiane's husband: if you win, you are allowed to make love with Lysiane; if you lose, you have to make love with Nono... Querelle loses on purpose.",
+            "poster_path": "/7rakWIm1EeXvmInWljMqugxBqK2.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "popularity": 3.0178,
+            "release_date": "1982-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 208
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bcpHVeaATZnRtw27V6NxNr8csoN.jpg",
+            "id": 40814,
+            "title": "Crimes of Passion",
+            "original_title": "Crimes of Passion",
+            "overview": "Fashion designer Joanna Crane leads a double life. By night she is China Blue, a prostitute who's attracted the attention of a sexually frustrated private detective, and a psychopathic priest in possession of a murderous sex toy.",
+            "poster_path": "/tstF6JMrZe75AdEAoPejwPrDfMA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "popularity": 3.2593,
+            "release_date": "1984-10-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.268,
+            "vote_count": 200
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+            "id": 103,
+            "title": "Taxi Driver",
+            "original_title": "Taxi Driver",
+            "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+            "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "popularity": 20.6939,
+            "release_date": "1976-02-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 13622
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wyMd7nQ1REmWTc1OHfr08BCGpdF.jpg",
+            "id": 417688,
+            "title": "Pimp",
+            "original_title": "Pimp",
+            "overview": "An urban love story set on the hard streets of the Bronx. A struggling female pimp, named Wednesday, grows up learning the game from her dad. Once he's gone she's left to look out for her prostitute mother and girlfriend Nikki.",
+            "poster_path": "/aLFt9swGFQpujVXzbj9LWowjX6C.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 4.2612,
+            "release_date": "2018-11-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.22,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nThW8P9qB1P83p83OWG71X3mCW4.jpg",
+            "id": 47120,
+            "title": "Antares",
+            "original_title": "Antares",
+            "overview": "A deadly car crash sets off three parallel stories of women at crisis points, faltering behind the doors of the same, plain Vienna apartment block.",
+            "poster_path": "/jbtaESI8Jgr6Pwuaaa413YatP2V.jpg",
+            "media_type": "movie",
+            "original_language": "de",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.439,
+            "release_date": "2004-12-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.961,
+            "vote_count": 89
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k4ZrvqTWADP1nzgXNSKDNk4xOEB.jpg",
+            "id": 11386,
+            "title": "The Crying Game",
+            "original_title": "The Crying Game",
+            "overview": "Irish Republican Army member Fergus forms an unexpected bond with Jody, a kidnapped British soldier in his custody, despite the warnings of fellow IRA members Jude and Maguire. Jody makes Fergus promise he'll visit his girlfriend, Dil, in London, and when Fergus flees to the city, he seeks her out. Hounded by his former IRA colleagues, he finds himself increasingly drawn to the enigmatic, and surprising, Dil.",
+            "poster_path": "/9BXGoat9TYgdDqGk2WJmaX9dVoe.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "popularity": 4.0281,
+            "release_date": "1992-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 859
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6XCGLN8Nb7Oa0AF41UtS0nUFN7l.jpg",
+            "id": 33194,
+            "title": "Xiu Xiu: The Sent-Down Girl",
+            "original_title": "Xiu Xiu: The Sent-Down Girl",
+            "overview": "Young teen girl Xiu Xiu is sent away to a remote corner of the Sichuan steppes for manual labor in 1975 (sending young people to there was a part of Cultural Revolution in China). A year later, she agrees to go to even more remote spot with a Tibetan saddle tramp Lao Jin to learn horse herding.",
+            "poster_path": "/f60ZzxvcNjQG1aXomXuKWEzS2pP.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 7.6612,
+            "release_date": "1998-02-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.24,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eM3Kbzk9v03wJc0yoSC0QGEOU9C.jpg",
+            "id": 11698,
+            "title": "Stroszek",
+            "original_title": "Stroszek",
+            "overview": "Bruno Stroszek is released from prison and warned to stop drinking. He has few skills and fewer expectations: with a glockenspiel and an accordion, he ekes out a living as a street musician. He befriends Eva, a prostitute down on her luck and they join his neighbor, Scheitz, an elderly eccentric, when he leaves Germany to live in Wisconsin.",
+            "poster_path": "/wDq9ytRxoVpICRcx1BvagmXhd4t.jpg",
+            "media_type": "movie",
+            "original_language": "de",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 1.804,
+            "release_date": "1977-05-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.305,
+            "vote_count": 303
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vQNknPEVSAui6IL6eUlDBPfUzcW.jpg",
+            "id": 884,
+            "title": "Crash",
+            "original_title": "Crash",
+            "overview": "A car crash victim inexplicably finds himself aroused by car accidents and becomes involved with an underground subculture of like-minded souls.",
+            "poster_path": "/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 9.4586,
+            "release_date": "1996-07-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.483,
+            "vote_count": 1393
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fRN20mOGFGI8j9hAEIhbpTpSpsS.jpg",
+            "id": 73939,
+            "title": "Pariah",
+            "original_title": "Pariah",
+            "overview": "A Brooklyn teenager juggles conflicting identities and risks friendship, heartbreak, and family in a desperate search for sexual expression.",
+            "poster_path": "/lX9Ss9LH3bsAoGWDvsPv4zZG9fa.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 1.5283,
+            "release_date": "2011-12-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.848,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+            "id": 345,
+            "title": "Eyes Wide Shut",
+            "original_title": "Eyes Wide Shut",
+            "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+            "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                53,
+                9648
+            ],
+            "popularity": 21.9866,
+            "release_date": "1999-07-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.485,
+            "vote_count": 7175
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/plsZ3coRURoFnNkjaWcbPVy72kd.jpg",
+            "id": 11171,
+            "title": "Mysterious Skin",
+            "original_title": "Mysterious Skin",
+            "overview": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth.",
+            "poster_path": "/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 5.7447,
+            "release_date": "2005-03-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 1320
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8cg5rj2q4ZdVMhIE9xjoNDHFNen.jpg",
+            "id": 44472,
+            "title": "Wasp",
+            "original_title": "Wasp",
+            "overview": "Zoë is a single mother who lives with her four children in Dartford. She is poor and can't afford to buy food. One day her old flame drives by and asks her to go on a date with him. Scared that he doesn't want to go out with her, she lies and tells him that she is just babysitting the kids. This will be her first date in years.",
+            "poster_path": "/9W6dKmIYyrw3clcwTT9VIUero9X.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 2.4911,
+            "release_date": "2003-08-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.233,
+            "vote_count": 146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1t0SonlKEQy4XHZcIu0SgQNrdJ5.jpg",
+            "id": 28054,
+            "title": "Suburbia",
+            "original_title": "Suburbia",
+            "overview": "When household tensions and a sense of worthlessness overcome Evan, he finds escape when he clings with the orphans of a throw-away society. The runaways hold on to each other like a family until a tragedy tears them apart.",
+            "poster_path": "/vydIE7nizxO04ER9EcDdbdaHh8c.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10402,
+                53
+            ],
+            "popularity": 1.8446,
+            "release_date": "1984-04-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.663,
+            "vote_count": 98
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uc8FwdCQi3eD7JIbyiZuzo5n6Jv.jpg",
+            "id": 18533,
+            "title": "Bronson",
+            "original_title": "Bronson",
+            "overview": "A young man who was sentenced to 7 years in prison for robbing a post office ends up spending 30 years in solitary confinement. During this time, his own personality is supplanted by his alter ego, Charles Bronson.",
+            "poster_path": "/6diyyGIbBNiANsdIaCGtyv4IofR.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                28,
+                80
+            ],
+            "popularity": 3.8164,
+            "release_date": "2009-03-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.943,
+            "vote_count": 2733
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rzaf3eCT8pVCGvuS7P8g2nPitqC.jpg",
+            "id": 7452,
+            "title": "The Cook, the Thief, His Wife & Her Lover",
+            "original_title": "The Cook, the Thief, His Wife & Her Lover",
+            "overview": "When churlish mobster Albert Spica acquires an upscale French restaurant in London, he dines there nightly, effectively scaring off the clientele with his bad manners. His wife, Georgina, is especially disgusted by him, and soon begins an affair with regular guest Michael. Despite their best efforts to keep it secret, Spica learns about their trysts, and he plots a terrible revenge.",
+            "poster_path": "/15xMqAnFsROopAT66zdRyu2Dtek.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "popularity": 7.3314,
+            "release_date": "1989-10-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.33,
+            "vote_count": 728
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p8yXQse3IDZiwEjWRHda3EzDQjA.jpg",
+            "id": 3131,
+            "title": "Gangs of New York",
+            "original_title": "Gangs of New York",
+            "overview": "In early 1860s New York, Irish immigrant Amsterdam Vallon is released from prison and returns to the Five Points, seeking revenge against his father's killer, William Cutting, a powerful anti-immigrant gang leader. He knows that revenge can only be attained by infiltrating Cutting's inner circle. Vallon's journey becomes a fight for personal survival and to find a place for the Irish people.",
+            "poster_path": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                36,
+                80
+            ],
+            "popularity": 8.6,
+            "release_date": "2002-12-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.32,
+            "vote_count": 7340
+        }
+    ]
+}

@@ -1,0 +1,998 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+        "belongs_to_collection": null,
+        "budget": 1000000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.primevideo.com/detail/Bone-Lake/0TIFSOT2EWPQ7MSAQ603DUA7QS",
+        "id": 1330421,
+        "imdb_id": "tt26783625",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Bone Lake",
+        "overview": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+        "popularity": 10.9358,
+        "poster_path": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+        "production_companies": [
+            {
+                "id": 8533,
+                "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+                "name": "LD Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 167986,
+                "logo_path": "/xtZztkvakekloKHF857Hy8ttAs8.png",
+                "name": "Bleecker Street",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2025-10-02",
+        "revenue": 1688650,
+        "runtime": 94,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "What's your body count?",
+        "title": "Bone Lake",
+        "video": false,
+        "vote_average": 5.891,
+        "vote_count": 225
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1167375,
+            "known_for_department": "Acting",
+            "name": "Alex Roe",
+            "original_name": "Alex Roe",
+            "popularity": 2.4048,
+            "profile_path": "/n3EVRACN3XEuOzrWK3TTn791gWo.jpg",
+            "cast_id": 3,
+            "character": "Will",
+            "credit_id": "66be83171b7f6ea67150cc35",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 593202,
+            "known_for_department": "Acting",
+            "name": "Maddie Hasson",
+            "original_name": "Maddie Hasson",
+            "popularity": 1.973,
+            "profile_path": "/k4mZCWtBVxcRmC74taxhlpB8gYT.jpg",
+            "cast_id": 2,
+            "character": "Sage",
+            "credit_id": "66be830abcb043f4555aae50",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1252323,
+            "known_for_department": "Acting",
+            "name": "Marco Pigossi",
+            "original_name": "Marco Pigossi",
+            "popularity": 1.075,
+            "profile_path": "/gWtzmoCeBGSc4PnTw7cNk4Fplve.jpg",
+            "cast_id": 4,
+            "character": "Diego",
+            "credit_id": "66be832a461ffa748ae61c93",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 997379,
+            "known_for_department": "Acting",
+            "name": "Andra Nechita",
+            "original_name": "Andra Nechita",
+            "popularity": 1.0475,
+            "profile_path": "/em1s0NBy64ow9LbpBjgrTV6i3pU.jpg",
+            "cast_id": 5,
+            "character": "Cin",
+            "credit_id": "66be833ecd7bc1090a403c77",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 4888306,
+            "known_for_department": "Acting",
+            "name": "Clayton Spencer",
+            "original_name": "Clayton Spencer",
+            "popularity": 0.4162,
+            "profile_path": "/hRmVjpisYzW5jJzB96O9uKNU0MT.jpg",
+            "cast_id": 7,
+            "character": "Brett",
+            "credit_id": "66be83701b7f6ea67150cc42",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4390286,
+            "known_for_department": "Acting",
+            "name": "Eliane Reis",
+            "original_name": "Eliane Reis",
+            "popularity": 0.5081,
+            "profile_path": "/s0m5qJ5CNTPitpPYWUkI5de07Go.jpg",
+            "cast_id": 6,
+            "character": "Angie",
+            "credit_id": "66be83556187b14b63c38cc7",
+            "order": 5
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1855321,
+            "known_for_department": "Directing",
+            "name": "Mercedes Bryce Morgan",
+            "original_name": "Mercedes Bryce Morgan",
+            "popularity": 0.6236,
+            "profile_path": "/wahJQFDwBE1ezu4DWxJBFjD8Wwl.jpg",
+            "credit_id": "66be5ee8e2dd2dbf869ca0bc",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3178588,
+            "known_for_department": "Writing",
+            "name": "Joshua Friedlander",
+            "original_name": "Joshua Friedlander",
+            "popularity": 0.4714,
+            "profile_path": null,
+            "credit_id": "66be83a017d2e86a0855909f",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1345718,
+            "known_for_department": "Directing",
+            "name": "Jason Blumenfeld",
+            "original_name": "Jason Blumenfeld",
+            "popularity": 0.598,
+            "profile_path": null,
+            "credit_id": "66be83c9e098d815045aae44",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3178588,
+            "known_for_department": "Writing",
+            "name": "Joshua Friedlander",
+            "original_name": "Joshua Friedlander",
+            "popularity": 0.4714,
+            "profile_path": null,
+            "credit_id": "66be83816187b14b63c38ccb",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1634060,
+            "known_for_department": "Production",
+            "name": "Jacob Yakob",
+            "original_name": "Jacob Yakob",
+            "popularity": 0.4961,
+            "profile_path": "/4cdUKIx71xjHsekoNb0zczGlPu6.jpg",
+            "credit_id": "66be83b5a7eaa63fde5aae80",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 48498,
+            "known_for_department": "Production",
+            "name": "Mickey Liddell",
+            "original_name": "Mickey Liddell",
+            "popularity": 0.6186,
+            "profile_path": null,
+            "credit_id": "66be83969ccf1cdefe50cc23",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 14351,
+            "known_for_department": "Sound",
+            "name": "Roque Baños",
+            "original_name": "Roque Baños",
+            "popularity": 0.5049,
+            "profile_path": "/aYZZhbkZvOJ8aQUQSqMjnILmbK4.jpg",
+            "credit_id": "68e26a3b81ddbbc250f815f4",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5730964,
+            "known_for_department": "Sound",
+            "name": "Ben Cherney",
+            "original_name": "Ben Cherney",
+            "popularity": 0.138,
+            "profile_path": null,
+            "credit_id": "68e26a7d5e1965a6f396138c",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1186631,
+            "known_for_department": "Production",
+            "name": "Pete Shilaimon",
+            "original_name": "Pete Shilaimon",
+            "popularity": 0.5796,
+            "profile_path": null,
+            "credit_id": "691787992859dd97554c9cee",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3272120,
+            "known_for_department": "Production",
+            "name": "Mehrdod Heydari",
+            "original_name": "Mehrdod Heydari",
+            "popularity": 0.2928,
+            "profile_path": null,
+            "credit_id": "691787f3c4ea5b5c2e3a48f1",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1837295,
+            "known_for_department": "Production",
+            "name": "Joseph Yakob",
+            "original_name": "Joseph Yakob",
+            "popularity": 0.3226,
+            "profile_path": null,
+            "credit_id": "6917881a41b0b93d78a0e717",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1167375,
+            "known_for_department": "Acting",
+            "name": "Alex Roe",
+            "original_name": "Alex Roe",
+            "popularity": 2.4048,
+            "profile_path": "/n3EVRACN3XEuOzrWK3TTn791gWo.jpg",
+            "credit_id": "6917884d9b2ed4e73f9c597c",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2313964,
+            "known_for_department": "Production",
+            "name": "Edgar Rosa",
+            "original_name": "Edgar Rosa",
+            "popularity": 0.2826,
+            "profile_path": "/rOSgb1uLdeZD2Uwoj1bsxoQeXiQ.jpg",
+            "credit_id": "69178886312ecd29889adeac",
+            "department": "Production",
+            "job": "Line Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2595445,
+            "known_for_department": "Art",
+            "name": "Kendra Bradanini",
+            "original_name": "Kendra Bradanini",
+            "popularity": 0.1914,
+            "profile_path": null,
+            "credit_id": "691788bd61f4c08e56ac2e7d",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1882700,
+            "known_for_department": "Editing",
+            "name": "Anjoum Agrama",
+            "original_name": "Anjoum Agrama",
+            "popularity": 0.3904,
+            "profile_path": null,
+            "credit_id": "691788dc034982ba0940e9bb",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1066776,
+            "known_for_department": "Sound",
+            "name": "Liz Gallacher",
+            "original_name": "Liz Gallacher",
+            "popularity": 0.4483,
+            "profile_path": null,
+            "credit_id": "691789530d1d06c2f031cc8b",
+            "department": "Sound",
+            "job": "Music Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2412577,
+            "known_for_department": "Production",
+            "name": "Jamie Ember",
+            "original_name": "Jamie Ember",
+            "popularity": 0.4295,
+            "profile_path": null,
+            "credit_id": "6917898da04bfc56e49adc38",
+            "department": "Production",
+            "job": "Casting"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2039923,
+            "known_for_department": "Production",
+            "name": "Jax Baker",
+            "original_name": "Jax Baker",
+            "popularity": 0.2999,
+            "profile_path": null,
+            "credit_id": "69178a0e6907a239e64c9d6a",
+            "department": "Production",
+            "job": "Unit Production Manager"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2835727,
+            "known_for_department": "Directing",
+            "name": "T.C. Barrera",
+            "original_name": "T.C. Barrera",
+            "popularity": 0.227,
+            "profile_path": "/i3TI2ybYAbjytJxfMerZjPjtQe4.jpg",
+            "credit_id": "69178a3f6b8a39a9afac2a82",
+            "department": "Directing",
+            "job": "First Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3745263,
+            "known_for_department": "Directing",
+            "name": "Aeric Adams",
+            "original_name": "Aeric Adams",
+            "popularity": 0.2014,
+            "profile_path": null,
+            "credit_id": "69178b6df4e946c1c43a48f5",
+            "department": "Directing",
+            "job": "Second Assistant Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1578364,
+            "known_for_department": "Crew",
+            "name": "Keith Splinter Davis",
+            "original_name": "Keith Splinter Davis",
+            "popularity": 0.5947,
+            "profile_path": "/buXCsTzcKOHTquh8LiOSDKd1rwd.jpg",
+            "credit_id": "69178be20ccc7fff2a40ea4a",
+            "department": "Crew",
+            "job": "Stunt Coordinator"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3992196,
+            "known_for_department": "Crew",
+            "name": "Spencer Davis",
+            "original_name": "Spencer Davis",
+            "popularity": 0.291,
+            "profile_path": null,
+            "credit_id": "69178c39ea3b47df3c4c9cbb",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3546499,
+            "known_for_department": "Crew",
+            "name": "Erika Keck",
+            "original_name": "Erika Keck",
+            "popularity": 0.3809,
+            "profile_path": "/oTuAFUtIwzcQJ79kcDdF7AaTTuf.jpg",
+            "credit_id": "69178c4f2075737f024c9d4e",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1635212,
+            "known_for_department": "Crew",
+            "name": "Jared Losano",
+            "original_name": "Jared Losano",
+            "popularity": 0.3979,
+            "profile_path": null,
+            "credit_id": "69178c640ff15da6849adc69",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3979287,
+            "known_for_department": "Crew",
+            "name": "Taylor Valentine Lupini",
+            "original_name": "Taylor Valentine Lupini",
+            "popularity": 0.5165,
+            "profile_path": "/pyBl3OUxzMrggYyPm0sEUgHwGiq.jpg",
+            "credit_id": "69178c7f7dc8f9e2c331ccbf",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1790012,
+            "known_for_department": "Crew",
+            "name": "Tim James",
+            "original_name": "Tim James",
+            "popularity": 0.4144,
+            "profile_path": "/q0bgOhQAU0PQ2Tnc3o4tUlqxaPL.jpg",
+            "credit_id": "69178c98880b45cf2b40e9a4",
+            "department": "Crew",
+            "job": "Stunt Double"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1412309,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Eulyn C. Hufkie-Womble",
+            "original_name": "Eulyn C. Hufkie-Womble",
+            "popularity": 0.2189,
+            "profile_path": null,
+            "credit_id": "6a1959e2fdfd5c669a744cc4",
+            "department": "Costume & Make-Up",
+            "job": "Costume Design"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5704033,
+            "known_for_department": "Camera",
+            "name": "Nick Matthews",
+            "original_name": "Nick Matthews",
+            "popularity": 0.2988,
+            "profile_path": null,
+            "credit_id": "6a1959e659134e916fc89ad6",
+            "department": "Camera",
+            "job": "Director of Photography"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 1332,
+            "name": "cheating"
+        },
+        {
+            "id": 3979,
+            "name": "hidden camera"
+        },
+        {
+            "id": 9826,
+            "name": "murder"
+        },
+        {
+            "id": 10714,
+            "name": "serial killer"
+        },
+        {
+            "id": 12394,
+            "name": "chainsaw"
+        },
+        {
+            "id": 33841,
+            "name": "incest"
+        },
+        {
+            "id": 207767,
+            "name": "erotic thriller"
+        },
+        {
+            "id": 230225,
+            "name": "airbnb"
+        },
+        {
+            "id": 325844,
+            "name": "ridiculous"
+        },
+        {
+            "id": 350360,
+            "name": "brother sister incest"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+            "id": 913290,
+            "title": "Barbarian",
+            "original_title": "Barbarian",
+            "overview": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "poster_path": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 12.6579,
+            "release_date": "2022-09-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.874,
+            "vote_count": 3384
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
+            "id": 8461,
+            "title": "Funny Games",
+            "original_title": "Funny Games",
+            "overview": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+            "poster_path": "/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 7.6041,
+            "release_date": "2008-03-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.548,
+            "vote_count": 2306
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+            "id": 10299,
+            "title": "Hush... Hush, Sweet Charlotte",
+            "original_title": "Hush... Hush, Sweet Charlotte",
+            "overview": "An aging, reclusive Southern belle plagued by a horrifying family secret descends into madness after the arrival of a lost relative.",
+            "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 3.2454,
+            "release_date": "1964-12-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.302,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l2iiSqwUYzM5l9sA0fAPZxdTyhr.jpg",
+            "id": 574883,
+            "title": "An Affair to Die For",
+            "original_title": "An Affair to Die For",
+            "overview": "A weekend get-away for two lovers turns into a nightmare of psychological mind games when their infidelity is discovered.",
+            "poster_path": "/Vo4vUGaE081biscSRiacl9agmE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.9981,
+            "release_date": "2019-02-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.811,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/I4ofwq3XfmwXAETUs5pjubcMJ0.jpg",
+            "id": 1029281,
+            "title": "Strange Darling",
+            "original_title": "Strange Darling",
+            "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 7.97,
+            "release_date": "2024-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.885,
+            "vote_count": 982
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1xhcEecvRJXQ2OAVO7l9btlrN6D.jpg",
+            "id": 667216,
+            "title": "Infinity Pool",
+            "original_title": "Infinity Pool",
+            "overview": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.",
+            "poster_path": "/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "popularity": 6.6665,
+            "release_date": "2023-01-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.047,
+            "vote_count": 1082
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o2SeAw8ARPB1D8oudCRJcxW3w60.jpg",
+            "id": 13186,
+            "title": "Wrong Turn 2: Dead End",
+            "original_title": "Wrong Turn 2: Dead End",
+            "overview": "Retired military commander Colonel Dale Murphy hosts the simulated post-apocalyptic reality show where participants are challenged to survive a remote West Virginia wasteland. But the show turns into a nightmarish showdown when each realizes they are being hunted by an inbred family of cannibals determined to make them all dinner!",
+            "poster_path": "/ow3IMhTVLryZuCEoQznVTTmFYuu.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 10.5968,
+            "release_date": "2007-08-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.174,
+            "vote_count": 1586
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dMy6C8tcvXNFuOdL6pdppmvAgia.jpg",
+            "id": 431185,
+            "title": "He's Out There",
+            "original_title": "He's Out There",
+            "overview": "On vacation at a remote lake house, a mother and her two young daughters must fight for survival after falling into a terrifying and bizarre nightmare conceived by a psychopath.",
+            "poster_path": "/pi9Zo4uIATSe8cQ96cCOWJ1qdGw.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 3.0172,
+            "release_date": "2018-10-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.872,
+            "vote_count": 343
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/boprqXZexBatujVC07gZzzxjWk.jpg",
+            "id": 1109406,
+            "title": "Compulsion",
+            "original_title": "Compulsion",
+            "overview": "Two women—Diana, a flamboyant and ruthless thief, and Evie, a seemingly innocent young woman with a troubled past—become embroiled in a series of horrific murders on the island of Malta.",
+            "poster_path": "/s3MzSdsMcmxmpVJMuH5ezNPjzs7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 3.3393,
+            "release_date": "2024-11-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.046,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aoidrQ7c0Z170EvyoDSMDeq1mUV.jpg",
+            "id": 312791,
+            "title": "GirlHouse",
+            "original_title": "GirlHouse",
+            "overview": "In an attempt to make some extra cash while away at College, Kylie moves into a house that streams content to an X-rated website. After a deranged fan hacks in to determine the house's location, she finds herself in a terrifying fight for her life.",
+            "poster_path": "/4zR3QYWoeY2mTwVWnVxUQQptqdM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 5.1332,
+            "release_date": "2014-10-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.959,
+            "vote_count": 327
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jEt4V0Qb3g8frTl2MOwPORZthVH.jpg",
+            "id": 1160003,
+            "title": "Night of the Hunted",
+            "original_title": "Night of the Hunted",
+            "overview": "When an unsuspecting woman stops at a remote gas station in the dead of night, she's made the plaything of a sociopath sniper with a secret vendetta. To survive, she must not only dodge his bullets and fight for her life, but also figure out who wants her dead and why.",
+            "poster_path": "/84YOsylmgr181BHrTKlmaKs8IzV.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 3.6709,
+            "release_date": "2023-10-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.024,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/456tLLmzg7OeNyijCvCfL6X55VV.jpg",
+            "id": 1142414,
+            "title": "Cheat",
+            "original_title": "Cheat",
+            "overview": "On the surface it's believed to be another urban legend - a supernatural being from the afterlife is violently killing anyone who cheats on their significant other in the small college town of Silvercreek, Pennsylvania. But the town's unusually high suicide rate is finally convincing both locals and college students that everything is not as it seems. When Maeve - a female college student - sleeps with Charlie, the married man of the host family she is staying with, both sense the deadly curse is closing in on them. Unable to get anyone to believe them, Maeve and Charlie seek out a local history student to help find answers and figure out a way to defend themselves. It all comes undone, however, as several people are horrifically killed by the savage being - one-by-one at a rapid pace. Eventually, Maeve, Charlie and the few survivors band together in an attempt to defeat the monster once and for all.",
+            "poster_path": "/46Um9OTHNA390mMxwpSSc2m35Zp.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "popularity": 2.8601,
+            "release_date": "2023-08-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.014,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+            "id": 808396,
+            "title": "God Is a Bullet",
+            "original_title": "God Is a Bullet",
+            "overview": "Vice detective Bob Hightower finds his ex-wife murdered and daughter kidnapped by a cult. Frustrated by the botched official investigations, he quits the force and infiltrates the cult to hunt down the leader with the help of the cult’s only female victim escapee, Case Hardin.",
+            "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                80,
+                27
+            ],
+            "popularity": 4.6942,
+            "release_date": "2023-06-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o1jzMqBiziQILkPVEONuYS4QluX.jpg",
+            "id": 37865,
+            "title": "Buried Alive",
+            "original_title": "Buried Alive",
+            "overview": "A married woman and her lover plot to kill her husband to make off with the insurance money. However, their attempt to murder him using poisonous fish toxins backfires in surprising ways.",
+            "poster_path": "/75X5BCuZIsfZYxWZfhi02v4MudO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                80,
+                27,
+                10770
+            ],
+            "popularity": 3.0955,
+            "release_date": "1990-05-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.724,
+            "vote_count": 185
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jmE8wxLSS90K1K01mCBaS4rQq23.jpg",
+            "id": 601844,
+            "title": "Becky",
+            "original_title": "Becky",
+            "overview": "A teenager's weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.",
+            "poster_path": "/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                27,
+                28
+            ],
+            "popularity": 4.7516,
+            "release_date": "2020-07-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.317,
+            "vote_count": 737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gCIB84HvfkJAT2TadUnk58W1XQx.jpg",
+            "id": 543917,
+            "title": "Bloodline",
+            "original_title": "Bloodline",
+            "overview": "Evan values family above all else, and anyone who gets between him, his wife, and newborn son learns that the hard way. But when it comes to violent tendencies, it seems the apple doesn’t fall far from the tree.",
+            "poster_path": "/u9UfbDVilnhT3fa82aTFs3O0TsA.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 1.8247,
+            "release_date": "2019-09-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 284
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
+            "id": 285923,
+            "title": "Grindhouse",
+            "original_title": "Grindhouse",
+            "overview": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
+            "poster_path": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                28,
+                27
+            ],
+            "popularity": 5.1775,
+            "release_date": "2007-04-06",
+            "softcore": false,
+            "video": true,
+            "vote_average": 7.004,
+            "vote_count": 1915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
+            "id": 16342,
+            "title": "The Children",
+            "original_title": "The Children",
+            "overview": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
+            "poster_path": "/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "popularity": 2.2077,
+            "release_date": "2008-12-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.066,
+            "vote_count": 422
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+            "id": 9003,
+            "title": "Hellraiser",
+            "original_title": "Hellraiser",
+            "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
+            "poster_path": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 9.227,
+            "release_date": "1987-09-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.882,
+            "vote_count": 2927
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ptZypdOBofmADX9JCtgi5E38cnC.jpg",
+            "id": 74725,
+            "title": "Kill List",
+            "original_title": "Kill List",
+            "overview": "Nearly a year after a botched job, a hitman takes a new assignment with the promise of a big payoff for three killings. What starts off as an easy task soon unravels, sending the killer into the heart of darkness.",
+            "poster_path": "/qwT2I3ons0oD58jIppKmd4qLtvB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53,
+                80
+            ],
+            "popularity": 4.1172,
+            "release_date": "2011-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.196,
+            "vote_count": 890
+        }
+    ]
+}

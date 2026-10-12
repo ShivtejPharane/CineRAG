@@ -1,0 +1,797 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/jORq8L657TPiTwDSAqVfayE18Ij.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "",
+        "id": 1483614,
+        "imdb_id": null,
+        "origin_country": [
+            "CN"
+        ],
+        "original_language": "zh",
+        "original_title": "仙逆剧场版：神临之战",
+        "overview": "Behind the Ancient God's Land, the Eternal Night Demon City in the Demon Cultivation Sea rises overnight. In order to expand its territory, it attacks the sects around the Sea, including the Yuntian Sect. Li Muwan is poisoned in the battle to protect the gate, leaving her life at stake. After Wang Lin learns of this, he takes her into the Sea again. Wang Lin fights the three city lords with his initial cultivation of the God of Incarnation, and becomes famous in the Sea. He returns with the antidote to save Li Muwan, but finds that the crisis unresolved, and the thousand-year conspiracy surfaces. Relying on their feelings and the first fusion with the body of the Ancient God after the God of Incarnation, Li Muwan and Wang Lin join forces to defeat the Demon Lord.",
+        "popularity": 11.8482,
+        "poster_path": "/fa9cOfzN1wVCTnyPTnVTQCEOKM8.jpg",
+        "production_companies": [
+            {
+                "id": 119717,
+                "logo_path": "/3fhmV1PuOuGWYE6Ly0fiiVbeKcC.png",
+                "name": "Build Dream",
+                "origin_country": "CN"
+            },
+            {
+                "id": 74457,
+                "logo_path": "/mPsCbXC5k20bpKErrbOQd1fG0L7.png",
+                "name": "Tencent Video",
+                "origin_country": "CN"
+            },
+            {
+                "id": 245203,
+                "logo_path": null,
+                "name": "Ran Dong Yuzhou Studio Group",
+                "origin_country": "CN"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "release_date": "2025-05-30",
+        "revenue": 0,
+        "runtime": 93,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Mandarin",
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Renegade Immortal: Battle of Gods",
+        "video": false,
+        "vote_average": 9.6,
+        "vote_count": 5
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3837521,
+            "known_for_department": "Acting",
+            "name": "Shi Zekun",
+            "original_name": "史泽鲲",
+            "popularity": 3.5183,
+            "profile_path": "/1O3W2fPIfMTMo6cFpUnxvhivJje.jpg",
+            "cast_id": 1,
+            "character": "Wang Lin (voice)",
+            "credit_id": "682aba4a64ff813d3b9e3333",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 4335054,
+            "known_for_department": "Acting",
+            "name": "Zhang Huilin",
+            "original_name": "Huilin Zhang",
+            "popularity": 1.3013,
+            "profile_path": "/7zB8NhqoZzMoEQpQDOAJIfdgVYV.jpg",
+            "cast_id": 2,
+            "character": "Li Muwan (voice)",
+            "credit_id": "682abb039ca17c9182648e08",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2199312,
+            "known_for_department": "Acting",
+            "name": "Liu Cong",
+            "original_name": "劉琮",
+            "popularity": 1.2235,
+            "profile_path": "/wXl2Jxi9D2hj0DLoTzCGG1xf5jy.jpg",
+            "cast_id": 4,
+            "character": "Yong Ye Mo Zun (voice)",
+            "credit_id": "6839b814084602e91a080b5e",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2463708,
+            "known_for_department": "Acting",
+            "name": "Chen Zhangtaikang",
+            "original_name": "陈张太康",
+            "popularity": 1.9115,
+            "profile_path": "/wU0gWYTNIqK37wn2c8VmSlYImSw.jpg",
+            "cast_id": 5,
+            "character": "Wen Kuang (voice)",
+            "credit_id": "6839b840ebdc474fdb5599bb",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 4928024,
+            "known_for_department": "Acting",
+            "name": "Li Haojia",
+            "original_name": "李昊甲",
+            "popularity": 0.8516,
+            "profile_path": "/r66Q2aTfriJNjBP3K93VllqhST4.jpg",
+            "cast_id": 6,
+            "character": "Ou Yang Zi (voice)",
+            "credit_id": "6839b8608dc707c9543d219c",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2129163,
+            "known_for_department": "Acting",
+            "name": "Zhuang Miao",
+            "original_name": "苗壯",
+            "popularity": 0.9767,
+            "profile_path": "/deV2CAs9lgpaoINHF0HAtwLXUow.jpg",
+            "cast_id": 7,
+            "character": "Shang Guang Mo / Yu Yin Zhen Jun (voice)",
+            "credit_id": "6839b884e2eb6daed655997a",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5076749,
+            "known_for_department": "Acting",
+            "name": "Ling Jun",
+            "original_name": "赵俊凌",
+            "popularity": 0.4013,
+            "profile_path": "/4JsuoEEp7LIi17t36YYQKJHAaSC.jpg",
+            "cast_id": 8,
+            "character": "Du Ci Shang Ren (voice)",
+            "credit_id": "6839b8f5ca9d9c420bcda0c3",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3091091,
+            "known_for_department": "Acting",
+            "name": "Liu Sicen",
+            "original_name": "刘思岑",
+            "popularity": 1.639,
+            "profile_path": "/8AKjKsjULYhCw0zkaVNQHa1V65X.jpg",
+            "cast_id": 9,
+            "character": "Xu Liguo (voice)",
+            "credit_id": "6839b949d2e35e538999ae89",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5473867,
+            "known_for_department": "Acting",
+            "name": "薛羽峰",
+            "original_name": "薛羽峰",
+            "popularity": 0.2957,
+            "profile_path": null,
+            "cast_id": 10,
+            "character": "",
+            "credit_id": "683a73679d3c832555288307",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5473868,
+            "known_for_department": "Acting",
+            "name": "白望文一",
+            "original_name": "白望文一",
+            "popularity": 0.2114,
+            "profile_path": null,
+            "cast_id": 11,
+            "character": "",
+            "credit_id": "683a738cb01a29a9646891fa",
+            "order": 9
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2799581,
+            "known_for_department": "Creator",
+            "name": "Ergen",
+            "original_name": "耳根",
+            "popularity": 1.0529,
+            "profile_path": "/i8MBUagwfWjG38D1Zr61YCw3lLp.jpg",
+            "credit_id": "682acccb75274824c2e24a8f",
+            "department": "Writing",
+            "job": "Novel"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3719169,
+            "known_for_department": "Directing",
+            "name": "TouXiong Shi",
+            "original_name": "石头熊",
+            "popularity": 0.4343,
+            "profile_path": "/2h2ANVFwV2yi1DDYR4etfdPA1UT.jpg",
+            "credit_id": "68873641aaded2ad6652b3cc",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3462746,
+            "known_for_department": "Acting",
+            "name": "Li Zhenfeng",
+            "original_name": "Li Zhenfeng",
+            "popularity": 0.6949,
+            "profile_path": null,
+            "credit_id": "6887364fc74b327f5a3900e0",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3153859,
+            "known_for_department": "Acting",
+            "name": "Wang Jianxin",
+            "original_name": "王建新",
+            "popularity": 0.9679,
+            "profile_path": "/uGiruqz2AinOsxy0z9OzsVUAQYR.jpg",
+            "credit_id": "6887365e1bc0fd1b57d9b729",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1138368,
+            "known_for_department": "Writing",
+            "name": "Ma Hua",
+            "original_name": "Ma Hua",
+            "popularity": 0.4955,
+            "profile_path": null,
+            "credit_id": "6887366d50eaf66252247051",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5591374,
+            "known_for_department": "Writing",
+            "name": "Wang Ziyue",
+            "original_name": "Wang Ziyue",
+            "popularity": 0.298,
+            "profile_path": null,
+            "credit_id": "6887367acf7126cd5af78eee",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 5591375,
+            "known_for_department": "Writing",
+            "name": "Zheng Yinglu",
+            "original_name": "Zheng Yinglu",
+            "popularity": 0.3597,
+            "profile_path": null,
+            "credit_id": "688736863cf100600b52b510",
+            "department": "Writing",
+            "job": "Writer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 179411,
+            "name": "based on fairy tale"
+        },
+        {
+            "id": 234890,
+            "name": "xianxia"
+        },
+        {
+            "id": 269769,
+            "name": "based on tv series"
+        },
+        {
+            "id": 340359,
+            "name": "oriental fantasy"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/rhJgHS28BVc5o2rBWVwZa3aMJCF.jpg",
+            "id": 795607,
+            "title": "Green Snake",
+            "original_title": "白蛇2：青蛇劫起",
+            "overview": "While trying to free her sister from Fahai's clutches, Xiao Qing winds up in a dystopian city and meets a mysterious man who can't recall his past life.",
+            "poster_path": "/g9SQCIGHDqol11QcymtDqMI7SCp.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                14,
+                28,
+                12
+            ],
+            "popularity": 4.7309,
+            "release_date": "2021-07-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.057,
+            "vote_count": 385
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fXxssjwHHxkOHAYVOGteCFTijHj.jpg",
+            "id": 1155234,
+            "title": "Endless Journey of Love",
+            "original_title": "时间之子",
+            "overview": "In 1930s China, village girl Qian Xiao gains the power to control time, making her a target of powerful forces. As she uncovers the metropolis's hidden secrets, she faces peril and the cost of her gift.",
+            "poster_path": "/wrJ3kO7iXgGGGH4aFJIJXpCJOZJ.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                10749,
+                16,
+                14,
+                12
+            ],
+            "popularity": 5.1432,
+            "release_date": "2025-05-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 9.204,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ciQxS1iijdx4FTBxZgpJR8avloc.jpg",
+            "id": 74037,
+            "title": "Nezha Conquers the Dragon King",
+            "original_title": "哪吒闹海",
+            "overview": "In Chentang Pass, Nezha, the magical son of General Li Jing, makes enemies with Ao Guang, the Dragon King of East Sea. When he is reported to heaven's court and his home is threatened, Nezha takes it upon himself to destroy the palace and defeat the dragons. A retelling of the classic chapters from Investiture of The Gods.",
+            "poster_path": "/jMThfUmAEsA0K1rZIjW3dqRXv2q.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                14,
+                12,
+                28
+            ],
+            "popularity": 3.9915,
+            "release_date": "1979-05-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.758,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mORnIJNRN9gifjxUL4DVCPk7In1.jpg",
+            "id": 805051,
+            "title": "Welcome to Smelliville",
+            "original_title": "The Ogglies",
+            "overview": "The Oggly family arrive at the municipal rubbish dump of Smelliville and must look for a new home, but they never feel really welcome anywhere. They stink and are for most humans just a tad too oggly. When Firebottom, the family dragon, crash-lands on the run-down rubbish tip of the small town of Smelliville, the Ogglies at once feel at home. And it's here they want to stay.",
+            "poster_path": "/w7PJ7fBEYOuaAMKfYa4zmw45v3N.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "popularity": 3.2211,
+            "release_date": "2021-05-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rrUsh0jODStzpJcDbDvLB1Tl901.jpg",
+            "id": 1144107,
+            "title": "The Legend of Hei 2",
+            "original_title": "罗小黑战记 2",
+            "overview": "When an attack shatters the fragile peace between the spirit world and humanity, Hei teams up with Luye, the last disciple of his Shifu Wuxian, to expose a conspiracy that threatens both realms - and the bond they've sworn to protect.",
+            "poster_path": "/dRCUBiTKtsmju3fmSS4MK0ywcqR.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                14,
+                28,
+                12
+            ],
+            "popularity": 25.3906,
+            "release_date": "2025-07-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.58,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4PKfa0zltSrp1BJoLl8zfvYXaac.jpg",
+            "id": 663558,
+            "title": "New Gods: Nezha Reborn",
+            "original_title": "新神榜：哪吒重生",
+            "overview": "While living as an ordinary deliveryman and motor racing fan, Nezha encounters old nemeses and must rediscover his powers to protect his loved ones.",
+            "poster_path": "/np4ScPY04HESKBbpexwstKsipKe.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                14,
+                28
+            ],
+            "popularity": 5.7404,
+            "release_date": "2021-02-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.072,
+            "vote_count": 523
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tkuVd1LYyltRdiWO50kJ5lc4J9V.jpg",
+            "id": 611698,
+            "title": "A Writer's Odyssey",
+            "original_title": "刺杀小说家",
+            "overview": "Lu Kongwen is the author of a fantasy novel series following a heroic teenager, also named Kongwen, on a quest to end the tyrannical rule of Lord Redmane, under the guidance of a Black Armor. But through a strange twist of fate, the fantasy world of the novel begins to impact life in the real world, leading Guan Ning to accept a mission from Tu Ling to kill the author.",
+            "poster_path": "/7hEhhmAF8Tr7g95fkbuxDpeR27b.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                14,
+                28,
+                12,
+                18
+            ],
+            "popularity": 7.4116,
+            "release_date": "2021-02-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.064,
+            "vote_count": 370
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xawDFjfjBmtKYC29bZOYnYPGa8e.jpg",
+            "id": 1304434,
+            "title": "Nobody",
+            "original_title": "浪浪山小妖怪",
+            "overview": "The Little Pig Yao decides to leave Langlang Mountain to join the pilgrimage. On the journey west, what trials will the little monsters face? In the end, will they achieve their dreams and live as they truly desire?",
+            "poster_path": "/mCa8Pb4L0X56gxV1sIQkLJ2RKz0.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                12,
+                14,
+                35
+            ],
+            "popularity": 9.2324,
+            "release_date": "2025-08-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.854,
+            "vote_count": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zxIXvhF5PSZwQ9tvlLIzhcwi7IO.jpg",
+            "id": 844075,
+            "title": "New Gods: Yang Jian",
+            "original_title": "新神榜：杨戬",
+            "overview": "Fifteen hundred years after the war of gods, the heaven declined. Yang Jian, the God of Erlang, made a living by working as a catcher. One day, Yang Jian was ordered to hunt down a young man, his own nephew.",
+            "poster_path": "/tW5dFOemV4d7hxTcVI2bu4u0C9z.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                12,
+                14,
+                35
+            ],
+            "popularity": 6.0102,
+            "release_date": "2022-08-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.495,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c9xmB53umjnrCMS4pZz11clF3yJ.jpg",
+            "id": 980477,
+            "title": "Ne Zha 2",
+            "original_title": "哪吒之魔童闹海",
+            "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+            "poster_path": "/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                12
+            ],
+            "popularity": 26.3696,
+            "release_date": "2025-01-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.158,
+            "vote_count": 779
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Urx7y2CQQvxIlzk5R0BpOKI2NR.jpg",
+            "id": 635389,
+            "title": "Jiang Ziya",
+            "original_title": "姜子牙",
+            "overview": "Atop the ruins of war, top commander Jiang Ziya is given the task to banish the Nine-tailed Fox Demon who threatens all mortals' very existence. When he discovers the Nine-tailed Fox's life linked to the soul of an innocent girl, he is faced with a challenging decision: follow the will of heaven or find his own path to righteousness.",
+            "poster_path": "/eDq4dGgNHxPbT3Y5S6mfymsQ0rQ.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                12
+            ],
+            "popularity": 2.5595,
+            "release_date": "2020-10-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.296,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tsvZt8oObijb4d3nzOUJiHbfWLT.jpg",
+            "id": 47759,
+            "title": "The Monkey King: Uproar in Heaven",
+            "original_title": "大闹天宫",
+            "overview": "Sun Wukong, the King of the Monkeys, sets off on his first adventure to gain a worthy weapon. This earns the attention of the Jade Emperor of Heaven.",
+            "poster_path": "/vBHI9QjQyCyJP7EtqoGweahTU8S.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                12,
+                14,
+                28
+            ],
+            "popularity": 5.5729,
+            "release_date": "1961-07-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.763,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
+            "id": 832502,
+            "title": "The Monkey King",
+            "original_title": "The Monkey King",
+            "overview": "A stick-wielding monkey teams with a young girl on an epic quest for immortality, battling demons, dragons, gods — and his own ego — along the way.",
+            "poster_path": "/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                14,
+                12,
+                10751,
+                35
+            ],
+            "popularity": 5.5279,
+            "release_date": "2023-07-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 354
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j4zVW7xqw3OdhjcqEyKgtDpiKJf.jpg",
+            "id": 84092,
+            "title": "Ramayana : The Legend of Prince Rama",
+            "original_title": "Ramayana : The Legend of Prince Rama",
+            "overview": "In Ayodhya, the royal palace of Kosala Kingdom in Ancient India, four princes were born to three queens, each of whom grew to great stature. Banished for 14 years due to court intrigue, Prince Rama retreated to the forest with his beautiful wife Sita. When Rama vanquishes the demons of the forest, he invites the wrath of the demon king Ravana, who kidnaps Sita. Based on the Indian epic the Ramayana.",
+            "poster_path": "/jnwUw88Zq5tS0BFNvDwhISQ7p8Y.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14
+            ],
+            "popularity": 4.8659,
+            "release_date": "1993-01-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.193,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7lOOcrQuOjufY3snDsvRz79i199.jpg",
+            "id": 134575,
+            "title": "Secrets of the Heavenly Book",
+            "original_title": "天书奇谭",
+            "overview": "Yuangong, the deacon, opened the shrine and exposed the holy book to the human world. He is now punished to guard the book for life by the jade emperor for breaking heaven’s law. In order to pass this holy book to human beings, he would have to get by the antagonist fox.",
+            "poster_path": "/u4zkRCguNF9N0WdfBEZ9aQwlhsv.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                14,
+                12
+            ],
+            "popularity": 2.1919,
+            "release_date": "1983-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/60Y6NXOXiqPHACYhMoW5Fo4eCO5.jpg",
+            "id": 170657,
+            "title": "Journey to the West: Conquering the Demons",
+            "original_title": "西游·降魔篇",
+            "overview": "In a world plagued by demons who cause great human suffering, young demon hunter Tang Sanzang must fight against monstrous demons, as well as contend with a beautiful demon hunting woman on his path to enlightenment.",
+            "poster_path": "/XcFMQQfx1gMlh1RyEednP6frNC.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                28,
+                14,
+                12,
+                35
+            ],
+            "popularity": 5.702,
+            "release_date": "2013-02-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.948,
+            "vote_count": 455
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/71egHDJ8bl2K0t6oIJ9mGA7Xdhl.jpg",
+            "id": 667717,
+            "title": "Deep Sea",
+            "original_title": "深海",
+            "overview": "Shenxiu has felt a deep sadness since her mother left. A storm plunges her into a dreamlike world of swirling colour. Led by the Hyjinx, and joined by inventive underwater chef Nanhe, she embarks on a quest to find solace in the Eye of the Deep Sea.",
+            "poster_path": "/znSKKjTpwnFmlieJtnlLoI6McKK.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                16,
+                12,
+                18,
+                14,
+                9648
+            ],
+            "popularity": 3.4135,
+            "release_date": "2023-01-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.016,
+            "vote_count": 154
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gcY97HjmSgHnYVx6ruvQuFuB0Yc.jpg",
+            "id": 17808,
+            "title": "Painted Skin",
+            "original_title": "画皮",
+            "overview": "Painted Skin is based on one of Pu Songling's classic short stories in Strange Stories from a Chinese Studio. Zhou Xun stars as Xiao Wei, a fox spirit that feasts on human hearts in order to maintain her lovely, youthful appearance. When General Wang Sheng (Chen Kun) 'rescues' her from a band of bandits and brings her home, trouble brews as the demon falls in love with the general.",
+            "poster_path": "/5F7FS2brRyRp2lSLEsuvuRBSsrt.jpg",
+            "media_type": "movie",
+            "original_language": "zh",
+            "genre_ids": [
+                14,
+                28,
+                18
+            ],
+            "popularity": 2.1709,
+            "release_date": "2008-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg",
+            "id": 527774,
+            "title": "Raya and the Last Dragon",
+            "original_title": "Raya and the Last Dragon",
+            "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+            "poster_path": "/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14,
+                10751
+            ],
+            "popularity": 16.0936,
+            "release_date": "2021-03-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.796,
+            "vote_count": 7368
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg",
+            "id": 550205,
+            "title": "Wish Dragon",
+            "original_title": "Wish Dragon",
+            "overview": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
+            "poster_path": "/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                14,
+                10749,
+                12
+            ],
+            "popularity": 11.8978,
+            "release_date": "2021-01-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.84,
+            "vote_count": 1531
+        }
+    ]
+}

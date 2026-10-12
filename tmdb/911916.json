@@ -1,0 +1,1403 @@
+{
+    "movie": {
+        "adult": false,
+        "backdrop_path": "/7tT2w75p69nll5PvALpWFCYx5dU.jpg",
+        "belongs_to_collection": {
+            "id": 573436,
+            "name": "Spider-Man: Spider-Verse Collection",
+            "poster_path": "/eD4bGQNfmqExIAzKdvX5gDHhI2.jpg",
+            "backdrop_path": "/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg"
+        },
+        "budget": 125000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "homepage": "https://www.sonypicturesanimation.com/projects/films/spider-man-beyond-spider-verse",
+        "id": 911916,
+        "imdb_id": "tt16360004",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Spider-Man: Beyond the Spider-Verse",
+        "overview": "Hunted by Miguel O'Hara's Spider Society and betrayed by his friends, Miles finds himself in the darkest corners of the Spider-Verse in search of a way home. Knowing that his family has been not only fractured but endangered by his calling, it's a race against the clock for Miles to travel across the wildest reaches of time and space to fight for and reunite everything he holds most dear.",
+        "popularity": 13.1901,
+        "poster_path": "/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg",
+        "production_companies": [
+            {
+                "id": 5,
+                "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                "name": "Columbia Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 2251,
+                "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+                "name": "Sony Pictures Animation",
+                "origin_country": "US"
+            },
+            {
+                "id": 77973,
+                "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+                "name": "Lord Miller",
+                "origin_country": "US"
+            },
+            {
+                "id": 84041,
+                "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+                "name": "Pascal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 14439,
+                "logo_path": null,
+                "name": "Arad Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 7505,
+                "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+                "name": "Marvel Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2027-06-17",
+        "revenue": 0,
+        "runtime": 0,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "In Production",
+        "tagline": "",
+        "title": "Spider-Man: Beyond the Spider-Verse",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "cast": [
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 587506,
+            "known_for_department": "Acting",
+            "name": "Shameik Moore",
+            "original_name": "Shameik Moore",
+            "popularity": 2.8877,
+            "profile_path": "/ovUKfVOwJ7CadEHaG3NDsfA5xRq.jpg",
+            "cast_id": 11,
+            "character": "Miles Morales (voice)",
+            "credit_id": "61ac141c326c19008aba62f3",
+            "order": 0
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 130640,
+            "known_for_department": "Acting",
+            "name": "Hailee Steinfeld",
+            "original_name": "Hailee Steinfeld",
+            "popularity": 5.9522,
+            "profile_path": "/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg",
+            "cast_id": 15,
+            "character": "Gwen Stacy (voice)",
+            "credit_id": "6479f566e323f300c4295a5d",
+            "order": 1
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 226366,
+            "known_for_department": "Acting",
+            "name": "Brian Tyree Henry",
+            "original_name": "Brian Tyree Henry",
+            "popularity": 1.7131,
+            "profile_path": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg",
+            "cast_id": 26,
+            "character": "Jefferson Morales (voice)",
+            "credit_id": "647adf2017497300de662341",
+            "order": 2
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 141610,
+            "known_for_department": "Acting",
+            "name": "Luna Lauren Vélez",
+            "original_name": "Luna Lauren Vélez",
+            "popularity": 2.5432,
+            "profile_path": "/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg",
+            "cast_id": 27,
+            "character": "Rio Morales (voice)",
+            "credit_id": "647adf6e17497300a81925b5",
+            "order": 3
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 25072,
+            "known_for_department": "Acting",
+            "name": "Oscar Isaac",
+            "original_name": "Oscar Isaac",
+            "popularity": 6.2154,
+            "profile_path": "/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg",
+            "cast_id": 16,
+            "character": "Miguel O'Hara (voice)",
+            "credit_id": "6479f5950e29a200a65fb342",
+            "order": 4
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 543505,
+            "known_for_department": "Acting",
+            "name": "Jake Johnson",
+            "original_name": "Jake Johnson",
+            "popularity": 3.7753,
+            "profile_path": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg",
+            "cast_id": 17,
+            "character": "Peter B. Parker (voice)",
+            "credit_id": "6479f5de93828e00f9d6a032",
+            "order": 5
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 17881,
+            "known_for_department": "Acting",
+            "name": "Jason Schwartzman",
+            "original_name": "Jason Schwartzman",
+            "popularity": 4.13,
+            "profile_path": "/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg",
+            "cast_id": 20,
+            "character": "Spot (voice)",
+            "credit_id": "647a2f38cf4b8b00c3d1a43c",
+            "order": 6
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1455336,
+            "known_for_department": "Acting",
+            "name": "Issa Rae",
+            "original_name": "Issa Rae",
+            "popularity": 1.92,
+            "profile_path": "/uFjimuDgBv8kckApr19t8DykxPH.jpg",
+            "cast_id": 18,
+            "character": "Jessica Drew (voice)",
+            "credit_id": "6479f618cf4b8b0122754e0a",
+            "order": 7
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 206919,
+            "known_for_department": "Acting",
+            "name": "Daniel Kaluuya",
+            "original_name": "Daniel Kaluuya",
+            "popularity": 3.8296,
+            "profile_path": "/jj2kZqJobjom36wlhlYhc38nTwN.jpg",
+            "cast_id": 19,
+            "character": "Hobie Brown (voice)",
+            "credit_id": "6479f653cf4b8b01031dae59",
+            "order": 8
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2963,
+            "known_for_department": "Acting",
+            "name": "Nicolas Cage",
+            "original_name": "Nicolas Cage",
+            "popularity": 10.2557,
+            "profile_path": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
+            "cast_id": 21,
+            "character": "Spider-Man Noir (voice)",
+            "credit_id": "647a831ee323f300c429885d",
+            "order": 9
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 933558,
+            "known_for_department": "Acting",
+            "name": "John Mulaney",
+            "original_name": "John Mulaney",
+            "popularity": 1.9708,
+            "profile_path": "/i3dGv3WoIONVLSlOpW4NIaT8Fs2.jpg",
+            "cast_id": 22,
+            "character": "Spider-Ham (voice)",
+            "credit_id": "647a838b0e29a200dcba75cb",
+            "order": 10
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1109702,
+            "known_for_department": "Acting",
+            "name": "Karan Soni",
+            "original_name": "Karan Soni",
+            "popularity": 2.2831,
+            "profile_path": "/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg",
+            "cast_id": 62,
+            "character": "Pavitr Prabhakar (voice)",
+            "credit_id": "697a02a793249c84d9ef3b2b",
+            "order": 11
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1443708,
+            "known_for_department": "Acting",
+            "name": "Kimiko Glenn",
+            "original_name": "Kimiko Glenn",
+            "popularity": 1.9294,
+            "profile_path": "/6QnVIyHKbzx0ZsUr3BmIwnZxujL.jpg",
+            "cast_id": 23,
+            "character": "Peni Parker (voice)",
+            "credit_id": "647a83d0cf4b8b00e2d54c9e",
+            "order": 12
+        },
+        {
+            "adult": false,
+            "gender": 3,
+            "id": 561869,
+            "known_for_department": "Acting",
+            "name": "Amandla Stenberg",
+            "original_name": "Amandla Stenberg",
+            "popularity": 2.9612,
+            "profile_path": "/1Kv2sVVUkNSXyvmma8RBAX0CNGA.jpg",
+            "cast_id": 24,
+            "character": "Margo Kess (voice)",
+            "credit_id": "647a846593828e00f9d6ce40",
+            "order": 13
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 932967,
+            "known_for_department": "Acting",
+            "name": "Mahershala Ali",
+            "original_name": "Mahershala Ali",
+            "popularity": 4.6629,
+            "profile_path": "/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg",
+            "cast_id": 28,
+            "character": "Uncle Aaron (voice)",
+            "credit_id": "647adfaa93828e011624360a",
+            "order": 14
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1664716,
+            "known_for_department": "Acting",
+            "name": "Jharrel Jerome",
+            "original_name": "Jharrel Jerome",
+            "popularity": 1.4869,
+            "profile_path": "/zH840Fv86TixTLVZKzPZJJacphd.jpg",
+            "cast_id": 29,
+            "character": "Miles G. Morales (voice)",
+            "credit_id": "647b6dafcaef2d00fce5a2b6",
+            "order": 15
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1260481,
+            "known_for_department": "Acting",
+            "name": "Greta Lee",
+            "original_name": "Greta Lee",
+            "popularity": 4.0768,
+            "profile_path": "/6SydTis4XUcovlwIGskT59JowLX.jpg",
+            "cast_id": 34,
+            "character": "LYLA (voice)",
+            "credit_id": "65837a42992fe63dfa728027",
+            "order": 16
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 62861,
+            "known_for_department": "Acting",
+            "name": "Andy Samberg",
+            "original_name": "Andy Samberg",
+            "popularity": 4.7788,
+            "profile_path": "/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg",
+            "cast_id": 35,
+            "character": "Ben Reilly (voice)",
+            "credit_id": "6584cf5f111da118e1710420",
+            "order": 17
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 74242,
+            "known_for_department": "Acting",
+            "name": "Shea Whigham",
+            "original_name": "Shea Whigham",
+            "popularity": 3.8495,
+            "profile_path": "/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg",
+            "cast_id": 36,
+            "character": "George Stacy (voice)",
+            "credit_id": "6584cf7771f0951a0523b32f",
+            "order": 18
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1962692,
+            "known_for_department": "Acting",
+            "name": "Marvin Jones III",
+            "original_name": "Marvin Jones III",
+            "popularity": 2.8547,
+            "profile_path": "/nS4X8TP3idFsxDdV9UqTRbz585g.jpg",
+            "cast_id": 61,
+            "character": "Tombstone (voice)",
+            "credit_id": "68d2ed9a63370bc3d1ac8ddc",
+            "order": 19
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 23626,
+            "known_for_department": "Acting",
+            "name": "Liev Schreiber",
+            "original_name": "Liev Schreiber",
+            "popularity": 4.3505,
+            "profile_path": "/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg",
+            "cast_id": 71,
+            "character": "Wilson Fisk (voice)",
+            "credit_id": "69ddb212ef7501e5271da71d",
+            "order": 20
+        }
+    ],
+    "crew": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1425616,
+            "known_for_department": "Production",
+            "name": "Amy Pascal",
+            "original_name": "Amy Pascal",
+            "popularity": 2.3508,
+            "profile_path": "/texxoBV4naFHyuSii6jyxlfuEvK.jpg",
+            "credit_id": "61ac12d2c072a2001d175861",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 7626,
+            "known_for_department": "Production",
+            "name": "Avi Arad",
+            "original_name": "Avi Arad",
+            "popularity": 1.5679,
+            "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg",
+            "credit_id": "61ac12dd38e510004131805f",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 155267,
+            "known_for_department": "Production",
+            "name": "Christopher Miller",
+            "original_name": "Christopher Miller",
+            "popularity": 1.981,
+            "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg",
+            "credit_id": "61ac12f4aa659e001cb27393",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 107446,
+            "known_for_department": "Production",
+            "name": "Phil Lord",
+            "original_name": "Phil Lord",
+            "popularity": 2.6437,
+            "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg",
+            "credit_id": "61ac12fe596a91004338b07b",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 582922,
+            "known_for_department": "Sound",
+            "name": "Daniel Pemberton",
+            "original_name": "Daniel Pemberton",
+            "popularity": 1.6859,
+            "profile_path": "/dPcjpSoCg1nraqCUD4tvRK3QtHQ.jpg",
+            "credit_id": "647ce1c626346200dc429f14",
+            "department": "Sound",
+            "job": "Original Music Composer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 155267,
+            "known_for_department": "Production",
+            "name": "Christopher Miller",
+            "original_name": "Christopher Miller",
+            "popularity": 1.981,
+            "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg",
+            "credit_id": "647bd10593828e0116249001",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 57264,
+            "known_for_department": "Writing",
+            "name": "David Callaham",
+            "original_name": "David Callaham",
+            "popularity": 1.2903,
+            "profile_path": "/mbppbv25p2o2W6FAtPbFNSUeGLj.jpg",
+            "credit_id": "647bd108e323f30106153e6c",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 107446,
+            "known_for_department": "Production",
+            "name": "Phil Lord",
+            "original_name": "Phil Lord",
+            "popularity": 2.6437,
+            "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg",
+            "credit_id": "647bd10de323f300a7d5c47a",
+            "department": "Writing",
+            "job": "Writer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 936670,
+            "known_for_department": "Directing",
+            "name": "Bob Persichetti",
+            "original_name": "Bob Persichetti",
+            "popularity": 0.9559,
+            "profile_path": "/jmpNVUvvhJB2X2eOSKpveFnetM8.jpg",
+            "credit_id": "6761af5f5c7a1edb1bb512b4",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1046497,
+            "known_for_department": "Directing",
+            "name": "Justin K. Thompson",
+            "original_name": "Justin K. Thompson",
+            "popularity": 0.8733,
+            "profile_path": "/mRMi8Q2fmlfbDYkE7A63gzFtGsZ.jpg",
+            "credit_id": "6761af6c44476b5b60b50874",
+            "department": "Directing",
+            "job": "Director"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 76590,
+            "known_for_department": "Production",
+            "name": "Jinko Gotoh",
+            "original_name": "Jinko Gotoh",
+            "popularity": 0.4424,
+            "profile_path": "/pSaO0uaxz0Ow8DJ2vBfdBATL7Jz.jpg",
+            "credit_id": "6761afb7c29ba495edcbe580",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1320090,
+            "known_for_department": "Production",
+            "name": "Aditya Sood",
+            "original_name": "Aditya Sood",
+            "popularity": 0.9066,
+            "profile_path": "/kPumbiCdRWWkmLG5yROqd2plfBK.jpg",
+            "credit_id": "6761afccc29ba495edcbe597",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 35666,
+            "known_for_department": "Production",
+            "name": "Christina Steinberg",
+            "original_name": "Christina Steinberg",
+            "popularity": 0.7217,
+            "profile_path": "/5o9DnKyNJVVi8TkKDvLmk65JGxQ.jpg",
+            "credit_id": "6761afd5328322fcf318a798",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1645479,
+            "known_for_department": "Production",
+            "name": "Jessica Berri",
+            "original_name": "Jessica Berri",
+            "popularity": 0.3071,
+            "profile_path": null,
+            "credit_id": "6761afe544476b5b60b508c2",
+            "department": "Production",
+            "job": "Co-Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2013845,
+            "known_for_department": "Visual Effects",
+            "name": "Michael Lasker",
+            "original_name": "Michael Lasker",
+            "popularity": 0.3973,
+            "profile_path": "/4aGkIMP0EQljzqATYli7wYkyRzi.jpg",
+            "credit_id": "67eb5487b0a9ac74158be5ac",
+            "department": "Visual Effects",
+            "job": "Visual Effects Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 3730367,
+            "known_for_department": "Art",
+            "name": "Samantha Suyi Lee",
+            "original_name": "Samantha Suyi Lee",
+            "popularity": 0.1481,
+            "profile_path": null,
+            "credit_id": "67ebacd558e0aa2338fb06fc",
+            "department": "Writing",
+            "job": "Story Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2196774,
+            "known_for_department": "Art",
+            "name": "Patrick O'Keefe",
+            "original_name": "Patrick O'Keefe",
+            "popularity": 0.4378,
+            "profile_path": "/xxJuqiJkLmEAyYBalWh8Ihj0mox.jpg",
+            "credit_id": "67ee6548cf06190cbae19ff3",
+            "department": "Art",
+            "job": "Production Design"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 1355897,
+            "known_for_department": "Lighting",
+            "name": "Kaitlyn Fox",
+            "original_name": "Kaitlyn Fox",
+            "popularity": 0.2012,
+            "profile_path": null,
+            "credit_id": "67ee663b15f6ba86f1e19073",
+            "department": "Lighting",
+            "job": "Lighting Artist"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 3551548,
+            "known_for_department": "Visual Effects",
+            "name": "Jesús Alonso Iglesias",
+            "original_name": "Jesús Alonso Iglesias",
+            "popularity": 0.3908,
+            "profile_path": null,
+            "credit_id": "67ee6814b5b1c5a4c3a7c002",
+            "department": "Visual Effects",
+            "job": "Character Designer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2199361,
+            "known_for_department": "Writing",
+            "name": "Vi-Dieu Nguyen",
+            "original_name": "Vi-Dieu Nguyen",
+            "popularity": 0.3991,
+            "profile_path": null,
+            "credit_id": "67ee68cccf06190cbae1a17f",
+            "department": "Writing",
+            "job": "Head of Story"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1232444,
+            "known_for_department": "Writing",
+            "name": "Erik Wiese",
+            "original_name": "Erik Wiese",
+            "popularity": 0.8907,
+            "profile_path": "/kC3E566RRfVFdrnA0pJHU16QRFJ.jpg",
+            "credit_id": "67ee69141d1ccf5f4f62a30e",
+            "department": "Art",
+            "job": "Storyboard Artist"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 1001924,
+            "known_for_department": "Camera",
+            "name": "Alice Brooks",
+            "original_name": "Alice Brooks",
+            "popularity": 0.5767,
+            "profile_path": "/fLsJb9Jca4poIQ4NR2Xzz7gMFgT.jpg",
+            "credit_id": "67fd644761b1c4bb32994404",
+            "department": "Camera",
+            "job": "Director of Photography"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1546437,
+            "known_for_department": "Editing",
+            "name": "Michael Andrews",
+            "original_name": "Michael Andrews",
+            "popularity": 0.5601,
+            "profile_path": "/rNwczFYfFlljjAnoAZjZQsRwNwi.jpg",
+            "credit_id": "67fd64c4c1e0a708cbad3b20",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1562034,
+            "known_for_department": "Crew",
+            "name": "Abo Biglarpour",
+            "original_name": "Abo Biglarpour",
+            "popularity": 0.2757,
+            "profile_path": "/nsjttFWGPoI7xnuhkTqxV3HE4hi.jpg",
+            "credit_id": "697f671b34340bf6a797446e",
+            "department": "Crew",
+            "job": "Software Engineer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5977308,
+            "known_for_department": "Crew",
+            "name": "Alejandro Ozai",
+            "original_name": "Alejandro Ozai",
+            "popularity": 0.5744,
+            "profile_path": "/hU6vGlCPE2Zkznjho5yCVLKsgiU.jpg",
+            "credit_id": "697f675e650a32eec76f740d",
+            "department": "Crew",
+            "job": "Software Engineer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 5977341,
+            "known_for_department": "Crew",
+            "name": "Ritik Keswani",
+            "original_name": "Ritik Keswani",
+            "popularity": 0.7693,
+            "profile_path": "/hU6vGlCPE2Zkznjho5yCVLKsgiU.jpg",
+            "credit_id": "697f6a0f20858d1ed070e9b1",
+            "department": "Crew",
+            "job": "Software Engineer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1261455,
+            "known_for_department": "Directing",
+            "name": "Pierre Perifel",
+            "original_name": "Pierre Perifel",
+            "popularity": 0.7928,
+            "profile_path": "/wNKzhbKZxbO7ODIP9TW6x7T4M1k.jpg",
+            "credit_id": "698048efd4336c055db98b3c",
+            "department": "Crew",
+            "job": "Supervising Animator"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2912489,
+            "known_for_department": "Visual Effects",
+            "name": "Benjamin Hendricks",
+            "original_name": "Benjamin Hendricks",
+            "popularity": 0.4534,
+            "profile_path": null,
+            "credit_id": "6990eb2026984a5163123daf",
+            "department": "Visual Effects",
+            "job": "Visual Effects Supervisor"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 1382000,
+            "known_for_department": "Writing",
+            "name": "Brian Michael Bendis",
+            "original_name": "Brian Michael Bendis",
+            "popularity": 0.8372,
+            "profile_path": "/hPafqzHFJ69Pc1rGq7oXGylcfUV.jpg",
+            "credit_id": "6993705f4de3a7f624fa3866",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 2358524,
+            "known_for_department": "Editing",
+            "name": "Sarah D. Cole",
+            "original_name": "Sarah D. Cole",
+            "popularity": 0.363,
+            "profile_path": "/42KIaxHZ7nMZIoyuft05SUR3yhW.jpg",
+            "credit_id": "699370943fbae15df32af760",
+            "department": "Editing",
+            "job": "Editor"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6014201,
+            "known_for_department": "Visual Effects",
+            "name": "Kade Byrand",
+            "original_name": "Kade Byrand",
+            "popularity": 0.1329,
+            "profile_path": null,
+            "credit_id": "6994ea4b4c1a324d621250bf",
+            "department": "Visual Effects",
+            "job": "Visual Development"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 151007,
+            "known_for_department": "Art",
+            "name": "Peter Ramsey",
+            "original_name": "Peter Ramsey",
+            "popularity": 0.9402,
+            "profile_path": "/eAL9QdCEYyxiMP9cl9lQddg8zEa.jpg",
+            "credit_id": "6a2b58a4cab54f005adbd552",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 59918,
+            "known_for_department": "Writing",
+            "name": "Rodney Rothman",
+            "original_name": "Rodney Rothman",
+            "popularity": 0.9978,
+            "profile_path": "/rkeMVdINeqVPFQCl4Jruntqm5SQ.jpg",
+            "credit_id": "6a2b58b13f4892e50d222da7",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 6280074,
+            "known_for_department": "Production",
+            "name": "Adam Rosenberg",
+            "original_name": "Adam Rosenberg",
+            "popularity": 0.1705,
+            "profile_path": null,
+            "credit_id": "6a2b58c5bd9c742d41e5cd9c",
+            "department": "Production",
+            "job": "Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 89596,
+            "known_for_department": "Directing",
+            "name": "Joaquim Dos Santos",
+            "original_name": "Joaquim Dos Santos",
+            "popularity": 0.738,
+            "profile_path": "/w45GPb3cW6TqPw4FxB5Hc6zzAwx.jpg",
+            "credit_id": "6a3ac3c4402d136065845b4f",
+            "department": "Production",
+            "job": "Executive Producer"
+        },
+        {
+            "adult": false,
+            "gender": 2,
+            "id": 2451598,
+            "known_for_department": "Directing",
+            "name": "Kemp Powers",
+            "original_name": "Kemp Powers",
+            "popularity": 0.7803,
+            "profile_path": "/oE4TcENMQw25t4UTAjrnl0m4JyH.jpg",
+            "credit_id": "6a3ac3d1f4147b130cec12aa",
+            "department": "Production",
+            "job": "Executive Producer"
+        }
+    ],
+    "keywords": [
+        {
+            "id": 242,
+            "name": "new york city"
+        },
+        {
+            "id": 1701,
+            "name": "hero"
+        },
+        {
+            "id": 9715,
+            "name": "superhero"
+        },
+        {
+            "id": 3289,
+            "name": "villain"
+        },
+        {
+            "id": 7939,
+            "name": "portal"
+        },
+        {
+            "id": 9717,
+            "name": "based on comic"
+        },
+        {
+            "id": 9663,
+            "name": "sequel"
+        },
+        {
+            "id": 18035,
+            "name": "family"
+        },
+        {
+            "id": 41523,
+            "name": "brooklyn, new york city"
+        },
+        {
+            "id": 155030,
+            "name": "superhero team"
+        },
+        {
+            "id": 163074,
+            "name": "super villain"
+        },
+        {
+            "id": 188237,
+            "name": "teenage romance"
+        },
+        {
+            "id": 205734,
+            "name": "family dynamics"
+        },
+        {
+            "id": 245157,
+            "name": "alternate universe"
+        },
+        {
+            "id": 272493,
+            "name": "female superhero"
+        },
+        {
+            "id": 287046,
+            "name": "afro-latino"
+        },
+        {
+            "id": 299365,
+            "name": "interdimensional travel"
+        },
+        {
+            "id": 336874,
+            "name": "multiverse"
+        }
+    ],
+    "recommendations": [
+        {
+            "adult": false,
+            "backdrop_path": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+            "id": 569094,
+            "title": "Spider-Man: Across the Spider-Verse",
+            "original_title": "Spider-Man: Across the Spider-Verse",
+            "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+            "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                878
+            ],
+            "popularity": 70.2125,
+            "release_date": "2023-05-31",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.34,
+            "vote_count": 8924
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aKEINUeg3y324PxOwZfwM0uWmk7.jpg",
+            "id": 225925,
+            "title": "Spider-Man Strikes Back",
+            "original_title": "Spider-Man Strikes Back",
+            "overview": "At the New York State University, one of Peter Parker's tutors has accidentally given three students all the materials they need to create an atomic bomb. While Peter Parker tries to find out what's happened, the police suspect him of the crime, and Peter has to deal with an attractive journalist determined to get an interview with Spider-Man. Then dastardly millionaire Mr. White shows up, and will stop at nothing to get his hands on the atomic bomb. Spider-Man must defeat this scheming villain and stop him blowing up the World Trade Centre.",
+            "poster_path": "/mwRss4cA5m4fH6izoTwwPfF3ZOU.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                10751,
+                10770,
+                878
+            ],
+            "popularity": 2.0966,
+            "release_date": "1978-12-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.82,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+            "id": 558,
+            "title": "Spider-Man 2",
+            "original_title": "Spider-Man 2",
+            "overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
+            "poster_path": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 39.4777,
+            "release_date": "2004-06-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.321,
+            "vote_count": 16634
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+            "id": 324857,
+            "title": "Spider-Man: Into the Spider-Verse",
+            "original_title": "Spider-Man: Into the Spider-Verse",
+            "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+            "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                878
+            ],
+            "popularity": 72.6553,
+            "release_date": "2018-12-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.393,
+            "vote_count": 17554
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yHGLk14roU8EQTytIwj8u5c6OvI.jpg",
+            "id": 913205,
+            "title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
+            "original_title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
+            "overview": "With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth's Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!",
+            "poster_path": "/sCOt6rm6bcppXeYIHalAXJGIZZE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                35
+            ],
+            "popularity": 3.0636,
+            "release_date": "2022-05-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.92,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rVJfabCz1ViynQCEz54MRqdZig1.jpg",
+            "id": 1155089,
+            "title": "Justice League: Crisis on Infinite Earths Part One",
+            "original_title": "Justice League: Crisis on Infinite Earths Part One",
+            "overview": "Death is coming. Worse than death: oblivion. Not just for our Earth, but for everyone, everywhere, in every universe! Against this ultimate destruction, the mysterious Monitor has gathered the greatest team of Super Heroes ever assembled. But what can the combined might of Superman, Wonder Woman, Batman, The Flash, Green Lantern and hundreds of Super Heroes from multiple Earths even do to save all of reality from an unstoppable antimatter armageddon?!",
+            "poster_path": "/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                878,
+                28
+            ],
+            "popularity": 5.7951,
+            "release_date": "2024-01-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.258,
+            "vote_count": 416
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iHGukqqDLWSPE6HeJF4fob6r1D7.jpg",
+            "id": 556901,
+            "title": "Teen Titans Go! vs. Teen Titans",
+            "original_title": "Teen Titans Go! vs. Teen Titans",
+            "overview": "The comedic modern-day quintet takes on their 2003 counterparts when villains from each of their worlds join forces to pit the two Titan teams against each other. They'll need to set aside their differences and work together to combat Trigon, Hexagon, Santa Claus (that's right, Santa!) and time itself in order to save the multiverse.",
+            "poster_path": "/GWJEdzVC9aOBSOMF9NHodYxSsE.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                16,
+                35,
+                10751,
+                14,
+                878
+            ],
+            "popularity": 4.5992,
+            "release_date": "2019-07-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.524,
+            "vote_count": 524
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9AciCs5rFHvFbCIqThfq281sUOw.jpg",
+            "id": 242643,
+            "title": "Batman: Assault on Arkham",
+            "original_title": "Batman: Assault on Arkham",
+            "overview": "Batman works desperately to find a bomb planted by the Joker while Amanda Waller sends her newly-formed Suicide Squad to break into Arkham Asylum and recover vital information stolen by the Riddler.",
+            "poster_path": "/b9KxvIAZkl2f57kjObj8Z9z9LhL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                16,
+                28,
+                80
+            ],
+            "popularity": 5.1946,
+            "release_date": "2014-08-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.324,
+            "vote_count": 1199
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8VGaEXbTOGeWGW7IvzOf1j2rjet.jpg",
+            "id": 1497,
+            "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+            "original_title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+            "overview": "The Turtles and the Shredder battle once again, this time for the last cannister of the ooze that created the Turtles, which Shredder wants to create an army of new mutants. Meanwhile Splinter is coming... to a decision.",
+            "poster_path": "/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12,
+                28,
+                35,
+                10751
+            ],
+            "popularity": 5.5397,
+            "release_date": "1991-03-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.226,
+            "vote_count": 1266
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8EKxPfuEMg1qP0E1r1ZAk56J7MP.jpg",
+            "id": 76589,
+            "title": "Justice League: Doom",
+            "original_title": "Justice League: Doom",
+            "overview": "An adaptation of Mark Waid's \"Tower of Babel\" story from the JLA comic. Vandal Savage steals confidential files Batman has compiled on the members of the Justice League, and learns all their weaknesses.",
+            "poster_path": "/seCbcjdZYUl8SRKjeWfyi2ngzFj.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                16,
+                878,
+                14
+            ],
+            "popularity": 3.6103,
+            "release_date": "2012-02-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.417,
+            "vote_count": 944
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ltuyGrcLSIQwdbmSsa2N7Yj09Sp.jpg",
+            "id": 1209288,
+            "title": "Justice League: Crisis on Infinite Earths Part Two",
+            "original_title": "Justice League: Crisis on Infinite Earths Part Two",
+            "overview": "An endless army of shadow demons bent on the destruction of all reality swarms over our world and all parallel Earths! The only thing opposing them is the mightiest team of metahumans ever assembled. But not even the combined power of Superman, Batman, Wonder Woman, Green Lantern and all their fellow superheroes can slow down the onslaught of this invincible horde. What mysterious force is driving them? And how do the long-buried secrets of the Monitor and Supergirl threaten to crush our last defense?",
+            "poster_path": "/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                878,
+                28
+            ],
+            "popularity": 5.3603,
+            "release_date": "2024-04-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.74,
+            "vote_count": 292
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6V6rhHkqYvJGlxIQ9mvZuIoY6c9.jpg",
+            "id": 14613,
+            "title": "Next Avengers: Heroes of Tomorrow",
+            "original_title": "Next Avengers: Heroes of Tomorrow",
+            "overview": "The children of the Avengers hone their powers and go head to head with the very enemy responsible for their parents' demise.",
+            "poster_path": "/1y4J9HZJoTIMdt77wCq80uXaQJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                28,
+                12,
+                878
+            ],
+            "popularity": 3.4236,
+            "release_date": "2008-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.045,
+            "vote_count": 312
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+            "id": 102382,
+            "title": "The Amazing Spider-Man 2",
+            "original_title": "The Amazing Spider-Man 2",
+            "overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
+            "poster_path": "/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 97.3268,
+            "release_date": "2014-04-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 14490
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+            "id": 634649,
+            "title": "Spider-Man: No Way Home",
+            "original_title": "Spider-Man: No Way Home",
+            "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 569.232,
+            "release_date": "2021-12-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.937,
+            "vote_count": 22514
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oFSQEG1lJTTISj3QKB7cJ9ANkFw.jpg",
+            "id": 1154598,
+            "title": "LEGO Marvel Avengers: Code Red",
+            "original_title": "LEGO Marvel Avengers: Code Red",
+            "overview": "The Avengers gather to celebrate their latest victory, but their celebration is quickly interrupted by the mysterious disappearance of Black Widow's father, Red Guardian. As the Avengers investigate, they discover that Red Guardian isn't the only one missing when they meet a dangerous new foe quite unlike anything they've ever encountered before.",
+            "poster_path": "/rDzig50dj7VpLwJ7SThbamETK1G.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                10751
+            ],
+            "popularity": 3.541,
+            "release_date": "2023-10-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cOkgL3jfyHtU5Lfuo4pelYNgfO6.jpg",
+            "id": 926670,
+            "title": "Henry Danger: The Movie",
+            "original_title": "Henry Danger: The Movie",
+            "overview": "Henry Hart meets a superfan—eager to fight crime with Kid Danger—who comes into possession of a device that can open up alternate realities. Facing a wild ride, Henry will need his best friend Jasper and his new superfan sidekick to find his way out or be stuck in another dimension forever.",
+            "poster_path": "/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                10751,
+                878
+            ],
+            "popularity": 10.9672,
+            "release_date": "2025-01-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.62,
+            "vote_count": 267
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rWYtghaUJSDvQm4jmXiCPXBHUdQ.jpg",
+            "id": 324849,
+            "title": "The Lego Batman Movie",
+            "original_title": "The Lego Batman Movie",
+            "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+            "poster_path": "/e1TliRWOdXQ73pRunbpFiGst6Kd.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                28,
+                35,
+                10751
+            ],
+            "popularity": 11.5677,
+            "release_date": "2017-02-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 5501
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg",
+            "id": 791155,
+            "title": "Secret Headquarters",
+            "original_title": "Secret Headquarters",
+            "overview": "While hanging out after school, Charlie and his friends discover the headquarters of the world’s most powerful superhero hidden beneath his home. When villains attack, they must team up to defend the headquarters and save the world.",
+            "poster_path": "/v6mvk0YC4o0PUdq82IbNRjIEEv3.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                878,
+                10751
+            ],
+            "popularity": 8.076,
+            "release_date": "2022-08-12",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.353,
+            "vote_count": 426
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dsGwCEO8tda4FlgHKvL95f0oQbH.jpg",
+            "id": 1209290,
+            "title": "Justice League: Crisis on Infinite Earths Part Three",
+            "original_title": "Justice League: Crisis on Infinite Earths Part Three",
+            "overview": "Now fully revealed as the ultimate threat to existence, the Anti-Monitor wages an unrelenting attack on the surviving Earths that struggle for survival in a pocket universe. One by one, these worlds and all their inhabitants are vaporized! On the planets that remain, even time itself is shattered, and heroes from the past join the Justice League and their rag-tag allies against the epitome of evil. But as they make their last stand, will the sacrifice of the superheroes be enough to save us all?",
+            "poster_path": "/a3q8NkM8uTh9E23VsbUOdDSbBeN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                878,
+                28
+            ],
+            "popularity": 5.2568,
+            "release_date": "2024-07-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.163,
+            "vote_count": 331
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3DuDEqDDHG7OhbDpVEIMCTLHSic.jpg",
+            "id": 19042,
+            "title": "All Dogs Go to Heaven 2",
+            "original_title": "All Dogs Go to Heaven 2",
+            "overview": "Charlie and Itchy return to Earth to find Gabriel's Horn, but along the way meet up with a young boy named David, who ran away from home.",
+            "poster_path": "/kNmIJILOW9qF2F1Z0qOXkadaS50.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                16,
+                10751,
+                12,
+                14
+            ],
+            "popularity": 3.9198,
+            "release_date": "1996-03-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.024,
+            "vote_count": 291
+        }
+    ]
+}
